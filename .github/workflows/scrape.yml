@@ -36,5 +36,5 @@ jobs:
       - name: Add, Commit, Push
         run: |
           git add --all
-          git commit "chore: scrape"
+          git commit --message "chore: scrape"
           git push
