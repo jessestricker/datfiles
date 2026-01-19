@@ -2,10 +2,16 @@
 name = "scraper"
 version = "0.0.0"
 requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "lxml>=6.0.2",
+    "pathvalidate>=3.3.1",
+    "requests>=2.32.5",
+]
 
 [dependency-groups]
 dev = ["ruff>=0.14.13"]
 
 [tool.ruff.lint]
 select = ["ALL"]
-ignore = ["D", "COM812"]
+ignore = ["D", "COM812", "PGH003"]
