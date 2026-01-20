@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1507) (2026-01-18 20-00-08)</description>
-		<version>2026-01-18 20-00-08</version>
-		<date>2026-01-18 20-00-08</date>
+		<description>Sega - Dreamcast - Discs (1507) (2026-01-20 10-20-48)</description>
+		<version>2026-01-20 10-20-48</version>
+		<date>2026-01-20 10-20-48</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -14740,13 +14740,13 @@
 		<rom name="Web Browser 2.62 (USA) (Track 7).bin" size="38274096" crc="7a5dd39d" md5="dc7db27265b3196764d55bf213b107bd" sha1="055e41b790ab88573ee8b1f54b4b4e8553f66291"/>
 		<rom name="Web Browser 2.62 (USA) (Track 8).bin" size="10795680" crc="305559ef" md5="e80241d1bf6736508871cede7c8ca147" sha1="131a504604fb81f2dc0ef03b606c91b73b73d8cf"/>
 	</game>
-	<game name="Sonic Adventure (USA)">
+	<game name="Sonic Adventure (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Sonic Adventure (USA)</description>
-		<rom name="Sonic Adventure (USA).cue" size="357" crc="52ad06a9" md5="7495cceff6b9e8c98e56b758e03303b4" sha1="ab3eaee3bda0e068a99792f797fe6a2be18c2f52"/>
-		<rom name="Sonic Adventure (USA) (Track 1).bin" size="34254528" crc="f696640b" md5="fbdf8852b3e2c9ceba9c5e4ca2ab2eec" sha1="086181bf1407fea5083937eea773a102e6442baf"/>
-		<rom name="Sonic Adventure (USA) (Track 2).bin" size="2500176" crc="acfb1b45" md5="d0fafc66cb795cd679b7ac5b387160d8" sha1="0fbfde20b242982862a011ba8ed8031e2c6f24a4"/>
-		<rom name="Sonic Adventure (USA) (Track 3).bin" size="1185760800" crc="21483b0c" md5="0ed6be8974f59595b3a955e2ca91e3bb" sha1="71a8a044079505b37e173643b6cb5ad6d6942511"/>
+		<description>Sonic Adventure (USA) (En,Ja,Fr,De,Es)</description>
+		<rom name="Sonic Adventure (USA) (En,Ja,Fr,De,Es).cue" size="408" crc="b04d35b5" md5="9c468fc5f9f9299773a1a99d37f16966" sha1="305e4d9adaff6a9f591dc8641fd1b72cb0b48165"/>
+		<rom name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Track 1).bin" size="34254528" crc="f696640b" md5="fbdf8852b3e2c9ceba9c5e4ca2ab2eec" sha1="086181bf1407fea5083937eea773a102e6442baf"/>
+		<rom name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Track 2).bin" size="2500176" crc="acfb1b45" md5="d0fafc66cb795cd679b7ac5b387160d8" sha1="0fbfde20b242982862a011ba8ed8031e2c6f24a4"/>
+		<rom name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Track 3).bin" size="1185760800" crc="21483b0c" md5="0ed6be8974f59595b3a955e2ca91e3bb" sha1="71a8a044079505b37e173643b6cb5ad6d6942511"/>
 	</game>
 	<game name="Monaco Grand Prix (USA)">
 		<category>Games</category>
