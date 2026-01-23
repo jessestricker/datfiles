@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1507) (2026-01-20 10-20-48)</description>
-		<version>2026-01-20 10-20-48</version>
-		<date>2026-01-20 10-20-48</date>
+		<description>Sega - Dreamcast - Discs (1508) (2026-01-23 04-07-39)</description>
+		<version>2026-01-23 04-07-39</version>
+		<date>2026-01-23 04-07-39</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18606,5 +18606,12 @@
 		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 1).bin" size="705600" crc="60851f18" md5="7af762924158ce757c0eb6a9a09311f9" sha1="a9042bc74c4e10e0db2d8a6e72872da3813128cc"/>
 		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 3).bin" size="1185760800" crc="240b4117" md5="5f8da8e838af9b41dea8b1872d809a2c" sha1="f4077a914e66ff7ec0f53f403ea2a61b5dfbfd83"/>
+	</game>
+	<game name="Equalizer Xtreme (France) (Unl)">
+		<category>Applications</category>
+		<description>Equalizer Xtreme (France) (Unl)</description>
+		<rom name="Equalizer Xtreme (France) (Unl).cue" size="241" crc="1797aa70" md5="48cc4764938f9ee0084e5b4b7db472f0" sha1="939b615b8e88cbdbda85a158964719ec44f02f5d"/>
+		<rom name="Equalizer Xtreme (France) (Unl) (Track 1).bin" size="5729472" crc="26d8f384" md5="59f0298f427611bbdf0ee5d77a67237d" sha1="f27f6633aa3edf09f1bda5a8112ea080a9223f4a"/>
+		<rom name="Equalizer Xtreme (France) (Unl) (Track 2).bin" size="2972928" crc="12de56d7" md5="a279ec7ca52547e293957842540e32a7" sha1="9751a71934a4abb70a8ad5769542236dc6d577b7"/>
 	</game>
 </datafile>

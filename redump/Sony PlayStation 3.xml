@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4467) (2026-01-22 09-06-04)</description>
-		<version>2026-01-22 09-06-04</version>
-		<date>2026-01-22 09-06-04</date>
+		<description>Sony - PlayStation 3 - Discs (4471) (2026-01-23 17-31-09)</description>
+		<version>2026-01-23 17-31-09</version>
+		<date>2026-01-23 17-31-09</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -6450,10 +6450,10 @@
 		<description>Champion Jockey - G1 Jockey &amp; Gallop Racer (USA)</description>
 		<rom name="Champion Jockey - G1 Jockey &amp; Gallop Racer (USA).iso" size="2642280448" crc="14c47472" md5="5de066afad1c9ef521ab6f6958cbfa8a" sha1="d84dc0cebd557d5412bb94601c825d746f1d6511"/>
 	</game>
-	<game name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)">
+	<game name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
-		<rom name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
+		<description>Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
 	</game>
 	<game name="Chaotic - Shadow Warriors (USA) (En,Fr)">
 		<category>Games</category>
@@ -22356,5 +22356,25 @@
 		<category>Games</category>
 		<description>X Factor (France) (En,Fr,De,It,Nl)</description>
 		<rom name="X Factor (France) (En,Fr,De,It,Nl).iso" size="3468754944" crc="6dd969fb" md5="e4ce9697788d2f03a7d80a3327439b34" sha1="2ccc071262b1ef1a61fbade16b3146f4dc265f85"/>
+	</game>
+	<game name="SingStar Dance (Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>SingStar Dance (Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom name="SingStar Dance (Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="10388111360" crc="214f650a" md5="ba0a87455b2e0b18d105caeeabb2c7c6" sha1="a8b4c75beb8d7a7e492fbd20bf0b80da99e02ce5"/>
+	</game>
+	<game name="Jak and Daxter Collection (Korea) (En,Ko)">
+		<category>Games</category>
+		<description>Jak and Daxter Collection (Korea) (En,Ko)</description>
+		<rom name="Jak and Daxter Collection (Korea) (En,Ko).iso" size="8456110080" crc="270b3c5d" md5="c18eeb421f1e5da20b08b04985b9ae42" sha1="b49d65953ce7c6562ffe2980d92b150871a9a637"/>
+	</game>
+	<game name="Risen 3 - Titan Lords (Asia)">
+		<category>Games</category>
+		<description>Risen 3 - Titan Lords (Asia)</description>
+		<rom name="Risen 3 - Titan Lords (Asia).iso" size="4944035840" crc="51175ab6" md5="f717b55427c7a72f6a19efde041db8fa" sha1="68c15bc4ef19bdca4ab08fe8919ba1a1635825b3"/>
+	</game>
+	<game name="F1 2014 (Asia)">
+		<category>Games</category>
+		<description>F1 2014 (Asia)</description>
+		<rom name="F1 2014 (Asia).iso" size="5113643008" crc="8a93d6f0" md5="5eba44b0722a2db0a17fb52de3d3672e" sha1="682dc695405f114efb55bdb660c7f1cc80b02fa5"/>
 	</game>
 </datafile>
