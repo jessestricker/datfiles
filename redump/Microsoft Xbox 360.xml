@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3612) (2026-01-22 16-38-04)</description>
-		<version>2026-01-22 16-38-04</version>
-		<date>2026-01-22 16-38-04</date>
+		<description>Microsoft - Xbox 360 - Discs (3614) (2026-01-25 01-40-41)</description>
+		<version>2026-01-25 01-40-41</version>
+		<date>2026-01-25 01-40-41</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -5833,10 +5833,10 @@
 		<description>Gears of War (Japan) (En,Ja,De)</description>
 		<rom name="Gears of War (Japan) (En,Ja,De).iso" size="7835492352" crc="5bbb9e4b" md5="975db78f4a8d24f17e720ef877e034dd" sha1="95af092fc23ca43eccbc442613fc211deb78bef8"/>
 	</game>
-	<game name="Lost Odyssey (Japan) (Demo)">
+	<game name="Lost Odyssey (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Lost Odyssey (Japan) (Demo)</description>
-		<rom name="Lost Odyssey (Japan) (Demo).iso" size="7834892288" crc="56542cb1" md5="d22aa3c3c8a53ac8148c4f66bbe927b9" sha1="bf8d354f6c093ff4f4e9e558175af3d3fae17437"/>
+		<description>Lost Odyssey (Japan) (Taikenban)</description>
+		<rom name="Lost Odyssey (Japan) (Taikenban).iso" size="7834892288" crc="56542cb1" md5="d22aa3c3c8a53ac8148c4f66bbe927b9" sha1="bf8d354f6c093ff4f4e9e558175af3d3fae17437"/>
 	</game>
 	<game name="Lost Planet - Extreme Condition - Colonies Edition (World) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
@@ -7283,10 +7283,10 @@
 		<description>Saw (Europe)</description>
 		<rom name="Saw (Europe).iso" size="7838695424" crc="e8e7eb9a" md5="0b6ae36d9dd95fa3873ab0fe7a2c5044" sha1="1033b71dce1b27dfb2b2a314fafcd2ffc4b4ff88"/>
 	</game>
-	<game name="Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It)">
+	<game name="Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It) (Rev 1)">
 		<category>Games</category>
-		<description>Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It)</description>
-		<rom name="Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="320c1e03" md5="4ab8d5e0704ec8bbcc506ecd6cfeb526" sha1="4a4a805ad6f1e9197ad6e16931d007055555b289"/>
+		<description>Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Saw II - Flesh &amp; Blood (World) (En,Fr,De,Es,It) (Rev 1).iso" size="7838695424" crc="320c1e03" md5="4ab8d5e0704ec8bbcc506ecd6cfeb526" sha1="4a4a805ad6f1e9197ad6e16931d007055555b289"/>
 	</game>
 	<game name="SBK X - Superbike World Championship (Europe)">
 		<category>Games</category>
@@ -18076,5 +18076,15 @@
 		<category>Demos</category>
 		<description>Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru) (Demo)</description>
 		<rom name="Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru) (Demo).iso" size="7838695424" crc="89568d2c" md5="612f245fc2c51258dd5b781045bd0bab" sha1="e67f7df76eab2749e9a705275eacd6e3ed4d8362"/>
+	</game>
+	<game name="FIFA World Cup Germany 2006 (Europe) (Fr,De)">
+		<category>Games</category>
+		<description>FIFA World Cup Germany 2006 (Europe) (Fr,De)</description>
+		<rom name="FIFA World Cup Germany 2006 (Europe) (Fr,De).iso" size="7834892288" crc="bb9742d5" md5="99e06d6045b33763d04ffd9d59a5e6a1" sha1="23071ef9d8b23a4272c89e91370b05de0d04ac56"/>
+	</game>
+	<game name="NBA 2K8 (USA) (Demo)">
+		<category>Demos</category>
+		<description>NBA 2K8 (USA) (Demo)</description>
+		<rom name="NBA 2K8 (USA) (Demo).iso" size="7835492352" crc="9e66c8b2" md5="b53f9acbb9ce4126ac5714c0306fe15a" sha1="55800da55beb5940607eb6d67762868661c2d1ce"/>
 	</game>
 </datafile>

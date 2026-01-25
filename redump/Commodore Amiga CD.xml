@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (590) (2026-01-09 18-47-53)</description>
-		<version>2026-01-09 18-47-53</version>
-		<date>2026-01-09 18-47-53</date>
+		<description>Commodore - Amiga CD - Discs (591) (2026-01-24 00-36-53)</description>
+		<version>2026-01-24 00-36-53</version>
+		<date>2026-01-24 00-36-53</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3895,5 +3895,11 @@
 		<description>Enigma Amiga Run 36 (Italy)</description>
 		<rom name="Enigma Amiga Run 36 (Italy).cue" size="93" crc="70357fbc" md5="2ae4ebb0f38938de07b541372a22e287" sha1="6b794c8d51ca90ac9a98aedde82691f54b80dbb1"/>
 		<rom name="Enigma Amiga Run 36 (Italy).bin" size="559959456" crc="999012dd" md5="c2df99dc6c0711b13078807a7f882422" sha1="ee61e3e2507ca4c96e806d30d208fddbac5f5fe7"/>
+	</game>
+	<game name="Bit CD 13 (Italy)">
+		<category>Coverdiscs</category>
+		<description>Bit CD 13 (Italy)</description>
+		<rom name="Bit CD 13 (Italy).cue" size="83" crc="e53fe1f6" md5="5135b31e31a66f83c3f7fa7b3cc9d33b" sha1="c781c312305ff7c941c05b7a4a1b2c8a503a39a3"/>
+		<rom name="Bit CD 13 (Italy).bin" size="787085040" crc="9f569cfb" md5="7a25d2d15c12d4d24fb8202b46ddc70a" sha1="01fd09ca2160229a2ec7065414dea60a72ccdb45"/>
 	</game>
 </datafile>

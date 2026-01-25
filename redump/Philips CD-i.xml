@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2417) (2026-01-23 04-27-26)</description>
-		<version>2026-01-23 04-27-26</version>
-		<date>2026-01-23 04-27-26</date>
+		<description>Philips - CD-i - Discs (2420) (2026-01-24 18-11-17)</description>
+		<version>2026-01-24 18-11-17</version>
+		<date>2026-01-24 18-11-17</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15954,5 +15954,23 @@
 		<description>Tetris (Japan) (Alt)</description>
 		<rom name="Tetris (Japan) (Alt).cue" size="84" crc="9da048c2" md5="08b57d688a745acc862e5256c46c7cac" sha1="bcd4e7f3dfe702f74e4118f6556bd312ed6b117e"/>
 		<rom name="Tetris (Japan) (Alt).bin" size="599548320" crc="25b77a86" md5="7253b4f51eb5f728daf7cb36a38ef85f" sha1="1a1ad96706741c7a6387f015a6f1ef0846df4612"/>
+	</game>
+	<game name="Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It)">
+		<category>Multimedia</category>
+		<description>Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It)</description>
+		<rom name="Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It).cue" size="146" crc="ad5e069a" md5="320f9e779d592c05056cf42c2d932e95" sha1="55288d34511879f751bfcf3b42075f3343d560f8"/>
+		<rom name="Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It).bin" size="608937504" crc="6d440956" md5="fc4d8895e094923e39dc97b541ac624b" sha1="9604504a6e71a508262197c3efbcbe9bd9d57ac7"/>
+	</game>
+	<game name="1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto)">
+		<category>Multimedia</category>
+		<description>1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto)</description>
+		<rom name="1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto).cue" size="168" crc="99858e0c" md5="cc15e7b160cb12094e606f225937f398" sha1="deccb52ce6f3fe2df83a32e32eccd761673d23ed"/>
+		<rom name="1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto).bin" size="106030512" crc="0e7d31ef" md5="1a595ddd2c7af03dfe5d0b3d15456d58" sha1="3bf10294387627e741246e5eb357324a0b50873b"/>
+	</game>
+	<game name="CD-i Authoring Overview Presentation (Europe) (Proto)">
+		<category>Multimedia</category>
+		<description>CD-i Authoring Overview Presentation (Europe) (Proto)</description>
+		<rom name="CD-i Authoring Overview Presentation (Europe) (Proto).cue" size="117" crc="56bab7b2" md5="70ae7215d755da9832df8ed326713c7a" sha1="cab9b47731375ce9e71e10ba0a941fbcbb16f46d"/>
+		<rom name="CD-i Authoring Overview Presentation (Europe) (Proto).bin" size="154531104" crc="38cdaf34" md5="9992307c381ad722626ef869703f332c" sha1="e71da94baa9d7d7475f2a784377749607be2783d"/>
 	</game>
 </datafile>
