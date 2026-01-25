@@ -5,28 +5,25 @@ import zipfile
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Literal, assert_never
-from urllib.parse import urljoin
 
 import bs4
-import requests
 from pathvalidate import sanitize_filename
-from requests.adapters import HTTPAdapter
 from urllib3 import Retry
 
 import datfile
-
-_BASE_URL = "http://redump.org"
+from requests_util import Session
 
 _logger = logging.getLogger(__name__)
 
-_session = requests.Session()
-_session_retry = Retry(
-    total=5,
-    status_forcelist={500, 502, 503, 504},
-    backoff_factor=60,  # seconds
+_session = Session(
+    base_url="http://redump.org",
+    timeout=3 * 60,  # seconds
+    retry=Retry(
+        total=5,
+        status_forcelist={500, 502, 503, 504},
+        backoff_factor=60,  # seconds
+    ),
 )
-_session.mount("https://", HTTPAdapter(max_retries=_session_retry))
-_session.mount("http://", HTTPAdapter(max_retries=_session_retry))
 
 
 def scrape(output_dir: Path) -> None:
@@ -74,7 +71,7 @@ class _System:
 def _get_systems() -> list[_System]:
     systems: list[_System] = []
 
-    resp = _session.get(urljoin(_BASE_URL, "downloads"))
+    resp = _session.get("downloads")
     resp.raise_for_status()
     html = resp.text
     soup = bs4.BeautifulSoup(html, "lxml")
@@ -173,10 +170,9 @@ def _download_datfile(
 
 
 def _download_file(remote_path: str, local_path: Path) -> None:
-    url = urljoin(_BASE_URL, remote_path)
     with (
         local_path.open(mode="wb") as local_file,
-        _session.get(url, stream=True) as resp,
+        _session.get(remote_path, stream=True) as resp,
     ):
         resp.raise_for_status()
         for chunk in resp.iter_content(chunk_size=512):
