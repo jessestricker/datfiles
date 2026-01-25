@@ -19,7 +19,7 @@ _logger = logging.getLogger(__name__)
 _session = requests.Session()
 _session_retry = Retry(
     total=5,
-    status_forcelist={502, 503, 504},
+    status_forcelist={500, 502, 503, 504},
     backoff_factor=60,  # seconds
 )
 _session.mount("https://", HTTPAdapter(max_retries=_session_retry))
