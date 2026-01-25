@@ -9,11 +9,21 @@ from urllib.parse import urljoin
 import bs4
 import requests
 from pathvalidate import sanitize_filename
+from requests.adapters import HTTPAdapter
+from urllib3 import Retry
 
 _BASE_URL = "http://redump.org"
 
 _logger = logging.getLogger(__name__)
+
 _session = requests.Session()
+_session_retry = Retry(
+    total=5,
+    status_forcelist={502, 503, 504},
+    backoff_factor=60,  # seconds
+)
+_session.mount("https://", HTTPAdapter(max_retries=_session_retry))
+_session.mount("http://", HTTPAdapter(max_retries=_session_retry))
 
 
 def scrape(output_dir: Path) -> None:
