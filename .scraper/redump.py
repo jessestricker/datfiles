@@ -4,6 +4,7 @@ import tempfile
 import zipfile
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Literal, assert_never
 from urllib.parse import urljoin
 
 import bs4
@@ -11,6 +12,8 @@ import requests
 from pathvalidate import sanitize_filename
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
+
+import datfile
 
 _BASE_URL = "http://redump.org"
 
@@ -44,24 +47,19 @@ def scrape(output_dir: Path) -> None:
     _logger.info("downloading datfiles...")
     system_count = len(systems)
 
-    with tempfile.TemporaryDirectory() as td:
-        temp_dir = Path(td)
+    for index, system in enumerate(systems):
+        _logger.info(
+            f"(%{len(str(system_count))}s/%s) %s",  # noqa: G004
+            index + 1,
+            len(systems),
+            system.name,
+        )
 
-        for index, system in enumerate(systems):
-            _logger.info(
-                f"(%{len(str(system_count))}s/%s) %s",  # noqa: G004
-                index + 1,
-                len(systems),
-                system.name,
-            )
+        if system.datfile_url is not None:
+            _download_datfile(system.datfile_url, output_dir, ".xml")
 
-            if system.datfile_url is not None:
-                target_file = output_dir / sanitize_filename(f"{system.name}.xml")
-                _download_datfile(system.datfile_url, target_file, temp_dir)
-
-            if system.bios_datfile_url is not None:
-                target_file = output_dir / sanitize_filename(f"{system.name}_BIOS.dat")
-                _download_datfile(system.bios_datfile_url, target_file, temp_dir)
+        if system.bios_datfile_url is not None:
+            _download_datfile(system.bios_datfile_url, output_dir, ".dat")
 
     _logger.info("downloaded datfiles")
 
@@ -141,22 +139,48 @@ def _get_cell_link_url(td: bs4.Tag) -> str | None:
     return href
 
 
-def _download_datfile(url_path: str, target_file: Path, temp_dir: Path) -> None:
-    # download to temp file
-    url = urljoin(_BASE_URL, url_path)
-    temp_file = temp_dir / sanitize_filename(url_path)
-    _logger.info("downloading %s -> %s ...", url, temp_file)
+def _download_datfile(
+    url_path: str,
+    output_dir: Path,
+    target_ext: Literal[".xml", ".dat"],
+) -> None:
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # download
+        downloaded_file = Path(tmpdir) / "download"
+        _download_file(url_path, downloaded_file)
 
-    with temp_file.open(mode="wb") as fd, _session.get(url, stream=True) as resp:
+        # if archive, extract single file
+        if zipfile.is_zipfile(downloaded_file):
+            unzipped_file = Path(tmpdir) / "unzipped"
+            _extract_zipped_file(downloaded_file, unzipped_file)
+            downloaded_file = unzipped_file
+
+        # parse datfile name from header
+        if target_ext == ".xml":
+            datfile_name = datfile.read_header_name_xml(downloaded_file)
+        elif target_ext == ".dat":
+            datfile_name = datfile.read_header_name_cmp(downloaded_file)
+        else:
+            assert_never(target_ext)
+
+        if datfile_name is None:
+            msg = "datfile does not contain a name"
+            raise ValueError(msg)
+
+        # copy datfile to output dir
+        target_file = output_dir / (sanitize_filename(datfile_name) + target_ext)
+        downloaded_file.copy(target_file)
+
+
+def _download_file(remote_path: str, local_path: Path) -> None:
+    url = urljoin(_BASE_URL, remote_path)
+    with (
+        local_path.open(mode="wb") as local_file,
+        _session.get(url, stream=True) as resp,
+    ):
         resp.raise_for_status()
         for chunk in resp.iter_content(chunk_size=512):
-            fd.write(chunk)
-
-    # extract/copy to target file
-    if zipfile.is_zipfile(temp_file):
-        _extract_zipped_file(temp_file, target_file)
-    else:
-        temp_file.copy(target_file)
+            local_file.write(chunk)
 
 
 def _extract_zipped_file(path: Path, target_file: Path) -> None:
