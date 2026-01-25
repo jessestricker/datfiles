@@ -8,7 +8,11 @@ import redump
 
 
 def main() -> None:
-    logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(
+        format="[%(asctime)s %(levelname)s %(name)s] %(message)s",
+        datefmt="%H:%M:%S",
+        level=logging.DEBUG,
+    )
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--clean", action="store_true")
