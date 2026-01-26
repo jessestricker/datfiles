@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3614) (2026-01-25 01-40-41)</description>
-		<version>2026-01-25 01-40-41</version>
-		<date>2026-01-25 01-40-41</date>
+		<description>Microsoft - Xbox 360 - Discs (3615) (2026-01-26 15-28-46)</description>
+		<version>2026-01-26 15-28-46</version>
+		<date>2026-01-26 15-28-46</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -12799,10 +12799,10 @@
 		<description>Monster Hunter Frontier G1 - Premium Package (Japan) (Disc 1) (Data Disc)</description>
 		<rom name="Monster Hunter Frontier G1 - Premium Package (Japan) (Disc 1) (Data Disc).iso" size="7838695424" crc="67d72918" md5="2cb4f4ee8292450a51d63da00001c7bc" sha1="ceaa68a846a66d1a30fd7bcc36a7d586e0e3f784"/>
 	</game>
-	<game name="Shin Sangoku Musou 5 - Empires (Taiwan)">
+	<game name="Zhen Sanguo Wushuang 5 - Empires (Taiwan)">
 		<category>Games</category>
-		<description>Shin Sangoku Musou 5 - Empires (Taiwan)</description>
-		<rom name="Shin Sangoku Musou 5 - Empires (Taiwan).iso" size="7838695424" crc="a9105720" md5="d1ec5af58d300716b70dc2f9a8730d3b" sha1="7a5782b2046012645a80c55cf4972d30322fba66"/>
+		<description>Zhen Sanguo Wushuang 5 - Empires (Taiwan)</description>
+		<rom name="Zhen Sanguo Wushuang 5 - Empires (Taiwan).iso" size="7838695424" crc="a9105720" md5="d1ec5af58d300716b70dc2f9a8730d3b" sha1="7a5782b2046012645a80c55cf4972d30322fba66"/>
 	</game>
 	<game name="Bully (Japan)">
 		<category>Games</category>
@@ -18086,5 +18086,10 @@
 		<category>Demos</category>
 		<description>NBA 2K8 (USA) (Demo)</description>
 		<rom name="NBA 2K8 (USA) (Demo).iso" size="7835492352" crc="9e66c8b2" md5="b53f9acbb9ce4126ac5714c0306fe15a" sha1="55800da55beb5940607eb6d67762868661c2d1ce"/>
+	</game>
+	<game name="Star Trek (Asia) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>Star Trek (Asia) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Star Trek (Asia) (En,Fr,De,Es,It,Ru).iso" size="8738846720" crc="519c3bc7" md5="3fa61af3a49a36ecfa2653a57889b2ba" sha1="5926db07ffce8f5e85223c802698f108a37d2f07"/>
 	</game>
 </datafile>
