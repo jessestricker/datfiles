@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>259</id>
+		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</name>
+		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</description>
+		<version>20241231-125828</version>
+		<author>Hiccup, rarenight</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="3D Challenge (World) (En,Ja) (2010-07-07T120933 Rev 9410) (E3 2010 Tech Demo)" id="0009">
+		<category>Demos</category>
+		<description>3D Challenge (World) (En,Ja) (2010-07-07T120933 Rev 9410) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="63821596" crc="9f86c7d3" md5="3443ac1a5a7bf65b941c6152b1a7c8e9" sha1="cad6d77c11f7824a92873b6e4107ce71ed4df291" sha256="03a81448c8b85878d34169898c46a634a6bd90a4642e20154b0703bd8379bf43" serial="0000000043544150 (CTAP)"/>
+	</game>
+	<game name="3D Challenge (World) (En,Ja) (2010-07-12T083731 Rev 9543) (E3 2010 Tech Demo)" id="0010">
+		<category>Demos</category>
+		<description>3D Challenge (World) (En,Ja) (2010-07-12T083731 Rev 9543) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="64610816" crc="c7950395" md5="34d878fe60fcd1142c8eaec48ca2e05e" sha1="7bcb00519e47ca7192a64f0753ba400020acacfd" sha256="6fb9661ce7645a1b9bc14e73f63e1600a6df9ccb192820fb55d07b5f26e4d9bc" serial="0000000000000000 (CTAP)"/>
+	</game>
+	<game name="3D Challenge (Japan) (2011-01-12) (Tech Demo)" id="0013">
+		<category>Demos</category>
+		<description>3D Challenge (Japan) (2011-01-12) (Tech Demo)</description>
+		<game_id>0004001000020D00</game_id>
+		<rom name="3D Challenge (Japan) (2011-01-12) (Tech Demo).cia" size="12302784" crc="2ca288ff" md5="6513066f253d1ce07182eff15b46f799" sha1="41a113ee9d80eb7567f19694f38470c051050e48" sha256="ba6d8facf4241c1fc2ca67733d1117acbfb0b15bb876a53d7f1fa89b4279a5cf" serial="CTR-N-HCHJ"/>
+	</game>
+	<game name="3DS Testing Tool (World)" id="0011">
+		<category>Applications</category>
+		<description>3DS Testing Tool (World)</description>
+		<rom name="00000000.app" size="223868" crc="63b23669" md5="d3a7f85bfd2e8532dae4a68581c4899d" sha1="daf1c760f68e58f296045731fd187e6b8e285ebc" sha256="49584692b716c1a39bb073fc74ccc48ef08885a4d89c188e22a5b3715994a9ba" serial="0000000048494433 (HID3)"/>
+	</game>
+	<game name="Big Hero 6 Battle in the Bay (USA) (Beta)" id="0002">
+		<description>Big Hero 6 Battle in the Bay (USA) (Beta)</description>
+		<rom name="1P_BH6_3DS_FirstPlayable_24APRIL2014.cia" size="29541376" crc="9309849f" md5="29fd6494e1a38301afe74dd8e3f4a89b" sha1="eee1a58c6e5a825673b39debfc38fd21a0e91700" sha256="2977629e7873f9d4de120715c2ac735fef1d238d51ade8601b7f2da8fb48db84" serial="CTR-P-BH6E"/>
+	</game>
+	<game name="Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)" id="0012">
+		<category>Demos</category>
+		<description>Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="3264108" crc="0d8abc13" md5="89eec42c0ac6d11b319f61cc4f200cf8" sha1="ac4e09951fdaa0021ec671fbb7e7ddcb7a6c80fa" sha256="43e562d638dfa8fede380fe19e74d203b065eba8c3cefdf11455b1499b0f545f" serial="000000004e43414d (NCAM)"/>
+	</game>
+	<game name="Paper Mario Preview (World) (Beta) (E3 2010 Trailer)" id="0003">
+		<category>Preproduction</category>
+		<description>Paper Mario Preview (World) (Beta) (E3 2010 Trailer)</description>
+		<rom name="00000000.app" size="29975256" crc="c1080fba" md5="055361cf3e97837c70665b794d0f8bbe" sha1="e687a9ede27312815b8c77afbabea406f22d1871" sha256="3dd96bcf3088dfcffc12f03acf750c2206652b2f79d77a4388df56ecf58f90d8" serial="000000004e474746"/>
+	</game>
+	<game name="Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)" id="0007">
+		<category>Demos</category>
+		<description>Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="36424800" crc="e940bf93" md5="38b295a20cf65439240ec257cdf3a7dd" sha1="2afefb0df241ef199333797b18a3b4c9df3121ca" sha256="0829884853682b575b6717cf4c189f3cc4ca1a0f73057b596ddd943a1562de42" serial="000000004e504644 (NPFD)"/>
+	</game>
+	<game name="Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)" id="0008">
+		<category>Demos</category>
+		<description>Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="4298828" crc="e616732a" md5="61493d9aef6fcb3c672cad4808d27af6" sha1="8ce851d0b3bfa010bcd461145681434518495023" sha256="1a5365516a036aa2d3a1f58c9426e3a136130a6ca01e8d019720628d1ea77c05" serial="000000004e484f50 (NHOP)"/>
+	</game>
+	<game name="Tech Demo - 3D Paddleball (World) (2010-06-03T151914) (E3 2010 Tech Demo)" id="0006">
+		<category>Demos</category>
+		<description>Tech Demo - 3D Paddleball (World) (2010-06-03T151914) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="17272732" crc="4a7855db" md5="0827fa7e9dc0f7f6c0065f6475a1869f" sha1="7f2220df1f8d3f03f2e8442b9f075a02e542a5ec" sha256="ad806c6548edad78184f071917596d833ef95c1c6803c780e1ed34850d863bfd" serial="000000004e48434b (NHCK)"/>
+	</game>
+	<game name="Tech Demo - Face Ace (World) (2010-06-08T154314 Rev 8659) (E3 2010 Tech Demo)" id="0004">
+		<category>Demos</category>
+		<description>Tech Demo - Face Ace (World) (2010-06-08T154314 Rev 8659) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="30067636" crc="98742903" md5="bbf0408c00301e31c51c95dd2308b2f0" sha1="706280b14fedbb6f480d5e58ee8ec0acafa477b2" sha256="4e462ea315fe5d06d865091c821571500cc5299539c0373ab79801cdebc845f9" serial="0000000043464345 (NFCE)"/>
+	</game>
+	<game name="Tech Demo - Target Shooting (World) (2010-06-07T104900) (E3 2010 Tech Demo)" id="0005">
+		<category>Demos</category>
+		<description>Tech Demo - Target Shooting (World) (2010-06-07T104900) (E3 2010 Tech Demo)</description>
+		<rom name="00000000.app" size="26520012" crc="0ec7b75b" md5="b362fa9d2c88880396b7bac2f7bd6e7e" sha1="2f961c6a4fa4fa6be52772291e391db0414b9639" sha256="dd8f03486fa7485199770276c503108b269a7560d1da966b9a3d7e1676c7e689" serial="000000004e535447 (NSTG)"/>
+	</game>
+	<game name="Wan Nyan Pet Shop (Japan) (Beta)" id="0001">
+		<description>Wan Nyan Pet Shop (Japan) (Beta)</description>
+		<rom name="Wan Nyan Pet Shop (Japan) (Beta).cia" size="114717696" crc="177867e2" md5="d8221dbe08c77e7c2ff9c9e5f77d6aa4" sha1="8f98ba1d54632d9e03fc283663207dc577e5ccaf" sha256="0e36703682084d9a6ad1d0e8105de612c07aa79dda2c47e25428a437e064b355"/>
+	</game>
+</datafile>
