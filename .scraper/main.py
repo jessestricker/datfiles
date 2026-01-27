@@ -4,6 +4,7 @@ import shutil
 import sys
 from pathlib import Path
 
+import no_intro
 import redump
 
 
@@ -25,6 +26,11 @@ def main() -> None:
     if args.clean and redump_dir.exists():
         shutil.rmtree(redump_dir)
     redump.scrape(redump_dir)
+
+    no_intro_dir = output_dir / "no-intro"
+    if args.clean and no_intro_dir.exists():
+        shutil.rmtree(no_intro_dir)
+    no_intro.scrape(no_intro_dir)
 
 
 if __name__ == "__main__":

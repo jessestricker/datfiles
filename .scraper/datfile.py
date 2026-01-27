@@ -1,9 +1,28 @@
 import xml.etree.ElementTree as ET
 from collections.abc import Callable, Generator
-from typing import TYPE_CHECKING, Literal
+from typing import TYPE_CHECKING, Literal, assert_never
 
 if TYPE_CHECKING:
     from pathlib import Path
+
+
+type DatfileFormat = Literal["xml", "cmp"]
+
+
+def read_canonical_name(path: Path, fmt: DatfileFormat) -> str:
+    match fmt:
+        case "xml":
+            name = read_header_name_xml(path)
+        case "cmp":
+            name = read_header_name_cmp(path)
+        case _:
+            assert_never(fmt)
+
+    if name is None:
+        msg = "datfile does not contain header with name"
+        raise ValueError(msg)
+
+    return name
 
 
 def read_header_name_xml(path: Path) -> str | None:

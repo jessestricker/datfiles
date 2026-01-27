@@ -3,14 +3,16 @@ from typing import TYPE_CHECKING, Any, override
 from urllib.parse import urljoin
 
 from requests import PreparedRequest, Request, Response
-from requests import Session as BaseSession
+from requests import Session as _BaseSession
 from requests.adapters import HTTPAdapter
 
 if TYPE_CHECKING:
+    from pathlib import Path
+
     from urllib3 import Retry
 
 
-class Session(BaseSession):
+class Session(_BaseSession):
     """
     A _requests_ session with a base URL, timeout by default and retry mechanism.
     """
@@ -49,3 +51,11 @@ class Session(BaseSession):
             kwargs["timeout"] = self.timeout
 
         return super().send(request, **kwargs)
+
+    def download_content(self, request: Request, local_path: Path) -> None:
+        prepared = self.prepare_request(request)
+        with self.send(prepared, stream=True) as response:
+            response.raise_for_status()
+            with local_path.open("wb") as local_file:
+                for chunk in response.iter_content(chunk_size=512):
+                    local_file.write(chunk)
