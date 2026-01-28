@@ -4,7 +4,7 @@
 		<id>282</id>
 		<name>Microsoft - Xbox (Development Kit Hard Drives)</name>
 		<description>Microsoft - Xbox (Development Kit Hard Drives)</description>
-		<version>20260121-175351</version>
+		<version>20260127-043749</version>
 		<author>Hiccup, NovaAurora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21,6 +21,10 @@
 	<game name="Red Storm Entertainment Debug Kit (Unknown)" id="00001">
 		<description>Red Storm Entertainment Debug Kit (Unknown)</description>
 		<rom name="Red Storm Entertainment Debug Kit (Unknown).img" size="10005037056" crc="df19bf92" md5="d96b4ba6603f2c395dd9d26cea2e19ad" sha1="647647c559c6ee672694e084f65ade34f2d4821f"/>
+	</game>
+	<game name="Xbox Debug Kit - Argonaut Sheffield (Unknown)" id="00005">
+		<description>Xbox Debug Kit - Argonaut Sheffield (Unknown)</description>
+		<rom name="Xbox Debug Kit - Argonaut Sheffield (Unknown).img" size="8004132864" crc="4457b6cc" md5="2e93cf35e57c823bc8bc56302ceae97b" sha1="3e323b2e6931ceffe6db8d496f5eef7d08b1aff3" sha256="2c0f87f6b12ddbf711d06f4334ca4fe785d95462769a583c2fe5fda3b89441dd"/>
 	</game>
 	<game name="Xbox Debug Kit - Bits Studios (Unknown)" id="00004">
 		<description>Xbox Debug Kit - Bits Studios (Unknown)</description>
