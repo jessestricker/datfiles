@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3446) (2026-01-25 11-50-21)</description>
-		<version>2026-01-25 11-50-21</version>
-		<date>2026-01-25 11-50-21</date>
+		<description>Sony - PlayStation Portable - Discs (3455) (2026-01-28 23-59-48)</description>
+		<version>2026-01-28 23-59-48</version>
+		<date>2026-01-28 23-59-48</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9970,10 +9970,10 @@
 		<description>Namco Museum Battle Collection (USA) (Beta) (2005-07-01)</description>
 		<rom name="Namco Museum Battle Collection (USA) (Beta) (2005-07-01).iso" size="175472640" crc="4f86634b" md5="2412829cb5145e90f01fa1794ee9d235" sha1="8d173b443e2022eeed6e683b32cfd06eed86635e"/>
 	</game>
-	<game name="Baito Hell 2000 (Asia)">
+	<game name="Baito Hell 2000 (Japan, Asia)">
 		<category>Games</category>
-		<description>Baito Hell 2000 (Asia)</description>
-		<rom name="Baito Hell 2000 (Asia).iso" size="464715776" crc="53116bf8" md5="756004aea237688aeba3436fc5916dab" sha1="c0f4461daa6de7b897fe320787061db21a29e3d1"/>
+		<description>Baito Hell 2000 (Japan, Asia)</description>
+		<rom name="Baito Hell 2000 (Japan, Asia).iso" size="464715776" crc="53116bf8" md5="756004aea237688aeba3436fc5916dab" sha1="c0f4461daa6de7b897fe320787061db21a29e3d1"/>
 	</game>
 	<game name="Stealth + Wipeout Pure (Germany) (En,De)">
 		<category>Demos</category>
@@ -14101,7 +14101,7 @@
 		<rom name="AI Igo (Japan).iso" size="12877824" crc="377216c4" md5="c69c05b3889f01c29ca565aa6453c030" sha1="02dd6629c3eb7e2fb5b2bf9e831769ec4678e752"/>
 	</game>
 	<game name="Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)">
-		<category>Games</category>
+		<category>Educational</category>
 		<description>Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)</description>
 		<rom name="Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan).iso" size="136675328" crc="69c4c85c" md5="e724db003e67700bb178be3b2ba80d24" sha1="25634a63932438bb81495035cf346840ceed94a8"/>
 	</game>
@@ -17239,5 +17239,50 @@
 		<category>Preproduction</category>
 		<description>World Tour Soccer (Europe) (En,Fr,De,Es,It) (Beta) (2005-01-20)</description>
 		<rom name="World Tour Soccer (Europe) (En,Fr,De,Es,It) (Beta) (2005-01-20).iso" size="495845376" crc="1eb35e70" md5="6933b4438ff3e4c8b1b62a40360c6631" sha1="56f9065416009e367b1b30da53e494d7e87e7c92"/>
+	</game>
+	<game name="Soreyuke! Burunyanman Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan)">
+		<category>Games</category>
+		<description>Soreyuke! Burunyanman Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan)</description>
+		<rom name="Soreyuke! Burunyanman Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan).iso" size="1589510144" crc="8b165509" md5="689dd0dad5c62b27a46f1e8af0ebe4cb" sha1="c3a74c451f02485f6df80f96ee8436e1bbb65013"/>
+	</game>
+	<game name="Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan)">
+		<category>Games</category>
+		<description>Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan)</description>
+		<rom name="Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan).iso" size="316112896" crc="646d7de8" md5="4ae281717b7401dd7684806c7b55141e" sha1="3cf4eefb38241a10014005a3fb5c993c09e4919d"/>
+	</game>
+	<game name="Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan)">
+		<category>Games</category>
+		<description>Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan)</description>
+		<rom name="Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan).iso" size="299991040" crc="a1f5699d" md5="526584c5d4626d0f14c00310a375d7c3" sha1="59ccf506cdc3e864e3f9b743cbae5ca2fc3c5065"/>
+	</game>
+	<game name="Blokus Club Portable with Bumpy Trot (Japan)">
+		<category>Games</category>
+		<description>Blokus Club Portable with Bumpy Trot (Japan)</description>
+		<rom name="Blokus Club Portable with Bumpy Trot (Japan).iso" size="67764224" crc="a2848899" md5="da4300b2656cfb1af09dd2e1cb80b490" sha1="c7dbfbda28e317a3f4a05db6cf23fdbef2220741"/>
+	</game>
+	<game name="Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan)">
+		<category>Games</category>
+		<description>Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan)</description>
+		<rom name="Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan).iso" size="226361344" crc="aa635464" md5="71a4be8c2bab47f60bd398f30f733e49" sha1="3029cf96d7bfcc0e9d3e942b47a2077407dd1dbf"/>
+	</game>
+	<game name="Kinnikuman - Muscle Generations (Japan)">
+		<category>Games</category>
+		<description>Kinnikuman - Muscle Generations (Japan)</description>
+		<rom name="Kinnikuman - Muscle Generations (Japan).iso" size="352321536" crc="a6719e94" md5="862abcde8abb46a82eedc85f1e2fd31d" sha1="94006d5bcd537d26aa0015b9e1f9041f61a92dcd"/>
+	</game>
+	<game name="Missing Parts the Tantei Stories Complete (Japan)">
+		<category>Games</category>
+		<description>Missing Parts the Tantei Stories Complete (Japan)</description>
+		<rom name="Missing Parts the Tantei Stories Complete (Japan).iso" size="1607630848" crc="ebc19c47" md5="e85d86aea33c58c21aba820be8bace62" sha1="d384f882a2969ad3e5025ed98f6c7a15af8e7b1c"/>
+	</game>
+	<game name="Sims 2, The - Dr. Dominic no Inbou (Japan)">
+		<category>Games</category>
+		<description>Sims 2, The - Dr. Dominic no Inbou (Japan)</description>
+		<rom name="Sims 2, The - Dr. Dominic no Inbou (Japan).iso" size="1085046784" crc="d4ce1af6" md5="a14be49c28bdaa8fe7dbaa7fc5e8f036" sha1="dfede201e3c4e8f10319694f000e1ebf1b6b4c66"/>
+	</game>
+	<game name="Maru Goukaku Shikaku Dasshu! Sharoushi Shiken Portable (Japan)">
+		<category>Educational</category>
+		<description>Maru Goukaku Shikaku Dasshu! Sharoushi Shiken Portable (Japan)</description>
+		<rom name="Maru Goukaku Shikaku Dasshu! Sharoushi Shiken Portable (Japan).iso" size="140935168" crc="2b430e68" md5="8d5df1237b384d059acfd10e9fa5acf8" sha1="4332836d7506273a10be1e9919e82698664bea42"/>
 	</game>
 </datafile>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC</name>
-		<description>Pocket PC - Discs (73) (2025-10-09 20-10-09)</description>
-		<version>2025-10-09 20-10-09</version>
-		<date>2025-10-09 20-10-09</date>
+		<description>Pocket PC - Discs (76) (2026-01-28 23-43-38)</description>
+		<version>2026-01-28 23-43-38</version>
+		<date>2026-01-28 23-43-38</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -447,5 +447,23 @@
 		<description>Microsoft Entertainment Pack 2.0 for Windows CE (USA)</description>
 		<rom name="Microsoft Entertainment Pack 2.0 for Windows CE (USA).cue" size="119" crc="14ef9346" md5="93a2df034cd5267467f3bc47ef615a10" sha1="dcef406bab828b5ef7ffafa9c714528bf2d3f21a"/>
 		<rom name="Microsoft Entertainment Pack 2.0 for Windows CE (USA).bin" size="10104192" crc="4804e21a" md5="206e00cee08cc53054f0151ff9784bcc" sha1="e1f9a4a6ca8b7f23954e7c3ee9a62da2f83b4d24"/>
+	</game>
+	<game name="Getting Started CD for the HP iPAQ hx2000 Pocket PC Series with Windows Mobile Software (USA)">
+		<category>Multimedia</category>
+		<description>Getting Started CD for the HP iPAQ hx2000 Pocket PC Series with Windows Mobile Software (USA)</description>
+		<rom name="Getting Started CD for the HP iPAQ hx2000 Pocket PC Series with Windows Mobile Software (USA).cue" size="159" crc="fcdda87f" md5="bb306b9bd0c7448dc6483432e185153e" sha1="712918a5d3bdc7eea4bf0a857d4790e16206691b"/>
+		<rom name="Getting Started CD for the HP iPAQ hx2000 Pocket PC Series with Windows Mobile Software (USA).bin" size="296427264" crc="8230720a" md5="43201def7f39e695231b1f6d52cf9a95" sha1="84e4d27181c44924da085c7a2e1de5f5884af18c"/>
+	</game>
+	<game name="Getting Started Disc for Windows Mobile 5.0 Upgrade - HP iPAQ hx2000 Pocket PC Series (USA)">
+		<category>Multimedia</category>
+		<description>Getting Started Disc for Windows Mobile 5.0 Upgrade - HP iPAQ hx2000 Pocket PC Series (USA)</description>
+		<rom name="Getting Started Disc for Windows Mobile 5.0 Upgrade - HP iPAQ hx2000 Pocket PC Series (USA).cue" size="180" crc="2fff2b28" md5="9d8a1d952f0d716388e50ba0cd161a57" sha1="28020b85213a9c8e6f1c0653f49ae303cb26cfd0"/>
+		<rom name="Getting Started Disc for Windows Mobile 5.0 Upgrade - HP iPAQ hx2000 Pocket PC Series (USA).bin" size="395905104" crc="6d2c52b5" md5="e1e7fd20d09f0ff862854799d5e85b6d" sha1="9f20c00c4d2ea0bf48e770f4042d6e4e66022e4c"/>
+	</game>
+	<game name="HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA)">
+		<category>Applications</category>
+		<description>HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA)</description>
+		<rom name="HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA).cue" size="126" crc="f89cd3a3" md5="635f4c37f79de0a790a7a3a72be80873" sha1="11e3b8beaf49d1b8d0d5a89ade9c653fef65cd13"/>
+		<rom name="HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA).bin" size="405421296" crc="9fc61a1c" md5="1081323efe6a046999785c83435c2b44" sha1="156c9572a7143ea0b3a2ea74eaed99ea2a658702"/>
 	</game>
 </datafile>
