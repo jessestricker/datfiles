@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3616) (2026-01-30 09-54-42)</description>
-		<version>2026-01-30 09-54-42</version>
-		<date>2026-01-30 09-54-42</date>
+		<description>Microsoft - Xbox 360 - Discs (3616) (2026-01-31 16-50-36)</description>
+		<version>2026-01-31 16-50-36</version>
+		<date>2026-01-31 16-50-36</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2545,10 +2545,10 @@
 		<description>America's Army - True Soldiers (USA)</description>
 		<rom name="America's Army - True Soldiers (USA).iso" size="7835492352" crc="028a0a7e" md5="e686a6b1ef3b7e2f4f04f58d8442c675" sha1="1b44251d81ce24c719137f32b681e51e24c6df37"/>
 	</game>
-	<game name="Blood Drive (USA)">
+	<game name="Blood Drive (USA, Europe)">
 		<category>Games</category>
-		<description>Blood Drive (USA)</description>
-		<rom name="Blood Drive (USA).iso" size="7838695424" crc="47fec23e" md5="ef0771ea12f759d120ad57873797410b" sha1="7e20f66cf9aa9daf61a1cdbd0ca0e988602ed5ce"/>
+		<description>Blood Drive (USA, Europe)</description>
+		<rom name="Blood Drive (USA, Europe).iso" size="7838695424" crc="47fec23e" md5="ef0771ea12f759d120ad57873797410b" sha1="7e20f66cf9aa9daf61a1cdbd0ca0e988602ed5ce"/>
 	</game>
 	<game name="Front Mission Evolved (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -5348,10 +5348,10 @@
 		<description>Persona 4 Arena (Europe) (En,Ja)</description>
 		<rom name="Persona 4 Arena (Europe) (En,Ja).iso" size="7838695424" crc="0ce6cd6b" md5="cee391b44a3d5ca43dc5ae8d9106a7dd" sha1="b4ca7de8e27a77112a4ecd5914667c243619264c"/>
 	</game>
-	<game name="MTV Pimp My Ride (Europe)">
+	<game name="MTV Pimp My Ride (Europe) (Fr,De,Es,It)">
 		<category>Games</category>
-		<description>MTV Pimp My Ride (Europe)</description>
-		<rom name="MTV Pimp My Ride (Europe).iso" size="7835492352" crc="3f583993" md5="efa9fed9e87620df46d19350809fc62d" sha1="33b74bf73513681f1b0dd904d744a228235152fe"/>
+		<description>MTV Pimp My Ride (Europe) (Fr,De,Es,It)</description>
+		<rom name="MTV Pimp My Ride (Europe) (Fr,De,Es,It).iso" size="7835492352" crc="3f583993" md5="efa9fed9e87620df46d19350809fc62d" sha1="33b74bf73513681f1b0dd904d744a228235152fe"/>
 	</game>
 	<game name="Risen 2 - Dark Waters (USA, Europe) (En,Fr,De,Es,It,Pl)">
 		<category>Games</category>
@@ -6808,10 +6808,10 @@
 		<description>Disney-Pixar Toy Story 3 (Europe) (Fr,De,It,Nl)</description>
 		<rom name="Disney-Pixar Toy Story 3 (Europe) (Fr,De,It,Nl).iso" size="7838695424" crc="ad4b927f" md5="78629c4e614e56751dd5a63c91109bec" sha1="f42a6f6041e56ea2b6d3693710fc021b10f4cb52"/>
 	</game>
-	<game name="Tony Hawk - Ride (Europe)">
+	<game name="Tony Hawk - Ride (Europe) (En,De,Es,It)">
 		<category>Games</category>
-		<description>Tony Hawk - Ride (Europe)</description>
-		<rom name="Tony Hawk - Ride (Europe).iso" size="7838695424" crc="bc4eb64f" md5="3bdc4e2e5c428212e93a3b17fa6751bd" sha1="dbf743dd609577e950876f340ef61b30729fdbb1"/>
+		<description>Tony Hawk - Ride (Europe) (En,De,Es,It)</description>
+		<rom name="Tony Hawk - Ride (Europe) (En,De,Es,It).iso" size="7838695424" crc="bc4eb64f" md5="3bdc4e2e5c428212e93a3b17fa6751bd" sha1="dbf743dd609577e950876f340ef61b30729fdbb1"/>
 	</game>
 	<game name="Tony Hawk's Proving Ground (USA, Europe)">
 		<category>Games</category>
@@ -7128,15 +7128,15 @@
 		<description>Kinect Disneyland Adventures (USA, Europe) (En,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru)</description>
 		<rom name="Kinect Disneyland Adventures (USA, Europe) (En,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru).iso" size="8738846720" crc="00c98855" md5="6a6a50d5862ec87cd6c6bf288160ccc6" sha1="ed3420129f86c14402a3e723ec4dbe0899f84fe8"/>
 	</game>
-	<game name="Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1)">
+	<game name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1)">
 		<category>Games</category>
-		<description>Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1)</description>
-		<rom name="Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1).iso" size="8738846720" crc="ebd38fc2" md5="eaa85581c3edcb06ecc02951326dff06" sha1="92c976faf5b7d61f78740640718af1c208e14fc5"/>
+		<description>Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1)</description>
+		<rom name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1).iso" size="8738846720" crc="ebd38fc2" md5="eaa85581c3edcb06ecc02951326dff06" sha1="92c976faf5b7d61f78740640718af1c208e14fc5"/>
 	</game>
-	<game name="Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2)">
+	<game name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2)">
 		<category>Games</category>
-		<description>Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2)</description>
-		<rom name="Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2).iso" size="8738846720" crc="fa234b6b" md5="b327c42f52d3a2e8be35bffc5074bbc7" sha1="752efed92a738577408b9be0cfee047760e43163"/>
+		<description>Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2)</description>
+		<rom name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2).iso" size="8738846720" crc="fa234b6b" md5="b327c42f52d3a2e8be35bffc5074bbc7" sha1="752efed92a738577408b9be0cfee047760e43163"/>
 	</game>
 	<game name="Kinect Rush - A Disney-Pixar Adventure (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)">
 		<category>Games</category>
@@ -7228,10 +7228,10 @@
 		<description>Saints Row (USA) (Demo)</description>
 		<rom name="Saints Row (USA) (Demo).iso" size="7834892288" crc="8f6bc9bc" md5="4cb1a7bbd58f4ba24296f4c260543ecb" sha1="7e700b66d9e23e8b114703c147e08e128cdcfcf2"/>
 	</game>
-	<game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA)">
+	<game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe)">
 		<category>Games</category>
-		<description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA)</description>
-		<rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA).iso" size="7838695424" crc="2b1bd6b9" md5="e89ce6f1f61b8563262d51bd4ddb694d" sha1="2d6de49c3e13479cc94022dd6c474ccc18cef5a1"/>
+		<description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe)</description>
+		<rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe).iso" size="7838695424" crc="2b1bd6b9" md5="e89ce6f1f61b8563262d51bd4ddb694d" sha1="2d6de49c3e13479cc94022dd6c474ccc18cef5a1"/>
 	</game>
 	<game name="FIFA 18 - Legacy Edition (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -9599,10 +9599,10 @@
 		<description>Monopoly (USA, Europe) (En,Fr,De,Es)</description>
 		<rom name="Monopoly (USA, Europe) (En,Fr,De,Es).iso" size="7835492352" crc="aaa77840" md5="6914d0bb1f7df6890d40e1448cde92b0" sha1="d1b319b5433b232db448e4d2c147441e9b9aba60"/>
 	</game>
-	<game name="Monster Jam (Europe) (En,Fr,De,Es,It)">
+	<game name="Monster Jam (Europe) (Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Monster Jam (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Monster Jam (Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="6cb2688c" md5="29cab0e9918fdd2c2542d3c644293d60" sha1="cff68e3bfdfd97615c69f7ca63cc3feda2f459b0"/>
+		<description>Monster Jam (Europe) (Fr,De,Es,It)</description>
+		<rom name="Monster Jam (Europe) (Fr,De,Es,It).iso" size="7835492352" crc="6cb2688c" md5="29cab0e9918fdd2c2542d3c644293d60" sha1="cff68e3bfdfd97615c69f7ca63cc3feda2f459b0"/>
 	</game>
 	<game name="Motion Explosion (USA, Europe)">
 		<category>Games</category>
@@ -16376,10 +16376,10 @@
 		<description>Scene It Luces, Camara, Accion! (Spain)</description>
 		<rom name="Scene It Luces, Camara, Accion! (Spain).iso" size="7835492352" crc="e50284d1" md5="80e3958c6dada9ab1d1e85c349df5c24" sha1="53c2d04c9f2df13c9b371e74ccf48b35307d65ff"/>
 	</game>
-	<game name="Spider-Man - Friend or Foe (Europe)">
+	<game name="Spider-Man - Friend or Foe (Europe) (Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Spider-Man - Friend or Foe (Europe)</description>
-		<rom name="Spider-Man - Friend or Foe (Europe).iso" size="7835492352" crc="b95a55c9" md5="f8aeb11cea75806bb2d5456377f0f629" sha1="ed038247d0e959ca6bfc66fa7d2e0771f14c3ee5"/>
+		<description>Spider-Man - Friend or Foe (Europe) (Fr,De,Es,It)</description>
+		<rom name="Spider-Man - Friend or Foe (Europe) (Fr,De,Es,It).iso" size="7835492352" crc="b95a55c9" md5="f8aeb11cea75806bb2d5456377f0f629" sha1="ed038247d0e959ca6bfc66fa7d2e0771f14c3ee5"/>
 	</game>
 	<game name="Wolfenstein (Spain) (En,Fr,De,Es,It,Ru)">
 		<category>Games</category>

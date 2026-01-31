@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260117-023118</version>
+		<version>20260130-110040</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -62,9 +62,15 @@
 		<description>Albert Odyssey (Japan) (8-23)</description>
 		<rom name="Albert Odyssey (Japan) (8-23).bs" size="1048576" crc="0a3c31dd" md5="f016b4eab7a1bde71864bb909971a888" sha1="181a133bfb3882204fb357c7d064c6ae27a3efc0" sha256="ff7c328cd2bee5618f30865e01e46bac68a8f831e2803c49b2e34f4554c44336"/>
 	</game>
-	<game name="Arkanoid - Doh It Again (Japan)" id="0133">
-		<description>Arkanoid - Doh It Again (Japan)</description>
-		<rom name="Arkanoid - Doh It Again (Japan).bs" size="524288" crc="7e79c43e" md5="4c85950f32176c1f9a56fa3fdcfb705b" sha1="ba956799914c09d3b1dc8a839f0552f5d15534cf" sha256="3e8c96a9c9d93f77b2d7231f9e26721081e4d4bcfb912c1603485f8e6e4aa386"/>
+	<game name="Arkanoid - Doh It Again (Japan) (En) (4-12) [b]" id="0133">
+		<category>Games</category>
+		<description>Arkanoid - Doh It Again (Japan) (En) (4-12) [b]</description>
+		<rom name="Arkanoid - Doh It Again (Japan) (En) (4-12) [b].bs" size="524288" crc="7e79c43e" md5="4c85950f32176c1f9a56fa3fdcfb705b" sha1="ba956799914c09d3b1dc8a839f0552f5d15534cf" sha256="3e8c96a9c9d93f77b2d7231f9e26721081e4d4bcfb912c1603485f8e6e4aa386" status="baddump" serial="A6"/>
+	</game>
+	<game name="Arkanoid - Doh It Again (Japan) (En) (4-10)" id="3969">
+		<category>Games</category>
+		<description>Arkanoid - Doh It Again (Japan) (En) (4-10)</description>
+		<rom name="Arkanoid - Doh It Again (Japan) (En) (4-10).bs" size="1048576" crc="47921f29" md5="18ef6df6a2048149c17727f337c81c8e" sha1="0dab1bac53ea5b0d6cf5f5eee391dbe50cc145f0" sha256="94c8d1286c9e04228250c9d0fad37a3966f2c688beaca610118bf78ffa551425" serial="A6"/>
 	</game>
 	<game name="B Dash - 2 Gatsugou (Japan) (Magazine)" id="0148">
 		<description>B Dash - 2 Gatsugou (Japan) (Magazine)</description>

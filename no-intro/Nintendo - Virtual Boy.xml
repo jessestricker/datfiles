@@ -4,7 +4,7 @@
 		<id>15</id>
 		<name>Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>20251106-224031</version>
+		<version>20260130-114942</version>
 		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -139,10 +139,10 @@
 		<description>Vertical Force (USA)</description>
 		<rom name="Vertical Force (USA).vb" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200" serial="VH3E"/>
 	</game>
-	<game name="Virtual Bowling (Japan)" id="0022">
+	<game name="Virtual Bowling (Japan) (En)" id="0022">
 		<category>Games</category>
-		<description>Virtual Bowling (Japan)</description>
-		<rom name="Virtual Bowling (Japan).vb" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06" serial="VVBJ"/>
+		<description>Virtual Bowling (Japan) (En)</description>
+		<rom name="Virtual Bowling (Japan) (En).vb" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06" serial="VVBJ"/>
 	</game>
 	<game name="Virtual Boy Wario Land (Japan, USA) (En)" id="0023">
 		<category>Games</category>

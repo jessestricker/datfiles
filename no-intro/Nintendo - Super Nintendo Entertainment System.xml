@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260129-140608</version>
+		<version>20260130-203123</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19434,6 +19434,12 @@
 		<description>Boogerman - A Pick and Flick Adventure (World) (Evercade)</description>
 		<rom name="Boogerman - A Pick and Flick Adventure (World) (Evercade).sfc" size="3145728" crc="ef7c3b9d" md5="ac1e0ff7e8769ac7dba59c816469c38d" sha1="f3276ee68e5d5bb9c89c95b1811e7ee9cc406e2e" sha256="0dad7eb112d98d7a854a35dd8b369c6d070645c335249a02c54930fbdd3ec77f"/>
 	</game>
+	<game name="Brainies, The (Europe) (Beta)" id="4557" cloneofid="0280">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Brainies, The (Europe) (Beta)</description>
+		<rom name="Brainies, The (Europe) (Beta).sfc" size="524288" crc="77cb39f2" md5="18a303d1902947ca0667a0fada104b1d" sha1="5a7202da8daf681e0546f87a6490c3a2c27d4846" sha256="505463f804fb3cdeed7163662e7075aec74f5127194eacb7e968685d8fee5da2"/>
+	</game>
 	<game name="Brawl Brothers (World) (Evercade)" id="4408" cloneofid="0290">
 		<category>Games</category>
 		<description>Brawl Brothers (World) (Evercade)</description>
@@ -19790,6 +19796,12 @@
 		<description>Humans, The (World) (Evercade)</description>
 		<rom name="Humans, The (World) (Evercade).sfc" size="1572864" crc="918ae6e0" md5="c496e69a0d0c0f12e015e0483ce8b3c6" sha1="f620f7b35433d8912ae71da850e4042dceb19f2f" sha256="2d168b536e89ace93cd171cb534cd58ce2d8a46df4a7f03a3bc14b026e257f75"/>
 	</game>
+	<game name="Hungry Dinosaurs (Europe) (Beta)" id="4558" cloneofid="1102">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Hungry Dinosaurs (Europe) (Beta)</description>
+		<rom name="Hungry Dinosaurs (Europe) (Beta).sfc" size="262144" crc="552c95d4" md5="c7870b73c32cec06d53a15a0eb944915" sha1="6355d1967c2826eb53319951908ac0ecabc4857e" sha256="0d2c103a273f7907cd572ad9b4ac8410b3f864c82f8fdd26f7a2a1d59203a9fe"/>
+	</game>
 	<game name="Ignition Factor, The (USA) (Beta)" id="4110" cloneofid="1117">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -19850,6 +19862,12 @@
 		<category>Games</category>
 		<description>Iron Commando (World) (v1.1) (Steam) (NTSC)</description>
 		<rom name="Iron Commando (World) (v1.1) (Steam) (NTSC).sfc" size="2097152" crc="2d911b58" md5="22e90c68b9d317c4b2afb1c5de4fe67c" sha1="7bcae41459f2ee9cc036b36142cd8f7075e1c3a8" sha256="9c6663a4f524ff3e230c3326ac57eddb519eeb8d22b5ac23e52af3d581dd32cd"/>
+	</game>
+	<game name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)" id="4559" cloneofid="1181">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)</description>
+		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample).sfc" size="1048576" crc="74ec9859" md5="f0021da95f5b1e313802ad2c16ff04b4" sha1="8922d657e6ecb15a585448843c884ec88e89111d" sha256="2d39c3a8d7a87d1be93d6cc794d4380edb6ba72d14f918b61e24a13f7b548a37"/>
 	</game>
 	<game name="Jelly Boy (Europe) (Beta 2)" id="4008" cloneofid="1197">
 		<category>Games</category>
@@ -20205,6 +20223,12 @@
 		<category>Preproduction</category>
 		<description>Newman Haas IndyCar featuring Nigel Mansell (USA) (Beta)</description>
 		<rom name="Newman Haas IndyCar featuring Nigel Mansell (USA) (Beta).sfc" size="2097152" crc="5f5c3285" md5="990e3f2f09053b18c0c0bf4ebd541f3c" sha1="564a0fe893b639f0f56db22e3d723e5335db8a40" sha256="f629fc14653f7871307b6fb69dcd0ab11a5d7adc7be3c020c61df2c8a5c8c862"/>
+	</game>
+	<game name="NHL 96 (Europe) (Sample)" id="4560" cloneofid="1797">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>NHL 96 (Europe) (Sample)</description>
+		<rom name="NHL 96 (Europe) (Sample).sfc" size="1572864" crc="b41fe776" md5="230a14ac538832b685ea7e65a9558b1f" sha1="666a3615d6d028114ace1e7bd290082bb124abb9" sha256="603edda6bfef42b9ae191c88ce93f1c11352905ec10d1eef98715425c4498615"/>
 	</game>
 	<game name="Nightmare Busters (Europe) (Proto 1) (1994-04-09)" id="4152" cloneofid="3691">
 		<category>Games</category>
@@ -20965,6 +20989,12 @@
 		<category>Games</category>
 		<description>Tetris Battle Gaiden (Japan) (Beta) (1993-10-08)</description>
 		<rom name="Tetris Battle Gaiden (Japan) (Beta) (1993-10-08).sfc" size="1048576" crc="de5a3efc" md5="70719aae2f31d95265348fb625af823b" sha1="1bc1e6bc0c2ea4339c15f27888e9ddbb77c0fc43" sha256="57ef1b0dbf15640e93da4ee66a0053a0872e748f336f3def7c0381f8e6963f12"/>
+	</game>
+	<game name="Tetsuwan Atom (Japan) (Beta)" id="4561" cloneofid="3047">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Tetsuwan Atom (Japan) (Beta)</description>
+		<rom name="Tetsuwan Atom (Japan) (Beta).sfc" size="1572864" crc="4b0f970b" md5="38738d3714b67faf91e10a4ef479d185" sha1="5d0192b88d6269b58ade48de9e2131510842a696" sha256="fbd8f171cb8d5905288e36d440f034e4cd879db4f80ab0d823d537d626deb087"/>
 	</game>
 	<game name="Theme Park (Europe) (En,Fr,De) (Beta)" id="4472" cloneofid="3048">
 		<category>Games</category>
