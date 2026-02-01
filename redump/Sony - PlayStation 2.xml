@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11743) (2026-01-31 19-42-25)</description>
-		<version>2026-01-31 19-42-25</version>
-		<date>2026-01-31 19-42-25</date>
+		<description>Sony - PlayStation 2 - Discs (11743) (2026-02-01 02-01-57)</description>
+		<version>2026-02-01 02-01-57</version>
+		<date>2026-02-01 02-01-57</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1683,10 +1683,10 @@
 		<description>Final Fantasy X (France)</description>
 		<rom name="Final Fantasy X (France).iso" size="4598792192" crc="5a0b02bc" md5="7be5d6faddbe6e118436682bd873a8ef" sha1="8ece95076c66d6d14de1acd7c2867264ce52838b"/>
 	</game>
-	<game name="Need for Speed - Carbon (USA)">
+	<game name="Need for Speed - Carbon (USA, Canada)">
 		<category>Games</category>
-		<description>Need for Speed - Carbon (USA)</description>
-		<rom name="Need for Speed - Carbon (USA).iso" size="3698720768" crc="15bb997c" md5="bd7cb624a86abe7c185090005ae15564" sha1="327d54e6dec66b94640e946992ca022921b832b6"/>
+		<description>Need for Speed - Carbon (USA, Canada)</description>
+		<rom name="Need for Speed - Carbon (USA, Canada).iso" size="3698720768" crc="15bb997c" md5="bd7cb624a86abe7c185090005ae15564" sha1="327d54e6dec66b94640e946992ca022921b832b6"/>
 	</game>
 	<game name="Burnout 3 - Takedown (USA, Canada)">
 		<category>Games</category>

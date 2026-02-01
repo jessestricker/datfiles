@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2409) (2026-01-26 12-53-29)</description>
-		<version>2026-01-26 12-53-29</version>
-		<date>2026-01-26 12-53-29</date>
+		<description>Sega - Saturn - Discs (2413) (2026-02-01 20-26-39)</description>
+		<version>2026-02-01 20-26-39</version>
+		<date>2026-02-01 20-26-39</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -39610,5 +39610,111 @@
 		<rom name="Pocket Fighter (Japan) (Demo) (Track 33).bin" size="11106144" crc="a9df461d" md5="b8c33d284ce39ce93d41354faed62397" sha1="2a24876ad401c8dcec7da645716bb2575236f218"/>
 		<rom name="Pocket Fighter (Japan) (Demo) (Track 34).bin" size="3706752" crc="a78e9028" md5="4d4906455fb03271e7957a487651a7f4" sha1="912c85588887eca8342f906e973c718c294e86fe"/>
 		<rom name="Pocket Fighter (Japan) (Demo) (Track 35).bin" size="10936800" crc="c25e28f1" md5="2064026e723129977192c60d12773eb7" sha1="265f6444e2d283cf1b13018c07f4946a1e5ea9be"/>
+	</game>
+	<game name="Daytona USA - Championship Circuit Edition (Korea)">
+		<category>Games</category>
+		<description>Daytona USA - Championship Circuit Edition (Korea)</description>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea).cue" size="3920" crc="28e36118" md5="aae199cbbd29943e8fd8ce0c426c8060" sha1="58eb03a25031bab25af21709e0feb74ffce38090"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 01).bin" size="24394944" crc="4660fb13" md5="fb3bfd6ea398a09e00fbebee9859b75f" sha1="93a47270ea6132b6ad30c94e823f2cce2438d483"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 02).bin" size="50492736" crc="563c8056" md5="811b488e3accfaa9abe25d4405f5323c" sha1="0080aa9725e913d840e1fdc3b08ec7332f287ff5"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 03).bin" size="44236416" crc="e9502739" md5="474c27d86ab903641683a4afcc7c367f" sha1="1d7b3b90aea4a1130b4b0d5e6561b338357ff270"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 04).bin" size="55994064" crc="3a87ff11" md5="397e73a8e72bde3bc6495b51538d7517" sha1="14d343eead73be5c1beaff20bbd52e413e4aad0e"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 05).bin" size="47014128" crc="dd5b5029" md5="a1c6322f529aeb7506d1f85434c536ee" sha1="1e363b4f850e9954cf311211f1f9a8644f199ad2"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 06).bin" size="48655824" crc="62a0c872" md5="1db6e4d7d54cee126398d8aa5ce05a35" sha1="23f33050a7330c8eea480af8878ef3157b59250f"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 07).bin" size="42241920" crc="0f602c28" md5="8bb1f4385f3df1abc114787fbff0a2f9" sha1="0ca85bd80bb8b9967721edece655b7e93da1ecb2"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 08).bin" size="54437040" crc="95a33ccf" md5="149ac4abb93011c014d64285723e1fb8" sha1="e1d783a4c9bbb935b14ee19be5217802d73fd98c"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 09).bin" size="1942752" crc="808485b9" md5="8c9d6b1608d1d9e4c95bbc33a22d8c76" sha1="9c97bc394b4a9f76155a3d2250aaf4f5524af9b6"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 10).bin" size="2086224" crc="6835fbf4" md5="92dfae2afe743886c3df7cb09eda8f58" sha1="b270292c479dc7d8212ee763a8463f2d75ab851e"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 11).bin" size="1477056" crc="110cea4c" md5="c31ab17156b0d964f73b923de488bf4b" sha1="2d34c9b6214e7df918d25791e3519f076768364f"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 12).bin" size="2112096" crc="eaf646ac" md5="cd552a71022f0de6676c6612ad0f0ef0" sha1="c75c3009a412a95de2e39cd66feeced38bfb2d48"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 13).bin" size="1735776" crc="b4ca5921" md5="dba286d34359dcb12dda6ecad900ebe0" sha1="8912e02b073de85b348d400a90482c051820812e"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 14).bin" size="1853376" crc="1ac96911" md5="93b9b1185353dcc13508f1725b73d8da" sha1="46aec884233c2cc436a2f6be63123f40cff0cb18"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 15).bin" size="2295552" crc="a3a62a73" md5="ba9205430413c7b1656dea37f37df002" sha1="7b54b48ccd834760b8e3e4f21c961b5c72ab7e5d"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 16).bin" size="7117152" crc="dfd469f0" md5="14eaaeb9a5fc4a2ab8eadc6fbc1ed3c4" sha1="ae4c9b4bfb054be606396bf3662c00514490d7eb"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 17).bin" size="6352752" crc="424d0a59" md5="4833aa260f99d4ee66de886390fcf477" sha1="1fc82bbcf0b24f8fc38136acbc661801fc3bc43d"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 18).bin" size="6077568" crc="b9404722" md5="f3b54c12abad29878b87784522fc6733" sha1="4d97ed0ed03dd6cd67981a3cf938d2d5a061fb54"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 19).bin" size="7592256" crc="8626579f" md5="44f7dbe86ca4f2a6dfba36863055a844" sha1="ffd9cead512f09631155279f7c5c65ec6e60c61b"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 20).bin" size="5854128" crc="cecdff1b" md5="f2abff410a0d164505983f46a2e9e140" sha1="492b80b59492b321c0adb8f8de6b3ef33636ff0d"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 21).bin" size="7688688" crc="8627409a" md5="a60b67a782b0f6c520216e33b34292a8" sha1="f95de44da534d7c204a3cb7ed7f082abeb0a06ea"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 22).bin" size="6867840" crc="530a7b68" md5="e41575ef8c578da43178db33c81bb2c9" sha1="26052cd00935bd0f40abc73df78758709b49d7d7"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 23).bin" size="16607472" crc="d90ac1a6" md5="9f6454d59281f3d3e466c9d61137d407" sha1="69424baad3e3ab2831fabe3e1af216977f16f8e9"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 24).bin" size="48629952" crc="ed53e20b" md5="7feb86a6333bb17ae65dc089d3ca1c4b" sha1="9a83c8005ce819408169c148098ef796cae2123c"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 25).bin" size="1714608" crc="c367101a" md5="b19b9ba5ae6078617f77615c3abe5bfc" sha1="dcdcc1cfec6d992f2855b5eba840a69859be156a"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 26).bin" size="11571840" crc="78fb4d54" md5="7d02b701fe075e47fa07a3cae8970a84" sha1="57bcd456780df3b7ec0e10375ae15f5ce88c2126"/>
+		<rom name="Daytona USA - Championship Circuit Edition (Korea) (Track 27).bin" size="19112352" crc="8fb98393" md5="37224d60eeb8ed8a21f7bdee3094f0d9" sha1="0a1d97a21afc10ab6e31b953375689b17c890323"/>
+	</game>
+	<game name="Virtua Cop 2 (Korea)">
+		<category>Games</category>
+		<description>Virtua Cop 2 (Korea)</description>
+		<rom name="Virtua Cop 2 (Korea).cue" size="5042" crc="ab545753" md5="370ffbc606bb7f24ea00e2cd44ac06ca" sha1="8279c8076775ec14a519ed2027b7d5179a343cd5"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 01).bin" size="37693152" crc="e27ad52c" md5="05a3aa6a4e5bee396ac18bc367ad38af" sha1="1995dab2517c37798d38de1190dc094b8c82af9b"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 02).bin" size="1618176" crc="21d06bff" md5="433a76b82d9df9eb5b3379dac38f0d57" sha1="21a967e3235b35005e9d82f66ddb2f5dc94220ba"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 03).bin" size="10711008" crc="f94be250" md5="65e57dd4f0b61ed00c90de6f8300cee6" sha1="26411e0467760b509d828bbd6d69a5866180c4f2"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 04).bin" size="1058400" crc="bea5372b" md5="e9da580a61aa41bcde4d7f4efd9eeeef" sha1="1596fad9fcf3ada61a9051f9ada7069dc4753286"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 05).bin" size="11630640" crc="32e0e712" md5="2b0434e53b7152cb8bdc1cb84ac2dd20" sha1="fd997b723cc73e99ae71b545a79de71a5305f6cb"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 06).bin" size="1058400" crc="24b123bf" md5="eaaf790d34747df64f597479c237fc7c" sha1="9a5291b7ac11584414da374d8bd78f51aa51f87c"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 07).bin" size="1058400" crc="0a25a5f1" md5="9ac299496c3d990fcf5ed14c6db554ae" sha1="0e6d9415498f26ffb81fe9c34b125f31ebf1699c"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 08).bin" size="1058400" crc="22277934" md5="d455e7d79c75a142b7229519dc4336f0" sha1="63bdfe75a104448aae1f99d2551c0c4f4fca51e3"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 09).bin" size="1058400" crc="d9120d51" md5="d56d21ba11e0d935be3171a03a0d646f" sha1="39c9bb0a522519b89dcffb4a2eee0a7ea8a48ff6"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 10).bin" size="21558432" crc="70e1530f" md5="825a7e9f1a672ae411778df89783b773" sha1="c1313ca8f8194c05e2b770b4585804dbd20d9feb"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 11).bin" size="20829312" crc="071d22a4" md5="5366c17b8315ae18d52b768eb20b9059" sha1="acbb7442086489f3f15e732c982f94289ef89788"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 12).bin" size="22917888" crc="8c1be580" md5="a98756a6ef2fc8367967c18e72e92756" sha1="82bc1da3c77899df495e48274c6577b9b10d5266"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 13).bin" size="19291104" crc="bc6d09ae" md5="70c866aa4a741c899c1b743ecc840e25" sha1="8b690f98d55cdeb6b96038b9f2136f7a9f856158"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 14).bin" size="19599216" crc="7ad0343b" md5="372e643addd6e5570aaa292c667796d4" sha1="fb506b1f4958d041444f7c89f7fe2aad51049bad"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 15).bin" size="20507088" crc="f0c9593f" md5="e5b434f187e2c6267bbf11669d2d935c" sha1="540739103359749a6132caabbbbc05aa278f2bd1"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 16).bin" size="19349904" crc="51ced138" md5="74f26b5952716e69b8b64a2fb74ed1d2" sha1="997aa0d099da3c535dde5af8ca3e5dab866d0f49"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 17).bin" size="34802544" crc="e502a03c" md5="e9b13fd653728325c6a727ebf57a9287" sha1="8e4ed286dfbd28c5a933b0965beb6d539576c4bd"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 18).bin" size="18898320" crc="8fe09a00" md5="66c72b962575b9b95f04d8c7136513cf" sha1="5a9837c932dfe5177fe6c714934502101b085eee"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 19).bin" size="18286800" crc="b445a9fa" md5="e60d44b694297599109f6927eecde17a" sha1="7d94528bcbfd9647f6fe0ad745a0d68e93243f96"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 20).bin" size="12054000" crc="45700e35" md5="74f0f2b83c0ae98f04cd7c21af5c7afd" sha1="a14dc3670335dc304e464762f264800ad53e488c"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 21).bin" size="17266032" crc="9fcdee4c" md5="51a3973697c2f455c6e421fbf423882d" sha1="33b7576f936c9a7161cf192c7be917399150567b"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 22).bin" size="1319472" crc="47d79a77" md5="24d25ab71cbe2978f92cc9e45fd022ed" sha1="df7b202a71ddcb8c60cd39b8a65ef908b8a9a216"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 23).bin" size="11734128" crc="06a7f048" md5="e54ab4a646439939f21f33373667fe5d" sha1="31f64eef6fab598861008682ad09b11093c7d3a4"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 24).bin" size="13806240" crc="35302a41" md5="36e5882c0ea97e29455f18e6034e0a88" sha1="ef51ec6e18505e4bf4ca3e892eb93df423a70e7a"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 25).bin" size="1058400" crc="3d6b8f77" md5="9c52e76adbb45684a5dab8405cf57d17" sha1="7e7fcafde1aa47e14d2b09e9d34aed228b676a81"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 26).bin" size="1058400" crc="866873e1" md5="48353060101aa150a14c2e82d831d68e" sha1="d382b58bf7cf32e663e9830f158104a61a00c0cb"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 27).bin" size="1058400" crc="5e0112b9" md5="7c2900efcd4910c7846cfddf3e635ef2" sha1="d22dfcda2f415b19fb362d7f5f05fbacbafcb352"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 28).bin" size="1058400" crc="203a4637" md5="8908c7066515fc0a6e5ef2b50c773e2e" sha1="8ad24f88cb9a465f9249674bfad1e4da726e124f"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 29).bin" size="1058400" crc="64f41d11" md5="6c2e8add9583217ef16a0206c958ff22" sha1="2c17c4af56d545f71e0ae6b844592601e83e6679"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 30).bin" size="1058400" crc="6b46ef7f" md5="6a6d3a62baf37e2c05725b7fe8e54b87" sha1="90687d772f7cdf8ea0d07e42ca23242393aa8c18"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 31).bin" size="1058400" crc="b6443764" md5="2970c14faf29e823c4eb9376d4490a8e" sha1="b5965162b9008f8ecbcf447687bf2c85c6877586"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 32).bin" size="1058400" crc="7ccf4156" md5="6390d44f7db443c488ef9d9aa2154196" sha1="9d056a8dbaeab28d254bbb23384ad72f155e874b"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 33).bin" size="1058400" crc="114c366a" md5="10411469893446a08846d30e9ec788d4" sha1="617eb80e9c59cbc4ae83fbd2c0533ecd7c4a2062"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 34).bin" size="1058400" crc="43356002" md5="3569144a8b8633f5f65ba55cc6e66541" sha1="0b342b28a34e6c0d38c921d5ae39f5b68637dfa4"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 35).bin" size="1145424" crc="0d46e7a4" md5="969995a4e0ac2652f1c7ebe687e827d8" sha1="2fd4b169c603b2bc604bf85bafc8bb0eeb7e9e79"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 36).bin" size="1058400" crc="c4791375" md5="cca158564f47f9f871c75b1ed1ff28e0" sha1="da2ac468b82837608a8b043352499029d580ed3e"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 37).bin" size="1058400" crc="772bf91d" md5="b2149d3017a707808d9402dae8ddddeb" sha1="acb183bb207d41b0244939ed38c9b9f278aef8d0"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 38).bin" size="1058400" crc="546ef1fe" md5="0426813bc93c13ef21c9666fa4c02344" sha1="ddeb4051e9a874b46111e39a38484659c550b90d"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 39).bin" size="1058400" crc="33f5e3e4" md5="0a72cca0f6a15b2e601615b6919c4089" sha1="c95c2bf0022f5827dd597e5671c744633cedcf69"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 40).bin" size="1058400" crc="428708a5" md5="50aac87239bc5fea8ebe0135caa52477" sha1="d6385cdd034135cefe583619202073305b183292"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 41).bin" size="1058400" crc="d047769a" md5="ca7eaaaa52443ecdd42d116f1b163f3c" sha1="f06dd77d96c08428bc5cea39d06416270fd51cc1"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 42).bin" size="1058400" crc="508d5f30" md5="6c7db18be82b52dcb3a8a670a75e4d94" sha1="432bdf43da0cdde66301286081404124a2b41def"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 43).bin" size="1058400" crc="8064042e" md5="78b44dac5d2cfb74ef44678d379386c2" sha1="30255a1c75088772d9f28bffe090ca57007e843b"/>
+		<rom name="Virtua Cop 2 (Korea) (Track 44).bin" size="1058400" crc="dae55857" md5="63906f78962b331388c41c08b61ae571" sha1="e6ac8c03cfed35223543c852fd73165cdc738483"/>
+	</game>
+	<game name="Impact Racing (Korea)">
+		<category>Games</category>
+		<description>Impact Racing (Korea)</description>
+		<rom name="Impact Racing (Korea).cue" size="1165" crc="8d0bbf79" md5="9874384f4144786d6d5dfdc6878c0ee3" sha1="0574142027835e8dbfd544b4f2e14256f84929b3"/>
+		<rom name="Impact Racing (Korea) (Track 01).bin" size="45927504" crc="2db4ad38" md5="d83dd6b2908c5a7e7fcf510314874bb4" sha1="7d27ced67cee2b30903121bf06be035d1609f20d"/>
+		<rom name="Impact Racing (Korea) (Track 02).bin" size="27370224" crc="c7b9817c" md5="c8991b118c2a522353ab9a82996c5b34" sha1="c01658e4a983849af27976108f537e425be3a003"/>
+		<rom name="Impact Racing (Korea) (Track 03).bin" size="32843328" crc="94ebf61e" md5="def3a53c02f440c72643e127329b8efa" sha1="0ce34365fc9b46fc0312dcb2e6433f7a623f43e3"/>
+		<rom name="Impact Racing (Korea) (Track 04).bin" size="73690512" crc="305a62c7" md5="ecc6f3952134d410bea1d5dc39b29a1a" sha1="39b63ee0ba917b4eedeb99ced273e379f5cebeab"/>
+		<rom name="Impact Racing (Korea) (Track 05).bin" size="67300128" crc="d2e4b19f" md5="3876195fd6f605d5df287194b2f362e2" sha1="ad29092eb191697c8471c5a689003dfbe4c53228"/>
+		<rom name="Impact Racing (Korea) (Track 06).bin" size="54140688" crc="b5b7017c" md5="fa0b60905f73d17674a7d5506edf1519" sha1="afa5674772c810c28035a313e658576916e6e595"/>
+		<rom name="Impact Racing (Korea) (Track 07).bin" size="66208800" crc="411c84dc" md5="6467d0c53a6a813be6361841f2212ed8" sha1="b4759c806b0fb0dfe7369d628bc3a533e8a26745"/>
+		<rom name="Impact Racing (Korea) (Track 08).bin" size="44843232" crc="c6059ca8" md5="3efc242625cb3dd3ad75f987b8906128" sha1="4ba2427f63aae8fb66130b5d2e9f850a399442c9"/>
+		<rom name="Impact Racing (Korea) (Track 09).bin" size="45527664" crc="646989c6" md5="7614fce249bfd4c6f063f96e79ad5464" sha1="4d138aee8e6440001d3b6905065d282c0bfe6e72"/>
+		<rom name="Impact Racing (Korea) (Track 10).bin" size="62657280" crc="b0af0f94" md5="33455186bfe55ff2fe2dd33d21328c28" sha1="a935e3c251efc2fec2022256dea19d9b8b34faa8"/>
+	</game>
+	<game name="World Series Baseball 98 (Korea)">
+		<category>Games</category>
+		<description>World Series Baseball 98 (Korea)</description>
+		<rom name="World Series Baseball 98 (Korea).cue" size="635" crc="9fad1951" md5="9ec141c1021484ff905931e7e487aa90" sha1="00c404d69cd312987b2c3bd0ba5f0fa6e53a2b3d"/>
+		<rom name="World Series Baseball 98 (Korea) (Track 1).bin" size="389531184" crc="7c826f5b" md5="653a3643b2c26aac5917e559ec41e203" sha1="3fd25afb4591dfc979de58e95f09f35ac66f8a84"/>
+		<rom name="World Series Baseball 98 (Korea) (Track 2).bin" size="7277088" crc="83a536d1" md5="36bfad4200d29f63fa01a3fb9e035afd" sha1="6b9129aab476d5d93f9bf6aea1bb59ad8a3e4bd2"/>
+		<rom name="World Series Baseball 98 (Korea) (Track 3).bin" size="7592256" crc="5fac9b94" md5="901486e095af20b82c1e808e2d920295" sha1="5ea4b17d048ded9b72f2e8c28e94b2316d978af6"/>
+		<rom name="World Series Baseball 98 (Korea) (Track 4).bin" size="13345248" crc="9b95fc55" md5="57721c0d7edacde06800ebfa309d2209" sha1="64c0f5643c0f710ac5426010c8750e7791bd324c"/>
+		<rom name="World Series Baseball 98 (Korea) (Track 5).bin" size="12479712" crc="fc853c87" md5="fa740f44c652cbb951468a3d8e4a2b74" sha1="25c68151f01a46a9b19ff05bfabfa35d95f7d32a"/>
 	</game>
 </datafile>

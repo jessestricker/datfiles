@@ -4,7 +4,7 @@
 		<id>41</id>
 		<name>Nintendo - Game Boy Advance (e-Reader)</name>
 		<description>Nintendo - Game Boy Advance (e-Reader)</description>
-		<version>20260130-073119</version>
+		<version>20260131-102242</version>
 		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8324,21 +8324,21 @@
 		<description>Pokemon Card-e - Wind from the Sea - D-71-# (Japan)</description>
 		<rom name="Pokemon Card-e - Wind from the Sea - D-71-# (Japan) (Short Strip).raw" size="1872" crc="dadbd07c" md5="c978810169d4b0ff743ff7adb2dadae1" sha1="348ebf308076c6390bd27c0c6718cfee41ddd202"/>
 	</game>
-	<game name="Pokemon Card-e - Z-01-a (Japan) (Promo)" id="2415">
-		<description>Pokemon Card-e - Z-01-a (Japan) (Promo)</description>
-		<rom name="Pokemon Card-e - Z-01-a (Japan) (Promo) (Short Strip).raw" size="1872" crc="1a3dcb8b" md5="295d92a0a1a509bb9746dc3ad51afc37" sha1="17eaefddee1ba36983bc049d1b1524a510bbc8b7"/>
+	<game name="Pokemon Card-e - Z-01-a (Japan) (Promo) [b]" id="2415">
+		<description>Pokemon Card-e - Z-01-a (Japan) (Promo) [b]</description>
+		<rom name="Pokemon Card-e - Z-01-a (Japan) (Promo) (Short Strip) [b].raw" size="1872" crc="1a3dcb8b" md5="295d92a0a1a509bb9746dc3ad51afc37" sha1="17eaefddee1ba36983bc049d1b1524a510bbc8b7" status="baddump"/>
 	</game>
-	<game name="Pokemon Card-e - Z-01-b (Japan) (Promo)" id="2416">
-		<description>Pokemon Card-e - Z-01-b (Japan) (Promo)</description>
-		<rom name="Pokemon Card-e - Z-01-b (Japan) (Promo) (Short Strip).raw" size="1872" crc="4afb38a1" md5="0f765f64ed2f44bcd91c55a0a35c1d48" sha1="d5273fa008858d2a04479788f5593cae3ff9cdfa"/>
+	<game name="Pokemon Card-e - Z-01-b (Japan) (Promo) [b]" id="2416">
+		<description>Pokemon Card-e - Z-01-b (Japan) (Promo) [b]</description>
+		<rom name="Pokemon Card-e - Z-01-b (Japan) (Promo) (Short Strip) [b].raw" size="1872" crc="4afb38a1" md5="0f765f64ed2f44bcd91c55a0a35c1d48" sha1="d5273fa008858d2a04479788f5593cae3ff9cdfa" status="baddump"/>
 	</game>
-	<game name="Pokemon Card-e - Z-01-c (Japan) (Promo)" id="2417">
-		<description>Pokemon Card-e - Z-01-c (Japan) (Promo)</description>
-		<rom name="Pokemon Card-e - Z-01-c (Japan) (Promo) (Short Strip).raw" size="1872" crc="2ab6c9ba" md5="bb719fa714e9481bf45a608928470113" sha1="b4a8be62f4503d1142870f6626326380ca006367"/>
+	<game name="Pokemon Card-e - Z-01-c (Japan) (Promo) [b]" id="2417">
+		<description>Pokemon Card-e - Z-01-c (Japan) (Promo) [b]</description>
+		<rom name="Pokemon Card-e - Z-01-c (Japan) (Promo) (Short Strip) [b].raw" size="1872" crc="2ab6c9ba" md5="bb719fa714e9481bf45a608928470113" sha1="b4a8be62f4503d1142870f6626326380ca006367" status="baddump"/>
 	</game>
-	<game name="Pokemon Card-e - Z-01-d (Japan) (Promo)" id="2418">
-		<description>Pokemon Card-e - Z-01-d (Japan) (Promo)</description>
-		<rom name="Pokemon Card-e - Z-01-d (Japan) (Promo) (Short Strip).raw" size="1872" crc="ac5a75b8" md5="6dbd5d4597cfd6fcd2bc56de1828005a" sha1="418e93e60eaffcd25639a8595a46304e061780b4"/>
+	<game name="Pokemon Card-e - Z-01-d (Japan) (Promo) [b]" id="2418">
+		<description>Pokemon Card-e - Z-01-d (Japan) (Promo) [b]</description>
+		<rom name="Pokemon Card-e - Z-01-d (Japan) (Promo) (Short Strip) [b].raw" size="1872" crc="ac5a75b8" md5="6dbd5d4597cfd6fcd2bc56de1828005a" sha1="418e93e60eaffcd25639a8595a46304e061780b4" status="baddump"/>
 	</game>
 	<game name="Pokemon Card-e - Z-02-# (Japan) (Promo)" id="2419">
 		<description>Pokemon Card-e - Z-02-# (Japan) (Promo)</description>
@@ -9368,13 +9368,13 @@
 		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P001 - No. 1 Trainer (Japan) (Promo)</description>
 		<rom name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P001 - No. 1 Trainer (Japan) (Promo).raw" size="1872" crc="677ca8c4" md5="d3399853b33a6b459f0a024efd621ea3" sha1="c6e8d5e415b6685bead7c04770ddf962bf5c89e5" sha256="b6f98f61631a77934e2672e4486f75663ba71f640c2dcd1f670b1010cfc28760"/>
 	</game>
-	<game name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo)" id="3246">
-		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo)</description>
-		<rom name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo).raw" size="1872" crc="c1272984" md5="fe8e7b7ca3ce7b5dc91d323f55a005d6" sha1="fa793a788f3a854fd3046444886b2e42c63f84bf" sha256="e122d10d2efe889711bd5df348e35b72145018ae477788ff7ada5ce1f181c229" status="verified"/>
+	<game name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo) [b]" id="3246">
+		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo) [b]</description>
+		<rom name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo) [b].raw" size="1872" crc="c1272984" md5="fe8e7b7ca3ce7b5dc91d323f55a005d6" sha1="fa793a788f3a854fd3046444886b2e42c63f84bf" sha256="e122d10d2efe889711bd5df348e35b72145018ae477788ff7ada5ce1f181c229" status="baddump"/>
 	</game>
-	<game name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo)" id="3252">
-		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo)</description>
-		<rom name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo).raw" size="1872" crc="78d87279" md5="5d715b2b79b13742209c729dfaf3557d" sha1="d62706e74879139249f218dcbbdadfada19ba66d" sha256="290d6dd7fa6ed2ed1be61d89cc315cc9e7cc263a33181e71d7422e3d3520131f"/>
+	<game name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo) [b]" id="3252">
+		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo) [b]</description>
+		<rom name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P003 - No. 3 Trainer (Japan) (Promo) [b].raw" size="1872" crc="78d87279" md5="5d715b2b79b13742209c729dfaf3557d" sha1="d62706e74879139249f218dcbbdadfada19ba66d" sha256="290d6dd7fa6ed2ed1be61d89cc315cc9e7cc263a33181e71d7422e3d3520131f" status="baddump"/>
 	</game>
 	<game name="Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P004 - No. 1 Trainer (Japan) (Promo)" id="3248">
 		<description>Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P004 - No. 1 Trainer (Japan) (Promo)</description>
@@ -10859,9 +10859,9 @@
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Long Strip).raw" size="2912" crc="0701b8ec" md5="5b3daf3c913c08f9b027641c445a6e54" sha1="af3833c2f44ef7690e01af8eed68afa943f16aa9"/>
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Short Strip).raw" size="1872" crc="3d8da6e9" md5="f2f77a6a262e84341938cb229cbd3c18" sha1="a2d5138e61db9c018a5de9753568f6c660b44a81"/>
 	</game>
-	<game name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)" id="3259">
-		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)</description>
-		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip).raw" size="2912" crc="aa0d7236" md5="77541da9a672c26d8b04d58849dda00d" sha1="ded88cd33b0e09a8918b70faf2d7d0ea42a03ad8" sha256="19373196cbb2a17b9827a4b703729486c70b53ce9ffa4b1d398973dda4b6f975"/>
+	<game name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) [b]" id="3259">
+		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) [b]</description>
+		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip) [b].raw" size="2912" crc="aa0d7236" md5="77541da9a672c26d8b04d58849dda00d" sha1="ded88cd33b0e09a8918b70faf2d7d0ea42a03ad8" sha256="19373196cbb2a17b9827a4b703729486c70b53ce9ffa4b1d398973dda4b6f975" status="baddump"/>
 		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Short Strip).raw" size="1872" crc="a71f27d6" md5="4a2d37f0396acab1eb89e711df8e69b6" sha1="22d58e79bfb721e51c9627d18c74c85aca4771cc" sha256="ccce55d3470b873ac10e5712ac8d026efc818ee0873455afe7853a3d030293bc"/>
 	</game>
 	<game name="Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)" id="2301">

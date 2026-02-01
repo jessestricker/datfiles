@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260117-153535</version>
+		<version>20260131-135537</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -618,6 +618,12 @@
 	<game name="Charlie Blast's Territory (USA)" id="0125" cloneofid="0124">
 		<description>Charlie Blast's Territory (USA)</description>
 		<rom name="Charlie Blast's Territory (USA).z64" size="4194304" crc="531f98b5" md5="747e76d50dc3c06fd35e146129706a60" sha1="30cd3d202ae7f79a1e775c701d84370e2aff498a" sha256="7a201d5cc030a921425aa1583edcecdf4394a258819be46c3a0d557c8d1fd7e5" serial="NCBE"/>
+	</game>
+	<game name="Charlie Blast's Territory (USA) (Beta)" id="1313" cloneofid="0124">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Charlie Blast's Territory (USA) (Beta)</description>
+		<rom name="Charlie Blast's Territory (USA) (Beta).z64" size="4194304" crc="2babb35c" md5="8ef72adb2e48312920ceb381a7aeabca" sha1="e778fda196b57d92fedfa5c82aa02b83e4fc0344" sha256="fb447a9d48d13927e0c0cb6ae3db5757b2322a4e7b93dc3ef3437617e204ba65" serial="NCBE"/>
 	</game>
 	<game name="Chopper Attack (Europe)" id="0126">
 		<description>Chopper Attack (Europe)</description>
@@ -2725,6 +2731,7 @@
 		<rom name="Nintendo All-Star! Dairantou Smash Brothers (Japan).z64" size="16777216" crc="04c9d3b1" md5="66db457b130d31a286a23d6e4dd9726e" sha1="4b71f0e01878696733eefa9c80d11c147ecb4984" sha256="527bdd5a36d6f1b90988523ac8d44276e32b44cf93f609ef6d76f399c9733f25" status="verified" serial="NALJ"/>
 	</game>
 	<game name="Nuclear Strike 64 (Europe) (En,Fr)" id="0519">
+		<category>Games</category>
 		<description>Nuclear Strike 64 (Europe) (En,Fr)</description>
 		<rom name="Nuclear Strike 64 (Europe) (En,Fr).z64" size="33554432" crc="9afbfcaf" md5="710ba49ebd5c9a2b26653fae93bd667a" sha1="34a23cfa247de4e8ecdb8d72431af93d35c69753" sha256="5e2a6401cc36c760996aa0a49f4e76181a03f723cbe9bc3d555ce320f3a7cd09" status="verified" serial="NCEP"/>
 	</game>
@@ -2749,6 +2756,12 @@
 		<category>Games</category>
 		<description>Nuclear Strike 64 (USA) (Beta) (Earlier)</description>
 		<rom name="Nuclear Strike 64 (USA) (Beta) (Earlier).z64" size="33554432" crc="b213152c" md5="db01748f770db0085a80d8c9d3d2efa2" sha1="b0f30fadf076c8ea9ab34a4d19834d86eac8487c" sha256="49074f2ba1b9010d35bcf437e0338a90033e5089d4e04bab98ffad07e7ced499" serial="!none"/>
+	</game>
+	<game name="Nuclear Strike 64 (Europe) (Beta)" id="1314" cloneofid="0519">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Nuclear Strike 64 (Europe) (Beta)</description>
+		<rom name="Nuclear Strike 64 (Europe) (Beta).z64" size="33554432" crc="9049ad0d" md5="3dc227fbe711ee89ed691cbf34ebf6c1" sha1="0ab2ff639a41f5181d35aaaff4b570ef279616f0" sha256="9a9bff553104628afd4a97e2cef44dce2d60c5c2f600941cbfdcd1ab28106343" serial="NCEP"/>
 	</game>
 	<game name="Nushi Zuri 64 (Japan)" id="0522" cloneofid="0885">
 		<description>Nushi Zuri 64 (Japan)</description>
@@ -3490,11 +3503,17 @@
 		<description>Shadow Man (Europe) (En,Es,It) (Beta)</description>
 		<rom name="Shadow Man (Europe) (En,Es,It) (Beta).z64" size="33554432" crc="bccae03e" md5="9128a7df308bd54eb8c39dae035bffdf" sha1="fcdbf5bd0f08f747294cc120ab558018c6f0eb2e" sha256="725f88d57ed10c63c3f16eefcd7a6d007ad79857eefd4a790bbd2ff2b4017d46" serial="NBCE"/>
 	</game>
-	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)" id="1125" cloneofid="0657">
+	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)" id="1125" cloneofid="0657">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)</description>
-		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).z64" size="16777216" crc="45231b9f" md5="1cf28070533ff9e0006ee932d8b39fb9" sha1="b6fdb4bff2a6983a5d84e285a2f427bbd5f63d93" sha256="77ce7d9ae142be989a5b77ddf0609bbdc2157b74dc86d9df9d87cf23cd306909" serial="NSGE"/>
+		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)</description>
+		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1).z64" size="16777216" crc="45231b9f" md5="1cf28070533ff9e0006ee932d8b39fb9" sha1="b6fdb4bff2a6983a5d84e285a2f427bbd5f63d93" sha256="77ce7d9ae142be989a5b77ddf0609bbdc2157b74dc86d9df9d87cf23cd306909" serial="NSGE"/>
+	</game>
+	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)" id="1315" cloneofid="0657">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)</description>
+		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2).z64" size="16777216" crc="004510c8" md5="848e5a8b97762476143cc0856d01297c" sha1="a9e1b1de4bf2f9df3a26c77a772768ad34830c9b" sha256="cc283ce8d1a77b4b57cd36f78351476a284208cdfb86b1e2d427578abd021d40" serial="NSGE"/>
 	</game>
 	<game name="Shadowgate 64 - Trials of the Four Towers (Europe)" id="0657">
 		<description>Shadowgate 64 - Trials of the Four Towers (Europe)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns</name>
-		<description>Fujitsu - FM-Towns - Discs (946) (2026-01-26 21-21-19)</description>
-		<version>2026-01-26 21-21-19</version>
-		<date>2026-01-26 21-21-19</date>
+		<description>Fujitsu - FM-Towns - Discs (947) (2026-02-01 11-08-04)</description>
+		<version>2026-02-01 11-08-04</version>
+		<date>2026-02-01 11-08-04</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17139,5 +17139,18 @@
 		<rom name="4D Boxing (Japan) (FM Towns Marty Rerelease) (Track 7).bin" size="8467200" crc="65ad5e75" md5="8be9ca080c6d2f8cbb8e414086fa4995" sha1="0014a96185de0d093a0a90cb489786b6b15bbbba"/>
 		<rom name="4D Boxing (Japan) (FM Towns Marty Rerelease) (Track 8).bin" size="7056000" crc="3e466c5f" md5="4a934ed65ce00e5a0df28ba56ee6b7b3" sha1="83ea3448abd8724d55f8d55c50e11a519abdb088"/>
 		<rom name="4D Boxing (Japan) (FM Towns Marty Rerelease) (Track 9).bin" size="8996400" crc="f3374c37" md5="46277daabafc1d3aff9bc7e27ab18e4e" sha1="e1e7d5edfb279e214995dd650d13c12c458d3e59"/>
+	</game>
+	<game name="Free Software Collection 5 (Japan) (Rev B) (Alt)">
+		<category>Applications</category>
+		<description>Free Software Collection 5 (Japan) (Rev B) (Alt)</description>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt).cue" size="1118" crc="63d1001c" md5="2814fda62626af68db5df133f47176d9" sha1="b2b462a91af369a94e9a04ad639dfc287b61facd"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 1).bin" size="211327200" crc="69b8bada" md5="ba16a7a7cb96af70cedfd076ba0797ac" sha1="d5bce55044418c7d232cb2ed76695ed38b01c12c"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 2).bin" size="49039200" crc="6055be83" md5="f5940dfe970a5d0d088df65c7108a153" sha1="33c44728f0376c6b0102185037a8bb91ed091563"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 3).bin" size="45158400" crc="c6b6b65b" md5="db57d13683a2fa0d9a8dc77d6e01f449" sha1="8927a40464f9fbbd3fea9ab9000a772da5c14107"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 4).bin" size="41806800" crc="77f8c6d4" md5="6c952371a38f8aa8ccda286428430a16" sha1="55e152460edb6f8285b07dc1c9c46a91e6a6b1cb"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 5).bin" size="132829200" crc="67c64d24" md5="85f681972e38aa981fce8f6bf4b793c9" sha1="cbee5b3a1e8f91985c86e287a784e1b03a4afe95"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 6).bin" size="47628000" crc="f38e6a6c" md5="d975c1fabcbf9bdc7453287c1d8c1786" sha1="bfd163d5e0ab7fe962b8b0bb4b1e4cb5137332cf"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 7).bin" size="22050000" crc="99072b27" md5="cdfc7e220548a30b70103c7a926a6c03" sha1="13977ef6ccb10beb17fb8d61c30d5327906051cc"/>
+		<rom name="Free Software Collection 5 (Japan) (Rev B) (Alt) (Track 8).bin" size="94903200" crc="a406c0da" md5="e7b8c76bdc8f12a77c088c940a1142b8" sha1="e6f6cea98677b6cf9c9f22313db43487db7f5aae"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260130-231507</version>
+		<version>20260131-212956</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3324,7 +3324,7 @@
 		<category>Games</category>
 		<description>F-15 City War (USA) (Unl)</description>
 		<rom name="F-15 City War (USA) (Unl).unh" size="65536" crc="88a6b192" md5="a65015646932e8f738a2c4e76b7db0ed" sha1="12f58963dd70d32cca2784bc1d83ec889fec8e5d" sha256="0e3db714b82795111afa386f32534ece968d0f8ccb63dc70189d2010dc77a2a7" status="verified"/>
-		<rom name="F-15 City War (USA) (Unl) (Fixed).unh" size="65536" crc="47562c40" md5="49d85c8c26dcf2ffbd27b41f2f444fc0" sha1="5cd5e7336c527f5c69a59e749b52259d79525e63" sha256="69f4d0b47ed2bffff449e5cab0bcbb91d83a59796e1d73ad7ae8855dbea67902" status="verified" mia="yes"/>
+		<rom name="F-15 City War (USA) (Unl) (Fixed).unh" size="65536" crc="47562c40" md5="49d85c8c26dcf2ffbd27b41f2f444fc0" sha1="5cd5e7336c527f5c69a59e749b52259d79525e63" sha256="69f4d0b47ed2bffff449e5cab0bcbb91d83a59796e1d73ad7ae8855dbea67902" status="verified"/>
 	</game>
 	<game name="F-15 City War (USA) (v1.2) (Unl)" id="0684">
 		<category>Games</category>
@@ -20828,7 +20828,7 @@
 	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315" cloneofid="1743">
 		<category>Games</category>
 		<description>Puzzle (USA) (2 EPROMs) (Unl)</description>
-		<rom name="Puzzle (USA) (2 EPROMs) (Unl).unh" size="65536" crc="ccec1416" md5="71e69fa50d147b654ee83fb7b0ecca79" sha1="7a1098c3038444870d9c770b754f1776f49141cf" sha256="d7f1a0fde0dae86f739f271e450cc2231cbfcb5a18260e83e9754bdac6e75e19" mia="yes"/>
+		<rom name="Puzzle (USA) (2 EPROMs) (Unl).unh" size="65536" crc="ccec1416" md5="71e69fa50d147b654ee83fb7b0ecca79" sha1="7a1098c3038444870d9c770b754f1776f49141cf" sha256="d7f1a0fde0dae86f739f271e450cc2231cbfcb5a18260e83e9754bdac6e75e19"/>
 	</game>
 	<game name="Puzzle (USA) (1 EPROM) (Unl)" id="8316" cloneofid="1743">
 		<category>Games</category>
