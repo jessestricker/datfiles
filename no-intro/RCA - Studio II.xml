@@ -4,7 +4,7 @@
 		<id>29</id>
 		<name>RCA - Studio II</name>
 		<description>RCA - Studio II</description>
-		<version>20200201-121822</version>
+		<version>20260201-053357</version>
 		<author>relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -33,6 +33,12 @@
 		<description>Pinball (Europe)</description>
 		<game_id>MG-205</game_id>
 		<rom name="Pinball (Europe).bin" size="1024" crc="9f7f692e" md5="bc8df39e000c0dd0efef4916701151be" sha1="6afd1252d72df39482699c1ee76fa28669c7db80" sha256="9145de0f127d97f9b2ea7111b544c092aa716aa85b124012973ed0db7a684c75"/>
+	</game>
+	<game name="Space Explorer (USA) (Proto)" id="0019">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Space Explorer (USA) (Proto)</description>
+		<rom name="Space Explorer (USA) (Proto).bin" size="2048" crc="24b3812b" md5="e8323d070bdeabb61563daae23055b3e" sha1="fb58c782d7f0501b2c01a8c53429aabada8b43d0" sha256="a568a6bb40fd5cb172ec1a2c424f6bc9a5e2084adb2a531ea22f409518ed33db"/>
 	</game>
 	<game name="Speedway + Tag (Europe)" id="0018">
 		<description>Speedway + Tag (Europe)</description>

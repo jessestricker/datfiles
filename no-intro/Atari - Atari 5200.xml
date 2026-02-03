@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20251101-033503</version>
+		<version>20260202-111814</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -290,8 +290,15 @@
 		<rom name="Frogger (USA).a52" size="8192" crc="ae7e3444" md5="2c89c9444f99fd7ac83f88278e6772c6" sha1="d9a695757f0494aee92a50ab8a49558745e0cedf"/>
 	</game>
 	<game name="Frogger II - Threeedeep! (USA)" id="0036">
+		<category>Games</category>
 		<description>Frogger II - Threeedeep! (USA)</description>
 		<rom name="Frogger II - Threeedeep! (USA).a52" size="16384" crc="0af19345" md5="d8636222c993ca71ca0904c8d89c4411" sha1="3d815594cf674694b04bb0ff90bf635d7d402fc2"/>
+	</game>
+	<game name="Frogger II - Threeedeep! (USA) (Beta)" id="0191" cloneofid="0036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Frogger II - Threeedeep! (USA) (Beta)</description>
+		<rom name="Frogger II - Threeedeep! (USA) (Beta).a52" size="8192" crc="e924f2bc" md5="189a5f7f41924407a2db118abca1445a" sha1="d172e34d60e03e74b0f790ae61268eff257a36b9" sha256="93214a44a53772a0e041bb4ade48cce27b4d179d4440d65b1d5244c1f43b3529"/>
 	</game>
 	<game name="Galaxian (USA)" id="0037">
 		<description>Galaxian (USA)</description>

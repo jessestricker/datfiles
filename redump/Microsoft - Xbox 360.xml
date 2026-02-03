@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3621) (2026-02-01 18-35-35)</description>
-		<version>2026-02-01 18-35-35</version>
-		<date>2026-02-01 18-35-35</date>
+		<description>Microsoft - Xbox 360 - Discs (3621) (2026-02-03 14-44-11)</description>
+		<version>2026-02-03 14-44-11</version>
+		<date>2026-02-03 14-44-11</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2160,10 +2160,10 @@
 		<description>Spider-Man - Shattered Dimensions (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Spider-Man - Shattered Dimensions (USA) (En,Fr,De,Es,It).iso" size="7838695424" crc="16c784a8" md5="ca038d8f10e6c1695eaea236560de2c6" sha1="4e0365fc348ca5bbc46472b6408f074ecf86be4c"/>
 	</game>
-	<game name="Scene It Box Office Smash! (USA, Europe) (En,Fr,Es)">
+	<game name="Scene It Box Office Smash! (USA, Europe) (En,Fr,Es,Sv,No)">
 		<category>Games</category>
-		<description>Scene It Box Office Smash! (USA, Europe) (En,Fr,Es)</description>
-		<rom name="Scene It Box Office Smash! (USA, Europe) (En,Fr,Es).iso" size="7835492352" crc="81588f23" md5="4bb9641738be22e202d94090a5961bdd" sha1="975fec4fd43e7c039242537d221d40f1e643dfcf"/>
+		<description>Scene It Box Office Smash! (USA, Europe) (En,Fr,Es,Sv,No)</description>
+		<rom name="Scene It Box Office Smash! (USA, Europe) (En,Fr,Es,Sv,No).iso" size="7835492352" crc="81588f23" md5="4bb9641738be22e202d94090a5961bdd" sha1="975fec4fd43e7c039242537d221d40f1e643dfcf"/>
 	</game>
 	<game name="Section 8 (USA, Europe) (En,Fr,Es)">
 		<category>Games</category>
@@ -4598,10 +4598,10 @@
 		<description>Need for Speed - Hot Pursuit (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Need for Speed - Hot Pursuit (Europe) (En,Fr,De,Es,It,Nl).iso" size="7838695424" crc="3562607b" md5="b9e0c05793529f209651aae2894c9b1e" sha1="fbf830c2e59ee782139e8a1df56766cbdd70225c"/>
 	</game>
-	<game name="Scene It Box Office Smash! (Europe)">
+	<game name="Scene It Box Office Smash! (UK)">
 		<category>Games</category>
-		<description>Scene It Box Office Smash! (Europe)</description>
-		<rom name="Scene It Box Office Smash! (Europe).iso" size="7835492352" crc="8f325cc1" md5="be61065437722f272fbae87a85d5afab" sha1="ed61cd5307069078020fbcde0ec54058caa8d38e"/>
+		<description>Scene It Box Office Smash! (UK)</description>
+		<rom name="Scene It Box Office Smash! (UK).iso" size="7835492352" crc="8f325cc1" md5="be61065437722f272fbae87a85d5afab" sha1="ed61cd5307069078020fbcde0ec54058caa8d38e"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 06 (Europe) (En,Fr)">
 		<category>Games</category>
@@ -7058,10 +7058,10 @@
 		<description>FaceBreaker (USA) (Demo)</description>
 		<rom name="FaceBreaker (USA) (Demo).iso" size="7835492352" crc="4e64fc18" md5="e965f7842ed74de34769f076fb2f6a14" sha1="1795e54e2c0f4d397cbb2a522e8511b8cd2018ad"/>
 	</game>
-	<game name="Grid (USA) (En,Fr,De,Es,It) (Demo)">
+	<game name="Grid (USA, Europe) (En,Fr,De,Es,It) (Demo)">
 		<category>Demos</category>
-		<description>Grid (USA) (En,Fr,De,Es,It) (Demo)</description>
-		<rom name="Grid (USA) (En,Fr,De,Es,It) (Demo).iso" size="7835492352" crc="0bfe6fd2" md5="a714260d6bff2ed36106e2c1f622143f" sha1="0d43b2cdd174bbee8958ee066def7ec2f16c585d"/>
+		<description>Grid (USA, Europe) (En,Fr,De,Es,It) (Demo)</description>
+		<rom name="Grid (USA, Europe) (En,Fr,De,Es,It) (Demo).iso" size="7835492352" crc="0bfe6fd2" md5="a714260d6bff2ed36106e2c1f622143f" sha1="0d43b2cdd174bbee8958ee066def7ec2f16c585d"/>
 	</game>
 	<game name="MX vs. ATV Untamed (USA) (Demo)">
 		<category>Demos</category>
@@ -9098,10 +9098,10 @@
 		<description>Jackbox Party Pack, The (USA)</description>
 		<rom name="Jackbox Party Pack, The (USA).iso" size="7838695424" crc="6a7ecdca" md5="595a9c81ed4b392ccb324de62138f23d" sha1="0bf891efae0c5c18a103da8dcaff338de45e1a08"/>
 	</game>
-	<game name="Open Season (USA) (En,Fr,Es,Nl)">
+	<game name="Open Season (USA, Europe) (En,Fr,Es,Nl)">
 		<category>Games</category>
-		<description>Open Season (USA) (En,Fr,Es,Nl)</description>
-		<rom name="Open Season (USA) (En,Fr,Es,Nl).iso" size="7834892288" crc="43bffcbf" md5="0f65666d27bf3bdef73a3716e4f61c11" sha1="412a9a2fd853104dd0e506244a077c15df5cc139"/>
+		<description>Open Season (USA, Europe) (En,Fr,Es,Nl)</description>
+		<rom name="Open Season (USA, Europe) (En,Fr,Es,Nl).iso" size="7834892288" crc="43bffcbf" md5="0f65666d27bf3bdef73a3716e4f61c11" sha1="412a9a2fd853104dd0e506244a077c15df5cc139"/>
 	</game>
 	<game name="Twister Mania (USA)">
 		<category>Games</category>

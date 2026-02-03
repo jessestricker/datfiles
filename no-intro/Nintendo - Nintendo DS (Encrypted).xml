@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260125-105016</version>
+		<version>20260201-004717</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14301,9 +14301,17 @@
 		<description>LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es)</description>
 		<rom name="LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es).nds" size="134217728" crc="e6e928b7" md5="fe5e52bdaeb1fc7cd290502f90633bd7" sha1="6518ec2fb7309fb4ceca08f06059d45e03eca3fc" sha256="79325bac71097e65a0d47dbbb6b5a68bf6b9cdc3ded3c945fbafba75095136ad" status="verified" serial="BLHE"/>
 	</game>
-	<game name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta)" id="z278" cloneofid="5026">
-		<description>LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta)</description>
-		<rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta).nds" size="134217728" crc="ef2dbf9d" md5="ed83123e702393f3949691ecfc245225" sha1="85871171327139adcb9445c45f9c93e62a06b838" sha256="7ecf1fb9640ae6a16fb154181bf6a443ac3ded4306e142262c2706235da92565" serial="BLHP"/>
+	<game name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 2)" id="z278" cloneofid="5026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 2)</description>
+		<rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 2).nds" size="134217728" crc="ef2dbf9d" md5="ed83123e702393f3949691ecfc245225" sha1="85871171327139adcb9445c45f9c93e62a06b838" sha256="7ecf1fb9640ae6a16fb154181bf6a443ac3ded4306e142262c2706235da92565" serial="BLHP"/>
+	</game>
+	<game name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 1) (2010-07-31)" id="z662" cloneofid="5026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 1) (2010-07-31)</description>
+		<rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 1) (2010-07-31).nds" size="134217728" crc="65aeee67" md5="0740568a0157cdfd85408bf91eb44449" sha1="85c18c0677baae6f2a5c9bdbfe497b17c3c86c0d" sha256="a7b4e9476079aa0522f2b49399e8fd9a3fd217475953ab57bb0d9a4107812f3f" serial="BLHP"/>
 	</game>
 	<game name="LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es)" id="5880" cloneofid="5920">
 		<description>LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es)</description>

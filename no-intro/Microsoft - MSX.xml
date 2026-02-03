@@ -4,8 +4,8 @@
 		<id>10</id>
 		<name>Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>20250429-210021</version>
-		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, SonGoku, xuom2</author>
+		<version>20260202-122913</version>
+		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -866,6 +866,12 @@
 		<description>Crusader (Japan) (Alt)</description>
 		<rom name="Crusader (Japan) (Alt).rom" size="32768" crc="e167fede" md5="73d601525efb66ddbd3f0ef46e133a07" sha1="3d2d0a2eb3d12fa67ecbbb90b7ac1bdc76ad8412"/>
 	</game>
+	<game name="Custar (Japan)" id="0957">
+		<category>Games</category>
+		<description>Custar (Japan)</description>
+		<game_id>HM-104</game_id>
+		<rom name="Custar (Japan).rom" size="8192" crc="1e4e5da0" md5="84a583043446ad3550f9090c9e5f7397" sha1="f864f825b2270c3b98b3c04671a3ac5f2d95affa" sha256="48d285a8142eea0391bde302920a9289e30da06052969753cab360ffe0ec05ef"/>
+	</game>
 	<game name="D-Day (Japan) (Alt)" id="0269" cloneofid="0268">
 		<description>D-Day (Japan) (Alt)</description>
 		<rom name="D-Day (Japan) (Alt).rom" size="16384" crc="6641c97a" md5="240ffcf657577f24be1996eebe1711b1" sha1="ba325451fb5a80c2872742c5bd61e7bb75c5763b"/>
@@ -1568,7 +1574,8 @@
 	</game>
 	<game name="H.E.R.O. (Japan)" id="0423">
 		<description>H.E.R.O. (Japan)</description>
-		<rom name="H.E.R.O. (Japan).rom" size="32768" crc="8fdad3af" md5="2ba6f43da5d2f31c3aab9f8b0a29317b" sha1="ebb70722f75279911cce79e6bd78b8f514561b0f"/>
+		<game_id>R48X5505</game_id>
+		<rom name="H.E.R.O. (Japan).rom" size="16384" crc="97ab0d70" md5="6b6d173cc0b3ccdc067606fef1bfbff5" sha1="6fbb385147a939a7e6b47f5945d8e3b671a8c065" sha256="4759972665f18e60ababe77a46f65da439166a5e9477431514b5985a605c44b2"/>
 	</game>
 	<game name="Hades no Monsho (Japan)" id="0424">
 		<description>Hades no Monsho (Japan)</description>

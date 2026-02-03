@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11743) (2026-02-01 02-01-57)</description>
-		<version>2026-02-01 02-01-57</version>
-		<date>2026-02-01 02-01-57</date>
+		<description>Sony - PlayStation 2 - Discs (11743) (2026-02-03 16-04-01)</description>
+		<version>2026-02-03 16-04-01</version>
+		<date>2026-02-03 16-04-01</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1988,10 +1988,10 @@
 		<rom name="Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v1.03).cue" size="140" crc="458d9b77" md5="a80ae3ae521d8750dd5ad39f2e6f1504" sha1="2e60b9f175c3f5d7a3f2b9634135a940460b8313"/>
 		<rom name="Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v1.03).bin" size="601596912" crc="86ac0f3f" md5="6000d5de5a81d814aad355a451685a84" sha1="bebcaaceebbb6a39209b07daa689fb3b8523685f"/>
 	</game>
-	<game name="Twisted Metal - Head-On - Extra Twisted Edition (USA)">
+	<game name="Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada)">
 		<category>Games</category>
-		<description>Twisted Metal - Head-On - Extra Twisted Edition (USA)</description>
-		<rom name="Twisted Metal - Head-On - Extra Twisted Edition (USA).iso" size="4197416960" crc="98dc534a" md5="e572c0dac2bab2a9153d878aa105d4ef" sha1="e78feb207e87e58d8045ec4dab11623727d0baf7"/>
+		<description>Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada)</description>
+		<rom name="Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada).iso" size="4197416960" crc="98dc534a" md5="e572c0dac2bab2a9153d878aa105d4ef" sha1="e78feb207e87e58d8045ec4dab11623727d0baf7"/>
 	</game>
 	<game name="Sly 3 - Honour Among Thieves (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
 		<category>Games</category>
@@ -5362,10 +5362,10 @@
 		<description>Grand Theft Auto - San Andreas (USA, Canada) (v3.00)</description>
 		<rom name="Grand Theft Auto - San Andreas (USA, Canada) (v3.00).iso" size="4517036032" crc="f3884e41" md5="0cc7e76c94e4842a87085fa5484832df" sha1="31933aae559944c9189af67d3902a5e5f7a97a43"/>
 	</game>
-	<game name="Need for Speed - Underground 2 (USA)">
+	<game name="Need for Speed - Underground 2 (USA, Canada)">
 		<category>Games</category>
-		<description>Need for Speed - Underground 2 (USA)</description>
-		<rom name="Need for Speed - Underground 2 (USA).iso" size="2874605568" crc="c89aeb2b" md5="b50fab373b43926f771345141dd4aef0" sha1="6241acf4a165f3b74c157039e2cde2d310b48317"/>
+		<description>Need for Speed - Underground 2 (USA, Canada)</description>
+		<rom name="Need for Speed - Underground 2 (USA, Canada).iso" size="2874605568" crc="c89aeb2b" md5="b50fab373b43926f771345141dd4aef0" sha1="6241acf4a165f3b74c157039e2cde2d310b48317"/>
 	</game>
 	<game name="Brothers in Arms - Road to Hill 30 (USA)">
 		<category>Games</category>
@@ -5392,10 +5392,10 @@
 		<description>Tokyo Xtreme Racer - Zero (USA)</description>
 		<rom name="Tokyo Xtreme Racer - Zero (USA).iso" size="1570373632" crc="86b2a352" md5="75b84cc555d40da2e367c72fd51aa381" sha1="080d10db8cabb80d53133175531ed9be665f3564"/>
 	</game>
-	<game name="Tokyo Xtreme Racer - Drift (USA)">
+	<game name="Tokyo Xtreme Racer - Drift (USA, Canada)">
 		<category>Games</category>
-		<description>Tokyo Xtreme Racer - Drift (USA)</description>
-		<rom name="Tokyo Xtreme Racer - Drift (USA).iso" size="2244640768" crc="9a110336" md5="81a41e2b3eed92334faf70d79658ffa8" sha1="ad5f41aa1f95a7ca4cc9a4df2199b823aed1b142"/>
+		<description>Tokyo Xtreme Racer - Drift (USA, Canada)</description>
+		<rom name="Tokyo Xtreme Racer - Drift (USA, Canada).iso" size="2244640768" crc="9a110336" md5="81a41e2b3eed92334faf70d79658ffa8" sha1="ad5f41aa1f95a7ca4cc9a4df2199b823aed1b142"/>
 	</game>
 	<game name="Medal of Honor - Rising Sun (USA)">
 		<category>Games</category>
@@ -8431,10 +8431,10 @@
 		<description>R-Type Final (USA)</description>
 		<rom name="R-Type Final (USA).iso" size="3374415872" crc="9d0d9400" md5="41a070fc09e7cc8e09c890d7856018e8" sha1="3fd151e694285c173c0e9a75a151f9670c47af24"/>
 	</game>
-	<game name="Need for Speed - Most Wanted (USA) (v2.00)">
+	<game name="Need for Speed - Most Wanted (USA, Canada) (v2.00)">
 		<category>Games</category>
-		<description>Need for Speed - Most Wanted (USA) (v2.00)</description>
-		<rom name="Need for Speed - Most Wanted (USA) (v2.00).iso" size="3702456320" crc="b9842fac" md5="566a6e7255142d4c909ae74529cd90bd" sha1="7a388a12f47ff4244d5a0d9b8fcbd20e6fd90772"/>
+		<description>Need for Speed - Most Wanted (USA, Canada) (v2.00)</description>
+		<rom name="Need for Speed - Most Wanted (USA, Canada) (v2.00).iso" size="3702456320" crc="b9842fac" md5="566a6e7255142d4c909ae74529cd90bd" sha1="7a388a12f47ff4244d5a0d9b8fcbd20e6fd90772"/>
 	</game>
 	<game name="NCAA Football 09 (USA)">
 		<category>Games</category>
@@ -8899,10 +8899,10 @@
 		<description>Street Fighter Alpha Anthology (USA)</description>
 		<rom name="Street Fighter Alpha Anthology (USA).iso" size="4698767360" crc="16676c2c" md5="12561a272a0475de3ccb702c0fc85f4c" sha1="906b23e96a591d0bdc87201dacdef1ff7c875494"/>
 	</game>
-	<game name="Tokyo Xtreme Racer 3 (USA)">
+	<game name="Tokyo Xtreme Racer 3 (USA, Canada)">
 		<category>Games</category>
-		<description>Tokyo Xtreme Racer 3 (USA)</description>
-		<rom name="Tokyo Xtreme Racer 3 (USA).iso" size="2865725440" crc="a0b96c06" md5="054c01f5ca1a069a339b8c127b848ff0" sha1="d8266cf638985736b11de5ce83623543b8eb6b66"/>
+		<description>Tokyo Xtreme Racer 3 (USA, Canada)</description>
+		<rom name="Tokyo Xtreme Racer 3 (USA, Canada).iso" size="2865725440" crc="a0b96c06" md5="054c01f5ca1a069a339b8c127b848ff0" sha1="d8266cf638985736b11de5ce83623543b8eb6b66"/>
 	</game>
 	<game name="Tokyo Xtreme Racer - Drift 2 (USA)">
 		<category>Games</category>
@@ -9864,10 +9864,10 @@
 		<description>Official PlayStation 2 Magazine Demo 54 (Europe) (En,Fr,De,Es,It) (SCED-52169)</description>
 		<rom name="Official PlayStation 2 Magazine Demo 54 (Europe) (En,Fr,De,Es,It) (SCED-52169).iso" size="3683090432" crc="3d43036b" md5="b81b5b940b9749051edeef639ff425f1" sha1="9cb790b63fcccde84b5b49d8081572389ccb0a60"/>
 	</game>
-	<game name="Need for Speed - Underground (USA)">
+	<game name="Need for Speed - Underground (USA, Canada)">
 		<category>Games</category>
-		<description>Need for Speed - Underground (USA)</description>
-		<rom name="Need for Speed - Underground (USA).iso" size="2726166528" crc="8d1f7a13" md5="5a27191623e2248e14bd6f0aca2eb476" sha1="5c4e254f0994ef9cbd1b774d88e5713bc4953c31"/>
+		<description>Need for Speed - Underground (USA, Canada)</description>
+		<rom name="Need for Speed - Underground (USA, Canada).iso" size="2726166528" crc="8d1f7a13" md5="5a27191623e2248e14bd6f0aca2eb476" sha1="5c4e254f0994ef9cbd1b774d88e5713bc4953c31"/>
 	</game>
 	<game name="Tenchu - Fatal Shadows (USA)">
 		<category>Games</category>
@@ -17085,10 +17085,10 @@
 		<description>Petz - Horsez 2 (USA)</description>
 		<rom name="Petz - Horsez 2 (USA).iso" size="1331331072" crc="f9f02461" md5="5f8725f19f7ca7e7c411a516eb66d8fb" sha1="e4d0a0bd44e2dfd123faf2dcc3770ae94ed30ddb"/>
 	</game>
-	<game name="Sims 2, The - Castaway (USA)">
+	<game name="Sims 2, The - Castaway (USA, Canada)">
 		<category>Games</category>
-		<description>Sims 2, The - Castaway (USA)</description>
-		<rom name="Sims 2, The - Castaway (USA).iso" size="4627333120" crc="67ff931d" md5="8c60b5670dca98f89ed62aac350be01e" sha1="3725331cdb56f716bd56254fae8bd983abd67a3d"/>
+		<description>Sims 2, The - Castaway (USA, Canada)</description>
+		<rom name="Sims 2, The - Castaway (USA, Canada).iso" size="4627333120" crc="67ff931d" md5="8c60b5670dca98f89ed62aac350be01e" sha1="3725331cdb56f716bd56254fae8bd983abd67a3d"/>
 	</game>
 	<game name="Disney Pirates of the Caribbean - At World's End (USA)">
 		<category>Games</category>
@@ -18871,10 +18871,10 @@
 		<description>Hunter - The Reckoning - Wayward (Europe) (En,Fr,De)</description>
 		<rom name="Hunter - The Reckoning - Wayward (Europe) (En,Fr,De).iso" size="2590441472" crc="0eb5592f" md5="a05c81c4293b9815ca6300a432f58a27" sha1="f8d756903a70a18f163d81fe8d58a09c11c7ffdd"/>
 	</game>
-	<game name="Need for Speed - Undercover (USA) (En,Fr,Es)">
+	<game name="Need for Speed - Undercover (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Need for Speed - Undercover (USA) (En,Fr,Es)</description>
-		<rom name="Need for Speed - Undercover (USA) (En,Fr,Es).iso" size="3698786304" crc="ec29fd1f" md5="dc064cb4d0767a10e8d1a1ef36ef602a" sha1="a70fd599b8fb4692f05b75422c2a2ad4f0383b4b"/>
+		<description>Need for Speed - Undercover (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Need for Speed - Undercover (USA, Canada) (En,Fr,Es).iso" size="3698786304" crc="ec29fd1f" md5="dc064cb4d0767a10e8d1a1ef36ef602a" sha1="a70fd599b8fb4692f05b75422c2a2ad4f0383b4b"/>
 	</game>
 	<game name="SuperLite 2000 Vol. 39 - Konohana 4 - Yami o Harau Inori (Japan)">
 		<category>Games</category>
@@ -19836,10 +19836,10 @@
 		<description>Sphinx and the Cursed Mummy (USA)</description>
 		<rom name="Sphinx and the Cursed Mummy (USA).iso" size="2826207232" crc="0e5b9dae" md5="4cb724d9ccedfdb604fa62cc2e37aed3" sha1="dc483045c13e024105f48e838e73288073938416"/>
 	</game>
-	<game name="Tourist Trophy (USA)">
+	<game name="Tourist Trophy (USA, Canada)">
 		<category>Games</category>
-		<description>Tourist Trophy (USA)</description>
-		<rom name="Tourist Trophy (USA).iso" size="3004628992" crc="fda49a53" md5="4113ca5d3681e4d04eb7b77d48d7190b" sha1="fc773f4d93213744780e58af922ae75a503d5cfa"/>
+		<description>Tourist Trophy (USA, Canada)</description>
+		<rom name="Tourist Trophy (USA, Canada).iso" size="3004628992" crc="fda49a53" md5="4113ca5d3681e4d04eb7b77d48d7190b" sha1="fc773f4d93213744780e58af922ae75a503d5cfa"/>
 	</game>
 	<game name="Disney-Pixar The Incredibles (USA)">
 		<category>Games</category>
@@ -32072,10 +32072,10 @@
 		<description>Full Spectrum Warrior - Ten Hammers (USA)</description>
 		<rom name="Full Spectrum Warrior - Ten Hammers (USA).iso" size="4302438400" crc="0e468022" md5="1120ca78dbe843b7e17a202bbf75704c" sha1="ef4c4877eb5c80a570cd18cf40b92f6f97bf20e6"/>
 	</game>
-	<game name="Stuntman - Ignition (USA)">
+	<game name="Stuntman - Ignition (USA, Canada)">
 		<category>Games</category>
-		<description>Stuntman - Ignition (USA)</description>
-		<rom name="Stuntman - Ignition (USA).iso" size="4696997888" crc="15b76ae6" md5="c09386e5270c3ca959ca4620b4305419" sha1="02e5095023cbe7c08ab0a0a6ab4b7f8689acb81d"/>
+		<description>Stuntman - Ignition (USA, Canada)</description>
+		<rom name="Stuntman - Ignition (USA, Canada).iso" size="4696997888" crc="15b76ae6" md5="c09386e5270c3ca959ca4620b4305419" sha1="02e5095023cbe7c08ab0a0a6ab4b7f8689acb81d"/>
 	</game>
 	<game name="L.A. Rush (USA)">
 		<category>Games</category>
@@ -34131,10 +34131,10 @@
 		<description>Konami Kids Playground - Toy Pals Fun with Numbers (USA)</description>
 		<rom name="Konami Kids Playground - Toy Pals Fun with Numbers (USA).iso" size="2121236480" crc="a8a33764" md5="a0f61759c8f28acbffda7624daf1db02" sha1="cd5d72b9c957fb9dcd0783af6d6efc5ed6fd4584"/>
 	</game>
-	<game name="Pinball Hall of Fame - The Williams Collection (USA)">
+	<game name="Pinball Hall of Fame - The Williams Collection (USA, Canada)">
 		<category>Games</category>
-		<description>Pinball Hall of Fame - The Williams Collection (USA)</description>
-		<rom name="Pinball Hall of Fame - The Williams Collection (USA).iso" size="1249804288" crc="4056cc06" md5="c1772d38cabcd2c7e3b4f020415c27af" sha1="69bdbe1b40f17c1855c27b9a0a5081c03508dd9b"/>
+		<description>Pinball Hall of Fame - The Williams Collection (USA, Canada)</description>
+		<rom name="Pinball Hall of Fame - The Williams Collection (USA, Canada).iso" size="1249804288" crc="4056cc06" md5="c1772d38cabcd2c7e3b4f020415c27af" sha1="69bdbe1b40f17c1855c27b9a0a5081c03508dd9b"/>
 	</game>
 	<game name="Madden NFL 08 en Espanol (USA)">
 		<category>Games</category>
@@ -34636,10 +34636,10 @@
 		<description>Dynasty Warriors - Gundam 2 (USA)</description>
 		<rom name="Dynasty Warriors - Gundam 2 (USA).iso" size="3541696512" crc="693da105" md5="742229373c8b52e81270c2192959c14b" sha1="239e1f38bbad2a709ce6a25ed3e9c499480c25f1"/>
 	</game>
-	<game name="MTV Pimp My Ride - Street Racing (USA)">
+	<game name="MTV Pimp My Ride - Street Racing (USA, Canada)">
 		<category>Games</category>
-		<description>MTV Pimp My Ride - Street Racing (USA)</description>
-		<rom name="MTV Pimp My Ride - Street Racing (USA).iso" size="1278738432" crc="948c60da" md5="27ec5406aff8bbefec955b1f45cc1416" sha1="8d5671b75285fc4d381ff49d873acebeeb38a2fa"/>
+		<description>MTV Pimp My Ride - Street Racing (USA, Canada)</description>
+		<rom name="MTV Pimp My Ride - Street Racing (USA, Canada).iso" size="1278738432" crc="948c60da" md5="27ec5406aff8bbefec955b1f45cc1416" sha1="8d5671b75285fc4d381ff49d873acebeeb38a2fa"/>
 	</game>
 	<game name="Trivial Pursuit (USA)">
 		<category>Games</category>

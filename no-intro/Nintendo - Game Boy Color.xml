@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260110-131928</version>
+		<version>20260201-000727</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4824,6 +4824,12 @@
 		<description>Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="91d7ccca" md5="a55b8d588bbaa4ebcb4d53dbb534329f" sha1="84b616c937b9dcc7cdcb05f583a4d60467ede385"/>
 	</game>
+	<game name="Planet of the Apes (USA) (En,Fr,De,Es,It,Nl) (Beta)" id="2640" cloneofid="0864">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Planet of the Apes (USA) (En,Fr,De,Es,It,Nl) (Beta)</description>
+		<rom name="Planet of the Apes (USA) (En,Fr,De,Es,It,Nl) (Beta).gbc" size="1048576" crc="df6cee10" md5="af77ceb4eb5d5f2e17458064fcdc9087" sha1="554c98049b8f4db23c891a9b95c57b595ed90cd8" sha256="5dc3b5d30631567d87575b7a5ceb14048a4e072083f2935bc418e179feb13f9d" serial="BXEE"/>
+	</game>
 	<game name="Player Manager 2001 (Europe) (En,Fr)" id="0866">
 		<description>Player Manager 2001 (Europe) (En,Fr)</description>
 		<rom name="Player Manager 2001 (Europe) (En,Fr).gbc" size="1048576" crc="375c35e0" md5="c954d72f5a9131667aaa06ae185638b4" sha1="6e21a85257361be76914f418409124c5bc315429"/>
@@ -5594,6 +5600,12 @@
 	<game name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It)" id="0998">
 		<description>Rayman 2 Forever (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It).gbc" size="4194304" crc="250015d4" md5="31ddde6b4c72261181e428ac99103304" sha1="5ea438c5b52696255e8df74eb19e3cac1427a14a"/>
+	</game>
+	<game name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It) (Beta)" id="2639" cloneofid="0998">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rayman 2 Forever (Europe) (En,Fr,De,Es,It) (Beta)</description>
+		<rom name="Rayman 2 Forever (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="4194304" crc="93341deb" md5="ef91e97ccc04646d66daf3b6f5d73e54" sha1="dc929b5323da6e1988cb3574e5f1ad056d417311" sha256="d088f529a5003bea0411c730167cb768231bbc0eda6a69daa55051cbf51814c5" serial="BRYP"/>
 	</game>
 	<game name="Razmoket a Paris, Les - Le Film (France)" id="1000" cloneofid="1049">
 		<description>Razmoket a Paris, Les - Le Film (France)</description>
