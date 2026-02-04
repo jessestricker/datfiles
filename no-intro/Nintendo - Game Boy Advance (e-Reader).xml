@@ -4,7 +4,7 @@
 		<id>41</id>
 		<name>Nintendo - Game Boy Advance (e-Reader)</name>
 		<description>Nintendo - Game Boy Advance (e-Reader)</description>
-		<version>20260131-102242</version>
+		<version>20260203-174828</version>
 		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10863,6 +10863,7 @@
 		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) [b]</description>
 		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip) [b].raw" size="2912" crc="aa0d7236" md5="77541da9a672c26d8b04d58849dda00d" sha1="ded88cd33b0e09a8918b70faf2d7d0ea42a03ad8" sha256="19373196cbb2a17b9827a4b703729486c70b53ce9ffa4b1d398973dda4b6f975" status="baddump"/>
 		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Short Strip).raw" size="1872" crc="a71f27d6" md5="4a2d37f0396acab1eb89e711df8e69b6" sha1="22d58e79bfb721e51c9627d18c74c85aca4771cc" sha256="ccce55d3470b873ac10e5712ac8d026efc818ee0873455afe7853a3d030293bc"/>
+		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Dotcode Scan).png" size="9539862" crc="ba48d0ff" md5="43ff0e62ee169fc5d49c1af7c1946647" sha1="28be1412c5d51d149e3ccecdee011732abf454a2" sha256="eb42d9612120ffa0e1b8b2e7230b86c448aa87a7c7c92628b113b25f65342822"/>
 	</game>
 	<game name="Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)" id="2301">
 		<description>Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)</description>

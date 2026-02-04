@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260202-210604</version>
+		<version>20260203-210726</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9819,11 +9819,11 @@
 		<description>Power Rangers Zeo - Battle Racers (USA)</description>
 		<rom name="Power Rangers Zeo - Battle Racers (USA).sfc" size="1048576" crc="389300cf" md5="1b92a6e65433de62272d32aa3cf28e52" sha1="f83f07f2a6de60ed5e96e7f08de42ed69b9f6e62" sha256="2e2a8c0da7f6def617077a25b222062f6988ef14b36b2edfe10d47c6a942d023"/>
 	</game>
-	<game name="Power Slide (Europe) (Proto) (1994-04-12)" id="2045">
+	<game name="Power Slide (Europe) (Proto)" id="2045">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Power Slide (Europe) (Proto) (1994-04-12)</description>
-		<rom name="Power Slide (Europe) (Proto) (1994-04-12).sfc" size="524288" crc="65ce3729" md5="abd8381a8e4693fa8c04caa91f790e07" sha1="30115db2558060d9293684f3d5810d063a0c710e" sha256="efabfa4f27d9ec2567caf2bfe16d2e0ba6039649913db5170f5f8d29b7cc2daa"/>
+		<description>Power Slide (Europe) (Proto)</description>
+		<rom name="Power Slide (Europe) (Proto).sfc" size="524288" crc="65ce3729" md5="abd8381a8e4693fa8c04caa91f790e07" sha1="30115db2558060d9293684f3d5810d063a0c710e" sha256="efabfa4f27d9ec2567caf2bfe16d2e0ba6039649913db5170f5f8d29b7cc2daa"/>
 	</game>
 	<game name="Power Soukoban (Japan)" id="2046">
 		<category>Games</category>
@@ -11894,17 +11894,17 @@
 		<description>Star Fox (USA) (Rev 2)</description>
 		<rom name="Star Fox (USA) (Rev 2).sfc" size="1048576" crc="8fc4e6d0" md5="def66db12f5e644c0cf00c42cfa7ae7b" sha1="cf08148cd8f26d51f8c67c956179dfc594e7a4f1" sha256="82e39dfbb3e4fe5c28044e80878392070c618b298dd5a267e5ea53c8f72cc548" status="verified"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1994-04-15)" id="2480" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 1)" id="2480" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1994-04-15)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1994-04-15).sfc" size="945507" crc="70d7ad50" md5="d2a0516c438939f65c887508a9ff3994" sha1="69a2f9be8f2ac3e17671935904c68cb269ea0486" sha256="0d99786599912b6ac9abd4bf1d0d64748c108cd265472c3017a6cac2166ae285"/>
+		<description>Star Fox 2 (Japan) (Beta 1)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 1).sfc" size="945507" crc="70d7ad50" md5="d2a0516c438939f65c887508a9ff3994" sha1="69a2f9be8f2ac3e17671935904c68cb269ea0486" sha256="0d99786599912b6ac9abd4bf1d0d64748c108cd265472c3017a6cac2166ae285"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-06-22)" id="2481" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 7)" id="2481" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-06-22)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-06-22).sfc" size="1046983" crc="1b3bc708" md5="d078ec303bcd19fbd77d545e6b9617c3" sha1="6669899a6c9c3bb71c41d90c36932ddfc1f4f208" sha256="1d3607ba60504e988c53c9de46a2170ccdc655e921ae0575bfe20c2deb3e7025"/>
+		<description>Star Fox 2 (Japan) (Beta 7)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 7).sfc" size="1046983" crc="1b3bc708" md5="d078ec303bcd19fbd77d545e6b9617c3" sha1="6669899a6c9c3bb71c41d90c36932ddfc1f4f208" sha256="1d3607ba60504e988c53c9de46a2170ccdc655e921ae0575bfe20c2deb3e7025"/>
 	</game>
 	<game name="Star Ocean (Japan)" id="2482">
 		<category>Games</category>
@@ -13822,11 +13822,11 @@
 		<description>Super Star Wars (USA)</description>
 		<rom name="Super Star Wars (USA).sfc" size="1048576" crc="acbcae7c" md5="ea840d3722f90dee824f5064e171e510" sha1="dbff9bbb155f09376c4c7fe3d68e77c4a444ae3c" sha256="c6bd7239cb2074ff1c471d14535bead6290bba2d7c75b4f03209cb114877b4c8" status="verified"/>
 	</game>
-	<game name="Super Star Wars (USA) (Beta 3) (1992-07-21)" id="2871" cloneofid="2868">
+	<game name="Super Star Wars (USA) (Beta 3)" id="2871" cloneofid="2868">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Star Wars (USA) (Beta 3) (1992-07-21)</description>
-		<rom name="Super Star Wars (USA) (Beta 3) (1992-07-21).sfc" size="1048576" crc="23665f74" md5="ab1c2cea41007ea28e7c461781a2d173" sha1="e247c11d763c3595b205ac3e9e997f81e0b264a1" sha256="32c9c0246bde6328536bd63548462cecb1c97f03f9d421593197f9a5e324a605"/>
+		<description>Super Star Wars (USA) (Beta 3)</description>
+		<rom name="Super Star Wars (USA) (Beta 3).sfc" size="1048576" crc="23665f74" md5="ab1c2cea41007ea28e7c461781a2d173" sha1="e247c11d763c3595b205ac3e9e997f81e0b264a1" sha256="32c9c0246bde6328536bd63548462cecb1c97f03f9d421593197f9a5e324a605"/>
 	</game>
 	<game name="Super Star Wars (USA) (Rev 1)" id="2872" cloneofid="2868">
 		<category>Games</category>
@@ -14641,11 +14641,11 @@
 		<description>Blanco World Class Rugby (France) (En)</description>
 		<rom name="Blanco World Class Rugby (France) (En).sfc" size="524288" crc="8effc2d4" md5="92fe34e7f0101296325354be2d67af2f" sha1="d34e903870ab0fa1b15b992696a9497afdc3183f" sha256="7baaa65ced8fed14e161615e1fffff971f10be4b723523b4a7302891db02ba09" status="verified"/>
 	</game>
-	<game name="Bounty Sword (Japan) (Beta) (1995-05-16)" id="3596" cloneofid="0275">
+	<game name="Bounty Sword (Japan) (Beta)" id="3596" cloneofid="0275">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Bounty Sword (Japan) (Beta) (1995-05-16)</description>
-		<rom name="Bounty Sword (Japan) (Beta) (1995-05-16).sfc" size="3145728" crc="247680b9" md5="52a0a166673ecc8d5515ebb205cdb175" sha1="180e754cf2e8341c964d667c9247dc4dbc98c090" sha256="25e1068be4149a920cee27d2ba0e69166f1b59e46137fd9d6144edd85a0823cf"/>
+		<description>Bounty Sword (Japan) (Beta)</description>
+		<rom name="Bounty Sword (Japan) (Beta).sfc" size="3145728" crc="247680b9" md5="52a0a166673ecc8d5515ebb205cdb175" sha1="180e754cf2e8341c964d667c9247dc4dbc98c090" sha256="25e1068be4149a920cee27d2ba0e69166f1b59e46137fd9d6144edd85a0823cf"/>
 	</game>
 	<game name="Boxing Legends of the Ring (USA) (Beta)" id="3890" cloneofid="0276">
 		<category>Games</category>
@@ -14827,11 +14827,11 @@
 		<description>Den'Z Traffic Panic (Japan) (Beta)</description>
 		<rom name="Den'Z Traffic Panic (Japan) (Beta).sfc" size="524288" crc="86b26e64" md5="86895d65a2c7cdb1866abb8db31fa530" sha1="843fec17ea1f4d1de029cea03c7e6503cb5135ea" sha256="5f1d01557aab2b6ad509ee2b1e76f6422223536acb68bec5441cfc7e031ad38b"/>
 	</game>
-	<game name="Dennis the Menace (USA) (Beta) (1993-03-03)" id="3973" cloneofid="0552">
+	<game name="Dennis the Menace (USA) (Beta)" id="3973" cloneofid="0552">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Dennis the Menace (USA) (Beta) (1993-03-03)</description>
-		<rom name="Dennis the Menace (USA) (Beta) (1993-03-03).sfc" size="1048576" crc="1032241c" md5="b0950b9de6a1c5a700a02b362eabb556" sha1="123b5ca07d5db51081c8277e58876dd94bbf9cc1" sha256="56126f40b9a677040a34e1b78178e0029bead0aafff1bc3fbaaceee854a5acca"/>
+		<description>Dennis the Menace (USA) (Beta)</description>
+		<rom name="Dennis the Menace (USA) (Beta).sfc" size="1048576" crc="1032241c" md5="b0950b9de6a1c5a700a02b362eabb556" sha1="123b5ca07d5db51081c8277e58876dd94bbf9cc1" sha256="56126f40b9a677040a34e1b78178e0029bead0aafff1bc3fbaaceee854a5acca"/>
 	</game>
 	<game name="Derby Jockey 2 (Japan) (Rev 1)" id="3674">
 		<category>Games</category>
@@ -15184,11 +15184,11 @@
 		<description>Gojira - Kaijuu Daikessen (Japan) (Rev 1)</description>
 		<rom name="Gojira - Kaijuu Daikessen (Japan) (Rev 1).sfc" size="2621440" crc="87cf0e8a" md5="811937245524e31d8413f18ee1d65444" sha1="29a9342d15bf97b5fb0154c51a392b6f6d3d607f" sha256="31d043131bc1d295b07f155b8516c87ce81619280b4fb174d85b50476c334368"/>
 	</game>
-	<game name="Gokujou Parodius (Japan) (Beta 1) (1994-08-05)" id="3625" cloneofid="0961">
+	<game name="Gokujou Parodius (Japan) (Beta 1)" id="3625" cloneofid="0961">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Gokujou Parodius (Japan) (Beta 1) (1994-08-05)</description>
-		<rom name="Gokujou Parodius (Japan) (Beta 1) (1994-08-05).sfc" size="2097152" crc="e425bcd7" md5="bc45e72d89b54342426030dce73cc963" sha1="0f38e5960f44bc06d4daa6b41977dc935226e9f7" sha256="c091fc18cb3f7f29ef8001ee0e3cfb5b79c71a95b128cac41f4e852fc8bfabe6"/>
+		<description>Gokujou Parodius (Japan) (Beta 1)</description>
+		<rom name="Gokujou Parodius (Japan) (Beta 1).sfc" size="2097152" crc="e425bcd7" md5="bc45e72d89b54342426030dce73cc963" sha1="0f38e5960f44bc06d4daa6b41977dc935226e9f7" sha256="c091fc18cb3f7f29ef8001ee0e3cfb5b79c71a95b128cac41f4e852fc8bfabe6"/>
 	</game>
 	<game name="Gourmet Warriors (USA) (Piko Interactive)" id="3984" cloneofid="0974">
 		<category>Games</category>
@@ -15242,11 +15242,11 @@
 		<description>Havoc (USA) (Demo)</description>
 		<rom name="Havoc (USA) (Demo).sfc" size="524288" crc="e76979ce" md5="49575478e36c2057489bcb311f2af740" sha1="e0c31970b286f07b15e4a8b14e70460be1c073c2" sha256="d6e90a9d018fc17fa48a8d3c2ed45604e84217d0968e8701e4dd456c1e7c2deb"/>
 	</game>
-	<game name="Hebereke no Popoon (Japan) (Beta) (1993-11-03)" id="3573" cloneofid="1037">
+	<game name="Hebereke no Popoon (Japan) (Beta)" id="3573" cloneofid="1037">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Hebereke no Popoon (Japan) (Beta) (1993-11-03)</description>
-		<rom name="Hebereke no Popoon (Japan) (Beta) (1993-11-03).sfc" size="1048576" crc="13efb895" md5="222239df5e4fd7abf89eeb7d891b3f14" sha1="0b04cf1b6807d1b5288853bcecf8dd7d8ed1e894" sha256="8e2ecb5a7589b7a4105be427cb41b2926407a00c818aba95e4abddb45c794de1"/>
+		<description>Hebereke no Popoon (Japan) (Beta)</description>
+		<rom name="Hebereke no Popoon (Japan) (Beta).sfc" size="1048576" crc="13efb895" md5="222239df5e4fd7abf89eeb7d891b3f14" sha1="0b04cf1b6807d1b5288853bcecf8dd7d8ed1e894" sha256="8e2ecb5a7589b7a4105be427cb41b2926407a00c818aba95e4abddb45c794de1"/>
 	</game>
 	<game name="Heracles no Eikou IV - Kamigami kara no Okurimono (Japan) (Virtual Console)" id="3900" cloneofid="1050">
 		<category>Games</category>
@@ -15313,11 +15313,11 @@
 		<description>Iron Commando (Europe) (Piko Interactive)</description>
 		<rom name="Iron Commando (Europe) (Piko Interactive).sfc" size="2097152" crc="b82e8499" md5="2803701e6d526f5695adcb2b93575124" sha1="21a56379dc2c4718dc407d14df47cd9bc8f6d292" sha256="aa0225be8595b486ec0e0d0b14723bef3ec571b9a45532bed7b9fec777c2b243"/>
 	</game>
-	<game name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20)" id="3515" cloneofid="1160">
+	<game name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta)" id="3515" cloneofid="1160">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20)</description>
-		<rom name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20).sfc" size="1572864" crc="3525ebb6" md5="b5300c59ccd975b473d50b973ba89d51" sha1="3b99ccef371aeac33bdc0e63f4a65b507e832d5d" sha256="61a990cc5726eec18767283f353b3f9e20672c53a901b130356655c5b0d01837"/>
+		<description>Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta)</description>
+		<rom name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta).sfc" size="1572864" crc="3525ebb6" md5="b5300c59ccd975b473d50b973ba89d51" sha1="3b99ccef371aeac33bdc0e63f4a65b507e832d5d" sha256="61a990cc5726eec18767283f353b3f9e20672c53a901b130356655c5b0d01837"/>
 	</game>
 	<game name="J.League Excite Stage '95 (Japan) (Demo)" id="3601" cloneofid="1172">
 		<category>Games</category>
@@ -15336,11 +15336,11 @@
 		<description>Jeff's Shoot'Em Up (USA) (Proto)</description>
 		<rom name="Jeff's Shoot'Em Up (USA) (Proto).sfc" size="1048576" crc="1a31a15c" md5="ada6dca366a9c9ca0b108f0ced6b9824" sha1="0af2d2525c381e3068a3286b2cd3e091b828cf23" sha256="85594b99a0e808e265bc17626bfb6dfa5695adb13f1d8033ed839f56d501e5e4"/>
 	</game>
-	<game name="Jigsaw Party (Japan) (Beta) (1994-03-25)" id="3843" cloneofid="1973">
+	<game name="Jigsaw Party (Japan) (Beta)" id="3843" cloneofid="1973">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Jigsaw Party (Japan) (Beta) (1994-03-25)</description>
-		<rom name="Jigsaw Party (Japan) (Beta) (1994-03-25).sfc" size="1048576" crc="f3f2ac30" md5="3f54273940292e55c4b07317c4694c68" sha1="e992ba74c48e5ac41479bc786f82f948fb871ce4" sha256="9f7c861cf2cc2fe5094977efbf26d3e1098b7fcf00294c34f8feae12f68abbf6"/>
+		<description>Jigsaw Party (Japan) (Beta)</description>
+		<rom name="Jigsaw Party (Japan) (Beta).sfc" size="1048576" crc="f3f2ac30" md5="3f54273940292e55c4b07317c4694c68" sha1="e992ba74c48e5ac41479bc786f82f948fb871ce4" sha256="9f7c861cf2cc2fe5094977efbf26d3e1098b7fcf00294c34f8feae12f68abbf6"/>
 	</game>
 	<game name="Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2)" id="3584">
 		<category>Games</category>
@@ -15417,8 +15417,8 @@
 		<rom name="Kenyuu Densetsu Yaiba (Japan) (Beta).sfc" size="1048576" crc="03bee69b" md5="3ccb28a1fb565d47ad3b2cf83952fbbc" sha1="3066ac24c7ac798316eec78952f647909f3af2fe" sha256="e270958f634deea7b356f2eaffb574305f2faf68f4dc01e03ce0529525211548"/>
 	</game>
 	<game name="Kevin Keegan's Player Manager (Europe) (Demo 1)" id="3610" cloneofid="1323">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Kevin Keegan's Player Manager (Europe) (Demo 1)</description>
 		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 1).sfc" size="524288" crc="e3dff03d" md5="8ec6295e97fcefe45b6e045e1281c692" sha1="0c8b7f9d1eb8f0e26aff7dbe00ac38b6f376d688" sha256="aa696e240a9f3d25303f23e360536b69c45eb3ed9e4115925be742a44e013ef6"/>
 	</game>
@@ -15428,11 +15428,11 @@
 		<description>Kid Klown in Crazy Chase (USA) (Beta 2)</description>
 		<rom name="Kid Klown in Crazy Chase (USA) (Beta 2).sfc" size="1048576" crc="ef5d7a37" md5="441c07273d2ae4baa262af1e88cbc224" sha1="c803083456a28ef21ba72eac541823f73e12fe6b" sha256="caf1ca494b5993063ee43a54c65be27cd27f0a9b1c3897e6c4f670491c93be81"/>
 	</game>
-	<game name="Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15)" id="3721" cloneofid="1340">
+	<game name="Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta)" id="3721" cloneofid="1340">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15)</description>
-		<rom name="Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15).sfc" size="1048576" crc="25ad7971" md5="e540bc0448ea777b7469ba36cbe5ea58" sha1="944a12ea88ff9b143d99e6e6962848f433f203be" sha256="d782412f9c664e8367e2652f3d6551dd1978a87d3d6b6d0b598b10c293ca16e2"/>
+		<description>Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta)</description>
+		<rom name="Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta).sfc" size="1048576" crc="25ad7971" md5="e540bc0448ea777b7469ba36cbe5ea58" sha1="944a12ea88ff9b143d99e6e6962848f433f203be" sha256="d782412f9c664e8367e2652f3d6551dd1978a87d3d6b6d0b598b10c293ca16e2"/>
 	</game>
 	<game name="King of Fighters 2000, The (USA) (Pirate)" id="3593">
 		<category>Games</category>
@@ -15683,11 +15683,11 @@
 		<description>Mr. Nutz (USA) (En,Fr) (Beta 1)</description>
 		<rom name="Mr. Nutz (USA) (En,Fr) (Beta 1).sfc" size="1048576" crc="65690811" md5="2db1bb70228dd386e771567988f440c0" sha1="1bab248f44bf6b44fbf2aac5b7081ad4f79c04a9" sha256="95043f027a88c68b96633ee22231616b5a335ea80e0d28e1a595c2918e4ba802"/>
 	</game>
-	<game name="Ms. Pac-Man (USA) (Beta) (1996-06-18)" id="3700" cloneofid="1710">
+	<game name="Ms. Pac-Man (USA) (Beta)" id="3700" cloneofid="1710">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Ms. Pac-Man (USA) (Beta) (1996-06-18)</description>
-		<rom name="Ms. Pac-Man (USA) (Beta) (1996-06-18).sfc" size="262144" crc="41cae05b" md5="831a79e371ccaaa46feda052d98f8859" sha1="220bc3da3f385fb3bded1d54e8a4f63cbfbe0394" sha256="93f8dd6ff50544a4c602fa9975fcb227bbd27afcd726d2e0a93d34385d808b46"/>
+		<description>Ms. Pac-Man (USA) (Beta)</description>
+		<rom name="Ms. Pac-Man (USA) (Beta).sfc" size="262144" crc="41cae05b" md5="831a79e371ccaaa46feda052d98f8859" sha1="220bc3da3f385fb3bded1d54e8a4f63cbfbe0394" sha256="93f8dd6ff50544a4c602fa9975fcb227bbd27afcd726d2e0a93d34385d808b46"/>
 	</game>
 	<game name="Mutant Chronicles - Doom Troopers (USA) (Beta 2)" id="3779" cloneofid="0615">
 		<category>Games</category>
@@ -16086,17 +16086,17 @@
 		<description>Romancing Sa-Ga (Japan) (Rev 1) (Virtual Console)</description>
 		<rom name="Romancing Sa-Ga (Japan) (Rev 1) (Virtual Console).sfc" size="1048576" crc="e5c5990e" md5="b03597cd69e764e4063f1b95fe4e028c" sha1="36582fc4fe54734a22375c7eeb8c1e6d4ebde4e7" sha256="8c1e45a9ba9a50c39563b9e5be74be6427dc5837a03a5567440a067328b6b885"/>
 	</game>
-	<game name="Run Saber (USA) (Beta) (1992-12-27)" id="3802" cloneofid="2200">
+	<game name="Run Saber (USA) (Beta 1)" id="3802" cloneofid="2200">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Run Saber (USA) (Beta) (1992-12-27)</description>
-		<rom name="Run Saber (USA) (Beta) (1992-12-27).sfc" size="1048576" crc="45efc616" md5="f6f9dc186e666f35b1aaf8e6b8e60324" sha1="d641c4717ff51129bd1ab966f6d6228448f08a14" sha256="23dd687f3d10adcb8f48bb7c70ad2ad6d3764093692e835511e5bf69e40e56b0"/>
+		<description>Run Saber (USA) (Beta 1)</description>
+		<rom name="Run Saber (USA) (Beta 1).sfc" size="1048576" crc="45efc616" md5="f6f9dc186e666f35b1aaf8e6b8e60324" sha1="d641c4717ff51129bd1ab966f6d6228448f08a14" sha256="23dd687f3d10adcb8f48bb7c70ad2ad6d3764093692e835511e5bf69e40e56b0"/>
 	</game>
-	<game name="Run Saber (USA) (Beta) (1993-01-19)" id="3837" cloneofid="2200">
+	<game name="Run Saber (USA) (Beta 2)" id="3837" cloneofid="2200">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Run Saber (USA) (Beta) (1993-01-19)</description>
-		<rom name="Run Saber (USA) (Beta) (1993-01-19).sfc" size="1048576" crc="081a4f7f" md5="34b41a7ecfb42497f3f356789dc6dc86" sha1="4a26325d8e08dbe193270443d9037ebea8e1d4c4" sha256="be11ca2ba4c38a40de52e41bba61001591bdce2565be04a90632bceafd9846fb" status="verified"/>
+		<description>Run Saber (USA) (Beta 2)</description>
+		<rom name="Run Saber (USA) (Beta 2).sfc" size="1048576" crc="081a4f7f" md5="34b41a7ecfb42497f3f356789dc6dc86" sha1="4a26325d8e08dbe193270443d9037ebea8e1d4c4" sha256="be11ca2ba4c38a40de52e41bba61001591bdce2565be04a90632bceafd9846fb" status="verified"/>
 	</game>
 	<game name="Ryuuko no Ken (Japan) (Rev 1)" id="3628" cloneofid="0135">
 		<category>Games</category>
@@ -16298,11 +16298,11 @@
 		<description>Sporting News, The - Baseball (USA) (Beta)</description>
 		<rom name="Sporting News, The - Baseball (USA) (Beta).sfc" size="1048576" crc="9854063b" md5="999f80a3c6058a3b988459938896d01e" sha1="7c625203c0e29b91542b249fe86b95ef5a6363c8" sha256="507262e36070fbacd0c9baaca704201ccf2d251003894301b674eb71326e9adc" status="verified"/>
 	</game>
-	<game name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1) (1993-08-04)" id="3746" cloneofid="0092">
+	<game name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1)" id="3746" cloneofid="0092">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1) (1993-08-04)</description>
-		<rom name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1) (1993-08-04).sfc" size="2097152" crc="233ebca1" md5="164414f56e5dced22d2a9530c210f3fa" sha1="ec1dceeb2aa331105344c318278a1dcf3b0947dd" sha256="1985ddaf20e0d5bb5ad57f11c9060cd14a2a0d99693cc6a9ed31c5098ba6d85b"/>
+		<description>Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1)</description>
+		<rom name="Sports Illustrated - Championship Football &amp; Baseball (USA) (Beta 1).sfc" size="2097152" crc="233ebca1" md5="164414f56e5dced22d2a9530c210f3fa" sha1="ec1dceeb2aa331105344c318278a1dcf3b0947dd" sha256="1985ddaf20e0d5bb5ad57f11c9060cd14a2a0d99693cc6a9ed31c5098ba6d85b"/>
 	</game>
 	<game name="Spot Goes to Hollywood (USA) (Proto 1)" id="3720" cloneofid="3769">
 		<category>Games</category>
@@ -16354,17 +16354,17 @@
 		<description>Star Fox 2 (Japan) (Classic Mini, Switch Online)</description>
 		<rom name="Star Fox 2 (Japan) (Classic Mini, Switch Online).sfc" size="1048576" crc="3753682f" md5="e7de4068dd0577ec5567783739839a76" sha1="578df9cc661548f278faa1fb4b9b2e9701bde92e" sha256="835b6a45b55086d199ecadeb1ee32f9ae77a986251dfb4343bbf1e33d1221550" status="verified"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1994-05-06)" id="3685" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 3)" id="3685" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1994-05-06)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1994-05-06).sfc" size="1048576" crc="52018c77" md5="709e7055cc8d7a6e8e970a0e0c690fb8" sha1="11ae33723cbd03db5197fa8df0d1a62f28adf245" sha256="01fcf1d7079fd06ce7e2093612e82e7067016e9dbf6dbe4f9fa3e92e40ad08ae"/>
+		<description>Star Fox 2 (Japan) (Beta 3)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 3).sfc" size="1048576" crc="52018c77" md5="709e7055cc8d7a6e8e970a0e0c690fb8" sha1="11ae33723cbd03db5197fa8df0d1a62f28adf245" sha256="01fcf1d7079fd06ce7e2093612e82e7067016e9dbf6dbe4f9fa3e92e40ad08ae"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1994-05-13)" id="3686" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 4)" id="3686" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1994-05-13)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1994-05-13).sfc" size="1048576" crc="d8b14e9d" md5="8286b46153f5fa21236cac29f21c7ec0" sha1="5c18b39171ace891b386345e06ff72e08b7862a1" sha256="f236a43b5d72df411dcdc8be43f4458afc2109cd91a0efad8d08c725db2df298"/>
+		<description>Star Fox 2 (Japan) (Beta 4)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 4).sfc" size="1048576" crc="d8b14e9d" md5="8286b46153f5fa21236cac29f21c7ec0" sha1="5c18b39171ace891b386345e06ff72e08b7862a1" sha256="f236a43b5d72df411dcdc8be43f4458afc2109cd91a0efad8d08c725db2df298"/>
 	</game>
 	<game name="Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta 2)" id="3784" cloneofid="2483">
 		<category>Games</category>
@@ -16372,11 +16372,11 @@
 		<description>Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta 2)</description>
 		<rom name="Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta 2).sfc" size="1572864" crc="caa26e9d" md5="f0115e0137d92b23afcf8f9670fcbcb8" sha1="a2b121fd214706d50ed6518a416105979f30777b" sha256="62f53330fae120a0d51f199d6cbc5a0f6b9ce02273b1368625ed6dbba3621569"/>
 	</game>
-	<game name="Street Fighter II (USA) (Beta) (1992-04-03)" id="3676" cloneofid="2512">
+	<game name="Street Fighter II (USA) (Beta)" id="3676" cloneofid="2512">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Street Fighter II (USA) (Beta) (1992-04-03)</description>
-		<rom name="Street Fighter II (USA) (Beta) (1992-04-03).sfc" size="2097152" crc="40c95db4" md5="4c4549fc30bf17733551252c8bdec54f" sha1="0b0005428fcafe9616a5682a2ce556db2523327b" sha256="2a042b11a7e76bd3974e8f8d0587301ebb32b9ea36dc2a9da394e7c0c93e12ef"/>
+		<description>Street Fighter II (USA) (Beta)</description>
+		<rom name="Street Fighter II (USA) (Beta).sfc" size="2097152" crc="40c95db4" md5="4c4549fc30bf17733551252c8bdec54f" sha1="0b0005428fcafe9616a5682a2ce556db2523327b" sha256="2a042b11a7e76bd3974e8f8d0587301ebb32b9ea36dc2a9da394e7c0c93e12ef"/>
 	</game>
 	<game name="Street Fighter II (Europe) (Virtual Console)" id="3883" cloneofid="2512">
 		<category>Games</category>
@@ -16413,11 +16413,11 @@
 		<description>Street Fighter II Turbo (USA) (Rev 1) (Virtual Console)</description>
 		<rom name="Street Fighter II Turbo (USA) (Rev 1) (Virtual Console).sfc" size="2621440" crc="b0553aa8" md5="7565f895c86e12491df2ad7b036865ac" sha1="4cb41e843c26f2a228bba2541a61adef777b77b7" sha256="eac743c7b27192c7c3cead783b403a50ca0ed8be4af98c73d11352539e69591a"/>
 	</game>
-	<game name="Street Fighter Zero 2 (Japan) (En) (Beta) (1996-09-15)" id="3705" cloneofid="2509">
+	<game name="Street Fighter Zero 2 (Japan) (En) (Beta)" id="3705" cloneofid="2509">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Street Fighter Zero 2 (Japan) (En) (Beta) (1996-09-15)</description>
-		<rom name="Street Fighter Zero 2 (Japan) (En) (Beta) (1996-09-15).sfc" size="4194304" crc="349d8084" md5="1bdf3d1524794b36745fde718e2ba646" sha1="cc4cc2f858d25280fd984f5a9f8164dc120860eb" sha256="2ad0d7fd9815041974f65fee99b2b50221b4ff4b6c5e66fcd86005617eb1782f"/>
+		<description>Street Fighter Zero 2 (Japan) (En) (Beta)</description>
+		<rom name="Street Fighter Zero 2 (Japan) (En) (Beta).sfc" size="4194304" crc="349d8084" md5="1bdf3d1524794b36745fde718e2ba646" sha1="cc4cc2f858d25280fd984f5a9f8164dc120860eb" sha256="2ad0d7fd9815041974f65fee99b2b50221b4ff4b6c5e66fcd86005617eb1782f"/>
 	</game>
 	<game name="Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta 1)" id="3778" cloneofid="2529">
 		<category>Games</category>
@@ -16447,11 +16447,11 @@
 		<description>Super Big 2 (China) (Unl)</description>
 		<rom name="Super Big 2 (China) (Unl).sfc" size="2097152" crc="6865f663" md5="bc3e7f53d233442fbe5061800b795ffa" sha1="9b4c25f1219335e43db59e3b511c9187ee82fd20" sha256="f2217c20e79dd7b9a6ad087f6383d30ddef13fbcba584324f0c4c3e7740396e5"/>
 	</game>
-	<game name="Super Bomberman (USA) (Beta) (1993-05-11)" id="3636" cloneofid="2584">
+	<game name="Super Bomberman (USA) (Beta)" id="3636" cloneofid="2584">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Bomberman (USA) (Beta) (1993-05-11)</description>
-		<rom name="Super Bomberman (USA) (Beta) (1993-05-11).sfc" size="524288" crc="acc4d648" md5="d67a1a2b0fac0564d950f8cd45fee3c2" sha1="454854d03d14b045673145abcebf3a2a3757d8a1" sha256="1d798576c35762d7afc10f6555e76b79c9de5f425681ff70f3af863196a2c9a6"/>
+		<description>Super Bomberman (USA) (Beta)</description>
+		<rom name="Super Bomberman (USA) (Beta).sfc" size="524288" crc="acc4d648" md5="d67a1a2b0fac0564d950f8cd45fee3c2" sha1="454854d03d14b045673145abcebf3a2a3757d8a1" sha256="1d798576c35762d7afc10f6555e76b79c9de5f425681ff70f3af863196a2c9a6"/>
 	</game>
 	<game name="Super Bomberman 2 (USA) (Beta)" id="3782" cloneofid="2588">
 		<category>Games</category>
@@ -16480,11 +16480,11 @@
 		<description>Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Beta 1)</description>
 		<rom name="Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Beta 1).sfc" size="2097152" crc="404638d0" md5="2ca2186f8436ce10d970bd63328e9620" sha1="69dfba8fad75e25c281e80a9466ad549e14b5799" sha256="218adcf5a0bd903b7c968ae37fdd3f83b0f6bbce668063c35be4f49e5a0a86c3"/>
 	</game>
-	<game name="Super Copa (USA) (Es,Pt) (Beta) (1994-02-28)" id="3944" cloneofid="3096">
+	<game name="Super Copa (USA) (Es,Pt) (Beta)" id="3944" cloneofid="3096">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Copa (USA) (Es,Pt) (Beta) (1994-02-28)</description>
-		<rom name="Super Copa (USA) (Es,Pt) (Beta) (1994-02-28).sfc" size="1048576" crc="5f3ad10e" md5="6f61e62377567f60c2dae3d005d288fe" sha1="b2756203b99997cef2acc629c1743e873dbbff5c" sha256="82924df9a8d73bcc34a438824138a152d2e31e49ed0cfadcc40543771af8618a"/>
+		<description>Super Copa (USA) (Es,Pt) (Beta)</description>
+		<rom name="Super Copa (USA) (Es,Pt) (Beta).sfc" size="1048576" crc="5f3ad10e" md5="6f61e62377567f60c2dae3d005d288fe" sha1="b2756203b99997cef2acc629c1743e873dbbff5c" sha256="82924df9a8d73bcc34a438824138a152d2e31e49ed0cfadcc40543771af8618a"/>
 	</game>
 	<game name="Super Daikoukai Jidai (Japan) (Rev 1)" id="3632" cloneofid="3189">
 		<category>Games</category>
@@ -16650,11 +16650,11 @@
 		<description>Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online)</description>
 		<rom name="Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).sfc" size="3145728" crc="45913e52" md5="6db92bfd8f039c847f584a437322db4a" sha1="754bfab196c40799a74a79d2bf51dbb850163334" sha256="5b211848140d0981cb373a8419aa84889b5ddab2fd340ef946b2c594924df417" status="verified"/>
 	</game>
-	<game name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)" id="3702" cloneofid="2784">
+	<game name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)" id="3702" cloneofid="2784">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)</description>
-		<rom name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show).sfc" size="1048576" crc="881ec69d" md5="43d9acf540aee0036f5da994b572dcd9" sha1="8227a6eacfe24747d5f680b3b7cd07476ec6535c" sha256="814039f28de4eb6fcc8f7b564ee6ebdd125423a15c6fb7563f36eef11682bf5f"/>
+		<description>Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)</description>
+		<rom name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show).sfc" size="1048576" crc="881ec69d" md5="43d9acf540aee0036f5da994b572dcd9" sha1="8227a6eacfe24747d5f680b3b7cd07476ec6535c" sha256="814039f28de4eb6fcc8f7b564ee6ebdd125423a15c6fb7563f36eef11682bf5f"/>
 	</game>
 	<game name="Super Ninja Boy (USA) (Beta)" id="3794" cloneofid="2789">
 		<category>Games</category>
@@ -16688,11 +16688,11 @@
 		<description>Super Okumanchouja Game (Japan) (Rev 1)</description>
 		<rom name="Super Okumanchouja Game (Japan) (Rev 1).sfc" size="1048576" crc="12d589f8" md5="471b32bed8a1b45ae295a7aa944d18a8" sha1="389f94cf62740311b0713c2511c9644af75bf471" sha256="9d1de158e5d8721dd0182a84aa2a9904a475b4979b8a05bab65c5055dd132bd4" status="verified"/>
 	</game>
-	<game name="Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10)" id="3608" cloneofid="2803">
+	<game name="Super Oozumou - Nessen Ooichiban (Japan) (Beta)" id="3608" cloneofid="2803">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10)</description>
-		<rom name="Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10).sfc" size="1048576" crc="7b78b9d6" md5="929f0407b69e39fa0988ea7423b6a62a" sha1="9c9a38d8e7f9775313076605889577625c269cb1" sha256="a5537ea316d5e57e0d0949cfeec81fb3af2959a6d3e1b3711a1fbcb1dae7c506"/>
+		<description>Super Oozumou - Nessen Ooichiban (Japan) (Beta)</description>
+		<rom name="Super Oozumou - Nessen Ooichiban (Japan) (Beta).sfc" size="1048576" crc="7b78b9d6" md5="929f0407b69e39fa0988ea7423b6a62a" sha1="9c9a38d8e7f9775313076605889577625c269cb1" sha256="a5537ea316d5e57e0d0949cfeec81fb3af2959a6d3e1b3711a1fbcb1dae7c506"/>
 	</game>
 	<game name="Super Probotector - Alien Rebels (Europe) (Beta) (Debug)" id="3614" cloneofid="2820">
 		<category>Games</category>
@@ -16735,11 +16735,11 @@
 		<description>Super Soccer (USA) (Arcade)</description>
 		<rom name="Super Soccer (USA) (Arcade).sfc" size="524288" crc="70b7f50e" md5="c013bdd5a8956e10541c0e6fdf4fa1c2" sha1="92856118528995e3a0b7d22340d440bef5fd61ac" sha256="ae282f0b6b2ddf266deba90b58e706d141640e29812321e138f5831d7a8ed940"/>
 	</game>
-	<game name="Super Star Wars (USA) (Beta 1) (1992-07-10)" id="3681" cloneofid="2868">
+	<game name="Super Star Wars (USA) (Beta 1)" id="3681" cloneofid="2868">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Star Wars (USA) (Beta 1) (1992-07-10)</description>
-		<rom name="Super Star Wars (USA) (Beta 1) (1992-07-10).sfc" size="1048576" crc="34dd28a0" md5="1424730ac110dd727eda5dfac9cceab9" sha1="4da11f3624ebca681cd4b23a841e14d9b1d11f5d" sha256="6c4e6c53902a9d75733541d384171725673d842423a27cab38f149115d013054"/>
+		<description>Super Star Wars (USA) (Beta 1)</description>
+		<rom name="Super Star Wars (USA) (Beta 1).sfc" size="1048576" crc="34dd28a0" md5="1424730ac110dd727eda5dfac9cceab9" sha1="4da11f3624ebca681cd4b23a841e14d9b1d11f5d" sha256="6c4e6c53902a9d75733541d384171725673d842423a27cab38f149115d013054"/>
 	</game>
 	<game name="Super Star Wars - Return of the Jedi (Europe) (Beta)" id="3783" cloneofid="2875">
 		<category>Games</category>
@@ -16877,11 +16877,11 @@
 		<description>Tecmo Super NBA Basketball (USA) (SNS-XM)</description>
 		<rom name="Tecmo Super NBA Basketball (USA) (SNS-XM).sfc" size="1048576" crc="1b6f0b43" md5="762557921081e2ade5d3f1ec599892e5" sha1="765790e88d5b4f4202ef06a16a3d87055539745a" sha256="14bce564f976d1431127259edbcb23c52c79361fed9814d307d627c4650e800e" status="verified"/>
 	</game>
-	<game name="Tecmo Super NBA Basketball (USA) (Beta) (1992-10-26)" id="3591" cloneofid="3000">
+	<game name="Tecmo Super NBA Basketball (USA) (Beta) (SNS-XM)" id="3591" cloneofid="3000">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Tecmo Super NBA Basketball (USA) (Beta) (1992-10-26)</description>
-		<rom name="Tecmo Super NBA Basketball (USA) (Beta) (1992-10-26).sfc" size="1048576" crc="819f3a66" md5="f14a9fbb03ace5625de1422d64316064" sha1="e86526d56c77ab160365d4e485fbc8b7ad79811b" sha256="4e7f48327cd0011eb051aeb181b01e7ec459f0542626fa84a3d67164066d4e64"/>
+		<description>Tecmo Super NBA Basketball (USA) (Beta) (SNS-XM)</description>
+		<rom name="Tecmo Super NBA Basketball (USA) (Beta) (SNS-XM).sfc" size="1048576" crc="819f3a66" md5="f14a9fbb03ace5625de1422d64316064" sha1="e86526d56c77ab160365d4e485fbc8b7ad79811b" sha256="4e7f48327cd0011eb051aeb181b01e7ec459f0542626fa84a3d67164066d4e64"/>
 	</game>
 	<game name="Tecmo Super NBA Basketball (USA) (SNS-NA)" id="3734" cloneofid="3000">
 		<category>Games</category>
@@ -17324,11 +17324,11 @@
 		<description>TKO Super Championship Boxing (USA)</description>
 		<rom name="TKO Super Championship Boxing (USA).sfc" size="524288" crc="fd4af462" md5="ce4c0781255c881e57fa370ecffb776f" sha1="b3f4b93f6ba108f7360c1d7f1ae73d1eb4c2a390" sha256="08d808e9c5851e4301a38a56b350a20ea9e3adbef51546e87e1785d691d0f2d5"/>
 	</game>
-	<game name="TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)" id="3086" cloneofid="3084">
+	<game name="TKO Super Championship Boxing (USA) (Sample)" id="3086" cloneofid="3084">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)</description>
-		<rom name="TKO Super Championship Boxing (USA) (Sample) (1992-08-xx).sfc" size="524288" crc="5f2ab21d" md5="cfdcd6a8ede7eeb243b2facf6344aaa8" sha1="b0ef4e1c0dbf5f70bb699d5696925e78dbd9d00e" sha256="12ad9ee84eed0d991600a5bef90bf5608cdc0b8ce02aea523177be6921a15da2"/>
+		<description>TKO Super Championship Boxing (USA) (Sample)</description>
+		<rom name="TKO Super Championship Boxing (USA) (Sample).sfc" size="524288" crc="5f2ab21d" md5="cfdcd6a8ede7eeb243b2facf6344aaa8" sha1="b0ef4e1c0dbf5f70bb699d5696925e78dbd9d00e" sha256="12ad9ee84eed0d991600a5bef90bf5608cdc0b8ce02aea523177be6921a15da2"/>
 	</game>
 	<game name="TNN Bass Tournament of Champions (USA)" id="3087">
 		<category>Games</category>
@@ -17493,11 +17493,11 @@
 		<description>Total Carnage (USA) (Beta 3)</description>
 		<rom name="Total Carnage (USA) (Beta 3).sfc" size="1048576" crc="291f2183" md5="15401d81cddc0c64572eba1f1b63b39f" sha1="d995d5f51b5f104bf7b4ca5f244b052048d9b37c" sha256="a4fcdc9edb70f1f90200e077d570748fb2ec20f9f03f85f33f4b5d0644bc7a88"/>
 	</game>
-	<game name="Total Carnage (USA) (Beta 2) (1993-06-10)" id="3848" cloneofid="3109">
+	<game name="Total Carnage (USA) (Beta 2)" id="3848" cloneofid="3109">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Total Carnage (USA) (Beta 2) (1993-06-10)</description>
-		<rom name="Total Carnage (USA) (Beta 2) (1993-06-10).sfc" size="1048576" crc="d2be0688" md5="6cc702930bd4598670520168088194f1" sha1="2b498ad3fd7f23ec14039382d683b8d666a92645" sha256="f94194bf2aaa101a0e1500a3cf72c4aad13ff5d25d662ede7ce5b6d028f5eed1"/>
+		<description>Total Carnage (USA) (Beta 2)</description>
+		<rom name="Total Carnage (USA) (Beta 2).sfc" size="1048576" crc="d2be0688" md5="6cc702930bd4598670520168088194f1" sha1="2b498ad3fd7f23ec14039382d683b8d666a92645" sha256="f94194bf2aaa101a0e1500a3cf72c4aad13ff5d25d662ede7ce5b6d028f5eed1"/>
 	</game>
 	<game name="Total Football (Europe) (En,Fr,De) (Proto)" id="3694">
 		<category>Games</category>
@@ -18070,11 +18070,11 @@
 		<description>Val d'Isere Championship (Europe)</description>
 		<rom name="Val d'Isere Championship (Europe).sfc" size="1048576" crc="01b3114a" md5="c9e6044768e8d0d903a621d71d6687f9" sha1="9b41348b640f49cbf0e7ab7f553d36b6f00aba95" sha256="5a9103b04b9246f63af9018cbbd7934c6b79076dd9b0062887bd16077cd37c81" status="verified"/>
 	</game>
-	<game name="Val d'Isere Championship (Europe) (Beta) (1993-10-27)" id="3209" cloneofid="3207">
+	<game name="Val d'Isere Championship (Europe) (Beta)" id="3209" cloneofid="3207">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Val d'Isere Championship (Europe) (Beta) (1993-10-27)</description>
-		<rom name="Val d'Isere Championship (Europe) (Beta) (1993-10-27).sfc" size="1048576" crc="66623ee2" md5="13f182e32ce9d216883931e684518750" sha1="610d31c0eeff4161bb3385c28b0c66250b6d2b0d" sha256="267694247a6a9414640282a93ad3f4e58a15c16105783c6173c9e9706fe64238"/>
+		<description>Val d'Isere Championship (Europe) (Beta)</description>
+		<rom name="Val d'Isere Championship (Europe) (Beta).sfc" size="1048576" crc="66623ee2" md5="13f182e32ce9d216883931e684518750" sha1="610d31c0eeff4161bb3385c28b0c66250b6d2b0d" sha256="267694247a6a9414640282a93ad3f4e58a15c16105783c6173c9e9706fe64238"/>
 	</game>
 	<game name="Vegas Stakes (Europe)" id="3210">
 		<category>Games</category>
@@ -19313,11 +19313,11 @@
 		<description>Aero the Acro-Bat (World) (Evercade)</description>
 		<rom name="Aero the Acro-Bat (World) (Evercade).sfc" size="1048576" crc="69cb4875" md5="17dadead27b05853459b205f2028ad9c" sha1="67e3b9429fdb29ff0812806c94f6e53138c983ae" sha256="1b687e9afd69c91c92f5d1068b1340f743d279e90784e67f13ea37acae33ff01"/>
 	</game>
-	<game name="Akumajou Dracula (Japan) (Beta) (1991-06-14)" id="4061" cloneofid="2611">
+	<game name="Akumajou Dracula (Japan) (Beta)" id="4061" cloneofid="2611">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Akumajou Dracula (Japan) (Beta) (1991-06-14)</description>
-		<rom name="Akumajou Dracula (Japan) (Beta) (1991-06-14).sfc" size="1048576" crc="a2a811f6" md5="883c9e004f8dcc2cc41b042be0f93578" sha1="269e7a529125328bf5f65647b1d8b8d69596917e" sha256="c72c37d07b248f747d06d18dade84b6ee603a5f9d633f89673f1aa7fec750b29"/>
+		<description>Akumajou Dracula (Japan) (Beta)</description>
+		<rom name="Akumajou Dracula (Japan) (Beta).sfc" size="1048576" crc="a2a811f6" md5="883c9e004f8dcc2cc41b042be0f93578" sha1="269e7a529125328bf5f65647b1d8b8d69596917e" sha256="c72c37d07b248f747d06d18dade84b6ee603a5f9d633f89673f1aa7fec750b29"/>
 	</game>
 	<game name="Akumajou Dracula XX (Japan) (Castlevania Advance Collection)" id="4044" cloneofid="0401">
 		<category>Games</category>
@@ -19498,11 +19498,11 @@
 		<description>Chaos Engine, The (World) (Evercade)</description>
 		<rom name="Chaos Engine, The (World) (Evercade).sfc" size="1572864" crc="d61b2178" md5="eac6c943728f5409af8f27e00f203bf4" sha1="76d4d51d7c4df7b812d5a64ebad913b8dd18e296" sha256="dc1ac4cfc33dc4c47324ca6022f065eadddba0b39953798fc37763ff4b2a9b6c"/>
 	</game>
-	<game name="Chou Makaimura (Japan) (Beta) (1991-06-26)" id="4063" cloneofid="2689">
+	<game name="Chou Makaimura (Japan) (Beta)" id="4063" cloneofid="2689">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Chou Makaimura (Japan) (Beta) (1991-06-26)</description>
-		<rom name="Chou Makaimura (Japan) (Beta) (1991-06-26).sfc" size="1048576" crc="77dafb7e" md5="c8f29c0dd80657da7bdb214498f17fb5" sha1="070c4f460ed7825d3c048b488388cb51140f90c1" sha256="a69b40dee2ffe3f7e7fb657f5e0c43879b1a57548bb58c650a959e1da7cb204f"/>
+		<description>Chou Makaimura (Japan) (Beta)</description>
+		<rom name="Chou Makaimura (Japan) (Beta).sfc" size="1048576" crc="77dafb7e" md5="c8f29c0dd80657da7bdb214498f17fb5" sha1="070c4f460ed7825d3c048b488388cb51140f90c1" sha256="a69b40dee2ffe3f7e7fb657f5e0c43879b1a57548bb58c650a959e1da7cb204f"/>
 	</game>
 	<game name="Clay Fighter (World) (Evercade)" id="4409" cloneofid="0450">
 		<category>Games</category>
@@ -19514,11 +19514,11 @@
 		<description>Clay Fighter 2 - Judgment Clay (World) (Evercade)</description>
 		<rom name="Clay Fighter 2 - Judgment Clay (World) (Evercade) (Fixed).sfc" size="3145728" crc="ac124db3" md5="61ef3e3fa983c6ecc8621c66136dbd01" sha1="74c73fd9d4b2337cfb8e2575f88e51e7d2eefde2" sha256="f1cd876ad4dfa6ab07d5fdbb1e663ac03bf59032bf65a179a43b17a5631cf6bf"/>
 	</game>
-	<game name="ClayFighter (USA) (Beta 1) (1993-09-28) [b]" id="4017" cloneofid="0450">
+	<game name="ClayFighter (USA) (Beta 1) [b]" id="4017" cloneofid="0450">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>ClayFighter (USA) (Beta 1) (1993-09-28) [b]</description>
-		<rom name="ClayFighter (USA) (Beta 1) (1993-09-28) [b].sfc" size="1114112" crc="eae14175" md5="1cc33f34ba487f4afe8ac007da37df78" sha1="65bd6fcd0d7e3e29a5f0c489cbc0dcb86eab2a5b" sha256="8222ca56eb79a9bc7f5d356cfab88bf1347e01b421c2bed0ec009e991ff59ad0" status="baddump"/>
+		<description>ClayFighter (USA) (Beta 1) [b]</description>
+		<rom name="ClayFighter (USA) (Beta 1) [b].sfc" size="1114112" crc="eae14175" md5="1cc33f34ba487f4afe8ac007da37df78" sha1="65bd6fcd0d7e3e29a5f0c489cbc0dcb86eab2a5b" sha256="8222ca56eb79a9bc7f5d356cfab88bf1347e01b421c2bed0ec009e991ff59ad0" status="baddump"/>
 	</game>
 	<game name="ClayFighter (USA) (Beta 2)" id="4098" cloneofid="0450">
 		<category>Games</category>
@@ -19643,11 +19643,11 @@
 		<description>Drakkhen (World) (Evercade)</description>
 		<rom name="Drakkhen (World) (Evercade).sfc" size="1572864" crc="f1d748b6" md5="457d1e43ee85fc15a831479908c6957b" sha1="c2893f7541b10fd87b014e7d68e3cc8f62c046bb" sha256="53860e479a11c9c01ccf4e72495995af3bde0c5fea9680721310d5b9a7e25aac"/>
 	</game>
-	<game name="Dual Orb - Seirei Tama Densetsu (Japan) (Beta) (1992-11-25)" id="4229" cloneofid="0672">
+	<game name="Dual Orb - Seirei Tama Densetsu (Japan) (Beta)" id="4229" cloneofid="0672">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Dual Orb - Seirei Tama Densetsu (Japan) (Beta) (1992-11-25)</description>
-		<rom name="Dual Orb - Seirei Tama Densetsu (Japan) (Beta) (1992-11-25).sfc" size="1572864" crc="a2c6d5fe" md5="0d022b3d8558307ff2ba75ff489c7cc0" sha1="83017526e17377b493416154b44cf496ffa3ccd2" sha256="e9fb6c842723829cc78d642462a9825bb508862c4fe8d8c2db66a035744763f9"/>
+		<description>Dual Orb - Seirei Tama Densetsu (Japan) (Beta)</description>
+		<rom name="Dual Orb - Seirei Tama Densetsu (Japan) (Beta).sfc" size="1572864" crc="a2c6d5fe" md5="0d022b3d8558307ff2ba75ff489c7cc0" sha1="83017526e17377b493416154b44cf496ffa3ccd2" sha256="e9fb6c842723829cc78d642462a9825bb508862c4fe8d8c2db66a035744763f9"/>
 	</game>
 	<game name="Earth Defense Force (USA) (Beta)" id="4454" cloneofid="0685">
 		<category>Games</category>
@@ -19672,11 +19672,11 @@
 		<description>ESPN Sunday Night NFL (USA) (Beta) [b]</description>
 		<rom name="ESPN Sunday Night NFL (USA) (Beta) [b].sfc" size="524288" crc="49ac0c53" md5="ad1f9230a87eaac1941ab728026c2bde" sha1="8f747300f646626604df16d969e5856c17cb6562" sha256="2e7c1ec71c3130779d7ece2cf8429cde098e254f2ac7087645bc1ddd1cfc88df" status="baddump"/>
 	</game>
-	<game name="F-Zero (USA) (Beta) (1991-05-13)" id="4059" cloneofid="0746">
+	<game name="F-Zero (USA) (Beta)" id="4059" cloneofid="0746">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>F-Zero (USA) (Beta) (1991-05-13)</description>
-		<rom name="F-Zero (USA) (Beta) (1991-05-13).sfc" size="524288" crc="1fe12b7a" md5="293fbca5dcd811d206e8de49ad54a8e4" sha1="bfe8dabb45fc915780ba16b42243db3acbb67971" sha256="640e5f5afba228f83b18f99a42586725f8d6af116739baeb0fa50c639a856b09"/>
+		<description>F-Zero (USA) (Beta)</description>
+		<rom name="F-Zero (USA) (Beta).sfc" size="524288" crc="1fe12b7a" md5="293fbca5dcd811d206e8de49ad54a8e4" sha1="bfe8dabb45fc915780ba16b42243db3acbb67971" sha256="640e5f5afba228f83b18f99a42586725f8d6af116739baeb0fa50c639a856b09"/>
 	</game>
 	<game name="Fighter's History (World) (Evercade)" id="4414" cloneofid="0789">
 		<category>Games</category>
@@ -19749,11 +19749,11 @@
 		<description>Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta)</description>
 		<rom name="Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta).sfc" size="1048576" crc="6394d9df" md5="ea4a85352cf0f51eb59fb245e907079b" sha1="9a3d1055e6f6733e97e86a2d5da2044c8fab4950" sha256="8fd67962c33e975926263e541db265082c76967621ba94257f93f9cb9180a22b"/>
 	</game>
-	<game name="Gargoyles (USA) (Proto) (1994-07-19)" id="4205">
+	<game name="Gargoyles (USA) (Proto)" id="4205">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Gargoyles (USA) (Proto) (1994-07-19)</description>
-		<rom name="Gargoyles (USA) (Proto) (1994-07-19).sfc" size="688128" crc="3439626b" md5="ad4d6c817077fcbd2cb64218b17c5b89" sha1="5c87ac32ae57ef4daaadd0351fbc4a1638c5c61e" sha256="4df5d06e8b80ee4b5f313a523b8f9e2d091a61cc32e9defb69621fbc0e451898"/>
+		<description>Gargoyles (USA) (Proto)</description>
+		<rom name="Gargoyles (USA) (Proto).sfc" size="688128" crc="3439626b" md5="ad4d6c817077fcbd2cb64218b17c5b89" sha1="5c87ac32ae57ef4daaadd0351fbc4a1638c5c61e" sha256="4df5d06e8b80ee4b5f313a523b8f9e2d091a61cc32e9defb69621fbc0e451898"/>
 	</game>
 	<game name="Ghoul Patrol (USA) (Limited Run Games)" id="4121" cloneofid="0944">
 		<category>Games</category>
@@ -19814,11 +19814,11 @@
 		<description>Illusion of Gaia (USA) (Beta 2)</description>
 		<rom name="Illusion of Gaia (USA) (Beta 2).sfc" size="2097152" crc="721941df" md5="7247c5c888003117513a5f9aab7bd633" sha1="a95cf7850c03618fe54b09172b3531f5e9b5b932" sha256="6822992ad74e5b36cb705540523b76a5affd4d65b6d768a947814220ca0799b5"/>
 	</game>
-	<game name="Illvanian no Shiro (Japan) (Beta) (1994-08-23)" id="4234" cloneofid="1129">
+	<game name="Illvanian no Shiro (Japan) (Beta)" id="4234" cloneofid="1129">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Illvanian no Shiro (Japan) (Beta) (1994-08-23)</description>
-		<rom name="Illvanian no Shiro (Japan) (Beta) (1994-08-23).sfc" size="2097152" crc="5f693504" md5="c2ba60d99413cf97b0b1530e5d506820" sha1="006c75233f5ea1a4f3fdfb4ed656f0e3e595c799" sha256="738c2cbaa713ccb22714ea16a9abe585caff1cd2d1aa0bc1ba306160723363c0"/>
+		<description>Illvanian no Shiro (Japan) (Beta)</description>
+		<rom name="Illvanian no Shiro (Japan) (Beta).sfc" size="2097152" crc="5f693504" md5="c2ba60d99413cf97b0b1530e5d506820" sha1="006c75233f5ea1a4f3fdfb4ed656f0e3e595c799" sha256="738c2cbaa713ccb22714ea16a9abe585caff1cd2d1aa0bc1ba306160723363c0"/>
 	</game>
 	<game name="Imperium (USA) (Beta)" id="4115" cloneofid="1130">
 		<category>Games</category>
@@ -19919,23 +19919,23 @@
 		<description>Kawasaki Superbike Challenge (Europe) (Beta)</description>
 		<rom name="Kawasaki Superbike Challenge (Europe) (Beta).sfc" size="1048576" crc="0470839f" md5="a25fb8f8506ee43319fdcfcf9f6eb58b" sha1="f08a02b4666b0e0cd209e9a10f5505109cf39724" sha256="b54725ad64fecd3b2da289c8841ed732b4b686c1380a916874e91f66e353b51b"/>
 	</game>
-	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.315) (Beta)" id="4225" cloneofid="1322">
+	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 1)" id="4225" cloneofid="1322">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.315) (Beta)</description>
-		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.315) (Beta).sfc" size="1048576" crc="aea31aab" md5="f18637f5e4c4875b38fc7ff344273460" sha1="95421d65b8174da0ae5e7e33666a0cc978f20901" sha256="2a83adc5a071cbb9595e6d05ac568379d74030f2317bc20a246612309d814ecc" status="verified"/>
+		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 1)</description>
+		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 1).sfc" size="1048576" crc="aea31aab" md5="f18637f5e4c4875b38fc7ff344273460" sha1="95421d65b8174da0ae5e7e33666a0cc978f20901" sha256="2a83adc5a071cbb9595e6d05ac568379d74030f2317bc20a246612309d814ecc" status="verified"/>
 	</game>
-	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.431) (Beta)" id="4226" cloneofid="1322">
+	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 2)" id="4226" cloneofid="1322">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.431) (Beta)</description>
-		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.431) (Beta).sfc" size="1048576" crc="19bba16c" md5="fd570a8fcedab210e0008cee73f6a1c2" sha1="56c8eb1b4a7835c8bd2b225015db3b918a64572b" sha256="00f299369eba8ef0ac62a13a830aff6659760aa8c57f5435b0e61a7e6a609924"/>
+		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 2)</description>
+		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 2).sfc" size="1048576" crc="19bba16c" md5="fd570a8fcedab210e0008cee73f6a1c2" sha1="56c8eb1b4a7835c8bd2b225015db3b918a64572b" sha256="00f299369eba8ef0ac62a13a830aff6659760aa8c57f5435b0e61a7e6a609924"/>
 	</game>
-	<game name="Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18)" id="4504" cloneofid="1323">
+	<game name="Kevin Keegan's Player Manager (Europe) (Demo 2)" id="4504" cloneofid="1323">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18)</description>
-		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18).sfc" size="524288" crc="7f480abd" md5="523e3aca4d5fe79a0e5e9c342c732b64" sha1="a941e106b120321f500a3239e1847d3161e90241" sha256="7a3cea1c5d0e888a3703c8d690ac79aaf9245b65a72de127963b9979f0d97ecb" serial="!none"/>
+		<description>Kevin Keegan's Player Manager (Europe) (Demo 2)</description>
+		<rom name="Kevin Keegan's Player Manager (Europe) (Demo 2).sfc" size="524288" crc="7f480abd" md5="523e3aca4d5fe79a0e5e9c342c732b64" sha1="a941e106b120321f500a3239e1847d3161e90241" sha256="7a3cea1c5d0e888a3703c8d690ac79aaf9245b65a72de127963b9979f0d97ecb" serial="!none"/>
 	</game>
 	<game name="Kevin Keegan's Player Manager (Europe) (Auto Demo)" id="4505" cloneofid="1323">
 		<category>Demos</category>
@@ -20030,11 +20030,11 @@
 		<description>Little Master - Nijiiro no Maseki (Japan) (Beta)</description>
 		<rom name="Little Master - Nijiiro no Maseki (Japan) (Beta).sfc" size="1572864" crc="a7569e6d" md5="d828dd07de76e76b8bdd8360caa5c16d" sha1="9139b19251968838c20c56ba62cb3551c4d7883b" sha256="f538c1a67e31f8b72441096d4d2055db080b4be33813cf0eadee773f9c075883"/>
 	</game>
-	<game name="Looney Tunes - Hoop It Up! (USA) (Beta) (1994-08-08)" id="4468" cloneofid="1483">
+	<game name="Looney Tunes - Hoop It Up! (USA) (Beta)" id="4468" cloneofid="1483">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Looney Tunes - Hoop It Up! (USA) (Beta) (1994-08-08)</description>
-		<rom name="Looney Tunes - Hoop It Up! (USA) (Beta) (1994-08-08).sfc" size="2097152" crc="90f07cf1" md5="8cd7630d427880dfad02defaa4571a64" sha1="52f4242b427b2862d4dcb437caf79986ded6f2e6" sha256="78b38431860164e4666c0933e97f9f4f8765db0bf71e35f7bd3a38fcbb8718a4"/>
+		<description>Looney Tunes - Hoop It Up! (USA) (Beta)</description>
+		<rom name="Looney Tunes - Hoop It Up! (USA) (Beta).sfc" size="2097152" crc="90f07cf1" md5="8cd7630d427880dfad02defaa4571a64" sha1="52f4242b427b2862d4dcb437caf79986ded6f2e6" sha256="78b38431860164e4666c0933e97f9f4f8765db0bf71e35f7bd3a38fcbb8718a4"/>
 	</game>
 	<game name="Maerchen Adventure Cotton 100% (USA) (Strictly Limited Games)" id="4208" cloneofid="1514">
 		<category>Games</category>
@@ -20195,11 +20195,11 @@
 		<description>NBA All-Star Challenge (USA) (Beta)</description>
 		<rom name="NBA All-Star Challenge (USA) (Beta).sfc" size="1048576" crc="618703fa" md5="2c6d215f83492593894a3029245a831e" sha1="96f57be3443e0fc3a410394aa39965dd35c45b3b" sha256="8f09bbd35fbc1b3d5cc21cc15faa9d57c0c188dbcaa9acd6c6f4471825f4befa"/>
 	</game>
-	<game name="NBA Live 97 (USA) (Beta) (1996-09-20)" id="4103" cloneofid="1754">
+	<game name="NBA Live 97 (USA) (Beta)" id="4103" cloneofid="1754">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>NBA Live 97 (USA) (Beta) (1996-09-20)</description>
-		<rom name="NBA Live 97 (USA) (Beta) (1996-09-20).sfc" size="2097152" crc="d7c0cad3" md5="f3e65350ae692d7f2a54542643a110c2" sha1="a4ac7a5ed84692bfd93714185cc3d999e18fda0a" sha256="edecd008218d13b35f9388186bff1586762a9d5f8761b1d9dee21285e009d6f2"/>
+		<description>NBA Live 97 (USA) (Beta)</description>
+		<rom name="NBA Live 97 (USA) (Beta).sfc" size="2097152" crc="d7c0cad3" md5="f3e65350ae692d7f2a54542643a110c2" sha1="a4ac7a5ed84692bfd93714185cc3d999e18fda0a" sha256="edecd008218d13b35f9388186bff1586762a9d5f8761b1d9dee21285e009d6f2"/>
 	</game>
 	<game name="NCAA Final Four Basketball (USA) (Beta)" id="4045" cloneofid="1764">
 		<category>Games</category>
@@ -20291,11 +20291,11 @@
 		<description>Peru - Operation Chavin de Huantar (USA) (Demo) (Unl)</description>
 		<rom name="Peru - Operation Chavin de Huantar (USA) (Demo) (Unl).sfc" size="262144" crc="3e3032ea" md5="aeab556576aeb48c700f042bf9a91e4f" sha1="5c18cf7e86a9524acc93abc622508c5e0f38c8e4" sha256="841434e516e3cedf6a20da2bf1fcc81d99cc70fcf4a5f1a07f1d4013468d1db7"/>
 	</game>
-	<game name="Pocky &amp; Rocky (USA) (Beta) (1992-11-24)" id="4065" cloneofid="2006">
+	<game name="Pocky &amp; Rocky (USA) (Beta)" id="4065" cloneofid="2006">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pocky &amp; Rocky (USA) (Beta) (1992-11-24)</description>
-		<rom name="Pocky &amp; Rocky (USA) (Beta) (1992-11-24).sfc" size="1048576" crc="4edc8f35" md5="b7cb56389dd83e9b440b61f677464aed" sha1="a140ee895ec176935b23b1d5c5bcdb4e9e2394e8" sha256="84b122c09f8736a29b80c987d2da543d66fd88ca432f7a9c8398037f914c3452"/>
+		<description>Pocky &amp; Rocky (USA) (Beta)</description>
+		<rom name="Pocky &amp; Rocky (USA) (Beta).sfc" size="1048576" crc="4edc8f35" md5="b7cb56389dd83e9b440b61f677464aed" sha1="a140ee895ec176935b23b1d5c5bcdb4e9e2394e8" sha256="84b122c09f8736a29b80c987d2da543d66fd88ca432f7a9c8398037f914c3452"/>
 	</game>
 	<game name="Porky Pig's Haunted Holiday (USA) (Beta 6)" id="4201" cloneofid="2030">
 		<category>Games</category>
@@ -20377,11 +20377,11 @@
 		<description>Race Drivin' (USA) (Beta)</description>
 		<rom name="Race Drivin' (USA) (Beta).sfc" size="524288" crc="90947b50" md5="ac6bf6f46dfd84c0721c7f18ec7fcf3c" sha1="d2529eb2c9ed6d3365fb4013168802260757ce9b" sha256="35b2f9f5f15fab724e0696c1af8ec1759091b9810de5a426b443ae6f2160e788"/>
 	</game>
-	<game name="Radical Psycho Machine Racing (USA) (Beta) (1991-08-14)" id="4032" cloneofid="2098">
+	<game name="Radical Psycho Machine Racing (USA) (Beta)" id="4032" cloneofid="2098">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Radical Psycho Machine Racing (USA) (Beta) (1991-08-14)</description>
-		<rom name="Radical Psycho Machine Racing (USA) (Beta) (1991-08-14).sfc" size="524288" crc="c739d55d" md5="ef2ab465a8fe68bea17128d42246906e" sha1="b0771c2e3c19869f29677f356c4f0592cdf427d6" sha256="3e491ecddf1dce9d0363fe6a079c58245abc4cbdc0746f288fc75b2f235f0d43"/>
+		<description>Radical Psycho Machine Racing (USA) (Beta)</description>
+		<rom name="Radical Psycho Machine Racing (USA) (Beta).sfc" size="524288" crc="c739d55d" md5="ef2ab465a8fe68bea17128d42246906e" sha1="b0771c2e3c19869f29677f356c4f0592cdf427d6" sha256="3e491ecddf1dce9d0363fe6a079c58245abc4cbdc0746f288fc75b2f235f0d43"/>
 	</game>
 	<game name="Radical Rex (USA) (Beta)" id="4027" cloneofid="2102">
 		<category>Games</category>
@@ -20615,87 +20615,89 @@
 		<description>Squirrel (USA) (Pirate)</description>
 		<rom name="Squirrel (USA) (Pirate).sfc" size="2097152" crc="bad1d9b8" md5="b846ff852409ad266fde7ba4b44fa15a" sha1="4a88cdfbfefeaf79df9ebfd1974b16a1571dbce1" sha256="0d5bbe55e9f2e7b929865823c593c63351de5a02c23c8e475adb30d88027f371"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1994-08-31)" id="4071" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 5)" id="4071" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1994-08-31)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1994-08-31).sfc" size="1037214" crc="d0fcf5f5" md5="db92a615beeacdcc0855f6cf3f5f7bcc" sha1="f90a32ada6bc5e3592b4f8ae3a8a14375102a4ba" sha256="17ef204045d86933d4e7deacf3a03acac2a471d47fbe1dd925490c5d3217b8b6"/>
+		<description>Star Fox 2 (Japan) (Beta 5)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 5).sfc" size="1037214" crc="d0fcf5f5" md5="db92a615beeacdcc0855f6cf3f5f7bcc" sha1="f90a32ada6bc5e3592b4f8ae3a8a14375102a4ba" sha256="17ef204045d86933d4e7deacf3a03acac2a471d47fbe1dd925490c5d3217b8b6"/>
 	</game>
-	<game name="Star Fox 2 (USA) (Beta) (1994-12-28) (CES)" id="4072" cloneofid="3683">
+	<game name="Star Fox 2 (USA) (Beta 1)" id="4072" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (USA) (Beta) (1994-12-28) (CES)</description>
-		<rom name="Star Fox 2 (USA) (Beta) (1994-12-28) (CES).sfc" size="1047074" crc="74f8ac20" md5="e4312fbfbb293740a45ed5c97813765a" sha1="9065a82a529137115b4dde1d49fe7f71801b5584" sha256="3b8e5054c88ec0f4b3a6e4c9cdf2015882d9f1b24b0776c08c1e10c77e5eaea6"/>
+		<description>Star Fox 2 (USA) (Beta 1)</description>
+		<rom name="Star Fox 2 (USA) (Beta 1).sfc" size="1047074" crc="74f8ac20" md5="e4312fbfbb293740a45ed5c97813765a" sha1="9065a82a529137115b4dde1d49fe7f71801b5584" sha256="3b8e5054c88ec0f4b3a6e4c9cdf2015882d9f1b24b0776c08c1e10c77e5eaea6"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-06-08)" id="4073" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 6)" id="4073" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-06-08)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-06-08).sfc" size="1045784" crc="b19af7b7" md5="7cc99f8e34f62a9d340db81f05fce607" sha1="1ab610e7c4574cfd8c5492a847c90e332bbbcd11" sha256="fbccc07a5d0f90c321d2bcf66ed1cb0e4f465c03e45720fb67888a8239a52b8b"/>
+		<description>Star Fox 2 (Japan) (Beta 6)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 6).sfc" size="1045784" crc="b19af7b7" md5="7cc99f8e34f62a9d340db81f05fce607" sha1="1ab610e7c4574cfd8c5492a847c90e332bbbcd11" sha256="fbccc07a5d0f90c321d2bcf66ed1cb0e4f465c03e45720fb67888a8239a52b8b"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1994-05-01)" id="4074" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 2)" id="4074" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1994-05-01)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1994-05-01).sfc" size="997300" crc="40946e9b" md5="6187c48389108eabab61516a5888edc1" sha1="2ba009377171494b905db3f5bff706604150d57c" sha256="d484bc0ba6c068e0e77e9718e98f9cfb56506ec479093ce8c9e38dd4ff37d662"/>
+		<description>Star Fox 2 (Japan) (Beta 2)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 2).sfc" size="997300" crc="40946e9b" md5="6187c48389108eabab61516a5888edc1" sha1="2ba009377171494b905db3f5bff706604150d57c" sha256="d484bc0ba6c068e0e77e9718e98f9cfb56506ec479093ce8c9e38dd4ff37d662"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-06-28)" id="4075" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 8)" id="4075" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-06-28)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-06-28).sfc" size="1048070" crc="58ab9ea0" md5="29b621c5eb40f63faced542ab1a1defe" sha1="d9d09bd0d85b51b1c5884806b9d845d092646fec" sha256="704e62e408611b70c122d6d1b09f58685896aad8af35173cf29ef944babb54c0"/>
+		<description>Star Fox 2 (Japan) (Beta 8)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 8).sfc" size="1048070" crc="58ab9ea0" md5="29b621c5eb40f63faced542ab1a1defe" sha1="d9d09bd0d85b51b1c5884806b9d845d092646fec" sha256="704e62e408611b70c122d6d1b09f58685896aad8af35173cf29ef944babb54c0"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-07-25)" id="4076" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 9)" id="4076" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-07-25)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-07-25).sfc" size="1048240" crc="f7de972e" md5="729b18adb1e562875d9338a922356bc1" sha1="a13168bda551fa260698495d3d8409288390dc93" sha256="002abae9e4b987c69b49a4d26581f1082e04f4c4a76846f1c5d04888a4b7f7ab"/>
+		<description>Star Fox 2 (Japan) (Beta 9)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 9).sfc" size="1048240" crc="f7de972e" md5="729b18adb1e562875d9338a922356bc1" sha1="a13168bda551fa260698495d3d8409288390dc93" sha256="002abae9e4b987c69b49a4d26581f1082e04f4c4a76846f1c5d04888a4b7f7ab"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-08-31)" id="4077" cloneofid="3683">
-		<description>Star Fox 2 (Japan) (Beta) (1995-08-31)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-08-31).sfc" size="1048259" crc="bcf64ca4" md5="9ce2d89174c675f82876d2277b47deaa" sha1="389b517763dcddf38427ea840a52d9a35672bd7e"/>
-	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-09-12)" id="4078" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 10)" id="4077" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-09-12)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-09-12).sfc" size="1048259" crc="47d2d319" md5="bd94cf98c7d640d121fb43d7dacddc04" sha1="48cea962169baa75c3535ccd4267c8bba2e79142" sha256="d253984c809b82e42701c1b201b1d7d48d9f04fb832f800ec9991de338e3721b"/>
+		<description>Star Fox 2 (Japan) (Beta 10)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 10).sfc" size="1048259" crc="bcf64ca4" md5="9ce2d89174c675f82876d2277b47deaa" sha1="389b517763dcddf38427ea840a52d9a35672bd7e"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-09-13)" id="4079" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 11)" id="4078" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-09-13)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-09-13).sfc" size="1048259" crc="00a6f147" md5="0b77282fc24f4d312acedc9df78def5a" sha1="274657b333cc7796c4b1fec6e3aefb627d1f49e4" sha256="5e616c3f460dd987dd2c762fe58774940986eab982cfaccb03890a6d05b34db6"/>
+		<description>Star Fox 2 (Japan) (Beta 11)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 11).sfc" size="1048259" crc="47d2d319" md5="bd94cf98c7d640d121fb43d7dacddc04" sha1="48cea962169baa75c3535ccd4267c8bba2e79142" sha256="d253984c809b82e42701c1b201b1d7d48d9f04fb832f800ec9991de338e3721b"/>
 	</game>
-	<game name="Star Fox 2 (Japan) (Beta) (1995-09-20) (Debug)" id="4080" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 12)" id="4079" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (Japan) (Beta) (1995-09-20) (Debug)</description>
-		<rom name="Star Fox 2 (Japan) (Beta) (1995-09-20) (Debug).sfc" size="1048259" crc="588ddd4d" md5="91d7366020df978b280020fcdc81ee2c" sha1="c0987ccc3e8a064744460801863c20143e3f2ccd" sha256="8d05a0dd924655e775d5283b2d801ed77036e59072da12783d0b5c4fbbf3951f"/>
+		<description>Star Fox 2 (Japan) (Beta 12)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 12).sfc" size="1048259" crc="00a6f147" md5="0b77282fc24f4d312acedc9df78def5a" sha1="274657b333cc7796c4b1fec6e3aefb627d1f49e4" sha256="5e616c3f460dd987dd2c762fe58774940986eab982cfaccb03890a6d05b34db6"/>
 	</game>
-	<game name="Star Fox 2 (USA) (Beta) (1995-09-12)" id="4081" cloneofid="3683">
+	<game name="Star Fox 2 (Japan) (Beta 13) (Debug)" id="4080" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (USA) (Beta) (1995-09-12)</description>
-		<rom name="Star Fox 2 (USA) (Beta) (1995-09-12).sfc" size="1048259" crc="760f0a88" md5="43da32262e39b7a9f665901bfe3ade7f" sha1="87bdd184124e8d0d2b06bee369682265b858381a" sha256="4f91470d3dd78c7b4c227b9414ae77ff840e8961890c4fbd43ade54ca91059c4"/>
+		<description>Star Fox 2 (Japan) (Beta 13) (Debug)</description>
+		<rom name="Star Fox 2 (Japan) (Beta 13) (Debug).sfc" size="1048259" crc="588ddd4d" md5="91d7366020df978b280020fcdc81ee2c" sha1="c0987ccc3e8a064744460801863c20143e3f2ccd" sha256="8d05a0dd924655e775d5283b2d801ed77036e59072da12783d0b5c4fbbf3951f"/>
 	</game>
-	<game name="Star Fox 2 (USA) (Beta) (1995-09-13)" id="4082" cloneofid="3683">
+	<game name="Star Fox 2 (USA) (Beta 2)" id="4081" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Fox 2 (USA) (Beta) (1995-09-13)</description>
-		<rom name="Star Fox 2 (USA) (Beta) (1995-09-13).sfc" size="1048259" crc="3a2ef78b" md5="dcc9db2c65b8a94f43b6a9a4a002259c" sha1="61299746801ab8e352fde7d4b14e42b21bd6fcaa" sha256="d1556197e9d54f544215bb434fd8664ac8c6ede37e522c32f559c3a0ebbdf99c"/>
+		<description>Star Fox 2 (USA) (Beta 2)</description>
+		<rom name="Star Fox 2 (USA) (Beta 2).sfc" size="1048259" crc="760f0a88" md5="43da32262e39b7a9f665901bfe3ade7f" sha1="87bdd184124e8d0d2b06bee369682265b858381a" sha256="4f91470d3dd78c7b4c227b9414ae77ff840e8961890c4fbd43ade54ca91059c4"/>
 	</game>
-	<game name="Star Glider (Japan) (Demo) (1992-09-23)" id="4084" cloneofid="2497">
+	<game name="Star Fox 2 (USA) (Beta 3)" id="4082" cloneofid="3683">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Star Glider (Japan) (Demo) (1992-09-23)</description>
-		<rom name="Star Glider (Japan) (Demo) (1992-09-23).sfc" size="524288" crc="e9771c0d" md5="e9add0763f743fc634b839955f56022b" sha1="12d8d1bfb9f1bb27e7c0f1d1c30351d88400d2bc" sha256="d8f3b252d6afb77b9b46ab00b89415fba276f1cc07c0c89950c9bc9850fbb6cd"/>
+		<description>Star Fox 2 (USA) (Beta 3)</description>
+		<rom name="Star Fox 2 (USA) (Beta 3).sfc" size="1048259" crc="3a2ef78b" md5="dcc9db2c65b8a94f43b6a9a4a002259c" sha1="61299746801ab8e352fde7d4b14e42b21bd6fcaa" sha256="d1556197e9d54f544215bb434fd8664ac8c6ede37e522c32f559c3a0ebbdf99c"/>
 	</game>
-	<game name="Starwing (Germany) (Beta) (1993-03-17)" id="4050" cloneofid="2497">
+	<game name="Star Glider (Japan) (Demo)" id="4084" cloneofid="2497">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Star Glider (Japan) (Demo)</description>
+		<rom name="Star Glider (Japan) (Demo).sfc" size="524288" crc="e9771c0d" md5="e9add0763f743fc634b839955f56022b" sha1="12d8d1bfb9f1bb27e7c0f1d1c30351d88400d2bc" sha256="d8f3b252d6afb77b9b46ab00b89415fba276f1cc07c0c89950c9bc9850fbb6cd"/>
+	</game>
+	<game name="Starwing (Germany) (Beta)" id="4050" cloneofid="2497">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Starwing (Germany) (Beta) (1993-03-17)</description>
-		<rom name="Starwing (Germany) (Beta) (1993-03-17).sfc" size="1048576" crc="42275e73" md5="fc65c386a3bba4237a0cfe93dcedeff9" sha1="90c2bf8bae58bcd5ad104ef0aab44a2b21975093" sha256="960131d8a4aa3fd00d3d2822c7480783dc7056c48bc315aa1926456767e7defc"/>
+		<description>Starwing (Germany) (Beta)</description>
+		<rom name="Starwing (Germany) (Beta).sfc" size="1048576" crc="42275e73" md5="fc65c386a3bba4237a0cfe93dcedeff9" sha1="90c2bf8bae58bcd5ad104ef0aab44a2b21975093" sha256="960131d8a4aa3fd00d3d2822c7480783dc7056c48bc315aa1926456767e7defc"/>
 	</game>
 	<game name="Stone Protectors (World) (Steam)" id="4157" cloneofid="2506">
 		<category>Games</category>
@@ -20743,11 +20745,11 @@
 		<description>Street Racer (World) (Evercade)</description>
 		<rom name="Street Racer (World) (Evercade).sfc" size="1048576" crc="53f2c71b" md5="091f8cd02c6ed341a1869a26dc378aae" sha1="3f95f05d0dd4341e9e167730c99d432973459c60" sha256="6257ffd8f24ac3bcab72b3cd6fec2e11ae5ebf659ca1d688e7094d7a86e1750a"/>
 	</game>
-	<game name="Super Aleste (Japan) (Beta) (1992-02-25)" id="4060" cloneofid="2551">
+	<game name="Super Aleste (Japan) (Beta)" id="4060" cloneofid="2551">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Aleste (Japan) (Beta) (1992-02-25)</description>
-		<rom name="Super Aleste (Japan) (Beta) (1992-02-25).sfc" size="1048576" crc="a895e8f2" md5="d415a0bad9bf582f3705e16d1ed06311" sha1="2f356398b09825fbbe143ed3afdcf591a61e453e" sha256="e4ac71fb17c2e2ea4c2ddb377ab78d1d02cca0cc5f9afd153209c7d95f9f8f0a"/>
+		<description>Super Aleste (Japan) (Beta)</description>
+		<rom name="Super Aleste (Japan) (Beta).sfc" size="1048576" crc="a895e8f2" md5="d415a0bad9bf582f3705e16d1ed06311" sha1="2f356398b09825fbbe143ed3afdcf591a61e453e" sha256="e4ac71fb17c2e2ea4c2ddb377ab78d1d02cca0cc5f9afd153209c7d95f9f8f0a"/>
 	</game>
 	<game name="Super Bases Loaded (USA) (Beta)" id="4456" cloneofid="2561">
 		<category>Games</category>
@@ -20845,11 +20847,11 @@
 		<description>Super Goal! 2 (World) (Evercade)</description>
 		<rom name="Super Goal! 2 (World) (Evercade).sfc" size="524288" crc="598116a5" md5="088620876c70f111b5cd48e254ed7153" sha1="4a7ba7cfb2212fbdfd17fd698aeb14ac2a59aa23" sha256="f247cb62f4637c9fcf30c5fc394c6aec858b4675e55b9e39753e9ef7e1c7a60e"/>
 	</game>
-	<game name="Super High Impact (USA) (Beta 2) (1993-03-11)" id="4051" cloneofid="2705">
+	<game name="Super High Impact (USA) (Beta 2)" id="4051" cloneofid="2705">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super High Impact (USA) (Beta 2) (1993-03-11)</description>
-		<rom name="Super High Impact (USA) (Beta 2) (1993-03-11).sfc" size="1048576" crc="b0b76a2d" md5="de8491ae7493a78258719128f1be2a55" sha1="fa9a48b0f1df82331a5da173fa501863b5105e53" sha256="a36785340b17ff6ec3b05ee33c2714f91a414d311967f5900ee9b699f46b4945"/>
+		<description>Super High Impact (USA) (Beta 2)</description>
+		<rom name="Super High Impact (USA) (Beta 2).sfc" size="1048576" crc="b0b76a2d" md5="de8491ae7493a78258719128f1be2a55" sha1="fa9a48b0f1df82331a5da173fa501863b5105e53" sha256="a36785340b17ff6ec3b05ee33c2714f91a414d311967f5900ee9b699f46b4945"/>
 	</game>
 	<game name="Super Mario - Yoshi Island (Japan) (Beta)" id="4066" cloneofid="3715">
 		<category>Games</category>
@@ -20869,29 +20871,29 @@
 		<description>Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)</description>
 		<rom name="Super Mario - Yoshi Island (Japan) (Rev 2) (Sample).sfc" size="2097152" crc="fb6ce04a" md5="b4f54c0c985629418b59cafff3a3a47a" sha1="d2245fa377319cf22638938df254a70d7e033244" sha256="ef0750d5cd368b806090f0cc3e6b22893c193f3d1c49b6f176a105c72252b62a"/>
 	</game>
-	<game name="Super Mario Kart (USA) (Beta) (1992-08-06)" id="4055" cloneofid="2759">
+	<game name="Super Mario Kart (USA) (Beta)" id="4055" cloneofid="2759">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Mario Kart (USA) (Beta) (1992-08-06)</description>
-		<rom name="Super Mario Kart (USA) (Beta) (1992-08-06).sfc" size="524288" crc="54f5e6d4" md5="3eca3cad68d143f7b52bca866f93d5e0" sha1="76d56a41767625e6da1b8a9c8342f17aa9c1f7b0" sha256="4ab9a4634e0d6947462cb312678522fffc39411b1afdf025da35c485be9d2e37"/>
+		<description>Super Mario Kart (USA) (Beta)</description>
+		<rom name="Super Mario Kart (USA) (Beta).sfc" size="524288" crc="54f5e6d4" md5="3eca3cad68d143f7b52bca866f93d5e0" sha1="76d56a41767625e6da1b8a9c8342f17aa9c1f7b0" sha256="4ab9a4634e0d6947462cb312678522fffc39411b1afdf025da35c485be9d2e37"/>
 	</game>
-	<game name="Super Mario Kart (Japan) (Beta) (1992-04-13)" id="4056" cloneofid="2759">
+	<game name="Super Mario Kart (Japan) (Beta 1)" id="4056" cloneofid="2759">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Mario Kart (Japan) (Beta) (1992-04-13)</description>
-		<rom name="Super Mario Kart (Japan) (Beta) (1992-04-13).sfc" size="524288" crc="6aaf031a" md5="b892c0000fc76ec9b516e8dd9303b5f1" sha1="1863f951a0a5db07a3397106bd89d9f11acfe1a3" sha256="583eb1c568e2a6b3a6ef6325a63c158e123a319c7e9f3055f9c2ac4c9f4092c3"/>
+		<description>Super Mario Kart (Japan) (Beta 1)</description>
+		<rom name="Super Mario Kart (Japan) (Beta 1).sfc" size="524288" crc="6aaf031a" md5="b892c0000fc76ec9b516e8dd9303b5f1" sha1="1863f951a0a5db07a3397106bd89d9f11acfe1a3" sha256="583eb1c568e2a6b3a6ef6325a63c158e123a319c7e9f3055f9c2ac4c9f4092c3"/>
 	</game>
-	<game name="Super Mario Kart (Japan) (Beta) (1992-07-10)" id="4057" cloneofid="2759">
+	<game name="Super Mario Kart (Japan) (Beta 2)" id="4057" cloneofid="2759">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Mario Kart (Japan) (Beta) (1992-07-10)</description>
-		<rom name="Super Mario Kart (Japan) (Beta) (1992-07-10).sfc" size="524288" crc="8dc4e42f" md5="62e50df02d966cc27ab8423675c9521f" sha1="aedec7fffaf14e5b983c39477251922f132a5adb" sha256="8ef542311c49111a524e102f0272f25fc52641a02b8595762b39b34579d9c4cb"/>
+		<description>Super Mario Kart (Japan) (Beta 2)</description>
+		<rom name="Super Mario Kart (Japan) (Beta 2).sfc" size="524288" crc="8dc4e42f" md5="62e50df02d966cc27ab8423675c9521f" sha1="aedec7fffaf14e5b983c39477251922f132a5adb" sha256="8ef542311c49111a524e102f0272f25fc52641a02b8595762b39b34579d9c4cb"/>
 	</game>
-	<game name="Super Mario Kart (Japan) (Beta) (1992-08-06)" id="4058" cloneofid="2759">
+	<game name="Super Mario Kart (Japan) (Beta 3)" id="4058" cloneofid="2759">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Mario Kart (Japan) (Beta) (1992-08-06)</description>
-		<rom name="Super Mario Kart (Japan) (Beta) (1992-08-06).sfc" size="524288" crc="f575f2a0" md5="762d0cd18a901daafbc74f6fed28731e" sha1="179ced0c566a10a8d0c91bb282f3914b1bcf0806" sha256="394a541237c20bfe3e6830bcd10bef2870d97a95a5bacfd41aead35940f6cd7e"/>
+		<description>Super Mario Kart (Japan) (Beta 3)</description>
+		<rom name="Super Mario Kart (Japan) (Beta 3).sfc" size="524288" crc="f575f2a0" md5="762d0cd18a901daafbc74f6fed28731e" sha1="179ced0c566a10a8d0c91bb282f3914b1bcf0806" sha256="394a541237c20bfe3e6830bcd10bef2870d97a95a5bacfd41aead35940f6cd7e"/>
 	</game>
 	<game name="Super Mario World (USA) (Beta)" id="4223" cloneofid="2765">
 		<category>Games</category>
@@ -20927,11 +20929,11 @@
 		<description>Super Punch-Out!! (Europe) (Beta)</description>
 		<rom name="Super Punch-Out!! (Europe) (Beta).sfc" size="2097152" crc="c4972f07" md5="dc1375e9961217ffa35d51e413b23431" sha1="d9f415aa31d7528358c7aed5b9057303998bdcf6" sha256="b9717901a615762d2809ebccf2cb4a548ae563f0bef40560722ed89112e7bee8"/>
 	</game>
-	<game name="Super Star Wars (USA) (Beta 2) (1992-07-17)" id="4041" cloneofid="2868">
+	<game name="Super Star Wars (USA) (Beta 2)" id="4041" cloneofid="2868">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Star Wars (USA) (Beta 2) (1992-07-17)</description>
-		<rom name="Super Star Wars (USA) (Beta 2) (1992-07-17).sfc" size="1048576" crc="25f4a09f" md5="3adfdd751dd9e853530af2b2f5887211" sha1="ae92291f62cefa27cd3b1a6d30389fc54581c7ab" sha256="abf1d7c2b78ec9e462b257ea4261503ee16523486c459b1bc01c0fb230d53af2"/>
+		<description>Super Star Wars (USA) (Beta 2)</description>
+		<rom name="Super Star Wars (USA) (Beta 2).sfc" size="1048576" crc="25f4a09f" md5="3adfdd751dd9e853530af2b2f5887211" sha1="ae92291f62cefa27cd3b1a6d30389fc54581c7ab" sha256="abf1d7c2b78ec9e462b257ea4261503ee16523486c459b1bc01c0fb230d53af2"/>
 	</game>
 	<game name="Super Turrican 2 (USA) (Strictly Limited Games)" id="4180" cloneofid="2912">
 		<category>Games</category>
@@ -20948,11 +20950,11 @@
 		<description>Tarzan (USA) (Pirate)</description>
 		<rom name="Tarzan (USA) (Pirate).sfc" size="2097152" crc="be969bfc" md5="094cf197cacaae53a6596012b86350b1" sha1="174c93531ee86bf3943c9d0e29a03d65c60c74e5" sha256="b5f8eb6e6f8a903468d5e78e606bc26212e86cf63acdc6cd4048bf02a3b4f14c"/>
 	</game>
-	<game name="Taz-Mania (USA) (Beta 2) (1993-03-17)" id="4053" cloneofid="2983">
+	<game name="Taz-Mania (USA) (Beta 2)" id="4053" cloneofid="2983">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Taz-Mania (USA) (Beta 2) (1993-03-17)</description>
-		<rom name="Taz-Mania (USA) (Beta 2) (1993-03-17).sfc" size="1048576" crc="1aa76d59" md5="159ef16cc1679970c08b0d2a744c8930" sha1="200e92dce73b3ce1ad74a7826e2d0a9db21a0939" sha256="ed8e1408ee5726c46ae4c2719a4e7495293272df8e208fc17b01db2d19cc681c"/>
+		<description>Taz-Mania (USA) (Beta 2)</description>
+		<rom name="Taz-Mania (USA) (Beta 2).sfc" size="1048576" crc="1aa76d59" md5="159ef16cc1679970c08b0d2a744c8930" sha1="200e92dce73b3ce1ad74a7826e2d0a9db21a0939" sha256="ed8e1408ee5726c46ae4c2719a4e7495293272df8e208fc17b01db2d19cc681c"/>
 	</game>
 	<game name="Teenage Mutant Ninja Turtles - Mutant Warriors (Japan) (The Cowabunga Collection)" id="4243" cloneofid="3004">
 		<category>Games</category>
@@ -20980,10 +20982,11 @@
 		<description>Tenchi Souzou (Japan) (Sample)</description>
 		<rom name="Tenchi Souzou (Japan) (Sample).sfc" size="4194304" crc="26c68e4a" md5="dc8a07f891583c3c856cc7c3f07fb8bd" sha1="fa0f211acd5829c24f5b08944f598a0bb1214679" sha256="7c4327cb75940185003e05ca9cf102dbc80333a5e9a4ded554226e9135dcddc0"/>
 	</game>
-	<game name="Tetris Battle Gaiden (Japan) (Beta) (1993-10-08)" id="4236" cloneofid="3045">
+	<game name="Tetris Battle Gaiden (Japan) (Beta)" id="4236" cloneofid="3045">
 		<category>Games</category>
-		<description>Tetris Battle Gaiden (Japan) (Beta) (1993-10-08)</description>
-		<rom name="Tetris Battle Gaiden (Japan) (Beta) (1993-10-08).sfc" size="1048576" crc="de5a3efc" md5="70719aae2f31d95265348fb625af823b" sha1="1bc1e6bc0c2ea4339c15f27888e9ddbb77c0fc43" sha256="57ef1b0dbf15640e93da4ee66a0053a0872e748f336f3def7c0381f8e6963f12"/>
+		<category>Preproduction</category>
+		<description>Tetris Battle Gaiden (Japan) (Beta)</description>
+		<rom name="Tetris Battle Gaiden (Japan) (Beta).sfc" size="1048576" crc="de5a3efc" md5="70719aae2f31d95265348fb625af823b" sha1="1bc1e6bc0c2ea4339c15f27888e9ddbb77c0fc43" sha256="57ef1b0dbf15640e93da4ee66a0053a0872e748f336f3def7c0381f8e6963f12"/>
 	</game>
 	<game name="Tetsuwan Atom (Japan) (Beta)" id="4561" cloneofid="3047">
 		<category>Games</category>
@@ -21053,11 +21056,11 @@
 		<description>Undercover Cops (USA) (Retro-Bit)</description>
 		<rom name="Undercover Cops (USA) (Retro-Bit).sfc" size="4194304" crc="febc684a" md5="e7a8d61520fd7d53979e68f53ab2dd8c" sha1="6518b88d7b7d15b5b62358db4a6816e932577864" sha256="26d5392122f1be8817bc33351f38620949e0c91b56cfdc7258021e7213bcbe8a"/>
 	</game>
-	<game name="Unirally (Europe) (Beta) (1994-11-29)" id="4203" cloneofid="3194">
+	<game name="Unirally (Europe) (Beta)" id="4203" cloneofid="3194">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Unirally (Europe) (Beta) (1994-11-29)</description>
-		<rom name="Unirally (Europe) (Beta) (1994-11-29).sfc" size="2097152" crc="c362c7b1" md5="dad6658fba469309db2a8d0ed86551f5" sha1="14e7574ac2dacdf8a736df26414cb2f772684cfb" sha256="bbfbcf24e36b297710c1cc88948814ac651336c19ff8ec67b6cdfe64496bd627"/>
+		<description>Unirally (Europe) (Beta)</description>
+		<rom name="Unirally (Europe) (Beta).sfc" size="2097152" crc="c362c7b1" md5="dad6658fba469309db2a8d0ed86551f5" sha1="14e7574ac2dacdf8a736df26414cb2f772684cfb" sha256="bbfbcf24e36b297710c1cc88948814ac651336c19ff8ec67b6cdfe64496bd627"/>
 	</game>
 	<game name="Utopia - The Creation of a Nation (USA) (Beta 3)" id="4114" cloneofid="3202">
 		<category>Games</category>
@@ -21093,17 +21096,17 @@
 		<description>Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It) (Beta)</description>
 		<rom name="Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It) (Beta).sfc" size="1048576" crc="de5779a9" md5="6b40c955b8d4784b341edc038014d14e" sha1="125a46f07c7821f2f55f3295ad714fb0c2b0dfcc" sha256="374ba85d3d976bcf824c8eaac7ca7c979b2ad599df9bb49ec81ceb5d66dbf0f7"/>
 	</game>
-	<game name="World Class Rugby (Europe) (Beta) (1992-07-11)" id="4507" cloneofid="3313">
+	<game name="World Class Rugby (Europe) (Beta)" id="4507" cloneofid="3313">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>World Class Rugby (Europe) (Beta) (1992-07-11)</description>
-		<rom name="World Class Rugby (Europe) (Beta) (1992-07-11).sfc" size="524288" crc="7e5db156" md5="8dc1d214b792db9396fa9449b9b3c46a" sha1="96214ad2e89298ba2685deab8f880ff1a578f195" sha256="c6798afc75cad956791b8ef070c4c61ed6cf31e1c42d50dd9b00c984f4ff7752" serial="!none"/>
+		<description>World Class Rugby (Europe) (Beta)</description>
+		<rom name="World Class Rugby (Europe) (Beta).sfc" size="524288" crc="7e5db156" md5="8dc1d214b792db9396fa9449b9b3c46a" sha1="96214ad2e89298ba2685deab8f880ff1a578f195" sha256="c6798afc75cad956791b8ef070c4c61ed6cf31e1c42d50dd9b00c984f4ff7752" serial="!none"/>
 	</game>
-	<game name="World Class Rugby (Japan) (En) (Beta) (1992-12-08)" id="4508" cloneofid="3313">
+	<game name="World Class Rugby (Japan) (En) (Beta)" id="4508" cloneofid="3313">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>World Class Rugby (Japan) (En) (Beta) (1992-12-08)</description>
-		<rom name="World Class Rugby (Japan) (En) (Beta) (1992-12-08).sfc" size="524288" crc="d49d0e10" md5="37b9e3c28d29721bccc2c77b91354b5d" sha1="faa1328dceacb68f692c55c9e1651ae29b774d43" sha256="c4f6ad1854852a0b326535c7536afec8c5b6c9a8e3fd561de3650d9167a2494a" serial="!none"/>
+		<description>World Class Rugby (Japan) (En) (Beta)</description>
+		<rom name="World Class Rugby (Japan) (En) (Beta).sfc" size="524288" crc="d49d0e10" md5="37b9e3c28d29721bccc2c77b91354b5d" sha1="faa1328dceacb68f692c55c9e1651ae29b774d43" sha256="c4f6ad1854852a0b326535c7536afec8c5b6c9a8e3fd561de3650d9167a2494a" serial="!none"/>
 	</game>
 	<game name="World Cup USA '94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (Beta)" id="4020" cloneofid="3321">
 		<category>Games</category>

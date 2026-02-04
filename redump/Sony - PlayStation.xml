@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10899) (2026-02-02 15-55-30)</description>
-		<version>2026-02-02 15-55-30</version>
-		<date>2026-02-02 15-55-30</date>
+		<description>Sony - PlayStation - Discs (10900) (2026-02-04 10-57-59)</description>
+		<version>2026-02-04 10-57-59</version>
+		<date>2026-02-04 10-57-59</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103734,5 +103734,11 @@
 		<rom name="Ninpuu Sentai Hurricanger &amp; Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban) (Track 1).bin" size="288475152" crc="08f1cb7b" md5="c917c574c1260b6b84bb7ee2ee56af54" sha1="69ee2aea312e109b49c34b4befa90b68309bafd7"/>
 		<rom name="Ninpuu Sentai Hurricanger &amp; Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban) (Track 2).bin" size="2829456" crc="5ed0e3a9" md5="f431373cd27fd1eaf96b6cf5fa1473c2" sha1="ea586857bd819722316da4ddea5de476c0a02ca0"/>
 		<rom name="Ninpuu Sentai Hurricanger &amp; Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban) (Track 3).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+	</game>
+	<game name="Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)">
+		<category>Games</category>
+		<description>Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)</description>
+		<rom name="Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).cue" size="133" crc="89b45ed5" md5="0c88b502f43bc427c23866186107c439" sha1="826cc19a25a966c8786579c2febb9ddc803fa39e"/>
+		<rom name="Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).bin" size="481038096" crc="0e127c3a" md5="c95c7f9834ddce2818ebdc5a1b2279f8" sha1="84b567a36e769eae46d41901f4f36ebf8deadc91"/>
 	</game>
 </datafile>
