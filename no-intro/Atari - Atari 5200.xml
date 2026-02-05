@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260202-111814</version>
+		<version>20260204-130956</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -322,6 +322,24 @@
 	<game name="Gremlins (USA)" id="0039">
 		<description>Gremlins (USA)</description>
 		<rom name="Gremlins (USA).a52" size="32768" crc="063ec2c4" md5="dc271e475b4766e80151f1da5b764e52" sha1="f3c32b39580d589799dcead98bb206fbf3df0504"/>
+	</game>
+	<game name="Gremlins (USA) (Beta) (1984-05-15)" id="0192" cloneofid="0039">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gremlins (USA) (Beta) (1984-05-15)</description>
+		<rom name="Gremlins (USA) (Beta) (1984-05-15).a52" size="32768" crc="a33fe6e1" md5="51111b1b3771e89109ab75e208e19c1e" sha1="fd6c46313f8c3780e04e31199c94e3b404f9f077" sha256="e7752e462857c28c792a3f31873869ffd6bb2aed02b22018b62cec7630a4d737"/>
+	</game>
+	<game name="Gremlins (USA) (Beta) (1984-04-13)" id="0193" cloneofid="0039">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gremlins (USA) (Beta) (1984-04-13)</description>
+		<rom name="Gremlins (USA) (Beta) (1984-04-13).a52" size="32768" crc="d3436c20" md5="fdfa5a2a67aee6211109294bfcfd9f06" sha1="aa13ff81a390021f94717bd722f17b2520a5934c" sha256="8fcfa8ace9ee9aa2085af6124b22338fb466abc905f5e26d37bb874961da9acd"/>
+	</game>
+	<game name="Gremlins (USA) (Beta) (1984-04-20)" id="0194" cloneofid="0039">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gremlins (USA) (Beta) (1984-04-20)</description>
+		<rom name="Gremlins (USA) (Beta) (1984-04-20).a52" size="32768" crc="b2ca299d" md5="a5f3f5b9220e332b4e2d8e87042ba35b" sha1="896fd5a274ce5ae88354a8f7f9dcea9d62d0bbac" sha256="5988f72287330baa8264f8ba412339f8425c326e4bedeba8fe2426fc23502723"/>
 	</game>
 	<game name="Gyruss (USA)" id="0040" cloneofid="0123">
 		<category>Games</category>

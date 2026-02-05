@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3621) (2026-02-04 13-24-41)</description>
-		<version>2026-02-04 13-24-41</version>
-		<date>2026-02-04 13-24-41</date>
+		<description>Microsoft - Xbox 360 - Discs (3623) (2026-02-05 11-16-21)</description>
+		<version>2026-02-05 11-16-21</version>
+		<date>2026-02-05 11-16-21</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18121,5 +18121,15 @@
 		<category>Games</category>
 		<description>Kingdoms of Amalur - Reckoning (Germany) (En,Fr,De,Es,It)</description>
 		<rom name="Kingdoms of Amalur - Reckoning (Germany) (En,Fr,De,Es,It).iso" size="8738846720" crc="93a4cebb" md5="8e2bc016a005aeea4a2deb94c2974b21" sha1="9e25e7fb88053d9b4f9a595585049aae39e6c07d"/>
+	</game>
+	<game name="Disney-Pixar Toy Story 3 (Europe) (En,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Disney-Pixar Toy Story 3 (Europe) (En,Es) (Rev 1)</description>
+		<rom name="Disney-Pixar Toy Story 3 (Europe) (En,Es) (Rev 1).iso" size="7838695424" crc="c70ccad0" md5="34282ce11e180894e11616b95d00633c" sha1="5c808a57c4ef598d56f40b5958465a370d84b3b3"/>
+	</game>
+	<game name="Defiance (Germany)">
+		<category>Games</category>
+		<description>Defiance (Germany)</description>
+		<rom name="Defiance (Germany).iso" size="8738846720" crc="00e510a6" md5="c4d7c9179a750881f7c72305f983b945" sha1="642b5724913560031ed7d99f0f6425a8df7143bd"/>
 	</game>
 </datafile>

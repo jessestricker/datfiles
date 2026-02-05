@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260124-113814</version>
+		<version>20260204-095544</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6519,7 +6519,7 @@
 	</game>
 	<game name="Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)" id="2793">
 		<description>Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)</description>
-		<rom name="Kim Possible (Europe) (En,Fr,De,Es) (Rev 1).gba" size="8388608" crc="48428c2a" md5="09bc6ab258b83508be5e9a0eb11417d4" sha1="1df47750be1b14faed828fae3719cd18d3bf47fb" serial="AEYP"/>
+		<rom name="Kim Possible (Europe) (En,Fr,De,Es) (Rev 1).gba" size="8388608" crc="48428c2a" md5="09bc6ab258b83508be5e9a0eb11417d4" sha1="1df47750be1b14faed828fae3719cd18d3bf47fb" sha256="725ae20a910d97babf1df24de9273b3572956cb043f90f48caffde6cfb75f2a1" status="verified" serial="AEYP"/>
 	</game>
 	<game name="Kim Possible - Revenge of Monkey Fist (USA)" id="0756" cloneofid="2793">
 		<description>Kim Possible - Revenge of Monkey Fist (USA)</description>

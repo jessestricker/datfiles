@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1331) (2026-01-25 13-11-38)</description>
-		<version>2026-01-25 13-11-38</version>
-		<date>2026-01-25 13-11-38</date>
+		<description>Apple - Macintosh - Discs (1332) (2026-02-05 10-14-43)</description>
+		<version>2026-02-05 10-14-43</version>
+		<date>2026-02-05 10-14-43</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9455,5 +9455,11 @@
 		<description>Orion Burger (USA)</description>
 		<rom name="Orion Burger (USA).cue" size="84" crc="ea163ae4" md5="13990ad8e109c8fa3c7ad6be0720bbf3" sha1="64d137507f9233f2937e8d7ba58e1a29a6b8e6fd"/>
 		<rom name="Orion Burger (USA).bin" size="616506240" crc="d8c5a1b3" md5="b0313e1070295fcbd5ab2a9645beabb0" sha1="e38cec9226160bebb39daaa434925fafad419ad7"/>
+	</game>
+	<game name="Mah Jong Quest (USA)">
+		<category>Games</category>
+		<description>Mah Jong Quest (USA)</description>
+		<rom name="Mah Jong Quest (USA).cue" size="86" crc="3f512d79" md5="43a8ff67342a4712e3249977effa3dad" sha1="4803401d1bb601b917f6add011087cf694b8c661"/>
+		<rom name="Mah Jong Quest (USA).bin" size="28080528" crc="4b6004a9" md5="1aa6dc1e03b09faf390264c7a5d8918f" sha1="9f8ceeaa0844ddf09f6392bd69018f511d2426d6"/>
 	</game>
 </datafile>

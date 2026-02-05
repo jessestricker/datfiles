@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260201-004717</version>
+		<version>20260204-231904</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -16392,9 +16392,10 @@
 		<description>May's Mystery - Forbidden Memories (USA)</description>
 		<rom name="May's Mystery - Forbidden Memories (USA).nds" size="67108864" crc="fe474f16" md5="adda833a826d31975c551af97e0f287b" sha1="ffaec80ef7eee24407e75996d2dc2e73b5dbd132" serial="B8HE"/>
 	</game>
-	<game name="Maya (Europe) (Es,It)" id="6473" cloneofid="6183">
-		<description>Maya (Europe) (Es,It)</description>
-		<rom name="Maya (Europe) (Es,It).nds" size="33554432" crc="c64c9e08" md5="d9a72f5ce1c8b2e1359f414c3d9cce1a" sha1="44dc7407ac2268aeabd0da9e3fc4ef0ce6b4f596" serial="TMJY"/>
+	<game name="Maya (Europe) (Fr,Es)" id="6473" cloneofid="6183">
+		<category>Games</category>
+		<description>Maya (Europe) (Fr,Es)</description>
+		<rom name="Maya (Europe) (Fr,Es).nds" size="33554432" crc="c64c9e08" md5="d9a72f5ce1c8b2e1359f414c3d9cce1a" sha1="44dc7407ac2268aeabd0da9e3fc4ef0ce6b4f596" serial="TMJY"/>
 	</game>
 	<game name="Mazes of Fate DS (USA) (Beta)" id="x095" cloneofid="2750">
 		<description>Mazes of Fate DS (USA) (Beta)</description>

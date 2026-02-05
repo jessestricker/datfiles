@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260203-210726</version>
+		<version>20260204-195733</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7533,12 +7533,6 @@
 		<description>MechWarrior 3050 (USA)</description>
 		<rom name="MechWarrior 3050 (USA).sfc" size="1572864" crc="c0acc92d" md5="eacf64068aa69a47a82d110f074ff4c6" sha1="2e9ad76ef580813fa799bec5559474f3e881e11a" sha256="7bffa1dc31604fa3d61e06ce2c59168098cc8dd7e59998e1d5f30c49bdf8d617"/>
 	</game>
-	<game name="Mega lo Mania (Europe) (En,Fr,De) (Beta)" id="1603" cloneofid="1602">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Mega lo Mania (Europe) (En,Fr,De) (Beta)</description>
-		<rom name="Mega lo Mania (Europe) (En,Fr,De) (Beta).sfc" size="1048576" crc="44a9db5c" md5="c4f00590c3f40736a13739b5785c2ff4" sha1="ba3584492ec4b566cc8043bc3571a664d51b6e33" sha256="fd69a0d63a7c37b227b3c03ac3e04db91e5f3e3650d122dde1bcf4ed237e72f2"/>
-	</game>
 	<game name="Mega lo Mania - Jikuu Daisenryaku (Japan)" id="1604" cloneofid="1602">
 		<category>Games</category>
 		<description>Mega lo Mania - Jikuu Daisenryaku (Japan)</description>
@@ -7598,6 +7592,12 @@
 		<category>Games</category>
 		<description>Mega-lo-Mania (Europe) (En,Fr,De)</description>
 		<rom name="Mega-lo-Mania (Europe) (En,Fr,De).sfc" size="1048576" crc="e8042edf" md5="7a67d33f2cfc8c284f772cb681c411a2" sha1="e8de68aee66e5a524a0ee4a0fc76142e9a3c7a95" sha256="ee1a030f30f3ab06361921447b3fcf84c987dd13d76e62964e44720e0ec82c56" status="verified"/>
+	</game>
+	<game name="Mega-lo-Mania (Europe) (En,Fr,De) (Beta)" id="1603" cloneofid="1602">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mega-lo-Mania (Europe) (En,Fr,De) (Beta)</description>
+		<rom name="Mega-lo-Mania (Europe) (En,Fr,De) (Beta).sfc" size="1048576" crc="44a9db5c" md5="c4f00590c3f40736a13739b5785c2ff4" sha1="ba3584492ec4b566cc8043bc3571a664d51b6e33" sha256="fd69a0d63a7c37b227b3c03ac3e04db91e5f3e3650d122dde1bcf4ed237e72f2"/>
 	</game>
 	<game name="Melfand Stories (Japan)" id="1615">
 		<category>Games</category>
