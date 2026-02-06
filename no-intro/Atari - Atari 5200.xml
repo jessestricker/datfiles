@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260204-130956</version>
+		<version>20260205-110758</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -918,9 +918,41 @@
 		<description>Xari Arena (USA) (Proto) (1983-08-31)</description>
 		<rom name="Xari Arena (USA) (Proto) (1983-08-31).a52" size="32768" crc="5342a8b4" md5="401481ceaf5a6c82b92db48e240a8b79" sha1="971048115707e8f5e6b4ceb95c645f483ed6d9e3" sha256="debc2a45999e05f06e0d8f44d80916d478a6569ce70ef20352f7564049e69b8b"/>
 	</game>
-	<game name="Xevious (USA) (Proto)" id="0103">
-		<description>Xevious (USA) (Proto)</description>
-		<rom name="Xevious (USA) (Proto).a52" size="32768" crc="382634dc" md5="53d0fa90d913084677212a240c5affbd" sha1="c3cf33216dfa484309b923f21829d040486bc481"/>
+	<game name="Xevious (USA) (Proto) (Unknown)" id="0103" cloneofid="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (Unknown)</description>
+		<rom name="Xevious (USA) (Proto) (Unknown).a52" size="32768" crc="382634dc" md5="53d0fa90d913084677212a240c5affbd" sha1="c3cf33216dfa484309b923f21829d040486bc481" sha256="82254ee8ba44cf43d0bf728aff85f14f738ee4473334e4c057e9f5c59777dd15"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (1984-01-04)" id="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (1984-01-04)</description>
+		<rom name="Xevious (USA) (Proto) (1984-01-04).a52" size="32768" crc="5a52793f" md5="bfde4af393edd277021236f4274449ec" sha1="b76985b1942dab8c353d70edb108ad571cb2024c" sha256="1c835d8f769c5d088d42e9ee8117c7768806f05d6b300ea61181c4956802ca76"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (1983-11-23)" id="0196" cloneofid="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (1983-11-23)</description>
+		<rom name="Xevious (USA) (Proto) (1983-11-23).a52" size="32768" crc="c46fc281" md5="1d29317b11a11619f972d89ce12ce0af" sha1="e899b4f8e6e3c977d99c090010787bfbb84bd9e0" sha256="53f207bff563373cd9557ef4ec559ad2808d21ff17b7a35a9e2fb9797d7375e9"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (1983-11-21)" id="0197" cloneofid="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (1983-11-21)</description>
+		<rom name="Xevious (USA) (Proto) (1983-11-21).a52" size="32768" crc="260385d0" md5="d1a06c29235de5580c3ca2438d5ee69d" sha1="b1abac654e6c666eb9bbd5b7a2413165e77a51e9" sha256="e87991683622ec29f83391ab9dc988f4b35cd57ecf3207476223fc5504d0b7d9"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (1983-11-15)" id="0198" cloneofid="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (1983-11-15)</description>
+		<rom name="Xevious (USA) (Proto) (1983-11-15).a52" size="32768" crc="0d579884" md5="92eca7c283b90fdffc0e18b538cb6c2e" sha1="2199c5b890b03e9470f1367d6dc486cb6f4fe416" sha256="eb30fcccd17fd51a8783fa8bd4752dff8fce4cf79de5426d87dab42e3038641e"/>
+	</game>
+	<game name="Xevious (USA) (Proto) (1983-10-13)" id="0199" cloneofid="0195">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xevious (USA) (Proto) (1983-10-13)</description>
+		<rom name="Xevious (USA) (Proto) (1983-10-13).a52" size="32768" crc="ca83bec4" md5="a784fd37a90b25271409f8a84b54bfe4" sha1="c2d55a60531cea052878df0b57071936192d14c1" sha256="40f1a84b1daa06f22dd4763900748e7aace9bd79b08d605af26648feab1cfec2"/>
 	</game>
 	<game name="Yellow Submarine (USA) (Demo)" id="0104">
 		<description>Yellow Submarine (USA) (Demo)</description>
