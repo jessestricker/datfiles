@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2413) (2026-02-02 01-00-31)</description>
-		<version>2026-02-02 01-00-31</version>
-		<date>2026-02-02 01-00-31</date>
+		<description>Sega - Saturn - Discs (2415) (2026-02-07 15-47-02)</description>
+		<version>2026-02-07 15-47-02</version>
+		<date>2026-02-07 15-47-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -19415,12 +19415,12 @@
 		<rom name="Tactics Ogre - Let Us Cling Together (Japan) (Track 11).bin" size="34341552" crc="b73d5576" md5="c3d52bec15173c36a051ffcbf2fbd49d" sha1="d7646c20ba863325560e53fdd05a0f08422182f7"/>
 		<rom name="Tactics Ogre - Let Us Cling Together (Japan) (Track 12).bin" size="22344000" crc="5fc14112" md5="5b94a0b62db5b95eb244f31ad4800ded" sha1="8dbccb56a77f137c79a42b6c6741d372ab973df7"/>
 	</game>
-	<game name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan)">
+	<game name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01)">
 		<category>Applications</category>
-		<description>SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan)</description>
-		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan).cue" size="305" crc="c73f1e9a" md5="943bb720e5caa8c6aaa7928037bac6bd" sha1="4a4f378be49661184e0f1a2fed50e7e6a1fbd911"/>
-		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (Track 1).bin" size="84902496" crc="63c12369" md5="0a8fd8e047578ed2c88474d24e11b678" sha1="1e3590758b3d7260b36f648aef31b687531e3e53"/>
-		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (Track 2).bin" size="5997600" crc="97bdfea0" md5="70d47b921d2de01da65dcce7fd8b3000" sha1="0e0cdc5c262d26c186e2006cac89c121ab7ba4c5"/>
+		<description>SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01)</description>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01).cue" size="331" crc="98e2412d" md5="d854c95e9d390301007ec5a864239086" sha1="2d6d50af0eab1b0bd562c0c5535968578ccd6266"/>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01) (Track 1).bin" size="84902496" crc="63c12369" md5="0a8fd8e047578ed2c88474d24e11b678" sha1="1e3590758b3d7260b36f648aef31b687531e3e53"/>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01) (Track 2).bin" size="5997600" crc="97bdfea0" md5="70d47b921d2de01da65dcce7fd8b3000" sha1="0e0cdc5c262d26c186e2006cac89c121ab7ba4c5"/>
 	</game>
 	<game name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan)">
 		<category>Applications</category>
@@ -39716,5 +39716,30 @@
 		<rom name="World Series Baseball 98 (Korea) (Track 3).bin" size="7592256" crc="5fac9b94" md5="901486e095af20b82c1e808e2d920295" sha1="5ea4b17d048ded9b72f2e8c28e94b2316d978af6"/>
 		<rom name="World Series Baseball 98 (Korea) (Track 4).bin" size="13345248" crc="9b95fc55" md5="57721c0d7edacde06800ebfa309d2209" sha1="64c0f5643c0f710ac5426010c8750e7791bd324c"/>
 		<rom name="World Series Baseball 98 (Korea) (Track 5).bin" size="12479712" crc="fc853c87" md5="fa740f44c652cbb951468a3d8e4a2b74" sha1="25c68151f01a46a9b19ff05bfabfa35d95f7d32a"/>
+	</game>
+	<game name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21)">
+		<category>Applications</category>
+		<description>SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21)</description>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21).cue" size="494" crc="760473af" md5="b7d0ff3abc92fcdd694e841ae5e8f7cc" sha1="df29d18af2a4d7d426c272cfaa0e786b9db16f91"/>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21) (Track 1).bin" size="78340416" crc="a6d4300e" md5="c61d9c8fb7579c2d9fe8a35d0eb98b1c" sha1="8b5cf92382e97513621f7267aaab1035cd303aa0"/>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21) (Track 2).bin" size="5999952" crc="5d39e840" md5="9b35cadd706618d1158026a1285b742c" sha1="b3bf94a576f12908db4a369d9650afcb15ac4dca"/>
+		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21) (Track 3).bin" size="3878448" crc="3290bda0" md5="955ac773f9032e4adb78229fa411da05" sha1="b5f3adde7dfd109ee5b6ba9069d5103a0320dc29"/>
+	</game>
+	<game name="Toushinden S (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Toushinden S (Japan) (Rev A)</description>
+		<rom name="Toushinden S (Japan) (Rev A).cue" size="1481" crc="eb304513" md5="2ae7fdb6228dbcb5c7f628931bfaf489" sha1="90c25b6d31e1baa293a67a013ca6a2cff91039a2"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 01).bin" size="161525952" crc="bcf8cac1" md5="11700a8572e9b5ea3a6b9d7181221d1a" sha1="7db523d85b27d8a1a701a767d482b23dce010f87"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 02).bin" size="34068720" crc="98721139" md5="5517f6a70f7aff1adf9c76fe6534a09f" sha1="0c51339a839880dd0ace5f22b7d07d586ebb5a71"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 03).bin" size="32375280" crc="d7759b83" md5="608ccb086c0ec6b9e62f40f9d4a68ca7" sha1="a64afc3b3061762fdbc793bb581d46ec597bcaa3"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 04).bin" size="38728032" crc="a9a7f576" md5="152c2cb059450efdc60c58deebcfae41" sha1="8339f38c24d4231acee46a816694c6d9d7b39244"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 05).bin" size="34786080" crc="297d4d25" md5="437dfbd645ea33911ff06c22895fda46" sha1="f32a760519784dba87088f145e710c5466bbaaab"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 06).bin" size="31415664" crc="cf0e9222" md5="1b4ca6a5d020d15b1947e45b2b8575be" sha1="ac1555e631a5778ea77100b7000430500b5e81b9"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 07).bin" size="38452848" crc="b130571e" md5="4b8faf5c6a333d814ea66c81454261e1" sha1="c464ef132fbe596441998d62da0a3ab863c33fb1"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 08).bin" size="35966784" crc="4f93451a" md5="4bec6e168de1369be4ec51de6577122b" sha1="4ff1952c7c19e0877347088715b30a0f573fd68c"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 09).bin" size="36241968" crc="4ccb0f0a" md5="c58538c771ded9bc605f74a7dcff6bc2" sha1="4c325659672f78d418f0d14e315f0ae4994bdf09"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 10).bin" size="33847632" crc="9cb0c63d" md5="00e9b5dbbcb6af6dfd48fc84588b33b5" sha1="46619bb622be941b10bbdb4f6a4f53250d739102"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 11).bin" size="37074576" crc="b3407c53" md5="1c72ed2af4db4722417a3ebedd398c0e" sha1="3950c07413999cf837932e7b134a25d334d9838a"/>
+		<rom name="Toushinden S (Japan) (Rev A) (Track 12).bin" size="32991504" crc="26f3827b" md5="321618ef8381558680437216a08dfeb8" sha1="9264b1355cc9f7b81f5ef0ad75a86c5cc2715fd9"/>
 	</game>
 </datafile>

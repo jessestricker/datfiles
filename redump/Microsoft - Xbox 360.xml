@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3624) (2026-02-06 14-20-51)</description>
-		<version>2026-02-06 14-20-51</version>
-		<date>2026-02-06 14-20-51</date>
+		<description>Microsoft - Xbox 360 - Discs (3624) (2026-02-07 04-17-44)</description>
+		<version>2026-02-07 04-17-44</version>
+		<date>2026-02-07 04-17-44</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1285,10 +1285,10 @@
 		<description>Skate 3 (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Skate 3 (USA, Europe) (En,Fr,De,Es,It,Nl).iso" size="7838695424" crc="a9f64c60" md5="509fcedba25955a9c8a77c9f917e78f9" sha1="d4f47c966902fedc221cdd847bbe1eed767919cd"/>
 	</game>
-	<game name="Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,Es)">
+	<game name="Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,Es)</description>
-		<rom name="Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,Es).iso" size="7838695424" crc="3a736aab" md5="f45a16ef3fdd61941ec4f35e605e10b2" sha1="aad7d7f70304f58fff6051bb76026cd51faae26c"/>
+		<description>Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="3a736aab" md5="f45a16ef3fdd61941ec4f35e605e10b2" sha1="aad7d7f70304f58fff6051bb76026cd51faae26c"/>
 	</game>
 	<game name="X-Men Origins - Wolverine - Uncaged Edition (USA, Europe) (En,Fr,Es,It)">
 		<category>Games</category>
@@ -4028,10 +4028,10 @@
 		<description>Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc)</description>
 		<rom name="Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc).iso" size="7835492352" crc="9edc2788" md5="e377e6b11f052f868e20933f87af0ae5" sha1="cf70a5bc85fd9c3a438831d77e592dafbbc9fbe0"/>
 	</game>
-	<game name="Mass Effect (USA) (En,Es,Pl) (Rev 1)">
+	<game name="Mass Effect (USA, Europe) (En,Es,Pl) (Rev 1)">
 		<category>Games</category>
-		<description>Mass Effect (USA) (En,Es,Pl) (Rev 1)</description>
-		<rom name="Mass Effect (USA) (En,Es,Pl) (Rev 1).iso" size="7838695424" crc="f2df4684" md5="9667dd06340d0dcde96a051bbd62068f" sha1="3cad071af6bda7973e4e83a25e630091784a243b"/>
+		<description>Mass Effect (USA, Europe) (En,Es,Pl) (Rev 1)</description>
+		<rom name="Mass Effect (USA, Europe) (En,Es,Pl) (Rev 1).iso" size="7838695424" crc="f2df4684" md5="9667dd06340d0dcde96a051bbd62068f" sha1="3cad071af6bda7973e4e83a25e630091784a243b"/>
 	</game>
 	<game name="Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -7978,10 +7978,10 @@
 		<description>Blitz - The League (USA, Europe)</description>
 		<rom name="Blitz - The League (USA, Europe).iso" size="7834892288" crc="faeea810" md5="76c8f97abea311f81f607001fb54279b" sha1="3e59a56d4edb1f063cfabfac6a4518450c4cda62"/>
 	</game>
-	<game name="Assassin's Creed - Rogue (Europe)">
+	<game name="Assassin's Creed - Rogue (Europe) (En,Ru)">
 		<category>Games</category>
-		<description>Assassin's Creed - Rogue (Europe)</description>
-		<rom name="Assassin's Creed - Rogue (Europe).iso" size="8738846720" crc="321a1b0c" md5="75d1458aa56677979994eb908c35be49" sha1="2f7148c2e3516711749b6a8b66aec647089a4377"/>
+		<description>Assassin's Creed - Rogue (Europe) (En,Ru)</description>
+		<rom name="Assassin's Creed - Rogue (Europe) (En,Ru).iso" size="8738846720" crc="321a1b0c" md5="75d1458aa56677979994eb908c35be49" sha1="2f7148c2e3516711749b6a8b66aec647089a4377"/>
 	</game>
 	<game name="Star Ocean - The Last Hope (Japan) (Disc 1)">
 		<category>Games</category>
@@ -14945,15 +14945,15 @@
 		<description>Singularity (Japan)</description>
 		<rom name="Singularity (Japan).iso" size="7838695424" crc="53c93ec6" md5="0be298e39db7a0549fb73c4d9361c8ce" sha1="45e4ca86d9689bf818f3069e6ffd0bbc6b40864b"/>
 	</game>
-	<game name="Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 1)">
+	<game name="Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 1)">
 		<category>Games</category>
-		<description>Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 1)</description>
-		<rom name="Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 1).iso" size="8738846720" crc="57917770" md5="707d71138b231d9190c6300f18d006c9" sha1="a0ebd7b50c33a59af33a63eb57ef290543f5402d"/>
+		<description>Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 1)</description>
+		<rom name="Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 1).iso" size="8738846720" crc="57917770" md5="707d71138b231d9190c6300f18d006c9" sha1="a0ebd7b50c33a59af33a63eb57ef290543f5402d"/>
 	</game>
-	<game name="Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 2)">
+	<game name="Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 2)">
 		<category>Games</category>
-		<description>Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 2)</description>
-		<rom name="Tom Clancy's Splinter Cell - Blacklist (Japan) (Disc 2).iso" size="8738846720" crc="247c13a0" md5="0daed5ea356503af44ba9ca54b6aeb78" sha1="26d4914396b763ef24ac841a34fc22802e45ee5a"/>
+		<description>Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 2)</description>
+		<rom name="Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 2).iso" size="8738846720" crc="247c13a0" md5="0daed5ea356503af44ba9ca54b6aeb78" sha1="26d4914396b763ef24ac841a34fc22802e45ee5a"/>
 	</game>
 	<game name="UFC 2009 Undisputed (Japan)">
 		<category>Games</category>

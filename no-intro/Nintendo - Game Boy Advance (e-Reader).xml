@@ -4,7 +4,7 @@
 		<id>41</id>
 		<name>Nintendo - Game Boy Advance (e-Reader)</name>
 		<description>Nintendo - Game Boy Advance (e-Reader)</description>
-		<version>20260204-075123</version>
+		<version>20260206-090721</version>
 		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10859,10 +10859,10 @@
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Long Strip).raw" size="2912" crc="0701b8ec" md5="5b3daf3c913c08f9b027641c445a6e54" sha1="af3833c2f44ef7690e01af8eed68afa943f16aa9"/>
 		<rom name="Pokemon-e TCG - M-88-# - Machamp (USA) (Sample) (Short Strip).raw" size="1872" crc="3d8da6e9" md5="f2f77a6a262e84341938cb229cbd3c18" sha1="a2d5138e61db9c018a5de9753568f6c660b44a81"/>
 	</game>
-	<game name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) [b]" id="3259">
-		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) [b]</description>
-		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip) [b].raw" size="2912" crc="aa0d7236" md5="77541da9a672c26d8b04d58849dda00d" sha1="ded88cd33b0e09a8918b70faf2d7d0ea42a03ad8" sha256="19373196cbb2a17b9827a4b703729486c70b53ce9ffa4b1d398973dda4b6f975" status="baddump"/>
+	<game name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)" id="3259">
+		<description>Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)</description>
 		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Short Strip).raw" size="1872" crc="a71f27d6" md5="4a2d37f0396acab1eb89e711df8e69b6" sha1="22d58e79bfb721e51c9627d18c74c85aca4771cc" sha256="ccce55d3470b873ac10e5712ac8d026efc818ee0873455afe7853a3d030293bc"/>
+		<rom name="Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample) (Long Strip).raw" size="2912" crc="78e6f23a" md5="9b1104953505a93c147151709716ed97" sha1="114c39bdffc155c484c7c57cc2d7168000806f26" sha256="b5b9bee55f73a202acffdd5ff354c659e37684ccb3eba07140ad8e8ecaba06ab"/>
 	</game>
 	<game name="Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)" id="2301">
 		<description>Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)</description>
