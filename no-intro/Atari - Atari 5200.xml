@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260205-110758</version>
+		<version>20260207-020939</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -676,9 +676,17 @@
 		<description>Rescue on Fractalus! (USA) (Beta) (1984-02-29)</description>
 		<rom name="Rescue on Fractalus! (USA) (Beta) (1984-02-29).a52" size="32768" crc="f208a675" md5="75104362f09ee73a71355c56aabbfed9" sha1="61668f185536288c7b7c22299ad82798231abb85" sha256="269b0fe16aad8aae92a3990574bdb579d0e96dad4d1f3fab95c26e10d95220bc"/>
 	</game>
-	<game name="Road Runner (USA) (Proto)" id="0083">
-		<description>Road Runner (USA) (Proto)</description>
-		<rom name="Road Runner (USA) (Proto).a52" size="16384" crc="a97606ab" md5="ddf7834a420f1eaae20a7a6255f80a99" sha1="0a7aaef5b0ede927cea13e724906207e1db48068"/>
+	<game name="Road Runner (USA) (Proto) (1983-05-27)" id="0083" cloneofid="0201">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Road Runner (USA) (Proto) (1983-05-27)</description>
+		<rom name="Road Runner (USA) (Proto) (1983-05-27).a52" size="16384" crc="8c2233e9" md5="7875e8cb58e5c4f579bc77aff9e1ee9d" sha1="879b727b37ebb822646c7fe3a7011a43b0fc7582" sha256="240ae8948eedd459dd9b3d506cdc90df588ce18ebee65bf2f6cf4ff2894baa75"/>
+	</game>
+	<game name="Road Runner (USA) (Proto) (1983-06-03)" id="0201">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Road Runner (USA) (Proto) (1983-06-03)</description>
+		<rom name="Road Runner (USA) (Proto) (1983-06-03).a52" size="32768" crc="91e290b1" md5="2675d546211aee22117641f83b72cc26" sha1="a0a928da59fa0394d0b7b702a9ef73042c5d12d2" sha256="b951a961c0ac28f759a6bc3127f4cdc04c71feda37523b1642dabf3b1c82b2e3"/>
 	</game>
 	<game name="Robotron 2084 (USA)" id="0084">
 		<description>Robotron 2084 (USA)</description>
@@ -766,9 +774,15 @@
 		<description>Star Raiders (USA)</description>
 		<rom name="Star Raiders (USA).a52" size="16384" crc="7d819a9f" md5="e2d3a3e52bb4e3f7e489acd9974d68e2" sha1="57dfc22c9805555f957ed51a2dc7bf35ad00c9d9" status="verified"/>
 	</game>
-	<game name="Star Raiders (USA) (Alt)" id="0127">
+	<game name="Star Raiders (USA) (Alt)" id="0127" cloneofid="0090">
 		<description>Star Raiders (USA) (Alt)</description>
 		<rom name="Star Raiders (USA) (Alt).a52" size="16384" crc="4bac5dd9" md5="64579ed5a28e3174262aa5283e41b66a" sha1="4712eb082767272fddf7a915eda7cda70f621209"/>
+	</game>
+	<game name="Star Raiders (Europe) (Proto) (1983-02-23)" id="0200" cloneofid="0090">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Star Raiders (Europe) (Proto) (1983-02-23)</description>
+		<rom name="Star Raiders (Europe) (Proto) (1983-02-23).a52" size="16384" crc="eb697a22" md5="ef3adae5f0fe96a8fe001fe18ff6e983" sha1="7fb2e48457250de45d222c87dc8377d4c187faf1" sha256="4485319bd608c34f23c17b57ff4b7e789bc23cbbffc85e06dc94af72180e2ce1"/>
 	</game>
 	<game name="Star Trek - Strategic Operations Simulator (USA)" id="0091">
 		<description>Star Trek - Strategic Operations Simulator (USA)</description>

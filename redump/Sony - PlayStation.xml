@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10900) (2026-02-07 19-38-37)</description>
-		<version>2026-02-07 19-38-37</version>
-		<date>2026-02-07 19-38-37</date>
+		<description>Sony - PlayStation - Discs (10901) (2026-02-08 15-22-27)</description>
+		<version>2026-02-08 15-22-27</version>
+		<date>2026-02-08 15-22-27</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -49621,7 +49621,7 @@
 		<rom name="O.D.T. (Germany) (Track 2).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
 	</game>
 	<game name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja)">
-		<category>Educational</category>
+		<category>Games</category>
 		<description>Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja)</description>
 		<rom name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja).cue" size="300" crc="1311b217" md5="895c69bb520af0c20d14877a9e59ccd1" sha1="ce5c5fd4b2ccfa3205e3a08295950a1a460f9583"/>
 		<rom name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja) (Track 1).bin" size="329141232" crc="8299dcfd" md5="ff407d559d0e2ec7a4611cefd31bc3ec" sha1="0cd953ccb1528b7c8f9383a5f35dbd4f67eacf87"/>
@@ -68536,13 +68536,13 @@
 		<rom name="Chess 2000 (Japan) (Track 4).bin" size="54564048" crc="5baf174c" md5="ce9c89b8013024d8788edb3ac6aa0cde" sha1="8a0b812bfff2c1f5a5c48ec00cdce3bfcf50f08f"/>
 	</game>
 	<game name="Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan)">
-		<category>Educational</category>
+		<category>Games</category>
 		<description>Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan)</description>
 		<rom name="Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan).cue" size="124" crc="dd9c7d0a" md5="fbaea2f4780e3ef1f4c2f0fc51825209" sha1="fafb3c6f96bfff792e4b43d34a5596f7f608859f"/>
 		<rom name="Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan).bin" size="70084896" crc="68a0beac" md5="07e4d73612adcc0178219e1e994cd332" sha1="e487ac1958c33c8404e3e5d7688ee74c2feed5a0"/>
 	</game>
 	<game name="Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan)">
-		<category>Educational</category>
+		<category>Games</category>
 		<description>Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan)</description>
 		<rom name="Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan).cue" size="119" crc="1b2b6825" md5="89f2939eb2dfd099b20c40544f72f16f" sha1="6e7da778cb9dd1fd41ca91542161219164a0fe40"/>
 		<rom name="Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan).bin" size="669390960" crc="14d33a17" md5="f033f2e21f390540aae52fd272342a7d" sha1="c66775756839e74420da76483133e780580edda8"/>
@@ -96991,7 +96991,7 @@
 		<rom name="Formula One 99 (Europe) (En,Fr,De,It) (Beta) (1999-09-09).bin" size="587600160" crc="8ce918c1" md5="65413be6da1e7f183df29931a02a4216" sha1="7f83e5cb7478ed3d1adfead980b0ee82d2d8e3e3"/>
 	</game>
 	<game name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja) (Controller Set)">
-		<category>Educational</category>
+		<category>Games</category>
 		<description>Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja) (Controller Set)</description>
 		<rom name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja) (Controller Set).cue" size="334" crc="699b9749" md5="cb51d63266b18b0185f668d5a2ace9af" sha1="d4fa99cecc5e2cdf1bfdfd974313f4534d8166f4"/>
 		<rom name="Kids Station - Mickey &amp; Minnie no Magical Kitchen (Japan) (En,Ja) (Controller Set) (Track 1).bin" size="329141232" crc="abad139c" md5="882021c9b4e6ddc2ff6fb034f353885a" sha1="49a78857c1b67a42857ad7aa0cf5f3805160c287"/>
@@ -103740,5 +103740,12 @@
 		<description>Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)</description>
 		<rom name="Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).cue" size="133" crc="89b45ed5" md5="0c88b502f43bc427c23866186107c439" sha1="826cc19a25a966c8786579c2febb9ddc803fa39e"/>
 		<rom name="Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).bin" size="481038096" crc="0e127c3a" md5="c95c7f9834ddce2818ebdc5a1b2279f8" sha1="84b567a36e769eae46d41901f4f36ebf8deadc91"/>
+	</game>
+	<game name="R-C Stunt Copter (Germany) (Demo)">
+		<category>Demos</category>
+		<description>R-C Stunt Copter (Germany) (Demo)</description>
+		<rom name="R-C Stunt Copter (Germany) (Demo).cue" size="236" crc="6edf016e" md5="ec79a9cd186153b4ebb59bc936bb6a6d" sha1="25e785242e0e7a41012ef0a0165bffa13fbf2618"/>
+		<rom name="R-C Stunt Copter (Germany) (Demo) (Track 1).bin" size="163953216" crc="fd601c65" md5="fd8bd38aa0240687a6bddc1ff665f84d" sha1="14f8746b160c51feba8d5f95bd582f17148ab512"/>
+		<rom name="R-C Stunt Copter (Germany) (Demo) (Track 2).bin" size="32281200" crc="f9936e07" md5="cecf1db7cf5a258ae34c2ae23bf0d546" sha1="7faa7db6161ba8139ab5c7c51722b0685438df62"/>
 	</game>
 </datafile>

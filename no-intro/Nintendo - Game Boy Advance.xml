@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260204-095544</version>
+		<version>20260207-153904</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -824,7 +824,7 @@
 	</game>
 	<game name="Alien Hominid (Europe) (En,Fr,De,Es,It)" id="2281">
 		<description>Alien Hominid (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Alien Hominid (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="dff47236" md5="18ef4ec828a4bf14b6fd241230bb349a" sha1="9d0e6bbbe6a364c5c190aa2695f8b58ffcca8e21" serial="BAHP"/>
+		<rom name="Alien Hominid (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="dff47236" md5="18ef4ec828a4bf14b6fd241230bb349a" sha1="9d0e6bbbe6a364c5c190aa2695f8b58ffcca8e21" sha256="a39052860989f666ba43be8d3b2efd5e8c984c1631ab7e05da0193779cb26ae0" serial="BAHP"/>
 	</game>
 	<game name="Alienators - Evolution Continues (USA, Europe)" id="0175">
 		<description>Alienators - Evolution Continues (USA, Europe)</description>
@@ -11274,6 +11274,10 @@
 		<description>Sigma Star Saga (USA, Europe)</description>
 		<rom name="Sigma Star Saga (USA, Europe).gba" size="8388608" crc="a8b80a7c" md5="29b048b4b36b3fda168850003f2ee844" sha1="132222e0c0ddacb6281cc2eb4489ed6c8719dac2" status="verified" serial="B3GE"/>
 	</game>
+	<game name="Sigma Star Saga DX (World) (Limited Run Games)" id="3298" cloneofid="2065">
+		<description>Sigma Star Saga DX (World) (Limited Run Games)</description>
+		<rom name="Sigma Star Saga DX (World) (Limited Run Games).gba" size="16777216" crc="ff797ac9" md5="5a2dc24d450d9733cbf1d755ebc40af4" sha1="9310aa93aedbf2394e848fc56339a22a71bc81a1" sha256="df1e94a01aec3aad70073702c9fd0827bc6b5ccc28a06b03f6ab4b8458ee5fc0"/>
+	</game>
 	<game name="Silent Scope (Europe) (En,Fr,De,Es,It)" id="1894">
 		<description>Silent Scope (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Silent Scope (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="f03728f3" md5="6116d8cca2087fdaacbf6f4390c21ffd" sha1="53a2f56d21fd7c7ecdd021c26c5d4a768002ab30" serial="AIPP"/>
@@ -11290,13 +11294,13 @@
 		<description>Silk to Cotton (Japan)</description>
 		<rom name="Silk to Cotton (Japan).gba" size="8388608" crc="515e2127" md5="88a5225f93074c0445ec912523da4538" sha1="4f8ddc1fa2c8b00355ad9f09f1bc994a7d5575c7" serial="A7IJ"/>
 	</game>
-	<game name="SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)" id="2817">
-		<description>SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1).gba" size="4194304" crc="95c79648" md5="19dfc661c5a3563e001aaaec36b33b90" sha1="c5eba83db30b6b9aa2b770070f729d8d194a55b9" status="verified" serial="A5CP"/>
-	</game>
 	<game name="SimCity 2000 (USA) (Rev 1)" id="2851" cloneofid="2817">
 		<description>SimCity 2000 (USA) (Rev 1)</description>
 		<rom name="SimCity 2000 (USA) (Rev 1).gba" size="4194304" crc="097e8628" md5="bd4488cdef5226abebdd0fa28cd1c5d7" sha1="d3842f8ee2f82998fc3baf0c6dd18f7cfc442b11" serial="A5CE"/>
+	</game>
+	<game name="SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)" id="2817">
+		<description>SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1).gba" size="4194304" crc="95c79648" md5="19dfc661c5a3563e001aaaec36b33b90" sha1="c5eba83db30b6b9aa2b770070f729d8d194a55b9" status="verified" serial="A5CP"/>
 	</game>
 	<game name="SimCity 2000 (Europe) (En,Fr,De,Es,It)" id="1267" cloneofid="2817">
 		<description>SimCity 2000 (Europe) (En,Fr,De,Es,It)</description>
@@ -11468,10 +11472,6 @@
 		<description>Sonic Advance (USA) (En,Ja) (Beta)</description>
 		<rom name="Sonic Advance (USA) (En,Ja) (Beta).gba" size="8388608" crc="a80de3b2" md5="fca4c485f41412a4ddc05fbe105c3219" sha1="aae6516f72309920acd9fafd03a9d09e35cf755f" sha256="bca1e8e75f24a6a48ddd47c2765e426c21d82341ff09ac5698d3daac5b995e77"/>
 	</game>
-	<game name="Sonic Advance (Japan) (En,Ja) (Rev 1)" id="2344" cloneofid="0330">
-		<description>Sonic Advance (Japan) (En,Ja) (Rev 1)</description>
-		<rom name="Sonic Advance (Japan) (En,Ja) (Rev 1).gba" size="8388608" crc="85957a24" md5="9e02f1c9f26f40905d43188b2bd2d98e" sha1="f43faca5d8df354a63471aebfea3be125e797e51" sha256="8ab7120ac70a9c563ec19725a8cfdd9bb15e1b7de84c4172996edfef715a0458" status="verified" serial="ASOJ"/>
-	</game>
 	<game name="Sonic Advance (Japan) (En,Ja)" id="0245" cloneofid="0330">
 		<description>Sonic Advance (Japan) (En,Ja)</description>
 		<rom name="Sonic Advance (Japan) (En,Ja).gba" size="8388608" crc="5f512223" md5="b62f11b1d014d5c5c2dd703676cb443d" sha1="8dab4c2d38bd13ed88f98a9210cd0cb4ff11520c" sha256="017573e07c55da4b13ab8cd98b55710c41d471fd5399d2af1663707a9d02252e" serial="ASOJ"/>
@@ -11483,6 +11483,20 @@
 	<game name="Sonic Advance (Europe) (En,Ja,Fr,De,Es)" id="0330">
 		<description>Sonic Advance (Europe) (En,Ja,Fr,De,Es)</description>
 		<rom name="Sonic Advance (Europe) (En,Ja,Fr,De,Es).gba" size="8388608" crc="6232839b" md5="93a2f28339858e955e4f17060e038bcd" sha1="eb00f101af23d728075ac2117e27ecd8a4b4c3e9" sha256="a57c8c1a3e19a65baadc4a2fb4aa669e5ef462153ae9536634adbe6e03154b08" status="verified" serial="ASOP"/>
+	</game>
+	<game name="Sonic Advance (Japan) (En,Ja) (Rev 1)" id="2344" cloneofid="0330">
+		<description>Sonic Advance (Japan) (En,Ja) (Rev 1)</description>
+		<rom name="Sonic Advance (Japan) (En,Ja) (Rev 1).gba" size="8388608" crc="85957a24" md5="9e02f1c9f26f40905d43188b2bd2d98e" sha1="f43faca5d8df354a63471aebfea3be125e797e51" sha256="8ab7120ac70a9c563ec19725a8cfdd9bb15e1b7de84c4172996edfef715a0458" status="verified" serial="ASOJ"/>
+	</game>
+	<game name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)" id="x380" cloneofid="0900">
+		<description>Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)</description>
+		<rom name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="6c6c65a3" md5="9cdc062badfcb4d0993c4455a4cf3c52" sha1="2aa6ee2cf2b0ebfafbea6d6d24165b252a7e329e" sha256="515afde689070d3d42bb0c57e2b4047d3c4d5c0767592d1ea60f7e917bd155f6" serial="A2NJ"/>
+	</game>
+	<game name="Sonic Advance 2 (USA) (Beta)" id="x149" cloneofid="0900">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Sonic Advance 2 (USA) (Beta)</description>
+		<rom name="Sonic Advance 2 (USA) (Beta).gba" size="16777216" crc="95ab3867" md5="f957455dad9133d9ef41af092a353973" sha1="3368642fc4157824af63367e2a685b7d6ee9b09d" sha256="f77c546f528c7bed2f09de8ab8a68a0a5392d9201caa2897e2f684fc300009bb" serial="A2NE"/>
 	</game>
 	<game name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)" id="0799" cloneofid="0900">
 		<description>Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)</description>
@@ -11496,23 +11510,9 @@
 		<description>Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="89509891" md5="6664b43c51935ea8f06f5b37ce83feca" sha1="b0f64bdca097f2de8f05ac4c8caea2b80c5faeb1" status="verified" serial="A2NP"/>
 	</game>
-	<game name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)" id="x380" cloneofid="0900">
-		<description>Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)</description>
-		<rom name="Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="6c6c65a3" md5="9cdc062badfcb4d0993c4455a4cf3c52" sha1="2aa6ee2cf2b0ebfafbea6d6d24165b252a7e329e" sha256="515afde689070d3d42bb0c57e2b4047d3c4d5c0767592d1ea60f7e917bd155f6" serial="A2NJ"/>
-	</game>
-	<game name="Sonic Advance 2 (USA) (Beta)" id="x149" cloneofid="0900">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Sonic Advance 2 (USA) (Beta)</description>
-		<rom name="Sonic Advance 2 (USA) (Beta).gba" size="16777216" crc="95ab3867" md5="f957455dad9133d9ef41af092a353973" sha1="3368642fc4157824af63367e2a685b7d6ee9b09d" sha256="f77c546f528c7bed2f09de8ab8a68a0a5392d9201caa2897e2f684fc300009bb" serial="A2NE"/>
-	</game>
-	<game name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)" id="x381" cloneofid="1521">
-		<description>Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)</description>
-		<rom name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="1f36892f" md5="d794f41257ac22c50b117f49484feefa" sha1="9fc8e926fc5472a1e34e3251c5d316526dc7a7a9" sha256="40bfd796cbaa166b767618b5551c751ab80b3fa8aa74b5bb99b829064315ece7" serial="B3SJ"/>
-	</game>
-	<game name="Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)" id="x431" cloneofid="1521">
-		<description>Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)</description>
-		<rom name="Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube).gba" size="16777216" crc="0594d496" md5="5a9eef471da94e4feb20b8f79bf2cbcb" sha1="9c3f18112c126ca08403408a844a3a83967eb4dc" sha256="596be0c2a2c88f4c08c7993e8e10c9fbdd2009275d82ec9b063fb7fb203d65ab" status="verified" serial="B3SJ"/>
+	<game name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)" id="x073" cloneofid="1521">
+		<description>Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)</description>
+		<rom name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta).gba" size="16777216" crc="4c93dac6" md5="edd737aa42cbc7fa7d8b86c249f06ca1" sha1="dcdd05854b47c52a74ff13f8d50cb1c7f612e376" serial="B3SP"/>
 	</game>
 	<game name="Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)" id="1470" cloneofid="1521">
 		<description>Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)</description>
@@ -11526,9 +11526,13 @@
 		<description>Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It).gba" size="16777216" crc="5bf83456" md5="e6b78109c11d82f621db846da70bc30a" sha1="685af3a2dc0f1b3f8922e73ec42c1dc92e210e39" status="verified" serial="B3SP"/>
 	</game>
-	<game name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)" id="x073" cloneofid="1521">
-		<description>Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)</description>
-		<rom name="Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta).gba" size="16777216" crc="4c93dac6" md5="edd737aa42cbc7fa7d8b86c249f06ca1" sha1="dcdd05854b47c52a74ff13f8d50cb1c7f612e376" serial="B3SP"/>
+	<game name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)" id="x381" cloneofid="1521">
+		<description>Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)</description>
+		<rom name="Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="1f36892f" md5="d794f41257ac22c50b117f49484feefa" sha1="9fc8e926fc5472a1e34e3251c5d316526dc7a7a9" sha256="40bfd796cbaa166b767618b5551c751ab80b3fa8aa74b5bb99b829064315ece7" serial="B3SJ"/>
+	</game>
+	<game name="Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)" id="x431" cloneofid="1521">
+		<description>Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)</description>
+		<rom name="Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube).gba" size="16777216" crc="0594d496" md5="5a9eef471da94e4feb20b8f79bf2cbcb" sha1="9c3f18112c126ca08403408a844a3a83967eb4dc" sha256="596be0c2a2c88f4c08c7993e8e10c9fbdd2009275d82ec9b063fb7fb203d65ab" status="verified" serial="B3SJ"/>
 	</game>
 	<game name="Sonic Battle (Japan) (En,Ja)" id="1290" cloneofid="1493">
 		<description>Sonic Battle (Japan) (En,Ja)</description>
@@ -11639,6 +11643,10 @@
 		<description>Spider-Man 2 (Italy)</description>
 		<rom name="Spider-Man 2 (Italy).gba" size="16777216" crc="66340f23" md5="ddd7ea535fbd95d05686186a4b15aef6" sha1="fe8cea2389676d965051368aabd6cc614ffabd28" serial="BSPI"/>
 	</game>
+	<game name="Spider-Man 3 (USA) (Unl)" id="2943">
+		<description>Spider-Man 3 (USA) (Unl)</description>
+		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3e1b693a" md5="e5d07d693be6f16ed097b2d0ef96f620" sha1="54d22c0fe81e78380fc2d839aa800f36fc1ef311" sha256="d28977d7f67c182b4c6732c68d3f5989778c4dcd2325ee67f5d622e07485a924"/>
+	</game>
 	<game name="Spider-Man 3 (Germany)" id="2698" cloneofid="2701">
 		<description>Spider-Man 3 (Germany)</description>
 		<rom name="Spider-Man 3 (Germany).gba" size="8388608" crc="fda3c9dd" md5="98f96e81826945fad686b08fe7d10e0c" sha1="f67af0a5c0a37c48f808dd74eee6e95724a9a5d7" serial="BI3D"/>
@@ -11662,10 +11670,6 @@
 	<game name="Spider-Man 3 (France)" id="2723" cloneofid="2701">
 		<description>Spider-Man 3 (France)</description>
 		<rom name="Spider-Man 3 (France).gba" size="8388608" crc="450d1d48" md5="7c970129793c2987574cbba45e12871b" sha1="12720c39f1dd44837ccde15f5b347977879a63a8" serial="BI3F"/>
-	</game>
-	<game name="Spider-Man 3 (USA) (Unl)" id="2943">
-		<description>Spider-Man 3 (USA) (Unl)</description>
-		<rom name="Spider-Man 3 (USA) (Unl).gba" size="33554432" crc="3e1b693a" md5="e5d07d693be6f16ed097b2d0ef96f620" sha1="54d22c0fe81e78380fc2d839aa800f36fc1ef311" sha256="d28977d7f67c182b4c6732c68d3f5989778c4dcd2325ee67f5d622e07485a924"/>
 	</game>
 	<game name="Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta)" id="x074" cloneofid="1010">
 		<description>Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta)</description>
@@ -11731,17 +11735,13 @@
 		<description>SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 2)</description>
 		<rom name="SpongeBob SquarePants - Lights, Camera, Pants! (USA) (Beta 2).gba" size="4519932" crc="e1461b58" md5="f3f2885cbf6d0476a8d2a786d4aa22e8" sha1="b30dc120107a70796250b831e7174fc4c03ae58a" sha256="4916bc5bd4250ae453e50c6ab6ab1282a13a5637d48c259f13767c8a7cc3e055" serial="BQQE"/>
 	</game>
-	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)" id="x075" cloneofid="0577">
-		<description>SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)</description>
-		<rom name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba" size="8166400" crc="4f21757d" md5="f3f8de4d9497fde3be0a950a10bb2f5b" sha1="7d59035ecd7f7db78368de499667b79ff4899237"/>
-	</game>
 	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)" id="0577">
 		<description>SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)</description>
 		<rom name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).gba" size="8388608" crc="30d6c979" md5="0be6c13af62a0f75651bb2acbc397a56" sha1="f5e28f897edb62019addcf3635ab89df032186a0" serial="AQ3E"/>
 	</game>
-	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe)" id="0176">
-		<description>SpongeBob SquarePants - SuperSponge (USA, Europe)</description>
-		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe).gba" size="4194304" crc="98ad67e6" md5="c2bfa5c822f33eaed02ad2f94a0414b4" sha1="b67caab6316a8478129f43672572277f411f211d" sha256="e4e37b9b4213ffd3f309dcf418d0dbe191f2aac4674d90de7b2214df802b8cf0" status="verified" serial="ASPE"/>
+	<game name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)" id="x075" cloneofid="0577">
+		<description>SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)</description>
+		<rom name="SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba" size="8166400" crc="4f21757d" md5="f3f8de4d9497fde3be0a950a10bb2f5b" sha1="7d59035ecd7f7db78368de499667b79ff4899237"/>
 	</game>
 	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 1)" id="x297" cloneofid="0176">
 		<category>Games</category>
@@ -11839,6 +11839,10 @@
 		<description>SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 13)</description>
 		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta 13).gba" size="5477244" crc="23d7ba77" md5="04507c08f149756e262017efd3df4bee" sha1="0177808f1bcd65738c10fd0fba477ecdd46a791f" sha256="bc40e7306446dfb46623b4a96752dcaa8c6607b73501a1ffa5007f17ee7f0021" serial="!none"/>
 	</game>
+	<game name="SpongeBob SquarePants - SuperSponge (USA, Europe)" id="0176">
+		<description>SpongeBob SquarePants - SuperSponge (USA, Europe)</description>
+		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe).gba" size="4194304" crc="98ad67e6" md5="c2bfa5c822f33eaed02ad2f94a0414b4" sha1="b67caab6316a8478129f43672572277f411f211d" sha256="e4e37b9b4213ffd3f309dcf418d0dbe191f2aac4674d90de7b2214df802b8cf0" status="verified" serial="ASPE"/>
+	</game>
 	<game name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)" id="2712">
 		<description>SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="033229a7" md5="22ab0c3096981c511a4698e16d8e067b" sha1="7bd6de4d9f93dd531a7b4acf9be14d38cc73bc85" serial="BNVP"/>
@@ -11868,15 +11872,15 @@
 		<description>SpongeBob SquarePants Movie, The (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="SpongeBob SquarePants Movie, The (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="5d9d52de" md5="8ea169d37c038ea5f0cf9a1fb39554b7" sha1="08161f0f5ca8884a94e73a526afd5a35a5da93de" sha256="965a93d0d1a355cb563db32010534995ac5321d8b14f490e098f9f102de3f526" status="verified" serial="BSNX"/>
 	</game>
+	<game name="SpongeBob's Atlantis SquarePantis (USA)" id="2745">
+		<description>SpongeBob's Atlantis SquarePantis (USA)</description>
+		<rom name="SpongeBob's Atlantis SquarePantis (USA).gba" size="4194304" crc="190b1653" md5="6cf0014cf59609e976d4a82b01db90be" sha1="24596f49fb46cf5e3624450f599df670acc72967" sha256="abc8cc2eb511c9469efffb48dc13db5739700d43f5e6a4625caded29fb6cca66" status="verified" serial="BZXE"/>
+	</game>
 	<game name="SpongeBob's Atlantis SquarePantis (USA) (Beta)" id="3172" cloneofid="2745">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>SpongeBob's Atlantis SquarePantis (USA) (Beta)</description>
 		<rom name="SpongeBob's Atlantis SquarePantis (USA) (Beta).gba" size="4194304" crc="a39248a2" md5="76cf35708da4293e14ba6bee572597e3" sha1="0b634ec9a79f027fb780f3cbda7e48fbc917f032" sha256="c6177923aabd9d4d6399df15e84e2522a4e5fe94102ed4c6b11ad0bd36836799" serial="BZXE"/>
-	</game>
-	<game name="SpongeBob's Atlantis SquarePantis (USA)" id="2745">
-		<description>SpongeBob's Atlantis SquarePantis (USA)</description>
-		<rom name="SpongeBob's Atlantis SquarePantis (USA).gba" size="4194304" crc="190b1653" md5="6cf0014cf59609e976d4a82b01db90be" sha1="24596f49fb46cf5e3624450f599df670acc72967" sha256="abc8cc2eb511c9469efffb48dc13db5739700d43f5e6a4625caded29fb6cca66" status="verified" serial="BZXE"/>
 	</game>
 	<game name="Sports Illustrated for Kids - Baseball (USA)" id="0133">
 		<description>Sports Illustrated for Kids - Baseball (USA)</description>
@@ -11890,13 +11894,13 @@
 		<description>Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing (USA)</description>
 		<rom name="Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing (USA).gba" size="8388608" crc="2e725460" md5="c00051b2ff50552c66b31ebe3296031c" sha1="90f0d361aa0282968e2e1320f9e6200cc3d843d3" serial="B23E"/>
 	</game>
-	<game name="Spy Hunter (USA) (En,Ja,Fr,De,Es)" id="0424" cloneofid="2064">
-		<description>Spy Hunter (USA) (En,Ja,Fr,De,Es)</description>
-		<rom name="Spy Hunter (USA) (En,Ja,Fr,De,Es).gba" size="8388608" crc="b04892c9" md5="5a6f98ebca34b1d19870481dbe3e3089" sha1="0cd7527b1ac7e23f14c1eea8b7c58d800d859b38" serial="AHNE"/>
-	</game>
 	<game name="Spy Hunter (Europe) (En,Ja,Fr,De,Es)" id="2064">
 		<description>Spy Hunter (Europe) (En,Ja,Fr,De,Es)</description>
 		<rom name="Spy Hunter (Europe) (En,Ja,Fr,De,Es).gba" size="8388608" crc="4f196612" md5="95a6ed2862986666933b0ad73291c5da" sha1="40afc8143490745d8724ee1436acf0601f178d3f" serial="AHNP"/>
+	</game>
+	<game name="Spy Hunter (USA) (En,Ja,Fr,De,Es)" id="0424" cloneofid="2064">
+		<description>Spy Hunter (USA) (En,Ja,Fr,De,Es)</description>
+		<rom name="Spy Hunter (USA) (En,Ja,Fr,De,Es).gba" size="8388608" crc="b04892c9" md5="5a6f98ebca34b1d19870481dbe3e3089" sha1="0cd7527b1ac7e23f14c1eea8b7c58d800d859b38" serial="AHNE"/>
 	</game>
 	<game name="Spy Kids 3-D - Game Over (USA)" id="1077" cloneofid="1254">
 		<description>Spy Kids 3-D - Game Over (USA)</description>
@@ -12022,10 +12026,6 @@
 		<description>Star Wars - The New Droid Army (Europe) (En,Fr,De,Es)</description>
 		<rom name="Star Wars - The New Droid Army (Europe) (En,Fr,De,Es).gba" size="8388608" crc="677854af" md5="b7112785daa196847e610783cc2e9d8a" sha1="4966ce40938df2b0ffd262c6aa6c4461b9fa8922" status="verified" serial="A2WP"/>
 	</game>
-	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta)" id="x207" cloneofid="1637">
-		<description>Star Wars Trilogy - Apprentice of the Force (USA) (Beta)</description>
-		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta).gba" size="8388608" crc="b5d61c72" md5="95ef9bda30e0392f319ee8617bd2dca0" sha1="ddf8edaa7436fd5a7282867369f294d6907f9a52" sha256="3c75c4326997a92309b73a7fa26df68fdafaa55b564fb1757723b78db35b6ac3"/>
-	</game>
 	<game name="Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)" id="1637">
 		<description>Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="c9f0c492" md5="d02b4e547e916a20bc7cebcb41cba8ab" sha1="51ffd3684d9bd8140d8c7969d7eb2096dd2424a5" status="verified" serial="BCKP"/>
@@ -12033,6 +12033,10 @@
 	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)" id="1638" cloneofid="1637">
 		<description>Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)</description>
 		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es).gba" size="8388608" crc="714a0d3a" md5="6b423fd7f0b4cc280a6208f66671a9c1" sha1="b6c09b9f5588ff81aeb4bd5ed886933993f4575f" serial="BCKE"/>
+	</game>
+	<game name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta)" id="x207" cloneofid="1637">
+		<description>Star Wars Trilogy - Apprentice of the Force (USA) (Beta)</description>
+		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta).gba" size="8388608" crc="b5d61c72" md5="95ef9bda30e0392f319ee8617bd2dca0" sha1="ddf8edaa7436fd5a7282867369f294d6907f9a52" sha256="3c75c4326997a92309b73a7fa26df68fdafaa55b564fb1757723b78db35b6ac3"/>
 	</game>
 	<game name="Star X (USA) (En,Fr,De,Es,It,Nl)" id="0392" cloneofid="0468">
 		<description>Star X (USA) (En,Fr,De,Es,It,Nl)</description>
@@ -12102,17 +12106,13 @@
 		<description>Street Racing Syndicate (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Street Racing Syndicate (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="ac24888b" md5="9b8016741dad6774241ccc78571df4da" sha1="0536c9d6b0732337eaa6764d918f3b314b96c063" serial="BCZP"/>
 	</game>
-	<game name="Strike Force Hydra (Europe)" id="0857">
-		<description>Strike Force Hydra (Europe)</description>
-		<rom name="Strike Force Hydra (Europe).gba" size="4194304" crc="277d2c89" md5="468fba45dbd02710705e3fdbddb3a6df" sha1="4203315be9e7ce1801cddf294cd18e98c9c9e8b0" serial="AFHP"/>
-	</game>
 	<game name="Strike Force Hydra (USA)" id="1865" cloneofid="0857">
 		<description>Strike Force Hydra (USA)</description>
 		<rom name="Strike Force Hydra (USA).gba" size="4194304" crc="5aeea1de" md5="531b1f6688e0c646b23f78d4019dd42e" sha1="39fcdd20cb253d9a0292208902994381a3ba7c27" serial="AFHE"/>
 	</game>
-	<game name="Stuart Little 2 (Europe) (Rev 1)" id="2958">
-		<description>Stuart Little 2 (Europe) (Rev 1)</description>
-		<rom name="Stuart Little 2 (Europe) (Rev 1).gba" size="8388608" crc="34e4f8c5" md5="b5862d95089400c28594a1f5fd09aaa9" sha1="1435574b92777a633cec0722300601dcbb5f84ce" serial="ASLP"/>
+	<game name="Strike Force Hydra (Europe)" id="0857">
+		<description>Strike Force Hydra (Europe)</description>
+		<rom name="Strike Force Hydra (Europe).gba" size="4194304" crc="277d2c89" md5="468fba45dbd02710705e3fdbddb3a6df" sha1="4203315be9e7ce1801cddf294cd18e98c9c9e8b0" serial="AFHP"/>
 	</game>
 	<game name="Stuart Little 2 (USA, Europe)" id="0484" cloneofid="2958">
 		<description>Stuart Little 2 (USA, Europe)</description>
@@ -12121,6 +12121,10 @@
 	<game name="Stuart Little 2 (France)" id="0677" cloneofid="2958">
 		<description>Stuart Little 2 (France)</description>
 		<rom name="Stuart Little 2 (France).gba" size="8388608" crc="0827d896" md5="0269f1346cfa7942f43039e12ac5f26c" sha1="59ab956ef920bdf2a75b36448f557df8538d558a" serial="ASLF"/>
+	</game>
+	<game name="Stuart Little 2 (Europe) (Rev 1)" id="2958">
+		<description>Stuart Little 2 (Europe) (Rev 1)</description>
+		<rom name="Stuart Little 2 (Europe) (Rev 1).gba" size="8388608" crc="34e4f8c5" md5="b5862d95089400c28594a1f5fd09aaa9" sha1="1435574b92777a633cec0722300601dcbb5f84ce" serial="ASLP"/>
 	</game>
 	<game name="Stuntman (Europe) (En,Fr,De,Es,It)" id="1048">
 		<description>Stuntman (Europe) (En,Fr,De,Es,It)</description>
