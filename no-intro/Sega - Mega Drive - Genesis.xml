@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260206-201631</version>
+		<version>20260208-203153</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -766,15 +766,15 @@
 		<description>Arcade Classics (USA, Europe)</description>
 		<rom name="Arcade Classics (USA, Europe).md" size="524288" crc="8aed2090" md5="1c0b65d3cc82f56f7ad05ce63dc4d097" sha1="ec29aec7848dbcea6678adb4b31deba0a6ecf1e2" sha256="2b199ec75cf6473f7baa8fc2c2066af9defff19e1f197b3a10a533850ddd84e0" status="verified" serial="MK-1715-00"/>
 	</game>
-	<game name="Arcade Legends Sega Mega Drive (World)" id="1773">
+	<game name="Arcade Legends Sega Mega Drive (World) (Radica)" id="1773">
 		<category>Games</category>
-		<description>Arcade Legends Sega Mega Drive (World)</description>
-		<rom name="Arcade Legends Sega Mega Drive (World).md" size="4194304" crc="2362f1b9" md5="bd0fde7ef7918fcc8aa8c6504f3b6d0a" sha1="eb19fb4ba1cb61785ee990a620ddd1812999cf0d" sha256="e808e8370c12076d5c0f225a944f168ea4c2381beafb77217739ad96292774b3" serial="MK-1010-00"/>
+		<description>Arcade Legends Sega Mega Drive (World) (Radica)</description>
+		<rom name="Arcade Legends Sega Mega Drive (World) (Radica).md" size="4194304" crc="2362f1b9" md5="bd0fde7ef7918fcc8aa8c6504f3b6d0a" sha1="eb19fb4ba1cb61785ee990a620ddd1812999cf0d" sha256="e808e8370c12076d5c0f225a944f168ea4c2381beafb77217739ad96292774b3" serial="MK-1010-00"/>
 	</game>
-	<game name="Arcade Legends Street Fighter II' - Special Champion Edition (World)" id="1774">
+	<game name="Arcade Legends Street Fighter II' - Special Champion Edition (World) (Radica)" id="1774">
 		<category>Games</category>
-		<description>Arcade Legends Street Fighter II' - Special Champion Edition (World)</description>
-		<rom name="Arcade Legends Street Fighter II' - Special Champion Edition (World).md" size="4194304" crc="12caa444" md5="a205d4aa13a499ab1599c39c277374aa" sha1="72ce8622949b64be1a3e90c9817942615e24d416" sha256="57de0045324192c15a3a7f6062e4845b83ebbc0607e0fca8dd4249298edda3d0" serial="MK-1090-00"/>
+		<description>Arcade Legends Street Fighter II' - Special Champion Edition (World) (Radica)</description>
+		<rom name="Arcade Legends Street Fighter II' - Special Champion Edition (World) (Radica).md" size="4194304" crc="12caa444" md5="a205d4aa13a499ab1599c39c277374aa" sha1="72ce8622949b64be1a3e90c9817942615e24d416" sha256="57de0045324192c15a3a7f6062e4845b83ebbc0607e0fca8dd4249298edda3d0" serial="MK-1090-00"/>
 	</game>
 	<game name="Arch Rivals - The Arcade Game (USA, Europe)" id="0115">
 		<category>Games</category>

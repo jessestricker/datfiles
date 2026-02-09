@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2415) (2026-02-07 15-47-02)</description>
-		<version>2026-02-07 15-47-02</version>
-		<date>2026-02-07 15-47-02</date>
+		<description>Sega - Saturn - Discs (2413) (2026-02-09 14-23-43)</description>
+		<version>2026-02-09 14-23-43</version>
+		<date>2026-02-09 14-23-43</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -19421,18 +19421,6 @@
 		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01).cue" size="331" crc="98e2412d" md5="d854c95e9d390301007ec5a864239086" sha1="2d6d50af0eab1b0bd562c0c5535968578ccd6266"/>
 		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01) (Track 1).bin" size="84902496" crc="63c12369" md5="0a8fd8e047578ed2c88474d24e11b678" sha1="1e3590758b3d7260b36f648aef31b687531e3e53"/>
 		<rom name="SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01) (Track 2).bin" size="5997600" crc="97bdfea0" md5="70d47b921d2de01da65dcce7fd8b3000" sha1="0e0cdc5c262d26c186e2006cac89c121ab7ba4c5"/>
-	</game>
-	<game name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan)">
-		<category>Applications</category>
-		<description>SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan)</description>
-		<rom name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan).cue" size="145" crc="6016f3f8" md5="ecd3f0e11cd9344ef115b5a4f8728aa9" sha1="ebed0c4eca9e4fd9d93960b3ec7cbc20d1290aaa"/>
-		<rom name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan).bin" size="58804704" crc="92b7458b" md5="8e1095e69471569d29625b2f483cbd79" sha1="89fc7723c5769baf372768d31a04d6eb7ba2e47a"/>
-	</game>
-	<game name="SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version)">
-		<category>Applications</category>
-		<description>SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version)</description>
-		<rom name="SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version).cue" size="164" crc="0a3c9fc0" md5="973acb036f3b46e7ac1a4244af8c4a04" sha1="d2a9bb0745bb88ef674db15eb88b204c897a4de7"/>
-		<rom name="SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version).bin" size="43709568" crc="2cff7f8e" md5="538df79afe57e05dac3a4c3b5f39dc4e" sha1="2bb62f36a4047ef3e916c310bcc1e9eb0b0267da"/>
 	</game>
 	<game name="Virtua Photo Studio - Cameraman Simulation (Japan) (1M, 2M)">
 		<category>Games</category>
