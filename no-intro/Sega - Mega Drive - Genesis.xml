@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260208-203153</version>
+		<version>20260209-212640</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9742,11 +9742,6 @@
 		<description>Richard Scarry's Busytown (USA) (Sega Channel)</description>
 		<rom name="Richard Scarry's Busytown (USA) (Sega Channel).md" size="2097152" crc="566216bd" md5="ce511a6745fea78c2a26050d65c9bd57" sha1="641cc97d2e505d1cdf173783fa444fe9fc9701a1" sha256="be445d620887a60561c234cd5fc279ad74841ce91da82e33f79027a8295088a7" status="verified" serial="MK-1552-00"/>
 	</game>
-	<game name="Richard Scarry's Busytown (USA)" id="1090">
-		<category>Games</category>
-		<description>Richard Scarry's Busytown (USA)</description>
-		<rom name="Richard Scarry's Busytown (USA).md" size="2097152" crc="7bb60c3f" md5="06ddc929a7bf834c40344ac83a4acc97" sha1="42e5ac265e3bf82c44dca70deb71b0aa08acf1a9" sha256="20c7adaec80b977e193f5365cffc00dfbd6c634b429bc590040e148b5ddeb76f" serial="MK-1552-00"/>
-	</game>
 	<game name="Richard Scarry's Busytown (USA) (Beta 1)" id="2100" cloneofid="1090">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -9788,6 +9783,11 @@
 		<category>Preproduction</category>
 		<description>Richard Scarry's Busytown (USA) (Beta 6)</description>
 		<rom name="Richard Scarry's Busytown (USA) (Beta 6).md" size="2097152" crc="1ad270f3" md5="de96b49550908ffb5a942355a266466e" sha1="375f358a24ae63be8b8bc1010f61b27d013f8212" sha256="d81ae09c5e0a6629420d93bba73a468e65a8202974a8c7227ac671c43b7c18e4" serial="MK-1552-00"/>
+	</game>
+	<game name="Richard Scarry's Busytown (USA)" id="1090">
+		<category>Games</category>
+		<description>Richard Scarry's Busytown (USA)</description>
+		<rom name="Richard Scarry's Busytown (USA).md" size="2097152" crc="7bb60c3f" md5="06ddc929a7bf834c40344ac83a4acc97" sha1="42e5ac265e3bf82c44dca70deb71b0aa08acf1a9" sha256="20c7adaec80b977e193f5365cffc00dfbd6c634b429bc590040e148b5ddeb76f" serial="MK-1552-00"/>
 	</game>
 	<game name="Riddle Wired (Japan) (Sega Game Toshokan)" id="0050">
 		<category>Games</category>
