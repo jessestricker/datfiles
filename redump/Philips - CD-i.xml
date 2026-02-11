@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2420) (2026-01-24 18-11-17)</description>
-		<version>2026-01-24 18-11-17</version>
-		<date>2026-01-24 18-11-17</date>
+		<description>Philips - CD-i - Discs (2421) (2026-02-11 00-56-54)</description>
+		<version>2026-02-11 00-56-54</version>
+		<date>2026-02-11 00-56-54</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15972,5 +15972,11 @@
 		<description>CD-i Authoring Overview Presentation (Europe) (Proto)</description>
 		<rom name="CD-i Authoring Overview Presentation (Europe) (Proto).cue" size="117" crc="56bab7b2" md5="70ae7215d755da9832df8ed326713c7a" sha1="cab9b47731375ce9e71e10ba0a941fbcbb16f46d"/>
 		<rom name="CD-i Authoring Overview Presentation (Europe) (Proto).bin" size="154531104" crc="38cdaf34" md5="9992307c381ad722626ef869703f332c" sha1="e71da94baa9d7d7475f2a784377749607be2783d"/>
+	</game>
+	<game name="Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy)">
+		<category>Multimedia</category>
+		<description>Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy)</description>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy).cue" size="133" crc="096be30f" md5="f04101db63e485f6603235c828f41c6c" sha1="dd8511b45c7da4eb67adb8ef84ffa0a3b45c9435"/>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy).bin" size="634691904" crc="6948900b" md5="f6cebebac5702e9f4425c8b36d8746fb" sha1="73e0d6c7602a0f2f6fac5cc584e62b64e9470bcd"/>
 	</game>
 </datafile>

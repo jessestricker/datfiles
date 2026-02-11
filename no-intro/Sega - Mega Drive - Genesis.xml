@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260209-212640</version>
+		<version>20260210-195717</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11190,10 +11190,6 @@
 		<description>Sonic The Hedgehog 3 (USA)</description>
 		<rom name="Sonic The Hedgehog 3 (USA).md" size="2097152" crc="9bc192ce" md5="d724ea4dd417fe330c9dcfd955c596b2" sha1="75e9c4705259d84112b3e697a6c00a0813d47d71" sha256="d6404843c5ba32486f4c8c744acb7e1932069376960d886b1de37969787d3f9c" status="verified" serial="MK-1079-00"/>
 	</game>
-	<game name="Sonic The Hedgehog 3 (USA) (Movie Promo)" id="3589">
-		<description>Sonic The Hedgehog 3 (USA) (Movie Promo)</description>
-		<rom name="Sonic The Hedgehog 3 (USA) (Movie Promo).md" size="4194304" crc="f9881aae" md5="2886958811c81211174184d6fa874797" sha1="691894261033cef1936a2ad9ef594e30241c7e0b" sha256="af36b71b0b2af49e267dbded66552641e6f4a3700f8ca3f61535bd8797f1b2f0" serial="00000000-00"/>
-	</game>
 	<game name="Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 2)" id="1823" cloneofid="1216">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -11206,16 +11202,16 @@
 		<description>Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 1)</description>
 		<rom name="Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 1).md" size="4194304" crc="59d23df5" md5="332e7f919b3f49c05b0a977b25af6c26" sha1="5f96ddccff1e95d82201687b939973c642a05394" sha256="3d385524cab9379ed62585a98944bdea57681ba783ce57b196b5df363820e042" serial="MK-1079-00"/>
 	</game>
-	<game name="Sorcer Kingdom (Japan)" id="1238" cloneofid="1240">
-		<category>Games</category>
-		<description>Sorcer Kingdom (Japan)</description>
-		<rom name="Sorcer Kingdom (Japan).md" size="1048576" crc="944135ca" md5="c5290a39f86cff65ddf10f9913e94d4a" sha1="16394aebece9d03f43505eab0827889e1c61857f" sha256="63d99751e0a5212f8a82f3e6a7885f0780a286d961db798fc032fb784e8a8b65" status="verified" serial="T-25113-00"/>
-	</game>
 	<game name="Sorcer Kingdom (Japan) (Beta)" id="2124" cloneofid="1240">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Sorcer Kingdom (Japan) (Beta)</description>
 		<rom name="Sorcer Kingdom (Japan) (Beta).md" size="1048576" crc="3dbc3130" md5="0b1cc08ca6020c00bafbf623b7c79d23" sha1="f969f7def85fb1a994a1041c72028a35978c9659" sha256="a1f961b13ddfc5b554ee6ffeed40c7295e9013c9e15abf47c7f6328d02e0415a" serial="T-25113-00"/>
+	</game>
+	<game name="Sorcer Kingdom (Japan)" id="1238" cloneofid="1240">
+		<category>Games</category>
+		<description>Sorcer Kingdom (Japan)</description>
+		<rom name="Sorcer Kingdom (Japan).md" size="1048576" crc="944135ca" md5="c5290a39f86cff65ddf10f9913e94d4a" sha1="16394aebece9d03f43505eab0827889e1c61857f" sha256="63d99751e0a5212f8a82f3e6a7885f0780a286d961db798fc032fb784e8a8b65" status="verified" serial="T-25113-00"/>
 	</game>
 	<game name="Sorcerer's Kingdom (USA) (Beta)" id="1239" cloneofid="1240">
 		<category>Games</category>
@@ -11304,16 +11300,16 @@
 		<description>Speedball 2 - Brutal Deluxe (USA)</description>
 		<rom name="Speedball 2 - Brutal Deluxe (USA).md" size="524288" crc="9fc340a7" md5="ae982c9a1de304ada59b089603c7bd9c" sha1="4598f1714fd05e74ab758c09263f7948c8ca1883" sha256="45662bada0faceb2a70ad545ab74e698634f8e12259ce2f5168cb34ff57341d7" serial="T-69026-00"/>
 	</game>
-	<game name="Speedball 2 - Brutal Deluxe (World) (Evercade)" id="3356" cloneofid="1250">
-		<category>Games</category>
-		<description>Speedball 2 - Brutal Deluxe (World) (Evercade)</description>
-		<rom name="Speedball 2 - Brutal Deluxe (World) (Evercade).md" size="524288" crc="13ee48d5" md5="992cca7742636d7ee419a785ace5967a" sha1="aaa5d1259d3f2fd24157d13a89e727e7b5d05640" sha256="59a8634759689cb67d5cc96ba5618e9eba54fa2553d6a0b6f9c1fd6b98102f6c" serial="T-69026-00"/>
-	</game>
 	<game name="Speedball 2 - Brutal Deluxe (USA) (Beta)" id="2125" cloneofid="1250">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Speedball 2 - Brutal Deluxe (USA) (Beta)</description>
 		<rom name="Speedball 2 - Brutal Deluxe (USA) (Beta).md" size="524288" crc="13c803b7" md5="ba6c09a3dc87d54e8d4234de4e847cff" sha1="eac8744a01f946af11a36673c63a4b1df2d0742d" sha256="87157d4632621fe933a0505d4475ab16da2f303f9cf13a5cec101e44753dcfd2" serial="XXXXXXXX-XX"/>
+	</game>
+	<game name="Speedball 2 - Brutal Deluxe (World) (Evercade)" id="3356" cloneofid="1250">
+		<category>Games</category>
+		<description>Speedball 2 - Brutal Deluxe (World) (Evercade)</description>
+		<rom name="Speedball 2 - Brutal Deluxe (World) (Evercade).md" size="524288" crc="13ee48d5" md5="992cca7742636d7ee419a785ace5967a" sha1="aaa5d1259d3f2fd24157d13a89e727e7b5d05640" sha256="59a8634759689cb67d5cc96ba5618e9eba54fa2553d6a0b6f9c1fd6b98102f6c" serial="T-69026-00"/>
 	</game>
 	<game name="Spider-Man (USA) (Tengen) (Demo)" id="3702">
 		<category>Demos</category>
