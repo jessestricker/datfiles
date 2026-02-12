@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260207-020939</version>
+		<version>20260211-121013</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -665,6 +665,18 @@
 	<game name="RealSports Tennis (USA)" id="0081">
 		<description>RealSports Tennis (USA)</description>
 		<rom name="RealSports Tennis (USA).a52" size="16384" crc="10f33c90" md5="7e683e571cbe7c77f76a1648f906b932" sha1="2e6c7472e37926cdfd3d855a4bd37a18fa83d8cf"/>
+	</game>
+	<game name="RealSports Tennis (USA) (Beta) (1982-11-19)" id="0202" cloneofid="0081">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Tennis (USA) (Beta) (1982-11-19)</description>
+		<rom name="RealSports Tennis (USA) (Beta) (1982-11-19).a52" size="16384" crc="a00e6e05" md5="493ea321c1788e16347bfc643367b58a" sha1="6eaaa631d86b63487aea8425b6f67906f255e96e" sha256="3826a0a9ed9dd8f2563361b869af176dd7998754a46ec292b7291043199d4f7a"/>
+	</game>
+	<game name="RealSports Tennis (USA) (Beta) (1983-02-25)" id="0203" cloneofid="0081">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Tennis (USA) (Beta) (1983-02-25)</description>
+		<rom name="RealSports Tennis (USA) (Beta) (1983-02-25).a52" size="16384" crc="a27766ef" md5="38bded8546f76de002db4462ea386cc4" sha1="498f7bdd85f1919d264d3a02dfb282fe46501cda" sha256="c7cab893c40ef71bb72ab09e2dbc9fecc8f6d552eee03e8478a0bfb8b1b4dd91"/>
 	</game>
 	<game name="Rescue on Fractalus! (USA)" id="0082">
 		<description>Rescue on Fractalus! (USA)</description>
