@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260211-121013</version>
+		<version>20260212-111917</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -633,6 +633,58 @@
 		<category>Preproduction</category>
 		<description>RealSports Baseball (USA) (Beta) (1983-02-11)</description>
 		<rom name="RealSports Baseball (USA) (Beta) (1983-02-11).a52" size="32768" crc="ec08160d" md5="6810a7c8f43b671b9d397d67709e08b8" sha1="9efe73180e48f9600f87fc625544b8a1f7023b0f" sha256="8d3eb340545aa0343255934373f406a37b7a29cbfcd3da0ba2f9855f03e2054f"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-07-19)" id="0204" cloneofid="0075">
+		<description>RealSports Baseball (USA) (Beta) (1983-07-19)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-07-19).a52" size="32768" crc="625bc9b1" md5="a974e877db784ea53274cf02bab230c6" sha1="484c6876730671c21c0a65d64c77edf831a5c0d3" sha256="fcc9bd3117e00e1ae423f00e861660d92199542c688f68b87043a0ba81cb85cc"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-06-18)" id="0205" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-06-18)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-06-18).a52" size="32768" crc="e58c3a44" md5="caa933b542a81882ab69d27d019cd82c" sha1="841fee4c03129c40e9c71611033857bdcade01a2" sha256="af00a281868c30f3d7283234cd6f569b92997d625bba56e81ea773f768a35190"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-06-15)" id="0206" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-06-15)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-06-15).a52" size="32768" crc="990bf97e" md5="d8e09f001c190a036e6e08cbc59ad655" sha1="e7cfda266b63932da612e4f27ce6e63eda12b0a9" sha256="2c893ca48913acc357dfe0f2afa3e81627e4ce8b92b68474f4cd4f1324336fed"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-06-02)" id="0207" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-06-02)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-06-02).a52" size="32768" crc="74a0c839" md5="2548bc27d6a56f34045b50da217fafbb" sha1="c7245c981b96ede39ec1efae95caebfb6cce8123" sha256="e2501d57289952c544f4610409477238af2fa62fc2683bc2c986d88dabf0dab3"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-04-14)" id="0208" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-04-14)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-04-14).a52" size="32768" crc="b4ba6acf" md5="e2f1083f525ca262da56e6ccb98ee453" sha1="a8a6848d271cea847a7a5996335ba6dbc7d523dc" sha256="d713280824eb6487caabaf17e4df7f74209e31f82a1c2e6a444190cc4ce35ebe"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-03-21)" id="0209" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-03-21)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-03-21).a52" size="32768" crc="b6aeba56" md5="95b859dc2f6a90a06c7a48a9cf01e2e8" sha1="23e25036ff888c090bbda3797cc1dcc697cf290c" sha256="cc3ea01128dc6d2113f24ef6aa76f9b607906d50a4f33a99803bfb7d49d46562"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-02-17)" id="0210" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-02-17)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-02-17).a52" size="32768" crc="70d76837" md5="504957b48220c087b8b35b0d41258d62" sha1="d931b1988e464edb7cb873b563d7415fef9293a5" sha256="5ae62a42449b2789049c8fdf3f8aebf0e8140fcce9e18c18474282103b5bc77e"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-02-04)" id="0211" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-02-04)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-02-04).a52" size="32768" crc="dd7ffcc2" md5="88ed2559fa73e12b97f9cf268b4fc32a" sha1="b41380e403a134df4d730510c19d6288eef2a560" sha256="b08417f8c07202b568f489a3410c8b21001453e7796e7fafbbbe25732b765ae4"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (Unknown)" id="0212" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (Unknown)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (Unknown).a52" size="32768" crc="7214ac5e" md5="4a2c0237f31e5b8601a68040e638b17c" sha1="82d941c86bd45d822fd054e2377e81aa54a95bf1" sha256="15e9a5f1d9d2c4b00d364ca7d9a7f1cd8bca4327b66fe227ee433481b38d1a23"/>
 	</game>
 	<game name="RealSports Basketball (USA) (Proto) (1983-12-16)" id="0076">
 		<category>Games</category>
