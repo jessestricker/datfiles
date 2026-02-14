@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260212-111917</version>
+		<version>20260213-122147</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -437,7 +437,8 @@
 		<description>Looney Tunes Hotel (USA) (Proto)</description>
 		<rom name="Looney Tunes Hotel (USA) (Proto).a52" size="16384" crc="84df4925" md5="d0a1654625dbdf3c6b8480c1ed17137f" sha1="bc4a536616ac45689b3ad790f6b1394ebbd8cc7e"/>
 	</game>
-	<game name="Mario Bros. (USA)" id="0053">
+	<game name="Mario Bros. (USA)" id="0053" cloneofid="0125">
+		<category>Games</category>
 		<description>Mario Bros. (USA)</description>
 		<rom name="Mario Bros. (USA).a52" size="32768" crc="873742f1" md5="d00dff571bfa57c7ff7880c3ce03b178" sha1="a293b6b06050e11029d97137f2b1b36059567273"/>
 	</game>
@@ -445,6 +446,18 @@
 		<category>Games</category>
 		<description>Mario Bros. (USA) (Alt)</description>
 		<rom name="Mario Bros. (USA) (Alt).a52" size="32768" crc="6b3f1179" md5="0ad079027090c427e9d939bad318d846" sha1="39cd2d87c4fefd2fe12a4d6485101235fe55b070" sha256="aee75bd31231fc567b79d3825e286e121314925745f6ebdb040ee4c01ae6dd17" status="verified"/>
+	</game>
+	<game name="Mario Bros. (USA) (Beta 1)" id="0213" cloneofid="0125">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mario Bros. (USA) (Beta 1)</description>
+		<rom name="Mario Bros. (USA) (Beta 1).a52" size="16384" crc="6cc083b1" md5="32391928956b62cb384d20b57da4ee64" sha1="50443fe5f6dc4425ee9268d44c57d15db1d3050f" sha256="556aed6835bd8345206582518263a82da7e896a2b5868725d2e20fc2ae214856"/>
+	</game>
+	<game name="Mario Bros. (USA) (Beta 2) (1983-09-14)" id="0214" cloneofid="0125">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mario Bros. (USA) (Beta 2) (1983-09-14)</description>
+		<rom name="Mario Bros. (USA) (Beta 2) (1983-09-14).a52" size="32768" crc="7ed87e8d" md5="e4589821c323cf61634a2e4802cc650b" sha1="228b59d6c208b73fdfba84ce0b6662fb461bcecc" sha256="6e556d8c60be30e5628c7cc57aaed215bef768c7398136f9bd7c441460f89af3"/>
 	</game>
 	<game name="Meebzork (USA) (Proto) (1983-11-16)" id="0054">
 		<category>Games</category>
