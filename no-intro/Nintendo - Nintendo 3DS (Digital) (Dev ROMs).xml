@@ -4,8 +4,8 @@
 		<id>259</id>
 		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</description>
-		<version>20241231-125828</version>
-		<author>Hiccup, rarenight</author>
+		<version>20260214-030555</version>
+		<author>Hiccup, MisterSheeple, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -40,10 +40,15 @@
 		<description>Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)</description>
 		<rom name="00000000.app" size="3264108" crc="0d8abc13" md5="89eec42c0ac6d11b319f61cc4f200cf8" sha1="ac4e09951fdaa0021ec671fbb7e7ddcb7a6c80fa" sha256="43e562d638dfa8fede380fe19e74d203b065eba8c3cefdf11455b1499b0f545f" serial="000000004e43414d (NCAM)"/>
 	</game>
-	<game name="Paper Mario Preview (World) (Beta) (E3 2010 Trailer)" id="0003">
+	<game name="Paper Mario Preview (World) (2010-06-09T182413) (Beta) (E3 2010 Trailer)" id="0003">
 		<category>Preproduction</category>
-		<description>Paper Mario Preview (World) (Beta) (E3 2010 Trailer)</description>
+		<description>Paper Mario Preview (World) (2010-06-09T182413) (Beta) (E3 2010 Trailer)</description>
 		<rom name="00000000.app" size="29975256" crc="c1080fba" md5="055361cf3e97837c70665b794d0f8bbe" sha1="e687a9ede27312815b8c77afbabea406f22d1871" sha256="3dd96bcf3088dfcffc12f03acf750c2206652b2f79d77a4388df56ecf58f90d8" serial="000000004e474746"/>
+	</game>
+	<game name="Paper Mario Preview (World) (2010-05-28T190436) (Beta) (E3 2010 Trailer)" id="0014">
+		<category>Preproduction</category>
+		<description>Paper Mario Preview (World) (2010-05-28T190436) (Beta) (E3 2010 Trailer)</description>
+		<rom name="00000000.app" size="29556892" crc="94930d64" md5="45c8cc7d48687fbaedcebb3c829ad75f" sha1="9eeb59292e149d6fecca1c4e6b256792925f69b1" sha256="902ee9bb2a50b504cbbbc010e446075e0a2c90024a52cef2ed6c276ecca2b64b" serial="000000004e474746"/>
 	</game>
 	<game name="Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)" id="0007">
 		<category>Demos</category>

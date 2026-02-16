@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10901) (2026-02-14 17-21-29)</description>
-		<version>2026-02-14 17-21-29</version>
-		<date>2026-02-14 17-21-29</date>
+		<description>Sony - PlayStation - Discs (10902) (2026-02-15 19-34-37)</description>
+		<version>2026-02-15 19-34-37</version>
+		<date>2026-02-15 19-34-37</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -99115,7 +99115,6 @@
 	<game name="Doom (USA)">
 		<category>Games</category>
 		<description>Doom (USA)</description>
-		<release name="Doom (USA)" region="USA"/>
 		<rom name="Doom (USA).cue" size="814" crc="4ac4daaa" md5="1313d43f6ed3a377f60b9eb14d20559e" sha1="c49b78272df9a92fb58caa213b0d61e169bedcbd"/>
 		<rom name="Doom (USA) (Track 1).bin" size="84175728" crc="e2952776" md5="e9fdb0aafe5a99685926ccb98e9ecac9" sha1="95950c56227280600595fd3617dbe158c16ea141"/>
 		<rom name="Doom (USA) (Track 2).bin" size="33737088" crc="b0d25ed2" md5="24e137985affd7bf25ed5e823578aa6f" sha1="9b970749ed2c9247727e6c771068cade0fdde181"/>
@@ -103747,5 +103746,11 @@
 		<rom name="R-C Stunt Copter (Germany) (Demo).cue" size="236" crc="6edf016e" md5="ec79a9cd186153b4ebb59bc936bb6a6d" sha1="25e785242e0e7a41012ef0a0165bffa13fbf2618"/>
 		<rom name="R-C Stunt Copter (Germany) (Demo) (Track 1).bin" size="163953216" crc="fd601c65" md5="fd8bd38aa0240687a6bddc1ff665f84d" sha1="14f8746b160c51feba8d5f95bd582f17148ab512"/>
 		<rom name="R-C Stunt Copter (Germany) (Demo) (Track 2).bin" size="32281200" crc="f9936e07" md5="cecf1db7cf5a258ae34c2ae23bf0d546" sha1="7faa7db6161ba8139ab5c7c51722b0685438df62"/>
+	</game>
+	<game name="Kick Off World (Greece) (Demo)">
+		<category>Demos</category>
+		<description>Kick Off World (Greece) (Demo)</description>
+		<rom name="Kick Off World (Greece) (Demo).cue" size="96" crc="6a5d34e3" md5="db1ba483cbe248891855c4ea235d0373" sha1="5b8d860caf25dba53a595595425988db0e614b97"/>
+		<rom name="Kick Off World (Greece) (Demo).bin" size="204238272" crc="7c790b18" md5="ab53d963b49af0923744fc6a8da7e6dd" sha1="ed823e3d9b28610751ade0c864fb9404ebf3d387"/>
 	</game>
 </datafile>
