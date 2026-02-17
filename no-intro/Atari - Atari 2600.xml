@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260125-030023</version>
+		<version>20260216-104743</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1691,7 +1691,7 @@
 	</game>
 	<game name="Labyrinth (Europe)" id="0813">
 		<description>Labyrinth (Europe)</description>
-		<rom name="Labyrinth (Europe).a26" size="4096" crc="4f2bc502" md5="0fbf618be43d4396856d4244126fe7dc" sha1="adbc884601016ebf1b3bca03dce56d95b7a90a22" sha256="8533208a328ad34657b104a6eec7e7973ef44810790b538e976114ac403f70fb"/>
+		<rom name="Labyrinth (Europe).a26" size="4096" crc="4f2bc502" md5="0fbf618be43d4396856d4244126fe7dc" sha1="adbc884601016ebf1b3bca03dce56d95b7a90a22" sha256="8533208a328ad34657b104a6eec7e7973ef44810790b538e976114ac403f70fb" status="verified"/>
 	</game>
 	<game name="Lady in Wading (USA)" id="0237">
 		<description>Lady in Wading (USA)</description>

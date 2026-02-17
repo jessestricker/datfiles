@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1333) (2026-02-09 00-25-36)</description>
-		<version>2026-02-09 00-25-36</version>
-		<date>2026-02-09 00-25-36</date>
+		<description>Apple - Macintosh - Discs (1334) (2026-02-17 10-37-57)</description>
+		<version>2026-02-17 10-37-57</version>
+		<date>2026-02-17 10-37-57</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9467,5 +9467,11 @@
 		<description>SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan)</description>
 		<rom name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan).cue" size="145" crc="6016f3f8" md5="ecd3f0e11cd9344ef115b5a4f8728aa9" sha1="ebed0c4eca9e4fd9d93960b3ec7cbc20d1290aaa"/>
 		<rom name="SegaSaturn - Graphic &amp; Sound Tools for Macintosh (Japan).bin" size="58804704" crc="92b7458b" md5="8e1095e69471569d29625b2f483cbd79" sha1="89fc7723c5769baf372768d31a04d6eb7ba2e47a"/>
+	</game>
+	<game name="Warlords II (USA)">
+		<category>Games</category>
+		<description>Warlords II (USA)</description>
+		<rom name="Warlords II (USA).cue" size="83" crc="26e28ad8" md5="5183132d6e6e8a18ceeb1f6c1404553e" sha1="25d6a840351755fc950e2a0d469b81dac2c0cd16"/>
+		<rom name="Warlords II (USA).bin" size="121643088" crc="7f79005d" md5="530b25a7be1806aa293a209710db4423" sha1="198acfd3f1d154105ba0620954263a6b77250041"/>
 	</game>
 </datafile>

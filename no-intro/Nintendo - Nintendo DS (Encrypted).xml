@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260207-151334</version>
+		<version>20260216-115854</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -780,6 +780,12 @@
 		<description>Age of Empires - The Age of Kings (Europe) (En,Es,It)</description>
 		<rom name="Age of Empires - The Age of Kings (Europe) (En,Es,It).nds" size="67108864" crc="be60cd39" md5="8c50e0a9d7cd97514bd321639fa6655c" sha1="cf21c22e59783936ab5e29eacd5a7b3b4847aaf9" serial="AEKX"/>
 	</game>
+	<game name="Agent Hugo - Fly Guyz! (Europe) (Proto)" id="z663">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Agent Hugo - Fly Guyz! (Europe) (Proto)</description>
+		<rom name="Agent Hugo - Fly Guyz! (Europe) (Proto).nds" size="33554432" crc="a4e71c80" md5="4a18aa7b64ab8f20360acce4467fce6c" sha1="641561aec3b15ebe1824fd7c726526f00300f533" sha256="8ec6d28d6d9e7cb31881c6c4f57c98b11d49b9aa27d2b37cb152bf8139fc5393" serial="NTRJ"/>
+	</game>
 	<game name="Aibou DS (Japan)" id="3474">
 		<description>Aibou DS (Japan)</description>
 		<rom name="Aibou DS (Japan).nds" size="134217728" crc="8e3f5296" md5="26e5702e4c43bce11c1ff27fbd3ec26f" sha1="bd40a52f6cfdca286b4e4b02427a748b156da5f7" serial="CIVJ"/>
@@ -788,13 +794,13 @@
 		<description>Air Traffic Chaos (USA)</description>
 		<rom name="Air Traffic Chaos (USA).nds" size="16777216" crc="951e3f8a" md5="e8c979aa0e3024c95624b5c3fa3af0b0" sha1="6273955608bb5e5ce13790050ef8dfd6384ae88d" serial="CAOE"/>
 	</game>
-	<game name="Akachan wa Doko kara Kuru no (Japan)" id="0167" cloneofid="0328">
-		<description>Akachan wa Doko kara Kuru no (Japan)</description>
-		<rom name="Akachan wa Doko kara Kuru no (Japan).nds" size="134217728" crc="2f940a94" md5="838f37e4cd8c48d248459b4249f7a82a" sha1="e65a2e5095536345fffbf62389da97c0ff82981b" sha256="52df2645d65d6e8f4e887988494e4a7ffd6e0b3b311978b3291b9563b4f27bef" serial="AKAJ"/>
-	</game>
 	<game name="Akachan wa Doko kara Kuru no (Japan) (Demo) (Kiosk)" id="z334" cloneofid="0328">
 		<description>Akachan wa Doko kara Kuru no (Japan) (Demo) (Kiosk)</description>
 		<rom name="Akachan wa Doko kara Kuru no (Japan) (Demo) (Kiosk).nds" size="33554432" crc="d5e019c2" md5="2ec5faf92f219ffd5f77630538ab576b" sha1="99f47ac86259b2ddf337fa7c60c9988a667142ae" sha256="a44d3c3c33fee740a78a0d363a893154af3c84db57e10dd5c5343c392863ceab" serial="A53J"/>
+	</game>
+	<game name="Akachan wa Doko kara Kuru no (Japan)" id="0167" cloneofid="0328">
+		<description>Akachan wa Doko kara Kuru no (Japan)</description>
+		<rom name="Akachan wa Doko kara Kuru no (Japan).nds" size="134217728" crc="2f940a94" md5="838f37e4cd8c48d248459b4249f7a82a" sha1="e65a2e5095536345fffbf62389da97c0ff82981b" sha256="52df2645d65d6e8f4e887988494e4a7ffd6e0b3b311978b3291b9563b4f27bef" serial="AKAJ"/>
 	</game>
 	<game name="Akagawa Jirou Mystery - Tsuki no Hikari - Shizumeru Kane no Satsujin (Japan)" id="2880">
 		<description>Akagawa Jirou Mystery - Tsuki no Hikari - Shizumeru Kane no Satsujin (Japan)</description>
@@ -9163,6 +9169,12 @@
 		<description>George of the Jungle and the Search for the Secret (USA)</description>
 		<rom name="George of the Jungle and the Search for the Secret (USA).nds" size="33554432" crc="02733235" md5="8f180885d931d9990484b7ceee5bb129" sha1="f7e974752f31dbe569c1f463d919c2b370e32ea7" serial="YGJE"/>
 	</game>
+	<game name="GeoTrip (Europe) (Proto)" id="z664">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>GeoTrip (Europe) (Proto)</description>
+		<rom name="GeoTrip (Europe) (Proto).nds" size="268435456" crc="0c388e22" md5="b92f3445edc66f42a51b5c384216ddef" sha1="d60720c324f7f210bca49cffed8d4d996be47eca" sha256="3de9d44f2e464caf754d0c3935511da976aa04b729d2ae9863d30a45d4768d61" serial="NTRJ"/>
+	</game>
 	<game name="Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany)" id="2193" cloneofid="2907">
 		<description>Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany)</description>
 		<rom name="Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany).nds" size="67108864" crc="db709e92" md5="b83b598f66e227f6fba37f1519ed0dca" sha1="a98e2e7107060c80204408ec6286a25e9632165f" serial="YNLP"/>
@@ -10222,13 +10234,13 @@
 		<description>Heisei Kyouiku Iinkai DS (Japan) (Rev 2)</description>
 		<rom name="Heisei Kyouiku Iinkai DS (Japan) (Rev 2).nds" size="67108864" crc="f4bae77b" md5="642eea5c412f7fa9e1d2a5fb1861be9b" sha1="50f08e252d60c61044485368da70a5a0cc4a7c8f" status="verified" serial="AHIJ"/>
 	</game>
-	<game name="Heisei Kyouiku Iinkai DS (Japan) (Rev 1)" id="z136" cloneofid="6636">
-		<description>Heisei Kyouiku Iinkai DS (Japan) (Rev 1)</description>
-		<rom name="Heisei Kyouiku Iinkai DS (Japan) (Rev 1).nds" size="67108864" crc="0e2c10c2" md5="0b137e67d1e563d6fe8261d844f319e2" sha1="696818961f065eaaa9c428ad2382688c7e223538" serial="AHIJ"/>
-	</game>
 	<game name="Heisei Kyouiku Iinkai DS (Japan)" id="0775" cloneofid="6636">
 		<description>Heisei Kyouiku Iinkai DS (Japan)</description>
 		<rom name="Heisei Kyouiku Iinkai DS (Japan).nds" size="67108864" crc="c0952567" md5="0bdadd81386ab8f405ea82e3daf1d196" sha1="1b54faba4de2e58c6231d2e070d40d2b856425e6" serial="AHIJ"/>
+	</game>
+	<game name="Heisei Kyouiku Iinkai DS (Japan) (Rev 1)" id="z136" cloneofid="6636">
+		<description>Heisei Kyouiku Iinkai DS (Japan) (Rev 1)</description>
+		<rom name="Heisei Kyouiku Iinkai DS (Japan) (Rev 1).nds" size="67108864" crc="0e2c10c2" md5="0b137e67d1e563d6fe8261d844f319e2" sha1="696818961f065eaaa9c428ad2382688c7e223538" serial="AHIJ"/>
 	</game>
 	<game name="Heisei Kyouiku Iinkai DS - Zenkoku Touitsu Moshi Special (Japan)" id="1846">
 		<description>Heisei Kyouiku Iinkai DS - Zenkoku Touitsu Moshi Special (Japan)</description>
@@ -10338,13 +10350,13 @@
 		<description>Heracles no Eikou - Tamashii no Shoumei (Japan)</description>
 		<rom name="Heracles no Eikou - Tamashii no Shoumei (Japan).nds" size="134217728" crc="354973ef" md5="cbcce997589e65c9b4f0c2888314db1e" sha1="10c220da1e4cfef007e28a350fe0c774d765d70c" serial="YEKJ"/>
 	</game>
-	<game name="Herbie - Rescue Rally (USA) (En,Fr,De,Es)" id="0933" cloneofid="1203">
-		<description>Herbie - Rescue Rally (USA) (En,Fr,De,Es)</description>
-		<rom name="Herbie - Rescue Rally (USA) (En,Fr,De,Es).nds" size="33554432" crc="b9b8a1d3" md5="ece0ec93b3fbfd3f716ec3303ae7e043" sha1="c55fbf0637ab6293fa1dbcf68c6da91ab4af531c" serial="AHQE"/>
-	</game>
 	<game name="Herbie - Rescue Rally (Europe) (En,Fr,De,Es)" id="1203">
 		<description>Herbie - Rescue Rally (Europe) (En,Fr,De,Es)</description>
 		<rom name="Herbie - Rescue Rally (Europe) (En,Fr,De,Es).nds" size="33554432" crc="df27de5f" md5="7c15ff1f79d465d29c338f36f72d035c" sha1="71a0dd0725593ac355e17069f455d9388f60ec46" serial="AHQP"/>
+	</game>
+	<game name="Herbie - Rescue Rally (USA) (En,Fr,De,Es)" id="0933" cloneofid="1203">
+		<description>Herbie - Rescue Rally (USA) (En,Fr,De,Es)</description>
+		<rom name="Herbie - Rescue Rally (USA) (En,Fr,De,Es).nds" size="33554432" crc="b9b8a1d3" md5="ece0ec93b3fbfd3f716ec3303ae7e043" sha1="c55fbf0637ab6293fa1dbcf68c6da91ab4af531c" serial="AHQE"/>
 	</game>
 	<game name="Hero's Saga - Laevatein Tactics (USA)" id="4350">
 		<description>Hero's Saga - Laevatein Tactics (USA)</description>
@@ -10642,13 +10654,13 @@
 		<description>Honda ATV Fever (USA) (En,Fr,Es)</description>
 		<rom name="Honda ATV Fever (USA) (En,Fr,Es).nds" size="16777216" crc="5a0a1b09" md5="3d48968eada7d7ff37f99ac6bf8c4afc" sha1="e7fdd7a5ea7dda59517ba1a564e11a82e1e52d39" serial="BRQE"/>
 	</game>
-	<game name="Honeycomb Beat (USA)" id="0977" cloneofid="1530">
-		<description>Honeycomb Beat (USA)</description>
-		<rom name="Honeycomb Beat (USA).nds" size="16777216" crc="7adbe15b" md5="688d048db2b6916f6fbc95bd2eee7ebf" sha1="0d0c852c571f21f1f33b896077ea7598b445a717" sha256="d355636b7c8a7d3bdb4608cc6ac5ca59a760a634dda45f6c3d13d5f167dcce00" serial="AH6E"/>
-	</game>
 	<game name="Honeycomb Beat (Europe) (En,Fr,De,Es,It)" id="1530">
 		<description>Honeycomb Beat (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Honeycomb Beat (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="7635f168" md5="b20d51dce099c957d230a3ea9d0884b9" sha1="f693c867f91eb516af45ae2d288c78a0cda2be55" sha256="a86c1fed8e7097c617e6f9c58d02b6d0074caaee448c020f4bc4df40e8b74a3e" status="verified" serial="AH6P"/>
+	</game>
+	<game name="Honeycomb Beat (USA)" id="0977" cloneofid="1530">
+		<description>Honeycomb Beat (USA)</description>
+		<rom name="Honeycomb Beat (USA).nds" size="16777216" crc="7adbe15b" md5="688d048db2b6916f6fbc95bd2eee7ebf" sha1="0d0c852c571f21f1f33b896077ea7598b445a717" sha256="d355636b7c8a7d3bdb4608cc6ac5ca59a760a634dda45f6c3d13d5f167dcce00" serial="AH6E"/>
 	</game>
 	<game name="Hop (USA) (En,Fr,Es)" id="6436" cloneofid="5621">
 		<description>Hop (USA) (En,Fr,Es)</description>
@@ -10799,13 +10811,13 @@
 		<description>Hotel Deluxe - Greif nach den Sternen (Germany)</description>
 		<rom name="Hotel Deluxe - Greif nach den Sternen (Germany).nds" size="67108864" crc="3a97f8b1" md5="906daa830718224b18201cf03ebbeabe" sha1="7bf85bd6a074ebe2b42b3d64460240cfae109af3" serial="BHLD"/>
 	</game>
-	<game name="Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It)" id="1000">
-		<description>Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="788625d0" md5="1927a8c5b544b7fa7310870d5a04dfe3" sha1="330c6714488aabcf570450bc4a9f6e388bc195f5" status="verified" serial="AWIP"/>
-	</game>
 	<game name="Hotel Dusk - Room 215 (USA)" id="0823" cloneofid="1000">
 		<description>Hotel Dusk - Room 215 (USA)</description>
 		<rom name="Hotel Dusk - Room 215 (USA).nds" size="134217728" crc="6c29bd2b" md5="be690fa0d689b6d74cebe0cbecfad093" sha1="3131545331a8b29a8992646fa5716134b8ec279b" sha256="c66dc6b35ed7f45f66272b4977415843f411d394d335f782b56ad21b8b52035a" status="verified" serial="AWIE"/>
+	</game>
+	<game name="Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It)" id="1000">
+		<description>Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="788625d0" md5="1927a8c5b544b7fa7310870d5a04dfe3" sha1="330c6714488aabcf570450bc4a9f6e388bc195f5" status="verified" serial="AWIP"/>
 	</game>
 	<game name="Hotel Duskui Bimil (Korea)" id="3380" cloneofid="1000">
 		<description>Hotel Duskui Bimil (Korea)</description>
@@ -10987,13 +10999,13 @@
 		<description>I Love Babies (USA)</description>
 		<rom name="I Love Babies (USA).nds" size="16777216" crc="9c17fd86" md5="0bb91724cca3443e8c0839d45cf14ef6" sha1="eb1a8f4b1f6d339c6b801f85d60358fcefff05e5" serial="YJLE"/>
 	</game>
-	<game name="I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It)" id="3778">
-		<description>I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="946dc878" md5="cedde68e2456ef917b31559103c31366" sha1="c44ddd43ef7e26db704f55b58af0e610ab0149f3" status="verified" serial="CV9P"/>
-	</game>
 	<game name="I Love Beauty - Hollywood Makeover (USA) (En,Fr,Es)" id="4004" cloneofid="3778">
 		<description>I Love Beauty - Hollywood Makeover (USA) (En,Fr,Es)</description>
 		<rom name="I Love Beauty - Hollywood Makeover (USA) (En,Fr,Es).nds" size="16777216" crc="61f29416" md5="45b1e21b287a5bee17af5dca1e36e044" sha1="ea79c2bc8a5344cbc61749735535f8d0b0c497f3" serial="CV9E"/>
+	</game>
+	<game name="I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It)" id="3778">
+		<description>I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="I Love Beauty - Hollywood Makeover (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="946dc878" md5="cedde68e2456ef917b31559103c31366" sha1="c44ddd43ef7e26db704f55b58af0e610ab0149f3" status="verified" serial="CV9P"/>
 	</game>
 	<game name="I Love Dogs - My Cute Puppies (Europe) (Sv,No,Da,Fi)" id="6519">
 		<description>I Love Dogs - My Cute Puppies (Europe) (Sv,No,Da,Fi)</description>
@@ -11011,21 +11023,21 @@
 		<description>I Love Horses (Europe) (En,Fr,Es,It,Nl)</description>
 		<rom name="I Love Horses (Europe) (En,Fr,Es,It,Nl).nds" size="16777216" crc="e0d8bd80" md5="e1172973003cfd6446347e0cacba3a89" sha1="161de7dab90fe74cb62a72faa8750b67e964bfd4" serial="YWDX"/>
 	</game>
-	<game name="I Love Horses (USA)" id="4003" cloneofid="1989">
-		<description>I Love Horses (USA)</description>
-		<rom name="I Love Horses (USA).nds" size="16777216" crc="2116cd73" md5="88a0102992302d56f4c83e880ae0131d" sha1="a674f314e849ea9d3c22fbf22954c771e043316b" status="verified" serial="YWDE"/>
-	</game>
 	<game name="I Love Horses (Europe) (En,Fr,Es,It,Nl) (Rev 1) (YWDZ)" id="3472" cloneofid="1989">
 		<description>I Love Horses (Europe) (En,Fr,Es,It,Nl) (Rev 1) (YWDZ)</description>
 		<rom name="I Love Horses (Europe) (En,Fr,Es,It,Nl) (Rev 1) (YWDZ).nds" size="16777216" crc="f86b9878" md5="543adf44a81f5614f6d45b41f01bbc69" sha1="4a7e287b1ef6c5b6c490cc26e4a45ad245350d14" sha256="6b4be65f2b73a7c2a28cc7287d16690481e68c1460834f0adda85064a171d3a7" serial="YWDZ"/>
 	</game>
-	<game name="I Love Horses (Europe) (Sv,No,Da,Fi)" id="4845" cloneofid="1989">
-		<description>I Love Horses (Europe) (Sv,No,Da,Fi)</description>
-		<rom name="I Love Horses (Europe) (Sv,No,Da,Fi).nds" size="16777216" crc="ef52e988" md5="dcba929f9bdcfce60b2757dc7abc3f28" sha1="fc09d6403fd0afc174802a14c4e54a2e38414670" serial="YWDW"/>
+	<game name="I Love Horses (USA)" id="4003" cloneofid="1989">
+		<description>I Love Horses (USA)</description>
+		<rom name="I Love Horses (USA).nds" size="16777216" crc="2116cd73" md5="88a0102992302d56f4c83e880ae0131d" sha1="a674f314e849ea9d3c22fbf22954c771e043316b" status="verified" serial="YWDE"/>
 	</game>
 	<game name="I Love Horses (Europe) (En,Fr,Es,It,Nl) (YWDZ)" id="z218" cloneofid="1989">
 		<description>I Love Horses (Europe) (En,Fr,Es,It,Nl) (YWDZ)</description>
 		<rom name="I Love Horses (Europe) (En,Fr,Es,It,Nl) (YWDZ).nds" size="16777216" crc="6b449d0b" md5="26e2f9aa92f7946a2e3df9ebe35a4b84" sha1="88a9de670e9a2ceb3c3af8e26462d7f41872cbc9" serial="YWDZ"/>
+	</game>
+	<game name="I Love Horses (Europe) (Sv,No,Da,Fi)" id="4845" cloneofid="1989">
+		<description>I Love Horses (Europe) (Sv,No,Da,Fi)</description>
+		<rom name="I Love Horses (Europe) (Sv,No,Da,Fi).nds" size="16777216" crc="ef52e988" md5="dcba929f9bdcfce60b2757dc7abc3f28" sha1="fc09d6403fd0afc174802a14c4e54a2e38414670" serial="YWDW"/>
 	</game>
 	<game name="I Love Puppies (USA)" id="6345" cloneofid="6519">
 		<description>I Love Puppies (USA)</description>
@@ -11034,10 +11046,6 @@
 	<game name="I Spy - Castle (USA)" id="6245">
 		<description>I Spy - Castle (USA)</description>
 		<rom name="I Spy - Castle (USA).nds" size="33554432" crc="f5a53c95" md5="79ec4b0a682ede18b1a6b3ca34c468ff" sha1="0f8c58454bf6f7fd2fb86834ac10ad56ff24ff0a" serial="B7EE"/>
-	</game>
-	<game name="I Spy - Fun House (Europe) (En,Ru) (Beta)" id="z056" cloneofid="1983">
-		<description>I Spy - Fun House (Europe) (En,Ru) (Beta)</description>
-		<rom name="I Spy - Fun House (Europe) (En,Ru) (Beta).nds" size="67108864" crc="c046e007" md5="ca5f89627022055f167482efa16ac84c" sha1="72d0c12a7022fe9f036939ca5721b74ca76234b2" sha256="7a5c3c484d256f3a00f756c31077b071f5f5ef0c37074f88ff1dfbbfdd0a73b5" serial="YP5X"/>
 	</game>
 	<game name="I Spy - Fun House (USA)" id="1391" cloneofid="1983">
 		<description>I Spy - Fun House (USA)</description>
@@ -11050,6 +11058,10 @@
 	<game name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl)" id="1983">
 		<description>I Spy - Fun House (Europe) (En,Fr,De,It,Nl)</description>
 		<rom name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl).nds" size="33554432" crc="30c091bc" md5="11cfc4c5cd73a18516556c87868f1d17" sha1="ec5e25f90b9cb20427f1c9ab0ee451847a46b4f2" serial="YP5X"/>
+	</game>
+	<game name="I Spy - Fun House (Europe) (En,Ru) (Beta)" id="z056" cloneofid="1983">
+		<description>I Spy - Fun House (Europe) (En,Ru) (Beta)</description>
+		<rom name="I Spy - Fun House (Europe) (En,Ru) (Beta).nds" size="67108864" crc="c046e007" md5="ca5f89627022055f167482efa16ac84c" sha1="72d0c12a7022fe9f036939ca5721b74ca76234b2" sha256="7a5c3c484d256f3a00f756c31077b071f5f5ef0c37074f88ff1dfbbfdd0a73b5" serial="YP5X"/>
 	</game>
 	<game name="I Spy - Game Pack (USA)" id="6246">
 		<description>I Spy - Game Pack (USA)</description>
@@ -11081,6 +11093,14 @@
 		<description>iCarly (Australia) (NDSi Enhanced)</description>
 		<rom name="iCarly (Australia) (NDSi Enhanced).nds" size="67108864" crc="2b2366ac" md5="5d83a9ee68d51772e37f495010bde41f" sha1="4ceacdb079188a77ae7d4dc9f874a11b3aa180bf" sha256="29a09bec88ed88d7aae508aed5915c78ef3562db337387d879487f5b15093c56" serial="VICU"/>
 	</game>
+	<game name="iCarly - Groovy Foodie! (Europe)" id="6091">
+		<description>iCarly - Groovy Foodie! (Europe)</description>
+		<rom name="iCarly - Groovy Foodie! (Europe).nds" size="33554432" crc="a8de520f" md5="31200b82c47e6ff2efcda0ec068da3fa" sha1="8d8bb8c0072cb18ea2243586cd5e8270898a1f11" serial="TCLP"/>
+	</game>
+	<game name="iCarly - Groovy Foodie! (USA)" id="6121" cloneofid="6091">
+		<description>iCarly - Groovy Foodie! (USA)</description>
+		<rom name="iCarly - Groovy Foodie! (USA).nds" size="33554432" crc="76f783a9" md5="a6968b6efb9f845168384f8d9b413a58" sha1="18ed005fcab84fc2241782206c71d73f4fa30563" serial="TCLE"/>
+	</game>
 	<game name="iCarly - Groovy Foodie! (USA) (Beta 1) (2012-01-13)" id="z635" cloneofid="6091">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -11110,14 +11130,6 @@
 		<category>Preproduction</category>
 		<description>iCarly - Groovy Foodie! (USA) (Beta 5)</description>
 		<rom name="iCarly - Groovy Foodie! (USA) (Beta 5).nds" size="33554432" crc="4b23092a" md5="5c7dbc1516dff861d779b69bbf71dc56" sha1="630759a18add1a2a058e8d34cd76103bd409693b" sha256="d769b4d6f2011d5c2af4beb1c2ae7364ee0aa9e228f43610b68ae882a333f291" serial="TCLE"/>
-	</game>
-	<game name="iCarly - Groovy Foodie! (Europe)" id="6091">
-		<description>iCarly - Groovy Foodie! (Europe)</description>
-		<rom name="iCarly - Groovy Foodie! (Europe).nds" size="33554432" crc="a8de520f" md5="31200b82c47e6ff2efcda0ec068da3fa" sha1="8d8bb8c0072cb18ea2243586cd5e8270898a1f11" serial="TCLP"/>
-	</game>
-	<game name="iCarly - Groovy Foodie! (USA)" id="6121" cloneofid="6091">
-		<description>iCarly - Groovy Foodie! (USA)</description>
-		<rom name="iCarly - Groovy Foodie! (USA).nds" size="33554432" crc="76f783a9" md5="a6968b6efb9f845168384f8d9b413a58" sha1="18ed005fcab84fc2241782206c71d73f4fa30563" serial="TCLE"/>
 	</game>
 	<game name="iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced)" id="5339">
 		<description>iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced)</description>
@@ -11331,13 +11343,13 @@
 		<description>Imagine - Fashion Designer - World Tour (USA) (En,Fr,Es) (NDSi Enhanced)</description>
 		<rom name="Imagine - Fashion Designer - World Tour (USA) (En,Fr,Es) (NDSi Enhanced).nds" size="134217728" crc="2c96171f" md5="4bcce0921648d17392c489e8cb181cea" sha1="82b1bb452bcc58b4a5f1c3a291aa7f6f1db7b720" serial="VFSE"/>
 	</game>
-	<game name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="2721">
-		<description>Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="134217728" crc="df27bbde" md5="0bd42491db51a9bcfd5da6deb841c093" sha1="9a825910dd47e7a12c81d02ac6637dd22c3cf8eb" serial="CFDP"/>
-	</game>
 	<game name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Beta)" id="z240" cloneofid="2721">
 		<description>Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Beta)</description>
 		<rom name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Beta).nds" size="134217728" crc="583dc8b9" md5="2ab813492be79fd912de5affe02e7229" sha1="e4638c0e4266e1d6cf54bedf6fc600e90140b98b" serial="CFDP"/>
+	</game>
+	<game name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="2721">
+		<description>Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<rom name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="134217728" crc="df27bbde" md5="0bd42491db51a9bcfd5da6deb841c093" sha1="9a825910dd47e7a12c81d02ac6637dd22c3cf8eb" serial="CFDP"/>
 	</game>
 	<game name="Imagine - Fashion Paradise (Europe) (En,Fr,De,Es,It,Pt) (NDSi Enhanced)" id="5395">
 		<description>Imagine - Fashion Paradise (Europe) (En,Fr,De,Es,It,Pt) (NDSi Enhanced)</description>
@@ -11371,10 +11383,6 @@
 		<description>Imagine - Gymnast (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
 		<rom name="Imagine - Gymnast (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="2ee4a608" md5="757b7ef5ffcef31a9de436c23ff0ab48" sha1="c198700595cc9f42d2f037c6b8e3a755b7c77959" status="verified" serial="CERP"/>
 	</game>
-	<game name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="5579">
-		<description>Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
-		<rom name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="c422a71e" md5="aeac870cb77f9d41b9ce154a2cbe7fc8" sha1="6e32bc01518ea3a87d9a7220497d47974da03ef5" serial="A4CX"/>
-	</game>
 	<game name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It)" id="1406" cloneofid="5579">
 		<description>Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="2d5daf22" md5="eca70f6fb1001be1031069eb2a0fb909" sha1="18e67525ca3c45a56f51ae0d2485c95cd16c3b97" sha256="a23069d0257064a28823920036577d4fe804312eec7f92b372be8da67d615ce3" status="verified" serial="A4CP"/>
@@ -11382,6 +11390,10 @@
 	<game name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl)" id="1854" cloneofid="5579">
 		<description>Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="27d7ec26" md5="b3b42305959793477a89bc23b293b7ad" sha1="a2b72be9b9acc7455f230b5d4b1d58149fed81d3" serial="A4CX"/>
+	</game>
+	<game name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="5579">
+		<description>Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
+		<rom name="Imagine - Happy Cooking (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="c422a71e" md5="aeac870cb77f9d41b9ce154a2cbe7fc8" sha1="6e32bc01518ea3a87d9a7220497d47974da03ef5" serial="A4CX"/>
 	</game>
 	<game name="Imagine - Ice Champions (USA) (En,Fr,Es)" id="3832">
 		<description>Imagine - Ice Champions (USA) (En,Fr,Es)</description>
@@ -11431,13 +11443,13 @@
 		<description>Imagine - My Restaurant (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Imagine - My Restaurant (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="0b4bbc3c" md5="2b00e5009a3750007e25a3322106270f" sha1="ab22321b565695b83c359c7df7cd81cbbd6b034b" serial="CIFP"/>
 	</game>
-	<game name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)" id="4210">
-		<description>Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="8b729e95" md5="420c5e32ec0ee68f42f4f80438463689" sha1="04cf5cde1cff24114693cd0127b8024b87e3ddf8" serial="BPMP"/>
-	</game>
 	<game name="Imagine - Party Planner (USA) (En,Fr,De,Es,It,Nl)" id="5063" cloneofid="4210">
 		<description>Imagine - Party Planner (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Imagine - Party Planner (USA) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="c113a916" md5="a803e54798911356e79792f418631f4e" sha1="c7614c73a5d70515b874b706b00141970369bce6" serial="BPME"/>
+	</game>
+	<game name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)" id="4210">
+		<description>Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="8b729e95" md5="420c5e32ec0ee68f42f4f80438463689" sha1="04cf5cde1cff24114693cd0127b8024b87e3ddf8" serial="BPMP"/>
 	</game>
 	<game name="Imagine - Pet Vet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="1495">
 		<description>Imagine - Pet Vet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -11539,13 +11551,13 @@
 		<description>Inazuma Eleven (Europe)</description>
 		<rom name="Inazuma Eleven (Europe).nds" size="268435456" crc="b567a6c4" md5="96fadb9a7113c4ee1680cd3717f79549" sha1="a6f9fbe83a8b473ada4bf68163f629af3df5343b" status="verified" serial="YEEP"/>
 	</game>
-	<game name="Inazuma Eleven (Japan) (Rev 1)" id="3715" cloneofid="5535">
-		<description>Inazuma Eleven (Japan) (Rev 1)</description>
-		<rom name="Inazuma Eleven (Japan) (Rev 1).nds" size="134217728" crc="cd7a1d56" md5="946d556f9016c1e981b03f084a792e35" sha1="cf5c2ad920e1a167185977d104dc9a532cfc0d71" status="verified" serial="YEEJ"/>
-	</game>
 	<game name="Inazuma Eleven (Japan)" id="2583" cloneofid="5535">
 		<description>Inazuma Eleven (Japan)</description>
 		<rom name="Inazuma Eleven (Japan).nds" size="134217728" crc="28bd18d9" md5="40f3902c8c342aa3e535c50fa2c1c804" sha1="c786032ee9fe2db8f02761ebecfde85d25c16279" status="verified" serial="YEEJ"/>
+	</game>
+	<game name="Inazuma Eleven (Japan) (Rev 1)" id="3715" cloneofid="5535">
+		<description>Inazuma Eleven (Japan) (Rev 1)</description>
+		<rom name="Inazuma Eleven (Japan) (Rev 1).nds" size="134217728" crc="cd7a1d56" md5="946d556f9016c1e981b03f084a792e35" sha1="cf5c2ad920e1a167185977d104dc9a532cfc0d71" status="verified" serial="YEEJ"/>
 	</game>
 	<game name="Inazuma Eleven 2 - Blizzard (Europe)" id="6009">
 		<description>Inazuma Eleven 2 - Blizzard (Europe)</description>
@@ -11667,13 +11679,13 @@
 		<description>Indosik Dunoe Suhak (Korea)</description>
 		<rom name="Indosik Dunoe Suhak (Korea).nds" size="8388608" crc="8069414c" md5="61846a9850e2361932246af3f03ff766" sha1="e07c8f834e8ea4bff87986f4e9aa46b0a39f70dc" serial="YDZK"/>
 	</game>
-	<game name="Infinite Space (Europe)" id="5132">
-		<description>Infinite Space (Europe)</description>
-		<rom name="Infinite Space (Europe).nds" size="268435456" crc="0f31dbc5" md5="a277b09b3524829a54b35d3620b8ec0b" sha1="90b4db4aad931f0fc2f4370fabd567e4b6d56d15" sha256="9e298984763e4dc0110a68873ac7c48a11501ee918a8ae9229d1006b182eb445" status="verified" serial="C6CP"/>
-	</game>
 	<game name="Infinite Space (USA)" id="4804" cloneofid="5132">
 		<description>Infinite Space (USA)</description>
 		<rom name="Infinite Space (USA).nds" size="268435456" crc="0fdc3935" md5="a9522e823c26696baa87d35cfcb6aa02" sha1="c3a42543ec23e87c83d9d1416028c172bc58eb70" serial="C6CE"/>
+	</game>
+	<game name="Infinite Space (Europe)" id="5132">
+		<description>Infinite Space (Europe)</description>
+		<rom name="Infinite Space (Europe).nds" size="268435456" crc="0f31dbc5" md5="a277b09b3524829a54b35d3620b8ec0b" sha1="90b4db4aad931f0fc2f4370fabd567e4b6d56d15" sha256="9e298984763e4dc0110a68873ac7c48a11501ee918a8ae9229d1006b182eb445" status="verified" serial="C6CP"/>
 	</game>
 	<game name="Inkheart (USA) (En,Fr,De,Es,It)" id="3275" cloneofid="3561">
 		<description>Inkheart (USA) (En,Fr,De,Es,It)</description>
@@ -11974,13 +11986,13 @@
 		<description>James Patterson Women's Murder Club - Games of Passion (USA) (En,Fr) (NDSi Enhanced)</description>
 		<rom name="James Patterson Women's Murder Club - Games of Passion (USA) (En,Fr) (NDSi Enhanced).nds" size="33554432" crc="790b71e8" md5="d1123365b5d931c46a52587ef9b36e8e" sha1="8b42c9466ad0574ec232fac9544044672b526fc3" serial="VMCE"/>
 	</game>
-	<game name="James Pond - Codename Robocod (USA)" id="1930" cloneofid="0327">
-		<description>James Pond - Codename Robocod (USA)</description>
-		<rom name="James Pond - Codename Robocod (USA).nds" size="8388608" crc="0cbee0ad" md5="f3b3b1550ca202ecfe1fa7e09151f7bb" sha1="1970457a0cba5721c495cfb4358cfe5bdd0deda7" serial="AJPE"/>
-	</game>
 	<game name="James Pond - Codename Robocod (Europe) (En,Fr,De,Es,It)" id="0327">
 		<description>James Pond - Codename Robocod (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="James Pond - Codename Robocod (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="199f0b0a" md5="86fc2ede85a4749ff4a00ba8fe6a640f" sha1="a72cb33d53fba1d51eae25eea9c60d8e90f04713" sha256="f9660e1183c55248751d354415f9a3ba5ac7a6b1eb5274cb691f8e500970628c" status="verified" serial="AJPP"/>
+	</game>
+	<game name="James Pond - Codename Robocod (USA)" id="1930" cloneofid="0327">
+		<description>James Pond - Codename Robocod (USA)</description>
+		<rom name="James Pond - Codename Robocod (USA).nds" size="8388608" crc="0cbee0ad" md5="f3b3b1550ca202ecfe1fa7e09151f7bb" sha1="1970457a0cba5721c495cfb4358cfe5bdd0deda7" serial="AJPE"/>
 	</game>
 	<game name="Jan Sangoku Musou (Japan)" id="0578">
 		<description>Jan Sangoku Musou (Japan)</description>

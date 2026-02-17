@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10902) (2026-02-15 19-34-37)</description>
-		<version>2026-02-15 19-34-37</version>
-		<date>2026-02-15 19-34-37</date>
+		<description>Sony - PlayStation - Discs (10903) (2026-02-17 21-14-11)</description>
+		<version>2026-02-17 21-14-11</version>
+		<date>2026-02-17 21-14-11</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -51009,11 +51009,11 @@
 		<rom name="FIFA - Road to World Cup 98 (Japan) (Demo).cue" size="108" crc="b10f19ea" md5="97e75965ee113f03c1ef757b6848a6e1" sha1="024c8f51788b414cc779b698f86253f474d3d5f3"/>
 		<rom name="FIFA - Road to World Cup 98 (Japan) (Demo).bin" size="478855440" crc="d1fa1dab" md5="0e8fe31d80f313336fe0d23530111e3d" sha1="1616b1884293ad3da65b162bc694cec8cbc6619e"/>
 	</game>
-	<game name="Inuyasha - Sengoku Otogi Gassen (Japan)">
+	<game name="Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou)">
 		<category>Games</category>
-		<description>Inuyasha - Sengoku Otogi Gassen (Japan)</description>
-		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).cue" size="105" crc="d1faa010" md5="366427780549d29b8ee10dd13ca31eb0" sha1="3fe7ef420036aef783c3d0c2504f7d3df1f913c6"/>
-		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).bin" size="667448208" crc="4f4a1a02" md5="170a20d9ea2cb82d7561835ccad0985f" sha1="ef46e7d41f944f64f60cc40270822c952b05b024"/>
+		<description>Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou)</description>
+		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou).cue" size="135" crc="8a196d3d" md5="13c9c147f132c4f43e3dde302c751e92" sha1="a1a414f05bb0018792879ed01f93744a4a95612c"/>
+		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou).bin" size="667448208" crc="4f4a1a02" md5="170a20d9ea2cb82d7561835ccad0985f" sha1="ef46e7d41f944f64f60cc40270822c952b05b024"/>
 	</game>
 	<game name="Saishuu Densha (Japan)">
 		<category>Games</category>
@@ -84875,15 +84875,15 @@
 		<rom name="Euro Demo 78 (Europe) (Track 2).bin" size="44742096" crc="305d867b" md5="f003dc949c3adb32623297f25e8e65a1" sha1="27de9f1b4dbb893ee994c6fef00c8ff29eeca325"/>
 		<rom name="Euro Demo 78 (Europe) (Track 3).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
 	</game>
-	<game name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo)">
+	<game name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo)">
 		<category>Demos</category>
-		<description>Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo)</description>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo).cue" size="842" crc="795b119f" md5="0634fb0f78061fc7cdf1aaead1fd39ba" sha1="8d2ea00f005e3c98822f86e9cd4c75b9d0e7f089"/>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo) (Track 1).bin" size="172469808" crc="3ee88a48" md5="7fcb1fdfd6829feb3a5264bf26371c8f" sha1="27b85d4fce54bc9b222f670828a99bdc8176c0e8"/>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo) (Track 2).bin" size="15391488" crc="f4ab5204" md5="22c2ba3416913e9c087ce2db5eb9f4ce" sha1="2c07aef3d721a930b04cfecd7832a510a22103cb"/>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo) (Track 3).bin" size="11207280" crc="29615179" md5="7f412388d49d024c01450ddc2f5913fe" sha1="73085487b0b3de4e6c4fea52fbf7f32988591387"/>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo) (Track 4).bin" size="20427120" crc="635030a8" md5="629af0743bed87e6d348ee83d93e0d04" sha1="1c0e8bbb4a4fabd2a1c4282dca0be5053ee14a85"/>
-		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo) (Track 5).bin" size="32281200" crc="f9936e07" md5="cecf1db7cf5a258ae34c2ae23bf0d546" sha1="7faa7db6161ba8139ab5c7c51722b0685438df62"/>
+		<description>Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo)</description>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo).cue" size="842" crc="c816b1c1" md5="7d34fd59e8d5cda643d5666e9245038a" sha1="ee49991789bbf447ed4162ca4b4a3a0476d97e49"/>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo) (Track 1).bin" size="172469808" crc="3ee88a48" md5="7fcb1fdfd6829feb3a5264bf26371c8f" sha1="27b85d4fce54bc9b222f670828a99bdc8176c0e8"/>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo) (Track 2).bin" size="15391488" crc="f4ab5204" md5="22c2ba3416913e9c087ce2db5eb9f4ce" sha1="2c07aef3d721a930b04cfecd7832a510a22103cb"/>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo) (Track 3).bin" size="11207280" crc="29615179" md5="7f412388d49d024c01450ddc2f5913fe" sha1="73085487b0b3de4e6c4fea52fbf7f32988591387"/>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo) (Track 4).bin" size="20427120" crc="635030a8" md5="629af0743bed87e6d348ee83d93e0d04" sha1="1c0e8bbb4a4fabd2a1c4282dca0be5053ee14a85"/>
+		<rom name="Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo) (Track 5).bin" size="32281200" crc="f9936e07" md5="cecf1db7cf5a258ae34c2ae23bf0d546" sha1="7faa7db6161ba8139ab5c7c51722b0685438df62"/>
 	</game>
 	<game name="Euro Demo 51 (France)">
 		<category>Demos</category>
@@ -103752,5 +103752,11 @@
 		<description>Kick Off World (Greece) (Demo)</description>
 		<rom name="Kick Off World (Greece) (Demo).cue" size="96" crc="6a5d34e3" md5="db1ba483cbe248891855c4ea235d0373" sha1="5b8d860caf25dba53a595595425988db0e614b97"/>
 		<rom name="Kick Off World (Greece) (Demo).bin" size="204238272" crc="7c790b18" md5="ab53d963b49af0923744fc6a8da7e6dd" sha1="ed823e3d9b28610751ade0c864fb9404ebf3d387"/>
+	</game>
+	<game name="Inuyasha - Sengoku Otogi Gassen (Japan)">
+		<category>Games</category>
+		<description>Inuyasha - Sengoku Otogi Gassen (Japan)</description>
+		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).cue" size="105" crc="d1faa010" md5="366427780549d29b8ee10dd13ca31eb0" sha1="3fe7ef420036aef783c3d0c2504f7d3df1f913c6"/>
+		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).bin" size="667448208" crc="e524f855" md5="a4abff5baf1b398fd1bfed919d8b27aa" sha1="b18043fdd5ff05d14bf05e98b39a3fb1d717fe78"/>
 	</game>
 </datafile>

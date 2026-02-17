@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns</name>
-		<description>Fujitsu - FM-Towns - Discs (947) (2026-02-09 16-15-00)</description>
-		<version>2026-02-09 16-15-00</version>
-		<date>2026-02-09 16-15-00</date>
+		<description>Fujitsu - FM-Towns - Discs (947) (2026-02-17 21-06-26)</description>
+		<version>2026-02-17 21-06-26</version>
+		<date>2026-02-17 21-06-26</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -14409,12 +14409,12 @@
 		<rom name="ARS Art RentaLease - Kaiga Fukugou Kensaku System (Japan).cue" size="123" crc="946763eb" md5="e8c3e9c34830058f2fd28c4ce693ef1e" sha1="d3305af1ebcf30197495467b29f49b41cbd4c40f"/>
 		<rom name="ARS Art RentaLease - Kaiga Fukugou Kensaku System (Japan).bin" size="391255200" crc="51346ea2" md5="106374d7f171bcd4ddaba97741710b3b" sha1="d62dc353a817b41f75f68b14a4c37576da8488cf"/>
 	</game>
-	<game name="Blue - Will To Power (Japan)">
+	<game name="Blue - Will to Power (Japan)">
 		<category>Games</category>
-		<description>Blue - Will To Power (Japan)</description>
-		<rom name="Blue - Will To Power (Japan).cue" size="249" crc="b882f7ac" md5="d65951c748d196319038772268d160e0" sha1="fa83b41749c85a7d44547d698019c7a2b14c41db"/>
-		<rom name="Blue - Will To Power (Japan) (Track 1).bin" size="10231200" crc="1b0cb8af" md5="e6acb6007aa245a82dfa9ca24d854da6" sha1="63dc306acc82589db97bf3fe4223858d140b83c5"/>
-		<rom name="Blue - Will To Power (Japan) (Track 2).bin" size="19051200" crc="ea2ac438" md5="06480349e97cb193b2f0241c36c3b170" sha1="354ef352b4f818c46a5c5b33662bbdb39dcce4ad"/>
+		<description>Blue - Will to Power (Japan)</description>
+		<rom name="Blue - Will to Power (Japan).cue" size="249" crc="9c3a7b27" md5="a6e2e88024c53e809664437eb16ecfae" sha1="c4ea73efdadb5cb1d957c21e7b28722165cda215"/>
+		<rom name="Blue - Will to Power (Japan) (Track 1).bin" size="10231200" crc="1b0cb8af" md5="e6acb6007aa245a82dfa9ca24d854da6" sha1="63dc306acc82589db97bf3fe4223858d140b83c5"/>
+		<rom name="Blue - Will to Power (Japan) (Track 2).bin" size="19051200" crc="ea2ac438" md5="06480349e97cb193b2f0241c36c3b170" sha1="354ef352b4f818c46a5c5b33662bbdb39dcce4ad"/>
 	</game>
 	<game name="Image Power (Japan)">
 		<category>Applications</category>

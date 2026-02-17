@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Palm</name>
-		<description>Palm - Discs (158) (2026-02-15 14-57-23)</description>
-		<version>2026-02-15 14-57-23</version>
-		<date>2026-02-15 14-57-23</date>
+		<description>Palm - Discs (158) (2026-02-17 21-19-19)</description>
+		<version>2026-02-17 21-19-19</version>
+		<date>2026-02-17 21-19-19</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -268,11 +268,11 @@
 		<rom name="Casino Games (USA).cue" size="84" crc="0b8b24f4" md5="9bc2a13079a4bb90d41d1384125adc12" sha1="c0c9155c9711b85aae9c8a2d0fdc2a4320c319b7"/>
 		<rom name="Casino Games (USA).bin" size="6138720" crc="290fb696" md5="c30cc6a799a105318131dc76880bb1fb" sha1="c9fd50dd1baa7b0bed45795ea880c319b9708cd0"/>
 	</game>
-	<game name="Word Games To Go (USA)">
+	<game name="Word Games to Go (USA)">
 		<category>Games</category>
-		<description>Word Games To Go (USA)</description>
-		<rom name="Word Games To Go (USA).cue" size="103" crc="2c999044" md5="b8689e77fc9168799c66fae8e18ae909" sha1="8a0478d4800f739e0f1136b150e6859c58f76d6a"/>
-		<rom name="Word Games To Go (USA).bin" size="7589904" crc="aeafd800" md5="1cb1076323b49f3b138cc9416d660c85" sha1="887922def88dcee824e26ee40cd0b8292882f3d9"/>
+		<description>Word Games to Go (USA)</description>
+		<rom name="Word Games to Go (USA).cue" size="103" crc="16878b1c" md5="02208808149a7ed781d5c9c3b4bdb775" sha1="7a5a492ca3344b35384a32d86906b4bb64128ea6"/>
+		<rom name="Word Games to Go (USA).bin" size="7589904" crc="aeafd800" md5="1cb1076323b49f3b138cc9416d660c85" sha1="887922def88dcee824e26ee40cd0b8292882f3d9"/>
 	</game>
 	<game name="Street Maps &amp; Vacation Planner (USA)">
 		<category>Applications</category>

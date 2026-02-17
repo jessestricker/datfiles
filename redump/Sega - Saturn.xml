@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2413) (2026-02-09 14-23-43)</description>
-		<version>2026-02-09 14-23-43</version>
-		<date>2026-02-09 14-23-43</date>
+		<description>Sega - Saturn - Discs (2413) (2026-02-17 00-38-15)</description>
+		<version>2026-02-17 00-38-15</version>
+		<date>2026-02-17 00-38-15</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2393,13 +2393,13 @@
 		<rom name="Shin Seiki Evangelion (Japan) (Track 4).bin" size="27031536" crc="2878577a" md5="a20631c2bbbe14e34d62a5ece4a3df55" sha1="9b679fb7d503e6fefee5ec63fe46899279a3a76a"/>
 		<rom name="Shin Seiki Evangelion (Japan) (Track 5).bin" size="3325728" crc="d4508eb9" md5="ba4e2c180f23af483b41db8e3e973a37" sha1="a415bd949ca28695d2a798c97e82d13352be598a"/>
 	</game>
-	<game name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan)">
+	<game name="Shin Seiki Evangelion - 2nd Impression (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan)</description>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan).cue" size="478" crc="2db1bba2" md5="7d484c0a47b2319706f856c232580518" sha1="e25c06341089621f3cfbaf917bf9bda6ff47ac44"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan) (Track 3).bin" size="1312416" crc="42e82508" md5="34393ec8a7e531b5b7ec786b505ad8cf" sha1="8427f9433f1a80b734ba5556dda3f5c415cd9cb8"/>
+		<description>Shin Seiki Evangelion - 2nd Impression (Japan)</description>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan).cue" size="430" crc="e29c4475" md5="4f47f3079629212646cf248185434641" sha1="b1dcca03087a43d68f1baa56a8b9f9f4405d31a6"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Track 3).bin" size="1312416" crc="42e82508" md5="34393ec8a7e531b5b7ec786b505ad8cf" sha1="8427f9433f1a80b734ba5556dda3f5c415cd9cb8"/>
 	</game>
 	<game name="Casper (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -7647,13 +7647,13 @@
 		<rom name="Rampo (Japan) (Disc 2) (Track 1).bin" size="648326448" crc="6a8e633e" md5="97c30fbd5ca2b946ad4c8a02186cb756" sha1="9d76d625128ae722fd8e3ce477eaa9f292bf2ef9"/>
 		<rom name="Rampo (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
-	<game name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.)">
+	<game name="Shin Seiki Evangelion - 2nd Impression (Japan) (Alt)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.)</description>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.).cue" size="481" crc="27aa9a2b" md5="f8cd6446ab4af3b5a8ab5ae4290b20f3" sha1="be6a8c434dee508c15899774f782915fe0ba0dbc"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
-		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.) (Track 3).bin" size="1314768" crc="73da8cbb" md5="b9b739cdd02009f1ae616b8346e11155" sha1="2c5c8479cfec34e133d5b72f0fa7bc6fb31f0020"/>
+		<description>Shin Seiki Evangelion - 2nd Impression (Japan) (Alt)</description>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Alt).cue" size="448" crc="1d09ca54" md5="fdb99007c40b41e0ae648406a269d360" sha1="2059e31abc9b0fde425092d4000e87276c3fb889"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Alt) (Track 1).bin" size="81052272" crc="6f800b25" md5="0fe3ac1bc9f62ff8501376f6e8ece82f" sha1="0ab577e80805f69525ab423a1840e662a2605cf5"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Alt) (Track 2).bin" size="415367904" crc="a08d2b19" md5="1d200391c7133d1628c5802eb16bafc4" sha1="841eb8b0a76a9181dd8801c7bd9d78a79db9939c"/>
+		<rom name="Shin Seiki Evangelion - 2nd Impression (Japan) (Alt) (Track 3).bin" size="1314768" crc="73da8cbb" md5="b9b739cdd02009f1ae616b8346e11155" sha1="2c5c8479cfec34e133d5b72f0fa7bc6fb31f0020"/>
 	</game>
 	<game name="Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)">
 		<category>Games</category>
@@ -10630,44 +10630,44 @@
 		<rom name="Virtua Fighter Kids (Japan) (Track 19).bin" size="1613472" crc="5f44dcd3" md5="59eb8c77a82a420693f56d51c5b768e2" sha1="d1aa4b8ecfd09b5153606a75d87f7e7466496045"/>
 		<rom name="Virtua Fighter Kids (Japan) (Track 20).bin" size="2436672" crc="2535dcd0" md5="df8be77abf447fd951f800df6747d22b" sha1="8648eb252f669c04ea356d3a5d2eb99d2329b35d"/>
 	</game>
-	<game name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)">
+	<game name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M)">
 		<category>Games</category>
-		<description>Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)</description>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M).cue" size="4697" crc="7a5eebee" md5="09ae7bc7942291fc5d44351d0e2df777" sha1="ee718cca2c707064d1a26707dbaa39c41a045160"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 01).bin" size="61316640" crc="65c7fc1e" md5="14992450395f67b251023821a4d20480" sha1="2475bfb03eeaabdfcce93bc010d7c395efdf8dce"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 02).bin" size="14055552" crc="cb6f4aed" md5="382da9ab71f32a26ffb63bfd67ba82af" sha1="b42da2bbf9f2d34c8ba0aff820e3c42d640d2356"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 03).bin" size="16513392" crc="ea8b519c" md5="4d51aa18f65610518f84cabfc8117877" sha1="d005df6f4b576b90f03ec4745efa2d61f64198d8"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 04).bin" size="14227248" crc="506f1381" md5="9ca2f72fe1ad334fb64a830b67cb1472" sha1="722013d4abbcea3609a7106aea77f5008b538d32"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 05).bin" size="14286048" crc="7fc06879" md5="51d11e1c21793451f0204b761bd6a779" sha1="4a3516c7b965c3e5d000cda4e5221fda01b7ee8d"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 06).bin" size="13175904" crc="40ea7554" md5="d125379d10d2283413048580932f1d84" sha1="5d36fae1608a6166a57834975fa087ddc179baac"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 07).bin" size="17397744" crc="bfcc9bd1" md5="65bfb80f49bae4bc0cfd5870a3a45436" sha1="a2cf2eb8e5b39ba14eb5f3a431da716b6e576809"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 08).bin" size="16301712" crc="8d08edb7" md5="b867a51f0d164c80453c8ec255576463" sha1="45bcf2a23d2e25c9a6fa59aa61bb4441ff50834d"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 09).bin" size="16153536" crc="fd03c40d" md5="6d8b2c921774e00373ca3a6b4632c89d" sha1="ae7b95790faf4fa7e699dad99e2c1d027881c74e"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 10).bin" size="16710960" crc="353aeab6" md5="8d5333c32c5e398c999eb7b98fd9fe9d" sha1="ac31a676fd627db95b194650a44f96d7133c6def"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 11).bin" size="13269984" crc="80742a76" md5="6a9b7e088811a9700b0401a6c0dbe90d" sha1="da19afb7efbb78a71318c6dc007a45ecdbdabce7"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 12).bin" size="16478112" crc="e51c3406" md5="45f52e8cb29b14b03d666052984867fd" sha1="37a2498c02430d1447e6c126549968d203cfea92"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 13).bin" size="13286448" crc="6e1dccfb" md5="2db6719dea7ef32350a88750375da395" sha1="b7e6e2feaf8126de5fd541322508fb8f760542bc"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 14).bin" size="5990544" crc="f7ce49f8" md5="1ce62cf40b2d413f74202e985c217f8d" sha1="cbe0fd4bb1125ff62ec8ee25f0a903245ad58916"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 15).bin" size="1058400" crc="29049ced" md5="073b965cba2db64e7c97896704f52112" sha1="476a09220de94d2e3ebd58093f764620b36928f8"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 16).bin" size="2991744" crc="5975a9ba" md5="4409cc24f5efa25932eae4aa993b9685" sha1="caa81589419232b030942598d2613c4858c47501"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 17).bin" size="8594208" crc="3a527cdc" md5="f1ff3b24999473349a565f964a971854" sha1="e87e6bb413a971b4388cbcab1c6f464c8f3cc741"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 18).bin" size="1418256" crc="5fdb7603" md5="9a9d6a14568f4264cf5220f2b86db539" sha1="b822bf7e12843610fbe6d36ca92e2332f732bddb"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 19).bin" size="1613472" crc="a5c8d588" md5="4684a08e998b7c25630e134463bf170d" sha1="a5e1de9821a01eb6b6b6127178818d3ec809e576"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 20).bin" size="2439024" crc="33a8a79d" md5="c21fe29ca8e8a1a0645595c60ffdb54a" sha1="a0160ce06c2d88b9365e58a13f5667490cff5745"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 21).bin" size="32062464" crc="aeb91d39" md5="2d9fd5ac0f98a7ec5d8b0e28faf3d471" sha1="c0cfff8a94925871bfc9f61128c5b56c1ed3cf8f"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 22).bin" size="27135024" crc="9eeff0e8" md5="afd1b167e35dd045ca1474f79d6c9db2" sha1="1e3fd71c9caf4b459b5d165b9b75aa543a95ad15"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 23).bin" size="31827264" crc="6d5f4403" md5="bd4bdfa98de0fbecc42efe8fe657c1db" sha1="86e53e3a7d828726d6416057b7bc8e1cd95c7f53"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 24).bin" size="30714768" crc="a2fac98b" md5="43fc4f09ed0ea4afbd4efc919957243b" sha1="56b4b2c62d4ee244f8b64cc4938116f51ce28d07"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 25).bin" size="27172656" crc="81c096a5" md5="49456b1a2b3554404ed12c1bb8e85c91" sha1="793c8b87e49454d6bff95b2338fdb8b11cfec696"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 26).bin" size="30115008" crc="6c688435" md5="b29613081ee3667efebeb99ca6a82471" sha1="f09fd5a4e3571916bd391bf1fd709d0dc541e04a"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 27).bin" size="38368176" crc="058df248" md5="f2fcda5455f6669e809027c1a169dcf8" sha1="d079498ae8e25dcf83d8a94af27c1993d17648dc"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 28).bin" size="30329040" crc="96727f12" md5="f6ade7e25f561cdd4dd146a34b505297" sha1="aaedb6c77611b97182fcd73d5fab069f68e1d12f"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 29).bin" size="24493728" crc="5487360e" md5="556eb479dd5f8cbfcdb50279500d8b22" sha1="c9b69a069a233b5eb665cb9f223b00be37cf765e"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 30).bin" size="25415712" crc="17c7c696" md5="0a7a5b5ed55c4ad9e60ead43881156c5" sha1="964f8e517f50d8862e4f45faa34a1373f2a21910"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 31).bin" size="26431776" crc="637b0438" md5="621a7d71e80a6bbdde1dea8ffba8c246" sha1="59dd6fe9be5cc4eacdfb9d7d5d6a8347d3c2cda1"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 32).bin" size="27925296" crc="5d803015" md5="9961b7a22872a1aa4ecabf68f9d30cc5" sha1="11b0b1b0d988b9ea3a7f227b2c632abd1499891e"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 33).bin" size="14565936" crc="4ef1b944" md5="f95c95f5585e6381dbda3c6ab8395661" sha1="cb2725be4964bc7a5136073ec6ab72ec8bdf8138"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) (Track 34).bin" size="13632192" crc="900997ea" md5="d65ef087fc3dd037b7c1907badc0f6c9" sha1="2383a226a4d7ad8c45d746f7e93efd74786094e4"/>
+		<description>Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M)</description>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M).cue" size="4867" crc="8d46c299" md5="9c98a3705872176a0f9af92f18877eed" sha1="e63b41a9e589c687779752eb211b521eeb7bf73e"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 01).bin" size="61316640" crc="65c7fc1e" md5="14992450395f67b251023821a4d20480" sha1="2475bfb03eeaabdfcce93bc010d7c395efdf8dce"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 02).bin" size="14055552" crc="cb6f4aed" md5="382da9ab71f32a26ffb63bfd67ba82af" sha1="b42da2bbf9f2d34c8ba0aff820e3c42d640d2356"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 03).bin" size="16513392" crc="ea8b519c" md5="4d51aa18f65610518f84cabfc8117877" sha1="d005df6f4b576b90f03ec4745efa2d61f64198d8"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 04).bin" size="14227248" crc="506f1381" md5="9ca2f72fe1ad334fb64a830b67cb1472" sha1="722013d4abbcea3609a7106aea77f5008b538d32"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 05).bin" size="14286048" crc="7fc06879" md5="51d11e1c21793451f0204b761bd6a779" sha1="4a3516c7b965c3e5d000cda4e5221fda01b7ee8d"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 06).bin" size="13175904" crc="40ea7554" md5="d125379d10d2283413048580932f1d84" sha1="5d36fae1608a6166a57834975fa087ddc179baac"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 07).bin" size="17397744" crc="bfcc9bd1" md5="65bfb80f49bae4bc0cfd5870a3a45436" sha1="a2cf2eb8e5b39ba14eb5f3a431da716b6e576809"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 08).bin" size="16301712" crc="8d08edb7" md5="b867a51f0d164c80453c8ec255576463" sha1="45bcf2a23d2e25c9a6fa59aa61bb4441ff50834d"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 09).bin" size="16153536" crc="fd03c40d" md5="6d8b2c921774e00373ca3a6b4632c89d" sha1="ae7b95790faf4fa7e699dad99e2c1d027881c74e"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 10).bin" size="16710960" crc="353aeab6" md5="8d5333c32c5e398c999eb7b98fd9fe9d" sha1="ac31a676fd627db95b194650a44f96d7133c6def"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 11).bin" size="13269984" crc="80742a76" md5="6a9b7e088811a9700b0401a6c0dbe90d" sha1="da19afb7efbb78a71318c6dc007a45ecdbdabce7"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 12).bin" size="16478112" crc="e51c3406" md5="45f52e8cb29b14b03d666052984867fd" sha1="37a2498c02430d1447e6c126549968d203cfea92"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 13).bin" size="13286448" crc="6e1dccfb" md5="2db6719dea7ef32350a88750375da395" sha1="b7e6e2feaf8126de5fd541322508fb8f760542bc"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 14).bin" size="5990544" crc="f7ce49f8" md5="1ce62cf40b2d413f74202e985c217f8d" sha1="cbe0fd4bb1125ff62ec8ee25f0a903245ad58916"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 15).bin" size="1058400" crc="29049ced" md5="073b965cba2db64e7c97896704f52112" sha1="476a09220de94d2e3ebd58093f764620b36928f8"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 16).bin" size="2991744" crc="5975a9ba" md5="4409cc24f5efa25932eae4aa993b9685" sha1="caa81589419232b030942598d2613c4858c47501"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 17).bin" size="8594208" crc="3a527cdc" md5="f1ff3b24999473349a565f964a971854" sha1="e87e6bb413a971b4388cbcab1c6f464c8f3cc741"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 18).bin" size="1418256" crc="5fdb7603" md5="9a9d6a14568f4264cf5220f2b86db539" sha1="b822bf7e12843610fbe6d36ca92e2332f732bddb"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 19).bin" size="1613472" crc="a5c8d588" md5="4684a08e998b7c25630e134463bf170d" sha1="a5e1de9821a01eb6b6b6127178818d3ec809e576"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 20).bin" size="2439024" crc="33a8a79d" md5="c21fe29ca8e8a1a0645595c60ffdb54a" sha1="a0160ce06c2d88b9365e58a13f5667490cff5745"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 21).bin" size="32062464" crc="aeb91d39" md5="2d9fd5ac0f98a7ec5d8b0e28faf3d471" sha1="c0cfff8a94925871bfc9f61128c5b56c1ed3cf8f"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 22).bin" size="27135024" crc="9eeff0e8" md5="afd1b167e35dd045ca1474f79d6c9db2" sha1="1e3fd71c9caf4b459b5d165b9b75aa543a95ad15"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 23).bin" size="31827264" crc="6d5f4403" md5="bd4bdfa98de0fbecc42efe8fe657c1db" sha1="86e53e3a7d828726d6416057b7bc8e1cd95c7f53"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 24).bin" size="30714768" crc="a2fac98b" md5="43fc4f09ed0ea4afbd4efc919957243b" sha1="56b4b2c62d4ee244f8b64cc4938116f51ce28d07"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 25).bin" size="27172656" crc="81c096a5" md5="49456b1a2b3554404ed12c1bb8e85c91" sha1="793c8b87e49454d6bff95b2338fdb8b11cfec696"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 26).bin" size="30115008" crc="6c688435" md5="b29613081ee3667efebeb99ca6a82471" sha1="f09fd5a4e3571916bd391bf1fd709d0dc541e04a"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 27).bin" size="38368176" crc="058df248" md5="f2fcda5455f6669e809027c1a169dcf8" sha1="d079498ae8e25dcf83d8a94af27c1993d17648dc"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 28).bin" size="30329040" crc="96727f12" md5="f6ade7e25f561cdd4dd146a34b505297" sha1="aaedb6c77611b97182fcd73d5fab069f68e1d12f"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 29).bin" size="24493728" crc="5487360e" md5="556eb479dd5f8cbfcdb50279500d8b22" sha1="c9b69a069a233b5eb665cb9f223b00be37cf765e"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 30).bin" size="25415712" crc="17c7c696" md5="0a7a5b5ed55c4ad9e60ead43881156c5" sha1="964f8e517f50d8862e4f45faa34a1373f2a21910"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 31).bin" size="26431776" crc="637b0438" md5="621a7d71e80a6bbdde1dea8ffba8c246" sha1="59dd6fe9be5cc4eacdfb9d7d5d6a8347d3c2cda1"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 32).bin" size="27925296" crc="5d803015" md5="9961b7a22872a1aa4ecabf68f9d30cc5" sha1="11b0b1b0d988b9ea3a7f227b2c632abd1499891e"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 33).bin" size="14565936" crc="4ef1b944" md5="f95c95f5585e6381dbda3c6ab8395661" sha1="cb2725be4964bc7a5136073ec6ab72ec8bdf8138"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M) (Track 34).bin" size="13632192" crc="900997ea" md5="d65ef087fc3dd037b7c1907badc0f6c9" sha1="2383a226a4d7ad8c45d746f7e93efd74786094e4"/>
 	</game>
 	<game name="Funky Head Boxers (Japan)">
 		<category>Games</category>
@@ -10837,44 +10837,44 @@
 		<rom name="Alien Trilogy (Japan) (Track 13).bin" size="24079776" crc="b33e1f17" md5="2d17c9b89172c367821d19d2207a1040" sha1="b15d3e69a96b627cd0e876d37066eb98f59c6c3e"/>
 		<rom name="Alien Trilogy (Japan) (Track 14).bin" size="32163600" crc="b64688a7" md5="8881a381691322f600a929ebcfa8e0bc" sha1="010d84098f6b6539a6c625a93b6b24c981685ee8"/>
 	</game>
-	<game name="Virtua Fighter 2 (Japan) (Rev B) (35C)">
+	<game name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C)">
 		<category>Games</category>
-		<description>Virtua Fighter 2 (Japan) (Rev B) (35C)</description>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C).cue" size="4527" crc="629cba45" md5="50cb1c22fd6f8c41e07498368170a52e" sha1="dddc7cbbf050a2b8f452c02b202d2fcfe2b2f91e"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 01).bin" size="61316640" crc="65c7fc1e" md5="14992450395f67b251023821a4d20480" sha1="2475bfb03eeaabdfcce93bc010d7c395efdf8dce"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 02).bin" size="14055552" crc="aa7ec59e" md5="5488aad673cae8fecfe14a2eb0d89388" sha1="d37842d7bb1007d3cc229c41b6d580056ba09978"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 03).bin" size="16513392" crc="9347e21b" md5="15659e9d6f66a27a28d9ee8a8234fa42" sha1="5d935dae798ac39fefad047cb284e0c270d748e6"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 04).bin" size="14227248" crc="709abac7" md5="58df0e39a67457195d18d22701b8e73c" sha1="9788e2c1e051228e33967c09e46e319690b05870"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 05).bin" size="14286048" crc="0d3b9665" md5="8ae88a04cd498943fcb2cd0e5df4787c" sha1="9830c84db1ded4b8aefedea422a270f0d9ec8cd5"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 06).bin" size="13175904" crc="b309c8d6" md5="d9f766420fb8fe2a56eaa22fb8c8d39f" sha1="c69e9d8f64a17d845b091640f73f5c81282eaa33"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 07).bin" size="17397744" crc="3fc9d586" md5="656fa55d3218af6cbd710ef293c30b76" sha1="55eac9af94602c03ce7d8ba5e2d7a6563fa4b81b"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 08).bin" size="16301712" crc="b3421a99" md5="4008422bd9b3918e674c071b44b0b861" sha1="b2cf31e05cc7fbf9f23754d88c2f6202d5e07f16"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 09).bin" size="16153536" crc="b7808341" md5="96fb728dea51a23fafc66c56f7b2e4de" sha1="cf1c3dea03daff84680a1b0554f00f826abfd6d4"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 10).bin" size="16710960" crc="1a101f35" md5="ec2471dbbb8d062d47531bc1598fe97e" sha1="8c490305dc32088c3129b6ebf84c28779f8c5bad"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 11).bin" size="13269984" crc="bf7d5800" md5="cc5c4b89d22dab3a3e62c51324681d28" sha1="55b1d5e90043e387dcc63c487fdd917d2d23359e"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 12).bin" size="16478112" crc="b7032096" md5="090dfb10bcfd58e833afe4002ff6d931" sha1="2ecd75d753ad11e10a2368ca451cda6fbfec93eb"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 13).bin" size="13286448" crc="2a5ed383" md5="0fb91e944d0f97f7510303d8257987d0" sha1="80085fc2ec6bf857da5ab1f24a0d61e4f3cf86db"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 14).bin" size="5990544" crc="d2afc1f0" md5="67d49fdcd0cc3eb9cbcd7a791074a0a2" sha1="31e06130ad6d9400de85fdb900774a188442e09c"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 15).bin" size="1058400" crc="fc35876b" md5="f8eb34da2cbde552156145d837983bbb" sha1="a1b07191e13660f953a28a15c01674796bff5e43"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 16).bin" size="2991744" crc="df012001" md5="65c7125b7b3c278c49bba5a5d32c4686" sha1="69e81fade24bb7e97a34821876f2a4e8b325c360"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 17).bin" size="8594208" crc="9d9a5959" md5="d3239cf5618235e6649cfcae5216ac59" sha1="b55edb7722998befc7ae9e7abac9652197c9e708"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 18).bin" size="1418256" crc="55c689d3" md5="d4031ef4e1365edadaddcfdbc76c58ff" sha1="792724a5bfefc991def6d07a5dadc16490010479"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 19).bin" size="1613472" crc="81432f94" md5="bfb8aa9b8309f8501ac9fdda5d4d098d" sha1="4777fb4cfdeb4d30b38df1b3d4eb272fc7d0c4b9"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 20).bin" size="2439024" crc="22300396" md5="835642c1eb6bfc8748060f6f9eca71fc" sha1="339b08ae5218ac5c19150aab5991ffe4618fb8a4"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 21).bin" size="32062464" crc="80d1194f" md5="229c8c882b5b70cca65ba0f6e4980e5f" sha1="dcb9ad4701b5f12379aa994c3117f8207d563804"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 22).bin" size="27135024" crc="f3eb1443" md5="dda64fd4ae374b842eb893e7a1e5af15" sha1="ab2bc225b8410f202bf760f2c39b228c0167ac3d"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 23).bin" size="31827264" crc="3118c3d5" md5="cfa3613f315772313d903a67fec360d4" sha1="3e96e8385adf880dc984065209b9cb3a9b743c7d"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 24).bin" size="30714768" crc="13793c51" md5="eefa9f3410917932830dc7c597faaeee" sha1="60a13741aadb4e9c2cf828a1704cbeaab727b0c4"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 25).bin" size="27172656" crc="64516019" md5="bf254a087ac3a1c089bb74cfeab06ac1" sha1="60641c16038a37f612f600ab237647a175d90385"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 26).bin" size="30115008" crc="d015b5b2" md5="06d4d81da6c0acc8b5c4f87ee3cd8e2e" sha1="78b3f065b2baf11716a7ea09be7aee4e3914e221"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 27).bin" size="38368176" crc="f0ca87c8" md5="f02cd99bc5260e2f064e4124fcfcc18a" sha1="620d997e87297dc9d266e559dd0847745281761d"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 28).bin" size="30329040" crc="3c7ed400" md5="c4f19d887d8739695acd7a7638a224c2" sha1="43781e5825414975fa31686157cc928a815f3962"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 29).bin" size="24493728" crc="fd1dcc69" md5="16a3790a2c63484ec2a9930c7e13ce18" sha1="3e407329222f47e86d153a09702e5873fd0d80a3"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 30).bin" size="25415712" crc="0aa90d98" md5="42d5f2a2f4ba3a24fac08a3932c3948d" sha1="98575a15bef9695c2047533416d8cc9b228d5ed3"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 31).bin" size="26431776" crc="074da232" md5="0ad4cf75ba1c0759252bbac2daca6460" sha1="af91472dd604dcd2266e6d3492fb864bf8e25482"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 32).bin" size="27925296" crc="663c00b0" md5="63f5e85d458d3442d1d76f19e48b5384" sha1="5179257898aacb042078dc1c59012cac8790cf35"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 33).bin" size="14565936" crc="0dd3433b" md5="d04560f0764e9cb6fb4823466610db19" sha1="66cda6624b4136387454d9ea45573297d53eeeb9"/>
-		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35C) (Track 34).bin" size="13632192" crc="5201cf4d" md5="ed7034fdebc00173fed223d46b48a873" sha1="d936c91105fb0ef363d80794da3b968d7404b79b"/>
+		<description>Virtua Fighter 2 (Japan) (Rev B) (35B, 35C)</description>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C).cue" size="4697" crc="c41fad40" md5="d5e08be9b4ba8e63cfe2b4dcf241a3fa" sha1="9c149852e23b5161c7138cc3a7e195f275a9e093"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 01).bin" size="61316640" crc="65c7fc1e" md5="14992450395f67b251023821a4d20480" sha1="2475bfb03eeaabdfcce93bc010d7c395efdf8dce"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 02).bin" size="14055552" crc="aa7ec59e" md5="5488aad673cae8fecfe14a2eb0d89388" sha1="d37842d7bb1007d3cc229c41b6d580056ba09978"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 03).bin" size="16513392" crc="9347e21b" md5="15659e9d6f66a27a28d9ee8a8234fa42" sha1="5d935dae798ac39fefad047cb284e0c270d748e6"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 04).bin" size="14227248" crc="709abac7" md5="58df0e39a67457195d18d22701b8e73c" sha1="9788e2c1e051228e33967c09e46e319690b05870"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 05).bin" size="14286048" crc="0d3b9665" md5="8ae88a04cd498943fcb2cd0e5df4787c" sha1="9830c84db1ded4b8aefedea422a270f0d9ec8cd5"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 06).bin" size="13175904" crc="b309c8d6" md5="d9f766420fb8fe2a56eaa22fb8c8d39f" sha1="c69e9d8f64a17d845b091640f73f5c81282eaa33"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 07).bin" size="17397744" crc="3fc9d586" md5="656fa55d3218af6cbd710ef293c30b76" sha1="55eac9af94602c03ce7d8ba5e2d7a6563fa4b81b"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 08).bin" size="16301712" crc="b3421a99" md5="4008422bd9b3918e674c071b44b0b861" sha1="b2cf31e05cc7fbf9f23754d88c2f6202d5e07f16"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 09).bin" size="16153536" crc="b7808341" md5="96fb728dea51a23fafc66c56f7b2e4de" sha1="cf1c3dea03daff84680a1b0554f00f826abfd6d4"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 10).bin" size="16710960" crc="1a101f35" md5="ec2471dbbb8d062d47531bc1598fe97e" sha1="8c490305dc32088c3129b6ebf84c28779f8c5bad"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 11).bin" size="13269984" crc="bf7d5800" md5="cc5c4b89d22dab3a3e62c51324681d28" sha1="55b1d5e90043e387dcc63c487fdd917d2d23359e"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 12).bin" size="16478112" crc="b7032096" md5="090dfb10bcfd58e833afe4002ff6d931" sha1="2ecd75d753ad11e10a2368ca451cda6fbfec93eb"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 13).bin" size="13286448" crc="2a5ed383" md5="0fb91e944d0f97f7510303d8257987d0" sha1="80085fc2ec6bf857da5ab1f24a0d61e4f3cf86db"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 14).bin" size="5990544" crc="d2afc1f0" md5="67d49fdcd0cc3eb9cbcd7a791074a0a2" sha1="31e06130ad6d9400de85fdb900774a188442e09c"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 15).bin" size="1058400" crc="fc35876b" md5="f8eb34da2cbde552156145d837983bbb" sha1="a1b07191e13660f953a28a15c01674796bff5e43"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 16).bin" size="2991744" crc="df012001" md5="65c7125b7b3c278c49bba5a5d32c4686" sha1="69e81fade24bb7e97a34821876f2a4e8b325c360"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 17).bin" size="8594208" crc="9d9a5959" md5="d3239cf5618235e6649cfcae5216ac59" sha1="b55edb7722998befc7ae9e7abac9652197c9e708"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 18).bin" size="1418256" crc="55c689d3" md5="d4031ef4e1365edadaddcfdbc76c58ff" sha1="792724a5bfefc991def6d07a5dadc16490010479"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 19).bin" size="1613472" crc="81432f94" md5="bfb8aa9b8309f8501ac9fdda5d4d098d" sha1="4777fb4cfdeb4d30b38df1b3d4eb272fc7d0c4b9"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 20).bin" size="2439024" crc="22300396" md5="835642c1eb6bfc8748060f6f9eca71fc" sha1="339b08ae5218ac5c19150aab5991ffe4618fb8a4"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 21).bin" size="32062464" crc="80d1194f" md5="229c8c882b5b70cca65ba0f6e4980e5f" sha1="dcb9ad4701b5f12379aa994c3117f8207d563804"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 22).bin" size="27135024" crc="f3eb1443" md5="dda64fd4ae374b842eb893e7a1e5af15" sha1="ab2bc225b8410f202bf760f2c39b228c0167ac3d"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 23).bin" size="31827264" crc="3118c3d5" md5="cfa3613f315772313d903a67fec360d4" sha1="3e96e8385adf880dc984065209b9cb3a9b743c7d"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 24).bin" size="30714768" crc="13793c51" md5="eefa9f3410917932830dc7c597faaeee" sha1="60a13741aadb4e9c2cf828a1704cbeaab727b0c4"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 25).bin" size="27172656" crc="64516019" md5="bf254a087ac3a1c089bb74cfeab06ac1" sha1="60641c16038a37f612f600ab237647a175d90385"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 26).bin" size="30115008" crc="d015b5b2" md5="06d4d81da6c0acc8b5c4f87ee3cd8e2e" sha1="78b3f065b2baf11716a7ea09be7aee4e3914e221"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 27).bin" size="38368176" crc="f0ca87c8" md5="f02cd99bc5260e2f064e4124fcfcc18a" sha1="620d997e87297dc9d266e559dd0847745281761d"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 28).bin" size="30329040" crc="3c7ed400" md5="c4f19d887d8739695acd7a7638a224c2" sha1="43781e5825414975fa31686157cc928a815f3962"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 29).bin" size="24493728" crc="fd1dcc69" md5="16a3790a2c63484ec2a9930c7e13ce18" sha1="3e407329222f47e86d153a09702e5873fd0d80a3"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 30).bin" size="25415712" crc="0aa90d98" md5="42d5f2a2f4ba3a24fac08a3932c3948d" sha1="98575a15bef9695c2047533416d8cc9b228d5ed3"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 31).bin" size="26431776" crc="074da232" md5="0ad4cf75ba1c0759252bbac2daca6460" sha1="af91472dd604dcd2266e6d3492fb864bf8e25482"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 32).bin" size="27925296" crc="663c00b0" md5="63f5e85d458d3442d1d76f19e48b5384" sha1="5179257898aacb042078dc1c59012cac8790cf35"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 33).bin" size="14565936" crc="0dd3433b" md5="d04560f0764e9cb6fb4823466610db19" sha1="66cda6624b4136387454d9ea45573297d53eeeb9"/>
+		<rom name="Virtua Fighter 2 (Japan) (Rev B) (35B, 35C) (Track 34).bin" size="13632192" crc="5201cf4d" md5="ed7034fdebc00173fed223d46b48a873" sha1="d936c91105fb0ef363d80794da3b968d7404b79b"/>
 	</game>
 	<game name="Myst (Korea)">
 		<category>Games</category>
