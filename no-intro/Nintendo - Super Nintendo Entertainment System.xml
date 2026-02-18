@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260216-204830</version>
+		<version>20260217-051904</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11547,10 +11547,10 @@
 		<description>Song Master (Japan)</description>
 		<rom name="Song Master (Japan).sfc" size="1048576" crc="4fa5fc25" md5="568bd0c48acba2109c8097a23d4c1167" sha1="656fdeea71f823ba62ba604b412e86a18c55a838" sha256="c9775382e46ff3187dc2630ee290a56f75a8a6b75d448ccbf9204d8b50dbb7b4" status="verified"/>
 	</game>
-	<game name="Sonic Blast Man (Europe) (En)" id="2403">
+	<game name="Sonic Blast Man (Europe)" id="2403">
 		<category>Games</category>
-		<description>Sonic Blast Man (Europe) (En)</description>
-		<rom name="Sonic Blast Man (Europe) (En).sfc" size="1048576" crc="5441f25b" md5="5476fb3c748f659f168031e4b18f538e" sha1="d72fff74e8c779746b2ff37a1ec343ea19026b37" sha256="d2233d6310522bbf183b6ca9bbe3e2afaf24de0cc4304bff6d0d547d678aed6f" status="verified"/>
+		<description>Sonic Blast Man (Europe)</description>
+		<rom name="Sonic Blast Man (Europe).sfc" size="1048576" crc="5441f25b" md5="5476fb3c748f659f168031e4b18f538e" sha1="d72fff74e8c779746b2ff37a1ec343ea19026b37" sha256="d2233d6310522bbf183b6ca9bbe3e2afaf24de0cc4304bff6d0d547d678aed6f" status="verified"/>
 	</game>
 	<game name="Sonic Blast Man (Japan)" id="2404" cloneofid="2403">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3640) (2026-02-17 16-34-03)</description>
-		<version>2026-02-17 16-34-03</version>
-		<date>2026-02-17 16-34-03</date>
+		<description>Microsoft - Xbox 360 - Discs (3642) (2026-02-18 15-07-23)</description>
+		<version>2026-02-18 15-07-23</version>
+		<date>2026-02-18 15-07-23</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18216,5 +18216,15 @@
 		<category>Games</category>
 		<description>FIFA 18 - Legacy Edition (Europe) (En,Fr,Nl)</description>
 		<rom name="FIFA 18 - Legacy Edition (Europe) (En,Fr,Nl).iso" size="8738846720" crc="97ac59ad" md5="ec0f896893c57294a2707f59df4839c8" sha1="24b04b72fd4fcbe93e5edef3cf44b5c15dc8e4ae"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion (Italy) (Rev 1)">
+		<category>Games</category>
+		<description>Elder Scrolls IV, The - Oblivion (Italy) (Rev 1)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion (Italy) (Rev 1).iso" size="7838695424" crc="337eb2e2" md5="8147b2f2b74e38844c9fa463a13ca48f" sha1="0ac6a18456f1c9c62764b4eb15c653f2865fefb6"/>
+	</game>
+	<game name="Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2)">
+		<category>Games</category>
+		<description>Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2)</description>
+		<rom name="Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2).iso" size="7838695424" crc="2b505ad3" md5="1c9cc1daebd62ef0c16bf84343fe7a9d" sha1="5a64b14653a8f67836f27c45b6c00a3dd3f78e46"/>
 	</game>
 </datafile>

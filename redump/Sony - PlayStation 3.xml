@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4471) (2026-02-17 16-55-53)</description>
-		<version>2026-02-17 16-55-53</version>
-		<date>2026-02-17 16-55-53</date>
+		<description>Sony - PlayStation 3 - Discs (4472) (2026-02-18 02-30-12)</description>
+		<version>2026-02-18 02-30-12</version>
+		<date>2026-02-18 02-30-12</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22376,5 +22376,10 @@
 		<category>Games</category>
 		<description>F1 2014 (Asia)</description>
 		<rom name="F1 2014 (Asia).iso" size="5113643008" crc="8a93d6f0" md5="5eba44b0722a2db0a17fb52de3d3672e" sha1="682dc695405f114efb55bdb660c7f1cc80b02fa5"/>
+	</game>
+	<game name="Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box)">
+		<category>Games</category>
+		<description>Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box)</description>
+		<rom name="Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box).iso" size="9665576960" crc="8a03a514" md5="8abd41ce453b8670026e6f895f84cdca" sha1="e5b2b405b3a07be2de4e821733ee3ded2844c189"/>
 	</game>
 </datafile>

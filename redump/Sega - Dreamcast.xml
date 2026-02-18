@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1508) (2026-02-17 19-25-39)</description>
-		<version>2026-02-17 19-25-39</version>
-		<date>2026-02-17 19-25-39</date>
+		<description>Sega - Dreamcast - Discs (1509) (2026-02-18 19-25-20)</description>
+		<version>2026-02-18 19-25-20</version>
+		<date>2026-02-18 19-25-20</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18613,5 +18613,15 @@
 		<rom name="Equalizer Xtreme (France) (Unl).cue" size="241" crc="1797aa70" md5="48cc4764938f9ee0084e5b4b7db472f0" sha1="939b615b8e88cbdbda85a158964719ec44f02f5d"/>
 		<rom name="Equalizer Xtreme (France) (Unl) (Track 1).bin" size="5729472" crc="26d8f384" md5="59f0298f427611bbdf0ee5d77a67237d" sha1="f27f6633aa3edf09f1bda5a8112ea080a9223f4a"/>
 		<rom name="Equalizer Xtreme (France) (Unl) (Track 2).bin" size="2972928" crc="12de56d7" md5="a279ec7ca52547e293957842540e32a7" sha1="9751a71934a4abb70a8ad5769542236dc6d577b7"/>
+	</game>
+	<game name="Giant Killers (Europe) (Beta) (2001-01-31)">
+		<category>Preproduction</category>
+		<description>Giant Killers (Europe) (Beta) (2001-01-31)</description>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31).cue" size="697" crc="94302235" md5="1bd563c34e706ce002d934a98f5d23f5" sha1="6403c80d2c0024d9695783a3927591d773fac746"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 1).bin" size="3478608" crc="c672926c" md5="be0528df4bbcc9694e8f04bb968ec84c" sha1="810adc472ea07f8222fa834346e1b984cb340264"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 3).bin" size="952750512" crc="e5c60786" md5="2870b1cc2040276610ffa7515748aa92" sha1="adea651a0165d73e936955f56239d8cb96103699"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 4).bin" size="13994400" crc="2d9c8342" md5="e2427674658e068c5cc4bde0542e334b" sha1="1953372e0e2c90d4e92b1dc69a2426e439806262"/>
+		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 5).bin" size="219015888" crc="aa9ab7c8" md5="11a2e828caee02bd6b21605525b4d7ec" sha1="f099c308cfac0dcb17e26f79395ecea02ee577f5"/>
 	</game>
 </datafile>
