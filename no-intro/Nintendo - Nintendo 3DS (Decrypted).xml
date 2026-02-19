@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260124-131551</version>
+		<version>20260218-131540</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4286,7 +4286,7 @@
 	<game name="Layton Kyouju to Kiseki no Kamen (Japan)" id="0064" cloneofid="0582">
 		<description>Layton Kyouju to Kiseki no Kamen (Japan)</description>
 		<game_id>0004000000031F00</game_id>
-		<rom name="Layton Kyouju to Kiseki no Kamen (Japan).3ds" size="1073741824" crc="41698163" md5="9f6a65c6f9fe7e7490ae746ab6fec39f" sha1="2f99e3c13f392deb4613889138961639b88d77b2" serial="CTR-P-AKKJ"/>
+		<rom name="Layton Kyouju to Kiseki no Kamen (Japan).3ds" size="1073741824" crc="41698163" md5="9f6a65c6f9fe7e7490ae746ab6fec39f" sha1="2f99e3c13f392deb4613889138961639b88d77b2" sha256="e1fd39060e17db1f090d37312044bf1dd7e63def3af3c7148d7cde595421d7ca" serial="CTR-P-AKKJ"/>
 	</game>
 	<game name="Layton Kyouju vs Gyakuten Saiban (Japan)" id="0692" cloneofid="0664">
 		<description>Layton Kyouju vs Gyakuten Saiban (Japan)</description>
@@ -7627,7 +7627,7 @@
 	<game name="Professor Layton and the Miracle Mask (USA)" id="0253" cloneofid="0582">
 		<description>Professor Layton and the Miracle Mask (USA)</description>
 		<game_id>00040000000A8500</game_id>
-		<rom name="Professor Layton and the Miracle Mask (USA).3ds" size="1073741824" crc="52aad8d8" md5="3a686b7f8fc86e51c436e898e440b462" sha1="552bbf13c58ba67388927191380dab32de431dd9" sha256="ebc2d5480c1be7373a029f7f740d86cd398df6b75fae4bd2b366cd2abe71ba52" serial="CTR-P-AKKE"/>
+		<rom name="Professor Layton and the Miracle Mask (USA).3ds" size="1073741824" crc="52aad8d8" md5="3a686b7f8fc86e51c436e898e440b462" sha1="552bbf13c58ba67388927191380dab32de431dd9" sha256="ebc2d5480c1be7373a029f7f740d86cd398df6b75fae4bd2b366cd2abe71ba52" status="verified" serial="CTR-P-AKKE"/>
 	</game>
 	<game name="Professor Layton and the Miracle Mask (Europe)" id="0582">
 		<description>Professor Layton and the Miracle Mask (Europe)</description>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260203-234401</version>
+		<version>20260218-201411</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9517,8 +9517,9 @@
 		<rom name="Booky Man (Spain) (En) (Unl).unh" size="24576" crc="bc06543c" md5="1c9fcc7283074d45e36b7d9185b9fda7" sha1="0b84285dcc9f2de240c813f4f52e6c0a44746bb8" sha256="ac4c6242d0a8c3c6a8c4c420c044d58c041f8afd05b2272383ceacfc330d8470" status="verified"/>
 	</game>
 	<game name="Bowling (USA) (Proto)" id="2632" cloneofid="1667">
+		<category>Games</category>
 		<description>Bowling (USA) (Proto)</description>
-		<rom name="Bowling (USA) (Proto).unh" size="262144" crc="b0874760" md5="18363a2e9ada47dd76c95a32a68c274a" sha1="bf77a14390009a4cb7d355aaf3452aff9eb3d71b" sha256="95ff994f7c057b9e928fc49101e4e3d189359f4d90774f2e36d3e17efb962dfa"/>
+		<rom name="Bowling (USA) (Proto).unh" size="163840" crc="fbd54d00" md5="614b60dafbdc68cae7b7db6a46719509" sha1="14d69cfb91429bb8d19e757f955b0f833ca57b47" sha256="2e3a30bfd79a87219518e55e5ae4c28f373776b282b80dfeed40074202e61a2a"/>
 	</game>
 	<game name="Brilliant Com Cocoma Pack 1 (Korea) (Unl)" id="2797">
 		<category>Educational</category>
@@ -20400,6 +20401,11 @@
 		<category>Preproduction</category>
 		<description>Aladdin (USA) (Proto)</description>
 		<rom name="Aladdin (USA) (Proto).unh" size="262144" crc="a3c42d88" md5="8a8fac7648617c8acd84b742b8366fe3" sha1="d3460a21db31aa2ebadafb4939c2e8d13e6262fe" sha256="1e04c95a49305a816a76df9a1c668a32367aee872c35cd582d47a490b3dc3af1"/>
+	</game>
+	<game name="American Dream (Japan) (Beta)" id="8403" cloneofid="0103">
+		<category>Games</category>
+		<description>American Dream (Japan) (Beta)</description>
+		<rom name="American Dream (Japan) (Beta).unh" size="262144" crc="b365d145" md5="df8bc00c16581ef6b3ba4d9e6e6be510" sha1="4f2a09d46ac1579a66a8d8152eb818a10b6b9d2e" sha256="d36f75af19b8fdc9ff539a28c64b3d0fc8acf996846c96f776dee16234bffd2d"/>
 	</game>
 	<game name="Bad Street Brawler (World) (Evercade)" id="8117" cloneofid="0159">
 		<category>Games</category>

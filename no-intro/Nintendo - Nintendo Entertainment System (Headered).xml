@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260203-234401</version>
+		<version>20260218-201411</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9512,8 +9512,9 @@
 		<rom name="Booky Man (Spain) (En) (Unl).nes" size="24592" crc="3f209637" md5="a47bb22af8b03da8ae5c9e02f9950171" sha1="ecf30c05dc0ca32e779453c0cf876deac19260d5" sha256="949f436c98a427db57ded5ecbc1d17bf6a7fa42fd4dcc338fcdfc16c326535f6" status="verified" header="4E 45 53 1A 01 01 01 08 00 00 00 00 02 00 00 01"/>
 	</game>
 	<game name="Bowling (USA) (Proto)" id="2632" cloneofid="1667">
+		<category>Games</category>
 		<description>Bowling (USA) (Proto)</description>
-		<rom name="Bowling (USA) (Proto).nes" size="262160" crc="4c1e8ce6" md5="21a2c743996d15c5c7520131991b7f5a" sha1="578a197a26a3a0a769a49f23e14f83996294cb07" sha256="28ba57116d43e673ac810d777633e7da7a734e4eaa3ef76d3949836f36df171f" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Bowling (USA) (Proto).nes" size="163856" crc="d2b0e3b9" md5="4e4459f406572f6251ab3177e90f6210" sha1="784be50940584335570f478e959bdf24290d8937" sha256="228ae3755e305e5fd7db59c45cf597d25ce8b5c5c64fa1f25d0e7fef2411aa1a" header="4E 45 53 1A 08 04 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Brilliant Com Cocoma Pack 1 (Korea) (Unl)" id="2797">
 		<category>Educational</category>
@@ -20381,6 +20382,11 @@
 		<category>Preproduction</category>
 		<description>Aladdin (USA) (Proto)</description>
 		<rom name="Aladdin (USA) (Proto).nes" size="262160" crc="4bac38f5" md5="1984b7a590926ddabcba38d99ba45027" sha1="ab0939131a4cbb6a9d9ca41ec802b74f04ae7db9" sha256="f955c163863330d87d5c38b9411058e2e506f70808c933a11da525f806a45a2d" header="4E 45 53 1A 10 00 70 08 20 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="American Dream (Japan) (Beta)" id="8403" cloneofid="0103">
+		<category>Games</category>
+		<description>American Dream (Japan) (Beta)</description>
+		<rom name="American Dream (Japan) (Beta).nes" size="262160" crc="4ffc1ac3" md5="3fefa689c725449eae1a600c2ac963f7" sha1="f7f11f128eb62e9aa63a99c27783ece0c78c7b5a" sha256="e5630424d2dc2028e86738a8e069923ec23d218c1ae885d78912f8b6e7772d85" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Bad Street Brawler (World) (Evercade)" id="8117" cloneofid="0159">
 		<category>Games</category>

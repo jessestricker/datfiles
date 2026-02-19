@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260213-041159</version>
+		<version>20260218-211435</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3733,10 +3733,10 @@
 		<description>Star Wars - Rogue Squadron (USA) (LodgeNet)</description>
 		<rom name="Star Wars - Rogue Squadron (USA) (LodgeNet).v64" size="16777216" crc="43c42eff" md5="31c5e9daa0215d8c9906358977b45765" sha1="6e449746b2f7d795be1f702e7c8689ac8463b019"/>
 	</game>
-	<game name="Star Wars - Shadows of the Empire (USA) (Limited Run Games)" id="1075" cloneofid="0694">
+	<game name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)" id="1075" cloneofid="0694">
 		<category>Games</category>
-		<description>Star Wars - Shadows of the Empire (USA) (Limited Run Games)</description>
-		<rom name="Star Wars - Shadows of the Empire (USA) (Limited Run Games).v64" size="16777216" crc="a9693e97" md5="b909a35b7cae705116ab570f7f74336e" sha1="2a4d411b918056101b1174b5a605a8a2f1b49864" sha256="0efdcab671b4dfe8de0f232899e1e8ba8b0ba0737f9e25fc73780914b65ebd36" status="verified" serial="NSWE"/>
+		<description>Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)</description>
+		<rom name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games).v64" size="16777216" crc="a9693e97" md5="b909a35b7cae705116ab570f7f74336e" sha1="2a4d411b918056101b1174b5a605a8a2f1b49864" sha256="0efdcab671b4dfe8de0f232899e1e8ba8b0ba0737f9e25fc73780914b65ebd36" status="verified" serial="NSWE"/>
 	</game>
 	<game name="Star Wars - Shadows of the Empire (Europe)" id="0694">
 		<description>Star Wars - Shadows of the Empire (Europe)</description>
@@ -3779,10 +3779,10 @@
 		<description>Star Wars Episode I - Battle for Naboo (USA) (Beta)</description>
 		<rom name="Star Wars Episode I - Battle for Naboo (USA) (Beta).v64" size="33554432" crc="d73f9948" md5="e902afb82d6a59221d8cc12bd12b046c" sha1="f1e2d18740c2129975699710b0f2ff6bb85a3231" sha256="898aebc4bdc0ca29ee9093d47f6169b2e5b659fedb4369029522445b4fb94c8e" serial="NNAE"/>
 	</game>
-	<game name="Star Wars Episode I - Racer (USA) (Limited Run Games)" id="1074" cloneofid="0702">
+	<game name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)" id="1074" cloneofid="0702">
 		<category>Games</category>
-		<description>Star Wars Episode I - Racer (USA) (Limited Run Games)</description>
-		<rom name="Star Wars Episode I - Racer (USA) (Limited Run Games).v64" size="33554432" crc="ee6a1f8f" md5="6a68c2e513ef132df7817117deb80a9d" sha1="63e9b2747bb7e918a677b04d1f346bb07c4ee14c" sha256="8a9e4ffe4269010f40b91bdadc2bcc5baaa0e8ea9c9ecc72dabdaa4196f541d4" status="verified" serial="NEPE"/>
+		<description>Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)</description>
+		<rom name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games).v64" size="33554432" crc="ee6a1f8f" md5="6a68c2e513ef132df7817117deb80a9d" sha1="63e9b2747bb7e918a677b04d1f346bb07c4ee14c" sha256="8a9e4ffe4269010f40b91bdadc2bcc5baaa0e8ea9c9ecc72dabdaa4196f541d4" status="verified" serial="NEPE"/>
 	</game>
 	<game name="Star Wars Episode I - Racer (Europe) (En,Fr,De)" id="0702">
 		<description>Star Wars Episode I - Racer (Europe) (En,Fr,De)</description>

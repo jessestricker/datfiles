@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260210-195717</version>
+		<version>20260218-012224</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8554,6 +8554,16 @@
 		<category>Games</category>
 		<description>Ozaki Naomichi no Super Masters (Japan)</description>
 		<rom name="Ozaki Naomichi no Super Masters (Japan).md" size="524288" crc="088ba825" md5="da0c9622e14da9c9aa9a45a99fc9e791" sha1="662a87d679066aad0638b2ffb01c807d9f376121" sha256="3f817d17b3b4cb7c632ab7d3346d97b834c52243ffd8dffe5777c8d17860748e" status="verified" serial="00004014-00"/>
+	</game>
+	<game name="P-47 II MD (Japan) (En)" id="3557" cloneofid="3620">
+		<category>Games</category>
+		<description>P-47 II MD (Japan) (En)</description>
+		<rom name="P-47 II MD (Japan) (En).md" size="1048576" crc="fe9b4c7f" md5="141493cbe281d42298c8668b9e80f200" sha1="bdfa78fbcf0b0cd6a4740a92a2640d95cb074551" sha256="1aef6243dc7ec88763da9f0ec432bce65e2cc5b6848232b8687f9f787689dffd"/>
+	</game>
+	<game name="P-47 II MD (USA, Europe)" id="3620">
+		<category>Games</category>
+		<description>P-47 II MD (USA, Europe)</description>
+		<rom name="P-47 II MD (USA, Europe).md" size="1048576" crc="2fe6bf42" md5="8538243d591452261bf419581dd89ce5" sha1="683b61343a6cf9c37213c6d21e5922d0cc41cee5" sha256="853853c4345f31fef39ed27423d5bbd28cc073c8e4f638a2b45f61f2dbd43bc1"/>
 	</game>
 	<game name="P.T.O. - Pacific Theater of Operations (USA)" id="0969">
 		<category>Games</category>

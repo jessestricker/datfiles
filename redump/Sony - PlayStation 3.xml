@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4472) (2026-02-18 02-30-12)</description>
-		<version>2026-02-18 02-30-12</version>
-		<date>2026-02-18 02-30-12</date>
+		<description>Sony - PlayStation 3 - Discs (4473) (2026-02-19 12-18-26)</description>
+		<version>2026-02-19 12-18-26</version>
+		<date>2026-02-19 12-18-26</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22381,5 +22381,10 @@
 		<category>Games</category>
 		<description>Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box)</description>
 		<rom name="Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box).iso" size="9665576960" crc="8a03a514" md5="8abd41ce453b8670026e6f895f84cdca" sha1="e5b2b405b3a07be2de4e821733ee3ded2844c189"/>
+	</game>
+	<game name="Pixel Junk 3 in 1 Pack (Asia)">
+		<category>Games</category>
+		<description>Pixel Junk 3 in 1 Pack (Asia)</description>
+		<rom name="Pixel Junk 3 in 1 Pack (Asia).iso" size="769982464" crc="a383ac3c" md5="4b3ec5551e97ff17430068d0b899acbf" sha1="6dfcfece19395b89579072c31d0a3e26fb1b93a9"/>
 	</game>
 </datafile>
