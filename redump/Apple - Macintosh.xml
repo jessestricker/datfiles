@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1335) (2026-02-19 09-03-06)</description>
-		<version>2026-02-19 09-03-06</version>
-		<date>2026-02-19 09-03-06</date>
+		<description>Apple - Macintosh - Discs (1336) (2026-02-20 10-15-07)</description>
+		<version>2026-02-20 10-15-07</version>
+		<date>2026-02-20 10-15-07</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9479,5 +9479,11 @@
 		<description>3D Bridge Deluxe (USA)</description>
 		<rom name="3D Bridge Deluxe (USA).cue" size="88" crc="d1af6aa1" md5="c13a7fbeeaefa139db49b45771ef6d7b" sha1="bdab26c2dbb538d70fa8a039e764ff98946b2a70"/>
 		<rom name="3D Bridge Deluxe (USA).bin" size="718286688" crc="d93ee4c2" md5="af1834b0899de4b6581eb5685bb0e0ec" sha1="09eb0c61f4276498ff0585ce4fb9edc26ce178bc"/>
+	</game>
+	<game name="Buku Sudoku (USA)">
+		<category>Games</category>
+		<description>Buku Sudoku (USA)</description>
+		<rom name="Buku Sudoku (USA).cue" size="83" crc="347570f0" md5="183379f5786db28db64ad0d7a39f0621" sha1="72e235944b8eff1d6de0a199b6f825f9553742a7"/>
+		<rom name="Buku Sudoku (USA).bin" size="168739536" crc="9b80061b" md5="76ed602f2c730e747f0272016ec1f7b5" sha1="8b3385fe22f3cb89ceeb3e9c48689d183ab2101f"/>
 	</game>
 </datafile>
