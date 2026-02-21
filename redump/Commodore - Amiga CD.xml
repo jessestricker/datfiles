@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (591) (2026-02-05 08-35-00)</description>
-		<version>2026-02-05 08-35-00</version>
-		<date>2026-02-05 08-35-00</date>
+		<description>Commodore - Amiga CD - Discs (591) (2026-02-21 04-12-09)</description>
+		<version>2026-02-21 04-12-09</version>
+		<date>2026-02-21 04-12-09</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1753,11 +1753,11 @@
 		<rom name="Zombie Massacre (Europe) (Track 3).bin" size="43387344" crc="0580f4f9" md5="3d1941e29e940727df8a5a8288bd780a" sha1="1d8e9671a88e920ebd95e343bfa3589d93195036"/>
 		<rom name="Zombie Massacre (Europe) (Track 4).bin" size="52397856" crc="42e3db37" md5="bb415dcc0ceea826a385a3452233067e" sha1="2ae5d73f4142be9c2dfef2e852d8b0e60dd147f3"/>
 	</game>
-	<game name="Gunbee F-99 - The Kidnapping of Lady Akiko (Europe) (En,De)">
+	<game name="GunBee F-99 (Europe) (En,De,Es)">
 		<category>Games</category>
-		<description>Gunbee F-99 - The Kidnapping of Lady Akiko (Europe) (En,De)</description>
-		<rom name="Gunbee F-99 - The Kidnapping of Lady Akiko (Europe) (En,De).cue" size="125" crc="4295c059" md5="fbcb7c4ff03c0265b0cb89501ebeff5d" sha1="ccde57e5216f7fefaf3e550aa338b5ed5f57b98c"/>
-		<rom name="Gunbee F-99 - The Kidnapping of Lady Akiko (Europe) (En,De).bin" size="2521344" crc="5ed6fc54" md5="97c76ff5910ad2ed4e308c8fae91c343" sha1="ee649526a730910397109fd39e166648586df2ac"/>
+		<description>GunBee F-99 (Europe) (En,De,Es)</description>
+		<rom name="GunBee F-99 (Europe) (En,De,Es).cue" size="97" crc="c59ddb37" md5="6c7a13a88a8ff21de7c2e783ce68a7cb" sha1="c15b273ee142fc2c8c96729bf5ecb33ca5e27f43"/>
+		<rom name="GunBee F-99 (Europe) (En,De,Es).bin" size="2521344" crc="5ed6fc54" md5="97c76ff5910ad2ed4e308c8fae91c343" sha1="ee649526a730910397109fd39e166648586df2ac"/>
 	</game>
 	<game name="Spherical Worlds (Europe)">
 		<category>Games</category>

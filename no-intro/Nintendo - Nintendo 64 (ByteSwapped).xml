@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260219-202415</version>
+		<version>20260220-211431</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -65,9 +65,19 @@
 		<description>3D Model RGB Test Program (USA) (Test Program)</description>
 		<rom name="3D Model RGB Test Program (USA) (Test Program).v64" size="16777216" crc="bbaaa427" md5="f02923bbd8c92addc0aec391e69a0c27" sha1="b2e7432086b1ebc82c713f68e1a3a93abdcebd1c" sha256="36e7873f39693fb1a1c7d6ec735eb66e188ef476690597b7440839109c8858e8" serial="N4WE"/>
 	</game>
+	<game name="40 Winks (USA) (Piko Interactive)" id="1066" cloneofid="1283">
+		<category>Games</category>
+		<description>40 Winks (USA) (Piko Interactive)</description>
+		<rom name="40 Winks (USA) (Piko Interactive).v64" size="33554432" crc="15a0118f" md5="bc3c22ca31182ba8274b4cda793a1469" sha1="83f02505f7383ba89cd03ca1aaa0e4019ac714ec" sha256="23407b95d66db836640088da8a26493d90022d82b239185f51a92c29a4e793f7" status="verified" serial="N4WE"/>
+	</game>
 	<game name="40 Winks (USA) (Proto) (2000-01-10)" id="1076" cloneofid="1283">
 		<description>40 Winks (USA) (Proto) (2000-01-10)</description>
 		<rom name="40 Winks (USA) (Proto) (2000-01-10).v64" size="33554432" crc="266a9e05" md5="2360ba4d8eabadefb5a6de3c8dd3bdc2" sha1="f0f9edcba11182aa1d23adb34e5255c3923136d7" sha256="1431819a5bc9b38ede53271f499a73bf1a8fdfddcec433d7f55102ceef12608e" serial="N4WZ"/>
+	</game>
+	<game name="40 Winks (Europe) (En,Fr,Es) (Piko Interactive)" id="1283">
+		<category>Games</category>
+		<description>40 Winks (Europe) (En,Fr,Es) (Piko Interactive)</description>
+		<rom name="40 Winks (Europe) (En,Fr,Es) (Piko Interactive).v64" size="33554432" crc="39ab592a" md5="9766ced5cd0241ecc00414cc27e30eee" sha1="d45bd5051515c8434da60abd6862eeee29cca8e1" sha256="1a75f9e9eb13f9de9991bd7c65148dd4559428b7ed29ed9c29dfad0c849af2a4" serial="N4WZ"/>
 	</game>
 	<game name="40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)" id="0008" cloneofid="1283">
 		<description>40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)</description>
@@ -2890,13 +2900,17 @@
 		<description>Perfect Dark (USA) (Rev 1)</description>
 		<rom name="Perfect Dark (USA) (Rev 1).v64" size="33554432" crc="f85a16f1" md5="f267577a1faeca4c07f1bb188452ca80" sha1="07e74d1b42aaadc6d95b171f6bd5f16e7c641284" sha256="93a222a87b18dae8430f6a4f88885d10df86499548abe217136bde1c15227e82" status="verified" serial="NPDE"/>
 	</game>
-	<game name="Perfect Dark (Europe) (2000-04-26) (Debug)" id="1016" cloneofid="0544">
-		<description>Perfect Dark (Europe) (2000-04-26) (Debug)</description>
-		<rom name="Perfect Dark (Europe) (2000-04-26) (Debug).v64" size="33554432" crc="5c6ac287" md5="6591a8d4a54df2edd351080dd37cb924" sha1="278cec1806eb39690cd2a3ae4838cfa8b8e630d2" serial="NPDP"/>
+	<game name="Perfect Dark (Europe) (Beta) (2000-04-26) (Debug)" id="1016" cloneofid="0544">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Perfect Dark (Europe) (Beta) (2000-04-26) (Debug)</description>
+		<rom name="Perfect Dark (Europe) (Beta) (2000-04-26) (Debug).v64" size="33554432" crc="5c6ac287" md5="6591a8d4a54df2edd351080dd37cb924" sha1="278cec1806eb39690cd2a3ae4838cfa8b8e630d2" serial="NPDP"/>
 	</game>
-	<game name="Perfect Dark (USA) (2000-03-22) (Debug)" id="1017" cloneofid="0544">
-		<description>Perfect Dark (USA) (2000-03-22) (Debug)</description>
-		<rom name="Perfect Dark (USA) (2000-03-22) (Debug).v64" size="33554432" crc="0ea2645f" md5="160fedb6c2d81e2a19387be1048cd79e" sha1="40c60733840ee68ac60f0c951055c942a2573bfc" serial="NPDE"/>
+	<game name="Perfect Dark (USA) (Beta) (2000-03-22) (Debug)" id="1017" cloneofid="0544">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Perfect Dark (USA) (Beta) (2000-03-22) (Debug)</description>
+		<rom name="Perfect Dark (USA) (Beta) (2000-03-22) (Debug).v64" size="33554432" crc="0ea2645f" md5="160fedb6c2d81e2a19387be1048cd79e" sha1="40c60733840ee68ac60f0c951055c942a2573bfc" serial="NPDE"/>
 	</game>
 	<game name="PGA European Tour (USA)" id="0548" cloneofid="0549">
 		<description>PGA European Tour (USA)</description>

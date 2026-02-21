@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3642) (2026-02-19 16-03-30)</description>
-		<version>2026-02-19 16-03-30</version>
-		<date>2026-02-19 16-03-30</date>
+		<description>Microsoft - Xbox 360 - Discs (3643) (2026-02-21 20-38-13)</description>
+		<version>2026-02-21 20-38-13</version>
+		<date>2026-02-21 20-38-13</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -12294,10 +12294,10 @@
 		<description>Musou Orochi (Japan)</description>
 		<rom name="Musou Orochi (Japan).iso" size="7835492352" crc="4e1277bb" md5="4b86789c78cece3da8e78c966de8065b" sha1="51325ba579227cb922c9b3df2f08a05c7901bc4f"/>
 	</game>
-	<game name="Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja,Fr,De,Es,It) (Rev 1)">
+	<game name="Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja) (Rev 1)">
 		<category>Games</category>
-		<description>Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja,Fr,De,Es,It) (Rev 1).iso" size="7835492352" crc="1213d3ac" md5="83ad029211e161624d8c16c12d66e578" sha1="0c43bf405193257237a774f0879efeceafd559ef"/>
+		<description>Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja) (Rev 1)</description>
+		<rom name="Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja) (Rev 1).iso" size="7835492352" crc="1213d3ac" md5="83ad029211e161624d8c16c12d66e578" sha1="0c43bf405193257237a774f0879efeceafd559ef"/>
 	</game>
 	<game name="Red Faction - Guerrilla (Europe) (En,Pl,Ru,Cs,Ar)">
 		<category>Games</category>
@@ -18226,5 +18226,10 @@
 		<category>Games</category>
 		<description>Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2)</description>
 		<rom name="Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2).iso" size="7838695424" crc="2b505ad3" md5="1c9cc1daebd62ef0c16bf84343fe7a9d" sha1="5a64b14653a8f67836f27c45b6c00a3dd3f78e46"/>
+	</game>
+	<game name="FIFA 17 (Europe) (En,Fr,Nl)">
+		<category>Games</category>
+		<description>FIFA 17 (Europe) (En,Fr,Nl)</description>
+		<rom name="FIFA 17 (Europe) (En,Fr,Nl).iso" size="8738846720" crc="4b91fbe0" md5="c43914959d19fe7a8e35dc494c1331c1" sha1="19f9fdc4a44f188f496c2b33fd9fccbcad42358a"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260218-131540</version>
+		<version>20260220-060811</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3654,7 +3654,7 @@
 	<game name="Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1)" id="1864" cloneofid="1174">
 		<description>Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1)</description>
 		<game_id>0004000000150A00</game_id>
-		<rom name="Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size="1073741824" crc="d5f72a88" md5="88a3258b83fa731e8a7bf67f4f892727" sha1="1a0aff1f744727a5901ca6b4a5b453eb3f9cf769" sha256="e5cff24b5b4c7ac7b4c99c3c6b649d05b9dfcb777f09ee4c79711657d8aba48a"/>
+		<rom name="Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size="1073741824" crc="d5f72a88" md5="88a3258b83fa731e8a7bf67f4f892727" sha1="1a0aff1f744727a5901ca6b4a5b453eb3f9cf769" sha256="e5cff24b5b4c7ac7b4c99c3c6b649d05b9dfcb777f09ee4c79711657d8aba48a" serial="CTR-P-BCLP"/>
 	</game>
 	<game name="Inazuma Eleven 1-2-3!! - Endou Mamoru Densetsu (Japan)" id="0742">
 		<description>Inazuma Eleven 1-2-3!! - Endou Mamoru Densetsu (Japan)</description>

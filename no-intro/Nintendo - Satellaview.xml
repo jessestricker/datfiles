@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260130-110040</version>
+		<version>20260220-123003</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1032,7 +1032,7 @@
 	<game name="Game Tora no Chou Ooana (Japan) (1996-4-7, Part 2) (SoundLink Magazine)" id="3558">
 		<category>Multimedia</category>
 		<description>Game Tora no Chou Ooana (Japan) (1996-4-7, Part 2) (SoundLink Magazine)</description>
-		<rom name="Game Tora no Chou Ooana (Japan) (1996-4-7, Part 2) (SoundLink Magazine).bs" size="458752" crc="2721d7ce" md5="9dfba92ec78cfab5cc101d3ae0b8bb7d" sha1="0a598ab984326ff7d985647fbbabf53edd273bad" sha256="99414707ab8abec344ba472298a08c0263a899f5af5b34f3ca1546db39364eae"/>
+		<rom name="Game Tora no Chou Ooana (Japan) (1996-4-7, Part 2) (SoundLink Magazine).bs" size="1048576" crc="13978f92" md5="5269df82cbaf33685a6850ea1eaa13cc" sha1="db71f4b186f775e7935740a06f9f911a995c19f4" sha256="b8ed8fc3eb5048cd00c0751b65229f341c52f65251dc678d2e491106b62757a6"/>
 	</game>
 	<game name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)" id="3835">
 		<category>Magazines</category>
@@ -1234,9 +1234,9 @@
 		<description>Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)</description>
 		<rom name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix).bs" size="524288" crc="514fa027" md5="efdf6a8d32f885c39de2e45fcb2b315d" sha1="20347923edcfe1ed5498845f5c227b5b13ea7fc7" sha256="3142cddcece4ac67ccf471ada9e2fd7e4f8e3ba26fb005d1f34b674952014a03"/>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) (Memory Pack) [b]" id="3642">
-		<description>Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) (Memory Pack) [b]</description>
-		<rom name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) (Memory Pack) [b].bs" size="1048576" crc="8b95c1f5" md5="4f8f7038bc70add285e2ca2549c92240" sha1="b7cc6007b60d1f2df14a7369e1c97b3036c08dcc" sha256="7ce3857799cfd29db7d24f59d1904e1e03f5f9031d8b1a787bfd55616beebe78" status="baddump"/>
+	<game name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b]" id="3642">
+		<description>Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b]</description>
+		<rom name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b].bs" size="1048576" crc="8b95c1f5" md5="4f8f7038bc70add285e2ca2549c92240" sha1="b7cc6007b60d1f2df14a7369e1c97b3036c08dcc" sha256="7ce3857799cfd29db7d24f59d1904e1e03f5f9031d8b1a787bfd55616beebe78" status="baddump"/>
 	</game>
 	<game name="Kirby no Omochabako - Cannon Ball (Japan)" id="3586">
 		<description>Kirby no Omochabako - Cannon Ball (Japan)</description>
@@ -1826,10 +1826,10 @@
 		<description>Square Magazine (Japan) (11-21) (SoundLink Magazine) (Standalone Fix)</description>
 		<rom name="Square Magazine (Japan) (11-21) (SoundLink Magazine) (Standalone Fix).bs" size="1048576" crc="899f300a" md5="240beed1dc7e3b3c428464218cd846cb" sha1="d4c301b4c27c20640dd3a2640762c32d69e9ddbd" sha256="165ef505af0f7a510edec2b14818c0f746a95e15793155b2448b26e453d3e09c"/>
 	</game>
-	<game name="Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine) (Memory Pack)" id="3632">
+	<game name="Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine)" id="3632">
 		<category>Magazines</category>
-		<description>Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine) (Memory Pack)</description>
-		<rom name="Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine) (Memory Pack).bs" size="1048576" crc="a623cc18" md5="da62bccf3ef9b3ad8d735379f466efbb" sha1="f2a98504e6317906eed8cd230023bfa62f5e3184" sha256="166c770f5cf3c9a097731465ae0ad9779e83863753c797502894ce715d02c639"/>
+		<description>Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine)</description>
+		<rom name="Square Magazine (11-7) + Square Magazine (11-21) (Japan) (SoundLink Magazine).bs" size="1048576" crc="a623cc18" md5="da62bccf3ef9b3ad8d735379f466efbb" sha1="f2a98504e6317906eed8cd230023bfa62f5e3184" sha256="166c770f5cf3c9a097731465ae0ad9779e83863753c797502894ce715d02c639"/>
 	</game>
 	<game name="Square Magazine (1995-12-5) + Lily Franky Theater - Live Action Version (1995-12-4) (Japan) (SoundLink Magazine)" id="3799">
 		<category>Magazines</category>

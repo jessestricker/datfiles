@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260218-012224</version>
+		<version>20260220-191357</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6885,7 +6885,7 @@
 	<game name="MD Soft Checker (USA) (Proto) (Unl)" id="2727">
 		<category>Applications</category>
 		<description>MD Soft Checker (USA) (Proto) (Unl)</description>
-		<rom name="MD Soft Checker (USA) (Proto) (Unl).md" size="262144" crc="13fc4e61" md5="a9f6b6972b48c1c6f2b81ed017c7de0d" sha1="bd716dbbbe3fd50169fa5bad7e203ce9356fdfc0" sha256="aaa841179cf4978bdcb79c7bae0a10790659f2b47f12693111e79cc89bbbfe79"/>
+		<rom name="MD Soft Checker (USA) (Proto) (Unl).md" size="262144" crc="13fc4e61" md5="a9f6b6972b48c1c6f2b81ed017c7de0d" sha1="bd716dbbbe3fd50169fa5bad7e203ce9356fdfc0" sha256="aaa841179cf4978bdcb79c7bae0a10790659f2b47f12693111e79cc89bbbfe79" status="verified"/>
 	</game>
 	<game name="Medal City (Japan) (Sega Game Toshokan)" id="0038">
 		<category>Games</category>
