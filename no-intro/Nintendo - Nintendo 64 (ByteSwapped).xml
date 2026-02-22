@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260220-211431</version>
+		<version>20260221-192824</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3195,12 +3195,6 @@
 		<category>Preproduction</category>
 		<description>Rakugakids (Europe) (Beta 2) (1998-09-16)</description>
 		<rom name="Rakugakids (Europe) (Beta 2) (1998-09-16).v64" size="12582912" crc="d7816e6b" md5="9af6bdad177f3480196383d95be06b8c" sha1="d7fec3bb522653f7f35a8bc5675675a7446a6158" sha256="385f949d67ce472c699802a445a80b66f82c11c6bf651890d9e90bdf6b29376f" serial="NKRP"/>
-	</game>
-	<game name="Rakugakids (Europe) (Beta 1) (1998-06-19)" id="1312" cloneofid="0601">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Rakugakids (Europe) (Beta 1) (1998-06-19)</description>
-		<rom name="Rakugakids (Europe) (Beta 1) (1998-06-19).v64" size="12582912" crc="af18d40e" md5="3043fb15214f3dd3511e7bedd510fdb3" sha1="2537db2cde618d7efcdf717de5469eca11aa8fa1" sha256="90a3b511b731ed17ac537799bc367445f36944a13aefb25484036e1a2d9f7920"/>
 	</game>
 	<game name="Rally '99 (Japan)" id="0603" cloneofid="0604">
 		<description>Rally '99 (Japan)</description>

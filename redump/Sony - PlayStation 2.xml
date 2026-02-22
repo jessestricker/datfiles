@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11745) (2026-02-21 18-25-54)</description>
-		<version>2026-02-21 18-25-54</version>
-		<date>2026-02-21 18-25-54</date>
+		<description>Sony - PlayStation 2 - Discs (11746) (2026-02-22 18-58-19)</description>
+		<version>2026-02-22 18-58-19</version>
+		<date>2026-02-22 18-58-19</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -61932,5 +61932,11 @@
 		<description>GameShark - GSLite (USA) (Unl)</description>
 		<rom name="GameShark - GSLite (USA) (Unl).cue" size="96" crc="f9d4dd77" md5="476d942493862d9e09d665bf6888bf00" sha1="fc16e0bed31b166277cb9c08b88d6fbd502ea38a"/>
 		<rom name="GameShark - GSLite (USA) (Unl).bin" size="750130416" crc="17164e31" md5="e2bd2ed485bf069c1d8201c4b43e69c5" sha1="92bb253a9fb1705c50cd0770341049a924e19eb7"/>
+	</game>
+	<game name="Fantastic Four (USA) (Beta) (2003-08-29)">
+		<category>Preproduction</category>
+		<description>Fantastic Four (USA) (Beta) (2003-08-29)</description>
+		<rom name="Fantastic Four (USA) (Beta) (2003-08-29).cue" size="106" crc="4c5a537c" md5="b36d257c5d7418523ea35a51ab2f6de7" sha1="a1a93f063c6e935d88b49c904a3b8d324b6647bb"/>
+		<rom name="Fantastic Four (USA) (Beta) (2003-08-29).bin" size="422795520" crc="dfabb12c" md5="6583a783dd35f543bca98888a4576a94" sha1="a31918b6d0574219ca03c0667ea1e3e35b90c3ee"/>
 	</game>
 </datafile>

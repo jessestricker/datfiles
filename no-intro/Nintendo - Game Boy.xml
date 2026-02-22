@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260113-102506</version>
+		<version>20260221-052816</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -173,6 +173,10 @@
 	<game name="Agro Soar (Australia)" id="0022" cloneofid="1486">
 		<description>Agro Soar (Australia)</description>
 		<rom name="Agro Soar (Australia).gb" size="131072" crc="9b7945ea" md5="c8bab3886324f6aec60b65d8584453a1" sha1="d635761f247301fe6bae4d71ee67ceef384ca53a" sha256="e02087b64ad5247aa05ea96facfb193b7ec7d65156dcf6858e12e0aba950e7a6" status="verified"/>
+	</game>
+	<game name="Airaki! (World)" id="2475">
+		<description>Airaki! (World)</description>
+		<rom name="Airaki! (World).gb" size="32768" crc="b8da7094" md5="b61797b4b092545189d709c5a9c06303" sha1="6258873c62beefcfd8f660387021f56e40984f8f" sha256="45d2136dff7a4b51bd1a5a7ef428763be61baa2d91e48beef2be8c6c6c3735f6"/>
 	</game>
 	<game name="Akazukin Chacha (Japan) (SGB Enhanced)" id="0024">
 		<description>Akazukin Chacha (Japan) (SGB Enhanced)</description>
@@ -1774,6 +1778,10 @@
 	<game name="Dragon's Lair - The Legend (USA)" id="0340" cloneofid="0339">
 		<description>Dragon's Lair - The Legend (USA)</description>
 		<rom name="Dragon's Lair - The Legend (USA).gb" size="131072" crc="7a38b5c3" md5="ae4fda03378a0584d45a4735c9d6290e" sha1="4e947908fde7ef9892c59021c6eea0607771f6d2" sha256="15fecc6e3d9f72e9cf3f5af7c1f034cc94a2007d29ea0a204976adcc0ff9a52e"/>
+	</game>
+	<game name="Dragonborne (World)" id="2476">
+		<description>Dragonborne (World)</description>
+		<rom name="Dragonborne (World).gb" size="2097152" crc="0ec224bb" md5="e72b27a9f7f3c1ea81f30eac58aeb50e" sha1="1ba5077f2a10a7822c45eac29050806011073629" sha256="3fa94d02a2339b336949c6d1a4ffac3e905f19fa56f7a3eb39d7f4d72941195d"/>
 	</game>
 	<game name="DragonHeart (France)" id="0341" cloneofid="0342">
 		<description>DragonHeart (France)</description>

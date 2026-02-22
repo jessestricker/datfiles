@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260220-123003</version>
+		<version>20260221-104816</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -870,9 +870,15 @@
 		<description>Dr. Mario BS (Japan) (En) (1-8)</description>
 		<rom name="Dr. Mario BS (Japan) (En) (1-8).bs" size="1048576" crc="b3cc6e6a" md5="3883292b784f9e6f48a4dba542cf602b" sha1="12dc95b3ab24fbb500762f6119f2e067a008e3b9" sha256="680e898bc0518f7e48a84b4cf042e03b77af5b2762c73ee3d7530d8efc453dd7"/>
 	</game>
-	<game name="Dragon Slayer - Eiyuu Densetsu (Japan)" id="0652">
-		<description>Dragon Slayer - Eiyuu Densetsu (Japan)</description>
-		<rom name="Dragon Slayer - Eiyuu Densetsu (Japan).bs" size="1048576" crc="cacbeb09" md5="e312154e1845b1b277358cf71468a4c2" sha1="a0f2e265375c17981f601cb3c9ff8ea16cfbc6e1" sha256="9241f117d74cb3ba9cfb4c803bb040a7067f4265afa833a67a5d7534a4ed30da"/>
+	<game name="Dragon Slayer - Eiyuu Densetsu (Japan) (5-14)" id="0652">
+		<category>Games</category>
+		<description>Dragon Slayer - Eiyuu Densetsu (Japan) (5-14)</description>
+		<rom name="Dragon Slayer - Eiyuu Densetsu (Japan) (5-14).bs" size="1048576" crc="cacbeb09" md5="e312154e1845b1b277358cf71468a4c2" sha1="a0f2e265375c17981f601cb3c9ff8ea16cfbc6e1" sha256="9241f117d74cb3ba9cfb4c803bb040a7067f4265afa833a67a5d7534a4ed30da"/>
+	</game>
+	<game name="Dragon Slayer - Eiyuu Densetsu (Japan) (5-12)" id="3970">
+		<category>Games</category>
+		<description>Dragon Slayer - Eiyuu Densetsu (Japan) (5-12)</description>
+		<rom name="Dragon Slayer - Eiyuu Densetsu (Japan) (5-12).bs" size="1048576" crc="c3d76a56" md5="39b0bdae0367ca1451c10bb154e43cbb" sha1="2e138e509327c4b67c320f2e3773dacef59614eb" sha256="20aad53c1e982e77702b68c130d05f2c829821df886a3f6e032a3650aecc4576"/>
 	</game>
 	<game name="Dynami Tracer (Japan)" id="0682">
 		<description>Dynami Tracer (Japan)</description>
@@ -1228,7 +1234,7 @@
 	</game>
 	<game name="Kirby no Omochabako - Baseball (Japan) (2-9)" id="1364">
 		<description>Kirby no Omochabako - Baseball (Japan) (2-9)</description>
-		<rom name="Kirby no Omochabako - Baseball (Japan) (2-9).bs" size="524288" crc="21cb8fd4" md5="62ec01a92cbd02f4680fcb59c53d7ec2" sha1="728e0bf73e825b2555c6211d35b9041f37f0ae48" sha256="5653628818c1c4d1657c9caffe05f5ab81eb1d318f2001d5ad28124e9060f1c4"/>
+		<rom name="Kirby no Omochabako - Baseball (Japan) (2-9).bs" size="524288" crc="3e475f88" md5="cd567f50a3a8c57b8d84ea32f80b9721" sha1="d467f057359d68e727831f7e82cf10313ab6ee45" sha256="4b31518d86d1141cc6891df4a423d58e38a71f01056b4d819949c0a7670038ce"/>
 	</game>
 	<game name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)" id="3665">
 		<description>Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)</description>
@@ -1256,7 +1262,7 @@
 	</game>
 	<game name="Kirby no Omochabako - Pinball (Japan)" id="1367">
 		<description>Kirby no Omochabako - Pinball (Japan)</description>
-		<rom name="Kirby no Omochabako - Pinball (Japan).bs" size="524288" crc="9d9bbd09" md5="612cad0100b9a37693815542d501a193" sha1="53faf45fd03937f663dd2e8047badb162922f896" sha256="f2fd097cf21d9210f7bb53710008f7b30765faa874a34f19b5e5cc941f2be2c0"/>
+		<rom name="Kirby no Omochabako - Pinball (Japan).bs" size="524288" crc="82176d55" md5="c1241aafb7aeaee7d3197eaaf0af5f96" sha1="5d0bc35bd6d1e97420edc375ccde437d76e66439" sha256="326598539ac7bbc6f4debb2ec86814dc544e338c63dee8ce1309821f0042cd0d"/>
 	</game>
 	<game name="Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink)" id="1384">
 		<description>Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink)</description>
@@ -1289,7 +1295,7 @@
 	</game>
 	<game name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7)" id="3626">
 		<description>Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7)</description>
-		<rom name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7).bs" size="262144" crc="33cb8a80" md5="3768236bfd206e6a3c9dfadd3e23e7bf" sha1="9c2500e5ab9c46cd32a6366fcb3df811888191b4" sha256="e74223bd643e0f6d57959ee4bb8920a9fb4e83d9148db353b1e383fa7e68f89b"/>
+		<rom name="Konae-chan no Dokidoki Penguin Kazoku - Event-ban (Japan) (1-7).bs" size="262144" crc="525a7925" md5="a227dd2c0678bd70c15e9b19ed035170" sha1="b29292dfc58d803664835900e409418861b8f8e9" sha256="5ee0de42a56ec1fa167d5db87c215608b01324e3f4514a6b47a95b0b5a9236f9"/>
 	</game>
 	<game name="Kouryaku Casino Bar Kinyoubi - Slots (Japan) (10-13)" id="3728">
 		<category>Games</category>
