@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260221-052816</version>
+		<version>20260222-003835</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1781,7 +1781,7 @@
 	</game>
 	<game name="Dragonborne (World)" id="2476">
 		<description>Dragonborne (World)</description>
-		<rom name="Dragonborne (World).gb" size="2097152" crc="0ec224bb" md5="e72b27a9f7f3c1ea81f30eac58aeb50e" sha1="1ba5077f2a10a7822c45eac29050806011073629" sha256="3fa94d02a2339b336949c6d1a4ffac3e905f19fa56f7a3eb39d7f4d72941195d"/>
+		<rom name="Dragonborne (World).gb" size="2097152" crc="0ec224bb" md5="e72b27a9f7f3c1ea81f30eac58aeb50e" sha1="1ba5077f2a10a7822c45eac29050806011073629" sha256="3fa94d02a2339b336949c6d1a4ffac3e905f19fa56f7a3eb39d7f4d72941195d" mia="yes"/>
 	</game>
 	<game name="DragonHeart (France)" id="0341" cloneofid="0342">
 		<description>DragonHeart (France)</description>

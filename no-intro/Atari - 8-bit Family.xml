@@ -4,7 +4,7 @@
 		<id>203</id>
 		<name>Atari - 8-bit Family</name>
 		<description>Atari - 8-bit Family</description>
-		<version>20251212-093036</version>
+		<version>20260222-023943</version>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -41,6 +41,11 @@
 	<game name="Basketball (USA)" id="0023">
 		<description>Basketball (USA)</description>
 		<rom name="Basketball (USA).bin" size="8192" crc="79934851" md5="ddd9f7e02145ca65b6cc2c5308d366f0" sha1="639e8f9bf907ed2c46d183f2cdbe33783f6da2fa" sha256="2820d26a6ff19bfa6c84ca007da7b371c889e4bfc98b6fbbdb47b49521928f9d"/>
+	</game>
+	<game name="Boulders and Bombs (USA)" id="0040">
+		<category>Games</category>
+		<description>Boulders and Bombs (USA)</description>
+		<rom name="Boulders and Bombs (USA).bin" size="8192" crc="d6d51d3e" md5="24edb74c29e76171a29d6944d464359b" sha1="90901cd874f4ece8e18d9fff63e2368b4a315624" sha256="bbcadb58959bea03aee64d014775521f70dd57b468a49f598c57ea36eeb63d6f"/>
 	</game>
 	<game name="Caverns of Mars (USA)" id="0037">
 		<description>Caverns of Mars (USA)</description>

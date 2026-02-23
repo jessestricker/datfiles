@@ -4,8 +4,8 @@
 		<id>259</id>
 		<name>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (Dev ROMs)</description>
-		<version>20260220-050125</version>
-		<author>Gefflon, Hiccup, MisterSheeple, rarenight</author>
+		<version>20260222-044610</version>
+		<author>Gefflon, Hiccup, MisterSheeple, rarenight, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -38,7 +38,7 @@
 	<game name="Camera Demo (World) (2010-05-31T195500) (E3 2010 Tech Demo)" id="0022">
 		<category>Preproduction</category>
 		<description>Camera Demo (World) (2010-05-31T195500) (E3 2010 Tech Demo)</description>
-		<rom name="00000000.app" size="3261052" crc="6e7fbb30" md5="90531f71e7508a0abf7edcece1eb678e" sha1="f3cc09b0884c2cd21d1957d10629bb2371fb19ad" sha256="7558459fb01a21183e01cf7f8d3854491ad72757e5759abb5e7d3e8e07ba5bed" mia="yes" serial="000000004e43414d"/>
+		<rom name="00000000.app" size="3261052" crc="6e7fbb30" md5="90531f71e7508a0abf7edcece1eb678e" sha1="f3cc09b0884c2cd21d1957d10629bb2371fb19ad" sha256="7558459fb01a21183e01cf7f8d3854491ad72757e5759abb5e7d3e8e07ba5bed" serial="000000004e43414d"/>
 	</game>
 	<game name="Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)" id="0012">
 		<category>Demos</category>
@@ -48,22 +48,22 @@
 	<game name="Classic Collection (World) (E3 2010 Tech Demo)" id="0019">
 		<category>Preproduction</category>
 		<description>Classic Collection (World) (E3 2010 Tech Demo)</description>
-		<rom name="00000000.app" size="49585728" crc="ade30932" md5="10bb28fbb417114357a678dc7cc4f7bf" sha1="b37eb98e875820ccf1408dd81bc920a5b19ec410" sha256="af3a37f63be552b01aeda21c37061ea5b9cf749162ebd360e661f2515add78b9" mia="yes" serial="000000004e434d31"/>
+		<rom name="00000000.app" size="49585728" crc="ade30932" md5="10bb28fbb417114357a678dc7cc4f7bf" sha1="b37eb98e875820ccf1408dd81bc920a5b19ec410" sha256="af3a37f63be552b01aeda21c37061ea5b9cf749162ebd360e661f2515add78b9" serial="000000004e434d31"/>
 	</game>
 	<game name="How to Train Your Dragon (World) (E3 2010 Movie Trailer)" id="0016">
 		<category>Preproduction</category>
 		<description>How to Train Your Dragon (World) (E3 2010 Movie Trailer)</description>
-		<rom name="00000000.app" size="45920668" crc="c527c3c2" md5="86324235199ccd23ff21e73d1d723cef" sha1="7a83de232c98289625851b967cd98e0cbdb1f01c" sha256="c9aa79913847d7244b3aa81500f536018fc0bbea9a44d598b10487990b8eed27" mia="yes" serial="000000004e4d4457"/>
+		<rom name="00000000.app" size="45920668" crc="c527c3c2" md5="86324235199ccd23ff21e73d1d723cef" sha1="7a83de232c98289625851b967cd98e0cbdb1f01c" sha256="c9aa79913847d7244b3aa81500f536018fc0bbea9a44d598b10487990b8eed27" serial="000000004e4d4457"/>
 	</game>
 	<game name="Legend of the Guardians - The Owls of Ga'Hoole (World) (E3 2010 Movie Trailer)" id="0017">
 		<category>Preproduction</category>
 		<description>Legend of the Guardians - The Owls of Ga'Hoole (World) (E3 2010 Movie Trailer)</description>
-		<rom name="00000000.app" size="44204428" crc="35ef8a84" md5="5a16bf3e21f3a852982a6db5de4e57a7" sha1="6136b15e39554c96bda7bdcb52648a207286da93" sha256="516ff100be7c3e752c58fbd14a06d64710db3bb8589c7a3b348ff26144d310e6" mia="yes" serial="000000004e4d5742"/>
+		<rom name="00000000.app" size="44204428" crc="35ef8a84" md5="5a16bf3e21f3a852982a6db5de4e57a7" sha1="6136b15e39554c96bda7bdcb52648a207286da93" sha256="516ff100be7c3e752c58fbd14a06d64710db3bb8589c7a3b348ff26144d310e6" serial="000000004e4d5742"/>
 	</game>
 	<game name="Mario Kart Preview (World) (2010-06-03T192442) (E3 2010 Autodemo)" id="0025">
 		<category>Preproduction</category>
 		<description>Mario Kart Preview (World) (2010-06-03T192442) (E3 2010 Autodemo)</description>
-		<rom name="00000000.app" size="54247136" crc="f63e9d44" md5="272d2160b77e772b3f92accba55ea2fb" sha1="a27777255a86cf50b5b9e5e465d748d47a0c7a97" sha256="51e2896af3a84b5ad0255a8513599f485ad3a52e83e7aecf8923e321789f7722" mia="yes" serial="000000004e444153"/>
+		<rom name="00000000.app" size="54247136" crc="f63e9d44" md5="272d2160b77e772b3f92accba55ea2fb" sha1="a27777255a86cf50b5b9e5e465d748d47a0c7a97" sha256="51e2896af3a84b5ad0255a8513599f485ad3a52e83e7aecf8923e321789f7722" serial="000000004e444153"/>
 	</game>
 	<game name="Paper Mario Preview (World) (2010-05-28T190436) (Beta) (E3 2010 Trailer)" id="0014">
 		<category>Preproduction</category>
@@ -83,26 +83,26 @@
 	<game name="Pilotwings Resort (World) (2010-06-04T181201) (Beta)" id="0020">
 		<category>Preproduction</category>
 		<description>Pilotwings Resort (World) (2010-06-04T181201) (Beta)</description>
-		<rom name="00000000.app" size="46869116" crc="ab224409" md5="60a69b57c6e888424683ac07b025819d" sha1="9c752df20f0040205b7064352f21823ddf40e910" sha256="19d8f5015ef137066e12e3b25e3f1453d032005c5d3a506eaf3d09ed0c92dd99" mia="yes" serial="000000004e554e41"/>
+		<rom name="00000000.app" size="46869116" crc="ab224409" md5="60a69b57c6e888424683ac07b025819d" sha1="9c752df20f0040205b7064352f21823ddf40e910" sha256="19d8f5015ef137066e12e3b25e3f1453d032005c5d3a506eaf3d09ed0c92dd99" serial="000000004e554e41"/>
 	</game>
 	<game name="Pilotwings Resort (World) (2010-06-08T142622) (E3 2010 Demo)" id="0021">
 		<description>Pilotwings Resort (World) (2010-06-08T142622) (E3 2010 Demo)</description>
-		<rom name="00000000.app" size="52679820" crc="68e571de" md5="441e6abfaa00ec8b662a6b431bb7ec5d" sha1="223ddc157bd307e7de90161c69f52d469f992201" sha256="4f9114a582d4fc97e58fbd248b872d0c31dc508c112c5146f0038c29c1ffe19e" mia="yes" serial="000000004e554e41"/>
+		<rom name="00000000.app" size="52679820" crc="68e571de" md5="441e6abfaa00ec8b662a6b431bb7ec5d" sha1="223ddc157bd307e7de90161c69f52d469f992201" sha256="4f9114a582d4fc97e58fbd248b872d0c31dc508c112c5146f0038c29c1ffe19e" serial="000000004e554e41"/>
 	</game>
 	<game name="Star Fox 64 3D (World) (2010-06-02T150249) (Beta) (E3 2010 Demo)" id="0018">
 		<category>Preproduction</category>
 		<description>Star Fox 64 3D (World) (2010-06-02T150249) (Beta) (E3 2010 Demo)</description>
-		<rom name="00000000.app" size="68192800" crc="2603774c" md5="9121eacbc99b92cffc2468f04e7dc19b" sha1="603d30369656010209db9a8ecf905ac0d3726d77" sha256="1108b4ab48e1e24ebcd162d41e43a67a6a7ffce5d45fcdc0670eb84cedc35d28" mia="yes" serial="000000004e4f494e"/>
+		<rom name="00000000.app" size="68192800" crc="2603774c" md5="9121eacbc99b92cffc2468f04e7dc19b" sha1="603d30369656010209db9a8ecf905ac0d3726d77" sha256="1108b4ab48e1e24ebcd162d41e43a67a6a7ffce5d45fcdc0670eb84cedc35d28" serial="000000004e4f494e"/>
 	</game>
 	<game name="Steel Diver (World) (2010-06-03T103645) (E3 2010 Demo)" id="0026">
 		<category>Preproduction</category>
 		<description>Steel Diver (World) (2010-06-03T103645) (E3 2010 Demo)</description>
-		<rom name="00000000.app" size="82450228" crc="f2e886fa" md5="5e1f4027c9d1cb1797c6450462161227" sha1="78f925e013f8a9db37191bf7dd64a5fd156d871e" sha256="15c9c5c9139b44a3f5b317019779d7aa922177569b7dc17093d65a4ae9c08469" mia="yes" serial="000000004e445353"/>
+		<rom name="00000000.app" size="82450228" crc="f2e886fa" md5="5e1f4027c9d1cb1797c6450462161227" sha1="78f925e013f8a9db37191bf7dd64a5fd156d871e" sha256="15c9c5c9139b44a3f5b317019779d7aa922177569b7dc17093d65a4ae9c08469" serial="000000004e445353"/>
 	</game>
 	<game name="Tangled (World) (E3 2010 Movie Trailer)" id="0015">
 		<category>Preproduction</category>
 		<description>Tangled (World) (E3 2010 Movie Trailer)</description>
-		<rom name="00000000.app" size="38257052" crc="88a1ae4f" md5="3e9a8bab912c430c844c8ec66eefe8e8" sha1="458205a4c3ff20392ce9592bc6772c17e34d77e8" sha256="8cdebae32c47a3cdef5c0d60dd9481ceb1136a56d0525d19f5d59451aca32e25" mia="yes" serial="000000004e4d4449"/>
+		<rom name="00000000.app" size="38257052" crc="88a1ae4f" md5="3e9a8bab912c430c844c8ec66eefe8e8" sha1="458205a4c3ff20392ce9592bc6772c17e34d77e8" sha256="8cdebae32c47a3cdef5c0d60dd9481ceb1136a56d0525d19f5d59451aca32e25" serial="000000004e4d4449"/>
 	</game>
 	<game name="Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)" id="0008">
 		<category>Demos</category>
@@ -135,11 +135,11 @@
 	</game>
 	<game name="Xevious (World) (2010-06-07T170424) (Beta)" id="0023">
 		<description>Xevious (World) (2010-06-07T170424) (Beta)</description>
-		<rom name="00000000.app" size="12957492" crc="108d58bd" md5="ca2b43b8f093d4e914c4fa63c7446610" sha1="18d64ed6493dd441f9dcbf9a8db7fca54dc1a58e" sha256="09304e5506603963ac54583983a31b5ec76fe30434f7cb83566a54baf229a408" mia="yes" serial="000000004e435856"/>
+		<rom name="00000000.app" size="12957492" crc="108d58bd" md5="ca2b43b8f093d4e914c4fa63c7446610" sha1="18d64ed6493dd441f9dcbf9a8db7fca54dc1a58e" sha256="09304e5506603963ac54583983a31b5ec76fe30434f7cb83566a54baf229a408" serial="000000004e435856"/>
 	</game>
 	<game name="Xevious (World) (2010-06-10T190530) (E3 2010 Demo)" id="0024">
 		<category>Preproduction</category>
 		<description>Xevious (World) (2010-06-10T190530) (E3 2010 Demo)</description>
-		<rom name="00000000.app" size="12964724" crc="fbf001c3" md5="eca723520a649bbf1bebcd908dca979b" sha1="98aaae0d071baf9eb995512eadb8939f3c815812" sha256="3a3d3c28e3a86cc1c3fd58c2ffedbebe93f66954c169f8443670d2bec37a6a25" mia="yes" serial="000000004e435856"/>
+		<rom name="00000000.app" size="12964724" crc="fbf001c3" md5="eca723520a649bbf1bebcd908dca979b" sha1="98aaae0d071baf9eb995512eadb8939f3c815812" sha256="3a3d3c28e3a86cc1c3fd58c2ffedbebe93f66954c169f8443670d2bec37a6a25" serial="000000004e435856"/>
 	</game>
 </datafile>
