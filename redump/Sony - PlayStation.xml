@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10903) (2026-02-22 19-35-42)</description>
-		<version>2026-02-22 19-35-42</version>
-		<date>2026-02-22 19-35-42</date>
+		<description>Sony - PlayStation - Discs (10904) (2026-02-24 02-26-41)</description>
+		<version>2026-02-24 02-26-41</version>
+		<date>2026-02-24 02-26-41</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103758,5 +103758,11 @@
 		<description>Inuyasha - Sengoku Otogi Gassen (Japan)</description>
 		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).cue" size="105" crc="d1faa010" md5="366427780549d29b8ee10dd13ca31eb0" sha1="3fe7ef420036aef783c3d0c2504f7d3df1f913c6"/>
 		<rom name="Inuyasha - Sengoku Otogi Gassen (Japan).bin" size="667448208" crc="e524f855" md5="a4abff5baf1b398fd1bfed919d8b27aa" sha1="b18043fdd5ff05d14bf05e98b39a3fb1d717fe78"/>
+	</game>
+	<game name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban)</description>
+		<rom name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban).cue" size="132" crc="52100763" md5="2dab5fcd8a161211971ca976057e4a40" sha1="6bd960ccf9512401d8df80d0ebd3a575f0c22d32"/>
+		<rom name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban).bin" size="247162272" crc="e51c5695" md5="f0e3a6069107d6a7c81762201e505932" sha1="da1167b017d75f0dfb402ffbf379d7fbb5ba0cbe"/>
 	</game>
 </datafile>

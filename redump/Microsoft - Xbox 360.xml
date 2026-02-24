@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3644) (2026-02-23 01-13-29)</description>
-		<version>2026-02-23 01-13-29</version>
-		<date>2026-02-23 01-13-29</date>
+		<description>Microsoft - Xbox 360 - Discs (3645) (2026-02-24 16-51-56)</description>
+		<version>2026-02-24 16-51-56</version>
+		<date>2026-02-24 16-51-56</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18237,5 +18237,10 @@
 		<description>Wireless N Networking Adaptor Installer Disc (USA)</description>
 		<rom name="Wireless N Networking Adaptor Installer Disc (USA).cue" size="116" crc="031c0bd6" md5="235b1c152064443a52d4e919f9662aea" sha1="da1fae7e2ef71f3cbe12feb69b3e02bb313155af"/>
 		<rom name="Wireless N Networking Adaptor Installer Disc (USA).bin" size="110546352" crc="c11dc029" md5="b9c8c93fa9ae6c57070683aace269133" sha1="f56cf01942a2e7a6db3ba7d21bb67184cefa65ad"/>
+	</game>
+	<game name="Dragon Age - Origins (France)">
+		<category>Games</category>
+		<description>Dragon Age - Origins (France)</description>
+		<rom name="Dragon Age - Origins (France).iso" size="7838695424" crc="9c622fb9" md5="045b3fb10154df07a848f79d51319770" sha1="d56664da70c125f4dd642b1fb624c8d3bbdf5cef"/>
 	</game>
 </datafile>
