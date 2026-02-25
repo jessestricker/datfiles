@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2413) (2026-02-23 10-09-28)</description>
-		<version>2026-02-23 10-09-28</version>
-		<date>2026-02-23 10-09-28</date>
+		<description>Sega - Saturn - Discs (2413) (2026-02-25 02-41-50)</description>
+		<version>2026-02-25 02-41-50</version>
+		<date>2026-02-25 02-41-50</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -21581,32 +21581,32 @@
 		<rom name="Langrisser - Dramatic Edition (Japan) (2M) (Track 5).bin" size="73629360" crc="a1770a5e" md5="1427247213842362b581e90cacc4782b" sha1="287febe28f2644a3401d368cd75d4f228997e7ab"/>
 		<rom name="Langrisser - Dramatic Edition (Japan) (2M) (Track 6).bin" size="1764000" crc="e41a2677" md5="5fa25e3d26c38d2d677bebfc0fcf287c" sha1="dea1e2dd78a5e31eb86a5b366538daa549480752"/>
 	</game>
-	<game name="Langrisser III (Japan) (Rev A) (7M)">
+	<game name="Langrisser III (Japan) (Rev A) (7M, 10M)">
 		<category>Games</category>
-		<description>Langrisser III (Japan) (Rev A) (7M)</description>
-		<rom name="Langrisser III (Japan) (Rev A) (7M).cue" size="2870" crc="e5270810" md5="5b90c8a3e43758125784c8321c342aa2" sha1="0ddadc0e19ae46de147f5707e8b32904377d2747"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 01).bin" size="77098560" crc="2acd6725" md5="527c0cd9cca6b147cb50bf8b79940f57" sha1="5de9c016a03ec97fa23684f87fef8aad756f7303"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 02).bin" size="132457584" crc="3e268c2d" md5="a02fc8760a94e21caa20211e108cc16f" sha1="12481b37a5363e92182fedab4314fa74444cb76c"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 03).bin" size="6126960" crc="4d418d44" md5="db52a01f71cc37d6163f7dbab0010da4" sha1="838cb9c5843c807736a92dc0d56c315127ac8701"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 04).bin" size="7272384" crc="602b0374" md5="2f577596955d7bdc2db5faa42664a5b5" sha1="ad43dcf5dab14361daf826004ba53f5af1c3d0ee"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 05).bin" size="10939152" crc="2b9b6b6f" md5="ad7e2f33b60d58dfdb079526dab69f41" sha1="9fa76aed0fd3ca0223d7969d0402bd611faa936a"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 06).bin" size="7232400" crc="e44fd5b3" md5="f4c9c955c90064c42a92a67993490d05" sha1="51778c7d149d436950cd37998c57798267a4f6f1"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 07).bin" size="7451136" crc="18cfd79f" md5="9cc35079e06b70b811a99f9ff2f0be4b" sha1="36ce50c798c46183d47851c080b6ff88a5944241"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 08).bin" size="6439776" crc="18d74f21" md5="4195deac6489d4c0bf33fc1a7de09822" sha1="d23c19382ab087ce107f89f47f0ffb37d83421ce"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 09).bin" size="6124608" crc="118f99f6" md5="31c7d634f2f794f6cd2678b6882fba72" sha1="6c07719d72a422a8ab4c8c8e0132442f71bd1515"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 10).bin" size="9429168" crc="02008496" md5="e63e7e643b68baec60cc506b13eb7f55" sha1="b7dfa100ac845f7e23095c2f457802f26ba6e888"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 11).bin" size="7213584" crc="8085e0ac" md5="f7567d12a88ace79cd8cb3a40526231b" sha1="e813d8aea7e9513e198b518555b0906c4d4efcad"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 12).bin" size="6754944" crc="57d9c3a9" md5="d397ccb8d40d6665319122c99086c15b" sha1="b7fec55e58d4eb0741aafdbbba98a459650e9016"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 13).bin" size="6136368" crc="e1d0f016" md5="d4bad8251bb792593c270ca4e4871e50" sha1="d6a8937d5fea98f4e8fe2f7d66103810e206d992"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 14).bin" size="6825504" crc="fb51d124" md5="96fe3127eace2f807289733641dc541a" sha1="8c97c6b385230a1dec4ca05d541b88301311d75a"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 15).bin" size="8801184" crc="ebbe7c53" md5="6a98bb7a0c16499c55c83533107030e7" sha1="0f8b16413e49323ef46a6662e281182595563e6d"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 16).bin" size="8398992" crc="02a25174" md5="27df21b5edb576cb6c402f1fefff32a6" sha1="944556f7be24ecdb274aa2451e6790c8ca515400"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 17).bin" size="11470704" crc="278d0714" md5="c2f7bd5af635b1bf54eddb28aa076062" sha1="88e0feeb14f87387a0b053be194adde25f91cc0b"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 18).bin" size="9212784" crc="c16e4a3c" md5="4228f3f187bc122a138414c4a567e5ef" sha1="d47dbcbc0400876f72c5604420ae58c1e06f283c"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 19).bin" size="7063056" crc="33ed25de" md5="1d285490a4429c7ed386966a03adae3c" sha1="48c5386138a5c3fc174c8c22c6c1b8477dd1c0ec"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 20).bin" size="7317072" crc="d356a07a" md5="635428620dcfab69c5d1531f5129b03a" sha1="36ef9c0d17f59c2dbd6a40a0494e573626d3d698"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 21).bin" size="19107648" crc="a16b55cf" md5="c93fe4e2929216d38ddbe22335bc9691" sha1="eeb00c894f8045340cdc31a8e838a6ea57d583f9"/>
-		<rom name="Langrisser III (Japan) (Rev A) (7M) (Track 22).bin" size="26751648" crc="9807f13f" md5="9085aee8918355fec27d42b3aeb3b585" sha1="d19f37f0bfd652cc628997da4f698c30bdb4823f"/>
+		<description>Langrisser III (Japan) (Rev A) (7M, 10M)</description>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M).cue" size="2980" crc="84752581" md5="482ac6779fdb8cbe7aef716956c81882" sha1="7761129e8e0521555a7abb7afcb646c05580d7a0"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 01).bin" size="77098560" crc="2acd6725" md5="527c0cd9cca6b147cb50bf8b79940f57" sha1="5de9c016a03ec97fa23684f87fef8aad756f7303"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 02).bin" size="132457584" crc="3e268c2d" md5="a02fc8760a94e21caa20211e108cc16f" sha1="12481b37a5363e92182fedab4314fa74444cb76c"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 03).bin" size="6126960" crc="4d418d44" md5="db52a01f71cc37d6163f7dbab0010da4" sha1="838cb9c5843c807736a92dc0d56c315127ac8701"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 04).bin" size="7272384" crc="602b0374" md5="2f577596955d7bdc2db5faa42664a5b5" sha1="ad43dcf5dab14361daf826004ba53f5af1c3d0ee"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 05).bin" size="10939152" crc="2b9b6b6f" md5="ad7e2f33b60d58dfdb079526dab69f41" sha1="9fa76aed0fd3ca0223d7969d0402bd611faa936a"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 06).bin" size="7232400" crc="e44fd5b3" md5="f4c9c955c90064c42a92a67993490d05" sha1="51778c7d149d436950cd37998c57798267a4f6f1"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 07).bin" size="7451136" crc="18cfd79f" md5="9cc35079e06b70b811a99f9ff2f0be4b" sha1="36ce50c798c46183d47851c080b6ff88a5944241"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 08).bin" size="6439776" crc="18d74f21" md5="4195deac6489d4c0bf33fc1a7de09822" sha1="d23c19382ab087ce107f89f47f0ffb37d83421ce"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 09).bin" size="6124608" crc="118f99f6" md5="31c7d634f2f794f6cd2678b6882fba72" sha1="6c07719d72a422a8ab4c8c8e0132442f71bd1515"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 10).bin" size="9429168" crc="02008496" md5="e63e7e643b68baec60cc506b13eb7f55" sha1="b7dfa100ac845f7e23095c2f457802f26ba6e888"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 11).bin" size="7213584" crc="8085e0ac" md5="f7567d12a88ace79cd8cb3a40526231b" sha1="e813d8aea7e9513e198b518555b0906c4d4efcad"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 12).bin" size="6754944" crc="57d9c3a9" md5="d397ccb8d40d6665319122c99086c15b" sha1="b7fec55e58d4eb0741aafdbbba98a459650e9016"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 13).bin" size="6136368" crc="e1d0f016" md5="d4bad8251bb792593c270ca4e4871e50" sha1="d6a8937d5fea98f4e8fe2f7d66103810e206d992"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 14).bin" size="6825504" crc="fb51d124" md5="96fe3127eace2f807289733641dc541a" sha1="8c97c6b385230a1dec4ca05d541b88301311d75a"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 15).bin" size="8801184" crc="ebbe7c53" md5="6a98bb7a0c16499c55c83533107030e7" sha1="0f8b16413e49323ef46a6662e281182595563e6d"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 16).bin" size="8398992" crc="02a25174" md5="27df21b5edb576cb6c402f1fefff32a6" sha1="944556f7be24ecdb274aa2451e6790c8ca515400"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 17).bin" size="11470704" crc="278d0714" md5="c2f7bd5af635b1bf54eddb28aa076062" sha1="88e0feeb14f87387a0b053be194adde25f91cc0b"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 18).bin" size="9212784" crc="c16e4a3c" md5="4228f3f187bc122a138414c4a567e5ef" sha1="d47dbcbc0400876f72c5604420ae58c1e06f283c"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 19).bin" size="7063056" crc="33ed25de" md5="1d285490a4429c7ed386966a03adae3c" sha1="48c5386138a5c3fc174c8c22c6c1b8477dd1c0ec"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 20).bin" size="7317072" crc="d356a07a" md5="635428620dcfab69c5d1531f5129b03a" sha1="36ef9c0d17f59c2dbd6a40a0494e573626d3d698"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 21).bin" size="19107648" crc="a16b55cf" md5="c93fe4e2929216d38ddbe22335bc9691" sha1="eeb00c894f8045340cdc31a8e838a6ea57d583f9"/>
+		<rom name="Langrisser III (Japan) (Rev A) (7M, 10M) (Track 22).bin" size="26751648" crc="9807f13f" md5="9085aee8918355fec27d42b3aeb3b585" sha1="d19f37f0bfd652cc628997da4f698c30bdb4823f"/>
 	</game>
 	<game name="Langrisser V - The End of Legend (Japan) (3M)">
 		<category>Games</category>
