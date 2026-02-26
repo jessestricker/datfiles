@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260217-051904</version>
+		<version>20260225-213748</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7380,7 +7380,7 @@
 		<rom name="Mario's Time Machine (Germany).sfc" size="1048576" crc="1d5a48d3" md5="a2b37dcbc9729700137f2381553a25a6" sha1="7b20b6235a1c64486946fe71bb62cac03d6f3f6d" sha256="1e5830c4c8c9f60677a53eda3327f4302c867b9f36e19dcb339db8e8651e5ccf"/>
 	</game>
 	<game name="Mario's Time Machine (USA)" id="1569" cloneofid="1567">
-		<category>Games</category>
+		<category>Educational</category>
 		<description>Mario's Time Machine (USA)</description>
 		<rom name="Mario's Time Machine (USA).sfc" size="1048576" crc="5e7397e0" md5="f20ee859055845bffd2b3d1b2e9a4ec6" sha1="e5140776ed65480ace64deb0b8cbba23295a9a25" sha256="4b69d4958e099c3b3f6ae45e153ced9b24755d8c161dfee06c9f67886a7c0f09"/>
 	</game>

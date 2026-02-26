@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260209-000508</version>
+		<version>20260225-082916</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14118,6 +14118,10 @@
 	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)" id="0060" cloneofid="0654">
 		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan).gba" size="8388608" crc="f3041e7e" md5="31dd0e7efd461e004cfa6bad8e7b0e57" sha1="dc25f733cee913afdf187ec03df30909fe28b03c" sha256="59f3141578ae1747bd333c507971a93453e376fbc6a9579c3b148bfca408ae03" status="verified" serial="AY5J"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)" id="3299">
+		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan).gba" size="4194304" crc="8d93e52d" md5="716368d2062bb02136b7ded6a8db687e" sha1="0807b14c08cecbbf95a2707fb6293ea5d53a7c65" sha256="23fd9f753ad0b130fc4bb8a0fc6784f0545f711fef521351965ec7c5bf207ad5" serial="AYTJ"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)" id="0255">
 		<description>Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)</description>

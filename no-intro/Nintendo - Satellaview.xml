@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260221-104816</version>
+		<version>20260225-110424</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -135,8 +135,8 @@
 		<rom name="Bokujou Monogatari (Japan) (Demo) (1996-7-25).bs" size="1048576" crc="301cd5c2" md5="3902bc57e64cf4cc742bdee8dcf7f06c" sha1="ae5d7edbe13d0e6c37160d7fcac64543898870b9" sha256="5eb062bb400d9f3e60e5d2fece1aa1c7890fb1ebc4d393cbd988973f0f49ef24"/>
 	</game>
 	<game name="Bokujou Monogatari (Japan) (Demo) (1996-7-29)" id="3948">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Bokujou Monogatari (Japan) (Demo) (1996-7-29)</description>
 		<rom name="Bokujou Monogatari (Japan) (Demo) (1996-7-29).bs" size="1048576" crc="8b37ce9a" md5="4a2ef68dc42fd82f3f616923dc10c2fa" sha1="152b4da79b83b963cc3025ced12ef2ff49e83785" sha256="5e617127e03490a745e6e12e66bc455365226bf863711c06229611683ad2d30c"/>
 	</game>
@@ -487,10 +487,15 @@
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-23) (SoundLink)</description>
 		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (Premiere) (1997-2-23) (SoundLink).bs" size="1048576" crc="4ae1fdeb" md5="89a4b5f7ea6d2ffef554e4ad9da1f72c" sha1="de5140ed7fe166f884eac409077a1cee16bc3325" sha256="d68de8ed128bbf74b6ce506baf2b281de28cf6057df584412461f851d6726a63"/>
 	</game>
-	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink)" id="3939">
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)" id="3939">
 		<category>Games</category>
-		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink)</description>
-		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-22) (SoundLink).bs" size="1048576" crc="b5fd446d" md5="cbd73501db873b78c73a6886df49bec4" sha1="2beec53e0f69e51168d5916100ce41176c7e65a8" sha256="3a9f819cc0576bc23f9e2e85c6fbe5f3f0d36d5fc6042050371449328189c835"/>
+	</game>
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)" id="3971">
+		<category>Games</category>
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink).bs" size="1048576" crc="78336cd9" md5="de2d8f871ac7e7dd9b209dacd690a0bb" sha1="8ac1ae61dc9094eab79b69ddbd9a38deca0f2ddf" sha256="b6639b06a678aba6e1cbd1c262b647b4c9f842d2315632c52decfc22f5735a00"/>
 	</game>
 	<game name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)" id="0344">
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)</description>
@@ -1397,6 +1402,12 @@
 		<description>Madou Monogatari - Hanamaru Daiyouchienji (Japan)</description>
 		<rom name="Madou Monogatari - Hanamaru Daiyouchienji (Japan).bs" size="1048576" crc="6e863251" md5="1d1f08c8588ac235c27d55a970057b21" sha1="f55f3a5ac5fba32699ed65ace25023d8fe7246e3" sha256="e5b44116136b09d2fe3b98dd1c852b6362ddfec9bfe9653267129235f61602cc"/>
 	</game>
+	<game name="Mahjong Hishouden - Shin Naki no Ryuu (Japan) (Demo) (1995-10-7)" id="3973">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Mahjong Hishouden - Shin Naki no Ryuu (Japan) (Demo) (1995-10-7)</description>
+		<rom name="Mahjong Hishouden - Shin Naki no Ryuu (Japan) (Demo) (1995-10-7).bs" size="1048576" crc="430db0d0" md5="b1f0364ad47ee281c76fc114ab663afa" sha1="207b2deb83a3ca902eefca495a2c6f71b25608e8" sha256="41ee04b203dad088105f10012819fcedcd76b398a8958ed256198e27fb9b70e8"/>
+	</game>
 	<game name="MARIA - Part 1 (Japan) (SoundLink Magazine)" id="3488">
 		<description>MARIA - Part 1 (Japan) (SoundLink Magazine)</description>
 		<rom name="MARIA - Part 1 (Japan) (SoundLink Magazine).bs" size="1048576" crc="c406562f" md5="4fdc885b7c5d03e0b40350cfa2cf3577" sha1="52eadd827bdba497bc2b0dc10ccfec4abebc8c0f" sha256="82d61c86d7e152dc48c5f62c786218677537b45a0ed35fb0d276bf9a4e9163ec" status="verified"/>
@@ -1412,6 +1423,12 @@
 	<game name="Mario Paint - Yuushou Naizou Ban (Japan)" id="1562">
 		<description>Mario Paint - Yuushou Naizou Ban (Japan)</description>
 		<rom name="Mario Paint - Yuushou Naizou Ban (Japan).bs" size="1048576" crc="d521d521" md5="fb7adb28d74f2f1c56998d527b5be6bb" sha1="9007790195990a0495a68bc9bcecf5f5bcae50f8" sha256="59cbe4cfd6482434c596c61f2bfd8f7b5d6551aabd32c6118ad4186ba3d2372f"/>
+	</game>
+	<game name="Mickey to Donald - Magical Adventure 3 (Japan) (Demo) (1996-1-7)" id="3974">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Mickey to Donald - Magical Adventure 3 (Japan) (Demo) (1996-1-7)</description>
+		<rom name="Mickey to Donald - Magical Adventure 3 (Japan) (Demo) (1996-1-7).bs" size="1048576" crc="27c3849c" md5="e1817cf88f4b7043098440d26199bd32" sha1="3e22d6856fffe8fe8b69dad721d2e48c9ca75006" sha256="81bae7c1a1a5467cc509348a373f03cb010aeaafb8316ac784e7367c4e16e477"/>
 	</game>
 	<game name="Mirai-gata Idol Kaihatsu System - Media Strawberry (Japan) (SoundLink Magazine)" id="3662">
 		<category>Magazines</category>
@@ -1485,6 +1502,11 @@
 		<category>Magazines</category>
 		<description>Oryouri Pon 12 Tsuki-gou (Japan) (Magazine)</description>
 		<rom name="Oryouri Pon 12 Tsuki-gou (Japan) (Magazine).bs" size="1048576" crc="bce077f4" md5="82b33db7c22db13d590ec38ad5ae6c3a" sha1="706295145aa80982e927337fbcb46c8ef26d0d95" sha256="85f06c6df7fd294d4193a3b62084c15b919a9cb2c6d8d3a1a216c365ccf1c0c7"/>
+	</game>
+	<game name="Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine)" id="3972">
+		<category>Magazines</category>
+		<description>Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine)</description>
+		<rom name="Otakuman wa do Itsuda! (1995-5-19) + Game Tora no Ooana (1995-5-19) (Japan) (SoundLink Magazine).bs" size="1048576" crc="c3c1e7bb" md5="f3c14849ec70af1ec53339ff85c7717e" sha1="2e7b8997f96c8e6060983c0688a82779548b16dd" sha256="a5dac4d8941b62406e1ce508997bb1fa266976bdefee37d55f2f2d71e8120b5b"/>
 	</game>
 	<game name="Panel de Pon - BS Ban (Japan)" id="3818">
 		<category>Games</category>
@@ -2242,10 +2264,11 @@
 		<description>Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27)</description>
 		<rom name="Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27).bs" size="1048576" crc="b3a1f758" md5="abedb92456755b0e5fb470973e359c8d" sha1="4b2b9aa79f0fa13a4b6e59c61e21541c50c52621" sha256="5df40ca332084309e3603cba326881ec3332aee98998a424caf312b8713a97bc"/>
 	</game>
-	<game name="Umi no Nushi Tsuri (Japan) (Demo)" id="3945">
+	<game name="Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7)" id="3945">
+		<category>Demos</category>
 		<category>Games</category>
-		<description>Umi no Nushi Tsuri (Japan) (Demo)</description>
-		<rom name="Umi no Nushi Tsuri (Japan) (Demo).bs" size="1048576" crc="a7f09d8a" md5="d6c514dd0cbf905dffbf186fee42b70f" sha1="2c198ea7a9b3c8d48e82840d27d5601985dd65d7" sha256="5e174caee40c34983020e7931a37eab1b4ac4298a99ae93297d5e007fbc10b4d"/>
+		<description>Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7)</description>
+		<rom name="Umi no Nushi Tsuri (Japan) (Demo) (1996-7-7).bs" size="1048576" crc="a7f09d8a" md5="d6c514dd0cbf905dffbf186fee42b70f" sha1="2c198ea7a9b3c8d48e82840d27d5601985dd65d7" sha256="5e174caee40c34983020e7931a37eab1b4ac4298a99ae93297d5e007fbc10b4d"/>
 	</game>
 	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (5-29)" id="3737">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4473) (2026-02-24 14-14-41)</description>
-		<version>2026-02-24 14-14-41</version>
-		<date>2026-02-24 14-14-41</date>
+		<description>Sony - PlayStation 3 - Discs (4476) (2026-02-26 15-28-27)</description>
+		<version>2026-02-26 15-28-27</version>
+		<date>2026-02-26 15-28-27</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22386,5 +22386,20 @@
 		<category>Games</category>
 		<description>Pixel Junk 3 in 1 Pack (Asia)</description>
 		<rom name="Pixel Junk 3 in 1 Pack (Asia).iso" size="769982464" crc="a383ac3c" md5="4b3ec5551e97ff17430068d0b899acbf" sha1="6dfcfece19395b89579072c31d0a3e26fb1b93a9"/>
+	</game>
+	<game name="Lord of the Rings, The - War in the North (Korea)">
+		<category>Games</category>
+		<description>Lord of the Rings, The - War in the North (Korea)</description>
+		<rom name="Lord of the Rings, The - War in the North (Korea).iso" size="7052918784" crc="b5235106" md5="99bd208114b27d2af0715e08eb3df687" sha1="2476f7b0b29be0db176b89db69ed1785e2056f36"/>
+	</game>
+	<game name="Def Jam - Icon (Korea)">
+		<category>Games</category>
+		<description>Def Jam - Icon (Korea)</description>
+		<rom name="Def Jam - Icon (Korea).iso" size="7999586304" crc="5afef9fd" md5="4c11de2b3ba7ffcab802c1a3afb58ab0" sha1="1c11ac51c7bd515aea1611c9facdb6567af747e6"/>
+	</game>
+	<game name="Untold Legends - Dark Kingdom (Korea)">
+		<category>Games</category>
+		<description>Untold Legends - Dark Kingdom (Korea)</description>
+		<rom name="Untold Legends - Dark Kingdom (Korea).iso" size="10245177344" crc="e2911fa5" md5="ea8f09fdf4adbdddce8ea49b8b28d695" sha1="c2c689d29bafbc309163727b0a1880295affed91"/>
 	</game>
 </datafile>
