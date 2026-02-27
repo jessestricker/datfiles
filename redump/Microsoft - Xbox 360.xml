@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3646) (2026-02-26 17-09-42)</description>
-		<version>2026-02-26 17-09-42</version>
-		<date>2026-02-26 17-09-42</date>
+		<description>Microsoft - Xbox 360 - Discs (3647) (2026-02-27 15-39-05)</description>
+		<version>2026-02-27 15-39-05</version>
+		<date>2026-02-27 15-39-05</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -10714,10 +10714,10 @@
 		<description>Xbox 360 - Xbox Magazine Ufficiale Numero 97 - Agosto 2009 (Europe)</description>
 		<rom name="Xbox 360 - Xbox Magazine Ufficiale Numero 97 - Agosto 2009 (Europe).iso" size="7838695424" crc="61163fa4" md5="746508d9e1f8d60a477d7975fdd7e824" sha1="1a4eff0c65c63ad917e1cca072433012f309332f"/>
 	</game>
-	<game name="Scene It Lights, Camera, Action! (Italy)">
+	<game name="Scene It Luci, Camera, Azione! (Italy)">
 		<category>Games</category>
-		<description>Scene It Lights, Camera, Action! (Italy)</description>
-		<rom name="Scene It Lights, Camera, Action! (Italy).iso" size="7835492352" crc="5b696aed" md5="5ca77932b99c0ae368cb8e7a2e99192d" sha1="58abd4933dcf854330ef4bccd69b6d031159186a"/>
+		<description>Scene It Luci, Camera, Azione! (Italy)</description>
+		<rom name="Scene It Luci, Camera, Azione! (Italy).iso" size="7835492352" crc="5b696aed" md5="5ca77932b99c0ae368cb8e7a2e99192d" sha1="58abd4933dcf854330ef4bccd69b6d031159186a"/>
 	</game>
 	<game name="Xbox 360 - The Official Xbox Magazine Issue 63 - September 2010 (Europe, Australia)">
 		<category>Coverdiscs</category>
@@ -18247,5 +18247,10 @@
 		<category>Games</category>
 		<description>Wolfenstein (France) (En,Fr,De,Es,It,Ru)</description>
 		<rom name="Wolfenstein (France) (En,Fr,De,Es,It,Ru).iso" size="7838695424" crc="90d443f8" md5="9c1dd01e055c8dada3a9aa1ceeeac981" sha1="43057aac9eb9f4ca02e9a853991e936be05bf0d6"/>
+	</game>
+	<game name="Scene It Cinema en folie (France)">
+		<category>Games</category>
+		<description>Scene It Cinema en folie (France)</description>
+		<rom name="Scene It Cinema en folie (France).iso" size="7835492352" crc="2af47850" md5="576ba62c08eecccc2bb8ed19b5e76421" sha1="39f858b91184e3d27b8e715fe0ab645c82fb08c3"/>
 	</game>
 </datafile>

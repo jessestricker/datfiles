@@ -4,7 +4,7 @@
 		<id>26</id>
 		<name>Sega - Master System - Mark III</name>
 		<description>Sega - Master System - Mark III</description>
-		<version>20260225-205935</version>
+		<version>20260226-210802</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -163,11 +163,11 @@
 		<description>94-Nen Super Basketball (Taiwan) (En) (Unl)</description>
 		<rom name="94-Nen Super Basketball (Taiwan) (En) (Unl).sms" size="131072" crc="6fe448a5" md5="201322a59c6a6607014701e4235b07d5" sha1="3424fea350cde85a3840938a615906bb37769811" sha256="15ea0d260c502a72f9be33cef935b6477b08b0c0438b98254b5633fcf25111e0"/>
 	</game>
-	<game name="A-Team Music, The (Europe) (Proto) (1992-11-09) (Sound Data)" id="0735">
+	<game name="A-Team Music, The (Europe) (Proto) (Sound Data)" id="0735">
 		<category>Audio</category>
 		<category>Preproduction</category>
-		<description>A-Team Music, The (Europe) (Proto) (1992-11-09) (Sound Data)</description>
-		<rom name="A-Team Music, The (Europe) (Proto) (1992-11-09) (Sound Data).sms" size="32768" crc="0eb430ff" md5="55632e40576af1d12fd8f8764c6e9fc3" sha1="830506c001ce0d9b320b4a4ce5a580ce9c31e147" sha256="65a2bb1d849da19853e1aae9937ed70d2d3771ba385a945a3b56ff1cc2f4b261"/>
+		<description>A-Team Music, The (Europe) (Proto) (Sound Data)</description>
+		<rom name="A-Team Music, The (Europe) (Proto) (Sound Data).sms" size="32768" crc="0eb430ff" md5="55632e40576af1d12fd8f8764c6e9fc3" sha1="830506c001ce0d9b320b4a4ce5a580ce9c31e147" sha256="65a2bb1d849da19853e1aae9937ed70d2d3771ba385a945a3b56ff1cc2f4b261"/>
 	</game>
 	<game name="Ace of Aces (Europe, Brazil) (En)" id="0002">
 		<category>Games</category>
@@ -285,10 +285,6 @@
 		<category>Games</category>
 		<description>Alex Kidd in Miracle World (World) (En) (Sega Ages)</description>
 		<rom name="Alex Kidd in Miracle World (World) (En) (Sega Ages).sms" size="131072" crc="50a8e8a7" md5="89da0a1c14b660741680104024aa5942" sha1="25de50cc6cf8a78998c1f61109a2219b46873bbb" sha256="42c08c72ffff8a8c0bb6dc6e53ba2cc1e12c95f59c02461914c136030bcd8f7b" status="verified"/>
-	</game>
-	<game name="Alex Kidd in Miracle World 2 (World) (Unl)" id="0621">
-		<description>Alex Kidd in Miracle World 2 (World) (Unl)</description>
-		<rom name="Alex Kidd in Miracle World 2 (World) (Unl).sms" size="524288" crc="7de172ff" md5="e9b53d893bf8fc94015de722f610c7eb" sha1="d85aba7a276d751302f6a076ab2beb32cd654497"/>
 	</game>
 	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)" id="0017">
 		<category>Games</category>
@@ -525,11 +521,11 @@
 		<description>Battle Out Run (Europe, Brazil) (En)</description>
 		<rom name="Battle Out Run (Europe, Brazil) (En).sms" size="262144" crc="c19430ce" md5="83609eb760c3af64915fd6e73ee7d99e" sha1="cfa8721d4fc71b1f14e9a06f2db715a6f88be7dd" sha256="478a931997ade2a6f487a181a9d527cecf4668b0129ae55f634347f5186a160d" status="verified"/>
 	</game>
-	<game name="Battle Wings (World) (Beta) (1988-09-07)" id="0624" cloneofid="0055">
+	<game name="Battle Wings (World) (Beta)" id="0624" cloneofid="0055">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Battle Wings (World) (Beta) (1988-09-07)</description>
-		<rom name="Battle Wings (World) (Beta) (1988-09-07).sms" size="262144" crc="fae0ade7" md5="4535b1616c9f8ad54348fadb1abb439c" sha1="99fef1cca416df8586d3aaf76d147e86e69dbdad" sha256="87de4f016d2b7f76a53369720912369b619f16bd52c1addd4a223fd758f63614"/>
+		<description>Battle Wings (World) (Beta)</description>
+		<rom name="Battle Wings (World) (Beta).sms" size="262144" crc="fae0ade7" md5="4535b1616c9f8ad54348fadb1abb439c" sha1="99fef1cca416df8586d3aaf76d147e86e69dbdad" sha256="87de4f016d2b7f76a53369720912369b619f16bd52c1addd4a223fd758f63614"/>
 	</game>
 	<game name="Battlemaniacs (Brazil) (En)" id="0052">
 		<category>Games</category>
@@ -846,11 +842,11 @@
 		<description>Cyborg Hunter (USA, Europe, Brazil) (En)</description>
 		<rom name="Cyborg Hunter (USA, Europe, Brazil) (En).sms" size="131072" crc="908e7524" md5="ac90d79743cac1afcd7049f7b4e73bc4" sha1="b6131585cb944d7fae69ad609802a1b5d51b442f" sha256="62caa88da76d2ee5cbd6334254c46d8c6e150a0f56d2cbc1aea8bcc1adbc7d78" status="verified"/>
 	</game>
-	<game name="Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12)" id="0625" cloneofid="0087">
+	<game name="Cyborg Hunter (USA, Europe, Brazil) (En) (Beta)" id="0625" cloneofid="0087">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12)</description>
-		<rom name="Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12).sms" size="131072" crc="691211a1" md5="d2f26a0eb02c78b2505846ba5de90889" sha1="6e1259bf0d8888d63d5033a0fafd53592b5697e2" sha256="e3ca52627403be0162cec73761562f2b6497ed352f028c26f0dcb6cfe252405a"/>
+		<description>Cyborg Hunter (USA, Europe, Brazil) (En) (Beta)</description>
+		<rom name="Cyborg Hunter (USA, Europe, Brazil) (En) (Beta).sms" size="131072" crc="691211a1" md5="d2f26a0eb02c78b2505846ba5de90889" sha1="6e1259bf0d8888d63d5033a0fafd53592b5697e2" sha256="e3ca52627403be0162cec73761562f2b6497ed352f028c26f0dcb6cfe252405a"/>
 	</game>
 	<game name="Cyborg Z (Korea) (En) (Unl)" id="0550">
 		<category>Games</category>
@@ -1762,17 +1758,17 @@
 		<description>Lemmings (Europe, Brazil) (En)</description>
 		<rom name="Lemmings (Europe, Brazil) (En).sms" size="262144" crc="f369b2d8" md5="b190f17a46ba9cc66676e7174209c24e" sha1="f3a853cce1249a0848bfc0344f3ee2db6efa4c01" sha256="0b7e8f3ecd357c8129a214ea9b5723c4191b9550a0e94b120f70954fd668ad0c" status="verified"/>
 	</game>
-	<game name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)" id="0571">
+	<game name="Lemmings 2 - The Tribes (Europe) (Proto)" id="0571">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)</description>
-		<rom name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms" size="524288" crc="cf5aecca" md5="3da5f5122f3d94360de61bcb8478e169" sha1="30b97f8afac0044ceda2722f5fddd31ba30de571" sha256="f41412a9a3a28d4f32ba54ffd695571856b70d2462378eea97717612dbf01a8c"/>
+		<description>Lemmings 2 - The Tribes (Europe) (Proto)</description>
+		<rom name="Lemmings 2 - The Tribes (Europe) (Proto).sms" size="524288" crc="cf5aecca" md5="3da5f5122f3d94360de61bcb8478e169" sha1="30b97f8afac0044ceda2722f5fddd31ba30de571" sha256="f41412a9a3a28d4f32ba54ffd695571856b70d2462378eea97717612dbf01a8c"/>
 	</game>
-	<game name="Lethal Weapon 3 Music (Europe) (Proto) (1992-11-30) (Sound Data)" id="0734">
+	<game name="Lethal Weapon 3 Music (Europe) (Proto) (Sound Data)" id="0734">
 		<category>Audio</category>
 		<category>Preproduction</category>
-		<description>Lethal Weapon 3 Music (Europe) (Proto) (1992-11-30) (Sound Data)</description>
-		<rom name="Lethal Weapon 3 Music (Europe) (Proto) (1992-11-30) (Sound Data).sms" size="32768" crc="eb71247b" md5="65a3deae350cd2875719b8b4f490b330" sha1="14dff343ef3c10ef06ef3fdfb4985dfa79062379" sha256="f18dbb32a0dc429efa2ac9f21cea3615bb53f38b24b91f99d652eb63adfb1373"/>
+		<description>Lethal Weapon 3 Music (Europe) (Proto) (Sound Data)</description>
+		<rom name="Lethal Weapon 3 Music (Europe) (Proto) (Sound Data).sms" size="32768" crc="eb71247b" md5="65a3deae350cd2875719b8b4f490b330" sha1="14dff343ef3c10ef06ef3fdfb4985dfa79062379" sha256="f18dbb32a0dc429efa2ac9f21cea3615bb53f38b24b91f99d652eb63adfb1373"/>
 	</game>
 	<game name="Line of Fire (Europe, Brazil) (En)" id="0213">
 		<category>Games</category>
@@ -1954,11 +1950,11 @@
 		<description>Minerador (Brazil) (Mega Drive 4)</description>
 		<rom name="Minerador (Brazil) (Mega Drive 4).sms" size="65536" crc="67f67844" md5="f66438fb1e553655644748f3e746e74a" sha1="e6744d4e30caa998b4b5533070f0c907025e5989" sha256="88dc8e6cef5e4459db8db3a53e6a4b98b57346945d3c65dc0b9e05419f0ba7bc"/>
 	</game>
-	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25)" id="0448" cloneofid="0236">
+	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta)" id="0448" cloneofid="0236">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25)</description>
-		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25).sms" size="262144" crc="301a59aa" md5="3f5d2ca45ccc205d18c8e3d1d9969f00" sha1="5f1cfc974a8ffc965f18216a89472fd1a980d7cb" sha256="a71fa30c6c522eeaa5be7646e98d477fc4cbdfc034a54551c4117acd13b3e803" status="verified"/>
+		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta)</description>
+		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms" size="262144" crc="301a59aa" md5="3f5d2ca45ccc205d18c8e3d1d9969f00" sha1="5f1cfc974a8ffc965f18216a89472fd1a980d7cb" sha256="a71fa30c6c522eeaa5be7646e98d477fc4cbdfc034a54551c4117acd13b3e803" status="verified"/>
 	</game>
 	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" id="0236">
 		<category>Games</category>
@@ -2474,11 +2470,11 @@
 		<description>Renegade (Europe, Brazil) (En)</description>
 		<rom name="Renegade (Europe, Brazil) (En).sms" size="262144" crc="3be7f641" md5="bbce8b8ac26e2f582defe0056346f035" sha1="c07a04f3ab811b52c97b9bf850670057148de6f0" sha256="914ae3cf43a62437b0be3858f9e8879808a2a9c7ce3602aba3c542ffbe469fff" status="verified"/>
 	</game>
-	<game name="Rental Car (World) (v0.06) (Proto) (Unl)" id="1001">
+	<game name="Rental Car (World) (Proto) (Unl)" id="1001">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Rental Car (World) (v0.06) (Proto) (Unl)</description>
-		<rom name="Rental Car (World) (v0.06) (Proto) (Unl).sms" size="65536" crc="bc6ac56d" md5="9c0b15e19bdc0c52c325e23658465ced" sha1="4eeee41bc085c8acf540c363d749b507475b47bd" sha256="0062557348a625bd0bee4259b0ebfc7641b96735f1606f631f4d983e7c404163"/>
+		<description>Rental Car (World) (Proto) (Unl)</description>
+		<rom name="Rental Car (World) (Proto) (Unl).sms" size="65536" crc="bc6ac56d" md5="9c0b15e19bdc0c52c325e23658465ced" sha1="4eeee41bc085c8acf540c363d749b507475b47bd" sha256="0062557348a625bd0bee4259b0ebfc7641b96735f1606f631f4d983e7c404163"/>
 	</game>
 	<game name="Rescue Mission (USA, Europe, Brazil) (En)" id="0301">
 		<category>Games</category>
@@ -2549,11 +2545,11 @@
 		<description>Satellite 7 (Japan) (En)</description>
 		<rom name="Satellite 7 (Japan) (En).sms" size="32768" crc="16249e19" md5="eac6a843975c50e39eb32f764da2a5ac" sha1="88fc5596773ea31eda8ae5a8baf6f0ce5c3f7e5e" sha256="3e659f15fbcc6511dfeb2112762074a8441479bb33887d196eb343e124d14fe5"/>
 	</game>
-	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)" id="0314" cloneofid="0313">
+	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)" id="0314" cloneofid="0313">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)</description>
-		<rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).sms" size="262144" crc="7982ae67" md5="4aba236d2a81e738adaaf5b00de81653" sha1="a82627f47400555e5e6fdeca11ffac56d7296f80" sha256="74b320a580a973e8fbee6b519c474acf44aeb5995134c1819088ffff4ab93e9d"/>
+		<description>Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)</description>
+		<rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).sms" size="262144" crc="7982ae67" md5="4aba236d2a81e738adaaf5b00de81653" sha1="a82627f47400555e5e6fdeca11ffac56d7296f80" sha256="74b320a580a973e8fbee6b519c474acf44aeb5995134c1819088ffff4ab93e9d"/>
 	</game>
 	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)" id="0313">
 		<category>Games</category>
@@ -2746,17 +2742,17 @@
 		<description>Sonic Chaos (Europe, Brazil) (En)</description>
 		<rom name="Sonic Chaos (Europe, Brazil) (En).sms" size="524288" crc="aedf3bdf" md5="1d661134b14eedf6b4ae1c907581fd96" sha1="f64c8eea26a103582f09831c3e02c6045a6aff94" sha256="eabc8db59746714262d2f91a921d054823484349099a9fcd04fd6e84a1fee607" status="verified"/>
 	</game>
-	<game name="Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30)" id="0619" cloneofid="0338">
+	<game name="Sonic Chaos (Europe, Brazil) (En) (Beta 1)" id="0619" cloneofid="0338">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30)</description>
-		<rom name="Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30).sms" size="524288" crc="d3ad67fa" md5="e9b3410c02d605b2ac5f88d0886416b1" sha1="fa4dc67267f591ae00e22bcfb66896722054a61b" sha256="f71b68dc1bf6d7b323891e9341220da384220356c15c8826487e0de43b541274"/>
+		<description>Sonic Chaos (Europe, Brazil) (En) (Beta 1)</description>
+		<rom name="Sonic Chaos (Europe, Brazil) (En) (Beta 1).sms" size="524288" crc="d3ad67fa" md5="e9b3410c02d605b2ac5f88d0886416b1" sha1="fa4dc67267f591ae00e22bcfb66896722054a61b" sha256="f71b68dc1bf6d7b323891e9341220da384220356c15c8826487e0de43b541274"/>
 	</game>
-	<game name="Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13)" id="0620" cloneofid="0338">
+	<game name="Sonic Chaos (Europe, Brazil) (En) (Beta 2)" id="0620" cloneofid="0338">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13)</description>
-		<rom name="Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13).sms" size="524288" crc="765234d8" md5="c829f2e52f962d88268367aee32e24b4" sha1="982012a4868315c888c936ca3283fee8c5170cdf" sha256="ef42cbbb4883c83d53765fad0b5e5f0e07612533ad6024551391651c8ece010d"/>
+		<description>Sonic Chaos (Europe, Brazil) (En) (Beta 2)</description>
+		<rom name="Sonic Chaos (Europe, Brazil) (En) (Beta 2).sms" size="524288" crc="765234d8" md5="c829f2e52f962d88268367aee32e24b4" sha1="982012a4868315c888c936ca3283fee8c5170cdf" sha256="ef42cbbb4883c83d53765fad0b5e5f0e07612533ad6024551391651c8ece010d"/>
 	</game>
 	<game name="Sonic Spinball (Europe, Brazil) (En)" id="0339">
 		<category>Games</category>

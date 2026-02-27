@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4476) (2026-02-26 15-28-27)</description>
-		<version>2026-02-26 15-28-27</version>
-		<date>2026-02-26 15-28-27</date>
+		<description>Sony - PlayStation 3 - Discs (4477) (2026-02-27 12-46-58)</description>
+		<version>2026-02-27 12-46-58</version>
+		<date>2026-02-27 12-46-58</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22401,5 +22401,10 @@
 		<category>Games</category>
 		<description>Untold Legends - Dark Kingdom (Korea)</description>
 		<rom name="Untold Legends - Dark Kingdom (Korea).iso" size="10245177344" crc="e2911fa5" md5="ea8f09fdf4adbdddce8ea49b8b28d695" sha1="c2c689d29bafbc309163727b0a1880295affed91"/>
+	</game>
+	<game name="FIFA 14 (Latin America)">
+		<category>Games</category>
+		<description>FIFA 14 (Latin America)</description>
+		<rom name="FIFA 14 (Latin America).iso" size="7721320448" crc="7c6c0148" md5="19a099c883ff72b6d18c2ca237dc69fa" sha1="0fbf7b733e5f0d5c5d67fb7ae2c2632a0ccee148"/>
 	</game>
 </datafile>
