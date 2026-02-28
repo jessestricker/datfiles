@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Discs (2675) (2026-02-23 18-24-56)</description>
-		<version>2026-02-23 18-24-56</version>
-		<date>2026-02-23 18-24-56</date>
+		<description>Microsoft - Xbox - Discs (2676) (2026-02-28 14-51-48)</description>
+		<version>2026-02-28 14-51-48</version>
+		<date>2026-02-28 14-51-48</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13390,5 +13390,10 @@
 		<category>Games</category>
 		<description>Harry Potter and the Chamber of Secrets (Korea)</description>
 		<rom name="Harry Potter and the Chamber of Secrets (Korea).iso" size="7825162240" crc="b7dabbdf" md5="efd399698b940f5efb67d3c92c445be1" sha1="79b8daf161b7fd4b67d0d49faaeddcf616dd9f77"/>
+	</game>
+	<game name="Magazine Officiel Xbox, Le - Hors-serie Numero 9 (France)">
+		<category>Coverdiscs</category>
+		<description>Magazine Officiel Xbox, Le - Hors-serie Numero 9 (France)</description>
+		<rom name="Magazine Officiel Xbox, Le - Hors-serie Numero 9 (France).iso" size="7825162240" crc="23bac424" md5="3401a11a47ccf360d34bd79bf4374743" sha1="f825c7cf254f9b13cfcf34b045d97541e70f0373"/>
 	</game>
 </datafile>

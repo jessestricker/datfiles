@@ -4,7 +4,7 @@
 		<id>31</id>
 		<name>Nintendo - Family Computer Disk System (FDS)</name>
 		<description>Nintendo - Family Computer Disk System (FDS)</description>
-		<version>20260118-023845</version>
+		<version>20260227-093648</version>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1581,9 +1581,10 @@
 		<game_id>IFD-SL2</game_id>
 		<rom name="Super Lode Runner II (Japan) (Disk Writer).fds" size="131000" crc="042c902b" md5="18c5674aaf15201ff32fe22e0b3b112b" sha1="567fb5457815bea1596369c4f1579b9aa26a38db" sha256="2038fa6635410af363df611366fb091961ba4dd7e3f3f8402d05da18b77fa017" serial="SL2"/>
 	</game>
-	<game name="Super Mario Bros. (Japan)" id="0119">
-		<description>Super Mario Bros. (Japan)</description>
-		<rom name="Super Mario Bros. (Japan).fds" size="65500" crc="e0890cf2" md5="293303fe565de2333bc1e4115d38fa3f" sha1="383ad8e3890a95de9595f0a6087648f51177da13" serial="SMA"/>
+	<game name="Super Mario Bros. (Japan) (En)" id="0119">
+		<category>Games</category>
+		<description>Super Mario Bros. (Japan) (En)</description>
+		<rom name="Super Mario Bros. (Japan) (En).fds" size="65500" crc="e0890cf2" md5="293303fe565de2333bc1e4115d38fa3f" sha1="383ad8e3890a95de9595f0a6087648f51177da13" serial="SMA"/>
 	</game>
 	<game name="Super Mario Bros. 2 (Japan) (En)" id="0120" cloneofid="0297">
 		<description>Super Mario Bros. 2 (Japan) (En)</description>

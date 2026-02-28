@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260225-082916</version>
+		<version>20260227-200742</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9691,9 +9691,19 @@
 		<description>Pokemon - FireRed Version (USA, Europe) (Rev 1)</description>
 		<rom name="Pokemon - FireRed Version (USA, Europe) (Rev 1).gba" size="16777216" crc="84ee4776" md5="51901a6e40661b3914aa333c802e24e8" sha1="dd5945db9b930750cb39d00c84da8571feebf417" sha256="729041b940afe031302d630fdbe57c0c145f3f7b6d9b8eca5e98678d0ca4d059" status="verified" serial="BPRE"/>
 	</game>
+	<game name="Pokemon - FireRed Version (USA, Europe) (Rev 10) (Switch)" id="x550" cloneofid="1672">
+		<category>Games</category>
+		<description>Pokemon - FireRed Version (USA, Europe) (Rev 10) (Switch)</description>
+		<rom name="Pokemon - FireRed Version (USA, Europe) (Rev 10) (Switch).gba" size="16777216" crc="31554c22" md5="2b61d8a2c5ec26452868083cc6689e5b" sha1="baa452d0b24629dd7782cfc07a8984085dde1311" sha256="d32c8df8702293716ad8de68755fe5903161f4829a0a2e486bfa7e74a0b62e94" serial="BPRE"/>
+	</game>
 	<game name="Pokemon - Leaf Green (USA) (Pirate)" id="2953" cloneofid="1668">
 		<description>Pokemon - Leaf Green (USA) (Pirate)</description>
 		<rom name="Pokemon - Leaf Green (USA) (Pirate).gba" size="33554432" crc="11870bd9" md5="f12ac2c645c7984621e573a37d76c446" sha1="b5c0c40ac5dc25bef289973080366d29359bb81b" sha256="6e9f623a069b4cb8657ebb5e1929ad07b10c1e51611cdef8104026fc0de80f05"/>
+	</game>
+	<game name="Pokemon - LeafGreen Version (USA, Europe) (Rev 10) (Switch)" id="x551" cloneofid="1617">
+		<category>Games</category>
+		<description>Pokemon - LeafGreen Version (USA, Europe) (Rev 10) (Switch)</description>
+		<rom name="Pokemon - LeafGreen Version (USA, Europe) (Rev 10) (Switch).gba" size="16777216" crc="49ddf652" md5="b9f589a9454a8552202b062bee27f32f" sha1="62b9fc77549dbc67032eb6cbd0ea6ad3b825690f" sha256="993a8a5695a4f7e4dfe8ceec55beb43e020e82b492854d457d4aa3f864d20f08" serial="BPGE"/>
 	</game>
 	<game name="Pokemon - LeafGreen Version (USA, Europe)" id="1617" cloneofid="1668">
 		<description>Pokemon - LeafGreen Version (USA, Europe)</description>
