@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3651) (2026-02-28 13-54-58)</description>
-		<version>2026-02-28 13-54-58</version>
-		<date>2026-02-28 13-54-58</date>
+		<description>Microsoft - Xbox 360 - Discs (3652) (2026-03-01 14-24-29)</description>
+		<version>2026-03-01 14-24-29</version>
+		<date>2026-03-01 14-24-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18273,5 +18273,10 @@
 		<description>Wireless N Networking Adapter Installer Disc (USA)</description>
 		<rom name="Wireless N Networking Adapter Installer Disc (USA).cue" size="116" crc="3c1d05da" md5="96ef091d43ddd3d542762c4fc9025a8b" sha1="64c649ca9bfc8deba37ab680c1fb8372d8eba17f"/>
 		<rom name="Wireless N Networking Adapter Installer Disc (USA).bin" size="110551056" crc="2a4105c7" md5="7ff0b74b649a72e510ee56e542738e4e" sha1="18d120bb278e058ebd841226585578fd7e6b265a"/>
+	</game>
+	<game name="Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)">
+		<category>Games</category>
+		<description>Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)</description>
+		<rom name="Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2).iso" size="7838695424" crc="62e0f6ba" md5="0f9439c09e9c1109fc616ab111d1f88b" sha1="eaca8f1e6818cf8d0335311cdb4382ca160f85fe"/>
 	</game>
 </datafile>

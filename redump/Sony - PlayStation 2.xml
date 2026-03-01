@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11746) (2026-02-26 16-34-18)</description>
-		<version>2026-02-26 16-34-18</version>
-		<date>2026-02-26 16-34-18</date>
+		<description>Sony - PlayStation 2 - Discs (11747) (2026-03-01 20-36-27)</description>
+		<version>2026-03-01 20-36-27</version>
+		<date>2026-03-01 20-36-27</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -61938,5 +61938,11 @@
 		<description>Fantastic Four (USA) (Beta) (2003-08-29)</description>
 		<rom name="Fantastic Four (USA) (Beta) (2003-08-29).cue" size="106" crc="4c5a537c" md5="b36d257c5d7418523ea35a51ab2f6de7" sha1="a1a93f063c6e935d88b49c904a3b8d324b6647bb"/>
 		<rom name="Fantastic Four (USA) (Beta) (2003-08-29).bin" size="422795520" crc="dfabb12c" md5="6583a783dd35f543bca98888a4576a94" sha1="a31918b6d0574219ca03c0667ea1e3e35b90c3ee"/>
+	</game>
+	<game name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)">
+		<category>Games</category>
+		<description>Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)</description>
+		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).cue" size="143" crc="be00bc4f" md5="75a2dfddd9ac3f91a01a372fc450eb54" sha1="d14e04d5c8083dc10854a2b880196037b07e9e67"/>
+		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).bin" size="150109344" crc="cfa95c8a" md5="0382ae76c43c7865e865210b59d7461e" sha1="95c7df653c90acd774bce07418707b772a7b1cb2"/>
 	</game>
 </datafile>

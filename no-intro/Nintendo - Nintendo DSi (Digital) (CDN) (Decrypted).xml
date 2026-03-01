@@ -4,8 +4,8 @@
 		<id>147</id>
 		<name>Nintendo - Nintendo DSi (Digital) (CDN) (Decrypted)</name>
 		<description>Nintendo - Nintendo DSi (Digital) (CDN) (Decrypted)</description>
-		<version>20250210-182216</version>
-		<author>baldjared, buckwheat, Hiccup, Hiccup and zedseven, Icyelut, jimmsu, Liam, norkmetnoil577, SonGoku, xprism, xuom2</author>
+		<version>20260228-234052</version>
+		<author>baldjared, buckwheat, Hiccup, Hiccup and zedseven, Icyelut, jimmsu, Liam, norkmetnoil577, root, SonGoku, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -4256,6 +4256,7 @@
 	<game name="Doukutsu Monogatari (Japan) (Removed)" id="1726" cloneofid="0452">
 		<category>Games</category>
 		<description>Doukutsu Monogatari (Japan) (Removed)</description>
+		<game_id>000300044b43564a</game_id>
 		<rom name="titlePass.txt" size="8" crc="12ec7f82" md5="7d9ad0211d6493e8d55a4a75de3f90a1" sha1="891a4ac3f0101a20236b7f3dbe519f0cd38413c4" sha256="c0a4942143e872cd1ae29fc759e04526de2e909ac1732734d38550a29c2e2516" status="verified"/>
 		<rom name="tmd.0" size="2312" crc="0e3b9eec" md5="a57ef6a955d7110b9c5154a59aa44f1c" sha1="adbebbb347ff7c49f085764f2b426fb22f04728e" status="verified" serial="000300044b43564a"/>
 		<rom name="00000000" size="6350848" crc="f90a1cc9" md5="9f92deaf4f8151b00b38a398aacce2a6" sha1="2106a64ef22bbd4039d9af4b5052e2dc74a29999" status="verified" serial="KCVJ"/>
