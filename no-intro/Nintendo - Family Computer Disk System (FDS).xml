@@ -4,7 +4,7 @@
 		<id>31</id>
 		<name>Nintendo - Family Computer Disk System (FDS)</name>
 		<description>Nintendo - Family Computer Disk System (FDS)</description>
-		<version>20260227-093648</version>
+		<version>20260301-103145</version>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -92,9 +92,9 @@
 		<description>Aliens - Alien 2 (Japan) (Proto) (1986-12-15)</description>
 		<rom name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds" size="131000" crc="2b779ee3" md5="296bc8ec6482e70e5d098bb90343a2f8" sha1="e80992b0e3e2ec05dbd34b3d97ae39ee59244ca4"/>
 	</game>
-	<game name="All Night Nippon Super Mario Bros. (Japan) (Promo)" id="0007">
-		<description>All Night Nippon Super Mario Bros. (Japan) (Promo)</description>
-		<rom name="All Night Nippon Super Mario Bros. (Japan) (Promo).fds" size="65500" crc="43e7fe95" md5="c8719692d0b9d9649492ffb1c2d26aa3" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4" serial="NSM"/>
+	<game name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo)" id="0007">
+		<description>All Night Nippon Super Mario Bros. (Japan) (En) (Promo)</description>
+		<rom name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo).fds" size="65500" crc="43e7fe95" md5="c8719692d0b9d9649492ffb1c2d26aa3" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4" serial="NSM"/>
 	</game>
 	<game name="Apple Town Monogatari - Little Computer People (Japan)" id="0008">
 		<description>Apple Town Monogatari - Little Computer People (Japan)</description>
@@ -1480,9 +1480,9 @@
 		<game_id>FMC-PPN</game_id>
 		<rom name="Smash Ping Pong (Japan).fds" size="65500" crc="b235b657" md5="e6bf27adea0837055f82fc204d9fbf98" sha1="b3ffc3723f3d3bc1af9e8180145483c332f409e0" serial="PPN"/>
 	</game>
-	<game name="Soccer (Japan)" id="0116">
-		<description>Soccer (Japan)</description>
-		<rom name="Soccer (Japan).fds" size="65500" crc="638b6903" md5="2be4505173df2936b7992030ec4a38e5" sha1="cca20a3a0fec86b9295d61aef093741f3e248839" serial="SCC"/>
+	<game name="Soccer (Japan) (En)" id="0116">
+		<description>Soccer (Japan) (En)</description>
+		<rom name="Soccer (Japan) (En).fds" size="65500" crc="638b6903" md5="2be4505173df2936b7992030ec4a38e5" sha1="cca20a3a0fec86b9295d61aef093741f3e248839" serial="SCC"/>
 	</game>
 	<game name="Solomon no Kagi (Japan) (Disk Writer)" id="0269">
 		<description>Solomon no Kagi (Japan) (Disk Writer)</description>

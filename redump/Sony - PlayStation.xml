@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10904) (2026-03-01 21-48-52)</description>
-		<version>2026-03-01 21-48-52</version>
-		<date>2026-03-01 21-48-52</date>
+		<description>Sony - PlayStation - Discs (10904) (2026-03-02 06-16-21)</description>
+		<version>2026-03-02 06-16-21</version>
+		<date>2026-03-02 06-16-21</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -895,13 +895,13 @@
 		<rom name="Euro Demo 49 (Europe, Australia).cue" size="98" crc="f7ae583f" md5="8a09855b05299e5b30296ae8067b4ad3" sha1="22087d8a619b453dafdfcf4e6a75800e5a7f887c"/>
 		<rom name="Euro Demo 49 (Europe, Australia).bin" size="449932896" crc="8e8c8e91" md5="29a6ac455de88ab1bbd4f05476fb490e" sha1="d61fb2222b7586a897e1fc832d02d5d1ce7ef75d"/>
 	</game>
-	<game name="Euro Demo 30 (Europe)">
+	<game name="Euro Demo 30 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 30 (Europe)</description>
-		<rom name="Euro Demo 30 (Europe).cue" size="327" crc="10dcf382" md5="2cb9bd408c0b8cb2379eebdf7245a4fe" sha1="a555efe573ad23fa19d22f738085ccab028da0e9"/>
-		<rom name="Euro Demo 30 (Europe) (Track 1).bin" size="188211744" crc="a6199c1d" md5="aeedeced47e9fa4fedf4530b9e7567b5" sha1="b8feb2fc609e422eb2260a846022c2901e2ee7c1"/>
-		<rom name="Euro Demo 30 (Europe) (Track 2).bin" size="21207984" crc="72f846e1" md5="2f9791b7f92a858312b2c4ddd0c059d4" sha1="1d0e781a30d27a5b386be1b4e955863e133a62bd"/>
-		<rom name="Euro Demo 30 (Europe) (Track 3).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
+		<description>Euro Demo 30 (Europe, Australia)</description>
+		<rom name="Euro Demo 30 (Europe, Australia).cue" size="360" crc="121e7229" md5="c4940a47e49c1f8391d41906f41d5543" sha1="77c051e34d62fb47bf7e413f5b24c3bf77b6925a"/>
+		<rom name="Euro Demo 30 (Europe, Australia) (Track 1).bin" size="188211744" crc="a6199c1d" md5="aeedeced47e9fa4fedf4530b9e7567b5" sha1="b8feb2fc609e422eb2260a846022c2901e2ee7c1"/>
+		<rom name="Euro Demo 30 (Europe, Australia) (Track 2).bin" size="21207984" crc="72f846e1" md5="2f9791b7f92a858312b2c4ddd0c059d4" sha1="1d0e781a30d27a5b386be1b4e955863e133a62bd"/>
+		<rom name="Euro Demo 30 (Europe, Australia) (Track 3).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
 	</game>
 	<game name="Euro Demo 41 (Europe, Australia)">
 		<category>Coverdiscs</category>
@@ -953,14 +953,14 @@
 		<rom name="Euro Demo 43 (Europe) (Track 17).bin" size="36439536" crc="49d92b4b" md5="7a7ac3d7f9ad652951ae03fe157c7c7d" sha1="daec33c31013f1dc4f3a1c1b7aad22291aa34bd4"/>
 		<rom name="Euro Demo 43 (Europe) (Track 18).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
 	</game>
-	<game name="Euro Demo 44 (Europe)">
+	<game name="Euro Demo 44 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 44 (Europe)</description>
-		<rom name="Euro Demo 44 (Europe).cue" size="442" crc="84a4f93e" md5="30fcacda5b2cc7d2e3d8203f99644b4e" sha1="3fa7d866c0d719ae214d61d9e30fa3718686def5"/>
-		<rom name="Euro Demo 44 (Europe) (Track 1).bin" size="257729808" crc="01a23866" md5="14f5b8895f1b8586f4b11b6628ed520e" sha1="3059475f6dfe45f7e741cf00dc044e1e55af674b"/>
-		<rom name="Euro Demo 44 (Europe) (Track 2).bin" size="36439536" crc="49d92b4b" md5="7a7ac3d7f9ad652951ae03fe157c7c7d" sha1="daec33c31013f1dc4f3a1c1b7aad22291aa34bd4"/>
-		<rom name="Euro Demo 44 (Europe) (Track 3).bin" size="25204032" crc="8f0690aa" md5="eb934b6c5531a904ecfffba2f9888b55" sha1="8959639e080de8a1dfcb03920d24a3f108bfa9d2"/>
-		<rom name="Euro Demo 44 (Europe) (Track 4).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
+		<description>Euro Demo 44 (Europe, Australia)</description>
+		<rom name="Euro Demo 44 (Europe, Australia).cue" size="486" crc="881a5c01" md5="e0e8646d4904f4b349337839840fe08e" sha1="2449a3e107bf209602e28c9d1366a2155f3331c2"/>
+		<rom name="Euro Demo 44 (Europe, Australia) (Track 1).bin" size="257729808" crc="01a23866" md5="14f5b8895f1b8586f4b11b6628ed520e" sha1="3059475f6dfe45f7e741cf00dc044e1e55af674b"/>
+		<rom name="Euro Demo 44 (Europe, Australia) (Track 2).bin" size="36439536" crc="49d92b4b" md5="7a7ac3d7f9ad652951ae03fe157c7c7d" sha1="daec33c31013f1dc4f3a1c1b7aad22291aa34bd4"/>
+		<rom name="Euro Demo 44 (Europe, Australia) (Track 3).bin" size="25204032" crc="8f0690aa" md5="eb934b6c5531a904ecfffba2f9888b55" sha1="8959639e080de8a1dfcb03920d24a3f108bfa9d2"/>
+		<rom name="Euro Demo 44 (Europe, Australia) (Track 4).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
 	</game>
 	<game name="Euro Demo 45 (Europe)">
 		<category>Coverdiscs</category>
@@ -1325,13 +1325,13 @@
 		<rom name="Johnny Bazookatone (Europe).cue" size="93" crc="99fd4436" md5="f31ae50077d17f5517d74193d4c8f18b" sha1="0a2cee0db25be9d593683946937b9044d3bcad71"/>
 		<rom name="Johnny Bazookatone (Europe).bin" size="479993808" crc="85425a31" md5="773c4b056466a6eb8fdf67d30834fcb8" sha1="a997ae86f9e273a2cd86f0061bade8286459ae10"/>
 	</game>
-	<game name="Euro Demo 31 (Europe)">
+	<game name="Euro Demo 31 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 31 (Europe)</description>
-		<rom name="Euro Demo 31 (Europe).cue" size="327" crc="1aefa20a" md5="d0f278ebfc06c2d526d5cdc23cdbf008" sha1="7cea2b1b2d8e03187a4077e74faae731724fa874"/>
-		<rom name="Euro Demo 31 (Europe) (Track 1).bin" size="251948592" crc="883d7fe9" md5="99213ce9fd7f6ab000c3a79e7396261c" sha1="789b54173dffefdbb66ce259fe0bd4305fc79c43"/>
-		<rom name="Euro Demo 31 (Europe) (Track 2).bin" size="2152080" crc="33be0ada" md5="132ed387fe3c8403f0d345d306b0e061" sha1="ef0d3df87cf2fe7c3e6df2dfaf1470e5504a0211"/>
-		<rom name="Euro Demo 31 (Europe) (Track 3).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
+		<description>Euro Demo 31 (Europe, Australia)</description>
+		<rom name="Euro Demo 31 (Europe, Australia).cue" size="360" crc="3591db7f" md5="ff83e88908d9e29de5b1de3a5c0c2c68" sha1="4f1f5efd0f2978f69bcc5d04238c7cd821b258ae"/>
+		<rom name="Euro Demo 31 (Europe, Australia) (Track 1).bin" size="251948592" crc="883d7fe9" md5="99213ce9fd7f6ab000c3a79e7396261c" sha1="789b54173dffefdbb66ce259fe0bd4305fc79c43"/>
+		<rom name="Euro Demo 31 (Europe, Australia) (Track 2).bin" size="2152080" crc="33be0ada" md5="132ed387fe3c8403f0d345d306b0e061" sha1="ef0d3df87cf2fe7c3e6df2dfaf1470e5504a0211"/>
+		<rom name="Euro Demo 31 (Europe, Australia) (Track 3).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
 	</game>
 	<game name="Gunship (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -1363,20 +1363,20 @@
 		<rom name="Wipeout (Europe) (Track 11).bin" size="51656976" crc="da0502c2" md5="c8814f3ffa79b9f3ae036c2e73855f8e" sha1="af3a0c0147b0f7c7bc3d1b261403c93c5c5218c4"/>
 		<rom name="Wipeout (Europe) (Track 12).bin" size="66509856" crc="511a2b3e" md5="a6c8ab7472a6c263aa2ea13e908f43b7" sha1="e238704c87f63bb70934cd6919f74fa0f6c944df"/>
 	</game>
-	<game name="Euro Demo 34 (Europe)">
+	<game name="Euro Demo 34 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 34 (Europe)</description>
-		<rom name="Euro Demo 34 (Europe).cue" size="1142" crc="df450745" md5="05d38ff0164e6ddfe13b33fd29bfb80b" sha1="9eedfdc7bbd8084b95ffb0581a503571c1f4267a"/>
-		<rom name="Euro Demo 34 (Europe) (Track 01).bin" size="342488832" crc="e87c7390" md5="3cdc808e8a007fcba49d920101ba0734" sha1="993ed3c66947f8430275b65bef150f74c46d7280"/>
-		<rom name="Euro Demo 34 (Europe) (Track 02).bin" size="1237152" crc="1469c27f" md5="3baa78d0933dabfbb7f2a5a4952bb8ee" sha1="17a0ebe7f4c4770275e660dbde59048a0244abc9"/>
-		<rom name="Euro Demo 34 (Europe) (Track 03).bin" size="1237152" crc="ba97911a" md5="09c3ba82e23bc1cf36a133e71af7704c" sha1="14fc73f00397809738a0d11cd0cc408dade1386d"/>
-		<rom name="Euro Demo 34 (Europe) (Track 04).bin" size="1237152" crc="3920e8ef" md5="73de23dcaae61b065e2edf310040fd93" sha1="55668cde8fadbcb0ab60b68f5ca87a98c37cdf60"/>
-		<rom name="Euro Demo 34 (Europe) (Track 05).bin" size="9466800" crc="eece87f1" md5="629ec8d58e0ee95748a307fbf2dc52e5" sha1="615ee31779cf2902d24034f9f29fb79f87ec054f"/>
-		<rom name="Euro Demo 34 (Europe) (Track 06).bin" size="1239504" crc="c1094b3d" md5="97cf5a55da820ff064bde615f142ac0e" sha1="8618e11fb651ff1d223cb9f1d617875cb9ca208c"/>
-		<rom name="Euro Demo 34 (Europe) (Track 07).bin" size="29743392" crc="4f64b28d" md5="9db4d1a78bf627c3049309ba4a9f7137" sha1="eae7e7732799438efb2ddb299729232136f1e6ae"/>
-		<rom name="Euro Demo 34 (Europe) (Track 08).bin" size="33073824" crc="768f65d7" md5="a109a7bdfbd3779ecd30cb3029612afe" sha1="50845c7bad9445814c340209fd77a02d94c2f7bb"/>
-		<rom name="Euro Demo 34 (Europe) (Track 09).bin" size="7168896" crc="65cd8f3c" md5="5aa83f163b09bf784ffab161918725a8" sha1="a289347dda6bfa2562d90e147f128c8934cd378b"/>
-		<rom name="Euro Demo 34 (Europe) (Track 10).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
+		<description>Euro Demo 34 (Europe, Australia)</description>
+		<rom name="Euro Demo 34 (Europe, Australia).cue" size="1252" crc="f6a1cebc" md5="5e9ab5061396e377eb26d96c7a572900" sha1="dca62d7fc4306079373f317330503b5ea445ebe6"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 01).bin" size="342488832" crc="e87c7390" md5="3cdc808e8a007fcba49d920101ba0734" sha1="993ed3c66947f8430275b65bef150f74c46d7280"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 02).bin" size="1237152" crc="1469c27f" md5="3baa78d0933dabfbb7f2a5a4952bb8ee" sha1="17a0ebe7f4c4770275e660dbde59048a0244abc9"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 03).bin" size="1237152" crc="ba97911a" md5="09c3ba82e23bc1cf36a133e71af7704c" sha1="14fc73f00397809738a0d11cd0cc408dade1386d"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 04).bin" size="1237152" crc="3920e8ef" md5="73de23dcaae61b065e2edf310040fd93" sha1="55668cde8fadbcb0ab60b68f5ca87a98c37cdf60"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 05).bin" size="9466800" crc="eece87f1" md5="629ec8d58e0ee95748a307fbf2dc52e5" sha1="615ee31779cf2902d24034f9f29fb79f87ec054f"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 06).bin" size="1239504" crc="c1094b3d" md5="97cf5a55da820ff064bde615f142ac0e" sha1="8618e11fb651ff1d223cb9f1d617875cb9ca208c"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 07).bin" size="29743392" crc="4f64b28d" md5="9db4d1a78bf627c3049309ba4a9f7137" sha1="eae7e7732799438efb2ddb299729232136f1e6ae"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 08).bin" size="33073824" crc="768f65d7" md5="a109a7bdfbd3779ecd30cb3029612afe" sha1="50845c7bad9445814c340209fd77a02d94c2f7bb"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 09).bin" size="7168896" crc="65cd8f3c" md5="5aa83f163b09bf784ffab161918725a8" sha1="a289347dda6bfa2562d90e147f128c8934cd378b"/>
+		<rom name="Euro Demo 34 (Europe, Australia) (Track 10).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
 	</game>
 	<game name="Wip3out (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -6856,16 +6856,16 @@
 		<rom name="Euro Demo 20 (Europe) (Track 2).bin" size="11435424" crc="8d2d201d" md5="ccaab2c01e94489ae867570858a9feb0" sha1="9c87f54d7071fcd621548be4f53fed2349ba4d82"/>
 		<rom name="Euro Demo 20 (Europe) (Track 3).bin" size="33889968" crc="cd281d75" md5="8fadd596551fa53188b74269c18358ea" sha1="4b0a67c1db2a8a65f78865f1e86d75c7be37545e"/>
 	</game>
-	<game name="Euro Demo 23 (Europe)">
+	<game name="Euro Demo 23 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 23 (Europe)</description>
-		<rom name="Euro Demo 23 (Europe).cue" size="672" crc="732c10f9" md5="c94fd0249c63aef99db03863fe7ed3a9" sha1="667b36ad2c070f0dcef8f559ac36e46af9163905"/>
-		<rom name="Euro Demo 23 (Europe) (Track 1).bin" size="225775536" crc="35183515" md5="449f128d028e4ffccb96aa469424bddc" sha1="8c269b95e2af57c8ddde7a14cd73fd1094fa9469"/>
-		<rom name="Euro Demo 23 (Europe) (Track 2).bin" size="28574448" crc="33ce6f1f" md5="ae32b8d4aa725acee898a7023fa6c824" sha1="4ea95cb122115935c043682d9aa393f0d9686dfe"/>
-		<rom name="Euro Demo 23 (Europe) (Track 3).bin" size="3001152" crc="53709f68" md5="4ab89358e9ca7a0ac120510e4a5bbff8" sha1="735e688be77adbbd340a2acc08113c3207a39653"/>
-		<rom name="Euro Demo 23 (Europe) (Track 4).bin" size="1058400" crc="9c936f62" md5="3281da636075f705dcc6c451dc114989" sha1="7408ab86f7f1e7b20eb6f0e8ea5ce10086c57f97"/>
-		<rom name="Euro Demo 23 (Europe) (Track 5).bin" size="44742096" crc="305d867b" md5="f003dc949c3adb32623297f25e8e65a1" sha1="27de9f1b4dbb893ee994c6fef00c8ff29eeca325"/>
-		<rom name="Euro Demo 23 (Europe) (Track 6).bin" size="35174160" crc="3048c3ee" md5="10c1a2248fe9854d15f8217456285002" sha1="e7996186776d4502e415dc69585c4319f7e624eb"/>
+		<description>Euro Demo 23 (Europe, Australia)</description>
+		<rom name="Euro Demo 23 (Europe, Australia).cue" size="738" crc="9f99a500" md5="4926849e8aece14109defac5c89dfc3c" sha1="015097cd9a0d9758e976f0dd78bbef821101cbc0"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 1).bin" size="225775536" crc="35183515" md5="449f128d028e4ffccb96aa469424bddc" sha1="8c269b95e2af57c8ddde7a14cd73fd1094fa9469"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 2).bin" size="28574448" crc="33ce6f1f" md5="ae32b8d4aa725acee898a7023fa6c824" sha1="4ea95cb122115935c043682d9aa393f0d9686dfe"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 3).bin" size="3001152" crc="53709f68" md5="4ab89358e9ca7a0ac120510e4a5bbff8" sha1="735e688be77adbbd340a2acc08113c3207a39653"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 4).bin" size="1058400" crc="9c936f62" md5="3281da636075f705dcc6c451dc114989" sha1="7408ab86f7f1e7b20eb6f0e8ea5ce10086c57f97"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 5).bin" size="44742096" crc="305d867b" md5="f003dc949c3adb32623297f25e8e65a1" sha1="27de9f1b4dbb893ee994c6fef00c8ff29eeca325"/>
+		<rom name="Euro Demo 23 (Europe, Australia) (Track 6).bin" size="35174160" crc="3048c3ee" md5="10c1a2248fe9854d15f8217456285002" sha1="e7996186776d4502e415dc69585c4319f7e624eb"/>
 	</game>
 	<game name="Euro Demo 26 (Europe)">
 		<category>Coverdiscs</category>

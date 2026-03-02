@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3652) (2026-03-01 14-24-29)</description>
-		<version>2026-03-01 14-24-29</version>
-		<date>2026-03-01 14-24-29</date>
+		<description>Microsoft - Xbox 360 - Discs (3653) (2026-03-02 18-34-12)</description>
+		<version>2026-03-02 18-34-12</version>
+		<date>2026-03-02 18-34-12</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15160,10 +15160,10 @@
 		<description>Skylanders - Spyro's Adventure (Europe) (Pl,Ru)</description>
 		<rom name="Skylanders - Spyro's Adventure (Europe) (Pl,Ru).iso" size="8738846720" crc="ff33d361" md5="72cdbbf7406ec619c5a06d9a7261ab8f" sha1="fa0af030c85e07c930e1460a4bc82db79326d298"/>
 	</game>
-	<game name="Sleeping Dogs (Poland) (Pl,Ru)">
+	<game name="Sleeping Dogs (Europe) (Pl,Ru)">
 		<category>Games</category>
-		<description>Sleeping Dogs (Poland) (Pl,Ru)</description>
-		<rom name="Sleeping Dogs (Poland) (Pl,Ru).iso" size="8738846720" crc="b6cc5afc" md5="53680a02c61377829eab0cf08b8c7e95" sha1="2dbb9ef2dd76ff035d1a83ee6f55d0c90513acd2"/>
+		<description>Sleeping Dogs (Europe) (Pl,Ru)</description>
+		<rom name="Sleeping Dogs (Europe) (Pl,Ru).iso" size="8738846720" crc="b6cc5afc" md5="53680a02c61377829eab0cf08b8c7e95" sha1="2dbb9ef2dd76ff035d1a83ee6f55d0c90513acd2"/>
 	</game>
 	<game name="Tom Clancy's EndWar (Europe) (Pl,Ru)">
 		<category>Games</category>
@@ -15180,10 +15180,10 @@
 		<description>Tom Clancy's Splinter Cell - Blacklist (Europe) (En,De,It,Pl) (Disc 2)</description>
 		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,De,It,Pl) (Disc 2).iso" size="8738846720" crc="fb8d4b6d" md5="1b3f23ea4fd0ebf898c5e9570e05e7ae" sha1="c85b99ac4835ef48aaeb264e4ca890cd07e727f5"/>
 	</game>
-	<game name="XCOM - Enemy Unknown (Poland) (Pl,Ru)">
+	<game name="XCOM - Enemy Unknown (Europe) (Pl,Ru)">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown (Poland) (Pl,Ru)</description>
-		<rom name="XCOM - Enemy Unknown (Poland) (Pl,Ru).iso" size="8738846720" crc="3efe67cd" md5="a0169d71d508fed6a9c46ba7750a140d" sha1="86d006ce3525a759c52028bab935754a97f26c7a"/>
+		<description>XCOM - Enemy Unknown (Europe) (Pl,Ru)</description>
+		<rom name="XCOM - Enemy Unknown (Europe) (Pl,Ru).iso" size="8738846720" crc="3efe67cd" md5="a0169d71d508fed6a9c46ba7750a140d" sha1="86d006ce3525a759c52028bab935754a97f26c7a"/>
 	</game>
 	<game name="Love Tore - Mint (Japan)">
 		<category>Games</category>
@@ -18278,5 +18278,10 @@
 		<category>Games</category>
 		<description>Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)</description>
 		<rom name="Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2).iso" size="7838695424" crc="62e0f6ba" md5="0f9439c09e9c1109fc616ab111d1f88b" sha1="eaca8f1e6818cf8d0335311cdb4382ca160f85fe"/>
+	</game>
+	<game name="Michael Jackson - The Experience (Russia)">
+		<category>Games</category>
+		<description>Michael Jackson - The Experience (Russia)</description>
+		<rom name="Michael Jackson - The Experience (Russia).iso" size="7838695424" crc="f286bfb8" md5="ff7933b89d724f2d486af274b11c6897" sha1="f29e1d75949376deccc5fc99628545e4aa476320"/>
 	</game>
 </datafile>

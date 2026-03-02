@@ -4,7 +4,7 @@
 		<id>31</id>
 		<name>Nintendo - Family Computer Disk System (QD)</name>
 		<description>Nintendo - Family Computer Disk System (QD)</description>
-		<version>20260227-093648</version>
+		<version>20260301-103145</version>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -72,9 +72,9 @@
 		<game_id>SQF-RJN</game_id>
 		<rom name="Akuu Senki Raijin (Japan) (Disk Writer).qd" size="131072" crc="dcdf799c" md5="27f61d15ac55230e6471d0453619bede" sha1="121af8bc209bf95f63f9f0dca215aa30e58ae6b4" sha256="632e0c61b74b7dbd6b4b75e2ee451042d1139c80283a832f159eb70ed1d99303" serial="RJN"/>
 	</game>
-	<game name="All Night Nippon Super Mario Bros. (Japan) (Promo)" id="0007">
-		<description>All Night Nippon Super Mario Bros. (Japan) (Promo)</description>
-		<rom name="All Night Nippon Super Mario Bros. (Japan) (Promo).qd" size="65536" crc="ca2dd5c5" md5="535d05395e6772285f2e186524e9cd7e" sha1="8b19934f93417fe63f7eeab79d101294fb1cdb45" sha256="2638a079db9c4e8f3ce17a2772605b6eaa87c3f9ec630e816c199db082dd8f0b" serial="NSM"/>
+	<game name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo)" id="0007">
+		<description>All Night Nippon Super Mario Bros. (Japan) (En) (Promo)</description>
+		<rom name="All Night Nippon Super Mario Bros. (Japan) (En) (Promo).qd" size="65536" crc="ca2dd5c5" md5="535d05395e6772285f2e186524e9cd7e" sha1="8b19934f93417fe63f7eeab79d101294fb1cdb45" sha256="2638a079db9c4e8f3ce17a2772605b6eaa87c3f9ec630e816c199db082dd8f0b" serial="NSM"/>
 	</game>
 	<game name="Apple Town Monogatari - Little Computer People (Japan)" id="0008">
 		<description>Apple Town Monogatari - Little Computer People (Japan)</description>
@@ -1156,9 +1156,9 @@
 		<game_id>FMC-PPN</game_id>
 		<rom name="Smash Ping Pong (Japan).qd" size="65536" crc="48096702" md5="68b4b5d0f65548551aa790f1e04f7d81" sha1="5e8ba28594d5983f781ad588c1cec2c932f20493" sha256="bbfe5790efdf70b8a2252c77eb648176b151bc418e98b6fb1ecb4a65fe06b5c9" status="verified" serial="PPN"/>
 	</game>
-	<game name="Soccer (Japan)" id="0116">
-		<description>Soccer (Japan)</description>
-		<rom name="Soccer (Japan).qd" size="65536" crc="325f38e3" md5="d04bc38fb45caae440069e09ca971046" sha1="f9d4d060cc274296fd22e8ac446333179f0ad733" sha256="390f5aa23fab9932ffa95db179f2232833d849e9d549c8cdca8592eb17dec06c" serial="SCC"/>
+	<game name="Soccer (Japan) (En)" id="0116">
+		<description>Soccer (Japan) (En)</description>
+		<rom name="Soccer (Japan) (En).qd" size="65536" crc="325f38e3" md5="d04bc38fb45caae440069e09ca971046" sha1="f9d4d060cc274296fd22e8ac446333179f0ad733" sha256="390f5aa23fab9932ffa95db179f2232833d849e9d549c8cdca8592eb17dec06c" serial="SCC"/>
 	</game>
 	<game name="Solomon no Kagi (Japan) (Disk Writer)" id="0269">
 		<description>Solomon no Kagi (Japan) (Disk Writer)</description>
