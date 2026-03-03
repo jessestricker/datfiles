@@ -4,7 +4,7 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (BIN)</name>
 		<description>Atari - Atari 7800 (BIN)</description>
-		<version>20251221-060908</version>
+		<version>20260302-113920</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -230,6 +230,12 @@
 		<description>Hat Trick (USA)</description>
 		<rom name="Hat Trick (USA).bin" size="49152" crc="cf6f4a6c" md5="fd9e78e201b6baafddfd3e1fbfe6ba31" sha1="14c0cfd01df1c725f399c23810e4854a639fce52" sha256="74886dda305accf50fd8c34c0b4108960155207154a65b245451245413ee47e4" status="verified"/>
 	</game>
+	<game name="Hat Trick (USA) (Beta) (1987-05-01)" id="0261" cloneofid="0046">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Hat Trick (USA) (Beta) (1987-05-01)</description>
+		<rom name="Hat Trick (USA) (Beta) (1987-05-01).bin" size="49152" crc="70c5d996" md5="69766137ade953cbcaad23e6c8cfa197" sha1="7a453377ce65eccf6ba3abe2d038af2b813c5fc4" sha256="9df5a1764a483cf09e9ad2928f07ca0cb7871894e758dffde07961f29bcd36e4"/>
+	</game>
 	<game name="High Score Cartridge (USA) (Proto)" id="0127">
 		<description>High Score Cartridge (USA) (Proto)</description>
 		<rom name="High Score Cartridge (USA) (Proto).bin" size="4096" crc="9be408d3" md5="c8a73288ab97226c52602204ab894286" sha1="a3af676991391a6dd716c79022d4947206b78164" sha256="368a5b43b9ab18c7108341e7da5cb3c65dbe5ca1d8334eb8654bf3d73b6f6308"/>
@@ -249,6 +255,12 @@
 	<game name="Impossible Mission (USA)" id="0051" cloneofid="0050">
 		<description>Impossible Mission (USA)</description>
 		<rom name="Impossible Mission (USA).bin" size="131072" crc="3b1f2f47" md5="baebc9246c087e893dfa489632157180" sha1="5437c0efb63a349953ec047efe6ec24144ed6914" sha256="cdfac9f9ce4c505003a3f5d0b14b7ca8e13828068144c3d3986209e54f9f079a"/>
+	</game>
+	<game name="Impossible Mission (USA) (Rev 1) (Proto)" id="0262" cloneofid="0050">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Impossible Mission (USA) (Rev 1) (Proto)</description>
+		<rom name="Impossible Mission (USA) (Rev 1) (Proto).bin" size="131072" crc="97a0ea98" md5="55c959a86b7bbb78b85a3fb3dbafeb6d" sha1="cfac849981a15e6bd2c86c26ba935c7931153348" sha256="99e9825ea670ff5a855dc3a414ce8b9e2209b2862d1a89e9d126f6227306381c"/>
 	</game>
 	<game name="Jinks (USA)" id="0053" cloneofid="0052">
 		<description>Jinks (USA)</description>

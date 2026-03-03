@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260301-211045</version>
+		<version>20260302-210327</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3323,8 +3323,7 @@
 	<game name="F-15 City War (USA) (Unl)" id="0683" cloneofid="0684">
 		<category>Games</category>
 		<description>F-15 City War (USA) (Unl)</description>
-		<rom name="F-15 City War (USA) (Unl).unh" size="65536" crc="88a6b192" md5="a65015646932e8f738a2c4e76b7db0ed" sha1="12f58963dd70d32cca2784bc1d83ec889fec8e5d" sha256="0e3db714b82795111afa386f32534ece968d0f8ccb63dc70189d2010dc77a2a7" status="verified"/>
-		<rom name="F-15 City War (USA) (Unl) (Fixed).unh" size="65536" crc="47562c40" md5="49d85c8c26dcf2ffbd27b41f2f444fc0" sha1="5cd5e7336c527f5c69a59e749b52259d79525e63" sha256="69f4d0b47ed2bffff449e5cab0bcbb91d83a59796e1d73ad7ae8855dbea67902" status="verified"/>
+		<rom name="F-15 City War (USA) (Unl) (Fixed).unh" size="65536" crc="47562c40" md5="49d85c8c26dcf2ffbd27b41f2f444fc0" sha1="5cd5e7336c527f5c69a59e749b52259d79525e63" sha256="69f4d0b47ed2bffff449e5cab0bcbb91d83a59796e1d73ad7ae8855dbea67902"/>
 	</game>
 	<game name="F-15 City War (USA) (v1.2) (Unl)" id="0684">
 		<category>Games</category>
@@ -14698,7 +14697,7 @@
 	<game name="Battletoads (USA) (iam8bit)" id="4987" cloneofid="0227">
 		<category>Games</category>
 		<description>Battletoads (USA) (iam8bit)</description>
-		<rom name="Battletoads (USA) (iam8bit).unh" size="262144" crc="59aabab6" md5="2566a9bac76b729df703623f7b255ac0" sha1="d81c7d96acba51ea05764030321746483788a90e" sha256="8bde1452b379681a4cfcf8ecf2ee4e7e5756135ed7562b9e6cae0b20e1065981" status="verified"/>
+		<rom name="Battletoads (USA) (iam8bit).unh" size="262144" crc="59aabab6" md5="2566a9bac76b729df703623f7b255ac0" sha1="d81c7d96acba51ea05764030321746483788a90e" sha256="8bde1452b379681a4cfcf8ecf2ee4e7e5756135ed7562b9e6cae0b20e1065981"/>
 	</game>
 	<game name="Beat 'n Box (Korea) (Unl)" id="4645">
 		<category>Games</category>

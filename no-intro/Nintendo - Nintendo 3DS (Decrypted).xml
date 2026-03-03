@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260220-060811</version>
+		<version>20260303-073829</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4005,6 +4005,10 @@
 		<description>Kid Icarus - Uprising (USA) (En,Fr,Es)</description>
 		<game_id>0004000000030100</game_id>
 		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es).3ds" size="2147483648" crc="2fac4e91" md5="4c2516a9a0a3ecb4bb09be00aef125bb" sha1="c17ce30db3e395f4555c744e79b6f827f8b20c57" status="verified" serial="CTR-P-AKDE"/>
+	</game>
+	<game name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)" id="z220" cloneofid="0134">
+		<description>Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).3ds" size="2147483648" crc="8331957b" md5="aa89e5b71a1d9bba8743db708f168295" sha1="9787171920c48c0459c9d147b9777bd390767746" sha256="cfb4fdb15375449249d991b2e57611e449b0a7e37c55499349665b0577c4e07a" serial="CTR-P-AKDE"/>
 	</game>
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)" id="0201">
 		<description>Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)</description>
