@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3653) (2026-03-03 08-14-52)</description>
-		<version>2026-03-03 08-14-52</version>
-		<date>2026-03-03 08-14-52</date>
+		<description>Microsoft - Xbox 360 - Discs (3654) (2026-03-04 13-20-20)</description>
+		<version>2026-03-04 13-20-20</version>
+		<date>2026-03-04 13-20-20</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18283,5 +18283,10 @@
 		<category>Games</category>
 		<description>Michael Jackson - The Experience (Russia)</description>
 		<rom name="Michael Jackson - The Experience (Russia).iso" size="7838695424" crc="f286bfb8" md5="ff7933b89d724f2d486af274b11c6897" sha1="f29e1d75949376deccc5fc99628545e4aa476320"/>
+	</game>
+	<game name="Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (Canada) (En,Fr)">
+		<category>Games</category>
+		<description>Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (Canada) (En,Fr)</description>
+		<rom name="Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (Canada) (En,Fr).iso" size="7838695424" crc="506a3ac0" md5="4706930e8ee69fbae9dda1598aa9e7c6" sha1="e4ceaab55ce4d291f3d489c5ce921bf876e4c866"/>
 	</game>
 </datafile>

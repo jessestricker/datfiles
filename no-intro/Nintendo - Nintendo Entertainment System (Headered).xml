@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260302-210327</version>
+		<version>20260303-204609</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10460,11 +10460,11 @@
 		<description>Mother (Japan) (Virtual Console)</description>
 		<rom name="Mother (Japan) (Virtual Console).nes" size="393232" crc="58b727bb" md5="68f319a580eaded6b4fa73921bad6901" sha1="3f8565c6e6547e5d7e0a019bff74926bd12774b2" sha256="84fb448914828ba7b16e139d5991b31b59489fe74ce00e5c801fcf1d68a0f2c6" status="verified" header="4E 45 53 1A 10 10 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
-	<game name="Mr. Gimmick (USA) (Early Proto)" id="2726" cloneofid="1522">
+	<game name="Mr. Gimmick (USA) (Proto 1)" id="2726" cloneofid="1522">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Mr. Gimmick (USA) (Early Proto)</description>
-		<rom name="Mr. Gimmick (USA) (Early Proto).nes" size="393232" crc="8411b052" md5="17c1c9cf240acc4907ef480a248a2bc3" sha1="2f4f36e38b2e367e546454d56c0f590b9f159a68" sha256="51e4856aee8bb9ed3b0f32494c8592b3623fc6074675cb01f18bedfbe6818f72" header="4E 45 53 1A 10 10 50 48 00 00 00 00 00 00 00 01"/>
+		<description>Mr. Gimmick (USA) (Proto 1)</description>
+		<rom name="Mr. Gimmick (USA) (Proto 1).nes" size="393232" crc="8411b052" md5="17c1c9cf240acc4907ef480a248a2bc3" sha1="2f4f36e38b2e367e546454d56c0f590b9f159a68" sha256="51e4856aee8bb9ed3b0f32494c8592b3623fc6074675cb01f18bedfbe6818f72" header="4E 45 53 1A 10 10 50 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Mugen Senshi Valis (Japan)" id="2420">
 		<description>Mugen Senshi Valis (Japan)</description>
@@ -20732,11 +20732,11 @@
 		<description>Mission - Impossible (Asia) (En) (Pirate)</description>
 		<rom name="Mission - Impossible (Asia) (En) (Pirate).nes" size="262160" crc="f709f096" md5="19659ac934fae93e86dfdfd72e496054" sha1="096f291657b7bdea87514bef58f093608bca318d" sha256="4141e95384f8af5af5d3017c24424e52f62cbb065e3caeae82d90dfff4a558cc" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Mr. Gimmick (USA) (Final Proto)" id="8324" cloneofid="1522">
+	<game name="Mr. Gimmick (USA) (Proto 2)" id="8324" cloneofid="1522">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Mr. Gimmick (USA) (Final Proto)</description>
-		<rom name="Mr. Gimmick (USA) (Final Proto).nes" size="393232" crc="b1080649" md5="afd75e4b302e826daf7b0a675944e203" sha1="7b65b1f860e2ef2d35cd465695b1d0cfb275c2bb" sha256="56b67d0be81e9d13d072e7b3ea83a29674c724f290de1b8574eefbb6a3cda994" header="4E 45 53 1A 10 10 50 48 00 00 00 00 00 00 00 01"/>
+		<description>Mr. Gimmick (USA) (Proto 2)</description>
+		<rom name="Mr. Gimmick (USA) (Proto 2).nes" size="393232" crc="b1080649" md5="afd75e4b302e826daf7b0a675944e203" sha1="7b65b1f860e2ef2d35cd465695b1d0cfb275c2bb" sha256="56b67d0be81e9d13d072e7b3ea83a29674c724f290de1b8574eefbb6a3cda994" header="4E 45 53 1A 10 10 50 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="New Game - 10-in-1 Power Joy (Asia) (En) (Pirate)" id="8134">
 		<category>Games</category>
