@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11747) (2026-03-04 21-49-23)</description>
-		<version>2026-03-04 21-49-23</version>
-		<date>2026-03-04 21-49-23</date>
+		<description>Sony - PlayStation 2 - Discs (11748) (2026-03-06 17-38-13)</description>
+		<version>2026-03-06 17-38-13</version>
+		<date>2026-03-06 17-38-13</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -49022,10 +49022,10 @@
 		<description>Tokyo Game Show Bandai Namco Booth Distribution Disc 2005 (Japan)</description>
 		<rom name="Tokyo Game Show Bandai Namco Booth Distribution Disc 2005 (Japan).iso" size="3164995584" crc="9ddcea0e" md5="f7083cbadcbe182d6851c3b63d7a5640" sha1="6a1a6308d26b219a708565e8da85dbd7b5d236e4"/>
 	</game>
-	<game name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban)">
+	<game name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-08-25)">
 		<category>Demos</category>
-		<description>Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban)</description>
-		<rom name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban).iso" size="1230897152" crc="72cb3e11" md5="db714eb23d39bb15dc7cfd893b78c826" sha1="5266a1da7e68e36a3dff65c951505a635b3e7c4a"/>
+		<description>Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-08-25)</description>
+		<rom name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-08-25).iso" size="1230897152" crc="72cb3e11" md5="db714eb23d39bb15dc7cfd893b78c826" sha1="5266a1da7e68e36a3dff65c951505a635b3e7c4a"/>
 	</game>
 	<game name="Sega Ages 2500 Series Vol. 27 - Panzer Dragoon (Japan)">
 		<category>Games</category>
@@ -61944,5 +61944,10 @@
 		<description>Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)</description>
 		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).cue" size="143" crc="be00bc4f" md5="75a2dfddd9ac3f91a01a372fc450eb54" sha1="d14e04d5c8083dc10854a2b880196037b07e9e67"/>
 		<rom name="Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan).bin" size="150109344" crc="cfa95c8a" md5="0382ae76c43c7865e865210b59d7461e" sha1="95c7df653c90acd774bce07418707b772a7b1cb2"/>
+	</game>
+	<game name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-11-19)">
+		<category>Demos</category>
+		<description>Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-11-19)</description>
+		<rom name="Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-11-19).iso" size="1228832768" crc="7b8e1647" md5="6c06e0bfeba802910c35924d307ee1fe" sha1="6633c2ffc51f7ecd24101a54dcadaf6cb37fae8b"/>
 	</game>
 </datafile>

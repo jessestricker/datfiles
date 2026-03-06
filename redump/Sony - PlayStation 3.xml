@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4479) (2026-03-03 12-58-50)</description>
-		<version>2026-03-03 12-58-50</version>
-		<date>2026-03-03 12-58-50</date>
+		<description>Sony - PlayStation 3 - Discs (4480) (2026-03-06 02-08-07)</description>
+		<version>2026-03-06 02-08-07</version>
+		<date>2026-03-06 02-08-07</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22416,5 +22416,10 @@
 		<category>Games</category>
 		<description>Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00)</description>
 		<rom name="Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00).iso" size="4243324928" crc="77394e44" md5="f04af920dab30b52aeb87fd71083f984" sha1="e23cc7fe0b46bffb64f2a12e37612614df9ef8f7"/>
+	</game>
+	<game name="Armored Core 4 (Japan) (The Best Collection)">
+		<category>Games</category>
+		<description>Armored Core 4 (Japan) (The Best Collection)</description>
+		<rom name="Armored Core 4 (Japan) (The Best Collection).iso" size="14278262784" crc="06d4add0" md5="cfffc8dcd7e45d22b9b7d2afe28bffb5" sha1="12ebe37f52875a8d4f1a2c468fdb09316d825495"/>
 	</game>
 </datafile>

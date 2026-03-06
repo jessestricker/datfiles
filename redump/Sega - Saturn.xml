@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2413) (2026-03-05 14-44-22)</description>
-		<version>2026-03-05 14-44-22</version>
-		<date>2026-03-05 14-44-22</date>
+		<description>Sega - Saturn - Discs (2421) (2026-03-06 21-14-30)</description>
+		<version>2026-03-06 21-14-30</version>
+		<date>2026-03-06 21-14-30</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -39729,5 +39729,94 @@
 		<rom name="Toushinden S (Japan) (Rev A) (Track 10).bin" size="33847632" crc="9cb0c63d" md5="00e9b5dbbcb6af6dfd48fc84588b33b5" sha1="46619bb622be941b10bbdb4f6a4f53250d739102"/>
 		<rom name="Toushinden S (Japan) (Rev A) (Track 11).bin" size="37074576" crc="b3407c53" md5="1c72ed2af4db4722417a3ebedd398c0e" sha1="3950c07413999cf837932e7b134a25d334d9838a"/>
 		<rom name="Toushinden S (Japan) (Rev A) (Track 12).bin" size="32991504" crc="26f3827b" md5="321618ef8381558680437216a08dfeb8" sha1="9264b1355cc9f7b81f5ef0ad75a86c5cc2715fd9"/>
+	</game>
+	<game name="Chelnov (Japan) (Proto) (1997-07-23)">
+		<category>Preproduction</category>
+		<description>Chelnov (Japan) (Proto) (1997-07-23)</description>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23).cue" size="1152" crc="8af094fb" md5="ed3242ccd82145cf755b48660cd2da06" sha1="594e419d6f16dc02ed80a53cdef09d7049bf2f73"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 1).bin" size="3344544" crc="d8172401" md5="5bf19025309a9bd710e48270477f6fb8" sha1="8187e47c828abf428bd88e3a2d90f19525704cce"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 2).bin" size="1811040" crc="34bed8d2" md5="eefe1cf9626e31b164b03235bb4da086" sha1="c5b7e6cec1c7f9e2cf53f5a04f2b13455ad57248"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 3).bin" size="43415568" crc="81d96753" md5="69b204a3e728ceaaf87f50d65ca5e7ce" sha1="e124a65596818254c42fb3049d344c70bb162360"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 4).bin" size="17943408" crc="bbe28c22" md5="10f005be0d0709cc18f12f5ce5d04748" sha1="e10474b2144faa8cf98732b2704fea90c4269779"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 5).bin" size="1947456" crc="f1f9d33d" md5="7a4604aa9f858e1b9f59452ae111b03b" sha1="b5233afa9c2f127405c76924fdb9ff72168ea43f"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 6).bin" size="44497488" crc="0f01681d" md5="2ddf198bc0bbf02b55266f663b3ece7a" sha1="592ff5e4faedaade5024bec1bb461a179d3f5adf"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 7).bin" size="29677536" crc="fb7746f2" md5="3a7db7b16230f7b6cfb4657688c8c276" sha1="791e13790b8aece3e7d01a10dd7b3ee1b8fb674a"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 8).bin" size="32255328" crc="bffb66ae" md5="1caef55e2c92d482bb35734457f10c3a" sha1="ab9adf2b2aa3a6fc59fb12544f96e971dc7eda72"/>
+		<rom name="Chelnov (Japan) (Proto) (1997-07-23) (Track 9).bin" size="22191120" crc="0edec0a8" md5="96515e2323ff0340fb2b712efb2e24ae" sha1="b5fa6d23934ea19040af988c33b5640f599db82f"/>
+	</game>
+	<game name="Gex (USA) (Beta) (1995-11-18)">
+		<category>Preproduction</category>
+		<description>Gex (USA) (Beta) (1995-11-18)</description>
+		<rom name="Gex (USA) (Beta) (1995-11-18).cue" size="228" crc="15f46574" md5="a10588383c618e45559d23aa1def0074" sha1="6527c659eb25bce9fc643383942928990c483f98"/>
+		<rom name="Gex (USA) (Beta) (1995-11-18) (Track 1).bin" size="271465488" crc="6711eaf5" md5="626522473ac8df8fad59df665f2169e1" sha1="3f4648bfc8fd51bb59a465084fb2a932166a1b89"/>
+		<rom name="Gex (USA) (Beta) (1995-11-18) (Track 2).bin" size="7596960" crc="ca36d050" md5="ef227e714e79574191323dcb245565d4" sha1="9783ab68364e1c125b19a9193ce3e81cacc392ba"/>
+	</game>
+	<game name="Dark Savior (USA) (Beta) (1996-11-02)">
+		<category>Preproduction</category>
+		<description>Dark Savior (USA) (Beta) (1996-11-02)</description>
+		<rom name="Dark Savior (USA) (Beta) (1996-11-02).cue" size="244" crc="33e3b755" md5="00d604cabaf36a52f98b5feedc9f816b" sha1="4cd82cfb20d79ccec3965c0524dc889607ac52bf"/>
+		<rom name="Dark Savior (USA) (Beta) (1996-11-02) (Track 1).bin" size="118484352" crc="dbbe0b1c" md5="fc9a67706b8a72e690ea72ab13637c76" sha1="7c03ae14e2eb300ed620588128731de32f48bc07"/>
+		<rom name="Dark Savior (USA) (Beta) (1996-11-02) (Track 2).bin" size="263268768" crc="c9194d23" md5="3b75c936839b182c08329141cfb5d96d" sha1="6bc10b33242e71984faf7c842f1041e0349f0326"/>
+	</game>
+	<game name="FIFA Soccer 97 (USA) (Beta) (1997-01-26)">
+		<category>Preproduction</category>
+		<description>FIFA Soccer 97 (USA) (Beta) (1997-01-26)</description>
+		<rom name="FIFA Soccer 97 (USA) (Beta) (1997-01-26).cue" size="518" crc="86f80293" md5="fc8d878602957423608fcea041c700d6" sha1="1edd20a8fa896e0d130ed2a64740c0edd6fd0a7c"/>
+		<rom name="FIFA Soccer 97 (USA) (Beta) (1997-01-26) (Track 1).bin" size="670369392" crc="1a8871bb" md5="cd36bcd1275fd42e62dd51dfe50f64c4" sha1="995e621d8aa4280c6062a60152683105134afdac"/>
+		<rom name="FIFA Soccer 97 (USA) (Beta) (1997-01-26) (Track 2).bin" size="14598864" crc="9b6490a5" md5="3f88650107c5d410c517b06cd2249582" sha1="464c79323efeb21aaf40447795fdb110ec1a8727"/>
+		<rom name="FIFA Soccer 97 (USA) (Beta) (1997-01-26) (Track 3).bin" size="7039536" crc="716d7a5f" md5="1d1a4bce8d13275cf924dc6f88523027" sha1="8eda1f00d659515a7292b8227b7a22612f7c8114"/>
+		<rom name="FIFA Soccer 97 (USA) (Beta) (1997-01-26) (Track 4).bin" size="6453888" crc="2fa00ea0" md5="05b21fe2725c16d4eb4a3662c08e0946" sha1="c920c727a5e408e3a8b01a4762cc0f567794ab4e"/>
+	</game>
+	<game name="Johnny Bazookatone (Europe) (Beta) (1995-11-23)">
+		<category>Preproduction</category>
+		<description>Johnny Bazookatone (Europe) (Beta) (1995-11-23)</description>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23).cue" size="2373" crc="4d25c458" md5="17d681ddc4252aa4058e9825bcb05431" sha1="eaef3f4ba9f2a04df7ee7535e782b63c1ba7087a"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 01).bin" size="191993760" crc="543f4ede" md5="b530c478726ccfe66b121396af62e4b7" sha1="791a40f5882d912a82b969a8ed185c00adb075bd"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 02).bin" size="18409104" crc="144b23f6" md5="3d0aa414ab083d945adb64f578df4515" sha1="81cecc3c13d2bb85d1aa4c8c8ccbbf800019be97"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 03).bin" size="17094336" crc="12aae1b1" md5="77a4419def7c53455e9097477e5bcf08" sha1="9eb1941feea4747acb9c9b16751f477acb655b39"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 04).bin" size="13154736" crc="49dfd28c" md5="3144de6b9e4ffe743fc16eb08178a7d4" sha1="879bd892469fb588e6ab5bc5f5bbc906817f818c"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 05).bin" size="29903328" crc="6e25c7f3" md5="2235736902a9fcc653c49301397bcf05" sha1="1b2a888aa6bbd46601782cb4350d477272a80eff"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 06).bin" size="44257584" crc="6d1f8cc0" md5="fcbb9e55c74ced1dea77ed3a95237912" sha1="27a4d9bcd0188900dcedc68dbac2be3466ab9fc1"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 07).bin" size="24961776" crc="f8b7287f" md5="8bdbdbc3d39cd8f8d8fe4f06a612f26b" sha1="918b71aa7311c55e5ebde45fb567a13f25358d56"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 08).bin" size="21636048" crc="f968b86d" md5="391d68106ed544bf0ad15aacd5d00107" sha1="205e105c0329f23b6d94ae174858cae696404a17"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 09).bin" size="19658016" crc="2f9d480d" md5="00628a53c15d9c8e866192e1e52da495" sha1="ca0a9a7f154472c5cd67b23ab6f7204a9f7bc4e3"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 10).bin" size="18841872" crc="62997705" md5="8f384c8cb15da517ce6dd9d4ee7fd7d6" sha1="2cebd132b934f1cab247b38a0b7614da8e9ca196"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 11).bin" size="35693952" crc="02d36d73" md5="62714e86dd63315d2d53ee6246a26444" sha1="b9e702cafd68910c4f06175ad1f27b8ac5141c84"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 12).bin" size="33231408" crc="bf815cc6" md5="e6d8e3a54780794f52291891e3f9db52" sha1="f33bc657510e2cdc0d7796fdcab07d8a01ae2dc0"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 13).bin" size="31608528" crc="153d4928" md5="efb1c9cba7f40122020bb25e9bb5daaa" sha1="361fa5adb17c2f18fe0eb2fd3033a25893b88d96"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 14).bin" size="28153440" crc="61675fc3" md5="d004cb150b551260c088079c43ae430e" sha1="d2225d83d261f93ce9b217e9358ad61d78736435"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 15).bin" size="30655968" crc="56f3d61c" md5="e3c1ec48b09c495e9d7c23d4518a131a" sha1="4b421e2f8797e864a48f79327367b6f9699a7acc"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 16).bin" size="29750448" crc="dcf61a12" md5="b0a472e77ef6e95ccaf69f2baaf20754" sha1="ad1892bc03e070669b8121fae08e86d06e9423e7"/>
+		<rom name="Johnny Bazookatone (Europe) (Beta) (1995-11-23) (Track 17).bin" size="27675984" crc="71fee272" md5="1b99e302943680b3fc1a01ce588adc5e" sha1="bcd7e84d6bf95787f57e1aa3144589d37eb5da7c"/>
+	</game>
+	<game name="Madden NFL 97 (USA) (Beta) (1996-07-16)">
+		<category>Preproduction</category>
+		<description>Madden NFL 97 (USA) (Beta) (1996-07-16)</description>
+		<rom name="Madden NFL 97 (USA) (Beta) (1996-07-16).cue" size="105" crc="6fa69127" md5="d725b7b817167328770e862df40b4ed1" sha1="8878568ecf81356aadc62650bf1ceaab093979cf"/>
+		<rom name="Madden NFL 97 (USA) (Beta) (1996-07-16).bin" size="526777440" crc="ef0291c4" md5="dd8e86c045bec052dbc72a08f77bac57" sha1="ca8fbf0423da24f1c0f7e28d775b2d65e3887cfe"/>
+	</game>
+	<game name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21)">
+		<category>Preproduction</category>
+		<description>Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21)</description>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21).cue" size="887" crc="ed648f9f" md5="408699a5c226add059defb34f509f290" sha1="d1dff1a4bbb910d9a0e4f573b1fec3df1d32298b"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 1).bin" size="177623040" crc="95c29670" md5="fe9a727ffff940ab7133cac1931fb823" sha1="9686b4f9294de34697fa1e9c4c1a723bda0f2c1b"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 2).bin" size="19792080" crc="5ee80978" md5="fc9deeb3d56dca81b963d8881a019a10" sha1="fc271356aa7ba201ce4d6ba2956826f0b9a2a323"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 3).bin" size="6482112" crc="d9656dea" md5="76afaec910683d67b85209953d69f707" sha1="6b9ec853d50ff347051951da4fef9160002bfa55"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 4).bin" size="16012416" crc="0cdf3ddd" md5="78310d7f0f95aa4537a473083996cb6c" sha1="8cc465d5aaaedd27e6cb790f6cca01e85597b958"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 5).bin" size="44158800" crc="e54d6d2e" md5="b9fd590f74742ffbe98da0e02cc9d5f1" sha1="3326f210cc7a5bb47e79b85441e169c0f8b3c9a9"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 6).bin" size="54469968" crc="1f6dfe44" md5="b07988cff17eaefddff28f358fedd238" sha1="7cc1007ffe53a36920182d0e441a79990109f4d8"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-09-21) (Track 7).bin" size="32601072" crc="3d9f9c8a" md5="c35d79ac43a2ce37878df91344e90731" sha1="65c4d4852de5419a8c1d314e854608388e02e972"/>
+	</game>
+	<game name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26)">
+		<category>Preproduction</category>
+		<description>Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26)</description>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26).cue" size="887" crc="1c5a05a6" md5="7169f286592cfbd5e046dbc02c1e0889" sha1="ad827197842e982195027263a315a73dd4996544"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 1).bin" size="177246720" crc="224a87bb" md5="e2e867f82a0f87cfab35080981af8107" sha1="c717bada1c01def3941e8a885aa8fd81151878fa"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 2).bin" size="20144880" crc="d66df321" md5="0b6f707be4d982d3a8ad3b39462408f5" sha1="b2b07b0459246e2b501ad3054f484defd76896a9"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 3).bin" size="6834912" crc="c6087142" md5="7b70771329bf52f99536bf8da9cdc03c" sha1="90f103373e6f66374635c975b6a52ca948039048"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 4).bin" size="16365216" crc="47123264" md5="98304955ccce30fee1496b71bd4d6751" sha1="88f9e602bd446f37ceaf1514ec5da1ac3855f5f9"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 5).bin" size="44511600" crc="7aa19184" md5="df0252c47a2d8bd630ddc57f814e6be4" sha1="5a574c2a88cd1a13a3b9d0c61f490f4cc67a5153"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 6).bin" size="54822768" crc="da1c2fa7" md5="adc3a34084d05840e4c0e7d44f0b5051" sha1="792ed079992c8f035ab80b87f1a77cffd5a90df6"/>
+		<rom name="Mystaria - The Realms of Lore (USA) (Beta) (1995-10-26) (Track 7).bin" size="32601072" crc="4c5f858a" md5="2615052d104c120fb48d0e9392f181a4" sha1="64b4523c49775fccafd113e3023be5ca12373ad8"/>
 	</game>
 </datafile>
