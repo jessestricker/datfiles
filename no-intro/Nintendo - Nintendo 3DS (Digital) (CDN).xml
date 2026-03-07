@@ -4,7 +4,7 @@
 		<id>96</id>
 		<name>Nintendo - Nintendo 3DS (Digital) (CDN)</name>
 		<description>Nintendo - Nintendo 3DS (Digital) (CDN)</description>
-		<version>20251220-224958</version>
+		<version>20260306-063611</version>
 		<author>ajshell1, Arctic Circle System, Aringon, bikerspade, buckwheat, C. V. Reynolds, Gefflon, Hiccup, Hiccup and DarkMatterCore, Icyelut, InternalLoss, Jack, Jarvik7, Just001Kim, MeguCocoa, MisterSheeple, niemand, nnssxx, norkmetnoil577, number, rarenight, root, SonGoku, u53r123, Whovian9369, xprism, xuom2, ZeroSkill, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -99629,7 +99629,7 @@
 		<rom name="00000001" size="176128" crc="feb2d6a4" md5="bc51072c9edaf08e62407abc0ad0923d" sha1="f928efe1b7ba4897c35c3f75204c66ad66e0f590" status="verified"/>
 		<rom name="tmd.0" size="4708" crc="762b2a12" md5="0946ced17f2a3936328af875ec4e8a59" sha1="f789c9a93e419b70ec401b4b6707685e82300bf8" status="verified"/>
 	</game>
-	<game name="Shantae (USA) (GBC) (Virtual Console)" id="01223" cloneofid="01223">
+	<game name="Shantae (USA) (GBC) (Virtual Console)" id="01223" cloneofid="01224">
 		<description>Shantae (USA) (GBC) (Virtual Console)</description>
 		<game_id>00040000000be500</game_id>
 		<rom name="00000000" size="7045120" crc="f63a2491" md5="6119caa78a43bb7da7c10b25a113f020" sha1="9c28b88d009ba607e6a8f2ada8e8523419818d21" status="verified"/>

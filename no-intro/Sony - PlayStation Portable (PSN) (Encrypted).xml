@@ -4,7 +4,7 @@
 		<id>91</id>
 		<name>Sony - PlayStation Portable (PSN) (Encrypted)</name>
 		<description>Sony - PlayStation Portable (PSN) (Encrypted)</description>
-		<version>20251223-124222</version>
+		<version>20260306-065333</version>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18720,6 +18720,11 @@
 		<rom name="9p1aHeKDC7LooEe4B6i19LjO1DJT3Jhr3nMVVwCbGL8ijHUjCWYOjSfpfDQIvwwvjQhEnDOoVK47eatRtIfC5FUmPmWD6nVYauQ8s.pkg" size="183296448" crc="9ac36c00" md5="9ec01f85473bda7756c929e7497eeef1" sha1="410f04f38302ca6053050f2631470587c002f26f" sha256="ab090afdae96ede52123cb2a7d6309648ab0334a9d2477c006ef63941d597587"/>
 		<rom name="EP1001-ULES00688_00-GPCSIDMEIE000001.rap" size="16" crc="a485053f" md5="908be30152a7abdc431650988295f0eb" sha1="62bed63f003a462047e8d3d8b29330fa12f87b50" sha256="1fd8cf6d0614a114a7804e58d07eadefc725727167eeda1eab676657f736073a"/>
 	</game>
+	<game name="Silent Hill - Origins (USA)" id="2991">
+		<description>Silent Hill - Origins (USA)</description>
+		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
+		<rom name="GyNG5GT71QBvtgHg0MIc43hd4PYOvWpG5kxS9VS2Yc1j4LRiYpiT5T9XHMAPcoIlQaEovt4aDMVVxKpBu55nqAuOQdFufMMYvtEVL.pkg" size="758777168" crc="950e0054" md5="fe01092899469ab18976060a48cfe01d" sha1="7aa346e6977cb466a781a957cec3f45fdaf43498" sha256="31c1250e8668515ebe595cf50d99555369c8cbd270219bb2b34bf8810cb33717"/>
+	</game>
 	<game name="Silent Hill - Origins (Europe) (En,Fr,De,Es,It)" id="4730">
 		<description>Silent Hill - Origins (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>EP0101-ULES00869_00-GPCSILENTH000001</game_id>
@@ -18735,11 +18740,6 @@
 		<game_id>UP0101-ULUS10450_00-SILENTHILLSMDUSA</game_id>
 		<rom name="KVVmUys1Yta0GXNIDyyyRVTDocy31Oj9QRcfdQUAd8k1IBsg9bC7SU7kedW1joJ7HdMeIpQFvM2PoP7wRiuiOkBKWh44FGkmeoRGN.pkg" size="797641584" crc="09751665" md5="b79f3827625fa598741271927b08bee8" sha1="290a06b1f52543171500548cd585a9508ddc66a3" sha256="6239b53dd5529d7a4164ebb354555cd9860aec6f5badc26e9a0faee23aaf83e2"/>
 		<rom name="UP0101-ULUS10450_00-SILENTHILLSMDUSA.rap" size="16" crc="52374f87" md5="8034daa42ba1dbdd448b3b3c81923b87" sha1="b536744c43e69752e46cfa07102fc83b3e78a348" sha256="9b704e498cb239c60b85072418af3f879eba273fc7e6e106f17f6364b0194309"/>
-	</game>
-	<game name="Silent Hill Origins (USA)" id="2991">
-		<description>Silent Hill Origins (USA)</description>
-		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
-		<rom name="GyNG5GT71QBvtgHg0MIc43hd4PYOvWpG5kxS9VS2Yc1j4LRiYpiT5T9XHMAPcoIlQaEovt4aDMVVxKpBu55nqAuOQdFufMMYvtEVL.pkg" size="758777168" crc="950e0054" md5="fe01092899469ab18976060a48cfe01d" sha1="7aa346e6977cb466a781a957cec3f45fdaf43498" sha256="31c1250e8668515ebe595cf50d99555369c8cbd270219bb2b34bf8810cb33717"/>
 	</game>
 	<game name="Silent Hill Zero (Japan) (Konami the Best)" id="4729">
 		<description>Silent Hill Zero (Japan) (Konami the Best)</description>
@@ -22091,18 +22091,6 @@
 		<rom name="FuINjPvdLJdlYKUJSDuKtyHpASaEyAnrxBaXSSXWInFZGMNeYptFePUYvlVUVGnVlowYjZwOWQJXTnIYVPGPGAhoGyuEEvewDdoVf.pkg" size="264839696" crc="ea0f3fe9" md5="bb363dbaa6a7199d52327ab2ccf881e1" sha1="f7cb4f125d031b698e1c825f99bca89b7a698b72" sha256="cdbdac4028c275e2511904e484405d4cdac082d85ce44c049f7100c11d7d53cf"/>
 		<rom name="JP0425-NPJH90192_00-0001000100010001.rap" size="16" crc="9035c0cd" md5="9d72aeadcbafb796af2029223758cfb1" sha1="6a9c30708faea43a0859914f9e2388fb45695349" sha256="49c5583435de621e0b1b22ccc70bbfdbe15c9efb9ebabb0ab95757f20e1b23b5"/>
 	</game>
-	<game name="Ys - Seven (Europe)" id="3799">
-		<description>Ys - Seven (Europe)</description>
-		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
-		<rom name="KxXoWFnNcxCmcuTSRPLYnsgQDXjhlEVpNvgIdSlxnBKGxpikUbIqVifrMRbXOAqP.pkg" size="454756656" crc="c5a252a3" md5="049a7a332f5cf13288186d778d795811" sha1="ce0db1d6b65051a041ba4dfb41d282d081f76086" sha256="f83804825b07ab6ee3e38164bb1572f3d22920ad7eab6508e6053bf673114984"/>
-		<rom name="EP1023-NPEH00065_00-0000000000000000.rap" size="16" crc="1bd54673" md5="1cefbffacbcc53c996b3865f6709cc8b" sha1="6e2bfe12eb0badc07834e9bc57de705854bcc7ae" sha256="2eaf634aa5585ad75002f079c5b4baa046c3f670be5d74a7821d6a76816b9b1f"/>
-	</game>
-	<game name="Ys - Seven (Japan) (Demo)" id="3800">
-		<description>Ys - Seven (Japan) (Demo)</description>
-		<game_id>JP0425-NPJH90191_00-0000111122223333</game_id>
-		<rom name="XAWGGCUvRvPzmjPzzUtkPJHILAVWCuNwpRHPMCwRuwhwBomBjjdMapSnAHNQNiKRcQfrsClrqlIQsTQHANpxCdIcqKTZUOOsbdUfw.pkg" size="295481952" crc="ef346039" md5="3916a317b018964d0b718ebe5ee67698" sha1="69a397fa2d545bbb03a7733480b7f6c685acd345" sha256="f0c7fd7538be0db94bdd927ad732ad77039529b556768a11978e3e6bcd620a1f"/>
-		<rom name="JP0425-NPJH90191_00-0000111122223333.rap" size="16" crc="e8213d60" md5="b06a2d7a34731c6ad9b021e97c594308" sha1="78e6856d44acb848d5e56c230a8313aee42b9df4" sha256="5a4b800586af0ac6dae62da095414c85df7e6c01ba568dd42f7ec9c8cb35e7e0"/>
-	</game>
 	<game name="Ys - The Oath in Felghana (Europe)" id="3802">
 		<description>Ys - The Oath in Felghana (Europe)</description>
 		<game_id>EP1023-NPEH00077_00-0000000000000000</game_id>
@@ -22140,6 +22128,18 @@
 		<description>Ys IV - The Dawn of Ys (Japan) (PCE)</description>
 		<game_id>JP0808-NPJJ30040_00-YS4000000000JS40</game_id>
 		<rom name="SccMGbkZDzlgjSMtzuMyZWNECCNYXdXDKvVeQckSoyJzZKiWoxskfvlMwpEZTJJyuWYIoCQIaAHeSkXOxqqQJBYdnlcPRuwpzmsnn.pkg" size="150497568" crc="1eedc2e2" md5="cfd3b04d4f11432c9e201bdc38e5a105" sha1="813142cdc64eee1cf98e943d0115a78e549bf039" sha256="24970032cc7d50f510df6c58793ee3593464a924d7457e65150b637be383ce6a"/>
+	</game>
+	<game name="Ys Seven (Europe)" id="3799">
+		<description>Ys Seven (Europe)</description>
+		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
+		<rom name="KxXoWFnNcxCmcuTSRPLYnsgQDXjhlEVpNvgIdSlxnBKGxpikUbIqVifrMRbXOAqP.pkg" size="454756656" crc="c5a252a3" md5="049a7a332f5cf13288186d778d795811" sha1="ce0db1d6b65051a041ba4dfb41d282d081f76086" sha256="f83804825b07ab6ee3e38164bb1572f3d22920ad7eab6508e6053bf673114984"/>
+		<rom name="EP1023-NPEH00065_00-0000000000000000.rap" size="16" crc="1bd54673" md5="1cefbffacbcc53c996b3865f6709cc8b" sha1="6e2bfe12eb0badc07834e9bc57de705854bcc7ae" sha256="2eaf634aa5585ad75002f079c5b4baa046c3f670be5d74a7821d6a76816b9b1f"/>
+	</game>
+	<game name="Ys Seven (Japan) (Demo)" id="3800">
+		<description>Ys Seven (Japan) (Demo)</description>
+		<game_id>JP0425-NPJH90191_00-0000111122223333</game_id>
+		<rom name="XAWGGCUvRvPzmjPzzUtkPJHILAVWCuNwpRHPMCwRuwhwBomBjjdMapSnAHNQNiKRcQfrsClrqlIQsTQHANpxCdIcqKTZUOOsbdUfw.pkg" size="295481952" crc="ef346039" md5="3916a317b018964d0b718ebe5ee67698" sha1="69a397fa2d545bbb03a7733480b7f6c685acd345" sha256="f0c7fd7538be0db94bdd927ad732ad77039529b556768a11978e3e6bcd620a1f"/>
+		<rom name="JP0425-NPJH90191_00-0000111122223333.rap" size="16" crc="e8213d60" md5="b06a2d7a34731c6ad9b021e97c594308" sha1="78e6856d44acb848d5e56c230a8313aee42b9df4" sha256="5a4b800586af0ac6dae62da095414c85df7e6c01ba568dd42f7ec9c8cb35e7e0"/>
 	</game>
 	<game name="Ys Seven (USA)" id="3801">
 		<description>Ys Seven (USA)</description>
@@ -22285,18 +22285,18 @@
 		<game_id>JP9000-NPJG90077_00-Y3DDEMO000000001</game_id>
 		<rom name="Xj2VhevEbSuXVfjthYX6CfMmFEQAIH7soRwl7mIt5qjUMtArC0ctfjwqaQJEkdpU2w70CfR8GxeatBmOra8xfK5R9gcXbN6MFQ5nV.pkg" size="32083568" crc="53f4bd15" md5="60de6ba294b26052024473e9cf582443" sha1="7c8ac6228af95b66bc9bee30b6160c73c970649f" sha256="f72494318db29d5f480e693932a40489898c3effeb19d42ca80dc12f2c93696a"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Europe)" id="3826">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Europe)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Europe)" id="3826">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Europe)</description>
 		<game_id>EP1063-NPEH00099_00-ZHP0000000000001</game_id>
 		<rom name="TF1BpfUmcdRKlYT0FEHPRLFmMps84K4OrsW13aGnP8V3Khy6N74odRcyHWCrQCSx.pkg" size="600040688" crc="e0bfca58" md5="c2b439d0731e2a985676df1bb6cc1c6b" sha1="86696882b7c01ea51387eed22dc7d7446274c8eb" sha256="ba49f54eb4ce8dba92e9386fcaeb9dd5760f8cf8d94a5c6d51a210f30518ecf2"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)" id="3834">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)" id="3834">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)</description>
 		<game_id>UP1063-ULUS10559_00-ZHP0000000000001</game_id>
 		<rom name="dUpSOfNM3RepoE7JDfXMVuvixo9GsiwKqecp4YBTnY28qM1NB81sNblkbqv7EaNf0EbtPa364WBcJtkdnG5Mgt9dUdbt9nCJYjD3w.pkg" size="596178720" crc="89ce46cd" md5="8991fedf02e017c83f2fd59abdecc0d0" sha1="3f3b9dc7030a43c54afb24346b30313704bab41c" sha256="054b8e23a54e1273b910f42821a7fec772840aa88fad819aa0a0cd0c2a6d6230"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Asia)" id="4200">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Asia)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Asia)" id="4200">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Asia)</description>
 		<game_id>HP1063-NPHH00277_00-000ZHPURVSDEASIA</game_id>
 		<rom name="gKDKmopIY4PJxfRJymdN7K6R1vhwCfeFvmYUMc1ALOYcoQWdEO0b2lDKTnUOnPRnrqUehWvVNTgUvGI7fR9ovrhRPJbWgwnU5Re2y.pkg" size="596297072" crc="0d93170d" md5="c6ad0fd142965190ee3f37b1d1892838" sha1="491f4a22325141918d8481e878ce10b82d8dc8da" sha256="58ec6d3fe999a65ce2ddda905f00174ef41825e7e7ac45503c593642ba6165bf"/>
 	</game>

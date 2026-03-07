@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260225-110424</version>
+		<version>20260306-143422</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -680,6 +680,11 @@
 		<description>Daibakushou Jinsei Gekijou (Japan)</description>
 		<rom name="Daibakushou Jinsei Gekijou (Japan).bs" size="1048576" crc="5eb7a3e5" md5="04e8701b433b99aca432894733adaf63" sha1="c6dc571a70553701d2d9758544ce2d55bb4ed820" sha256="b3c1704071554beb769e593711e73360aa4926f3eebdf708a8d0b3b9b950ea28"/>
 	</game>
+	<game name="Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)" id="3976">
+		<category>Games</category>
+		<description>Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)</description>
+		<rom name="Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).bs" size="1048576" crc="50089922" md5="71d5576f9bd9b55cd7e02db4e2784c07" sha1="dcb5379d81e0049fbf6d83c2f86405c87f02bf00" sha256="f445db78f28088b0d87109d209b5a60008f22df905f9fa9bff21bf753e634cb4" serial="AKKJ"/>
+	</game>
 	<game name="Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (Magazine)" id="0525">
 		<description>Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (Magazine)</description>
 		<rom name="Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (Magazine).bs" size="1048576" crc="e009dbf8" md5="515b77d71ab249f399463c1df6d302fd" sha1="65bfb22db870a290673276ac1324242868d64a8b" sha256="ac96936c3bce2c47ac9b4ee8b6c64906d80aa0faa8a42371e4f40a06c9900f25"/>
@@ -1229,25 +1234,28 @@
 		<description>Kirby no Omochabako - Arrange Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Arrange Ball (Japan).bs" size="524288" crc="bc49f827" md5="7ca9979d1fc3e1cef697c757d4616c2a" sha1="31407d5b2e60e480be4f5e34ce47f6a0a8de1b08" sha256="0cbbb40b99f163aebdaa80e2506daf50ca4864c2cd565299b7867af7eb8b51f7"/>
 	</game>
-	<game name="Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix)" id="3666">
-		<description>Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix)</description>
-		<rom name="Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix).bs" size="524288" crc="9d1cff7c" md5="061fcbe0fca04030f5d62938eb5604a6" sha1="090f9f162e9b4a033a30269b471b118b945cb911" sha256="487280c24cc03fcbacdba98542b2423ca280a41d7c2abe5571c0c4ce3a74d38d"/>
+	<game name="Kirby no Omochabako - Ball Rally (Japan) (Premiere) (1996-2-25) (Standalone Fix) [b]" id="3666">
+		<category>Games</category>
+		<description>Kirby no Omochabako - Ball Rally (Japan) (Premiere) (1996-2-25) (Standalone Fix) [b]</description>
+		<rom name="Kirby no Omochabako - Ball Rally (Japan) (Premiere) (1996-2-25) (Standalone Fix) [b].bs" size="524288" crc="9d1cff7c" md5="061fcbe0fca04030f5d62938eb5604a6" sha1="090f9f162e9b4a033a30269b471b118b945cb911" sha256="487280c24cc03fcbacdba98542b2423ca280a41d7c2abe5571c0c4ce3a74d38d" status="baddump"/>
 	</game>
-	<game name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan) [b]" id="3790">
-		<description>Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan) [b]</description>
-		<rom name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan) [b].bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9" status="baddump"/>
+	<game name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan)" id="3790">
+		<description>Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan)</description>
+		<rom name="Kirby no Omochabako - Ball Rally (4-2) + Waiwai Check 3-28 Honhousou (Japan).bs" size="1048576" crc="d1fe8598" md5="7a105cf787119dbe9874fc9900a34574" sha1="0d78f167beeaa3f2a056697d749721361b02a307" sha256="314567dbe9f2d2c516756b79c1425feb474263606debfed4f259ff09d9fdc7e9"/>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (Japan) (2-9)" id="1364">
-		<description>Kirby no Omochabako - Baseball (Japan) (2-9)</description>
-		<rom name="Kirby no Omochabako - Baseball (Japan) (2-9).bs" size="524288" crc="3e475f88" md5="cd567f50a3a8c57b8d84ea32f80b9721" sha1="d467f057359d68e727831f7e82cf10313ab6ee45" sha256="4b31518d86d1141cc6891df4a423d58e38a71f01056b4d819949c0a7670038ce"/>
+	<game name="Kirby no Omochabako - Baseball (Japan) (Premiere) (1996-2-9)" id="1364">
+		<category>Games</category>
+		<description>Kirby no Omochabako - Baseball (Japan) (Premiere) (1996-2-9)</description>
+		<rom name="Kirby no Omochabako - Baseball (Japan) (Premiere) (1996-2-9).bs" size="524288" crc="3e475f88" md5="cd567f50a3a8c57b8d84ea32f80b9721" sha1="d467f057359d68e727831f7e82cf10313ab6ee45" sha256="4b31518d86d1141cc6891df4a423d58e38a71f01056b4d819949c0a7670038ce"/>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)" id="3665">
-		<description>Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)</description>
-		<rom name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix).bs" size="524288" crc="514fa027" md5="efdf6a8d32f885c39de2e45fcb2b315d" sha1="20347923edcfe1ed5498845f5c227b5b13ea7fc7" sha256="3142cddcece4ac67ccf471ada9e2fd7e4f8e3ba26fb005d1f34b674952014a03"/>
+	<game name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix) [b]" id="3665">
+		<description>Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix) [b]</description>
+		<rom name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix) [b].bs" size="524288" crc="514fa027" md5="efdf6a8d32f885c39de2e45fcb2b315d" sha1="20347923edcfe1ed5498845f5c227b5b13ea7fc7" sha256="3142cddcece4ac67ccf471ada9e2fd7e4f8e3ba26fb005d1f34b674952014a03" status="baddump"/>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b]" id="3642">
-		<description>Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b]</description>
-		<rom name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (2-25) (Japan) [b].bs" size="1048576" crc="8b95c1f5" md5="4f8f7038bc70add285e2ca2549c92240" sha1="b7cc6007b60d1f2df14a7369e1c97b3036c08dcc" sha256="7ce3857799cfd29db7d24f59d1904e1e03f5f9031d8b1a787bfd55616beebe78" status="baddump"/>
+	<game name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (Premiere) (1996-2-25) (Japan) [b]" id="3642">
+		<category>Games</category>
+		<description>Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (Premiere) (1996-2-25) (Japan) [b]</description>
+		<rom name="Kirby no Omochabako - Baseball (3-13) + Kirby no Omochabako - Ball Rally (Premiere) (1996-2-25) (Japan) [b].bs" size="1048576" crc="8b95c1f5" md5="4f8f7038bc70add285e2ca2549c92240" sha1="b7cc6007b60d1f2df14a7369e1c97b3036c08dcc" sha256="7ce3857799cfd29db7d24f59d1904e1e03f5f9031d8b1a787bfd55616beebe78" status="baddump"/>
 	</game>
 	<game name="Kirby no Omochabako - Cannon Ball (Japan)" id="3586">
 		<description>Kirby no Omochabako - Cannon Ball (Japan)</description>
@@ -1771,6 +1779,11 @@
 		<category>Games</category>
 		<description>Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan)</description>
 		<rom name="Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan).bs" size="1048576" crc="615de4ca" md5="907a21594e26a51bed2bc02ff117931f" sha1="286c607c18e58a6d55d90bec6d2c196c771e2ec9" sha256="456b2afb26397b3706cdff557478ba083d35b5e7e895c19703f8e898b54f84dc"/>
+	</game>
+	<game name="Soul Blader (Japan)" id="3975">
+		<category>Games</category>
+		<description>Soul Blader (Japan)</description>
+		<rom name="Soul Blader (Japan).bs" size="1048576" crc="b88f7404" md5="e1afd44b7c9db1920aa065f73d344615" sha1="ebdea36bc6418dbe03a53cc1cef5bb8da2fa9736" sha256="9a46077f3e6ddbb4f6d756f476927939533dfbeea2c83bd1fee71ce277b5d1b6"/>
 	</game>
 	<game name="Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (4-14) (SoundLink Magazine)" id="3455">
 		<description>Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (4-14) (SoundLink Magazine)</description>

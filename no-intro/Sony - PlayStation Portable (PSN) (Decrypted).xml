@@ -4,7 +4,7 @@
 		<id>91</id>
 		<name>Sony - PlayStation Portable (PSN) (Decrypted)</name>
 		<description>Sony - PlayStation Portable (PSN) (Decrypted)</description>
-		<version>20251223-124222</version>
+		<version>20260306-065333</version>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -74579,6 +74579,11 @@
 		<game_id>EP1001-ULES00688_00-GPCSIDMEIE000001</game_id>
 		<rom name="Sid Meier's Pirates! (Europe).iso" size="333512704" crc="d0d2ff81" md5="0b403a3e408fbcaff3569f649b803826" sha1="d3c1fbdae3cae0cab12ddfbabec0a748a430568a" sha256="a8e0488a3904270f55d2a0196a43e6625709e7300cb27c3d24d578e4a4d6c17f" date="2025-05-28" serial="EP1001-ULES00688_00-GPCSIDMEIE000001"/>
 	</game>
+	<game name="Silent Hill - Origins (USA)" id="2991">
+		<description>Silent Hill - Origins (USA)</description>
+		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
+		<rom name="Silent Hill - Origins (USA).iso" size="804683776" crc="4e5d4fcf" md5="9e7da03dadb07403a1091e28053576d0" sha1="96c1b41e2924559668650266188e683e5dd6a5aa" sha256="7617d96110eeb1d4f5934e3aa5ef54bc1fa3166c4a3c682e450350f96167e8df" date="2025-05-28" serial="UP0101-ULUS10285_00-SILENTHILLORIGIN"/>
+	</game>
 	<game name="Silent Hill - Origins (Europe) (En,Fr,De,Es,It)" id="4730">
 		<description>Silent Hill - Origins (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>EP0101-ULES00869_00-GPCSILENTH000001</game_id>
@@ -74593,11 +74598,6 @@
 		<description>Silent Hill - Shattered Memories (USA) (En,Fr,Es)</description>
 		<game_id>UP0101-ULUS10450_00-SILENTHILLSMDUSA</game_id>
 		<rom name="Silent Hill - Shattered Memories (USA) (En,Fr,Es).iso" size="1014005760" crc="1651d8de" md5="c3fa3308ad4267bb1681ddce5b0d04d7" sha1="c0cf68bf796c9e790a781755146bf8e75b8a0d2e" sha256="707ed9796d5e1917a8c7025b6fea1cb652aa4d01b2750cefa8868c6f93157083" date="2025-05-28" serial="UP0101-ULUS10450_00-SILENTHILLSMDUSA"/>
-	</game>
-	<game name="Silent Hill Origins (USA)" id="2991">
-		<description>Silent Hill Origins (USA)</description>
-		<game_id>UP0101-ULUS10285_00-SILENTHILLORIGIN</game_id>
-		<rom name="Silent Hill Origins (USA).iso" size="804683776" crc="4e5d4fcf" md5="9e7da03dadb07403a1091e28053576d0" sha1="96c1b41e2924559668650266188e683e5dd6a5aa" sha256="7617d96110eeb1d4f5934e3aa5ef54bc1fa3166c4a3c682e450350f96167e8df" date="2025-05-28" serial="UP0101-ULUS10285_00-SILENTHILLORIGIN"/>
 	</game>
 	<game name="Silent Hill Zero (Japan) (Konami the Best)" id="4729">
 		<description>Silent Hill Zero (Japan) (Konami the Best)</description>
@@ -80595,16 +80595,6 @@
 		<game_id>JP0425-NPJH90192_00-0001000100010001</game_id>
 		<rom name="Ys - Felghana no Chikai (Japan) (Demo).iso" size="368869376" crc="591c38d3" md5="92e90616840a13ceba2f12aa8c3be850" sha1="0866f6a42e08b8126530fada05d4fb9f05db9705" sha256="2b4986ade99e0411408be680b96102ee14e68cb23aa7aa77e996bbb05e72633c" date="2025-05-28" serial="JP0425-NPJH90192_00-0001000100010001"/>
 	</game>
-	<game name="Ys - Seven (Europe)" id="3799">
-		<description>Ys - Seven (Europe)</description>
-		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
-		<rom name="Ys - Seven (Europe).iso" size="763756544" crc="53bd6c43" md5="a64316cb7ad3d41ed65475f3eff00bc6" sha1="619d3a75b57956197db3472697748a73c3134d53" sha256="0aaea680ba1b0a28e70a7c4de9875e718b1db3050e9cda3bfff435c739b32810" date="2025-05-28" serial="EP1023-NPEH00065_00-0000000000000000"/>
-	</game>
-	<game name="Ys - Seven (Japan) (Demo)" id="3800">
-		<description>Ys - Seven (Japan) (Demo)</description>
-		<game_id>JP0425-NPJH90191_00-0000111122223333</game_id>
-		<rom name="Ys - Seven (Japan) (Demo).iso" size="523927552" crc="4be6021b" md5="6bffa527d8aeb19076a118c2d1eef1f9" sha1="b5495ebfab1affaf55612043ee31c88efe77fa0b" sha256="8af50b328463051e867a1b98dfef11e7622722a97f2186766be6ba98698581db" date="2025-05-28" serial="JP0425-NPJH90191_00-0000111122223333"/>
-	</game>
 	<game name="Ys - The Oath in Felghana (Europe)" id="3802">
 		<description>Ys - The Oath in Felghana (Europe)</description>
 		<game_id>EP1023-NPEH00077_00-0000000000000000</game_id>
@@ -80645,6 +80635,16 @@
 		<rom name="NPJJ30040\CONTENT.DAT" size="143798640" crc="aee434de" md5="5d085f5dcbd6ebbd40d1167348c61aa9" sha1="f2c27deefb7e9c821b353a148dd1cbff34488b05" sha256="75179601e9fb26c4c78b4c2b3e253e4e1ebf8e48b27cbe1741e72deb06bd0c0e" date="2025-05-28" serial="JP0808-NPJJ30040_00-YS4000000000JS40"/>
 		<rom name="NPJJ30040\PSP-KEY.EDAT" size="16" crc="06e0aaee" md5="b84aac79244581477d1fed082446cbb1" sha1="6e65f884fb9550c19542d7341b9f1315c4c86696" sha256="4af4a86339bc9297ae9a11981d6314d414c9a8f1e71c354f919c41d166bb9ef6" date="2025-05-28" serial="JP0808-NPJJ30040_00-YS4000000000JS40"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (PCE).iso" size="111181824" crc="4a8fa17b" md5="2dc242258e5f9140f76209d576f42f9a" sha1="2b797c774006dc3d28968ea950f168ee355e0110" sha256="a9eb3ead0466028ae9b6a8d0b425e1fadb0599b1ca78754aeda8485fffa16fbf" date="2025-05-28" serial="JP0808-NPJJ30040_00-YS4000000000JS40"/>
+	</game>
+	<game name="Ys Seven (Europe)" id="3799">
+		<description>Ys Seven (Europe)</description>
+		<game_id>EP1023-NPEH00065_00-0000000000000000</game_id>
+		<rom name="Ys Seven (Europe).iso" size="763756544" crc="53bd6c43" md5="a64316cb7ad3d41ed65475f3eff00bc6" sha1="619d3a75b57956197db3472697748a73c3134d53" sha256="0aaea680ba1b0a28e70a7c4de9875e718b1db3050e9cda3bfff435c739b32810" date="2025-05-28" serial="EP1023-NPEH00065_00-0000000000000000"/>
+	</game>
+	<game name="Ys Seven (Japan) (Demo)" id="3800">
+		<description>Ys Seven (Japan) (Demo)</description>
+		<game_id>JP0425-NPJH90191_00-0000111122223333</game_id>
+		<rom name="Ys Seven (Japan) (Demo).iso" size="523927552" crc="4be6021b" md5="6bffa527d8aeb19076a118c2d1eef1f9" sha1="b5495ebfab1affaf55612043ee31c88efe77fa0b" sha256="8af50b328463051e867a1b98dfef11e7622722a97f2186766be6ba98698581db" date="2025-05-28" serial="JP0425-NPJH90191_00-0000111122223333"/>
 	</game>
 	<game name="Ys Seven (USA)" id="3801">
 		<description>Ys Seven (USA)</description>
@@ -80809,20 +80809,20 @@
 		<game_id>JP9000-NPJG90077_00-Y3DDEMO000000001</game_id>
 		<rom name="Yuusha no Kuse ni Namaikida or 3D (Japan) (Demo).iso" size="168853504" crc="77f0631c" md5="351cc12d0a8b834b62262e559bd5046b" sha1="30bca25c166a372e035ed2ee5f4126555bf7feaf" sha256="4d5f2ca069873d9cb514e3b38e172f90a951a95863f4fedfbfdd252f7149f44d" date="2025-05-28" serial="JP9000-NPJG90077_00-Y3DDEMO000000001"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Europe)" id="3826">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Europe)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Europe)" id="3826">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Europe)</description>
 		<game_id>EP1063-NPEH00099_00-ZHP0000000000001</game_id>
-		<rom name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Europe).iso" size="863272960" crc="979fe07d" md5="7222b45b5430776de3fd79ae0612ef8f" sha1="27e2a3428b207586d7e13c5d79b43e0ac868bcbd" sha256="4ea371ed642fea2fa0fdddec6ce9c9ed7b821e0bae128081f67162e63ff117d3" date="2025-05-28" serial="EP1063-NPEH00099_00-ZHP0000000000001"/>
+		<rom name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Europe).iso" size="863272960" crc="979fe07d" md5="7222b45b5430776de3fd79ae0612ef8f" sha1="27e2a3428b207586d7e13c5d79b43e0ac868bcbd" sha256="4ea371ed642fea2fa0fdddec6ce9c9ed7b821e0bae128081f67162e63ff117d3" date="2025-05-28" serial="EP1063-NPEH00099_00-ZHP0000000000001"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)" id="3834">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)" id="3834">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA)</description>
 		<game_id>UP1063-ULUS10559_00-ZHP0000000000001</game_id>
-		<rom name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (USA).iso" size="863272960" crc="e8fdcc88" md5="1775e0e2c00f5033fb65f74c2436e0f5" sha1="12fa416a8b08d3ff0ce19e078fd64ead318992bc" sha256="0ffe989578afb7559eaa894f1af1fee20c0342264dc12160ec2bf067bc99f5dd" date="2025-05-28" serial="UP1063-ULUS10559_00-ZHP0000000000001"/>
+		<rom name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (USA).iso" size="863272960" crc="e8fdcc88" md5="1775e0e2c00f5033fb65f74c2436e0f5" sha1="12fa416a8b08d3ff0ce19e078fd64ead318992bc" sha256="0ffe989578afb7559eaa894f1af1fee20c0342264dc12160ec2bf067bc99f5dd" date="2025-05-28" serial="UP1063-ULUS10559_00-ZHP0000000000001"/>
 	</game>
-	<game name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Asia)" id="4200">
-		<description>Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Asia)</description>
+	<game name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Asia)" id="4200">
+		<description>Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Asia)</description>
 		<game_id>HP1063-NPHH00277_00-000ZHPURVSDEASIA</game_id>
-		<rom name="Z.H.P. - Unlosing Ranger vs. Darkdeath Evilman (Asia).iso" size="863272960" crc="ad03adb2" md5="aeacd39b6d2d87eeee8cdffd3b26ea4c" sha1="749a6c3e2b9a903b2c5b253d69bea53a8421adb8" sha256="28501b245cfe03d72c90a02e14776748719ef9273ede2f965cafbbb57839526e" date="2025-05-28" serial="HP1063-NPHH00277_00-000ZHPURVSDEASIA"/>
+		<rom name="Z.H.P. - Unlosing Ranger vs Darkdeath Evilman (Asia).iso" size="863272960" crc="ad03adb2" md5="aeacd39b6d2d87eeee8cdffd3b26ea4c" sha1="749a6c3e2b9a903b2c5b253d69bea53a8421adb8" sha256="28501b245cfe03d72c90a02e14776748719ef9273ede2f965cafbbb57839526e" date="2025-05-28" serial="HP1063-NPHH00277_00-000ZHPURVSDEASIA"/>
 	</game>
 	<game name="Zero Cho Aniki (Japan) (Demo)" id="5679">
 		<description>Zero Cho Aniki (Japan) (Demo)</description>
