@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2450) (2026-03-07 04-43-13)</description>
-		<version>2026-03-07 04-43-13</version>
-		<date>2026-03-07 04-43-13</date>
+		<description>Sega - Saturn - Discs (2453) (2026-03-08 20-15-50)</description>
+		<version>2026-03-08 20-15-50</version>
+		<date>2026-03-08 20-15-50</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -39326,11 +39326,11 @@
 		<rom name="Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (Japan) (1M) (Track 7).bin" size="24169152" crc="3409db62" md5="6444afb73f2250ef438e91cc62f89f9a" sha1="d089c7352d5d440c0e932767f0c52169de236f82"/>
 		<rom name="Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (Japan) (1M) (Track 8).bin" size="43594320" crc="1e2bae03" md5="75bf5c2cd53f02202cd8c45fbcafc36f" sha1="8b962a53cfa59085d184b8a4921f7958abc58edb"/>
 	</game>
-	<game name="Duck Video Tools - Sega Saturn Demonstration Disk (USA) (Unl)">
+	<game name="Rebellion (USA) (Unl)">
 		<category>Multimedia</category>
-		<description>Duck Video Tools - Sega Saturn Demonstration Disk (USA) (Unl)</description>
-		<rom name="Duck Video Tools - Sega Saturn Demonstration Disk (USA) (Unl).cue" size="127" crc="d487fe24" md5="10d02ddf7c16cc2510c2f9837b6e1096" sha1="a944291fc64371906fa031c9380bdf040b9678a0"/>
-		<rom name="Duck Video Tools - Sega Saturn Demonstration Disk (USA) (Unl).bin" size="240440256" crc="4f7c0f73" md5="f874b4d7ab870e1ae733f9fc504abb05" sha1="fbb6293878403e17f2c219f192d8d1d2ce122f59"/>
+		<description>Rebellion (USA) (Unl)</description>
+		<rom name="Rebellion (USA) (Unl).cue" size="87" crc="3bb9b334" md5="83d1f70858191ef7fe4c144032b630d3" sha1="da393ae7b7f5f9c180992991d489ac7f350c03aa"/>
+		<rom name="Rebellion (USA) (Unl).bin" size="240440256" crc="4f7c0f73" md5="f874b4d7ab870e1ae733f9fc504abb05" sha1="fbb6293878403e17f2c219f192d8d1d2ce122f59"/>
 	</game>
 	<game name="Darius Gaiden (Japan) (Rev A)">
 		<category>Games</category>
@@ -40288,5 +40288,31 @@
 		<rom name="Double Switch (USA) (Disc 1) (Beta) (1995-10-03).cue" size="266" crc="00d102ea" md5="f0580167160ee4986594c29fdc3a971f" sha1="635a3ad10e99de68b4a9fa7d1d2d29d7aa66273e"/>
 		<rom name="Double Switch (USA) (Disc 1) (Beta) (1995-10-03) (Track 1).bin" size="656537280" crc="47594dec" md5="52d9b80a3b099bac4870d2d4a91de219" sha1="0a4bc587ba1f424b831f96d01956692e840a8240"/>
 		<rom name="Double Switch (USA) (Disc 1) (Beta) (1995-10-03) (Track 2).bin" size="2570736" crc="a996cc53" md5="bc34f6103ce596813dd641d805d14dbf" sha1="8c6d3b391c26639a7717e1b1a54f57601c80b6a5"/>
+	</game>
+	<game name="Saturn FMV Video Vault (USA) (Unl)">
+		<category>Multimedia</category>
+		<description>Saturn FMV Video Vault (USA) (Unl)</description>
+		<rom name="Saturn FMV Video Vault (USA) (Unl).cue" size="100" crc="60097fcc" md5="486e6e7e3e97303650eafd480e30b974" sha1="f1f54dcda2743f8b20769a821326524138c035cd"/>
+		<rom name="Saturn FMV Video Vault (USA) (Unl).bin" size="187256832" crc="b578bebb" md5="9309716ab9dd91fbe65933f3f8a3348f" sha1="4925ab3e70eee0e15232d168e6a6ae5d8c6a7ddb"/>
+	</game>
+	<game name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2)">
+		<category>Games</category>
+		<description>Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2)</description>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2).cue" size="1269" crc="53d55e7f" md5="6b8551d0cd22732c47776083b34b443b" sha1="826a7c7494d2d8d07bcce6ad5932dece10510129"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 1).bin" size="190095696" crc="f228021d" md5="5aeba1c46acffae73e079a413d1fe995" sha1="176717a2a7824da747bbd517f1841e6444071c81"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 2).bin" size="38556336" crc="7fa93283" md5="c225c932d4515c2958200e006c259d32" sha1="31db920b6fc2f0a5743de368ad55d414b11395a4"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 3).bin" size="33193776" crc="0f609a99" md5="835bc6e868964a71c6f31f1d9ce3567a" sha1="fbb0ce48a26a6e46ce93b7e148d71dd1176d5ed7"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 4).bin" size="34398000" crc="df0cb0db" md5="ee6ea208ef0464d39c45193d19809d1c" sha1="466ef4e946559494073f7766389e2d0a4504f4fa"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 5).bin" size="29959776" crc="d6c957a6" md5="d963a81af35dd9e5ca4457603dcfb4d0" sha1="02ad35f1b80e13768882b454c797cb2dff526cf5"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 6).bin" size="32163600" crc="57401b6c" md5="4d594472f030421506fea909d8a54b88" sha1="f816fb425fcf44d3551b93c2aa7a2980e98c21a5"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 7).bin" size="28400400" crc="f634ab2c" md5="0fe10012172b3d9e25f15462e9453328" sha1="19bf9099a3f2645cf92e3b2c8814f9a2f34d05fd"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 8).bin" size="38718624" crc="5c054144" md5="b56809a22632e0436b6168c8903af092" sha1="d33000566f215be68fa137cd4e11df95046eaac0"/>
+		<rom name="Three Dirty Dwarves (USA) (Lost &amp; Found Volume 2) (Track 9).bin" size="31295712" crc="abbd1547" md5="284517e6e7a7ddc7c0662bbbc82a8e28" sha1="9ec4b6303f79615f14c7d7e5b8a3d9a3d543a945"/>
+	</game>
+	<game name="Rebellion (USA) (Unl) (Alt)">
+		<category>Multimedia</category>
+		<description>Rebellion (USA) (Unl) (Alt)</description>
+		<rom name="Rebellion (USA) (Unl) (Alt).cue" size="93" crc="af8c180a" md5="9eea25195f3a160c473e9725e87cfbb2" sha1="8697e893563938b548ca8647a53e2b435de5d0ff"/>
+		<rom name="Rebellion (USA) (Unl) (Alt).bin" size="240440256" crc="2cd5506f" md5="dbcd605540a0d36cc35854640022cf09" sha1="1743081900b63b165c9a6fbcc96a72e9b61ba537"/>
 	</game>
 </datafile>

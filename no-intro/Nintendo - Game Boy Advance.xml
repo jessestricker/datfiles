@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260227-200742</version>
+		<version>20260307-091901</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7874,235 +7874,243 @@
 		<description>Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="df3e58d3" md5="59aba4bba551aa20bf7726eba3af13fe" sha1="1b5376d0c0b64973d74434a3a7388eeba3005aab" serial="BRHP"/>
 	</game>
-	<game name="Megaman - Battle Chip Challenge (USA) (Virtual Console)" id="x176" cloneofid="1399">
-		<description>Megaman - Battle Chip Challenge (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Chip Challenge (USA) (Virtual Console).gba" size="8388608" crc="59fc1ef6" md5="55e2ee8dd7a4a6574a1c8545b7d53fb8" sha1="e936db20e9cf923dc10c6c1dc14bc7ed6b220080" serial="A89E"/>
+	<game name="Mega Man - Battle Chip Challenge (USA) (Virtual Console)" id="x176" cloneofid="1399">
+		<description>Mega Man - Battle Chip Challenge (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Chip Challenge (USA) (Virtual Console).gba" size="8388608" crc="59fc1ef6" md5="55e2ee8dd7a4a6574a1c8545b7d53fb8" sha1="e936db20e9cf923dc10c6c1dc14bc7ed6b220080" serial="A89E"/>
+	</game>
+	<game name="Mega Man - Battle Chip Challenge (USA)" id="1384" cloneofid="1399">
+		<description>Mega Man - Battle Chip Challenge (USA)</description>
+		<rom name="Mega Man - Battle Chip Challenge (USA).gba" size="8388608" crc="26be44fd" md5="d996f6cbb36eb15063b290d8f00ad654" sha1="72309736f3820470c6f372d6a05ad1f16bc5a946" sha256="e38da6e5dcdaf565ec1969ef6cbd95c4a307d87d3c853e23926ff2ce4497feb4" serial="A89E"/>
+	</game>
+	<game name="Mega Man - Battle Network (USA) (Virtual Console)" id="x177" cloneofid="0243">
+		<description>Mega Man - Battle Network (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network (USA) (Virtual Console).gba" size="8388608" crc="1d5d0cb6" md5="dbe975f9dd8b09d76c73a6d18bdaa6fc" sha1="a371765e107c30dc4ac37c2f114a785305f47a4c" serial="AREE"/>
+	</game>
+	<game name="Mega Man - Battle Network (USA)" id="0164" cloneofid="0243">
+		<description>Mega Man - Battle Network (USA)</description>
+		<rom name="Mega Man - Battle Network (USA).gba" size="8388608" crc="1d347971" md5="9ff40cf640575211202b7bda5487abbb" sha1="a4fbae389654a6611d0597b1e9109cbbd32a132f" sha256="87bc7257f2f9ed0acc9f4874177e474e3d339d1e23a0b621d2d8edd73c1a09ed" serial="AREE"/>
+	</game>
+	<game name="Mega Man - Battle Network 2 (USA)" id="0454" cloneofid="0678">
+		<description>Mega Man - Battle Network 2 (USA)</description>
+		<rom name="Mega Man - Battle Network 2 (USA).gba" size="8388608" crc="6d961f82" md5="39f8a42133df444eeb7bf0b2194d6286" sha1="601b5012f77001d2c5c11b31304afafc45a70d0b" sha256="61a8324c5179f0f8f6b0078aaa1237ea7ac0b3c5a8370c5ba8136c513a22cf2d" serial="AE2E"/>
+	</game>
+	<game name="Mega Man - Battle Network 2 (USA) (Beta) (Debug)" id="2835" cloneofid="0678">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mega Man - Battle Network 2 (USA) (Beta) (Debug)</description>
+		<rom name="Mega Man - Battle Network 2 (USA) (Beta) (Debug).gba" size="8388608" crc="c3aabd70" md5="62f96deebe82b3b3fddf29f0d433b006" sha1="d8968ac6c33f376d8f6ce6205b53756434a8d2ac" serial="AE2E"/>
+	</game>
+	<game name="Mega Man - Battle Network 2 (USA, Europe) (Virtual Console)" id="x178" cloneofid="0678">
+		<description>Mega Man - Battle Network 2 (USA, Europe) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 2 (USA, Europe) (Virtual Console).gba" size="8388608" crc="5e88c34b" md5="54d7f45ef822d7485b623d46a636f2e7" sha1="d6b574203cc393f292a9825fcec64e72b3b2a11b" status="verified" serial="AE2E"/>
+	</game>
+	<game name="Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console)" id="x110" cloneofid="1185">
+		<description>Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 3 - Blue Version (USA) (Virtual Console).gba" size="8388608" crc="edd7106e" md5="41fabd164c0e4102c0187329e9f52c5c" sha1="6e30310f3994803e56170f6d67c5f154a5d91ccb" status="verified" serial="A3XE"/>
+	</game>
+	<game name="Mega Man - Battle Network 3 - Blue Version (USA)" id="1061" cloneofid="1185">
+		<description>Mega Man - Battle Network 3 - Blue Version (USA)</description>
+		<rom name="Mega Man - Battle Network 3 - Blue Version (USA).gba" size="8388608" crc="c0c780f9" md5="6fe31df0144759b34ad666badaacc442" sha1="3d21905b6e860d39a00ba643779776de4c73c411" sha256="8c6767788f99dc9e2af0c9d75513b227c7c42d6d452d6165c8e08850af78e273" status="verified" serial="A3XE"/>
+	</game>
+	<game name="Mega Man - Battle Network 3 - White Version (USA)" id="1063" cloneofid="1168">
+		<description>Mega Man - Battle Network 3 - White Version (USA)</description>
+		<rom name="Mega Man - Battle Network 3 - White Version (USA).gba" size="8388608" crc="0be4410a" md5="68817204a691449e655cba739dbb0165" sha1="ff45038ae6d01cde4eae25a02dcb8bed29e07a6f" sha256="a161aa80e9ee7e07e85bda5d1c93ad3d1415e35aee88380fe117997ebaf6c1c2" status="verified" serial="A6BE"/>
+	</game>
+	<game name="Mega Man - Battle Network 3 - White Version (USA) (Virtual Console)" id="x179" cloneofid="1168">
+		<description>Mega Man - Battle Network 3 - White Version (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 3 - White Version (USA) (Virtual Console).gba" size="8388608" crc="f1c5ac80" md5="3bb6b3f488281c23460a717b71faa366" sha1="1f0762b7c817211e855f4f50c2b11585d0893be9" serial="A6BE"/>
+	</game>
+	<game name="Mega Man - Battle Network 4 - Blue Moon (USA) (Virtual Console)" id="x180" cloneofid="1870">
+		<description>Mega Man - Battle Network 4 - Blue Moon (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 4 - Blue Moon (USA) (Virtual Console).gba" size="8388608" crc="739b7ec4" md5="333c21725d933d2bc0cc2209f70afd48" sha1="62a0169f0fe00e5f8184475a20a36877d1063f63" status="verified" serial="B4BE"/>
+	</game>
+	<game name="Mega Man - Battle Network 4 - Blue Moon (USA)" id="1535" cloneofid="1870">
+		<description>Mega Man - Battle Network 4 - Blue Moon (USA)</description>
+		<rom name="Mega Man - Battle Network 4 - Blue Moon (USA).gba" size="8388608" crc="758a46e9" md5="e9dfe02b283e29d67c224ab6f86c3b9c" sha1="5e017c803ddc768efb8010314b46bc17e9757f71" sha256="63ea187c792f4bfcd077f92c3a509fa09ed422993aee9480c39dfdf6a561c5c1" status="verified" serial="B4BE"/>
+	</game>
+	<game name="Mega Man - Battle Network 4 - Red Sun (USA)" id="1534" cloneofid="1860">
+		<description>Mega Man - Battle Network 4 - Red Sun (USA)</description>
+		<rom name="Mega Man - Battle Network 4 - Red Sun (USA).gba" size="8388608" crc="2120695c" md5="d0dee5c06972cb072391cd968a248d52" sha1="a97e96a7da03abd70f7953328e511b9fa29179f1" sha256="b04adfca9cae47fc9241e70c88e49b16ee9e75d796ab4ee90940401a6c1d5514" status="verified" serial="B4WE"/>
+	</game>
+	<game name="Mega Man - Battle Network 4 - Red Sun (USA) (Virtual Console)" id="x181" cloneofid="1860">
+		<description>Mega Man - Battle Network 4 - Red Sun (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 4 - Red Sun (USA) (Virtual Console).gba" size="8388608" crc="12e7ab52" md5="c055ae4f347bf3dfe626979c06133057" sha1="07426328dbb4a3aea763e75c8ffe6de482ff69d0" status="verified" serial="B4WE"/>
+	</game>
+	<game name="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)" id="x182" cloneofid="1990">
+		<description>Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Colonel (USA) (Virtual Console).gba" size="8388608" crc="78dd4edc" md5="759281beed4bfa975262fd49028efebb" sha1="c715f1d01e016ad6890ebc8ec90120bc3b146a7e"/>
+	</game>
+	<game name="Mega Man - Battle Network 5 - Team Colonel (USA)" id="2007" cloneofid="1990">
+		<description>Mega Man - Battle Network 5 - Team Colonel (USA)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Colonel (USA).gba" size="8388608" crc="a552f683" md5="68d79f7c8f41f7c8009f3b85119cb1c6" sha1="5f472f78d8de2df01d5039e045c043cb40969a39" serial="BRKE"/>
+	</game>
+	<game name="Mega Man - Battle Network 5 - Team Protoman (USA)" id="2010" cloneofid="1991">
+		<description>Mega Man - Battle Network 5 - Team Protoman (USA)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Protoman (USA).gba" size="8388608" crc="a73e83a4" md5="71b00ba406c522d3cec48311bd7bc760" sha1="b3774e96b1f107bb8b1db79b216be41b9bc5bac0" sha256="b35f5890f54784c9d90a896dc5ac4831d43acc9f94e8c42816742fcfa6b41a7b" serial="BRBE"/>
+	</game>
+	<game name="Mega Man - Battle Network 5 - Team Protoman (USA) (Virtual Console)" id="x183" cloneofid="1991">
+		<description>Mega Man - Battle Network 5 - Team Protoman (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 5 - Team Protoman (USA) (Virtual Console).gba" size="8388608" crc="a0911541" md5="b03e618d511a7ed9ec3adc43bd58aa96" sha1="70ee16615f7d9d6bb13382d70dd2f213b918063b"/>
+	</game>
+	<game name="Mega Man - Battle Network 6 - Cybeast Falzar (USA)" id="2406" cloneofid="2399">
+		<description>Mega Man - Battle Network 6 - Cybeast Falzar (USA)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Falzar (USA).gba" size="8388608" crc="dee6f2a9" md5="1e8c774ba210d1c55113531c7360c737" sha1="0676ecd4d58a976af3346caebb44b9b6489ad099" sha256="a37c1028adb72082b51e142321fa437967bc54b6f46730a53f6581ad455ad670" status="verified" serial="BR6E"/>
+	</game>
+	<game name="Mega Man - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)" id="x184" cloneofid="2399">
+		<description>Mega Man - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).gba" size="16777216" crc="c2a21be3" md5="ce943b2fc1539a9d069b6a6746616d66" sha1="c477367c5c9b81cbca2f3ba0cf6a820d489a3b7e" sha256="8de4830cb09a55e55394d36329f4324ea702d04cdccc4cdfbe222446c8f0d332" serial="BR6E"/>
+	</game>
+	<game name="Mega Man - Battle Network 6 - Cybeast Gregar (USA)" id="2397" cloneofid="2398">
+		<description>Mega Man - Battle Network 6 - Cybeast Gregar (USA)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Gregar (USA).gba" size="8388608" crc="79452182" md5="5acc75848bb1ffd3d6d8705554ee333d" sha1="89fe0bac4fd3d2ab1d2ca35e87ef8b1294a84cd6" serial="BR5E"/>
+	</game>
+	<game name="Mega Man - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)" id="x185" cloneofid="2398">
+		<description>Mega Man - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)</description>
+		<rom name="Mega Man - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).gba" size="8388608" crc="e7e546fe" md5="65295e47fa2bc35407211c331d8f6b7c" sha1="0a8de8417b9939573daa04f95cdecdeaaf58a79e" serial="BR5E"/>
+	</game>
+	<game name="Mega Man &amp; Bass (USA) (Virtual Console)" id="x175" cloneofid="1029">
+		<description>Mega Man &amp; Bass (USA) (Virtual Console)</description>
+		<rom name="Mega Man &amp; Bass (USA) (Virtual Console).gba" size="8388608" crc="b61f99d4" md5="89c23bad78a30d9d1065262da512594f" sha1="37db963a52aecec8018057cef3811860c3e889ed" serial="A6ME"/>
+	</game>
+	<game name="Mega Man &amp; Bass (Europe)" id="1029">
+		<description>Mega Man &amp; Bass (Europe)</description>
+		<rom name="Mega Man &amp; Bass (Europe).gba" size="8388608" crc="01b4d95e" md5="1ff9f0809c7766f72e67378cb14a430a" sha1="5d6f8fb1f52803a54e9857e53d0b88173cf8f48a" status="verified" serial="A6MP"/>
+	</game>
+	<game name="Mega Man &amp; Bass (USA)" id="0886" cloneofid="1029">
+		<description>Mega Man &amp; Bass (USA)</description>
+		<rom name="Mega Man &amp; Bass (USA).gba" size="8388608" crc="eea68c2e" md5="88792ae1fbc74f4a5425d0c6f0482023" sha1="7610847b331870d4338e5ac894b36e55e2bec5a0" sha256="bac48ba865906942884540d86ce2f652a32583af69d04f063aba30778026bb35" status="verified" serial="A6ME"/>
+	</game>
+	<game name="Mega Man &amp; Bass (Europe) (Virtual Console)" id="x350" cloneofid="1029">
+		<description>Mega Man &amp; Bass (Europe) (Virtual Console)</description>
+		<rom name="Mega Man &amp; Bass (Europe) (Virtual Console).gba" size="8388608" crc="6e140bfa" md5="e6d2b51ebe0420817d16acad4f89bf7a" sha1="37a188a250ff553a71144f8bbe92098c85c8006d" sha256="6fb29730eaf92002ae451b10156d5a2ea2e830cf4a58fb1a92c2be3494b2d340" serial="A6MP"/>
+	</game>
+	<game name="Mega Man Zero (USA) (Virtual Console)" id="x186" cloneofid="0573">
+		<description>Mega Man Zero (USA) (Virtual Console)</description>
+		<rom name="Mega Man Zero (USA) (Virtual Console).gba" size="8388608" crc="9c77209c" md5="c75988e7042168414e341c102dc7776c" sha1="7279705e24d32895dada7f5476f68bbc33dd643b" serial="AZCE"/>
+	</game>
+	<game name="Mega Man Zero (USA, Europe)" id="0573">
+		<description>Mega Man Zero (USA, Europe)</description>
+		<rom name="Mega Man Zero (USA, Europe).gba" size="8388608" crc="9707d2a1" md5="b24a17d080a01a404cbf018ba42b9803" sha1="193b14120119162518a73c70876f0b8bffdbd96e" status="verified" serial="AZCE"/>
+	</game>
+	<game name="Mega Man Zero 2 (USA)" id="1188" cloneofid="1209">
+		<description>Mega Man Zero 2 (USA)</description>
+		<rom name="Mega Man Zero 2 (USA).gba" size="8388608" crc="ce1e37bb" md5="182363b0698322e1864ced6e9eed7ead" sha1="c4d93a58f0f82c526dec8a3fdbda170336303689" serial="A62E"/>
+	</game>
+	<game name="Mega Man Zero 2 (USA) (Virtual Console)" id="x187" cloneofid="1209">
+		<description>Mega Man Zero 2 (USA) (Virtual Console)</description>
+		<rom name="Mega Man Zero 2 (USA) (Virtual Console).gba" size="8388608" crc="30d051fe" md5="c0d76fd7a2b656fdec1802d62309c4a7" sha1="d7a1edd912f8e01bc442809b922bceaf5a1f0176" serial="A62E"/>
+	</game>
+	<game name="Mega Man Zero 3 (USA) (Virtual Console)" id="x188" cloneofid="1619">
+		<description>Mega Man Zero 3 (USA) (Virtual Console)</description>
+		<rom name="Mega Man Zero 3 (USA) (Virtual Console).gba" size="16777216" crc="cbd24ac4" md5="d67692814d313e0f70637fb2157ab6cc" sha1="de5413481d823c53973cb29507567ef3dc6af399" serial="BZ3E"/>
+	</game>
+	<game name="Mega Man Zero 3 (USA)" id="1679" cloneofid="1619">
+		<description>Mega Man Zero 3 (USA)</description>
+		<rom name="Mega Man Zero 3 (USA).gba" size="8388608" crc="2784f3f2" md5="aa1d5eeffcd5e4577db9ee6d9b1100f9" sha1="403a78f2cad93d41e4b0f2e520ce08026531664b" serial="BZ3E"/>
+	</game>
+	<game name="Mega Man Zero 4 (USA)" id="2140" cloneofid="2104">
+		<description>Mega Man Zero 4 (USA)</description>
+		<rom name="Mega Man Zero 4 (USA).gba" size="16777216" crc="7ee24793" md5="0d1e88bdb09ff68adf9877a121325f9c" sha1="596993205a1895a6f51e80749407fb069b907628" serial="B4ZE"/>
+	</game>
+	<game name="Mega Man Zero 4 (USA) (Virtual Console)" id="x118" cloneofid="2104">
+		<description>Mega Man Zero 4 (USA) (Virtual Console)</description>
+		<rom name="Mega Man Zero 4 (USA) (Virtual Console).gba" size="16777216" crc="c4838cfa" md5="fa34fc711555c60249603a4ebb718c8e" sha1="24a774446c8f652c78bb4bd938fc57c612db3d6c" status="verified" serial="B4ZE"/>
 	</game>
 	<game name="Megaman - Battle Chip Challenge (Europe) (Virtual Console)" id="x193" cloneofid="1399">
 		<description>Megaman - Battle Chip Challenge (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Chip Challenge (Europe) (Virtual Console).gba" size="8388608" crc="24046bf2" md5="d2b0cab71d1c40aa38e94eeb2d1c8718" sha1="f0776ad33eb01a47207a076d95b534145223371d" serial="A89P"/>
 	</game>
-	<game name="Megaman - Battle Chip Challenge (USA)" id="1384" cloneofid="1399">
-		<description>Megaman - Battle Chip Challenge (USA)</description>
-		<rom name="Megaman - Battle Chip Challenge (USA).gba" size="8388608" crc="26be44fd" md5="d996f6cbb36eb15063b290d8f00ad654" sha1="72309736f3820470c6f372d6a05ad1f16bc5a946" sha256="e38da6e5dcdaf565ec1969ef6cbd95c4a307d87d3c853e23926ff2ce4497feb4" serial="A89E"/>
-	</game>
 	<game name="Megaman - Battle Chip Challenge (Europe)" id="1399">
 		<description>Megaman - Battle Chip Challenge (Europe)</description>
 		<rom name="Megaman - Battle Chip Challenge (Europe).gba" size="8388608" crc="5b4631f9" md5="e42148c3e79f7d5f7a9f3b63939b68c2" sha1="f54486c8a0bb22cf0ece4297fb052d0a0f11e56d" serial="A89P"/>
-	</game>
-	<game name="Megaman - Battle Network (USA) (Virtual Console)" id="x177" cloneofid="0243">
-		<description>Megaman - Battle Network (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network (USA) (Virtual Console).gba" size="8388608" crc="1d5d0cb6" md5="dbe975f9dd8b09d76c73a6d18bdaa6fc" sha1="a371765e107c30dc4ac37c2f114a785305f47a4c" serial="AREE"/>
-	</game>
-	<game name="Megaman - Battle Network (Europe) (Virtual Console)" id="x194" cloneofid="0243">
-		<description>Megaman - Battle Network (Europe) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network (Europe) (Virtual Console).gba" size="8388608" crc="1a16c13d" md5="fd80c3ad287ca570ce26c425237d1902" sha1="0dcbc43d5d50401c0eab8bb5989055523ce90b10" serial="AREP"/>
-	</game>
-	<game name="Megaman - Battle Network (USA)" id="0164" cloneofid="0243">
-		<description>Megaman - Battle Network (USA)</description>
-		<rom name="Megaman - Battle Network (USA).gba" size="8388608" crc="1d347971" md5="9ff40cf640575211202b7bda5487abbb" sha1="a4fbae389654a6611d0597b1e9109cbbd32a132f" sha256="87bc7257f2f9ed0acc9f4874177e474e3d339d1e23a0b621d2d8edd73c1a09ed" serial="AREE"/>
 	</game>
 	<game name="Megaman - Battle Network (Europe)" id="0243">
 		<description>Megaman - Battle Network (Europe)</description>
 		<rom name="Megaman - Battle Network (Europe).gba" size="8388608" crc="1a7fb4fa" md5="62e32a9ccf6c31850041555cb8151440" sha1="b017b6054ffafc012be9adee785819b17706cabc" status="verified" serial="AREP"/>
 	</game>
-	<game name="Megaman - Battle Network 2 (USA)" id="0454" cloneofid="0678">
-		<description>Megaman - Battle Network 2 (USA)</description>
-		<rom name="Megaman - Battle Network 2 (USA).gba" size="8388608" crc="6d961f82" md5="39f8a42133df444eeb7bf0b2194d6286" sha1="601b5012f77001d2c5c11b31304afafc45a70d0b" sha256="61a8324c5179f0f8f6b0078aaa1237ea7ac0b3c5a8370c5ba8136c513a22cf2d" serial="AE2E"/>
+	<game name="Megaman - Battle Network (Europe) (Virtual Console)" id="x194" cloneofid="0243">
+		<description>Megaman - Battle Network (Europe) (Virtual Console)</description>
+		<rom name="Megaman - Battle Network (Europe) (Virtual Console).gba" size="8388608" crc="1a16c13d" md5="fd80c3ad287ca570ce26c425237d1902" sha1="0dcbc43d5d50401c0eab8bb5989055523ce90b10" serial="AREP"/>
 	</game>
 	<game name="Megaman - Battle Network 2 (Europe)" id="0678">
 		<description>Megaman - Battle Network 2 (Europe)</description>
 		<rom name="Megaman - Battle Network 2 (Europe).gba" size="8388608" crc="66341f3b" md5="833e55b181ac9b4da56b6341c1f4e09a" sha1="13d8c1978cbcd9ca2a127168544fda176e0a4d6c" serial="AM2P"/>
 	</game>
-	<game name="Megaman - Battle Network 2 (USA) (Beta) (Debug)" id="2835" cloneofid="0678">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Megaman - Battle Network 2 (USA) (Beta) (Debug)</description>
-		<rom name="Megaman - Battle Network 2 (USA) (Beta) (Debug).gba" size="8388608" crc="c3aabd70" md5="62f96deebe82b3b3fddf29f0d433b006" sha1="d8968ac6c33f376d8f6ce6205b53756434a8d2ac" serial="AE2E"/>
-	</game>
-	<game name="Megaman - Battle Network 2 (USA, Europe) (Virtual Console)" id="x178" cloneofid="0678">
-		<description>Megaman - Battle Network 2 (USA, Europe) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 2 (USA, Europe) (Virtual Console).gba" size="8388608" crc="5e88c34b" md5="54d7f45ef822d7485b623d46a636f2e7" sha1="d6b574203cc393f292a9825fcec64e72b3b2a11b" status="verified" serial="AE2E"/>
-	</game>
-	<game name="Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console)" id="x110" cloneofid="1185">
-		<description>Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console).gba" size="8388608" crc="edd7106e" md5="41fabd164c0e4102c0187329e9f52c5c" sha1="6e30310f3994803e56170f6d67c5f154a5d91ccb" status="verified" serial="A3XE"/>
+	<game name="Megaman - Battle Network 3 - Blue Version (Europe)" id="1185">
+		<description>Megaman - Battle Network 3 - Blue Version (Europe)</description>
+		<rom name="Megaman - Battle Network 3 - Blue Version (Europe).gba" size="8388608" crc="1f036cba" md5="c1f7ade0ebce39a97c6efcad33661e20" sha1="9cb052728cae18864a012e7598119ca7b93eea67" serial="A3XP"/>
 	</game>
 	<game name="Megaman - Battle Network 3 - Blue Version (Europe) (Virtual Console)" id="x195" cloneofid="1185">
 		<description>Megaman - Battle Network 3 - Blue Version (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 3 - Blue Version (Europe) (Virtual Console).gba" size="8388608" crc="3213fc2d" md5="e23c4d809417568bcbfb93172609c77e" sha1="a9fe51d3ffd7488739821b895b45cf91c10a3108" serial="A3XP"/>
 	</game>
-	<game name="Megaman - Battle Network 3 - Blue Version (USA)" id="1061" cloneofid="1185">
-		<description>Megaman - Battle Network 3 - Blue Version (USA)</description>
-		<rom name="Megaman - Battle Network 3 - Blue Version (USA).gba" size="8388608" crc="c0c780f9" md5="6fe31df0144759b34ad666badaacc442" sha1="3d21905b6e860d39a00ba643779776de4c73c411" sha256="8c6767788f99dc9e2af0c9d75513b227c7c42d6d452d6165c8e08850af78e273" status="verified" serial="A3XE"/>
-	</game>
-	<game name="Megaman - Battle Network 3 - Blue Version (Europe)" id="1185">
-		<description>Megaman - Battle Network 3 - Blue Version (Europe)</description>
-		<rom name="Megaman - Battle Network 3 - Blue Version (Europe).gba" size="8388608" crc="1f036cba" md5="c1f7ade0ebce39a97c6efcad33661e20" sha1="9cb052728cae18864a012e7598119ca7b93eea67" serial="A3XP"/>
-	</game>
-	<game name="Megaman - Battle Network 3 - White Version (USA)" id="1063" cloneofid="1168">
-		<description>Megaman - Battle Network 3 - White Version (USA)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (USA).gba" size="8388608" crc="0be4410a" md5="68817204a691449e655cba739dbb0165" sha1="ff45038ae6d01cde4eae25a02dcb8bed29e07a6f" sha256="a161aa80e9ee7e07e85bda5d1c93ad3d1415e35aee88380fe117997ebaf6c1c2" status="verified" serial="A6BE"/>
+	<game name="Megaman - Battle Network 3 - White Version (Europe) (Virtual Console)" id="x196" cloneofid="1168">
+		<description>Megaman - Battle Network 3 - White Version (Europe) (Virtual Console)</description>
+		<rom name="Megaman - Battle Network 3 - White Version (Europe) (Virtual Console).gba" size="8388608" crc="d9f1440b" md5="5d9223837dc976e6756616324c5cd2cb" sha1="e0bd967c2296ca5a515e8b6231d4959336c1278d" serial="A6BP"/>
 	</game>
 	<game name="Megaman - Battle Network 3 - White Version (Europe)" id="1168">
 		<description>Megaman - Battle Network 3 - White Version (Europe)</description>
 		<rom name="Megaman - Battle Network 3 - White Version (Europe).gba" size="8388608" crc="23d0a981" md5="dea8cb17074798c5123422836024d4c8" sha1="2942a890c369569e163a60f831150305ca0828fc" serial="A6BP"/>
 	</game>
-	<game name="Megaman - Battle Network 3 - White Version (USA) (Virtual Console)" id="x179" cloneofid="1168">
-		<description>Megaman - Battle Network 3 - White Version (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (USA) (Virtual Console).gba" size="8388608" crc="f1c5ac80" md5="3bb6b3f488281c23460a717b71faa366" sha1="1f0762b7c817211e855f4f50c2b11585d0893be9" serial="A6BE"/>
-	</game>
-	<game name="Megaman - Battle Network 3 - White Version (Europe) (Virtual Console)" id="x196" cloneofid="1168">
-		<description>Megaman - Battle Network 3 - White Version (Europe) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (Europe) (Virtual Console).gba" size="8388608" crc="d9f1440b" md5="5d9223837dc976e6756616324c5cd2cb" sha1="e0bd967c2296ca5a515e8b6231d4959336c1278d" serial="A6BP"/>
-	</game>
-	<game name="Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console)" id="x180" cloneofid="1870">
-		<description>Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console).gba" size="8388608" crc="739b7ec4" md5="333c21725d933d2bc0cc2209f70afd48" sha1="62a0169f0fe00e5f8184475a20a36877d1063f63" status="verified" serial="B4BE"/>
+	<game name="Megaman - Battle Network 4 - Blue Moon (Europe)" id="1870">
+		<description>Megaman - Battle Network 4 - Blue Moon (Europe)</description>
+		<rom name="Megaman - Battle Network 4 - Blue Moon (Europe).gba" size="8388608" crc="48758316" md5="6c653de4749981579252e59fcae956d5" sha1="a05e8dce26b5134001337e193d49958be2081598" sha256="7eb12321dd8af8d768186868c4949f1e2a9bb7661b6d451d967833496de5fc0a" status="verified" serial="B4BP"/>
 	</game>
 	<game name="Megaman - Battle Network 4 - Blue Moon (Europe) (Virtual Console)" id="x197" cloneofid="1870">
 		<description>Megaman - Battle Network 4 - Blue Moon (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 4 - Blue Moon (Europe) (Virtual Console).gba" size="8388608" crc="ad89f27d" md5="cd06fca8f11c9fbf1c89d067719cc7f6" sha1="0fbf2b2f53f0a32e893e2593e2d7c542b5fcac99" serial="B4BP"/>
 	</game>
-	<game name="Megaman - Battle Network 4 - Blue Moon (USA)" id="1535" cloneofid="1870">
-		<description>Megaman - Battle Network 4 - Blue Moon (USA)</description>
-		<rom name="Megaman - Battle Network 4 - Blue Moon (USA).gba" size="8388608" crc="758a46e9" md5="e9dfe02b283e29d67c224ab6f86c3b9c" sha1="5e017c803ddc768efb8010314b46bc17e9757f71" sha256="63ea187c792f4bfcd077f92c3a509fa09ed422993aee9480c39dfdf6a561c5c1" status="verified" serial="B4BE"/>
-	</game>
-	<game name="Megaman - Battle Network 4 - Blue Moon (Europe)" id="1870">
-		<description>Megaman - Battle Network 4 - Blue Moon (Europe)</description>
-		<rom name="Megaman - Battle Network 4 - Blue Moon (Europe).gba" size="8388608" crc="48758316" md5="6c653de4749981579252e59fcae956d5" sha1="a05e8dce26b5134001337e193d49958be2081598" sha256="7eb12321dd8af8d768186868c4949f1e2a9bb7661b6d451d967833496de5fc0a" status="verified" serial="B4BP"/>
-	</game>
-	<game name="Megaman - Battle Network 4 - Red Sun (USA)" id="1534" cloneofid="1860">
-		<description>Megaman - Battle Network 4 - Red Sun (USA)</description>
-		<rom name="Megaman - Battle Network 4 - Red Sun (USA).gba" size="8388608" crc="2120695c" md5="d0dee5c06972cb072391cd968a248d52" sha1="a97e96a7da03abd70f7953328e511b9fa29179f1" sha256="b04adfca9cae47fc9241e70c88e49b16ee9e75d796ab4ee90940401a6c1d5514" status="verified" serial="B4WE"/>
+	<game name="Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console)" id="x198" cloneofid="1860">
+		<description>Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console)</description>
+		<rom name="Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console).gba" size="8388608" crc="cb3bbf74" md5="5137fdf04021dc7817cb1be34b590adf" sha1="36d83a1509d28b0c09365466cc1481c919d84cb0" serial="B4WP"/>
 	</game>
 	<game name="Megaman - Battle Network 4 - Red Sun (Europe)" id="1860">
 		<description>Megaman - Battle Network 4 - Red Sun (Europe)</description>
 		<rom name="Megaman - Battle Network 4 - Red Sun (Europe).gba" size="8388608" crc="0cb136c2" md5="ac9b62069b180da5ddf1646d4e142d59" sha1="21af9f7805a27729e770928f939acedd6ae27c1c" serial="B4WP"/>
 	</game>
-	<game name="Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console)" id="x181" cloneofid="1860">
-		<description>Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console).gba" size="8388608" crc="12e7ab52" md5="c055ae4f347bf3dfe626979c06133057" sha1="07426328dbb4a3aea763e75c8ffe6de482ff69d0" status="verified" serial="B4WE"/>
-	</game>
-	<game name="Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console)" id="x198" cloneofid="1860">
-		<description>Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console).gba" size="8388608" crc="cb3bbf74" md5="5137fdf04021dc7817cb1be34b590adf" sha1="36d83a1509d28b0c09365466cc1481c919d84cb0" serial="B4WP"/>
-	</game>
-	<game name="Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console)" id="x182" cloneofid="1990">
-		<description>Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console).gba" size="8388608" crc="78dd4edc" md5="759281beed4bfa975262fd49028efebb" sha1="c715f1d01e016ad6890ebc8ec90120bc3b146a7e"/>
-	</game>
 	<game name="Megaman - Battle Network 5 - Team Colonel (Europe)" id="1990">
 		<description>Megaman - Battle Network 5 - Team Colonel (Europe)</description>
 		<rom name="Megaman - Battle Network 5 - Team Colonel (Europe).gba" size="8388608" crc="8fc8cf73" md5="17ff0b3af041f31b6c6924726c2642b8" sha1="d15bcb7c351252a8890c29a2eaac25ff621635c9" serial="BRKP"/>
-	</game>
-	<game name="Megaman - Battle Network 5 - Team Colonel (USA)" id="2007" cloneofid="1990">
-		<description>Megaman - Battle Network 5 - Team Colonel (USA)</description>
-		<rom name="Megaman - Battle Network 5 - Team Colonel (USA).gba" size="8388608" crc="a552f683" md5="68d79f7c8f41f7c8009f3b85119cb1c6" sha1="5f472f78d8de2df01d5039e045c043cb40969a39" serial="BRKE"/>
 	</game>
 	<game name="Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console)" id="x318" cloneofid="1990">
 		<description>Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console).gba" size="8388608" crc="5247772c" md5="a32d78cb1d76eb097760417f232b4b76" sha1="061c291b29629d5ce44011d2d83931f2e35044ed"/>
 	</game>
-	<game name="Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console)" id="x183" cloneofid="1991">
-		<description>Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console).gba" size="8388608" crc="a0911541" md5="b03e618d511a7ed9ec3adc43bd58aa96" sha1="70ee16615f7d9d6bb13382d70dd2f213b918063b"/>
+	<game name="Megaman - Battle Network 5 - Team Protoman (Europe)" id="1991">
+		<description>Megaman - Battle Network 5 - Team Protoman (Europe)</description>
+		<rom name="Megaman - Battle Network 5 - Team Protoman (Europe).gba" size="8388608" crc="79f45ed8" md5="a1b8d71fa43915d37b955a2b1a0ed80a" sha1="3d017ed23535e42174299ff89fff44678eb553c3" serial="BRBP"/>
 	</game>
 	<game name="Megaman - Battle Network 5 - Team Protoman (Europe) (Virtual Console)" id="x200" cloneofid="1991">
 		<description>Megaman - Battle Network 5 - Team Protoman (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 5 - Team Protoman (Europe) (Virtual Console).gba" size="8388608" crc="7e5bc83d" md5="5405a66d7b053281e4d48afb1e31c270" sha1="b68b310e3106e7fa6a47d4155239be2e43959da4"/>
 	</game>
-	<game name="Megaman - Battle Network 5 - Team Protoman (Europe)" id="1991">
-		<description>Megaman - Battle Network 5 - Team Protoman (Europe)</description>
-		<rom name="Megaman - Battle Network 5 - Team Protoman (Europe).gba" size="8388608" crc="79f45ed8" md5="a1b8d71fa43915d37b955a2b1a0ed80a" sha1="3d017ed23535e42174299ff89fff44678eb553c3" serial="BRBP"/>
-	</game>
-	<game name="Megaman - Battle Network 5 - Team Protoman (USA)" id="2010" cloneofid="1991">
-		<description>Megaman - Battle Network 5 - Team Protoman (USA)</description>
-		<rom name="Megaman - Battle Network 5 - Team Protoman (USA).gba" size="8388608" crc="a73e83a4" md5="71b00ba406c522d3cec48311bd7bc760" sha1="b3774e96b1f107bb8b1db79b216be41b9bc5bac0" sha256="b35f5890f54784c9d90a896dc5ac4831d43acc9f94e8c42816742fcfa6b41a7b" serial="BRBE"/>
-	</game>
 	<game name="Megaman - Battle Network 6 - Cybeast Falzar (Europe)" id="2399">
 		<description>Megaman - Battle Network 6 - Cybeast Falzar (Europe)</description>
 		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (Europe).gba" size="8388608" crc="13183967" md5="56d29cad9e26f1d7465f803ed1d1426b" sha1="1f3037b33878fc66b79b4e2dcf1bb83202fa1b90" serial="BR6P"/>
-	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Falzar (USA)" id="2406" cloneofid="2399">
-		<description>Megaman - Battle Network 6 - Cybeast Falzar (USA)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (USA).gba" size="8388608" crc="dee6f2a9" md5="1e8c774ba210d1c55113531c7360c737" sha1="0676ecd4d58a976af3346caebb44b9b6489ad099" sha256="a37c1028adb72082b51e142321fa437967bc54b6f46730a53f6581ad455ad670" status="verified" serial="BR6E"/>
-	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)" id="x184" cloneofid="2399">
-		<description>Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).gba" size="16777216" crc="c2a21be3" md5="ce943b2fc1539a9d069b6a6746616d66" sha1="c477367c5c9b81cbca2f3ba0cf6a820d489a3b7e" sha256="8de4830cb09a55e55394d36329f4324ea702d04cdccc4cdfbe222446c8f0d332" serial="BR6E"/>
 	</game>
 	<game name="Megaman - Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)" id="x201" cloneofid="2399">
 		<description>Megaman - Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console).gba" size="16777216" crc="8104e85a" md5="0c1a0844349b59fca1de85b1992abdf5" sha1="e2dbec1cb65065ed716fa9851237677efe27ae1c" sha256="5c372fc70e7413a236bab25330d5c3cefb1f76bf5f6cb9f6349bb8366ad2c8ac" serial="BR6P"/>
 	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Gregar (USA)" id="2397" cloneofid="2398">
-		<description>Megaman - Battle Network 6 - Cybeast Gregar (USA)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (USA).gba" size="8388608" crc="79452182" md5="5acc75848bb1ffd3d6d8705554ee333d" sha1="89fe0bac4fd3d2ab1d2ca35e87ef8b1294a84cd6" serial="BR5E"/>
-	</game>
 	<game name="Megaman - Battle Network 6 - Cybeast Gregar (Europe)" id="2398">
 		<description>Megaman - Battle Network 6 - Cybeast Gregar (Europe)</description>
 		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (Europe).gba" size="8388608" crc="25c29efb" md5="5383a0d8c214f3fa64e5d8f672f6c4aa" sha1="4d2e441b1bcb8438c0bef2ae61d937de7d04af02" serial="BR5P"/>
-	</game>
-	<game name="Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)" id="x185" cloneofid="2398">
-		<description>Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)</description>
-		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).gba" size="8388608" crc="e7e546fe" md5="65295e47fa2bc35407211c331d8f6b7c" sha1="0a8de8417b9939573daa04f95cdecdeaaf58a79e" serial="BR5E"/>
 	</game>
 	<game name="Megaman - Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)" id="x202" cloneofid="2398">
 		<description>Megaman - Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)</description>
 		<rom name="Megaman - Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console).gba" size="8388608" crc="bb62f987" md5="28587f7914842e2104c48da646ca0fd8" sha1="7106dc0469898cb5768ec76c99029b24039d7605" serial="BR5P"/>
 	</game>
-	<game name="Megaman &amp; Bass (USA) (Virtual Console)" id="x175" cloneofid="1029">
-		<description>Megaman &amp; Bass (USA) (Virtual Console)</description>
-		<rom name="Megaman &amp; Bass (USA) (Virtual Console).gba" size="8388608" crc="b61f99d4" md5="89c23bad78a30d9d1065262da512594f" sha1="37db963a52aecec8018057cef3811860c3e889ed" serial="A6ME"/>
-	</game>
-	<game name="Megaman &amp; Bass (Europe) (Virtual Console)" id="x350" cloneofid="1029">
-		<description>Megaman &amp; Bass (Europe) (Virtual Console)</description>
-		<rom name="Megaman &amp; Bass (Europe) (Virtual Console).gba" size="8388608" crc="6e140bfa" md5="e6d2b51ebe0420817d16acad4f89bf7a" sha1="37a188a250ff553a71144f8bbe92098c85c8006d" sha256="6fb29730eaf92002ae451b10156d5a2ea2e830cf4a58fb1a92c2be3494b2d340" serial="A6MP"/>
-	</game>
-	<game name="Megaman &amp; Bass (USA)" id="0886" cloneofid="1029">
-		<description>Megaman &amp; Bass (USA)</description>
-		<rom name="Megaman &amp; Bass (USA).gba" size="8388608" crc="eea68c2e" md5="88792ae1fbc74f4a5425d0c6f0482023" sha1="7610847b331870d4338e5ac894b36e55e2bec5a0" sha256="bac48ba865906942884540d86ce2f652a32583af69d04f063aba30778026bb35" status="verified" serial="A6ME"/>
-	</game>
-	<game name="Megaman &amp; Bass (Europe)" id="1029">
-		<description>Megaman &amp; Bass (Europe)</description>
-		<rom name="Megaman &amp; Bass (Europe).gba" size="8388608" crc="01b4d95e" md5="1ff9f0809c7766f72e67378cb14a430a" sha1="5d6f8fb1f52803a54e9857e53d0b88173cf8f48a" status="verified" serial="A6MP"/>
-	</game>
-	<game name="Megaman Zero (USA) (Virtual Console)" id="x186" cloneofid="0573">
-		<description>Megaman Zero (USA) (Virtual Console)</description>
-		<rom name="Megaman Zero (USA) (Virtual Console).gba" size="8388608" crc="9c77209c" md5="c75988e7042168414e341c102dc7776c" sha1="7279705e24d32895dada7f5476f68bbc33dd643b" serial="AZCE"/>
-	</game>
-	<game name="Megaman Zero (USA, Europe)" id="0573">
-		<description>Megaman Zero (USA, Europe)</description>
-		<rom name="Megaman Zero (USA, Europe).gba" size="8388608" crc="9707d2a1" md5="b24a17d080a01a404cbf018ba42b9803" sha1="193b14120119162518a73c70876f0b8bffdbd96e" status="verified" serial="AZCE"/>
-	</game>
-	<game name="Megaman Zero 2 (USA)" id="1188" cloneofid="1209">
-		<description>Megaman Zero 2 (USA)</description>
-		<rom name="Megaman Zero 2 (USA).gba" size="8388608" crc="ce1e37bb" md5="182363b0698322e1864ced6e9eed7ead" sha1="c4d93a58f0f82c526dec8a3fdbda170336303689" serial="A62E"/>
+	<game name="Megaman Zero 2 (Europe) (Virtual Console)" id="x351" cloneofid="1209">
+		<description>Megaman Zero 2 (Europe) (Virtual Console)</description>
+		<rom name="Megaman Zero 2 (Europe) (Virtual Console).gba" size="8388608" crc="d76f2d1c" md5="efb231cca7699e588d9e9c3977a04b17" sha1="4ae9cd23f80d190f21002d2fdf4b8847c9452592" sha256="d2bd328b00ef5d93fdf6c6e6f37b4b0d4e0ff11f34b83ca09204caa384f9e4ff" serial="A62P"/>
 	</game>
 	<game name="Megaman Zero 2 (Europe)" id="1209">
 		<description>Megaman Zero 2 (Europe)</description>
 		<rom name="Megaman Zero 2 (Europe).gba" size="8388608" crc="29a14b59" md5="55dcbe18e02f7d2934c537508de532b6" sha1="c55eca8f2c31fdf772f2605181d0b29815ea37a0" serial="A62P"/>
 	</game>
-	<game name="Megaman Zero 2 (Europe) (Virtual Console)" id="x351" cloneofid="1209">
-		<description>Megaman Zero 2 (Europe) (Virtual Console)</description>
-		<rom name="Megaman Zero 2 (Europe) (Virtual Console).gba" size="8388608" crc="d76f2d1c" md5="efb231cca7699e588d9e9c3977a04b17" sha1="4ae9cd23f80d190f21002d2fdf4b8847c9452592" sha256="d2bd328b00ef5d93fdf6c6e6f37b4b0d4e0ff11f34b83ca09204caa384f9e4ff" serial="A62P"/>
-	</game>
-	<game name="Megaman Zero 2 (USA) (Virtual Console)" id="x187" cloneofid="1209">
-		<description>Megaman Zero 2 (USA) (Virtual Console)</description>
-		<rom name="Megaman Zero 2 (USA) (Virtual Console).gba" size="8388608" crc="30d051fe" md5="c0d76fd7a2b656fdec1802d62309c4a7" sha1="d7a1edd912f8e01bc442809b922bceaf5a1f0176" serial="A62E"/>
-	</game>
-	<game name="Megaman Zero 3 (USA) (Virtual Console)" id="x188" cloneofid="1619">
-		<description>Megaman Zero 3 (USA) (Virtual Console)</description>
-		<rom name="Megaman Zero 3 (USA) (Virtual Console).gba" size="16777216" crc="cbd24ac4" md5="d67692814d313e0f70637fb2157ab6cc" sha1="de5413481d823c53973cb29507567ef3dc6af399" serial="BZ3E"/>
-	</game>
 	<game name="Megaman Zero 3 (Europe)" id="1619">
 		<description>Megaman Zero 3 (Europe)</description>
 		<rom name="Megaman Zero 3 (Europe).gba" size="8388608" crc="b099577f" md5="9ce73ff9aa1473f250d103c1bdbbd738" sha1="edfcb606136951374f24aa8fd7e5b4e710300301" serial="BZ3P"/>
-	</game>
-	<game name="Megaman Zero 3 (USA)" id="1679" cloneofid="1619">
-		<description>Megaman Zero 3 (USA)</description>
-		<rom name="Megaman Zero 3 (USA).gba" size="8388608" crc="2784f3f2" md5="aa1d5eeffcd5e4577db9ee6d9b1100f9" sha1="403a78f2cad93d41e4b0f2e520ce08026531664b" serial="BZ3E"/>
 	</game>
 	<game name="Megaman Zero 3 (Europe) (Virtual Console)" id="x352" cloneofid="1619">
 		<description>Megaman Zero 3 (Europe) (Virtual Console)</description>
@@ -8115,14 +8123,6 @@
 	<game name="Megaman Zero 4 (Europe)" id="2104">
 		<description>Megaman Zero 4 (Europe)</description>
 		<rom name="Megaman Zero 4 (Europe).gba" size="16777216" crc="b7f022b9" md5="d3a76f1c92e3044b1a21f1aae84d21ab" sha1="8e13b9ee89a2ed665212daa401ba9331ad11bda9" serial="B4ZP"/>
-	</game>
-	<game name="Megaman Zero 4 (USA)" id="2140" cloneofid="2104">
-		<description>Megaman Zero 4 (USA)</description>
-		<rom name="Megaman Zero 4 (USA).gba" size="16777216" crc="7ee24793" md5="0d1e88bdb09ff68adf9877a121325f9c" sha1="596993205a1895a6f51e80749407fb069b907628" serial="B4ZE"/>
-	</game>
-	<game name="Megaman Zero 4 (USA) (Virtual Console)" id="x118" cloneofid="2104">
-		<description>Megaman Zero 4 (USA) (Virtual Console)</description>
-		<rom name="Megaman Zero 4 (USA) (Virtual Console).gba" size="16777216" crc="c4838cfa" md5="fa34fc711555c60249603a4ebb718c8e" sha1="24a774446c8f652c78bb4bd938fc57c612db3d6c" status="verified" serial="B4ZE"/>
 	</game>
 	<game name="Meine Tierarztpraxis (Germany) (En,De)" id="2410" cloneofid="2845">
 		<description>Meine Tierarztpraxis (Germany) (En,De)</description>

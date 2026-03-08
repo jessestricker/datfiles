@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (253) (2026-02-07 15-25-03)</description>
-		<version>2026-02-07 15-25-03</version>
-		<date>2026-02-07 15-25-03</date>
+		<description>Photo CD - Discs (256) (2026-03-08 15-42-43)</description>
+		<version>2026-03-08 15-42-43</version>
+		<date>2026-03-08 15-42-43</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3162,5 +3162,29 @@
 		<rom name="Mediale Hamburg - Eine Bilddokumentation auf Photo-CD (Germany).cue" size="319" crc="e288d71b" md5="185b4b0fbb039668f61f8e68cdee2d0d" sha1="456fe39e086165de8e27821bab1a908d26ee836e"/>
 		<rom name="Mediale Hamburg - Eine Bilddokumentation auf Photo-CD (Germany) (Track 1).bin" size="65625504" crc="f76a57fd" md5="4ee4f2c6484810ec512d43cbb46b379c" sha1="9a3f8110f7e1ca4c024ad6d6b5c84aed9de5b452"/>
 		<rom name="Mediale Hamburg - Eine Bilddokumentation auf Photo-CD (Germany) (Track 2).bin" size="245010192" crc="d509f01f" md5="bebf5eb45dc2f3b019b8d78e4c58901b" sha1="645659a3d1c4bec36ddcd11efd8aa405d546547e"/>
+	</game>
+	<game name="Armitage III (Japan)">
+		<category>Multimedia</category>
+		<description>Armitage III (Japan)</description>
+		<rom name="Armitage III (Japan).cue" size="329" crc="7d308dc3" md5="580d66710001d5fd19252634c5bae38f" sha1="e0616097822cc80323d52bfea96329b62e213648"/>
+		<rom name="Armitage III (Japan) (Track 1).bin" size="759696" crc="1a61fa88" md5="d80424f9e667d1e8f2e28ec95b049000" sha1="cc003be9d87d683a16e76e78524d6ad229bfcdaa"/>
+		<rom name="Armitage III (Japan) (Track 2).bin" size="249733008" crc="42c1fec8" md5="0440f1e7e4459b38ecd0b1181058a84e" sha1="f5baa5e2348e8fd320f2cca43c0d177a4cb1c003"/>
+		<rom name="Armitage III (Japan) (Track 3).bin" size="186854640" crc="bd249ca3" md5="cbe243cea004cd67557c9ab0b70d0405" sha1="b814b1abf829dea0bddcdb7f60a37c0039f6fa45"/>
+	</game>
+	<game name="Mirai Choujuu Fobia - Mashoujo-hen (Japan)">
+		<category>Multimedia</category>
+		<description>Mirai Choujuu Fobia - Mashoujo-hen (Japan)</description>
+		<rom name="Mirai Choujuu Fobia - Mashoujo-hen (Japan).cue" size="395" crc="b108bd1e" md5="acaf98e82d96d581322efabea1dc39fd" sha1="7645592cce58f8d5a604f3e91ac57dbb208e1c7c"/>
+		<rom name="Mirai Choujuu Fobia - Mashoujo-hen (Japan) (Track 1).bin" size="712656" crc="a3ff5b4d" md5="d48b4af191b42a5120d02ce2a525891d" sha1="e1696f8c68bf9cbf14cd3207e5495d0d9ebcb0fa"/>
+		<rom name="Mirai Choujuu Fobia - Mashoujo-hen (Japan) (Track 2).bin" size="189220752" crc="60250aee" md5="b224abdbca2379b4ed217d3c5c4ed81d" sha1="19f2603679a69dd306cf8a4540c74ee066357c7f"/>
+		<rom name="Mirai Choujuu Fobia - Mashoujo-hen (Japan) (Track 3).bin" size="176545824" crc="c803fddb" md5="13f91ea213553a9dae62b520b9823639" sha1="c8a9d586a1dc7e06d9518b0758de0032d20a6d04"/>
+	</game>
+	<game name="Gamera - The Guardian of the Universe (Japan)">
+		<category>Multimedia</category>
+		<description>Gamera - The Guardian of the Universe (Japan)</description>
+		<rom name="Gamera - The Guardian of the Universe (Japan).cue" size="427" crc="0221baa3" md5="e9275479602bf809ca3083e53a7a2af0" sha1="23a53998caa7a7bb04349055e0f665e85afb3a1b"/>
+		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 1).bin" size="710304" crc="1359a91e" md5="a1ed4111421d1d5f2ce5adbf5cce4c7e" sha1="215be2ae8059605654164aa758fb85965de9cb00"/>
+		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 2).bin" size="165583152" crc="3388d0ec" md5="6098a2791ee5a667a01b81f772aa89c1" sha1="9b2d4f253041feac7c45cc1f888111a43d533ba9"/>
+		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 3).bin" size="94795008" crc="f219e1e9" md5="dcb402d1cc5705d45339df0363b746c1" sha1="ffe88bb16f482154379e228ddbe58636b4bd97e6"/>
 	</game>
 </datafile>
