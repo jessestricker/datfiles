@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3456) (2026-03-08 15-12-52)</description>
-		<version>2026-03-08 15-12-52</version>
-		<date>2026-03-08 15-12-52</date>
+		<description>Sony - PlayStation Portable - Discs (3457) (2026-03-09 21-31-13)</description>
+		<version>2026-03-09 21-31-13</version>
+		<date>2026-03-09 21-31-13</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17289,5 +17289,10 @@
 		<category>Games</category>
 		<description>FlatOut - Head On (Korea)</description>
 		<rom name="FlatOut - Head On (Korea).iso" size="450592768" crc="30da0a2f" md5="e09412ea10b35d2efef61d7102929d29" sha1="97de03236448f6e11121336b810894f5a47b52e1"/>
+	</game>
+	<game name="Yarudora Portable - Sampaguita (Japan)">
+		<category>Games</category>
+		<description>Yarudora Portable - Sampaguita (Japan)</description>
+		<rom name="Yarudora Portable - Sampaguita (Japan).iso" size="1244135424" crc="643064d6" md5="86c931eae2f19995d6ceb21302d998e9" sha1="7d25298bcade489fdcb772c62c4da46601af35e7"/>
 	</game>
 </datafile>

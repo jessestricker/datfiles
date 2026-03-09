@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2453) (2026-03-08 20-15-50)</description>
-		<version>2026-03-08 20-15-50</version>
-		<date>2026-03-08 20-15-50</date>
+		<description>Sega - Saturn - Discs (2453) (2026-03-09 16-01-09)</description>
+		<version>2026-03-09 16-01-09</version>
+		<date>2026-03-09 16-01-09</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -33322,13 +33322,13 @@
 		<rom name="Space Jam (USA) (Track 15).bin" size="16376976" crc="e4da0f6b" md5="3be2650dbbec9481077d73a6decf7ae1" sha1="4152d0db210c0cc63587d79844e40b818e6698f7"/>
 		<rom name="Space Jam (USA) (Track 16).bin" size="17962224" crc="14a2c51a" md5="36fa7103b9f163a0430307a8dd5d496f" sha1="55424786f0ff07e018faaef8db08202d4389f126"/>
 	</game>
-	<game name="Striker 96 (USA)">
+	<game name="Striker 96 (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Striker 96 (USA)</description>
-		<rom name="Striker 96 (USA).cue" size="427" crc="f97f6758" md5="1c7b404034cb5c53fe62102e74a65d0d" sha1="b95d8110bb59253b81fa4c4e36f33d34b055b60f"/>
-		<rom name="Striker 96 (USA) (Track 1).bin" size="50019984" crc="b50ba8f3" md5="553493d271dbdca065d6a56809231b18" sha1="6870fecb49b652bbb3a607cba22e1fb7a2599816"/>
-		<rom name="Striker 96 (USA) (Track 2).bin" size="215857152" crc="07cb8bd2" md5="45f6560694b3f680e0e61a598e23e6f9" sha1="d8c26918cd8325f4c98d23adf042df2f22a5e3b2"/>
-		<rom name="Striker 96 (USA) (Track 3).bin" size="32163600" crc="a474bd34" md5="c518a6fdff747c98cc05b0004c043934" sha1="a6f3b0a17fe9af97df91af2dbb3f9379595605d2"/>
+		<description>Striker 96 (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Striker 96 (USA) (En,Fr,De,Es,It).cue" size="478" crc="80beb8a4" md5="9f2643380160608e7877f024919f659d" sha1="3d2507e0b5bc20fedb731ebb46289ed7c0538851"/>
+		<rom name="Striker 96 (USA) (En,Fr,De,Es,It) (Track 1).bin" size="50019984" crc="b50ba8f3" md5="553493d271dbdca065d6a56809231b18" sha1="6870fecb49b652bbb3a607cba22e1fb7a2599816"/>
+		<rom name="Striker 96 (USA) (En,Fr,De,Es,It) (Track 2).bin" size="215857152" crc="07cb8bd2" md5="45f6560694b3f680e0e61a598e23e6f9" sha1="d8c26918cd8325f4c98d23adf042df2f22a5e3b2"/>
+		<rom name="Striker 96 (USA) (En,Fr,De,Es,It) (Track 3).bin" size="32163600" crc="a474bd34" md5="c518a6fdff747c98cc05b0004c043934" sha1="a6f3b0a17fe9af97df91af2dbb3f9379595605d2"/>
 	</game>
 	<game name="Horde, The (USA)">
 		<category>Games</category>

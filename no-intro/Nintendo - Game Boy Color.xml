@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260227-045843</version>
+		<version>20260308-042154</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2702,7 +2702,7 @@
 	</game>
 	<game name="Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible)" id="0465" cloneofid="0464">
 		<description>Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="d3896652" md5="1c9f1847ae4832bdd53f39968750d505" sha1="22e06880afe664051498714b3edb2e18f26f7961"/>
+		<rom name="Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="d3896652" md5="1c9f1847ae4832bdd53f39968750d505" sha1="22e06880afe664051498714b3edb2e18f26f7961" sha256="e328f4afa63e3fd4d1fa3991437de1a443e7af0f3880e08abd8d6320421bf978" status="verified"/>
 	</game>
 	<game name="Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)" id="0466" cloneofid="0464">
 		<description>Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)</description>
@@ -4840,7 +4840,7 @@
 	</game>
 	<game name="Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)" id="0868">
 		<description>Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="fa2a66e9" md5="2f6b6379f8c7ce5d66a198162f345eaa" sha1="b0ae803600e06cd1cc9a0d801f2511c9ecc50584" status="verified"/>
+		<rom name="Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="fa2a66e9" md5="2f6b6379f8c7ce5d66a198162f345eaa" sha1="b0ae803600e06cd1cc9a0d801f2511c9ecc50584" sha256="952660d14941a2ab77810c3fe36658c8e8dd490e2c4e744fb3d41ce2eb31e703" status="verified"/>
 	</game>
 	<game name="Pocket Bowling (Japan) (En) (GB Compatible)" id="0869" cloneofid="0870">
 		<category>Games</category>

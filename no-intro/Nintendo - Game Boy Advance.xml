@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260307-091901</version>
+		<version>20260308-043222</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8312,7 +8312,7 @@
 	</game>
 	<game name="Mijn Dierenpraktijk (Netherlands) (En,Nl)" id="2706" cloneofid="2845">
 		<description>Mijn Dierenpraktijk (Netherlands) (En,Nl)</description>
-		<rom name="Mijn Dierenpraktijk (Netherlands) (En,Nl).gba" size="8388608" crc="227a5430" md5="b47db8937426d5a23fba3c51acd5fe69" sha1="245d9370179d21b7ea69ece2dc9b6ceb6294f99d" serial="BQVX"/>
+		<rom name="Mijn Dierenpraktijk (Netherlands) (En,Nl).gba" size="8388608" crc="227a5430" md5="b47db8937426d5a23fba3c51acd5fe69" sha1="245d9370179d21b7ea69ece2dc9b6ceb6294f99d" sha256="2ecf4d2cb7b49e6b5926cc4b95812ec10046379948ed30828c9197d4131bf8fc" status="verified" serial="BQVX"/>
 	</game>
 	<game name="Mike Tyson Boxing (Europe) (En,Fr,De,Es,It)" id="0314">
 		<description>Mike Tyson Boxing (Europe) (En,Fr,De,Es,It)</description>
@@ -13264,7 +13264,7 @@
 	</game>
 	<game name="Tweety and the Magic Gems (Netherlands)" id="2871" cloneofid="0051">
 		<description>Tweety and the Magic Gems (Netherlands)</description>
-		<rom name="Tweety and the Magic Gems (Netherlands).gba" size="4194304" crc="f1a49d56" md5="dde1bc02ea274a721313a432333e832e" sha1="bee090519538cb539fc1a5a9f66130f53418888a" serial="ATMH"/>
+		<rom name="Tweety and the Magic Gems (Netherlands).gba" size="4194304" crc="f1a49d56" md5="dde1bc02ea274a721313a432333e832e" sha1="bee090519538cb539fc1a5a9f66130f53418888a" sha256="76187367a00badc2e052aac138cd2b6a7b3dc62eae43d45581de5f048816d2bc" status="verified" serial="ATMH"/>
 	</game>
 	<game name="Tweety and the Magic Gems (Europe)" id="0051">
 		<description>Tweety and the Magic Gems (Europe)</description>
@@ -13702,7 +13702,7 @@
 	</game>
 	<game name="Weekend Miljonairs (Netherlands)" id="1000" cloneofid="0657">
 		<description>Weekend Miljonairs (Netherlands)</description>
-		<rom name="Weekend Miljonairs (Netherlands).gba" size="4194304" crc="41aa465e" md5="71dc8aef347427313f5cfa63986337b4" sha1="93575eb15b39626e8c73bda7c8e0ac5e1d134e92" serial="A55H"/>
+		<rom name="Weekend Miljonairs (Netherlands).gba" size="4194304" crc="41aa465e" md5="71dc8aef347427313f5cfa63986337b4" sha1="93575eb15b39626e8c73bda7c8e0ac5e1d134e92" sha256="3e6ddef3b7301e982a9ad1d9e5cd7912e693f8a420ae70c36f43bf87733ab23d" serial="A55H"/>
 	</game>
 	<game name="Wer Wird Millionaer (Germany)" id="0703" cloneofid="0657">
 		<description>Wer Wird Millionaer (Germany)</description>

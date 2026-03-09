@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260306-143422</version>
+		<version>20260308-135852</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -737,10 +737,10 @@
 		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26)</description>
 		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En) (7-26).bs" size="1048576" crc="592da4c3" md5="7aa01ad1f142f18f446d921567b99a76" sha1="e0de9533b3b9577bd7ce7eca5064ca6fa53913d8" sha256="42e5ddc17795f6c6e303aab4077700fec128620002bdc33ef19fd8fd7ddeff72"/>
 	</game>
-	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan)" id="3715">
+	<game name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)" id="3715">
 		<category>Games</category>
-		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan)</description>
-		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
+		<description>Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG - Jintai (Japan) (En).bs" size="1048576" crc="62b6016d" md5="15ccc1ff74b8a737f92f3f3b406d8068" sha1="f65f5b5090ea8ec1bbf6660186b4050f2472ed67" sha256="5324cdd64868d9ad8c4a04c315dc3e3c6026c5f76ba5223f979c0d0b86323806"/>
 	</game>
 	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En) (7-8)" id="3640">
 		<category>Games</category>
@@ -1140,20 +1140,20 @@
 		<description>Ihatovo Monogatari (Japan)</description>
 		<rom name="Ihatovo Monogatari (Japan).bs" size="1048576" crc="505ef4bf" md5="3399de84a58365ff9a948c0e9572f5cb" sha1="e77926b1a806c9c5160f0c567339f491fc313af9" sha256="2e605cd03b4bf64ab3dd9ba4cbca38719dd2f536b4296c10af1b8ebcad64939f"/>
 	</game>
-	<game name="Ijuin Hikaru no Houkago no Ousama (Japan) (9-25) (SoundLink Magazine)" id="3577">
+	<game name="Ijuin Hikaru no Houkago no Ousama (Japan) (1995-9-25) (SoundLink Magazine)" id="3577">
 		<category>Magazines</category>
-		<description>Ijuin Hikaru no Houkago no Ousama (Japan) (9-25) (SoundLink Magazine)</description>
-		<rom name="Ijuin Hikaru no Houkago no Ousama (Japan) (9-25) (SoundLink Magazine).bs" size="1048576" crc="33693be5" md5="4ae04de0ee51d4ddbb834495ea9304ea" sha1="ebd77b3b7b625a5b37a9aab775170d0c99948bf6" sha256="7356ceacac55cfc3a72c0842efc7a321d9bdef8921205c9f5b87ac69b92e0727"/>
+		<description>Ijuin Hikaru no Houkago no Ousama (Japan) (1995-9-25) (SoundLink Magazine)</description>
+		<rom name="Ijuin Hikaru no Houkago no Ousama (Japan) (1995-9-25) (SoundLink Magazine).bs" size="1048576" crc="33693be5" md5="4ae04de0ee51d4ddbb834495ea9304ea" sha1="ebd77b3b7b625a5b37a9aab775170d0c99948bf6" sha256="7356ceacac55cfc3a72c0842efc7a321d9bdef8921205c9f5b87ac69b92e0727"/>
 	</game>
 	<game name="Ijuin Hikaru no Houkago no Ousama (1996-2-5) + Game Tora no Ooana Special (1996-3-7) (Japan) (SoundLink Magazine)" id="3837">
 		<category>Magazines</category>
 		<description>Ijuin Hikaru no Houkago no Ousama (1996-2-5) + Game Tora no Ooana Special (1996-3-7) (Japan) (SoundLink Magazine)</description>
 		<rom name="Ijuin Hikaru no Houkago no Ousama (1996-2-5) + Game Tora no Ooana Special (1996-3-7) (Japan) (SoundLink Magazine).bs" size="1048576" crc="f0fdf2ae" md5="82ba273a7603133612582822dbeed3bb" sha1="3064c8ed0789235bca8b9e4c3f51765fbffa4b15" sha256="f671a92d25921ec89caa779cfe9f6ee6734c4748d04ea5b278fa189280e74c3d"/>
 	</game>
-	<game name="Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (7-6) (SoundLink Magazine)" id="3788">
+	<game name="Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (1996-7-6) (SoundLink Magazine)" id="3788">
 		<category>Magazines</category>
-		<description>Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (7-6) (SoundLink Magazine)</description>
-		<rom name="Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (7-6) (SoundLink Magazine).bs" size="1048576" crc="9aa650ab" md5="cebfb459aef41580b1ccfa9817a6ed23" sha1="45e82e3abb7e83535623cb20a7132b28aa1b3b57" sha256="ec85d816ef37d8bf98b3c087cd61b350e86a24377867b21e9ad3fd063aa34bad"/>
+		<description>Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (1996-7-6) (SoundLink Magazine)</description>
+		<rom name="Ijuin Hikaru no Kai Denpa Hasshin Kichi (Japan) (1996-7-6) (SoundLink Magazine).bs" size="1048576" crc="9aa650ab" md5="cebfb459aef41580b1ccfa9817a6ed23" sha1="45e82e3abb7e83535623cb20a7132b28aa1b3b57" sha256="ec85d816ef37d8bf98b3c087cd61b350e86a24377867b21e9ad3fd063aa34bad"/>
 	</game>
 	<game name="Ikari no Yousai (Japan) (7-5)" id="1121">
 		<category>Games</category>
@@ -1170,10 +1170,10 @@
 		<description>Ikari no Yousai (Japan) (1-10)</description>
 		<rom name="Ikari no Yousai (Japan) (1-10).bs" size="1048576" crc="e62ff3bc" md5="e0065716ea671d761d4ed46be0f9c9aa" sha1="651364974e67433022e8fe199f0b9e378b381014" sha256="fb19914c0aa77c656f35ef6a8a9ce3cf302231fc05592ca66ad59947f4a5e065"/>
 	</game>
-	<game name="Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (6-11) (SoundLink Magazine)" id="3587">
+	<game name="Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (1995-6-11) (SoundLink Magazine)" id="3587">
 		<category>Magazines</category>
-		<description>Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (6-11) (SoundLink Magazine)</description>
-		<rom name="Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (6-11) (SoundLink Magazine).bs" size="1048576" crc="a178543c" md5="5707d95bd1f00c59c63eb91419136060" sha1="12a7d3531d8b07d546903d9d64a6ba68fa168583" sha256="00da8bba6039a059ca16ba65c49e6bae1bd5c29f1349a86cc419bf6f0c750e51"/>
+		<description>Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (1995-6-11) (SoundLink Magazine)</description>
+		<rom name="Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (Japan) (1995-6-11) (SoundLink Magazine).bs" size="1048576" crc="a178543c" md5="5707d95bd1f00c59c63eb91419136060" sha1="12a7d3531d8b07d546903d9d64a6ba68fa168583" sha256="00da8bba6039a059ca16ba65c49e6bae1bd5c29f1349a86cc419bf6f0c750e51"/>
 	</game>
 	<game name="Jewel of Live (Japan)" id="3468">
 		<description>Jewel of Live (Japan)</description>
@@ -1632,13 +1632,15 @@
 		<description>Same Game - Koma Editor 4 (Japan)</description>
 		<rom name="Same Game - Koma Editor 4 (Japan).bs" size="1048576" crc="03229190" md5="0c7e0d4f3ad151a6063249965eeb9069" sha1="c034c016726d51ce5f8675cc97731c9f3b48ddba" sha256="4139781b41590c1a5443ed1fbf3ca22b483fc695a5035b3051693d654b02c9aa"/>
 	</game>
-	<game name="Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)" id="3576">
-		<description>Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink)</description>
-		<rom name="Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (SoundLink).bs" size="1048576" crc="5ea2b6bb" md5="f7139e2a0df8ffcf486215f35f6f57fa" sha1="3a46898cdbbb414bc6462effd4419a2a471be807" sha256="7ec6c2f0f425a1a823169d9301ca760aa53888c0e0f3fbb33d2ddfe7fb7b382c"/>
+	<game name="Satella Walker - Dai-2-wa - Machi no Heiwa o Torimodose! (Japan) (SoundLink)" id="2231">
+		<category>Games</category>
+		<description>Satella Walker - Dai-2-wa - Machi no Heiwa o Torimodose! (Japan) (SoundLink)</description>
+		<rom name="Satella Walker - Dai-2-wa - Machi no Heiwa o Torimodose! (Japan) (SoundLink).bs" size="1048576" crc="e8dd9102" md5="071313e4118d0008d59aa3312cbe8989" sha1="6f5caf8c4203c30661cd71112dd851c7e2cccb63" sha256="eb0f182756c7529d7e90d0e613a42351bc7ec3d823847b834f191b5927407fec"/>
 	</game>
-	<game name="Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (SoundLink)" id="2231">
-		<description>Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (SoundLink)</description>
-		<rom name="Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (SoundLink).bs" size="1048576" crc="e8dd9102" md5="071313e4118d0008d59aa3312cbe8989" sha1="6f5caf8c4203c30661cd71112dd851c7e2cccb63" sha256="eb0f182756c7529d7e90d0e613a42351bc7ec3d823847b834f191b5927407fec"/>
+	<game name="Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink)" id="3576">
+		<category>Games</category>
+		<description>Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink)</description>
+		<rom name="Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan) (Rerun) (SoundLink).bs" size="1048576" crc="5ea2b6bb" md5="f7139e2a0df8ffcf486215f35f6f57fa" sha1="3a46898cdbbb414bc6462effd4419a2a471be807" sha256="7ec6c2f0f425a1a823169d9301ca760aa53888c0e0f3fbb33d2ddfe7fb7b382c"/>
 	</game>
 	<game name="Satella Yokochou - 8-24 Gou (Japan) (SoundLink Magazine)" id="3664">
 		<category>Magazines</category>
@@ -1793,10 +1795,10 @@
 		<description>Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (Premiere) (1998-2-8) (SoundLink Magazine)</description>
 		<rom name="Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (Premiere) (1998-2-8) (SoundLink Magazine).bs" size="1048576" crc="5b5d88f7" md5="77b704ecfb504c1f3fce4ecc58b9865c" sha1="a6e668991181645d457668c9d3d2eb1e09bf5aba" sha256="a2db844c3799be04ae156a755a7638d1b1e2459586677c4b9b13b5f51356adb5"/>
 	</game>
-	<game name="Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (11-9) (Japan) (Data, SoundLink Magazine)" id="3839">
+	<game name="Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (1996-11-9) (Japan) (Data, SoundLink Magazine)" id="3839">
 		<category>Magazines</category>
-		<description>Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (11-9) (Japan) (Data, SoundLink Magazine)</description>
-		<rom name="Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (11-9) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="4957c61b" md5="3f6d90ce71d20be4b704ef3a18095b89" sha1="e34bd1185abe71d9c60d854211a5894ebea3d323" sha256="e8d73307d850f853cdaf1a1bc679134880a1b706bda3492c9f5cd33f172e7824"/>
+		<description>Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (1996-11-9) (Japan) (Data, SoundLink Magazine)</description>
+		<rom name="Sound Novel 1 + Ijuin Hikaru no Kai Denpa Hasshin Kichi (1996-11-9) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="4957c61b" md5="3f6d90ce71d20be4b704ef3a18095b89" sha1="e34bd1185abe71d9c60d854211a5894ebea3d323" sha256="e8d73307d850f853cdaf1a1bc679134880a1b706bda3492c9f5cd33f172e7824"/>
 	</game>
 	<game name="Sound Novel Tsukuru Data - Okirakukouza (Japan) (Data Pack)" id="3672">
 		<description>Sound Novel Tsukuru Data - Okirakukouza (Japan) (Data Pack)</description>

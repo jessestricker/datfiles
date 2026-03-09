@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260223-145751</version>
+		<version>20260308-072432</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1113,7 +1113,7 @@
 	</game>
 	<game name="Castle Quest (Europe)" id="0212">
 		<description>Castle Quest (Europe)</description>
-		<rom name="Castle Quest (Europe).gb" size="131072" crc="2f8aaf6f" md5="03ce24437224ff296a71f402663a0ee9" sha1="45b38a334481f620bb7165fee81391036a54a748" sha256="49049b9e39327ec27a79374835c50700b8dac9359e1f2cec435816690b04483d"/>
+		<rom name="Castle Quest (Europe).gb" size="131072" crc="2f8aaf6f" md5="03ce24437224ff296a71f402663a0ee9" sha1="45b38a334481f620bb7165fee81391036a54a748" sha256="49049b9e39327ec27a79374835c50700b8dac9359e1f2cec435816690b04483d" status="verified"/>
 	</game>
 	<game name="Castle Quest (Europe) (Beta)" id="1811" cloneofid="0212">
 		<description>Castle Quest (Europe) (Beta)</description>
@@ -2275,7 +2275,7 @@
 	</game>
 	<game name="Gargoyle's Quest (Europe) (Rev 1)" id="1630">
 		<description>Gargoyle's Quest (Europe) (Rev 1)</description>
-		<rom name="Gargoyle's Quest (Europe) (Rev 1).gb" size="131072" crc="b86ef7a5" md5="567b0045cc26135a54ca025b0af7e9ef" sha1="21fbe39014ffed80d0de2092517522d3cb9b03f9" sha256="235f8a6fd4b1bd0f6db9fe57edb5d5e2c2a84a667e67b7f3c2e434eaca182283"/>
+		<rom name="Gargoyle's Quest (Europe) (Rev 1).gb" size="131072" crc="b86ef7a5" md5="567b0045cc26135a54ca025b0af7e9ef" sha1="21fbe39014ffed80d0de2092517522d3cb9b03f9" sha256="235f8a6fd4b1bd0f6db9fe57edb5d5e2c2a84a667e67b7f3c2e434eaca182283" status="verified"/>
 	</game>
 	<game name="Gargoyle's Quest (USA, Europe)" id="0437" cloneofid="1630">
 		<description>Gargoyle's Quest (USA, Europe)</description>
@@ -3596,7 +3596,7 @@
 	</game>
 	<game name="Lemmings (Europe) (Rev 1)" id="1578">
 		<description>Lemmings (Europe) (Rev 1)</description>
-		<rom name="Lemmings (Europe) (Rev 1).gb" size="131072" crc="560d71eb" md5="33d428bd17848c4cfa7dc1b7f16644ec" sha1="c156d7ee57860a23754e87d42f952b17077994ad" sha256="f1f0101e104c7eccba8029c0cee4fb81de7cbb6eae95d7b9c8f6a6802feccb24"/>
+		<rom name="Lemmings (Europe) (Rev 1).gb" size="131072" crc="560d71eb" md5="33d428bd17848c4cfa7dc1b7f16644ec" sha1="c156d7ee57860a23754e87d42f952b17077994ad" sha256="f1f0101e104c7eccba8029c0cee4fb81de7cbb6eae95d7b9c8f6a6802feccb24" status="verified"/>
 	</game>
 	<game name="Lemmings (Europe) (Beta) (1993-05-19)" id="1620" cloneofid="1578">
 		<description>Lemmings (Europe) (Beta) (1993-05-19)</description>
@@ -8070,7 +8070,7 @@
 	</game>
 	<game name="Zen - Intergalactic Ninja (Europe)" id="1546">
 		<description>Zen - Intergalactic Ninja (Europe)</description>
-		<rom name="Zen - Intergalactic Ninja (Europe).gb" size="131072" crc="642c7ebe" md5="5f855203b56886fcb88c54692144c553" sha1="0e753ed48e28a0e6a820ac9b8403c50c004f22e2" sha256="62fb52cecc4ebcfaad1ca88dce1c3ae5612b0d48984b2c1d91a6e00b5e87a6b9"/>
+		<rom name="Zen - Intergalactic Ninja (Europe).gb" size="131072" crc="642c7ebe" md5="5f855203b56886fcb88c54692144c553" sha1="0e753ed48e28a0e6a820ac9b8403c50c004f22e2" sha256="62fb52cecc4ebcfaad1ca88dce1c3ae5612b0d48984b2c1d91a6e00b5e87a6b9" status="verified"/>
 	</game>
 	<game name="Zen - Intergalactic Ninja (USA)" id="1547" cloneofid="1546">
 		<description>Zen - Intergalactic Ninja (USA)</description>
