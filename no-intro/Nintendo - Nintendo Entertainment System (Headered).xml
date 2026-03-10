@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260308-204417</version>
+		<version>20260309-220605</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6314,10 +6314,10 @@
 		<description>Little Ninja Brothers (USA)</description>
 		<rom name="Little Ninja Brothers (USA).nes" size="262160" crc="07c60f83" md5="4384f11e21ec335d52289a4869113480" sha1="53f4950ed5723214184d9c706651c2bd1bac5b8f" sha256="dce05106ac156c41d5dc609c65cdf7b33e860230ddf975d3980a8cb16cae15eb" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Little Red Hood (Australia) (Unl)" id="1276">
+	<game name="Little Red Hood (Europe, Australia) (Unl)" id="1276">
 		<category>Games</category>
-		<description>Little Red Hood (Australia) (Unl)</description>
-		<rom name="Little Red Hood (Australia) (Unl).nes" size="40976" crc="9cbfaeae" md5="81f70c713e715dfb4efaf0dbcd88a162" sha1="132226c083c2ee0a3167a5ac53897d801407f0dc" sha256="4574ab7ee1e9083a543850eeb249f0714a68dac08df8f2d2101996ea26561da9" header="4E 45 53 1A 02 01 01 08 00 00 00 00 02 00 00 01"/>
+		<description>Little Red Hood (Europe, Australia) (Unl)</description>
+		<rom name="Little Red Hood (Europe, Australia) (Unl).nes" size="40976" crc="9cbfaeae" md5="81f70c713e715dfb4efaf0dbcd88a162" sha1="132226c083c2ee0a3167a5ac53897d801407f0dc" sha256="4574ab7ee1e9083a543850eeb249f0714a68dac08df8f2d2101996ea26561da9" header="4E 45 53 1A 02 01 01 08 00 00 00 00 02 00 00 01"/>
 	</game>
 	<game name="Little Red Hood - Xiao Hong Mao (Taiwan) (En) (Unl)" id="1277" cloneofid="1276">
 		<category>Games</category>
@@ -14600,10 +14600,10 @@
 		<description>500-in-1 - Unchained Melody (Asia) (En) (Pirate)</description>
 		<rom name="500-in-1 - Unchained Melody (Asia) (En) (Pirate).nes" size="196624" crc="e4bf0fef" md5="de132ec7ce00d1a1602ae1b05043a14d" sha1="c72df382f0f3357e4d77de91dabfc0a8af88318c" sha256="b9eb844180f7872362d845c688e5d06476d28fa0754058e48b2efc2b09e0b3f5" header="4E 45 53 1A 08 08 40 D8 00 00 00 00 00 00 00 2A"/>
 	</game>
-	<game name="52-in-1 (Asia) (En) (Pirate)" id="4814">
+	<game name="52-in-1 (Asia) (En) (VT302) (Pirate)" id="4814">
 		<category>Games</category>
-		<description>52-in-1 (Asia) (En) (Pirate)</description>
-		<rom name="52-in-1 (Asia) (En) (Pirate).nes" size="262160" crc="64e259e5" md5="0b948bdf8e2826d7eea8277b498cb83a" sha1="2651b7d1e2377fc4d33e34b57aaea60a7f7a556d" sha256="ffbb3fd4dec986cabb7b1bf0318b4d8c81e7d0adbb95c15c1553d3283f0b81f6" header="4E 45 53 1A 08 10 90 38 00 00 00 00 00 00 00 01"/>
+		<description>52-in-1 (Asia) (En) (VT302) (Pirate)</description>
+		<rom name="52-in-1 (Asia) (En) (VT302) (Pirate).nes" size="262160" crc="64e259e5" md5="0b948bdf8e2826d7eea8277b498cb83a" sha1="2651b7d1e2377fc4d33e34b57aaea60a7f7a556d" sha256="ffbb3fd4dec986cabb7b1bf0318b4d8c81e7d0adbb95c15c1553d3283f0b81f6" header="4E 45 53 1A 08 10 90 38 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="58-in-1 (Asia) (En,Zh) (Pirate)" id="4661">
 		<category>Games</category>
@@ -15412,10 +15412,10 @@
 		<description>Super 98 - 51-in-1 (Taiwan) (En,Ja) (VT365,NT2057) (Pirate)</description>
 		<rom name="Super 98 - 51-in-1 (Taiwan) (En,Ja) (VT365,NT2057) (Pirate).nes" size="196624" crc="6c9ebea6" md5="cddb372578003abbf052e5ec46f149df" sha1="94af125bbd8e0918ad76e3a372545144b8561485" sha256="42318a6c07eb0057746180d381bb49a02bd2b072e5ecade3a5868b2626a3535c" header="4E 45 53 1A 08 08 B0 38 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Super 9999999-in-1 (China) (En) (Pirate)" id="4588">
+	<game name="Super 9999999-in-1 (China) (En) (FC3105) (Pirate)" id="4588">
 		<category>Games</category>
-		<description>Super 9999999-in-1 (China) (En) (Pirate)</description>
-		<rom name="Super 9999999-in-1 (China) (En) (Pirate).nes" size="393232" crc="e66568e4" md5="70e5e38a8c115f7456a8858cc3c7c883" sha1="df8bd9695f257973362b8d2438612c279c87fae4" sha256="3fbe36cca31ce2c24995cdd2c794e8dc98b72514b3606438ae60b1d4c1eaeead" header="4E 45 53 1A 10 10 00 B8 10 00 00 00 00 00 00 2A"/>
+		<description>Super 9999999-in-1 (China) (En) (FC3105) (Pirate)</description>
+		<rom name="Super 9999999-in-1 (China) (En) (FC3105) (Pirate).nes" size="393232" crc="e66568e4" md5="70e5e38a8c115f7456a8858cc3c7c883" sha1="df8bd9695f257973362b8d2438612c279c87fae4" sha256="3fbe36cca31ce2c24995cdd2c794e8dc98b72514b3606438ae60b1d4c1eaeead" header="4E 45 53 1A 10 10 00 B8 10 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="Super Aladdin (Taiwan) (En) (Super Game) (Pirate)" id="4977" cloneofid="4976">
 		<category>Games</category>
@@ -20334,6 +20334,11 @@
 		<description>32-in-1 Speech Educational Software (Asia) (En) (Pirate)</description>
 		<rom name="32-in-1 Speech Educational Software (Asia) (En) (Pirate).nes" size="524304" crc="afcba77a" md5="b285e24eb7871a11e538ac5d29c27f9b" sha1="bdef3d1389e0fcebbe0e548b9752522220bc90a1" sha256="99204cc6aa23090ddc9f9f122ef3a3b9d2edb29c6d40067d09d790e3c63660a8" header="4E 45 53 1A 20 00 21 B8 20 00 00 07 03 00 00 26"/>
 	</game>
+	<game name="4-in-1 Super (Asia) (En) (BD-418) (Pirate)" id="8430">
+		<category>Games</category>
+		<description>4-in-1 Super (Asia) (En) (BD-418) (Pirate)</description>
+		<rom name="4-in-1 Super (Asia) (En) (BD-418) (Pirate).nes" size="1048592" crc="12eb1320" md5="94f8379b522f9aebdbb43e0c4780f9d3" sha1="8780a73489a9aa3594373a8e3ccd5a5c0891cf69" sha256="1a31823f52182d6b2e1ba273ade5be29227278248e6b2385f30cfe7ac23b5f92" header="4E 45 53 1A 20 40 D0 28 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="48-in-1 Educational Computer (Spain) (Pirate)" id="8241">
 		<category>Educational</category>
 		<category>Games</category>
@@ -20346,10 +20351,20 @@
 		<description>48-in-1 Educational Computer 2000 (Asia) (En) (Pirate)</description>
 		<rom name="48-in-1 Educational Computer 2000 (Asia) (En) (Pirate).nes" size="524304" crc="25d6f25e" md5="f0684ffb53b3d048a2b3e31837491b88" sha1="12d43884fa4ba6861d2a333a8d25b9423f0693b7" sha256="cf4cc6d9e214b88b47eddb9ceb723a204b2e6d41d38993e70251fafe1f367ac2" header="4E 45 53 1A 20 00 20 B8 20 00 07 07 03 00 00 28"/>
 	</game>
+	<game name="52-in-1 (China) (En) (BS-6032) (Pirate)" id="8433">
+		<category>Games</category>
+		<description>52-in-1 (China) (En) (BS-6032) (Pirate)</description>
+		<rom name="52-in-1 (China) (En) (BS-6032) (Pirate).nes" size="393232" crc="b289376f" md5="e9082af3823a365b54476f4a84f10b27" sha1="13098504f6157943abdc3d960584bb2f345c07c1" sha256="d6ea0af9ec60a95a48c14d569f5ddffd4b96aa6a2b369bdc8c0eb2f77cdfd230" header="4E 45 53 1A 10 10 00 B8 10 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="6-in-1 (Asia) (En,Ja) (SV-1021) (Pirate)" id="8128">
 		<category>Games</category>
 		<description>6-in-1 (Asia) (En,Ja) (SV-1021) (Pirate)</description>
 		<rom name="6-in-1 (Asia) (En,Ja) (SV-1021) (Pirate).nes" size="196624" crc="1538ef59" md5="9da1a13b6e8034f8aa3d81159a48f8c3" sha1="501360f2ed1e934a3131e58d81d995fcca27bf64" sha256="abb08b3fd3fcb53236bd5f984ef247edf72c2f1cad1b519a0692b1b95b93644c" header="4E 45 53 1A 08 08 A0 38 00 00 00 00 03 00 00 01"/>
+	</game>
+	<game name="7-in-1 HuaMian Xuan Guan - 1994 Nian WanJia ZhenCang Ka (Taiwan) (En) (CM-020) (Pirate)" id="8431">
+		<category>Games</category>
+		<description>7-in-1 HuaMian Xuan Guan - 1994 Nian WanJia ZhenCang Ka (Taiwan) (En) (CM-020) (Pirate)</description>
+		<rom name="7-in-1 HuaMian Xuan Guan - 1994 Nian WanJia ZhenCang Ka (Taiwan) (En) (CM-020) (Pirate).nes" size="1048592" crc="556d29d2" md5="4da011828bc3242bea152fa32bed92f8" sha1="c990285d23512970dbee5c73dcd24202542f8010" sha256="e2c0f88c1e73452e80cb25acd797fa9acd012de7453dc28dd85bdc0dcbcaca05" header="4E 45 53 1A 20 40 00 B8 01 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="8-in-1 Little Mermaid, The (Asia) (En) (Pirate)" id="8273" cloneofid="1271">
 		<category>Games</category>
@@ -20437,6 +20452,11 @@
 		<category>Games</category>
 		<description>Captain Bassam (Asia) (Ar) (Extract) (Pirate)</description>
 		<rom name="Captain Bassam (Asia) (Ar) (Extract) (Pirate).nes" size="1179664" crc="1510aec5" md5="214b75e5c45bdd6f4d26f22d5fe17c93" sha1="eaa2a4f692c5233e7827120517e217f4788bb34c" sha256="c72e334791dfbb0d75a1b337070714ccc24d48b13a48876277f464d316706f01" header="4E 45 53 1A 40 10 20 58 02 00 00 00 02 00 00 01"/>
+	</game>
+	<game name="Chessmaster, The (Asia) (En) (Pirate)" id="8440" cloneofid="0377">
+		<category>Games</category>
+		<description>Chessmaster, The (Asia) (En) (Pirate)</description>
+		<rom name="Chessmaster, The (Asia) (En) (Pirate).nes" size="163856" crc="69ec0ad8" md5="bbffe25aa653a783e368ef0cff056abf" sha1="b032c0627e1089b2da6ac53594406e039b38fb1e" sha256="60f5797489a8c52f3e98f4ba8ae7def61358704bedced699e7cbe8b2c2f334fb" header="4E 45 53 1A 08 04 40 08 00 00 07 00 00 00 00 01"/>
 	</game>
 	<game name="Choujikuu Yousai - Macross (Taiwan) (En) (Pirate)" id="8042" cloneofid="0402">
 		<category>Games</category>
@@ -20897,6 +20917,11 @@
 		<description>Super 1.000.000-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Super 1.000.000-in-1 (Asia) (En) (Pirate).nes" size="1048592" crc="3ab61f3c" md5="0aabb940c715fffe2d8654173c45135b" sha1="a31dc8b6fee6d2ccadd053ab6e130ba060b7cb10" sha256="ab11229e8c99144b7caa7af20762046b8bea3845ceef4a057ea61f62df65a31e" header="4E 45 53 1A 20 40 D0 28 00 00 00 00 00 00 00 2A"/>
 	</game>
+	<game name="Super 106-in-1 (Asia) (En) (HH-020) (Pirate)" id="8438">
+		<category>Games</category>
+		<description>Super 106-in-1 (Asia) (En) (HH-020) (Pirate)</description>
+		<rom name="Super 106-in-1 (Asia) (En) (HH-020) (Pirate).nes" size="393232" crc="7439097a" md5="6cf06bfbeef86d2a45d2779541447f7e" sha1="adc2e4fecb6c2c7d88fdb922f9a9bb4a8481323f" sha256="015ac8a44d36194bcc46fdf9469e32a5903cf448043454830c45832cc6e53ec5" header="4E 45 53 1A 10 10 C0 48 01 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Super 128-in-1 (Asia) (En) (Pirate)" id="8147">
 		<category>Games</category>
 		<description>Super 128-in-1 (Asia) (En) (Pirate)</description>
@@ -20922,10 +20947,25 @@
 		<description>Super 62-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Super 62-in-1 (Asia) (En) (Pirate).nes" size="196624" crc="f6cb7580" md5="9e8aed50000ee3249a97216185d8cac8" sha1="b2b0ef0dbed611975b73ed7bc244af61f899d046" sha256="4c1271dbdda88753abb0d084a149b75521627ff30cfbd9ba847e5ed0bff3abce" header="4E 45 53 1A 08 08 A0 38 00 00 00 00 03 00 00 2A"/>
 	</game>
+	<game name="Super 63-in-1 (Asia) (En) (HH-022) (Pirate)" id="8436">
+		<category>Games</category>
+		<description>Super 63-in-1 (Asia) (En) (HH-022) (Pirate)</description>
+		<rom name="Super 63-in-1 (Asia) (En) (HH-022) (Pirate).nes" size="393232" crc="286e4f07" md5="92d3e13cd01516967e93d1e3f673af61" sha1="980a7c37b10496c12096ddd8f2f2e0af3c3940cd" sha256="a49097d0419464bad9982a145143e46bb0f1e99175e224899544b383d8d06dd3" header="4E 45 53 1A 10 10 C0 48 01 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Super 72-in-1 (Asia) (En) (Pirate)" id="8185">
 		<category>Games</category>
 		<description>Super 72-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Super 72-in-1 (Asia) (En) (Pirate).nes" size="196624" crc="7e25ff54" md5="22f7d98a5778a71346e37bb406b57267" sha1="4b9d571e94568a3b81a5b12c8c97878abec50a23" sha256="a74a8d28ae8dfb3ce8607639da825d2f17a207fb3d9426cf1c49191b974078a5" header="4E 45 53 1A 08 08 90 48 02 00 00 00 00 00 00 2A"/>
+	</game>
+	<game name="Super 90-in-1 (Asia) (En) (HH-059) (Pirate)" id="8437">
+		<category>Games</category>
+		<description>Super 90-in-1 (Asia) (En) (HH-059) (Pirate)</description>
+		<rom name="Super 90-in-1 (Asia) (En) (HH-059) (Pirate).nes" size="393232" crc="90550d14" md5="7e5bb8d1e377c20693f74b7d654e4529" sha1="d653bc0455eba9e9662608b046fb579fd5ec00ab" sha256="cdf2752fcb44cfb412ba611bd1863a57af039b14e23dbddb9958dbebe36e6c99" header="4E 45 53 1A 10 10 C0 48 01 00 00 00 00 00 00 00"/>
+	</game>
+	<game name="Super 9999999-in-1 (Asia) (En) (HH-009) (Pirate)" id="8439">
+		<category>Games</category>
+		<description>Super 9999999-in-1 (Asia) (En) (HH-009) (Pirate)</description>
+		<rom name="Super 9999999-in-1 (Asia) (En) (HH-009) (Pirate).nes" size="393232" crc="1ecf33ca" md5="4875a5f332f8ac78baa4a5ed437e7e8e" sha1="b2b20e2a55576b29eb32ba450aed40749d284d8c" sha256="98138eb566a85827ac8f59a84cdf2f99d3cc788043858764f4f9a99de3b99daf" header="4E 45 53 1A 10 10 C0 48 01 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="Super Bros. 8 (Asia) (Ja) (Pirate)" id="8056" cloneofid="0540">
 		<category>Games</category>
