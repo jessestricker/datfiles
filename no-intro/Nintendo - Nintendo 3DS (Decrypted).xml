@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260303-225226</version>
+		<version>20260310-150248</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2219,7 +2219,7 @@
 	<game name="Dragon Quest Monsters - Joker 3 (Japan)" id="1501">
 		<description>Dragon Quest Monsters - Joker 3 (Japan)</description>
 		<game_id>000400000016AD00</game_id>
-		<rom name="Dragon Quest Monsters - Joker 3 (Japan).3ds" size="1073741824" crc="1590918c" md5="7fa3643e6d04a691d538fcd1e183e583" sha1="ad4b2ec453ca426150ea4f3990257e0f38f9bd06" serial="CTR-P-BJ3J"/>
+		<rom name="Dragon Quest Monsters - Joker 3 (Japan).3ds" size="1073741824" crc="1590918c" md5="7fa3643e6d04a691d538fcd1e183e583" sha1="ad4b2ec453ca426150ea4f3990257e0f38f9bd06" sha256="1ce991d57ab64f99da16941baa785077d0250cb9279528f87ef1cd298d2a753c" status="verified" serial="CTR-P-BJ3J"/>
 	</game>
 	<game name="Dragon Quest Monsters - Joker 3 Professional (Japan)" id="1651">
 		<description>Dragon Quest Monsters - Joker 3 Professional (Japan)</description>
@@ -2229,17 +2229,17 @@
 	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan)" id="0203">
 		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan)</description>
 		<game_id>0004000000074600</game_id>
-		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size="1073741824" crc="ac0db9d1" md5="2666971b4cea194e54e5566b41b7b863" sha1="c2bbaed25d57a844bc2516774c28ebc85f49e7ae" serial="CTR-P-ATWJ"/>
+		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size="1073741824" crc="ac0db9d1" md5="2666971b4cea194e54e5566b41b7b863" sha1="c2bbaed25d57a844bc2516774c28ebc85f49e7ae" sha256="7098e4096b35a49ea0a5b6c841460813c7dde70cf8650734697c199a5836917c" status="verified" serial="CTR-P-ATWJ"/>
 	</game>
 	<game name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)" id="0654">
 		<description>Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)</description>
 		<game_id>00040000000CF500</game_id>
-		<rom name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan).3ds" size="2147483648" crc="21b0f6de" md5="94fe81290d359d203355f9f826651d4b" sha1="eb3dba402f1215e89c188e4ab37b545bb3aaba83" serial="CTR-P-BDMJ"/>
+		<rom name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan).3ds" size="2147483648" crc="21b0f6de" md5="94fe81290d359d203355f9f826651d4b" sha1="eb3dba402f1215e89c188e4ab37b545bb3aaba83" sha256="6ea488d2ae08fbe8cc505329bb412ec460101eb9e3acb706a35392fca05e036b" status="verified" serial="CTR-P-BDMJ"/>
 	</game>
 	<game name="Dragon Quest VII - Eden no Senshi-tachi (Japan)" id="0360" cloneofid="1569">
 		<description>Dragon Quest VII - Eden no Senshi-tachi (Japan)</description>
 		<game_id>0004000000065E00</game_id>
-		<rom name="Dragon Quest VII - Eden no Senshi-tachi (Japan).3ds" size="2147483648" crc="2f7ac0a1" md5="130a156a16503cd819eb9a28b2131386" sha1="3174ce41cd3e0a20ebee6ed59149fa4c0e639904" serial="CTR-P-AD7J"/>
+		<rom name="Dragon Quest VII - Eden no Senshi-tachi (Japan).3ds" size="2147483648" crc="2f7ac0a1" md5="130a156a16503cd819eb9a28b2131386" sha1="3174ce41cd3e0a20ebee6ed59149fa4c0e639904" sha256="9e0c68cb9f1e89c1a0628386e5b42550982ab496b73a981691e076a457bc4fa4" serial="CTR-P-AD7J"/>
 	</game>
 	<game name="Dragon Quest VII - Fragments of the Forgotten Past (Europe) (En,Fr,De,Es,It)" id="1569">
 		<description>Dragon Quest VII - Fragments of the Forgotten Past (Europe) (En,Fr,De,Es,It)</description>
@@ -2259,17 +2259,17 @@
 	<game name="Dragon Quest VIII - Journey of the Cursed King (USA)" id="1639" cloneofid="1638">
 		<description>Dragon Quest VIII - Journey of the Cursed King (USA)</description>
 		<game_id>000400000018F100</game_id>
-		<rom name="Dragon Quest VIII - Journey of the Cursed King (USA).3ds" size="4294967296" crc="762478d0" md5="a668bd80061963c05a6bd41f5f3dbb10" sha1="d723ff7a7b74d5de6ab6849bc95f33dee3cd9a32" serial="CTR-P-BQ8E"/>
+		<rom name="Dragon Quest VIII - Journey of the Cursed King (USA).3ds" size="4294967296" crc="762478d0" md5="a668bd80061963c05a6bd41f5f3dbb10" sha1="d723ff7a7b74d5de6ab6849bc95f33dee3cd9a32" sha256="589ab3eedfb872136a99c23407c9dff45cd9ce1d31ed24c5ecb196fa8657c4fc" status="verified" serial="CTR-P-BQ8E"/>
 	</game>
 	<game name="Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (Japan)" id="1329" cloneofid="1638">
 		<description>Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (Japan)</description>
 		<game_id>000400000015CD00</game_id>
-		<rom name="Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (Japan).3ds" size="4294967296" crc="627276f6" md5="c8ecfce3976ef5111d721c3ab5db9d72" sha1="080d75c16b479e21700923654b39d31e18842529" serial="CTR-P-BQ8J"/>
+		<rom name="Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi (Japan).3ds" size="4294967296" crc="627276f6" md5="c8ecfce3976ef5111d721c3ab5db9d72" sha1="080d75c16b479e21700923654b39d31e18842529" sha256="bfdb196f295cc6a061e7c70b4efbdebced3080b8e2892c88b28a4527e20bc61b" serial="CTR-P-BQ8J"/>
 	</game>
 	<game name="Dragon Quest XI - Sugi Sarishi Toki o Motomete (Japan)" id="1743">
 		<description>Dragon Quest XI - Sugi Sarishi Toki o Motomete (Japan)</description>
 		<game_id>0004000000199200</game_id>
-		<rom name="Dragon Quest XI - Sugi Sarishi Toki o Motomete (Japan).3ds" size="4294967296" crc="e596f619" md5="4a192f1a5f4f08ea04c72c6e7b8a452b" sha1="d4ca3f3c15054f3af3f5d496a678e0f0017a72cf" serial="CTR-P-BTZJ"/>
+		<rom name="Dragon Quest XI - Sugi Sarishi Toki o Motomete (Japan).3ds" size="4294967296" crc="e596f619" md5="4a192f1a5f4f08ea04c72c6e7b8a452b" sha1="d4ca3f3c15054f3af3f5d496a678e0f0017a72cf" sha256="0f04b51bc6dc145106fb7bc957fa41991cd02d89e0af2c8775db9d12a37a9b74" status="verified" serial="CTR-P-BTZJ"/>
 	</game>
 	<game name="Dream Girl Premier (Japan)" id="1425">
 		<description>Dream Girl Premier (Japan)</description>
@@ -8788,7 +8788,7 @@
 	<game name="Slime Mori Mori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan)" id="0205">
 		<description>Slime Mori Mori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan)</description>
 		<game_id>000400000005C300</game_id>
-		<rom name="Slime Mori Mori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan).3ds" size="536870912" crc="7af23ee0" md5="a1dfbb1a846e8f7b856e5376ebff79af" sha1="91452d2f8dfbbabdb86951ab43a48e1aa86b56bf" serial="CTR-P-AMRJ"/>
+		<rom name="Slime Mori Mori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan).3ds" size="536870912" crc="7af23ee0" md5="a1dfbb1a846e8f7b856e5376ebff79af" sha1="91452d2f8dfbbabdb86951ab43a48e1aa86b56bf" sha256="21deb40df66e4e68bf86fced0eedad960223c579a36f48b631990264be8073b2" serial="CTR-P-AMRJ"/>
 	</game>
 	<game name="Smile Precure! Lets Go! Marchen World (Japan)" id="0906">
 		<description>Smile Precure! Lets Go! Marchen World (Japan)</description>
@@ -9820,7 +9820,7 @@
 	<game name="Theatrhythm Dragon Quest (Japan)" id="1221">
 		<description>Theatrhythm Dragon Quest (Japan)</description>
 		<game_id>0004000000140000</game_id>
-		<rom name="Theatrhythm Dragon Quest (Japan).3ds" size="1073741824" crc="5931ad10" md5="b224048bab522ff291ef04ca59699c04" sha1="a877c51874c84344ebd85378bb836c53675e630d" serial="CTR-P-BTQJ"/>
+		<rom name="Theatrhythm Dragon Quest (Japan).3ds" size="1073741824" crc="5931ad10" md5="b224048bab522ff291ef04ca59699c04" sha1="a877c51874c84344ebd85378bb836c53675e630d" sha256="737962938f78a67a4d158696dcfe696d6615917a911551a754935c59b37858cb" status="verified" serial="CTR-P-BTQJ"/>
 	</game>
 	<game name="Theatrhythm Final Fantasy (Europe)" id="0202">
 		<description>Theatrhythm Final Fantasy (Europe)</description>

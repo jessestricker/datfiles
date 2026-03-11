@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260309-120903</version>
+		<version>20260310-142954</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14,6 +14,11 @@
 		<category>Miscellaneous</category>
 		<description>[BIOS] BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1)</description>
 		<rom name="[BIOS] BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1).sfc" size="1048576" crc="f51f07a0" md5="fed4d8242cfbed61343d53d48432aced" sha1="604556b2e62860af18db5a77f2956ebc75450020" sha256="3ce321496edc5d77038de2034eb3fb354d7724afd0bc7fd0319f3eb5d57b984d" status="verified"/>
+	</game>
+	<game name="3-ji no Wide Shou - 11 Gatsugou (Japan) (Magazine)" id="3979">
+		<category>Magazines</category>
+		<description>3-ji no Wide Shou - 11 Gatsugou (Japan) (Magazine)</description>
+		<rom name="3-ji no Wide Shou - 11 Gatsugou (Japan) (Magazine).bs" size="1048576" crc="6f42b024" md5="60a27fe63c305f24c753557ebcee21ed" sha1="f11c32c8b0524676d117aa7b159ca59741ef62eb" sha256="e6119924d35e75651aaa4ca7f3f8ef20660b59cf242d3dbebad8aad8c491ee74"/>
 	</game>
 	<game name="3-ji no Wide Shou - 5 Gatsugou (Japan) (Magazine)" id="0005">
 		<description>3-ji no Wide Shou - 5 Gatsugou (Japan) (Magazine)</description>

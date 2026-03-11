@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC</name>
-		<description>Pocket PC - Discs (76) (2026-01-28 23-43-38)</description>
-		<version>2026-01-28 23-43-38</version>
-		<date>2026-01-28 23-43-38</date>
+		<description>Pocket PC - Discs (78) (2026-03-10 22-04-05)</description>
+		<version>2026-03-10 22-04-05</version>
+		<date>2026-03-10 22-04-05</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -465,5 +465,17 @@
 		<description>HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA)</description>
 		<rom name="HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA).cue" size="126" crc="f89cd3a3" md5="635f4c37f79de0a790a7a3a72be80873" sha1="11e3b8beaf49d1b8d0d5a89ade9c653fef65cd13"/>
 		<rom name="HP iPAQ Companion CD - HP iPAQ hx2000 Series Pocket PC (USA).bin" size="405421296" crc="9fc61a1c" md5="1081323efe6a046999785c83435c2b44" sha1="156c9572a7143ea0b3a2ea74eaed99ea2a658702"/>
+	</game>
+	<game name="Puyo Puyo for CE2 (Japan) (v1.1)">
+		<category>Games</category>
+		<description>Puyo Puyo for CE2 (Japan) (v1.1)</description>
+		<rom name="Puyo Puyo for CE2 (Japan) (v1.1).cue" size="98" crc="586b0ffd" md5="cb97547dc8386203028b30f7cb7debd8" sha1="2e23ce4b892d25a9a3f8ddf42406192b6255494b"/>
+		<rom name="Puyo Puyo for CE2 (Japan) (v1.1).bin" size="14782320" crc="8c3c2e0c" md5="78c0874fa6d09afe5a124876320bedda" sha1="b9f66b60e258dd4b3ffcfc64c4cd32cc37d84216"/>
+	</game>
+	<game name="Get Away for Windows CE (Japan)">
+		<category>Games</category>
+		<description>Get Away for Windows CE (Japan)</description>
+		<rom name="Get Away for Windows CE (Japan).cue" size="97" crc="549f7a24" md5="44a26861e9182a477d5da50e815d546a" sha1="3f77a9c71bcb8a57050fa53b10d1f127aae5555c"/>
+		<rom name="Get Away for Windows CE (Japan).bin" size="2312016" crc="ee68cdf2" md5="82a03df754ef336ce573b00e6a11517c" sha1="4e05693c87487abdf0c492c84c2f1c7b9ac589a6"/>
 	</game>
 </datafile>

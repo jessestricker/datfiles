@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260307-154433</version>
+		<version>20260310-141134</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3038,7 +3038,7 @@
 	</game>
 	<game name="Bokura wa Kaseki Horider (Japan)" id="2253" cloneofid="4113">
 		<description>Bokura wa Kaseki Horider (Japan)</description>
-		<rom name="Bokura wa Kaseki Horider (Japan).nds" size="134217728" crc="1668b291" md5="656974d461994d8673b2153902510958" sha1="6d23e7334be5358d29268f8c588f8225cef0825d" serial="YKHJ"/>
+		<rom name="Bokura wa Kaseki Horider (Japan).nds" size="134217728" crc="1668b291" md5="656974d461994d8673b2153902510958" sha1="6d23e7334be5358d29268f8c588f8225cef0825d" sha256="e5076111e81f8505ee56df16ca8f07e4d4fb4667451ff2d2d3800c594022f5f2" serial="YKHJ"/>
 	</game>
 	<game name="Bolt (USA) (En,Fr,Es)" id="2996" cloneofid="3281">
 		<description>Bolt (USA) (En,Fr,Es)</description>
@@ -5842,7 +5842,7 @@
 	</game>
 	<game name="Dig Dug - Digging Strike (USA)" id="0139" cloneofid="0531">
 		<description>Dig Dug - Digging Strike (USA)</description>
-		<rom name="Dig Dug - Digging Strike (USA).nds" size="16777216" crc="908705db" md5="86ac983ee178d33f5e22e0deb8b31c03" sha1="b9dda701f462ace8be81cc37fd413d005ffb5962" serial="ADDE"/>
+		<rom name="Dig Dug - Digging Strike (USA).nds" size="16777216" crc="908705db" md5="86ac983ee178d33f5e22e0deb8b31c03" sha1="b9dda701f462ace8be81cc37fd413d005ffb5962" sha256="50c898435f5802fc46d3e993f67ee4a0eb89da7aa362abd0fe34c7845efa8679" serial="ADDE"/>
 	</game>
 	<game name="Dig Dug - Digging Strike (Japan)" id="0272" cloneofid="0531">
 		<description>Dig Dug - Digging Strike (Japan)</description>
@@ -14045,7 +14045,7 @@
 	</game>
 	<game name="Layton Kyouju to Akuma no Hako (Japan)" id="1739" cloneofid="4213">
 		<description>Layton Kyouju to Akuma no Hako (Japan)</description>
-		<rom name="Layton Kyouju to Akuma no Hako (Japan).nds" size="134217728" crc="39b20436" md5="71e624a8ab2f0397eab20bb94d453434" sha1="b42ae3d2d97b044ba6ab3ffec849f2b432c8e5b3" serial="YLTJ"/>
+		<rom name="Layton Kyouju to Akuma no Hako (Japan).nds" size="134217728" crc="39b20436" md5="71e624a8ab2f0397eab20bb94d453434" sha1="b42ae3d2d97b044ba6ab3ffec849f2b432c8e5b3" sha256="e1fc6654bf8fa0b79fabe4e3caeab2c73d0a27114b7653614dbf325a4e96535f" status="verified" serial="YLTJ"/>
 	</game>
 	<game name="Layton Kyouju to Akuma no Hako - Friendly Ban (Japan)" id="4392" cloneofid="4213">
 		<description>Layton Kyouju to Akuma no Hako - Friendly Ban (Japan)</description>
@@ -14057,7 +14057,7 @@
 	</game>
 	<game name="Layton Kyouju to Fushigi na Machi (Japan) (Rev 1)" id="6616" cloneofid="2888">
 		<description>Layton Kyouju to Fushigi na Machi (Japan) (Rev 1)</description>
-		<rom name="Layton Kyouju to Fushigi na Machi (Japan) (Rev 1).nds" size="67108864" crc="6b7078f9" md5="7442ff703960259e77c0d2d58dd15578" sha1="66fca21af2f67fe3eb802f135e247213321fb96d" serial="A5FJ"/>
+		<rom name="Layton Kyouju to Fushigi na Machi (Japan) (Rev 1).nds" size="67108864" crc="6b7078f9" md5="7442ff703960259e77c0d2d58dd15578" sha1="66fca21af2f67fe3eb802f135e247213321fb96d" sha256="14072aab4d195cee7ae507b973f7857c40299d921f6726369b6d6d23286f19bd" status="verified" serial="A5FJ"/>
 	</game>
 	<game name="Layton Kyouju to Fushigi na Machi (Japan)" id="0857" cloneofid="2888">
 		<description>Layton Kyouju to Fushigi na Machi (Japan)</description>
@@ -26493,7 +26493,7 @@
 	</game>
 	<game name="Super Kaseki Horider (Japan) (NDSi Enhanced)" id="5369" cloneofid="5895">
 		<description>Super Kaseki Horider (Japan) (NDSi Enhanced)</description>
-		<rom name="Super Kaseki Horider (Japan) (NDSi Enhanced).nds" size="268435456" crc="0292d001" md5="1e9054bca745377587bbf98e527701fb" sha1="35672d5f2eb2ac3bdb4117d2dc9b9dffaabebfbc" sha256="d229e73f3216f73f84af3d6728edd6c2c1b1bbbd8c630435b7b8cf1b32b5aa9a" serial="VDEJ"/>
+		<rom name="Super Kaseki Horider (Japan) (NDSi Enhanced).nds" size="268435456" crc="0292d001" md5="1e9054bca745377587bbf98e527701fb" sha1="35672d5f2eb2ac3bdb4117d2dc9b9dffaabebfbc" sha256="d229e73f3216f73f84af3d6728edd6c2c1b1bbbd8c630435b7b8cf1b32b5aa9a" status="verified" serial="VDEJ"/>
 	</game>
 	<game name="Super Key (World) (v4.0) (Unl)" id="x049" cloneofid="x051">
 		<description>Super Key (World) (v4.0) (Unl)</description>

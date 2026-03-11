@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260308-072432</version>
+		<version>20260310-141618</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3681,11 +3681,6 @@
 	<game name="Lock n' Chase (World)" id="0708">
 		<description>Lock n' Chase (World)</description>
 		<rom name="Lock n' Chase (World).gb" size="65536" crc="dab91c7a" md5="8bb31f539e8999d5c4e9449fe1befad6" sha1="643cbd566d35ce8dbe0f24627e4862c09805a04c" sha256="0d6c56da2fdb6b27d388912604ad97c2f71729604a075d76c1fcd923f29e6915" status="verified"/>
-	</game>
-	<game name="Loesningen (Sweden) (Unl)" id="2474">
-		<category>Games</category>
-		<description>Loesningen (Sweden) (Unl)</description>
-		<rom name="Loesningen (Sweden) (Unl).gb" size="524288" crc="a44b1c06" md5="ac91c0c58bc087f15d294092d65ed9f1" sha1="d767df478f704db8e5b9d00055e8123cdc2a7555" sha256="09049a6d636459450583a07aef71ce427f69a6e72fc83b1e9bd81da428292ba1" mia="yes"/>
 	</game>
 	<game name="Lolo no Daibouken (Japan)" id="0709" cloneofid="0013">
 		<description>Lolo no Daibouken (Japan)</description>

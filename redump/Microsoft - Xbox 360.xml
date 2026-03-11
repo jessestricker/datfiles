@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3656) (2026-03-10 17-36-20)</description>
-		<version>2026-03-10 17-36-20</version>
-		<date>2026-03-10 17-36-20</date>
+		<description>Microsoft - Xbox 360 - Discs (3657) (2026-03-11 17-12-52)</description>
+		<version>2026-03-11 17-12-52</version>
+		<date>2026-03-11 17-12-52</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -5393,10 +5393,10 @@
 		<description>Dead or Alive 5 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Dead or Alive 5 (Europe) (En,Ja,Fr,De,Es,It).iso" size="8738846720" crc="0bb4a2fc" md5="aba74793c05e175dfc606c7ec18f3df0" sha1="c2fed44cd242f4d1e1711c0bba36b860e5c942aa"/>
 	</game>
-	<game name="Tom Clancy's H.A.W.X. 2 (UK)">
+	<game name="Tom Clancy's H.A.W.X. 2 (Europe)">
 		<category>Games</category>
-		<description>Tom Clancy's H.A.W.X. 2 (UK)</description>
-		<rom name="Tom Clancy's H.A.W.X. 2 (UK).iso" size="7838695424" crc="1d493bd3" md5="d7e30988b506081b4c16a8af2abcbd66" sha1="0955e0c3336b8bd07b8c7f023769b20bd6c55c25"/>
+		<description>Tom Clancy's H.A.W.X. 2 (Europe)</description>
+		<rom name="Tom Clancy's H.A.W.X. 2 (Europe).iso" size="7838695424" crc="1d493bd3" md5="d7e30988b506081b4c16a8af2abcbd66" sha1="0955e0c3336b8bd07b8c7f023769b20bd6c55c25"/>
 	</game>
 	<game name="WWE SmackDown vs. Raw 2008 (USA, Europe)">
 		<category>Games</category>
@@ -18298,5 +18298,10 @@
 		<category>Games</category>
 		<description>Tomb Raider (United Arab Emirates) (En,Ar)</description>
 		<rom name="Tomb Raider (United Arab Emirates) (En,Ar).iso" size="7838695424" crc="bdfc9721" md5="ac7a8d547093586cdcf1056d7fcf3e7e" sha1="7104c5b7af71f0454217bf35180d5a0e13a168ae"/>
+	</game>
+	<game name="Need for Speed - Hot Pursuit (Russia) (Pl,Ru)">
+		<category>Games</category>
+		<description>Need for Speed - Hot Pursuit (Russia) (Pl,Ru)</description>
+		<rom name="Need for Speed - Hot Pursuit (Russia) (Pl,Ru).iso" size="7838695424" crc="1e0cb238" md5="d354d83cf7226e3532c1ac7f3302a0f7" sha1="41f8b523630a224d04f96457dd2b8f0bbb049a76"/>
 	</game>
 </datafile>
