@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260310-210000</version>
+		<version>20260311-214105</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20334,11 +20334,6 @@
 		<description>32-in-1 Speech Educational Software (Asia) (En) (Pirate)</description>
 		<rom name="32-in-1 Speech Educational Software (Asia) (En) (Pirate).nes" size="524304" crc="afcba77a" md5="b285e24eb7871a11e538ac5d29c27f9b" sha1="bdef3d1389e0fcebbe0e548b9752522220bc90a1" sha256="99204cc6aa23090ddc9f9f122ef3a3b9d2edb29c6d40067d09d790e3c63660a8" header="4E 45 53 1A 20 00 21 B8 20 00 00 07 03 00 00 26"/>
 	</game>
-	<game name="4-in-1 Super (Asia) (En) (BD-418) (Pirate)" id="8430">
-		<category>Games</category>
-		<description>4-in-1 Super (Asia) (En) (BD-418) (Pirate)</description>
-		<rom name="4-in-1 Super (Asia) (En) (BD-418) (Pirate).nes" size="1048592" crc="12eb1320" md5="94f8379b522f9aebdbb43e0c4780f9d3" sha1="8780a73489a9aa3594373a8e3ccd5a5c0891cf69" sha256="1a31823f52182d6b2e1ba273ade5be29227278248e6b2385f30cfe7ac23b5f92" mia="yes" header="4E 45 53 1A 20 40 D0 28 00 00 00 00 00 00 00 01"/>
-	</game>
 	<game name="48-in-1 Educational Computer (Spain) (Pirate)" id="8241">
 		<category>Educational</category>
 		<category>Games</category>
@@ -20936,6 +20931,11 @@
 		<category>Games</category>
 		<description>Super 29-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Super 29-in-1 (Asia) (En) (Pirate).nes" size="1048592" crc="6f8edcef" md5="fd795f820efb39b1474fa0d3e4d31e38" sha1="57b7d9b7757e5c76fb79eeee8e8a99f753da1baf" sha256="deec5988a3ade9ad9f39f8c6a2199f8b335190445d4942be70de78ca01e8c9de" header="4E 45 53 1A 20 40 D0 28 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Super 4-in-1 (Asia) (En) (BD-418) (Pirate)" id="8430">
+		<category>Games</category>
+		<description>Super 4-in-1 (Asia) (En) (BD-418) (Pirate)</description>
+		<rom name="Super 4-in-1 (Asia) (En) (BD-418) (Pirate).nes" size="1048592" crc="12eb1320" md5="94f8379b522f9aebdbb43e0c4780f9d3" sha1="8780a73489a9aa3594373a8e3ccd5a5c0891cf69" sha256="1a31823f52182d6b2e1ba273ade5be29227278248e6b2385f30cfe7ac23b5f92" header="4E 45 53 1A 20 40 D0 28 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Super 500-in-1 (Asia) (En) (HH-009) (Pirate)" id="8145">
 		<category>Games</category>

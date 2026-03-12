@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260310-142954</version>
+		<version>20260312-005432</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -419,7 +419,7 @@
 	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)" id="3977">
 		<category>Games</category>
 		<description>BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90"/>
+		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90" mia="yes"/>
 	</game>
 	<game name="BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)" id="0333">
 		<description>BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)</description>
