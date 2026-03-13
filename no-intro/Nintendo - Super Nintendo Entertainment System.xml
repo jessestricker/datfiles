@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260311-093721</version>
+		<version>20260312-052357</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19907,6 +19907,11 @@
 		<category>Games</category>
 		<description>Jungle Book, The (World) (Disney Classic Games)</description>
 		<rom name="Jungle Book, The (World) (Disney Classic Games).sfc" size="2097152" crc="a690cf68" md5="342847114beba981a83746a8c1aedb29" sha1="f8daa9d605dab709a0f0f5281984168d88594399" sha256="7459c6c0377038b2bcfb88d594c460bc4bb45c68c840a890dd16dffb83dbc04d"/>
+	</game>
+	<game name="Justice Ninja Casey (World) (Ratalaika Games)" id="4566" cloneofid="2339">
+		<category>Games</category>
+		<description>Justice Ninja Casey (World) (Ratalaika Games)</description>
+		<rom name="Justice Ninja Casey (World) (Ratalaika Games).sfc" size="2097152" crc="b4923e4a" md5="fef11cd50a9ad09eabb3e0b04bf8513a" sha1="b12bcfd423757209033f8db7dad4bc03f3985f07" sha256="7c67ed36e37ce1a268b16c8e56c30a4a9621977c412cffce52598719fc858736"/>
 	</game>
 	<game name="Juusou Kihei Valken (World) (Ja) (Switch)" id="4339" cloneofid="0501">
 		<category>Games</category>

@@ -4,8 +4,8 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260310-141618</version>
-		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<version>20260312-133352</version>
+		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -1119,10 +1119,6 @@
 		<description>Castle Quest (Europe) (Beta)</description>
 		<rom name="Castle Quest (Europe) (Beta).gb" size="131072" crc="8a5636ea" md5="779dce075e652bea5bbecf89bb5b04df" sha1="356c8510b0647e56a558aba9d5dc4cc9d3ccd94c" sha256="70461027df27a08698b33bea2a724a6415578340d29dafc84545cd7f156de7ca"/>
 	</game>
-	<game name="Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)" id="1658" cloneofid="0213">
-		<description>Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)</description>
-		<rom name="Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).gb" size="65536" crc="548ce311" md5="1e5fe428068d8e051e20874ce7c38349" sha1="0d1a75cf0e6e7f6b106cfed7aa0b716daf5f9dc8" sha256="90aed8b6412ba0611011166bae741eb4da47956862de4e537edfb3872f17c4ee" status="verified"/>
-	</game>
 	<game name="Castlevania - The Adventure (Europe)" id="0213">
 		<description>Castlevania - The Adventure (Europe)</description>
 		<rom name="Castlevania - The Adventure (Europe).gb" size="65536" crc="6977c265" md5="7c0cbb81025deed9e32ecdca5f1bb482" sha1="d54888039344597fa038f2c5eedc0726dd35cc46" sha256="2658b85a1c9179adb495329013f03e00f25aa191b5462278739aff7aafdef3c7" status="verified"/>
@@ -1131,13 +1127,17 @@
 		<description>Castlevania - The Adventure (USA)</description>
 		<rom name="Castlevania - The Adventure (USA).gb" size="65536" crc="216e6aa1" md5="0b4410c6b94d6359dba5609ae9a32909" sha1="fd9116efcd8eb9698f483cc5745f83b3674d7d13" sha256="edb101e924f22149bdcbcfe6603801fdb4ec0139a40493d700fa0205f6dab30c" status="verified"/>
 	</game>
-	<game name="Castlevania II - Belmont's Revenge (USA, Europe)" id="0215">
-		<description>Castlevania II - Belmont's Revenge (USA, Europe)</description>
-		<rom name="Castlevania II - Belmont's Revenge (USA, Europe).gb" size="131072" crc="8875c8fe" md5="7c65e9da405d2225d079f75e56276822" sha1="696b9ad1e9cfb7112977c9a7c05cf64fe8423d8a" sha256="17570ceec1b22153604622c4412d048dd8f7ccb4626daf9ddea96de8a062dbf2" status="verified"/>
+	<game name="Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)" id="1658" cloneofid="0213">
+		<description>Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)</description>
+		<rom name="Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).gb" size="65536" crc="548ce311" md5="1e5fe428068d8e051e20874ce7c38349" sha1="0d1a75cf0e6e7f6b106cfed7aa0b716daf5f9dc8" sha256="90aed8b6412ba0611011166bae741eb4da47956862de4e537edfb3872f17c4ee" status="verified"/>
 	</game>
 	<game name="Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)" id="1659" cloneofid="0215">
 		<description>Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)</description>
 		<rom name="Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).gb" size="131072" crc="bd28ba07" md5="2dcdb3808c2ccef569b215e0a35800a7" sha1="823e3c0f2de29f1f2548a9c4f74a956fb39dd3b8" sha256="61921f74b03f4196e03d4b327fe763ac68beb48b2506f1d8f87dedfecc16d59b" status="verified"/>
+	</game>
+	<game name="Castlevania II - Belmont's Revenge (USA, Europe)" id="0215">
+		<description>Castlevania II - Belmont's Revenge (USA, Europe)</description>
+		<rom name="Castlevania II - Belmont's Revenge (USA, Europe).gb" size="131072" crc="8875c8fe" md5="7c65e9da405d2225d079f75e56276822" sha1="696b9ad1e9cfb7112977c9a7c05cf64fe8423d8a" sha256="17570ceec1b22153604622c4412d048dd8f7ccb4626daf9ddea96de8a062dbf2" status="verified"/>
 	</game>
 	<game name="Castlevania Legends (USA, Europe) (SGB Enhanced)" id="0216">
 		<description>Castlevania Legends (USA, Europe) (SGB Enhanced)</description>

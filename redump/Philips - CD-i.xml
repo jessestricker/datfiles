@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2422) (2026-03-11 12-59-20)</description>
-		<version>2026-03-11 12-59-20</version>
-		<date>2026-03-11 12-59-20</date>
+		<description>Philips - CD-i - Discs (2423) (2026-03-13 15-11-52)</description>
+		<version>2026-03-13 15-11-52</version>
+		<date>2026-03-13 15-11-52</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15984,5 +15984,11 @@
 		<description>Avventure di Sandy al Circo, Le (Italy)</description>
 		<rom name="Avventure di Sandy al Circo, Le (Italy).cue" size="103" crc="0cad4678" md5="ec48d861090895581846d2504e49dbb5" sha1="13f669844ab5a6fbbc8009f7f9cbcd18d2ee0a21"/>
 		<rom name="Avventure di Sandy al Circo, Le (Italy).bin" size="490321440" crc="6287c418" md5="1adb55c03ecfa40eece3c82ea06973d5" sha1="78ce870310ddc238534e9e398f283d25ed946b4f"/>
+	</game>
+	<game name="Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy)">
+		<category>Multimedia</category>
+		<description>Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy)</description>
+		<rom name="Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy).cue" size="152" crc="a4217ba1" md5="90b79e65011932b31a39d97bd3651fca" sha1="99eac565ad2e2f989c6330ed4e461b6e53cf6fc2"/>
+		<rom name="Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy).bin" size="733475904" crc="8c2dfdf3" md5="8709f0170666bd0690ba0b6a09c748ee" sha1="f6d17b10a2ec6bd278454fdc943e1ca5d62112ba"/>
 	</game>
 </datafile>

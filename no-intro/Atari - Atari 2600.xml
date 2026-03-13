@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260310-045314</version>
+		<version>20260312-235438</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -162,7 +162,7 @@
 		<description>Alpha Beam with Ernie (Europe) (Alt)</description>
 		<rom name="Alpha Beam with Ernie (Europe) (Alt).a26" size="8192" crc="d1ed3112" md5="f2d40c70cf3e1d03bc112796315888d9" sha1="4be3ff4904fc75e047c72ec7e1b1b361c7ae6d50"/>
 	</game>
-	<game name="Alpha Beam with Ernie (Europe)" id="0902">
+	<game name="Alpha Beam with Ernie (Europe)" id="0902" cloneofid="0634">
 		<description>Alpha Beam with Ernie (Europe)</description>
 		<rom name="Alpha Beam with Ernie (Europe).a26" size="8192" crc="943e8e12" md5="b0ba51723b9330797985808db598fc31" sha1="32c615956879dae5ac2a13976c9be72829e9e483" sha256="aca9ad4f06b2a18c39f31a165f4c396964199cf6bc4684e05cd56427355006ed"/>
 	</game>

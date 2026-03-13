@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260312-005432</version>
+		<version>20260312-113724</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1222,9 +1222,15 @@
 		<description>Kanaderu Score - Violin Waltz + Same Game - Koma Editor 3 (Japan) (Data Pack) [b]</description>
 		<rom name="Kanaderu Score - Violin Waltz + Same Game - Koma Editor 3 (Japan) (Data Pack) [b].bs" size="1048576" crc="350ac687" md5="55ad790f9bd5411c1cb68df8499ad4b7" sha1="0ecb785c4c37544e63b266a6da33bd2cb568206b" sha256="e69219ca4df1c008e64b8e5fcc5cf76e2d1c704dd9b15756a0473f17a28cffec" status="baddump"/>
 	</game>
-	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan)" id="3487">
-		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan)</description>
-		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan).bs" size="1048576" crc="e6a2e0d8" md5="9cb2fb499d440cb687a02d9c94b7621e" sha1="a40d9dedeff858fca2a549fadb2cbe7f0a84fc44" sha256="396c65057edd1a18fefe89c420e3a7b3a402e80345e7e72e60e159a40fbbedc5"/>
+	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3)" id="3487">
+		<category>Games</category>
+		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3)</description>
+		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (8-3).bs" size="1048576" crc="e6a2e0d8" md5="9cb2fb499d440cb687a02d9c94b7621e" sha1="a40d9dedeff858fca2a549fadb2cbe7f0a84fc44" sha256="396c65057edd1a18fefe89c420e3a7b3a402e80345e7e72e60e159a40fbbedc5"/>
+	</game>
+	<game name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (12-8)" id="3980">
+		<category>Games</category>
+		<description>Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (12-8)</description>
+		<rom name="Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (12-8).bs" size="1048576" crc="73c906e5" md5="017b77e9c1f74cc9fcf880f92f6ccbc4" sha1="c928899384b70e8b8bb6442711f7c36da3a2a6e2" sha256="b521936ba31628d7ba12fb1fa74e43da582420a5703be13c860c2b88d13eab28"/>
 	</game>
 	<game name="Kid Klown no Crazy Chase (Japan) (5-9)" id="3475">
 		<category>Games</category>
@@ -2649,15 +2655,15 @@
 		<description>Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine)</description>
 		<rom name="Yusuke Akamatsu Theater (Japan) (5-7) (SoundLink Magazine).bs" size="524288" crc="2533e4a4" md5="5f455d6e56f78f1f752c464b255db886" sha1="a74fe703303f30fd55a5759f99ffb927bbd339f2" sha256="2e7c2134b89545038d7d1ae4c9966340f9500431539b4859d1282a8336200efe"/>
 	</game>
-	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine)" id="3464">
+	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix)" id="3464">
 		<category>Magazines</category>
-		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine)</description>
-		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine).bs" size="524288" crc="33044905" md5="add1530e3d8f5b2ca78804d566fc97ce" sha1="acfc1de960c4ed8523cd20eacb75a61a2e5f3ff9" sha256="ea5741c3cd6f9d656996f804a5478d1a1f9e1c42c94316b0fd094e4bc6d3aa89"/>
+		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-23) (SoundLink Magazine) (Standalone Fix).bs" size="524288" crc="33044905" md5="add1530e3d8f5b2ca78804d566fc97ce" sha1="acfc1de960c4ed8523cd20eacb75a61a2e5f3ff9" sha256="ea5741c3cd6f9d656996f804a5478d1a1f9e1c42c94316b0fd094e4bc6d3aa89"/>
 	</game>
-	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine)" id="3674">
+	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix)" id="3674">
 		<category>Magazines</category>
-		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine)</description>
-		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine).bs" size="524288" crc="e7e921f0" md5="c0ad98a0173d857dd3ec29089c8fbbf8" sha1="d34ac12350a1e969c1f00958ff38146aa22d964b" sha256="bb79a2cc76f0cb20409504729136173309a7bf40eb2bc70173756d2d43b19d87"/>
+		<description>Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (Japan) (1997-3-16) (SoundLink Magazine) (Standalone Fix).bs" size="524288" crc="e7e921f0" md5="c0ad98a0173d857dd3ec29089c8fbbf8" sha1="d34ac12350a1e969c1f00958ff38146aa22d964b" sha256="bb79a2cc76f0cb20409504729136173309a7bf40eb2bc70173756d2d43b19d87"/>
 	</game>
 	<game name="Yuuki Nae no GE-MU no Tsubo (Japan) (1996-12-22) (SoundLink Magazine)" id="3698">
 		<category>Magazines</category>
@@ -2672,6 +2678,11 @@
 		<category>Magazines</category>
 		<description>Yuuki Nae no GE-MU no Tsubo (1996-6-2) + Game Tora no Chou Ooana (1996-6-2, Part 1) (Japan) (SoundLink Magazine)</description>
 		<rom name="Yuuki Nae no GE-MU no Tsubo (1996-6-2) + Game Tora no Chou Ooana (1996-6-2, Part 1) (Japan) (SoundLink Magazine).bs" size="1048576" crc="792a304d" md5="1dd5f37932e47a3787396bee42e98e5c" sha1="2ab557fc9b3f749b7f1a5737c59d4344e1faa4ba" sha256="530c80001f50110ea88d79deb55eb097c33d7b2c9731c0a2da38c9cefcdfbbe8"/>
+	</game>
+	<game name="Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine)" id="3981">
+		<category>Magazines</category>
+		<description>Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine)</description>
+		<rom name="Yuuki Nae no GE-MU no Tsubo (1997-3-16) + Yuuki Nae no GE-MU no Tsubo (1997-3-23) (Japan) (SoundLink Magazine).bs" size="1048576" crc="5ba302f7" md5="ab0a343ed71abba78786c314cb10f672" sha1="ecd6df596fb36bfdb54117b51149d95bdebab964" sha256="1db08e92bbf8caa2689cbe33771335cebc8522d20784ae98ee8e74f7c93858ad"/>
 	</game>
 	<game name="Yuuki Nae no GE-MU no Tsubo (1997-3-23) + Yuuki Nae Ashita ni Nareba (1996-3-29) (Japan) (SoundLink Magazine) [b]" id="3842">
 		<category>Magazines</category>

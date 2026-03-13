@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260312-005415</version>
+		<version>20260313-004034</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1185,6 +1185,11 @@
 	<game name="Croc (USA, Europe)" id="0206">
 		<description>Croc (USA, Europe)</description>
 		<rom name="Croc (USA, Europe).gbc" size="1048576" crc="4664a167" md5="0552078f981c2ef3977f2dfeee19510a" sha1="dac6de548743c6b51a3daa5903c28b7fccdb6cb2"/>
+	</game>
+	<game name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)" id="2653" cloneofid="0206">
+		<category>Games</category>
+		<description>Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)</description>
+		<rom name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="90b4b954" md5="1ed809bf88154614185382f0dc73cc5a" sha1="fd83a04af47f7071c348f9431e7ef6b41add5a95" sha256="2e207517a58f4d6333d7ccac9a6b34e690bac4a0b437248c41e34768657f6285" mia="yes"/>
 	</game>
 	<game name="Croc 2 (USA, Europe)" id="0207">
 		<description>Croc 2 (USA, Europe)</description>
