@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260313-004034</version>
+		<version>20260314-052110</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -713,6 +713,11 @@
 		<description>Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="2f91e17c" md5="756664aa0c9418b200946aa4e1dddf53" sha1="8b2e83d7f2b7d72d5cc1ac81c28c2173ad2fc9ba"/>
 	</game>
+	<game name="Blaster Master - Enemy Below (World) (Evercade) (SGB Enhanced) (GB Compatible)" id="2655" cloneofid="0126">
+		<category>Games</category>
+		<description>Blaster Master - Enemy Below (World) (Evercade) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Blaster Master - Enemy Below (World) (Evercade) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="45ae061b" md5="a36ce3ea544a70e7c559f7da2636751d" sha1="2661f70d6bc998115658307aee32ae82286374ea" sha256="c68e2ff483ededfe0145ec9a6f312654fbb38cb8a4103da6955cc79ea438dcf4"/>
+	</game>
 	<game name="Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto)" id="1591" cloneofid="0127">
 		<description>Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto)</description>
 		<rom name="Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto).gbc" size="1048576" crc="f89f58b7" md5="e3846151ea7d911c9b0b76de2fe5239a" sha1="7fdedfe8acde9557a5ff57661ed17082813e09a1" sha256="6de64d418b9bf8c99851a7c46db10bf1e9ed21b9eda764d5d167e450043a2f7a"/>
@@ -1138,6 +1143,10 @@
 		<description>Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="a50be9a8" md5="fee6336f969c9e72e9b78be53d512c1e" sha1="e9c3b1bb20ea74f363191ea9144009d1b13246bb" sha256="a06e5fb235a54ae62d2d969312ffbca4289c4969cb53f476b0996e5046ff4d13" status="verified"/>
 	</game>
+	<game name="Conker's Pocket Tales (World) (En,Fr,De) (Evercade) (SGB Enhanced) (GB Compatible)" id="2658" cloneofid="0202">
+		<description>Conker's Pocket Tales (World) (En,Fr,De) (Evercade) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Conker's Pocket Tales (World) (En,Fr,De) (Evercade) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="d29e3ec1" md5="8ba72cf123f7efdcec1e5f9f6d79810d" sha1="482e93dfc1ab0ecbc5f33ea2e7ca2c93b45306c2" sha256="362fbd07aca3bf6ff3c8fa1f29fca6405537d2d6c317397a6f794f28c03b5c4a"/>
+	</game>
 	<game name="Cool Bricks (Europe) (Beta) (1999-03-24)" id="2595" cloneofid="0203">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -1189,7 +1198,7 @@
 	<game name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)" id="2653" cloneofid="0206">
 		<category>Games</category>
 		<description>Croc - 25th Anniversary Edition (World) (ModRetro Chromatic)</description>
-		<rom name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="90b4b954" md5="1ed809bf88154614185382f0dc73cc5a" sha1="fd83a04af47f7071c348f9431e7ef6b41add5a95" sha256="2e207517a58f4d6333d7ccac9a6b34e690bac4a0b437248c41e34768657f6285" mia="yes"/>
+		<rom name="Croc - 25th Anniversary Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="90b4b954" md5="1ed809bf88154614185382f0dc73cc5a" sha1="fd83a04af47f7071c348f9431e7ef6b41add5a95" sha256="2e207517a58f4d6333d7ccac9a6b34e690bac4a0b437248c41e34768657f6285"/>
 	</game>
 	<game name="Croc 2 (USA, Europe)" id="0207">
 		<description>Croc 2 (USA, Europe)</description>
@@ -2877,6 +2886,16 @@
 	<game name="Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)" id="0500">
 		<description>Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)</description>
 		<rom name="Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).gbc" size="1048576" crc="7fff1142" md5="4adc91b001cf02dc42d2c0339535b8f9" sha1="6d568438aa3b9b67c55aded582cec136b15c46d7" sha256="42568dbaba8e8e62d14154e023adc6719ddf30081b47fdb8d87c45065af09d64" status="verified"/>
+	</game>
+	<game name="Infinity (World) (Incube8 Games)" id="2660" cloneofid="1450">
+		<category>Games</category>
+		<description>Infinity (World) (Incube8 Games)</description>
+		<rom name="Infinity (World) (Incube8 Games).gbc" size="4194304" crc="f25b52a0" md5="c49df09f25c68b000ec1a8d0476a5f3a" sha1="a4eb840b1f8db9b7874ae78ff203f22777425d0d" sha256="a6b57221de5e13c9e7abc8577fb5982e140902275b6c0415cef183ac2582615a"/>
+	</game>
+	<game name="Infinity (World) (v1.1) (Incube8 Games)" id="2661" cloneofid="1450">
+		<category>Games</category>
+		<description>Infinity (World) (v1.1) (Incube8 Games)</description>
+		<rom name="Infinity (World) (v1.1) (Incube8 Games).gbc" size="4194304" crc="7384cfcc" md5="577564721cdcb0efb4734120bc328a67" sha1="cd997304b5803d331979fdde8f7820d5f6a2ad43" sha256="5d6b40d51dacaf8fbb366ee585043bac2547141cf11a753a6e8bb41b49b089b7"/>
 	</game>
 	<game name="Infinity (USA) (Proto) (2001-03-22)" id="1450">
 		<description>Infinity (USA) (Proto) (2001-03-22)</description>

@@ -4,7 +4,7 @@
 		<id>76</id>
 		<name>VTech - V.Smile</name>
 		<description>VTech - V.Smile</description>
-		<version>20260106-005848</version>
+		<version>20260314-052645</version>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -440,9 +440,10 @@
 		<description>Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain)</description>
 		<rom name="Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain).bin" size="8388608" crc="5e01645f" md5="cbf6fe6456192e90c29662b865eb9029" sha1="de4d420a7bfb9a33fbd739a5111e331b7ba6c85a" sha256="4a510f1949d2afdd3edfe3a7d8cefffa09f50ad833a360b2edeec0ecd935d6bf" serial="8092207001"/>
 	</game>
-	<game name="Disney Aladdin - Il magico mondo di Aladdin (Italy)" id="0138" cloneofid="0161">
-		<description>Disney Aladdin - Il magico mondo di Aladdin (Italy)</description>
-		<rom name="Disney Aladdin - Il magico mondo di Aladdin (Italy).bin" size="8388608" crc="4ea0f59a" md5="41887cccd9c6d01140d780f15ae1f8fe" sha1="0810f65d356b421ac384578daaa7af9406807299" sha256="e6028b93960c4ebc002f2f789ac314038f73872637f6501275edfeb2aa29c9b7" serial="8092211007"/>
+	<game name="Disney Aladdin - Il Magico Mondo di Aladdin (Italy)" id="0138" cloneofid="0161">
+		<category>Games</category>
+		<description>Disney Aladdin - Il Magico Mondo di Aladdin (Italy)</description>
+		<rom name="Disney Aladdin - Il Magico Mondo di Aladdin (Italy).bin" size="8388608" crc="4ea0f59a" md5="41887cccd9c6d01140d780f15ae1f8fe" sha1="0810f65d356b421ac384578daaa7af9406807299" sha256="e6028b93960c4ebc002f2f789ac314038f73872637f6501275edfeb2aa29c9b7" status="verified" serial="8092211007"/>
 	</game>
 	<game name="Disney Aladdin - Wonders of the World (United Kingdom)" id="0161">
 		<category>Games</category>
@@ -867,9 +868,9 @@
 		<description>Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany)</description>
 		<rom name="Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany).bin" size="8388608" crc="c6fbdb94" md5="abb200c331f5c5a8043a976191473f92" sha1="887f1d2acadc6902d386488577654a6786d802a9" sha256="87760ef399b0cb88f10cd36a6b07e39ac14191c1da00072761364ee88442ea32" serial="8092224001"/>
 	</game>
-	<game name="Disney-Pixar Toy Story 3 (Italy) [b]" id="0151" cloneofid="0246">
-		<description>Disney-Pixar Toy Story 3 (Italy) [b]</description>
-		<rom name="Disney-Pixar Toy Story 3 (Italy) [b].bin" size="8388608" crc="30d59f46" md5="6991e2b0c21ac21e4caabefc40a5bec8" sha1="036ee9f509c3fce6e73fe957fadd01d7fc9ce3fc" sha256="c81dcea577deeaf156286a3e8322f3d9001231c212c55949872cc717bcdd92ac" status="baddump" serial="80090291007001"/>
+	<game name="Disney-Pixar Toy Story 3 (Italy)" id="0151" cloneofid="0246">
+		<description>Disney-Pixar Toy Story 3 (Italy)</description>
+		<rom name="Disney-Pixar Toy Story 3 (Italy).bin" size="16777216" crc="00cb3227" md5="c1c14842faf3407880c5b7fa21158bff" sha1="54348a52a15b8d6f67b284519436cf1a07cb113c" sha256="6bba0696085a5d6d0a8c3b5c434ef293df4a8536ca1295495f4be430a294cc39" mia="yes"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (V.Smile Motion)" id="0199" cloneofid="0246">
 		<category>Educational</category>
@@ -976,9 +977,9 @@
 		<description>Disney's Aladdin - De wonderwereld van Aladdin (Netherlands)</description>
 		<rom name="Disney's Aladdin - De wonderwereld van Aladdin (Netherlands).bin" size="8388608" crc="44fb6eea" md5="58fb4491322f509cb84afe77b6926f1e" sha1="8a05cadf0ecf6e47c13137ac99dacdf9ee8b0810" sha256="b162077cefc6115fe21e9e2f924bb5dc82182376509c62ed7ffab0c14a09a55e" serial="8092202001"/>
 	</game>
-	<game name="Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France)" id="0351" cloneofid="0161">
-		<description>Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France)</description>
-		<rom name="Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France).bin" size="8388608" crc="08aa0570" md5="5b8444b2d301dc8309c3b5d968d4c857" sha1="ba7268cb7ffe858abbb69745dbf2279e0bb8b234" sha256="2b9c0bb140db41f0cfa0b1943737e513053286538835da33da2e7f3341c83516" status="verified" serial="8092205001"/>
+	<game name="Disney's Aladdin - Les Fabuleuses Aventures d'Aladdin (France)" id="0351" cloneofid="0161">
+		<description>Disney's Aladdin - Les Fabuleuses Aventures d'Aladdin (France)</description>
+		<rom name="Disney's Aladdin - Les Fabuleuses Aventures d'Aladdin (France).bin" size="8388608" crc="08aa0570" md5="5b8444b2d301dc8309c3b5d968d4c857" sha1="ba7268cb7ffe858abbb69745dbf2279e0bb8b234" sha256="2b9c0bb140db41f0cfa0b1943737e513053286538835da33da2e7f3341c83516" status="verified" serial="8092205001"/>
 	</game>
 	<game name="Disney's Mickey Mouse - Mickey's Magical Adventure (United Kingdom)" id="0155">
 		<description>Disney's Mickey Mouse - Mickey's Magical Adventure (United Kingdom)</description>
@@ -1170,6 +1171,11 @@
 	<game name="Football Club (Italy)" id="0144" cloneofid="0008">
 		<description>Football Club (Italy)</description>
 		<rom name="Football Club (Italy).bin" size="8388608" crc="e1c8ed7a" md5="9590ef6d622dcec5be9f047dd43f6753" sha1="b03bf9ac043da77e3e42f12ce92859bd37e410d2" sha256="565f48578b72511427e0ee6072b0715b73166a359381a6c6b8f910baf3325a17" serial="8092831001"/>
+	</game>
+	<game name="Football Club (Italy) (Alt)" id="0466" cloneofid="0008">
+		<category>Games</category>
+		<description>Football Club (Italy) (Alt)</description>
+		<rom name="Football Club (Italy) (Alt).bin" size="8388608" crc="fd7e7c41" md5="fc3ab538b5cb0105fb7e92fa6b27cd80" sha1="c728e8d0f3e7a3f92869e24b5536cc583d9f642e" sha256="ecb3c4ca60d7e5c0b028845b1a7c600f01bdac880f23c8d56351b0281209cd28" mia="yes"/>
 	</game>
 	<game name="Freds Zahlen Rallye (Germany)" id="0012">
 		<description>Freds Zahlen Rallye (Germany)</description>

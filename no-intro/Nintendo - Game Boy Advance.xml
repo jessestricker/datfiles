@@ -4,8 +4,8 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260308-043222</version>
-		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260314-015846</version>
+		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -12048,6 +12048,11 @@
 		<description>Star Wars Trilogy - Apprentice of the Force (USA) (Beta)</description>
 		<rom name="Star Wars Trilogy - Apprentice of the Force (USA) (Beta).gba" size="8388608" crc="b5d61c72" md5="95ef9bda30e0392f319ee8617bd2dca0" sha1="ddf8edaa7436fd5a7282867369f294d6907f9a52" sha256="3c75c4326997a92309b73a7fa26df68fdafaa55b564fb1757723b78db35b6ac3"/>
 	</game>
+	<game name="Star X (World) (En,Fr,De,Es,It,Nl) (Evercade)" id="3300" cloneofid="0468">
+		<category>Games</category>
+		<description>Star X (World) (En,Fr,De,Es,It,Nl) (Evercade)</description>
+		<rom name="Star X (World) (En,Fr,De,Es,It,Nl) (Evercade).gba" size="8388608" crc="fcb3bbb2" md5="33c533902477b6df496f0fb4b85ce94b" sha1="b9fd72ceee7d12faba79041b23189c722eced325" sha256="a6f22be618f3d819e11a69a06807d6ceb0f37dff764fabc9d499742ed240faca"/>
+	</game>
 	<game name="Star X (USA) (En,Fr,De,Es,It,Nl)" id="0392" cloneofid="0468">
 		<description>Star X (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Star X (USA) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="8b02b2b1" md5="2c18d1fa4d943439ca17ceef984ea7d4" sha1="edac3e0a09dd6a501c923a6b01017b48b1cbe7ee" serial="AS8E"/>
@@ -12416,7 +12421,7 @@
 	</game>
 	<game name="Super Monkey Ball Jr. (USA)" id="0747" cloneofid="0921">
 		<description>Super Monkey Ball Jr. (USA)</description>
-		<rom name="Super Monkey Ball Jr. (USA).gba" size="4194304" crc="0a8031f0" md5="77edf4f506b3343e15efe61d64944eba" sha1="0d994a58b7acdfe9357e5405acebe232128b80fe" serial="ALUE"/>
+		<rom name="Super Monkey Ball Jr. (USA).gba" size="4194304" crc="0a8031f0" md5="77edf4f506b3343e15efe61d64944eba" sha1="0d994a58b7acdfe9357e5405acebe232128b80fe" status="verified" serial="ALUE"/>
 	</game>
 	<game name="Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)" id="0921">
 		<description>Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)</description>

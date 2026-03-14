@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260312-113724</version>
+		<version>20260313-151720</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1543,17 +1543,20 @@
 		<description>Panel de Pon - BS Ban (Japan)</description>
 		<rom name="Panel de Pon - BS Ban (Japan).bs" size="1048576" crc="3426834c" md5="5001783069da117f759f96bfff74a80c" sha1="b3fe06166aca9cc9f7a6035de753abe6cd798967" sha256="fffd9caf6d09970c18f97e3c6bd30b4d6dc566bfb5b18f77273ed764da37e852" serial="AYLJ"/>
 	</game>
-	<game name="Panel de Pon - Event '98 (Japan) (12-28)" id="1926">
-		<description>Panel de Pon - Event '98 (Japan) (12-28)</description>
-		<rom name="Panel de Pon - Event '98 (Japan) (12-28).bs" size="1048576" crc="720a850c" md5="cb2aee8e56fa50bbc4e4d9a1494c4699" sha1="cfbefc41406679c8bc906da6ed9db16f46c6beff" sha256="8ce818a62953d32a7b8e2e99d0ea0a6b644c54e3beab3a5b588a01032cb611a2"/>
+	<game name="Panel de Pon - Event '98 (Japan) (1997-12-28)" id="1926">
+		<category>Games</category>
+		<description>Panel de Pon - Event '98 (Japan) (1997-12-28)</description>
+		<rom name="Panel de Pon - Event '98 (Japan) (1997-12-28).bs" size="1048576" crc="720a850c" md5="cb2aee8e56fa50bbc4e4d9a1494c4699" sha1="cfbefc41406679c8bc906da6ed9db16f46c6beff" sha256="8ce818a62953d32a7b8e2e99d0ea0a6b644c54e3beab3a5b588a01032cb611a2"/>
 	</game>
-	<game name="Panel de Pon - Event '98 (Japan) (1-11)" id="3621">
-		<description>Panel de Pon - Event '98 (Japan) (1-11)</description>
-		<rom name="Panel de Pon - Event '98 (Japan) (1-11).bs" size="1048576" crc="725bf3af" md5="4749a582c80c34ed8a2349d7ababce89" sha1="b42e90094e79f5ff50ce367e1e7648d2b3f8f2c1" sha256="01f9622249f1ff9ff24a7c8ffa9205657b2007476f64c3707416050874aad891"/>
+	<game name="Panel de Pon - Event '98 (Japan) (1998-1-11)" id="3621">
+		<category>Games</category>
+		<description>Panel de Pon - Event '98 (Japan) (1998-1-11)</description>
+		<rom name="Panel de Pon - Event '98 (Japan) (1998-1-11).bs" size="1048576" crc="725bf3af" md5="4749a582c80c34ed8a2349d7ababce89" sha1="b42e90094e79f5ff50ce367e1e7648d2b3f8f2c1" sha256="01f9622249f1ff9ff24a7c8ffa9205657b2007476f64c3707416050874aad891"/>
 	</game>
-	<game name="Panel de Pon - Event Version 2 (Japan)" id="3636">
-		<description>Panel de Pon - Event Version 2 (Japan)</description>
-		<rom name="Panel de Pon - Event Version 2 (Japan).bs" size="1048576" crc="40812ce4" md5="7728d9d1d7a97dd09f9218e52bb544fc" sha1="864920c1b90b5048fab992c498dc19b07387a088" sha256="b51b68870b43357350de270abe86eacf766f5dd782ae2509903c46207131d1cc"/>
+	<game name="Panel de Pon - Event Version 2 (Japan) (1996-1-28)" id="3636">
+		<category>Games</category>
+		<description>Panel de Pon - Event Version 2 (Japan) (1996-1-28)</description>
+		<rom name="Panel de Pon - Event Version 2 (Japan) (1996-1-28).bs" size="1048576" crc="40812ce4" md5="7728d9d1d7a97dd09f9218e52bb544fc" sha1="864920c1b90b5048fab992c498dc19b07387a088" sha256="b51b68870b43357350de270abe86eacf766f5dd782ae2509903c46207131d1cc"/>
 	</game>
 	<game name="Parlor! Mini 4 - Pachinko Jikki Simulation Game (Japan) (Demo)" id="3786">
 		<category>Demos</category>
@@ -2736,9 +2739,10 @@
 		<description>Zelda no Densetsu - Kamigami no Triforce (Japan) (8-31)</description>
 		<rom name="Zelda no Densetsu - Kamigami no Triforce (Japan) (8-31).bs" size="1048576" crc="e3983ea8" md5="e23766395e5bd56b70129390e05d940a" sha1="417a162247a52944c27f53cde0ffae113c3bd408" sha256="8a1afec2a7ce85933f821c7778986cbf994058012dcaa86183211d06b33e489c"/>
 	</game>
-	<game name="Zootto Mahjong! - Event Version (Japan) (Premiere) (7-22)" id="3437" cloneofid="3748">
-		<description>Zootto Mahjong! - Event Version (Japan) (Premiere) (7-22)</description>
-		<rom name="Zootto Mahjong! - Event Version (Japan) (Premiere) (7-22).bs" size="1048576" crc="5d2c918d" md5="5bdcc9ab284f4f4998b4f577116ac4d5" sha1="ccdef08d2c8ecd500b86a26e75345ca9b3920bf1" sha256="bbe47796b28fdf73cbe488ab79f71caa472202cab658ce027ca7ca875697939b" serial="!none"/>
+	<game name="Zootto Mahjong! - Event Version (Japan) (Premiere) (1998-7-22)" id="3437" cloneofid="3748">
+		<category>Games</category>
+		<description>Zootto Mahjong! - Event Version (Japan) (Premiere) (1998-7-22)</description>
+		<rom name="Zootto Mahjong! - Event Version (Japan) (Premiere) (1998-7-22).bs" size="1048576" crc="5d2c918d" md5="5bdcc9ab284f4f4998b4f577116ac4d5" sha1="ccdef08d2c8ecd500b86a26e75345ca9b3920bf1" sha256="bbe47796b28fdf73cbe488ab79f71caa472202cab658ce027ca7ca875697939b" serial="!none"/>
 	</game>
 	<game name="Zootto Mahjong! - Event Version (Japan) (8-1)" id="3748">
 		<category>Games</category>

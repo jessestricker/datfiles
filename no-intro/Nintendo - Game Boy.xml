@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260312-133352</version>
+		<version>20260314-052418</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -751,6 +751,11 @@
 		<description>Blaster Master Boy (USA) (Beta)</description>
 		<rom name="Blaster Master Boy (USA) (Beta).gb" size="131072" crc="4ea70173" md5="7522878c2206817ec8440d442a65c306" sha1="f568f9c7fe9ef9726d602727beca13d6978cd770"/>
 	</game>
+	<game name="Blaster Master Boy (World) (Evercade)" id="2495" cloneofid="0141">
+		<category>Games</category>
+		<description>Blaster Master Boy (World) (Evercade)</description>
+		<rom name="Blaster Master Boy (World) (Evercade).gb" size="131072" crc="42284c26" md5="c4cd6d4b99e8772eb3790eff78525bdd" sha1="8db7e6ddc8294e7585ff365168131f53db893dff" sha256="3dca209a2bb9fabced213608a769867e5637a19a49e1cd5d5c52a8c58c5c4aa8"/>
+	</game>
 	<game name="Blaster Master Jr. (Europe)" id="0141">
 		<description>Blaster Master Jr. (Europe)</description>
 		<rom name="Blaster Master Jr. (Europe).gb" size="131072" crc="e9f9016f" md5="15d9979ace470a0abf9c83bc1f81dabf" sha1="6a6deae1942e7cf048ce35d18e9540363c226727" sha256="84d6eeaf706185dad3621251ac118e6fd22f3fd6a5c64999d0984bfffaebe196"/>
@@ -848,13 +853,13 @@
 		<description>Bomberman GB 3 (Japan) (SGB Enhanced)</description>
 		<rom name="Bomberman GB 3 (Japan) (SGB Enhanced).gb" size="262144" crc="f658b7a7" md5="3addab2611566ab072fc996f8a81b224" sha1="98a6327639833e1a6696e4acc5ca162388d5f6e1" sha256="604db636c45af3cd1fec52e206701a8969a8a3e610df281f7461769bd86729ea" status="verified"/>
 	</game>
-	<game name="Bonk's Adventure (USA)" id="0158" cloneofid="0077">
-		<description>Bonk's Adventure (USA)</description>
-		<rom name="Bonk's Adventure (USA).gb" size="262144" crc="a7cdbb96" md5="79d6e6515905ec3fbcbd9e50ff469000" sha1="e27d941af0a006c4f5ffd03914265146aa140e2c" sha256="6081309e7f5b63e4f6694965060c68baf82a775eb18e667c2c89898096e6e3d8"/>
-	</game>
 	<game name="Bonk's Adventure (USA) (Beta)" id="1756" cloneofid="0077">
 		<description>Bonk's Adventure (USA) (Beta)</description>
 		<rom name="Bonk's Adventure (USA) (Beta).gb" size="262144" crc="8d706dbc" md5="83747bb1b6245c67241b9002861397b8" sha1="a26006158d90a61d22abf130f05297fd09a09b7c"/>
+	</game>
+	<game name="Bonk's Adventure (USA)" id="0158" cloneofid="0077">
+		<description>Bonk's Adventure (USA)</description>
+		<rom name="Bonk's Adventure (USA).gb" size="262144" crc="a7cdbb96" md5="79d6e6515905ec3fbcbd9e50ff469000" sha1="e27d941af0a006c4f5ffd03914265146aa140e2c" sha256="6081309e7f5b63e4f6694965060c68baf82a775eb18e667c2c89898096e6e3d8"/>
 	</game>
 	<game name="Bonk's Revenge (USA) (SGB Enhanced)" id="0159" cloneofid="0078">
 		<description>Bonk's Revenge (USA) (SGB Enhanced)</description>
@@ -905,6 +910,11 @@
 	<game name="Brain Bender (USA)" id="0174" cloneofid="0173">
 		<description>Brain Bender (USA)</description>
 		<rom name="Brain Bender (USA).gb" size="32768" crc="fbb1f2a1" md5="63bbfce4fb22f4b77e68cc67f02c4b05" sha1="56ff8684284765a56918d14620ad38477aaaf0ad" sha256="49b9422befab1a9fd42cbce25db82a49a59ca2862f9dd903e326dee4e04278cd"/>
+	</game>
+	<game name="Brain Bender (World) (Evercade)" id="2496" cloneofid="0173">
+		<category>Games</category>
+		<description>Brain Bender (World) (Evercade)</description>
+		<rom name="Brain Bender (World) (Evercade).gb" size="32768" crc="aa1618c6" md5="0bba448287e67170bed475e5a31fa9c0" sha1="c2e97d87bd0bf07ede962e0f3dca640320895926" sha256="0ec3ae847461fc03babafa8baa90e5f043a5d2bd280ce312552125ef88def15d"/>
 	</game>
 	<game name="Brain Drain (Europe) (SGB Enhanced)" id="0170">
 		<description>Brain Drain (Europe) (SGB Enhanced)</description>
@@ -1973,13 +1983,18 @@
 		<description>Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<rom name="Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).gb" size="262144" crc="b3fd3e36" md5="ac2cd2a4227b38765f23fb5b72de6229" sha1="1100f259fe30857d1103beb116b888497f6fbdaa" sha256="88861da7b596cdb3fb718810588bd093b490f8dde5b3a2b7a7a79ff0110432ed" status="verified"/>
 	</game>
-	<game name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)" id="0381" cloneofid="1572">
-		<description>FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)</description>
-		<rom name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced).gb" size="524288" crc="cdf6a5ac" md5="3552eada6ea2db722fab1048e3ec654f" sha1="5ef615a919ea967e749febb046f9d097d91fab0d" sha256="4d37b976bb21fb1e7bdeecf6e67e3ae7ee3fd34bb80b10cc921621b92140dee4" status="verified"/>
+	<game name="Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade)" id="2497" cloneofid="0379">
+		<category>Games</category>
+		<description>Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade)</description>
+		<rom name="Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade).gb" size="262144" crc="87e018be" md5="bb120634ef25cfc43d8f31697348ad4e" sha1="775bffc187c225d8de4899d5f1d68901fb64f9db" sha256="9eff4e8a66b85a41715539239378007bd5c687082ec07cb0447453f71082280a"/>
 	</game>
 	<game name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)" id="1572">
 		<description>FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)</description>
 		<rom name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced).gb" size="524288" crc="8dc0d46c" md5="0980a1650ad5e23a27202a58fc792ec8" sha1="8dc3ab8f020e4377af1e1f636396cc3881268a1f" sha256="46bb9d0fdf07f4e5fedf785cb9fc1fd20345dd0f27c6ebed7c360f62acc9137d"/>
+	</game>
+	<game name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)" id="0381" cloneofid="1572">
+		<description>FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)</description>
+		<rom name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced).gb" size="524288" crc="cdf6a5ac" md5="3552eada6ea2db722fab1048e3ec654f" sha1="5ef615a919ea967e749febb046f9d097d91fab0d" sha256="4d37b976bb21fb1e7bdeecf6e67e3ae7ee3fd34bb80b10cc921621b92140dee4" status="verified"/>
 	</game>
 	<game name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)" id="0380">
 		<description>FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)</description>
@@ -5625,6 +5640,11 @@
 		<category>Games</category>
 		<description>Pri Pri - Primitive Princess! (Japan) (En)</description>
 		<rom name="Pri Pri - Primitive Princess! (Japan) (En).gb" size="65536" crc="55da3515" md5="24186cb8ef3210c00b9c227c71b9db73" sha1="fea367a2fc321daeae59746ee2cb7ffafd51479a" sha256="5080f24eaf0f6c21d0e82b315a4e194b6c90d4ce8737844a855c62047cb6fe18" status="verified"/>
+	</game>
+	<game name="Pri Pri - Primitive Princess! (World) (Evercade)" id="2498" cloneofid="1061">
+		<category>Games</category>
+		<description>Pri Pri - Primitive Princess! (World) (Evercade)</description>
+		<rom name="Pri Pri - Primitive Princess! (World) (Evercade).gb" size="65536" crc="a396be57" md5="d6a9f6293c61e31c2962e8b3671809b1" sha1="e0be36278f3c97ccae09f66504e2a106f4c03d43" sha256="d13d09d415c6a772ebf0c6f8e164cee397ced3ee6d23dfe40b15fe69b6903fac"/>
 	</game>
 	<game name="Primal Rage (USA, Europe)" id="1062">
 		<description>Primal Rage (USA, Europe)</description>
