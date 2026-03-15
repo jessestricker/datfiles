@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (27) (2025-11-06 20-09-06)</description>
-		<version>2025-11-06 20-09-06</version>
-		<date>2025-11-06 20-09-06</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (28) (2026-03-15 11-51-32)</description>
+		<version>2026-03-15 11-51-32</version>
+		<date>2026-03-15 11-51-32</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -462,5 +462,27 @@
 		<rom name="Simone (USA) (Unl) (Track 4).bin" size="1573488" crc="a84c047f" md5="9a9ca459f6bb373b30aea490903ea015" sha1="db140c18f00139ac203f274e7f617cf2778682c0"/>
 		<rom name="Simone (USA) (Unl) (Track 5).bin" size="1573488" crc="a84c047f" md5="9a9ca459f6bb373b30aea490903ea015" sha1="db140c18f00139ac203f274e7f617cf2778682c0"/>
 		<rom name="Simone (USA) (Unl) (Track 6).bin" size="1053696" crc="970492a4" md5="a8ab77030c62dd1c0e08411bdec4ba9a" sha1="11b6965967a6738bdf1d11a220d825dcd57496f8"/>
+	</game>
+	<game name="Vid Grid (USA) (Alt)">
+		<category>Games</category>
+		<description>Vid Grid (USA) (Alt)</description>
+		<rom name="Vid Grid (USA) (Alt).cue" size="2033" crc="faf4a7f1" md5="dc4f696344976b3b226b3198aeda7db5" sha1="23ebe9fbee21e477f0e070c0aa8521bd3a957452"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 01).bin" size="2756544" crc="92b6fb37" md5="0444960ed65b7417bb374e9d588e8076" sha1="6e324eb65da1c35c9c4dd2b7e30f547a6c8acb5d"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 02).bin" size="1053696" crc="b4b246b7" md5="c441ad87f2ddfa60d5019512b208731f" sha1="3f16a892cdd9ea82c4435dc3227e4b219bd14cec"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 03).bin" size="1404144" crc="62fa189e" md5="f9eaa8068781f6823a8a904ade913634" sha1="84bda4e91ae1eac4c44228a2df85979a8d39d898"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 04).bin" size="1404144" crc="3e68f851" md5="e44b8367eaf834b84fa10373e658f3b9" sha1="58069a0f122b6892abf7703e5bce3a9da9e8417d"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 05).bin" size="6771408" crc="4c92db80" md5="0d127e570b7143828df8169ecc98c619" sha1="472ba371f3531b03e6398a7e09a33b8b4e52e469"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 06).bin" size="71009232" crc="1fa5f740" md5="af36d6c3449c157954a6aa77251fdcb9" sha1="67c15e9a86eb14487464ee7f053df6fe7d7d08c0"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 07).bin" size="61881120" crc="cdc67ddf" md5="a55e2e9240d6cccd93fa26a02406bfe1" sha1="4fb0fdc66c25f2653cf2763eb3940dce484ad3cd"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 08).bin" size="51174816" crc="ed7d320d" md5="c2b68fc3c50724532698b3b928427081" sha1="c5b943b1ab14ba9048a3770f8a241585b0427d76"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 09).bin" size="62490288" crc="fb6d0d4f" md5="d05d5c638e758ef55e46f4e0a95076b7" sha1="02141adadbee614c5ade7d2293af1ac90cdf329b"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 10).bin" size="128548560" crc="efaad2c4" md5="fd2af18ef03028d98fb6e3d8e83cbcd9" sha1="26f5529a94ac68e0d43e08aabf11eed8a69663af"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 11).bin" size="103565616" crc="f130a687" md5="3510101be810d935e18074f0b5672303" sha1="99e39fde5b460bd46df6bdfb71ab1870301a2c90"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 12).bin" size="52541328" crc="d4e8dd33" md5="eba516fe31dcc4e415c700a54dcb66bb" sha1="93798e95d71a8ac394159601b602feef0ac34e80"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 13).bin" size="60439344" crc="fcf670e5" md5="fd7a1c01a94ad770c9a65c8916914e09" sha1="3803b46df1d5e54dbc64a60a58153f1aa7ef8577"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 14).bin" size="63732144" crc="99476190" md5="f5d220c63c2f7e248479b976de8e35b1" sha1="b90837a11265dc417f5cf3dea99ccc64d356d0cc"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 15).bin" size="57668688" crc="ac7d6d32" md5="7bfb36481f6d18b1892b1626160142ad" sha1="88c6ec034c708c9160c0c730de08c0e0d389fd2e"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 16).bin" size="4595808" crc="35166720" md5="5029c2e3e33cc78295a5928cb8c94a05" sha1="f999428b33789eb40c8dc6d4f0d58cb192d9a5f6"/>
+		<rom name="Vid Grid (USA) (Alt) (Track 17).bin" size="1401792" crc="641c9ad5" md5="d5fed95f765a1faa9464520ebbd48a89" sha1="419daaa6e43fb76816249f3b42d167fc4c5e510d"/>
 	</game>
 </datafile>

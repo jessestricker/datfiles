@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260313-151720</version>
+		<version>20260314-232536</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -419,7 +419,7 @@
 	<game name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)" id="3977">
 		<category>Games</category>
 		<description>BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink)</description>
-		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90" mia="yes"/>
+		<rom name="BS Shin Onigashima - Dai-1-wa (Japan) (12-2) (SoundLink).bs" size="1048576" crc="d53d8fa7" md5="a8f1ce37cf343f4659471f1d5262a80a" sha1="b34c78d095171f68db378927ee21ecccff1617e2" sha256="8f600eef7119b657ee4f09186de79af67effe9450a95831d56fbb41ec19cbc90"/>
 	</game>
 	<game name="BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)" id="0333">
 		<description>BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink)</description>
@@ -564,10 +564,10 @@
 		<description>BS Zelda no Densetsu - Map 2 - Dai-4-wa (Japan) (SoundLink) [b]</description>
 		<rom name="BS Zelda no Densetsu - Map 2 - Dai-4-wa (Japan) (SoundLink) [b].bs" size="1048576" crc="670b51ca" md5="401ae46720b0197f5442a82914cfd6c7" sha1="4a53e22e2b01f55245112da5bdd24aed7a9f7c10" sha256="6a48101f2d10ad04dce3ef06d7e8602887ebeeabf1bb8a8eb766084a34645803" status="baddump"/>
 	</game>
-	<game name="Chaos Seed BS Ban (Japan) (3-11)" id="3734">
+	<game name="Chaos Seed BS Ban (Japan) (1996-3-11)" id="3734">
 		<category>Games</category>
-		<description>Chaos Seed BS Ban (Japan) (3-11)</description>
-		<rom name="Chaos Seed BS Ban (Japan) (3-11).bs" size="1048576" crc="3ef8064b" md5="c9a14af343999edaecfb11c8ee6fcee7" sha1="c8a8b93e74d695d0088a37554cdbba610bb3a425" sha256="4d1133e99a53a205456d4eb37dbb2e82d29acfc391be50ccc30acb847582d311"/>
+		<description>Chaos Seed BS Ban (Japan) (1996-3-11)</description>
+		<rom name="Chaos Seed BS Ban (Japan) (1996-3-11).bs" size="1048576" crc="3ef8064b" md5="c9a14af343999edaecfb11c8ee6fcee7" sha1="c8a8b93e74d695d0088a37554cdbba610bb3a425" sha256="4d1133e99a53a205456d4eb37dbb2e82d29acfc391be50ccc30acb847582d311"/>
 	</game>
 	<game name="Cheap de Gorgeous Vol. 1 (Japan) (Magazine)" id="0414">
 		<description>Cheap de Gorgeous Vol. 1 (Japan) (Magazine)</description>
@@ -1478,11 +1478,11 @@
 		<description>Monopoly 2 BS - Yellow Cup (Japan)</description>
 		<rom name="Monopoly 2 BS - Yellow Cup (Japan).bs" size="1048576" crc="ed1108b5" md5="ecb5522adf03785f3586cd05bdd857a3" sha1="11616e85ec1d7b3c31272f2076e56dfc97e4f3e4" sha256="f6a61eb0b5ebbd18e02412900f82d62cbf0a8585e8732f2ac8833562866c2b1f"/>
 	</game>
-	<game name="Mystic Ark (Japan) (Demo)" id="3745">
+	<game name="Mystic Ark (Japan) (Demo) (1995-6-26)" id="3745">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Mystic Ark (Japan) (Demo)</description>
-		<rom name="Mystic Ark (Japan) (Demo).bs" size="1048576" crc="45297dfd" md5="1524bd960eec5fe7e6dd9ec7233ea84e" sha1="97e94dfe241e454f437fa6f030825cfcd6023c54" sha256="9f0b018019c5a78864fadbf6f905b0aa26b00609b6d5b9c86cf48bc9514ec6e3"/>
+		<description>Mystic Ark (Japan) (Demo) (1995-6-26)</description>
+		<rom name="Mystic Ark (Japan) (Demo) (1995-6-26).bs" size="1048576" crc="45297dfd" md5="1524bd960eec5fe7e6dd9ec7233ea84e" sha1="97e94dfe241e454f437fa6f030825cfcd6023c54" sha256="9f0b018019c5a78864fadbf6f905b0aa26b00609b6d5b9c86cf48bc9514ec6e3"/>
 	</game>
 	<game name="New 3D Golf Simulation - Waialae no Kiseki (Japan)" id="3557">
 		<description>New 3D Golf Simulation - Waialae no Kiseki (Japan)</description>
@@ -1942,11 +1942,11 @@
 		<description>Super Bomberman (Japan) (En) (4-15)</description>
 		<rom name="Super Bomberman (Japan) (En) (4-15).bs" size="1048576" crc="51eca44a" md5="b31225c4721ca623730b2f56c226378d" sha1="5a14246dbad79f1f9a2b93a2e1e1ea2740103784" sha256="506f6ddf4df7709b4fdb56c0ff137be4223071c2c11e2e858bcabcc83854241e"/>
 	</game>
-	<game name="Super Bomberman - Panic Bomber W (Japan) (Demo)" id="3746">
+	<game name="Super Bomberman - Panic Bomber W (Japan) (Demo) (1995-5-1)" id="3746">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Super Bomberman - Panic Bomber W (Japan) (Demo)</description>
-		<rom name="Super Bomberman - Panic Bomber W (Japan) (Demo).bs" size="1048576" crc="2c329bf6" md5="cb0bbe62b77a8ab2a29c842d46aed63b" sha1="6970412d67570f7246d2d1c8dfd3a541be8c2748" sha256="2b5040b507175a6c1eeb5cb2ff5f3079d08292501d8c7c96b6444e07b2f97555"/>
+		<description>Super Bomberman - Panic Bomber W (Japan) (Demo) (1995-5-1)</description>
+		<rom name="Super Bomberman - Panic Bomber W (Japan) (Demo) (1995-5-1).bs" size="1048576" crc="2c329bf6" md5="cb0bbe62b77a8ab2a29c842d46aed63b" sha1="6970412d67570f7246d2d1c8dfd3a541be8c2748" sha256="2b5040b507175a6c1eeb5cb2ff5f3079d08292501d8c7c96b6444e07b2f97555"/>
 	</game>
 	<game name="Super Bomberman 2 (Japan) (En) (8-17)" id="3459">
 		<category>Games</category>

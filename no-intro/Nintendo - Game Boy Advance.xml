@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260314-015846</version>
+		<version>20260314-161424</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7625,7 +7625,7 @@
 	</game>
 	<game name="Mario vs. Donkey Kong (Japan)" id="1506" cloneofid="1753">
 		<description>Mario vs. Donkey Kong (Japan)</description>
-		<rom name="Mario vs. Donkey Kong (Japan).gba" size="16777216" crc="7c2b5269" md5="665f0fd0df241841961123ecf2ca73ba" sha1="5da406ab472e9bcbf8709842731525f8fca35559" status="verified" serial="BM5J"/>
+		<rom name="Mario vs. Donkey Kong (Japan).gba" size="16777216" crc="7c2b5269" md5="665f0fd0df241841961123ecf2ca73ba" sha1="5da406ab472e9bcbf8709842731525f8fca35559" sha256="da676715ec0b9c6c36cd5f3b53c1b5683b0e10c37594fb30052a1df9713b5314" status="verified" serial="BM5J"/>
 	</game>
 	<game name="Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)" id="1753">
 		<description>Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)</description>

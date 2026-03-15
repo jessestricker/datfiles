@@ -4,8 +4,8 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260310-141134</version>
-		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<version>20260314-221425</version>
+		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -3019,6 +3019,10 @@
 	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)" id="z217" cloneofid="5842">
 		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)</description>
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2).nds" size="134217728" crc="39a56711" md5="80ded54dbdcc594f9c9ef5ef5125b37f" sha1="50d388e9f79a2af35c01d12369d23a6a2881c041" serial="CB9J"/>
+	</game>
+	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)" id="z665">
+		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)</description>
+		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1).nds" size="134217728" crc="eaeac3f0" md5="992cab2931a8396f5fc3d21dc708a4a1" sha1="0e99c50dd4db0d1114bba8ff29b17a858480309f" sha256="467c5039e21cf4a93aa098d106f66b665769467cc298a501c98946cd6803f502" serial="CB9J"/>
 	</game>
 	<game name="Bokura no Taiyou - Django &amp; Sabata (Japan)" id="0697" cloneofid="0963">
 		<description>Bokura no Taiyou - Django &amp; Sabata (Japan)</description>
@@ -7483,7 +7487,7 @@
 	</game>
 	<game name="Eiken-ou - 2-kyuu Hen (Japan)" id="2139">
 		<description>Eiken-ou - 2-kyuu Hen (Japan)</description>
-		<rom name="Eiken-ou - 2-kyuu Hen (Japan).nds" size="67108864" crc="875ef10b" md5="a2a2744e0d8fb890bf3c6e3f099fd583" sha1="d51844356fe275e81547ade92f38a0829a910571" serial="YEZJ"/>
+		<rom name="Eiken-ou - 2-kyuu Hen (Japan).nds" size="67108864" crc="1615c559" md5="8cbae165cd7e8b15c7b00edb62effba1" sha1="febed22138448b4f6d6f6b8153c864ce9dffea56" sha256="5931bbf6b9a6329465593bc779877829e619e50630614e666f486ddc7286eb26" serial="YEZJ"/>
 	</game>
 	<game name="Eiken-ou - 3-kyuu Hen (Japan)" id="1262">
 		<description>Eiken-ou - 3-kyuu Hen (Japan)</description>
@@ -19324,6 +19328,10 @@
 	<game name="Nintama Rantarou - Nintama no Tame no Ninjutsu Training (Japan)" id="3584">
 		<description>Nintama Rantarou - Nintama no Tame no Ninjutsu Training (Japan)</description>
 		<rom name="Nintama Rantarou - Nintama no Tame no Ninjutsu Training (Japan).nds" size="67108864" crc="5a60a24e" md5="d304490139273043c761df9a7a59b768" sha1="192f4e6374ee1dba5c763db4b8527232d802e6ee" serial="CR6J"/>
+	</game>
+	<game name="Nintendo DS Browser (Japan) (Rev 1)" id="z666">
+		<description>Nintendo DS Browser (Japan) (Rev 1)</description>
+		<rom name="Nintendo DS Browser (Japan) (Rev 1).nds" size="8388608" crc="1bf036bc" md5="4bd0e922cf96dcceb71436f1022a6df5" sha1="af3bc8ccf0fe9ae28d1bf8eb19fb13b59c8555f2" sha256="b5f30f0124690e9a2b36b9997ee67322054c2a26daa77d7656ddd03a10ae42c3" serial="UBRJ"/>
 	</game>
 	<game name="Nintendo DS Browser (Japan)" id="0506" cloneofid="0591">
 		<description>Nintendo DS Browser (Japan)</description>

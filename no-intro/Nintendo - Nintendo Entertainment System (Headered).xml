@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260314-052625</version>
+		<version>20260315-001756</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1220,10 +1220,10 @@
 		<description>Big Nose and the Witchdoctor (USA) (Beta) (Unl)</description>
 		<rom name="Big Nose and the Witchdoctor (USA) (Beta) (Unl).nes" size="262160" crc="49274b27" md5="c12d0503b1eb37a9554cf019b0d35482" sha1="96ccaa5e4fdbe9f0869a57b3be4bf9ac940d8400" sha256="67e0278cacac5c33fda2af95ee65f71c63e3536b7a8b2cdf49136030727db214" header="4E 45 53 1A 10 00 71 48 00 00 00 07 00 00 00 01"/>
 	</game>
-	<game name="Big Nose Freaks Out (USA) (Unl)" id="0251">
+	<game name="Big Nose Freaks Out (USA, Europe) (Unl)" id="0251">
 		<category>Games</category>
-		<description>Big Nose Freaks Out (USA) (Unl)</description>
-		<rom name="Big Nose Freaks Out (USA) (Unl).nes" size="262160" crc="217dbcc7" md5="ac4263589f8ed612a62db3ea3e9fd689" sha1="2f4e81ea2b08783a5253f1d93d0016c4b993431d" sha256="3a20eb55f21da20de2747749c59b1095ecdca6eb0cf9f3f99f5a772ae24f5ae6" status="verified" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
+		<description>Big Nose Freaks Out (USA, Europe) (Unl)</description>
+		<rom name="Big Nose Freaks Out (USA, Europe) (Unl).nes" size="262160" crc="217dbcc7" md5="ac4263589f8ed612a62db3ea3e9fd689" sha1="2f4e81ea2b08783a5253f1d93d0016c4b993431d" sha256="3a20eb55f21da20de2747749c59b1095ecdca6eb0cf9f3f99f5a772ae24f5ae6" status="verified" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
 	</game>
 	<game name="Big Nose the Caveman (USA) (Unl)" id="0252">
 		<category>Games</category>
@@ -6466,7 +6466,7 @@
 	<game name="Magic Jewelry II (Taiwan) (En) (Unl)" id="1312">
 		<category>Games</category>
 		<description>Magic Jewelry II (Taiwan) (En) (Unl)</description>
-		<rom name="Magic Jewelry II (Taiwan) (En) (Unl).nes" size="65552" crc="39bf73a7" md5="a1c34247035186311c3d005740007f05" sha1="9a8f4ec8200a7b08575a91964dd60d7bd9e7df88" sha256="e5314684a451e9f8f59cfe5afc503868f10f1f7d8e128e9ae91e4c66494a7d85" header="4E 45 53 1A 04 00 81 D8 00 00 00 07 00 00 00 01"/>
+		<rom name="Magic Jewelry II (Taiwan) (En) (Unl).nes" size="65552" crc="39bf73a7" md5="a1c34247035186311c3d005740007f05" sha1="9a8f4ec8200a7b08575a91964dd60d7bd9e7df88" sha256="e5314684a451e9f8f59cfe5afc503868f10f1f7d8e128e9ae91e4c66494a7d85" status="verified" header="4E 45 53 1A 04 00 81 D8 00 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="Magic John (Japan)" id="1313" cloneofid="2347">
 		<description>Magic John (Japan)</description>
@@ -7773,10 +7773,10 @@
 		<description>Pac-Man (USA) (Tengen)</description>
 		<rom name="Pac-Man (USA) (Tengen).nes" size="24592" crc="6e7d8503" md5="4de4b74d41638eabb2afd25cec60a7ea" sha1="aa3d1672d679a5ca8625ebe67ce46d805719d3fe" sha256="e06a095ebc2ed50dccf1f36b6e7ada38d278b17ee3b25fd2a19ecdfed8ea9e7f" status="verified" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Pac-Man (USA, Brazil) (En) (Tengen) (Unl)" id="1631" cloneofid="1626">
+	<game name="Pac-Man (USA) (Tengen) (Unl)" id="1631" cloneofid="1626">
 		<category>Games</category>
-		<description>Pac-Man (USA, Brazil) (En) (Tengen) (Unl)</description>
-		<rom name="Pac-Man (USA, Brazil) (En) (Tengen) (Unl).nes" size="24592" crc="5afe89b5" md5="b66f8d51aefa73612eacab45979eee98" sha1="87a0707b21993b858f3571563e11f9b3cf055aed" sha256="11af20239e48d8c362099ece2ee5e89fd48c8966752e1cb877c3dcabd626ef8e" status="verified" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
+		<description>Pac-Man (USA) (Tengen) (Unl)</description>
+		<rom name="Pac-Man (USA) (Tengen) (Unl).nes" size="24592" crc="5afe89b5" md5="b66f8d51aefa73612eacab45979eee98" sha1="87a0707b21993b858f3571563e11f9b3cf055aed" sha256="11af20239e48d8c362099ece2ee5e89fd48c8966752e1cb877c3dcabd626ef8e" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Pac-Mania (USA) (Unl)" id="1632">
 		<description>Pac-Mania (USA) (Unl)</description>
@@ -15947,10 +15947,10 @@
 		<description>Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)</description>
 		<rom name="Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate).nes" size="786448" crc="520f8bed" md5="a4911840f026f0997fa52ba1ba38fb2b" sha1="28c0e5c58a844133023fa002bc2ececbd129829e" sha256="629a9a18cf9d4846c23388a65b5c68e81186f4a86be8398f1ac3a689a97fe815" header="4E 45 53 1A 10 40 02 28 02 00 70 05 03 00 00 01"/>
 	</game>
-	<game name="Big Nose Freaks Out (USA) (Unl) (Alt)" id="5477" cloneofid="0251">
+	<game name="Big Nose Freaks Out (Unknown) (Unl) (Alt)" id="5477" cloneofid="0251">
 		<category>Games</category>
-		<description>Big Nose Freaks Out (USA) (Unl) (Alt)</description>
-		<rom name="Big Nose Freaks Out (USA) (Unl) (Alt).nes" size="262160" crc="b68a71ca" md5="5a3758a19b078afd14c5e291339be835" sha1="19ed299083c1b4f68ad5e4fecfb8ae0d453790c1" sha256="de1a85b633fa215371b95a36ebcbe57f6870ec2708c6009fa6685fac7f4f6fe7" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
+		<description>Big Nose Freaks Out (Unknown) (Unl) (Alt)</description>
+		<rom name="Big Nose Freaks Out (Unknown) (Unl) (Alt).nes" size="262160" crc="b68a71ca" md5="5a3758a19b078afd14c5e291339be835" sha1="19ed299083c1b4f68ad5e4fecfb8ae0d453790c1" sha256="de1a85b633fa215371b95a36ebcbe57f6870ec2708c6009fa6685fac7f4f6fe7" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
 	</game>
 	<game name="Block Force (Taiwan) (En) (Unl)" id="5334" cloneofid="1758">
 		<category>Games</category>
@@ -19936,11 +19936,11 @@
 		<description>Overlord (USA) (Beta)</description>
 		<rom name="Overlord (USA) (Beta).nes" size="262160" crc="b67acc2a" md5="b0e3f9b203a95d6cbb4d9b6d314ea227" sha1="7f3eb5d7fd40a0e94a17b336be627d7920a0c27e" sha256="09cd110ed9bc3279b9976f2b69054c2b9339e870ac10e3f0547fdda3083d1c0e" header="4E 45 53 1A 10 00 12 08 00 00 70 07 00 00 00 01"/>
 	</game>
-	<game name="Pac-Man (USA) (Beta) (Tengen)" id="7573" cloneofid="1626">
+	<game name="Pac-Man (USA) (Beta 1) (Tengen) (Unl)" id="7573" cloneofid="1626">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pac-Man (USA) (Beta) (Tengen)</description>
-		<rom name="Pac-Man (USA) (Beta) (Tengen).nes" size="24592" crc="92ea05d5" md5="04bd124c18880b2e35c583131904a3e0" sha1="93f03f35f41692f4b37562f3db1e5f5ec5ac0c03" sha256="b1f07c926a9bfc5c2eee4cb0528792635459e219ab1b680eac874465be99b122" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
+		<description>Pac-Man (USA) (Beta 1) (Tengen) (Unl)</description>
+		<rom name="Pac-Man (USA) (Beta 1) (Tengen) (Unl).nes" size="24592" crc="92ea05d5" md5="04bd124c18880b2e35c583131904a3e0" sha1="93f03f35f41692f4b37562f3db1e5f5ec5ac0c03" sha256="b1f07c926a9bfc5c2eee4cb0528792635459e219ab1b680eac874465be99b122" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Pajama Hero - Nemo (Japan) (Beta)" id="7574" cloneofid="1272">
 		<category>Games</category>
@@ -20379,7 +20379,7 @@
 	<game name="9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate)" id="8144">
 		<category>Games</category>
 		<description>9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate)</description>
-		<rom name="9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate).nes" size="196624" crc="80d9b5e8" md5="3b1144a78115fe8566fecfaef0d37948" sha1="a39a1d8bd7b38f3de27a14d007f25251d12b7431" sha256="9102fa948f9591fcb283e390ffb543ebf543b32e57c3579e616013f3bd11663d" header="4E 45 53 1A 08 08 B0 38 00 00 00 00 00 00 00 2A"/>
+		<rom name="9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate).nes" size="196624" crc="80d9b5e8" md5="3b1144a78115fe8566fecfaef0d37948" sha1="a39a1d8bd7b38f3de27a14d007f25251d12b7431" sha256="9102fa948f9591fcb283e390ffb543ebf543b32e57c3579e616013f3bd11663d" status="verified" header="4E 45 53 1A 08 08 B0 38 00 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="999999999-in-1 (Asia) (En) (Pirate)" id="8148">
 		<category>Games</category>
@@ -20504,6 +20504,11 @@
 		<description>Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (Pirate)</description>
 		<rom name="Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (Pirate).nes" size="262160" crc="5ea778c1" md5="fc9e6bdbac8b55a8506ae812b77c99b1" sha1="b64d8862135a4af5f17f4d58f9b7f4bdb16e68fd" sha256="9adf4f1ffeba757ab4f2290eaaf55f70d075f3e38a7124163c4a745fbc89c1ca" header="4E 45 53 1A 08 10 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
+	<game name="Dr. Mario (Asia) (En) (VT605) (Pirate)" id="8464" cloneofid="0581">
+		<category>Games</category>
+		<description>Dr. Mario (Asia) (En) (VT605) (Pirate)</description>
+		<rom name="Dr. Mario (Asia) (En) (VT605) (Pirate).nes" size="49168" crc="a3ecbd30" md5="6d007b84c0af1268a25d8609de510d86" sha1="e1729c1ea1b2cbc0497d3566a267631ed60c3038" sha256="27021ad05582c7f25df99ca3da29f8cbde6f9f0f7e5991188bbf20912c44ed24" header="4E 45 53 1A 02 02 30 08 10 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Dragon, The (Asia) (En,Ar) (Extract) (Pirate)" id="8282">
 		<category>Games</category>
 		<description>Dragon, The (Asia) (En,Ar) (Extract) (Pirate)</description>
@@ -20514,6 +20519,12 @@
 		<category>Preproduction</category>
 		<description>Dropzone (USA) (Proto) (1992-10-06)</description>
 		<rom name="Dropzone (USA) (Proto) (1992-10-06).nes" size="65552" crc="9490046a" md5="b1c73d04c7e57cab8d72e6a138e1d121" sha1="50b8fc6674a7b02d012c9f23b18d301f6dfe98cb" sha256="baf28c1e5abc51fed8e63ef81d73aca75c75fb92c88f64b3ea0942af55588d9b" header="4E 45 53 1A 02 04 31 08 20 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Dudes II (USA) (Proto) (Unl)" id="8459" cloneofid="2371">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dudes II (USA) (Proto) (Unl)</description>
+		<rom name="Dudes II (USA) (Proto) (Unl).nes" size="65552" crc="93930b5f" md5="a55ea7424019b921bf25548ca634f653" sha1="9d79b13426d84a81c296c4613393fd8be168a373" sha256="d3c33f9ca5ab766a329b5bce5e56cbbd85dfdeed1fb7abf058ae67d73334b9ff" header="4E 45 53 1A 02 04 F0 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Elevator Action (Taiwan) (En) (Pirate)" id="8032" cloneofid="0650">
 		<category>Games</category>
@@ -20671,6 +20682,12 @@
 		<description>Kinnikuman - Muscle Tag Match (Taiwan) (En) (Pirate)</description>
 		<rom name="Kinnikuman - Muscle Tag Match (Taiwan) (En) (Pirate).nes" size="24592" crc="19e4ba3c" md5="0df2ded7dfe945038796feac815342d1" sha1="d2b153118ee4b29ae487cf93ce10e93c7ff38b13" sha256="9b9c3bf8836f62ab3195949db477a3933eebd7615cafe64c2aeab506be932f17" header="4E 45 53 1A 01 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
+	<game name="Krazy Kreatures (USA) (Beta) (Unl)" id="8460" cloneofid="1214">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Krazy Kreatures (USA) (Beta) (Unl)</description>
+		<rom name="Krazy Kreatures (USA) (Beta) (Unl).nes" size="40976" crc="8f3f8c00" md5="4f2f27a802b8549a14889c57be85adde" sha1="7705289cfe97ad7fa722e3a7d32dd7d05bbc48ac" sha256="919d4ee68769e755ed4e824429193b58ca98e396c1479a6a0d43e8572ace98cf" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Kyuukyoku Harikiri Stadium (Japan) (Beta)" id="8101" cloneofid="1231">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -20697,6 +20714,12 @@
 		<category>Games</category>
 		<description>Magic Madness (Asia) (En) (Extract) (Pirate)</description>
 		<rom name="Magic Madness (Asia) (En) (Extract) (Pirate).nes" size="40976" crc="2c12b20f" md5="c4af3a5de09fe15a17acdbe0ed2789ce" sha1="dbae750650df930f88d1f98bfdacd8788d93d68b" sha256="078f394f1a9f217ec053f97b1b101ef26f28077443223b747e659e30268f5a20" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Magical Puzzle Popils (USA) (Proto) (Unl) [b]" id="8463">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Magical Puzzle Popils (USA) (Proto) (Unl) [b]</description>
+		<rom name="Magical Puzzle Popils (USA) (Proto) (Unl) [b].nes" size="196624" crc="adcb1a59" md5="fbfc027b618c7a05c00f15efb0186a6f" sha1="b0c274e4e45261843091eb09a3d823d43fa0ee54" sha256="c962c413c2166092d47e0d00af518ebe81a04630c55d47ab0031df53c7294c14" status="baddump" header="4E 45 53 1A 08 08 43 08 00 00 77 00 00 00 00 01"/>
 	</game>
 	<game name="Mario Fighter III (Asia) (En) (Pirate) (Alt)" id="8047" cloneofid="5539">
 		<description>Mario Fighter III (Asia) (En) (Pirate) (Alt)</description>
@@ -20788,6 +20811,12 @@
 		<description>Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate)</description>
 		<rom name="Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate).nes" size="1048592" crc="b52b8ca3" md5="14260131eba4bdcc19e7250c154fd8d9" sha1="b0e2f337d3ed3fb858b13252284963d0740c8bf4" sha256="fb87e19df3f0f49016cb0dabe2972a8a78df3d5188cb975916d7049bbbe69784" header="4E 45 53 1A 20 40 B0 B8 00 00 00 00 02 00 00 01"/>
 	</game>
+	<game name="Pac-Man (USA) (Beta 2) (Unl)" id="8461" cloneofid="1626">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pac-Man (USA) (Beta 2) (Unl)</description>
+		<rom name="Pac-Man (USA) (Beta 2) (Unl).nes" size="24592" crc="39fc8e46" md5="a4e5cd0b6e84eac76180eb07b4e0e8c5" sha1="523fb8d20c87f1edc7036fa32b16ac11a7547f4b" sha256="df0a46297b9c3703ffafff1b7194e31f4b0ff23817770d0f3a9f8e9f5ca2828f" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Pikachu (Asia) (En) (Pirate)" id="8048" cloneofid="2310">
 		<category>Games</category>
 		<description>Pikachu (Asia) (En) (Pirate)</description>
@@ -20824,6 +20853,12 @@
 		<category>Games</category>
 		<description>Pokemon Green (Asia) (En) (Pirate)</description>
 		<rom name="Pokemon Green (Asia) (En) (Pirate).nes" size="262160" crc="fa616956" md5="257ab52361f408f20a65cc01e1e24cc4" sha1="638bd2ee220481bc12b6883dd565722e4f0ea82d" sha256="dc9ac6b934c58031c67a13fdef0df0e841804c7adbbfe4e69c1379bab093fab1" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Police Academy (USA) (Proto) (Unl)" id="8462">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Police Academy (USA) (Proto) (Unl)</description>
+		<rom name="Police Academy (USA) (Proto) (Unl).nes" size="262160" crc="b642dc00" md5="dc9877235d1b56a46ee8f573b0c94943" sha1="92b40e45808bbbed3a87c8fbd63c11d5868130f3" sha256="ef21f486fda6e1db0428d1bdacd5dd09303ca8b9d435d79c189dfd74997958a1" header="4E 45 53 1A 08 10 00 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315" cloneofid="1743">
 		<category>Games</category>
@@ -20926,6 +20961,11 @@
 		<category>Games</category>
 		<description>Super 1998 3-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Super 1998 3-in-1 (Asia) (En) (Pirate).nes" size="1048592" crc="db11bba5" md5="1bd7e2398d682066e6b8eb4b5432ef84" sha1="328c6e7a259a7f9bf4999adbede3bfb0ee90787c" sha256="ca91a34426e640aa7ea57c6500c33980f498ca6d7977d0bbc618def107290b75" header="4E 45 53 1A 20 40 40 38 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Super 1999 Spider-Man 3 (Asia) (En) (KT2001) (Pirate)" id="8465" cloneofid="2058">
+		<category>Games</category>
+		<description>Super 1999 Spider-Man 3 (Asia) (En) (KT2001) (Pirate)</description>
+		<rom name="Super 1999 Spider-Man 3 (Asia) (En) (KT2001) (Pirate).nes" size="262160" crc="cec4ab93" md5="1090851cbd324cc9bf72f498239d9bb6" sha1="4ed9d48f059de9bda42011d2aba9a8db57459eee" sha256="924f3f50eee452075b5344e5a2cb645fc50ff0524f3c6d61727c4af62ef4eef7" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Super 29-in-1 (Asia) (En) (Pirate)" id="8135">
 		<category>Games</category>

@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260223-082329</version>
+		<version>20260315-000324</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -49,10 +49,12 @@
 		<rom name="007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15).v64" size="16777216" crc="24899739" md5="a452429d799f2ce07207243109d265aa" sha1="a9e82cd9104d97411e8a14b722f1c6ac7a803a8e" sha256="bdc8f64667c59339103d02c2c07927f88e0c4a2e0d117b8d8dd593cf533a9c41" serial="NM4E"/>
 	</game>
 	<game name="1080 Snowboarding (Europe) (En,Ja,Fr,De)" id="0006">
+		<category>Games</category>
 		<description>1080 Snowboarding (Europe) (En,Ja,Fr,De)</description>
 		<rom name="1080 Snowboarding (Europe) (En,Ja,Fr,De).v64" size="16777216" crc="b0256101" md5="f58b3055a2c642fb2f563f11b6b597ea" sha1="da7bcb78cf78333d7515b77f676fd45473b5b506" status="verified" serial="NTEP"/>
 	</game>
 	<game name="1080 Snowboarding (Japan, USA) (En,Ja)" id="0007" cloneofid="0006">
+		<category>Games</category>
 		<description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
 		<rom name="1080 Snowboarding (Japan, USA) (En,Ja).v64" size="16777216" crc="d1744951" md5="18381c8f37e2b29f5940eea9b5f96814" sha1="5f837c13a2fb3c8cdfd6fb720bd4a963ab515632" status="verified" serial="NTEA"/>
 	</game>
@@ -213,14 +215,17 @@
 		<rom name="All Star Tennis 99 (USA).v64" size="8388608" crc="7326e6c9" md5="1714f404f1ad75ec85d237e8d4d2362c" sha1="2655af06374c3ca9f8a40a76f7f9fc6e1044b576" sha256="bcb11b1ee1aee6cc6dffbfe09b16607f8ab75d6dcd7b0b79879f85275b82fbb3" serial="NTNE"/>
 	</game>
 	<game name="All-Star Baseball 2000 (Europe)" id="0038">
+		<category>Games</category>
 		<description>All-Star Baseball 2000 (Europe)</description>
 		<rom name="All-Star Baseball 2000 (Europe).v64" size="16777216" crc="15f18cae" md5="cbd9e7e9ba8204029b52b972836668ac" sha1="eff8ce1b3efd9c0ada98838715c10633f0e6f4f9" status="verified" serial="NBEP"/>
 	</game>
 	<game name="All-Star Baseball 2000 (USA)" id="0039" cloneofid="0038">
+		<category>Games</category>
 		<description>All-Star Baseball 2000 (USA)</description>
 		<rom name="All-Star Baseball 2000 (USA).v64" size="16777216" crc="15063eac" md5="984528194ca782d74a92cb8c0ea42358" sha1="c0d574af5c3523a4a804182b4d6465212fd9ee29" sha256="b2448dac9637b008b5fb969a1ff2565cd1c8c2a0cc8842558afdf9c632a794da" serial="NBEE"/>
 	</game>
 	<game name="All-Star Baseball 2001 (USA)" id="0040">
+		<category>Games</category>
 		<description>All-Star Baseball 2001 (USA)</description>
 		<rom name="All-Star Baseball 2001 (USA).v64" size="16777216" crc="3e8be0e0" md5="d00d67475255a3043394c23b7cf978a3" sha1="353ad679666287988a0e645851ee01eff2048449" serial="NASE"/>
 	</game>
@@ -233,18 +238,22 @@
 		<rom name="All-Star Baseball 99 (USA).v64" size="12582912" crc="82b7e47d" md5="9b9631fd0cd2b7c434057902b78e5a03" sha1="6d01a4986311a4486b4b0be029658e8df63f4ee4" serial="NBSE"/>
 	</game>
 	<game name="Armorines - Project S.W.A.R.M. (Europe)" id="0041">
+		<category>Games</category>
 		<description>Armorines - Project S.W.A.R.M. (Europe)</description>
 		<rom name="Armorines - Project S.W.A.R.M. (Europe).v64" size="16777216" crc="33332c57" md5="3f2a78a8e70c6392b73dd2491db2b6e4" sha1="38e0cafcbecddd2f2cf46f1cdbb0be6f8582402f" status="verified" serial="NARP"/>
 	</game>
 	<game name="Armorines - Project S.W.A.R.M. (Germany)" id="0042" cloneofid="0041">
+		<category>Games</category>
 		<description>Armorines - Project S.W.A.R.M. (Germany)</description>
 		<rom name="Armorines - Project S.W.A.R.M. (Germany).v64" size="16777216" crc="43a6829d" md5="e159da0f67964f136e793872b79956d3" sha1="3479266909bcbfa928f67e967bdae789c20895e1" serial="NARD"/>
 	</game>
 	<game name="Armorines - Project S.W.A.R.M. (USA)" id="0043" cloneofid="0041">
+		<category>Games</category>
 		<description>Armorines - Project S.W.A.R.M. (USA)</description>
 		<rom name="Armorines - Project S.W.A.R.M. (USA).v64" size="16777216" crc="950985f6" md5="1655f81b5987234481ea96bb9e964d38" sha1="a9c1319c582668b9afc7807dcd59f68d09b5317e" sha256="c9abbad032541d5a19768d7be7755669873fe303cf7b4dd0610bffd2837aef14" status="verified" serial="NARE"/>
 	</game>
 	<game name="Army Men - Air Combat (USA)" id="0044">
+		<category>Games</category>
 		<description>Army Men - Air Combat (USA)</description>
 		<rom name="Army Men - Air Combat (USA).v64" size="8388608" crc="2355e4f3" md5="7e57b116c3d0740b7b8f873bd007f4dc" sha1="52f4722cbf3ded8e55a62471fbc5a6cf07f4fd5d" serial="NACE"/>
 	</game>
