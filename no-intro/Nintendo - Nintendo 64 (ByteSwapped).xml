@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260315-000324</version>
+		<version>20260315-015921</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -58,10 +58,10 @@
 		<description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
 		<rom name="1080 Snowboarding (Japan, USA) (En,Ja).v64" size="16777216" crc="d1744951" md5="18381c8f37e2b29f5940eea9b5f96814" sha1="5f837c13a2fb3c8cdfd6fb720bd4a963ab515632" status="verified" serial="NTEA"/>
 	</game>
-	<game name="1080 Snowboarding (USA) (En,Ja) (LodgeNet)" id="1136" cloneofid="0006">
+	<game name="1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet)" id="1136" cloneofid="0006">
 		<category>Games</category>
-		<description>1080 Snowboarding (USA) (En,Ja) (LodgeNet)</description>
-		<rom name="1080 Snowboarding (USA) (En,Ja) (LodgeNet).v64" size="16777216" crc="4f5e35d9" md5="9ac2e60a1111c03c3dbed3845e55cd52" sha1="d74e47810eaa94929406004e82eceabc3dc70fe5"/>
+		<description>1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet)</description>
+		<rom name="1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet).v64" size="16777216" crc="4f5e35d9" md5="9ac2e60a1111c03c3dbed3845e55cd52" sha1="d74e47810eaa94929406004e82eceabc3dc70fe5"/>
 	</game>
 	<game name="3D Model RGB Test Program (USA) (Test Program)" id="1071">
 		<description>3D Model RGB Test Program (USA) (Test Program)</description>
@@ -128,26 +128,32 @@
 		<rom name="Action Replay Pro 64 (Europe) (v3.3) (Unl).bin" size="262144" crc="9fbabfda" md5="67afa5df80a5cfc91fce1dc918ea0a4f" sha1="c3426114f5da1fb7abde15a766d362698ad07166" sha256="92c25b26356ec21aa9d903da3b76ef2e0d49d97701d4b5ff41f1f3b6aefb4909"/>
 	</game>
 	<game name="AeroFighters Assault (Europe) (En,Fr,De)" id="0021">
+		<category>Games</category>
 		<description>AeroFighters Assault (Europe) (En,Fr,De)</description>
 		<rom name="AeroFighters Assault (Europe) (En,Fr,De).v64" size="12582912" crc="e493e46c" md5="35c77035bff9e20c3ee805ce5583e6b5" sha1="7849993e61d690dece9c5524ce2831d7b2340f34" status="verified" serial="NSAP"/>
 	</game>
 	<game name="AeroFighters Assault (USA)" id="0022" cloneofid="0021">
+		<category>Games</category>
 		<description>AeroFighters Assault (USA)</description>
 		<rom name="AeroFighters Assault (USA).v64" size="8388608" crc="b08ef0b9" md5="adee8c02a192470a3fe09418d7ea7aef" sha1="de542f002e4f08cfdac19dec57f5bbaea6edeafe" sha256="03c105333c722450359ddde439a8afdb1db1fe684a71c778232cd74fab15953d" serial="NERE"/>
 	</game>
 	<game name="AeroGauge (Europe) (En,Fr,De)" id="0023">
+		<category>Games</category>
 		<description>AeroGauge (Europe) (En,Fr,De)</description>
 		<rom name="AeroGauge (Europe) (En,Fr,De).v64" size="8388608" crc="d8ca6c8e" md5="45aa24b9c09f007590cef795ebb67a94" sha1="1645ccf3c77d41b70ba7f3a6c7155ec819728cf0" status="verified" serial="NAGP"/>
 	</game>
 	<game name="AeroGauge (Japan) (Demo) (Kiosk)" id="0024" cloneofid="0023">
+		<category>Games</category>
 		<description>AeroGauge (Japan) (Demo) (Kiosk)</description>
 		<rom name="AeroGauge (Japan) (Demo) (Kiosk).v64" size="8388608" crc="4ba2a495" md5="a9e3a990be71328800426ff716067e7d" sha1="e6bb91d367911fdc7e858a7614560ffce1758aec" serial="NAGJ"/>
 	</game>
 	<game name="AeroGauge (Japan) (Rev 1)" id="0025" cloneofid="0023">
+		<category>Games</category>
 		<description>AeroGauge (Japan) (Rev 1)</description>
 		<rom name="AeroGauge (Japan) (Rev 1).v64" size="8388608" crc="1a5f6c19" md5="d92e3e7b6dd2daf31d112a12315cb801" sha1="dfb171caa0091bd36526641d252839c0e72b616c" serial="NAGJ"/>
 	</game>
 	<game name="AeroGauge (USA)" id="0026" cloneofid="0023">
+		<category>Games</category>
 		<description>AeroGauge (USA)</description>
 		<rom name="AeroGauge (USA).v64" size="8388608" crc="04038cb8" md5="4766856942945eaa9cf521937be5fee3" sha1="204df59cbd065e39cadccc23a68e08ae212546d0" serial="NAGE"/>
 	</game>
@@ -156,10 +162,12 @@
 		<rom name="AI Shougi 3 (Japan).v64" size="8388608" crc="43022243" md5="9b469746eb02588f9a2273a6bdec33c9" sha1="0acf1f83ba14dbe2edbae454eea04caf2cc0030a" serial="NS3J"/>
 	</game>
 	<game name="Aidyn Chronicles - The First Mage (Europe)" id="0028">
+		<category>Games</category>
 		<description>Aidyn Chronicles - The First Mage (Europe)</description>
 		<rom name="Aidyn Chronicles - The First Mage (Europe).v64" size="33554432" crc="9dc07fc0" md5="13b3b8ac219f8a57783bc1779df02901" sha1="dd8867a3b33c897fa9e7e1742c4bc0df1207cfa8" status="verified" serial="NAYP"/>
 	</game>
 	<game name="Aidyn Chronicles - The First Mage (USA)" id="0029" cloneofid="0028">
+		<category>Games</category>
 		<description>Aidyn Chronicles - The First Mage (USA)</description>
 		<rom name="Aidyn Chronicles - The First Mage (USA).v64" size="33554432" crc="8da62304" md5="08d66e903c0dc4eb9736b0dd853fab51" sha1="32ef42e143b74cb957a88ddb9249af13b15b45e7" sha256="87c5b2c085a267f5a838df741777f368c389399daa14c666d1182bde2a058c3a" serial="NAYE"/>
 	</game>
@@ -207,10 +215,12 @@
 		<rom name="Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).v64" size="16777216" crc="420ce37b" md5="7cb2782769f9b834b5948d316ef83cd6" sha1="10b15a7ceb6d56720ddd7755dac6102832407110" serial="ND4J"/>
 	</game>
 	<game name="All Star Tennis '99 (Europe) (En,Fr,De,Es,It)" id="0034">
+		<category>Games</category>
 		<description>All Star Tennis '99 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="All Star Tennis '99 (Europe) (En,Fr,De,Es,It).v64" size="8388608" crc="e718347d" md5="e302824280fa6af35fcc9ba079abfbcd" sha1="85d2b8ded8d2a6d9bbf1cf80c9a0422fb338fd63" status="verified" serial="NTNP"/>
 	</game>
 	<game name="All Star Tennis 99 (USA)" id="0035" cloneofid="0034">
+		<category>Games</category>
 		<description>All Star Tennis 99 (USA)</description>
 		<rom name="All Star Tennis 99 (USA).v64" size="8388608" crc="7326e6c9" md5="1714f404f1ad75ec85d237e8d4d2362c" sha1="2655af06374c3ca9f8a40a76f7f9fc6e1044b576" sha256="bcb11b1ee1aee6cc6dffbfe09b16607f8ab75d6dcd7b0b79879f85275b82fbb3" serial="NTNE"/>
 	</game>
@@ -230,10 +240,12 @@
 		<rom name="All-Star Baseball 2001 (USA).v64" size="16777216" crc="3e8be0e0" md5="d00d67475255a3043394c23b7cf978a3" sha1="353ad679666287988a0e645851ee01eff2048449" serial="NASE"/>
 	</game>
 	<game name="All-Star Baseball 99 (Europe)" id="0036">
+		<category>Games</category>
 		<description>All-Star Baseball 99 (Europe)</description>
 		<rom name="All-Star Baseball 99 (Europe).v64" size="12582912" crc="cecd29a6" md5="d6a5d897fec2605e3366615caef19eb2" sha1="47272c40a13e42e6400c6e1221173f6bd07205bd" status="verified" serial="NBSP"/>
 	</game>
 	<game name="All-Star Baseball 99 (USA)" id="0037" cloneofid="0036">
+		<category>Games</category>
 		<description>All-Star Baseball 99 (USA)</description>
 		<rom name="All-Star Baseball 99 (USA).v64" size="12582912" crc="82b7e47d" md5="9b9631fd0cd2b7c434057902b78e5a03" sha1="6d01a4986311a4486b4b0be029658e8df63f4ee4" serial="NBSE"/>
 	</game>
@@ -3595,6 +3607,7 @@
 		<rom name="Snowboard Kids 2 (USA).v64" size="16777216" crc="ca84aace" md5="ded8648106f16417c01b4cc68986e97b" sha1="7a195b4d0d03ce1c7c4fd0d13b1be2e97d20000c" serial="NK2E"/>
 	</game>
 	<game name="Sonic Wings Assault (Japan)" id="0671" cloneofid="0021">
+		<category>Games</category>
 		<description>Sonic Wings Assault (Japan)</description>
 		<rom name="Sonic Wings Assault (Japan).v64" size="8388608" crc="1d8f9d5e" md5="b8a13663741ebc6a38249c31462f7a8d" sha1="fb3e2be4927cf3fb39cce031004ff3420023eec5" serial="NSAJ"/>
 	</game>

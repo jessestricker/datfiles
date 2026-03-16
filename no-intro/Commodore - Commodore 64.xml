@@ -4,7 +4,7 @@
 		<id>42</id>
 		<name>Commodore - Commodore 64</name>
 		<description>Commodore - Commodore 64</description>
-		<version>20250403-112320</version>
+		<version>20260315-021650</version>
 		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -252,9 +252,19 @@
 		<description>Big Bird's Special Delivery (USA, Europe)</description>
 		<rom name="Big Bird's Special Delivery (USA, Europe).crt" size="16464" crc="efb293d1" md5="cf41d62f41e5bd4c8f25fb22329bb040" sha1="1f946dcf964e69ab4d2939ed829627e8236301d8"/>
 	</game>
+	<game name="Bis Plus Cartridge (Poland) (En) (Program) (2K)" id="0350">
+		<category>Applications</category>
+		<description>Bis Plus Cartridge (Poland) (En) (Program) (2K)</description>
+		<rom name="Bis Plus Cartridge (Poland) (En) (Program) (2K).crt" size="2128" crc="2a8d3c9a" md5="ab34fa8c2d6544cc441762f9b52cb8d9" sha1="5bc08340601a3e4c7c3347e3e4d6ef6cdc5c5cc3" sha256="c5dd8eef24216c0facc19e329649de2ea5ffd560867420ba49e2dbcd42f58d86"/>
+	</game>
 	<game name="Black Box (USA, Europe) (v2.0) (Program)" id="0058">
 		<description>Black Box (USA, Europe) (v2.0) (Program)</description>
 		<rom name="Black Box (USA, Europe) (v2.0) (Program).crt" size="16464" crc="c233227d" md5="c4ec35229764ea130d6259e7f3f7324d" sha1="8b5580c6c212599c70ef0b1243e18137ad8fdaa5"/>
+	</game>
+	<game name="Black Box 4 (Poland) (De,Pl) (Program)" id="0349" cloneofid="0058">
+		<category>Applications</category>
+		<description>Black Box 4 (Poland) (De,Pl) (Program)</description>
+		<rom name="Black Box 4 (Poland) (De,Pl) (Program).crt" size="16464" crc="acf05b01" md5="f46a1492134596738841254ea8312684" sha1="bd8f6e1921efcdcee2f3a511f74c6108c5400911" sha256="ac601fe9ecab1d28d456f816b915a9fb6dca4c98f3efc208fe93db6ff3d40961"/>
 	</game>
 	<game name="Blueprint (USA, Europe)" id="0138">
 		<description>Blueprint (USA, Europe)</description>
@@ -1260,6 +1270,11 @@
 	<game name="Trashman (USA, Europe)" id="0310">
 		<description>Trashman (USA, Europe)</description>
 		<rom name="Trashman (USA, Europe).crt" size="8272" crc="f03b154d" md5="a48159e2ce7cb5b792358595a79682be" sha1="3b7f6de9f0f41594c3dd3d24b2659bb2b16674fe"/>
+	</game>
+	<game name="Turbo Cartridge C64-128 (Poland) (Program)" id="0348">
+		<category>Applications</category>
+		<description>Turbo Cartridge C64-128 (Poland) (Program)</description>
+		<rom name="Turbo Cartridge C64-128 (Poland) (Program).crt" size="4176" crc="c9935521" md5="2d0e39d2cb8016ee1f56924526cbd766" sha1="dc8b2cf66d5a14b45cdb52c4a119c7a1371ed149" sha256="78148d6e9faca6cb1f3278c4c26f2164d26c3613bf91beac45eeeab16b627963"/>
 	</game>
 	<game name="Turbo Maze Man (USA, Europe)" id="0311">
 		<description>Turbo Maze Man (USA, Europe)</description>

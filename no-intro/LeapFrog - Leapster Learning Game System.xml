@@ -4,7 +4,7 @@
 		<id>80</id>
 		<name>LeapFrog - Leapster Learning Game System</name>
 		<description>LeapFrog - Leapster Learning Game System</description>
-		<version>20250122-131709</version>
+		<version>20260315-132252</version>
 		<author>C. V. Reynolds, Connie, FakeShemp, nnssxx, relax, SonGoku, TeamEurope, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20,7 +20,7 @@
 	</game>
 	<game name="Adibou - A la recherche de Robitoc (France)" id="0087">
 		<description>Adibou - A la recherche de Robitoc (France)</description>
-		<rom name="Adibou - A la recherche de Robitoc (France).bin" size="8388608" crc="b0ba6d76" md5="1ea2903a327963e0dbf99a7f59572dd9" sha1="d5bf632b9c2a7850f9a6e1ce855ac48af366f859"/>
+		<rom name="Adibou - A la recherche de Robitoc (France).bin" size="8388608" crc="b0ba6d76" md5="1ea2903a327963e0dbf99a7f59572dd9" sha1="d5bf632b9c2a7850f9a6e1ce855ac48af366f859" status="verified"/>
 	</game>
 	<game name="Animal Genius (USA)" id="0051">
 		<description>Animal Genius (USA)</description>
@@ -71,7 +71,7 @@
 	</game>
 	<game name="Cars (France)" id="0084" cloneofid="0030">
 		<description>Cars (France)</description>
-		<rom name="Cars (France).bin" size="8388608" crc="b6aabb7b" md5="ff1dfccc895528fcfe58129225252b4f" sha1="82cc91536be8c18c10089c4ad85b9a82e63b824b"/>
+		<rom name="Cars (France).bin" size="8388608" crc="b6aabb7b" md5="ff1dfccc895528fcfe58129225252b4f" sha1="82cc91536be8c18c10089c4ad85b9a82e63b824b" status="verified"/>
 	</game>
 	<game name="Cars - Supercharged (USA)" id="0016">
 		<description>Cars - Supercharged (USA)</description>
@@ -105,6 +105,11 @@
 	<game name="Demo - Herbst 2004 II (Germany)" id="0006">
 		<description>Demo - Herbst 2004 II (Germany)</description>
 		<rom name="Demo - Herbst 2004 II (Germany).bin" size="8388608" crc="71062cd7" md5="707a056024348a835d8c915a8fe8788e" sha1="eaf0656d29f61d89b97c6d66e73a2fa7021a92e3"/>
+	</game>
+	<game name="Didou - Dessine-Moi une Aventure ! (France)" id="0116">
+		<category>Games</category>
+		<description>Didou - Dessine-Moi une Aventure ! (France)</description>
+		<rom name="Didou - Dessine-Moi une Aventure ! (France).bin" size="8388608" crc="5a66a307" md5="9a80bf94273b9e0848a9292d1d7bafe9" sha1="ac880e02c5ef164a9de918bdd76bc74886b35daf" sha256="15f40124fdbfe623ea4128dd47324a183627b652cd768bcf3835fe7a0695746f"/>
 	</game>
 	<game name="Digging for Dinosaurs (USA)" id="0019">
 		<description>Digging for Dinosaurs (USA)</description>
@@ -158,11 +163,11 @@
 	</game>
 	<game name="Dora L'exploratrice - Le pont casse (France)" id="0080" cloneofid="0065">
 		<description>Dora L'exploratrice - Le pont casse (France)</description>
-		<rom name="Dora L'exploratrice - Le pont casse (France).bin" size="4194304" crc="b6607eee" md5="452522d167bda0c3aea056f239448dab" sha1="278e89cdc99bdd9284447f31a1fd23de36eb8dca"/>
+		<rom name="Dora L'exploratrice - Le pont casse (France).bin" size="4194304" crc="b6607eee" md5="452522d167bda0c3aea056f239448dab" sha1="278e89cdc99bdd9284447f31a1fd23de36eb8dca" status="verified"/>
 	</game>
 	<game name="Dora the Explorer - Camping Adventure (USA)" id="0074">
 		<description>Dora the Explorer - Camping Adventure (USA)</description>
-		<rom name="Dora the Explorer - Camping Adventure (USA).bin" size="8388608" crc="71778536" md5="88abcd634ea6ea6099ad1045bd066626" sha1="9f8c5e02519def049078614dacc76b990e911add"/>
+		<rom name="Dora the Explorer - Camping Adventure (USA).bin" size="8388608" crc="71778536" md5="88abcd634ea6ea6099ad1045bd066626" sha1="9f8c5e02519def049078614dacc76b990e911add" status="verified"/>
 	</game>
 	<game name="Dora the Explorer - Pinata Party! (USA)" id="0069">
 		<description>Dora the Explorer - Pinata Party! (USA)</description>
@@ -226,6 +231,11 @@
 		<description>Incredibles Animation Sample (USA) (Proto) (2004-04-13)</description>
 		<rom name="Incredibles Animation Sample (USA) (Proto) (2004-04-13).bin" size="8388608" crc="ff6f07f1" md5="8c6f51338348ada4172ad8a7d514d06b" sha1="81f13d34b58987a048e0c14d90413887349a208d" sha256="08c432785a741822873fbe488671fb95ab770992df4cd5ce149412497baa3733"/>
 	</game>
+	<game name="Incredibles, The (USA)" id="0117">
+		<category>Games</category>
+		<description>Incredibles, The (USA)</description>
+		<rom name="Incredibles, The (USA).bin" size="8388608" crc="ea5c15b1" md5="40cf2f6f1de91b2843b25c636ed77ccc" sha1="2ab154153481802593d9004dae8fc5fcba0b6e88" sha256="fba251a0c8bf06c73b62bf38807568c704e451a5d459a60459f99e80b7719a23"/>
+	</game>
 	<game name="Kindergarten (USA)" id="0046">
 		<description>Kindergarten (USA)</description>
 		<rom name="Kindergarten (USA).bin" size="8388608" crc="db262164" md5="644b433172c8c29ef6ea7bc3d1eec67c" sha1="2ece5050d65d020cce70e220af3c11c9827029ac"/>
@@ -284,7 +294,7 @@
 	</game>
 	<game name="NASCAR (USA) (L-MAX)" id="0067">
 		<description>NASCAR (USA) (L-MAX)</description>
-		<rom name="NASCAR (USA) (L-MAX).bin" size="8388608" crc="95c78f34" md5="975df98b12e51354edf44804c5073740" sha1="91619b2f1297b8d07c6122b92b8ff33f6f6c1629"/>
+		<rom name="NASCAR (USA) (L-MAX).bin" size="8388608" crc="95c78f34" md5="975df98b12e51354edf44804c5073740" sha1="91619b2f1297b8d07c6122b92b8ff33f6f6c1629" status="verified"/>
 	</game>
 	<game name="Number Raiders (USA)" id="0049">
 		<description>Number Raiders (USA)</description>
@@ -449,9 +459,15 @@
 		<description>Thomas &amp; Friends - Calling All Engines! (USA)</description>
 		<rom name="Thomas &amp; Friends - Calling All Engines! (USA).bin" size="8388608" crc="5303d366" md5="5df6c5ec641fb5cda621419945f4664e" sha1="a7a65b5027d742634dd0860d3db44981c2351a05"/>
 	</game>
-	<game name="Toy Story 3 (USA)" id="0040">
+	<game name="Toy Story 3 (USA)" id="0040" cloneofid="0118">
+		<category>Games</category>
 		<description>Toy Story 3 (USA)</description>
 		<rom name="Toy Story 3 (USA).bin" size="8388608" crc="a72c61fd" md5="c492183634bb119a3d07b888b1badea0" sha1="3524a9167e6139101a27fccef4a97ef30dd928fe" serial="500-13982-A"/>
+	</game>
+	<game name="Toy Story 3 (France)" id="0118">
+		<category>Games</category>
+		<description>Toy Story 3 (France)</description>
+		<rom name="Toy Story 3 (France).bin" size="8388608" crc="db3522eb" md5="e49cb0278f2af5ebff45cc1f275e3a7a" sha1="5d546ab6d1f576d917d2d637aca877b8ddd131bd" sha256="25f3886c76f1424d63f954e19250030370fe51a56a3ce9119c9d7585ac228884"/>
 	</game>
 	<game name="Up (USA)" id="0057">
 		<description>Up (USA)</description>

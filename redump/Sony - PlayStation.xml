@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10904) (2026-03-15 02-49-21)</description>
-		<version>2026-03-15 02-49-21</version>
-		<date>2026-03-15 02-49-21</date>
+		<description>Sony - PlayStation - Discs (10905) (2026-03-15 23-18-54)</description>
+		<version>2026-03-15 23-18-54</version>
+		<date>2026-03-15 23-18-54</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103764,5 +103764,11 @@
 		<description>My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban)</description>
 		<rom name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban).cue" size="132" crc="52100763" md5="2dab5fcd8a161211971ca976057e4a40" sha1="6bd960ccf9512401d8df80d0ebd3a575f0c22d32"/>
 		<rom name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban).bin" size="247162272" crc="e51c5695" md5="f0e3a6069107d6a7c81762201e505932" sha1="da1167b017d75f0dfb402ffbf379d7fbb5ba0cbe"/>
+	</game>
+	<game name="Paca Paca Passion 2 (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Paca Paca Passion 2 (Japan) (Taikenban)</description>
+		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).cue" size="105" crc="5d2d68cc" md5="508e33119e15fc6d4364ea7343e76101" sha1="b7e5d45f67748c95d789ac6f0ffb88d35c018381"/>
+		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).bin" size="234028704" crc="41600119" md5="ac6f872a1ae443d5cd734e48ea3ee215" sha1="e782f2ba2f08e58a1306ff10668a74d2970c9f8c"/>
 	</game>
 </datafile>

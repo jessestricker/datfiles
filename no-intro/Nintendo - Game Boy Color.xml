@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260314-052110</version>
+		<version>20260315-112953</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5444,6 +5444,10 @@
 		<description>Project S-11 (USA) (Beta) (2000-05-11)</description>
 		<rom name="Project S-11 (USA) (Beta) (2000-05-11).gbc" size="65536" crc="94cb3df7" md5="a779f9fd31f32e78d6b4cea27aa15541" sha1="d03395abc4649ed21c41a2c6f0a6cea5ea77d364" sha256="bd27026464680e2c88d6ad5bbd1e90bb73f9dfcb925f9808657d3f86ef088644" serial="!none"/>
 	</game>
+	<game name="Project S-11 (World) (ModRetro Chromatic)" id="2614" cloneofid="0964">
+		<description>Project S-11 (World) (ModRetro Chromatic)</description>
+		<rom name="Project S-11 (World) (ModRetro Chromatic).gbc" size="524288" crc="eddf2923" md5="37c7edf380ae97b688bfd4868debd2e8" sha1="44dfc8a2ec74380b3ea0e24c1f62e32e4f924083" sha256="68f74ad7f61e8e629834d078b8c2db533576ca9112d139cedaef287c34e10ab4" status="verified"/>
+	</game>
 	<game name="Puchi Carat (USA) (Proto 2) (SGB Enhanced) (GB Compatible)" id="1627" cloneofid="0965">
 		<description>Puchi Carat (USA) (Proto 2) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Puchi Carat (USA) (Proto 2) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="a97ea742" md5="6d1682824a006ddbde77527a2e62622a" sha1="de755124425f9de8bef5eea8026751c54f7f1e00" sha256="a128ce62f473d83b1951f9bd2213f6d02ea689819a2d05307445693d04b5ee15"/>
@@ -7054,6 +7058,10 @@
 	<game name="Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)" id="1208">
 		<description>Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)</description>
 		<rom name="Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).gbc" size="1048576" crc="0a0f9289" md5="e1bf59102bcd5e3601f4b24b3e873fd2" sha1="2025275bb55710594e990ab61cde622947a2fa8d"/>
+	</game>
+	<game name="Toki Tori - Ultimate Edition (World) (ModRetro Chromatic)" id="2590" cloneofid="1208">
+		<description>Toki Tori - Ultimate Edition (World) (ModRetro Chromatic)</description>
+		<rom name="Toki Tori - Ultimate Edition (World) (ModRetro Chromatic).gbc" size="1048576" crc="37e01ba6" md5="0d2e9345727d8bfbd329941c94800974" sha1="294907646eaa97b2801bd318759315a9779fd1a9" sha256="b0fb4ae97416e094e93caffd00abba1eb488fc7f5b9258c9e346355f91435c1c" status="verified"/>
 	</game>
 	<game name="Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (Japan) (SGB Enhanced) (GB Compatible)" id="1209">
 		<description>Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (Japan) (SGB Enhanced) (GB Compatible)</description>

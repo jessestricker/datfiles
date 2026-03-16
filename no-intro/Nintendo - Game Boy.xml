@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260314-052418</version>
+		<version>20260315-112803</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -461,6 +461,10 @@
 	<game name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced)" id="1733" cloneofid="0078">
 		<description>B.C. Kid 2 (Europe) (Beta) (SGB Enhanced)</description>
 		<rom name="B.C. Kid 2 (Europe) (Beta) (SGB Enhanced).gb" size="262144" crc="11ffc359" md5="f246a7acd295b25519cb5ec45df68fbc" sha1="dc70ba06fb2690c1b7e66963cc07da704f7a6d26" sha256="296b388185626d8ea9886f8983da32c30d1da4000804ec1f5f23953edc5dd811"/>
+	</game>
+	<game name="Baby T-Rex (World) (ModRetro Chromatic)" id="2455" cloneofid="0079">
+		<description>Baby T-Rex (World) (ModRetro Chromatic)</description>
+		<rom name="Baby T-Rex (World) (ModRetro Chromatic).gb" size="262144" crc="46a001c0" md5="238adf39ca47985c51263a926347e058" sha1="1a822317e4dab9dd6b02ebb96065e42f01d0dfb4" sha256="537b5ca1fa3cfd3464bab8a59c400795d0ff4cf6f614f89f12cebef16ede0725" status="verified"/>
 	</game>
 	<game name="Baby T-Rex (Europe)" id="0079" cloneofid="1486">
 		<description>Baby T-Rex (Europe)</description>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260310-150248</version>
+		<version>20260315-090432</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5177,7 +5177,7 @@
 	<game name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)" id="1847" cloneofid="1849">
 		<description>Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)</description>
 		<game_id>00040000001D1400</game_id>
-		<rom name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).3ds" size="1073741824" crc="a2c73656" md5="3172d079a803777b855cd6c78a494f9f" sha1="2ae0c217a2ece308815315c1a6999d4ba5b564b6" serial="CTR-P-A3RE"/>
+		<rom name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).3ds" size="1073741824" crc="a2c73656" md5="3172d079a803777b855cd6c78a494f9f" sha1="2ae0c217a2ece308815315c1a6999d4ba5b564b6" sha256="f349f6b0a842bf35e4b75fea5169337f4f84b460b3e53b2d0199085a906d262e" status="verified" serial="CTR-P-A3RE"/>
 	</game>
 	<game name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It)" id="1849">
 		<description>Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It)</description>
@@ -5247,7 +5247,7 @@
 	<game name="Mario &amp; Luigi RPG - Paper Mario MIX (Japan)" id="1474" cloneofid="1410">
 		<description>Mario &amp; Luigi RPG - Paper Mario MIX (Japan)</description>
 		<game_id>0004000000132600</game_id>
-		<rom name="Mario &amp; Luigi RPG - Paper Mario MIX (Japan).3ds" size="536870912" crc="8dacdb8d" md5="219ad8a3ebee63f911c33ef954d0d10d" sha1="07a60b63c94f94d1296d9295cb9aa3ca9bdcb378" serial="CTR-P-AYNJ"/>
+		<rom name="Mario &amp; Luigi RPG - Paper Mario MIX (Japan).3ds" size="536870912" crc="8dacdb8d" md5="219ad8a3ebee63f911c33ef954d0d10d" sha1="07a60b63c94f94d1296d9295cb9aa3ca9bdcb378" sha256="a96db3b93bafd83e7b244843b74f248209089a8f9b7a16d7a8f899071db0682e" serial="CTR-P-AYNJ"/>
 	</game>
 	<game name="Mario &amp; Luigi RPG - Paper Mario MIX (Korea)" id="z126" cloneofid="1410">
 		<description>Mario &amp; Luigi RPG - Paper Mario MIX (Korea)</description>
@@ -5268,7 +5268,7 @@
 	<game name="Mario &amp; Luigi RPG3 DX (Japan)" id="1846" cloneofid="1849">
 		<description>Mario &amp; Luigi RPG3 DX (Japan)</description>
 		<game_id>00040000001CA900</game_id>
-		<rom name="Mario &amp; Luigi RPG3 DX (Japan).3ds" size="1073741824" crc="ae1de02c" md5="96ccd38adc40a7925651611ee124f058" sha1="b8062cd660ba062d852154d7c52b95411636b02e" serial="CTR-P-A3RJ"/>
+		<rom name="Mario &amp; Luigi RPG3 DX (Japan).3ds" size="1073741824" crc="ae1de02c" md5="96ccd38adc40a7925651611ee124f058" sha1="b8062cd660ba062d852154d7c52b95411636b02e" sha256="082d4750ab5a2820984cfd91cf26cb623978e30de04a089db5e4c991f3b998c5" serial="CTR-P-A3RJ"/>
 	</game>
 	<game name="Mario &amp; Sonic at London Olympics (Japan) (Rev 1)" id="0508" cloneofid="0109">
 		<description>Mario &amp; Sonic at London Olympics (Japan) (Rev 1)</description>

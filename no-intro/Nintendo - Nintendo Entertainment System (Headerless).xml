@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260315-001756</version>
+		<version>20260315-141848</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -950,7 +950,8 @@
 	<game name="Bases Loaded (USA)" id="0196" cloneofid="0198">
 		<category>Games</category>
 		<description>Bases Loaded (USA)</description>
-		<rom name="Bases Loaded (USA).unh" size="327680" crc="b4241fcc" md5="48db3a9ad15eedd843806434ed5de099" sha1="4f6f7340b707eb50f1bd989157a201fc98a29fed" sha256="685c94591a76510bf1bb120f81acd68e62ce37384eccc1635180ca3be742fd36"/>
+		<rom name="Bases Loaded (USA).unh" size="327680" crc="b4241fcc" md5="48db3a9ad15eedd843806434ed5de099" sha1="4f6f7340b707eb50f1bd989157a201fc98a29fed" sha256="685c94591a76510bf1bb120f81acd68e62ce37384eccc1635180ca3be742fd36" status="verified"/>
+		<rom name="Bases Loaded (USA) (No EXP chip).unh" size="327680" crc="6ab09c68" md5="5e7ee5189148d51db90752b16b92100e" sha1="fd5648a9b183c27030dfe2f25527dcaeebfa178b" sha256="f9752a3d068d24a97efb4a413fc84858ecae689502ee7002b6884bbe331eb7cd" status="verified"/>
 	</game>
 	<game name="Bases Loaded (USA) (Rev 1)" id="0197" cloneofid="0198">
 		<category>Games</category>

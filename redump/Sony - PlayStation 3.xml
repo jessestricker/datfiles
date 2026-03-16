@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4481) (2026-03-15 05-19-15)</description>
-		<version>2026-03-15 05-19-15</version>
-		<date>2026-03-15 05-19-15</date>
+		<description>Sony - PlayStation 3 - Discs (4481) (2026-03-16 11-19-14)</description>
+		<version>2026-03-16 11-19-14</version>
+		<date>2026-03-16 11-19-14</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2760,10 +2760,10 @@
 		<description>Disney Epic Mickey 2 - The Power of Two (USA, Korea) (En,Fr,Es,Pt)</description>
 		<rom name="Disney Epic Mickey 2 - The Power of Two (USA, Korea) (En,Fr,Es,Pt).iso" size="7042826240" crc="9eeaa85d" md5="f1210853be5f642c4732c1b63e30b067" sha1="421645ab397bb597a4c33fcfb9e93baf7cb03c90"/>
 	</game>
-	<game name="Dragon's Crown (USA)">
+	<game name="Dragon's Crown (USA, Asia)">
 		<category>Games</category>
-		<description>Dragon's Crown (USA)</description>
-		<rom name="Dragon's Crown (USA).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
+		<description>Dragon's Crown (USA, Asia)</description>
+		<rom name="Dragon's Crown (USA, Asia).iso" size="1680211968" crc="ab921d29" md5="42faa3a214beff3734d262e25f4a6f0e" sha1="0f9df96a5eb6e14d3f6a4848814c89ccf6d905e4"/>
 	</game>
 	<game name="Grand Theft Auto IV &amp; Episodes from Liberty City (USA, Asia) (En,Fr,De,Es,It)">
 		<category>Games</category>

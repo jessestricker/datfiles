@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260315-001756</version>
+		<version>20260315-141848</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -945,7 +945,8 @@
 	<game name="Bases Loaded (USA)" id="0196" cloneofid="0198">
 		<category>Games</category>
 		<description>Bases Loaded (USA)</description>
-		<rom name="Bases Loaded (USA).nes" size="327696" crc="24c1aa93" md5="d14306767d8309e7201dc08c11a0759d" sha1="52527818d1239217b7f9e2be49f10ccb3b08dfc6" sha256="f62ab51f662bf5f30a00785b207c73c69379299f97d0bbd22e8ab9d5ba2c73e8" header="4E 45 53 1A 10 08 10 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Bases Loaded (USA).nes" size="327696" crc="24c1aa93" md5="d14306767d8309e7201dc08c11a0759d" sha1="52527818d1239217b7f9e2be49f10ccb3b08dfc6" sha256="f62ab51f662bf5f30a00785b207c73c69379299f97d0bbd22e8ab9d5ba2c73e8" status="verified" header="4E 45 53 1A 10 08 10 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Bases Loaded (USA) (No EXP chip).nes" size="327696" crc="16cf1f3b" md5="002b09e450f67745330799f9d3f0b99a" sha1="ec65343ff20abe369445580deea0fa4b5f8a6d31" sha256="69750568af76673d3752b4c9a23cc61c7fe3bfec129f1125c8c58e2066fc0eab" status="verified" header="4E 45 53 1A 10 08 10 08 80 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Bases Loaded (USA) (Rev 1)" id="0197" cloneofid="0198">
 		<category>Games</category>
@@ -20719,7 +20720,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Magical Puzzle Popils (USA) (Proto) (Unl) [b]</description>
-		<rom name="Magical Puzzle Popils (USA) (Proto) (Unl) [b].nes" size="196624" crc="adcb1a59" md5="fbfc027b618c7a05c00f15efb0186a6f" sha1="b0c274e4e45261843091eb09a3d823d43fa0ee54" sha256="c962c413c2166092d47e0d00af518ebe81a04630c55d47ab0031df53c7294c14" status="baddump" header="4E 45 53 1A 08 08 43 08 00 00 77 00 00 00 00 01"/>
+		<rom name="Magical Puzzle Popils (USA) (Proto) (Unl) [b].nes" size="196624" crc="2f451f46" md5="5311992562744b14b16bc6fdd9600dbc" sha1="6618799cc12b46b4108597e94155649588e713a1" sha256="0c1095210a3e336cc69c039fa31a51ae6c664cf6ebe03a1a7e384885d1b4a4df" status="baddump" header="4E 45 53 1A 08 08 E3 C8 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Mario Fighter III (Asia) (En) (Pirate) (Alt)" id="8047" cloneofid="5539">
 		<description>Mario Fighter III (Asia) (En) (Pirate) (Alt)</description>

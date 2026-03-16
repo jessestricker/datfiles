@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260314-232536</version>
+		<version>20260315-064014</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -123,10 +123,10 @@
 		<description>Bakushow Mondai no Totsugeki! Star Pirates - Dai-1-wa (Japan) (SoundLink)</description>
 		<rom name="Bakushow Mondai no Totsugeki! Star Pirates - Dai-1-wa (Japan) (SoundLink).bs" size="1048576" crc="1e55173b" md5="ec6fcc17c69ae78f8e1fe25f193a246e" sha1="c2bac565d3dd65b30e9d9329086b7b7fbea5a96a" sha256="b2dfdeaf6fa9aced833eccbd5be44bb35b7ec9d736f3396037fb71a6ae1911e5"/>
 	</game>
-	<game name="Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink)" id="3659">
+	<game name="Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink) [b]" id="3659">
 		<category>Games</category>
-		<description>Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink)</description>
-		<rom name="Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink).bs" size="1048576" crc="e1c98889" md5="70ebe4b6c171df355437d20ac11c62ce" sha1="a50d168d2b9b38bd6736cc92acd19187ff4d827a" sha256="f7939488591d7bd629a9a841c914d678294823269ef33deca44358c5e5b2db89"/>
+		<description>Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink) [b]</description>
+		<rom name="Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink) [b].bs" size="1048576" crc="e1c98889" md5="70ebe4b6c171df355437d20ac11c62ce" sha1="a50d168d2b9b38bd6736cc92acd19187ff4d827a" sha256="f7939488591d7bd629a9a841c914d678294823269ef33deca44358c5e5b2db89" status="baddump"/>
 	</game>
 	<game name="Battle Submarine (Japan)" id="3781">
 		<category>Games</category>
@@ -1671,6 +1671,12 @@
 		<category>Magazines</category>
 		<description>Satella Yokochou - 8-24 Gou (Japan) (SoundLink Magazine)</description>
 		<rom name="Satella Yokochou - 8-24 Gou (Japan) (SoundLink Magazine).bs" size="262144" crc="25625045" md5="4b4889de6d80820f85e90d15951e01cb" sha1="a45a9138f5cdb77e55716c4458cad62e045f4766" sha256="e3664c448a09d2aa4c6731ae0313afcdcc3bafdc3ae804835b7e7230b8f1e738"/>
+	</game>
+	<game name="Satella Yokochou - 8-24 Gou + Super Soukoban (4-4) (Japan) (SoundLink Magazine, Game)" id="3982">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Satella Yokochou - 8-24 Gou + Super Soukoban (4-4) (Japan) (SoundLink Magazine, Game)</description>
+		<rom name="Satella Yokochou - 8-24 Gou + Super Soukoban (4-4) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="23168b9a" md5="1efe5adf8860ff1c4051b28bc3bdce16" sha1="6fcc352278c0ad5a5f42186e4ee6108cdb0f807e" sha256="f83cbbf02cd1f4828d512f78fc43507392c41384eaf0dd48e7052230ed2cd346"/>
 	</game>
 	<game name="SateSupo 7-22 Gou + SateSupo 8-19 Gou (Japan) (Magazine)" id="3832">
 		<category>Magazines</category>

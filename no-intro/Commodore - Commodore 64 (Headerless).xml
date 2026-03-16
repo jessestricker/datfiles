@@ -4,12 +4,22 @@
 		<id>42</id>
 		<name>Commodore - Commodore 64 (Headerless)</name>
 		<description>Commodore - Commodore 64 (Headerless)</description>
-		<version>20250403-112320</version>
+		<version>20260315-021650</version>
 		<author>baldjared, C. V. Reynolds, Hiccup, nnssxx, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Bis Plus Cartridge (Poland) (En) (Program) (2K)" id="0350">
+		<category>Applications</category>
+		<description>Bis Plus Cartridge (Poland) (En) (Program) (2K)</description>
+		<rom name="Bis Plus Cartridge (Poland) (En) (Program) (2K).bin" size="2048" crc="5d4815e6" md5="b597edd2b02150f609b3c3d0fe3816c0" sha1="b4cf453a3f919b52ee0eca51a3e8e1e12ef04a0c" sha256="9684fac2055d37463166fda3ea46acf2b7dbe2d7a6191a42fe6e00eabe84cd85"/>
+	</game>
+	<game name="Black Box 4 (Poland) (De,Pl) (Program)" id="0349" cloneofid="0058">
+		<category>Applications</category>
+		<description>Black Box 4 (Poland) (De,Pl) (Program)</description>
+		<rom name="Black Box 4 (Poland) (De,Pl) (Program).bin" size="16384" crc="5a4f8a48" md5="ec01de00f6f96f78c4e1dfdbf7c0e84f" sha1="6e90afc1178c62571c97fe01d86fa99cb24ead70" sha256="e9491a8f23c1d86561eef72911ad9c81166f72ee13b8293057e87df75fc794e1"/>
+	</game>
 	<game name="Gorf (USA, Europe)" id="0183">
 		<description>Gorf (USA, Europe)</description>
 		<rom name="Gorf (USA, Europe).crt" size="16384" crc="33812a19" md5="04da026b235cbdc7efa4274d6c736817" sha1="4d24d5ed3d8b38235d9ae5965b675ffece0981cc" sha256="2ea1fec3d84af208ec6eb56b7186c536aeba100a8197af32e5bb07465079c3ea"/>
@@ -29,5 +39,10 @@
 	<game name="Tooth Invaders (USA, Europe)" id="0308">
 		<description>Tooth Invaders (USA, Europe)</description>
 		<rom name="Tooth Invaders (USA, Europe).bin" size="16384" crc="06d63bc2" md5="33b8940516ff21c5390a2a08c9dc4c6a" sha1="75ece1d16cc635734739dafd4c836222c99ded03" sha256="7482907fc376c58812dbd5bd359fb36a57318e68564e35f04da0a62a897af3a2"/>
+	</game>
+	<game name="Turbo Cartridge C64-128 (Poland) (Program)" id="0348">
+		<category>Applications</category>
+		<description>Turbo Cartridge C64-128 (Poland) (Program)</description>
+		<rom name="Turbo Cartridge C64-128 (Poland) (Program).bin" size="4096" crc="2dbd4cb0" md5="a4a0fcebfe58202cff06f7f4e8d501db" sha1="77b0997a799819143cecd7660b74518acf1b40f7" sha256="e9209d9a6d997c0866257699e31595d411be2da60c150e712b20eadea54e7312"/>
 	</game>
 </datafile>
