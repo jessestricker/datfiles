@@ -4,7 +4,7 @@
 		<id>76</id>
 		<name>VTech - V.Smile</name>
 		<description>VTech - V.Smile</description>
-		<version>20260314-052645</version>
+		<version>20260317-000004</version>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -870,7 +870,7 @@
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (Italy)" id="0151" cloneofid="0246">
 		<description>Disney-Pixar Toy Story 3 (Italy)</description>
-		<rom name="Disney-Pixar Toy Story 3 (Italy).bin" size="16777216" crc="00cb3227" md5="c1c14842faf3407880c5b7fa21158bff" sha1="54348a52a15b8d6f67b284519436cf1a07cb113c" sha256="6bba0696085a5d6d0a8c3b5c434ef293df4a8536ca1295495f4be430a294cc39" mia="yes"/>
+		<rom name="Disney-Pixar Toy Story 3 (Italy).bin" size="16777216" crc="00cb3227" md5="c1c14842faf3407880c5b7fa21158bff" sha1="54348a52a15b8d6f67b284519436cf1a07cb113c" sha256="6bba0696085a5d6d0a8c3b5c434ef293df4a8536ca1295495f4be430a294cc39"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (V.Smile Motion)" id="0199" cloneofid="0246">
 		<category>Educational</category>
@@ -1061,7 +1061,7 @@
 		<description>Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)</description>
 		<rom name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden).bin" size="8388608" crc="e567db85" md5="35087851aae4a14fdf8da5fe5cce28df" sha1="ca52eaca6cf1b361fd4b1ae2b2380095c612668d" sha256="ade707bfeca95d833bf8666ba8386c8a237cb8f66ed24f23fbd3d67bf4ef7960" serial="8092134069001"/>
 	</game>
-	<game name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden) (Alt)" id="0464">
+	<game name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden) (Alt)" id="0464" cloneofid="0125">
 		<description>Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden) (Alt)</description>
 		<rom name="Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden) (Alt).bin" size="8388608" crc="d87b8758" md5="b06b0eaf3d8712225bbfbceb6ab78178" sha1="669d4ba2c235e84eac9626d653c08e255ee6907a" sha256="281978535e81900d90cb47986461cfae8ae4a94da84a9264755a0647e9e0a166" mia="yes"/>
 	</game>
@@ -1175,7 +1175,7 @@
 	<game name="Football Club (Italy) (Alt)" id="0466" cloneofid="0008">
 		<category>Games</category>
 		<description>Football Club (Italy) (Alt)</description>
-		<rom name="Football Club (Italy) (Alt).bin" size="8388608" crc="fd7e7c41" md5="fc3ab538b5cb0105fb7e92fa6b27cd80" sha1="c728e8d0f3e7a3f92869e24b5536cc583d9f642e" sha256="ecb3c4ca60d7e5c0b028845b1a7c600f01bdac880f23c8d56351b0281209cd28" mia="yes"/>
+		<rom name="Football Club (Italy) (Alt).bin" size="8388608" crc="fd7e7c41" md5="fc3ab538b5cb0105fb7e92fa6b27cd80" sha1="c728e8d0f3e7a3f92869e24b5536cc583d9f642e" sha256="ecb3c4ca60d7e5c0b028845b1a7c600f01bdac880f23c8d56351b0281209cd28"/>
 	</game>
 	<game name="Freds Zahlen Rallye (Germany)" id="0012">
 		<description>Freds Zahlen Rallye (Germany)</description>

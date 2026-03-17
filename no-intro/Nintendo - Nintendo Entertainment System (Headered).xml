@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260315-141848</version>
+		<version>20260316-090657</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -15948,10 +15948,10 @@
 		<description>Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)</description>
 		<rom name="Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate).nes" size="786448" crc="520f8bed" md5="a4911840f026f0997fa52ba1ba38fb2b" sha1="28c0e5c58a844133023fa002bc2ececbd129829e" sha256="629a9a18cf9d4846c23388a65b5c68e81186f4a86be8398f1ac3a689a97fe815" header="4E 45 53 1A 10 40 02 28 02 00 70 05 03 00 00 01"/>
 	</game>
-	<game name="Big Nose Freaks Out (Unknown) (Unl) (Alt)" id="5477" cloneofid="0251">
+	<game name="Big Nose Freaks Out (Unknown) (Unl)" id="5477" cloneofid="0251">
 		<category>Games</category>
-		<description>Big Nose Freaks Out (Unknown) (Unl) (Alt)</description>
-		<rom name="Big Nose Freaks Out (Unknown) (Unl) (Alt).nes" size="262160" crc="b68a71ca" md5="5a3758a19b078afd14c5e291339be835" sha1="19ed299083c1b4f68ad5e4fecfb8ae0d453790c1" sha256="de1a85b633fa215371b95a36ebcbe57f6870ec2708c6009fa6685fac7f4f6fe7" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
+		<description>Big Nose Freaks Out (Unknown) (Unl)</description>
+		<rom name="Big Nose Freaks Out (Unknown) (Unl).nes" size="262160" crc="b68a71ca" md5="5a3758a19b078afd14c5e291339be835" sha1="19ed299083c1b4f68ad5e4fecfb8ae0d453790c1" sha256="de1a85b633fa215371b95a36ebcbe57f6870ec2708c6009fa6685fac7f4f6fe7" header="4E 45 53 1A 10 00 71 48 00 00 00 07 02 00 00 01"/>
 	</game>
 	<game name="Block Force (Taiwan) (En) (Unl)" id="5334" cloneofid="1758">
 		<category>Games</category>

@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260315-015921</version>
+		<version>20260316-133759</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -270,18 +270,22 @@
 		<rom name="Army Men - Air Combat (USA).z64" size="8388608" crc="1952cc87" md5="755df7f57edf87706d4c80ff15883312" sha1="eb9bacb12eb6665be9936a3e1dfd6d57b2eaabdb" sha256="9edae0d4d39ccb493bfaf8dcd3075db2582dea1b70ffcc477ee15a0048d97eea" serial="NACE"/>
 	</game>
 	<game name="Army Men - Sarge's Heroes (Europe) (En,Fr,De)" id="0045">
+		<category>Games</category>
 		<description>Army Men - Sarge's Heroes (Europe) (En,Fr,De)</description>
 		<rom name="Army Men - Sarge's Heroes (Europe) (En,Fr,De).z64" size="8388608" crc="e79048e2" md5="53e2872612760133ab7b2cc2e22b847c" sha1="00e594fa64da61c2ad3138a31a22b9854bb3fafa" sha256="25d3091b4d0713099006933349c4b6e01e79e1f108596abbc5342a4d7d647066" status="verified" serial="NAMP"/>
 	</game>
 	<game name="Army Men - Sarge's Heroes (USA)" id="0046" cloneofid="0045">
+		<category>Games</category>
 		<description>Army Men - Sarge's Heroes (USA)</description>
 		<rom name="Army Men - Sarge's Heroes (USA).z64" size="8388608" crc="2fe786f6" md5="b8085c2edb1c6d23e52ed8c06d92b4f8" sha1="1824380911579424e50042d45aef4851f7ab25a7" sha256="b1992d8069cb7c14d5be4c351578058631cae9e1b2f29656ae7fb9d5ecc1dc22" serial="NAME"/>
 	</game>
 	<game name="Army Men - Sarge's Heroes 2 (USA)" id="0047">
+		<category>Games</category>
 		<description>Army Men - Sarge's Heroes 2 (USA)</description>
 		<rom name="Army Men - Sarge's Heroes 2 (USA).z64" size="8388608" crc="79a71608" md5="6eea5c4a6256092ed8f9ba8861c689c6" sha1="f32b6de2f87928378f26ca17b68b27d87fdefce1" sha256="ee8568e107b6d33128a5384d7614acac530cc834417e2c8e3d65e7ed9b82d546" status="verified" serial="N32E"/>
 	</game>
 	<game name="Asteroids Hyper 64 (USA)" id="0048">
+		<category>Games</category>
 		<description>Asteroids Hyper 64 (USA)</description>
 		<rom name="Asteroids Hyper 64 (USA).z64" size="4194304" crc="f5ce3d91" md5="874c7b7b365d2c20aaa1a0c90c93f9b8" sha1="329f4d560b0ba7da622edd9b84523e86e265fffe" sha256="db8871295af1083038d959f1a4c8ac43a8b7cafb84bcc9717ef0c9f4bd6b60b8" status="verified" serial="NAHE"/>
 	</game>
@@ -291,10 +295,12 @@
 		<rom name="Ataxx 64 (World) (Unl).z64" size="1572864" crc="53976ac5" md5="cf63ab6af5fbd5dbfe500dd9a658e069" sha1="6e029e869357f41ce9a8510b1865574b3fbcdc32" sha256="182953cf0bd0d3e351d6c32df58b0b1d35773a39e25d2fa435f3296380d25f61"/>
 	</game>
 	<game name="Automobili Lamborghini (Europe)" id="0049">
+		<category>Games</category>
 		<description>Automobili Lamborghini (Europe)</description>
 		<rom name="Automobili Lamborghini (Europe).z64" size="4194304" crc="3baf58d5" md5="7853f02dc66a35bc8c2bc33d03b8f0ca" sha1="513c9511539bf2361ff20ee1f19dc03f618b5214" sha256="740a878157b15c0cd65e2623dea3ab9c90b6984ad709d8543b7e50f33e88fc62" status="verified" serial="NLCP"/>
 	</game>
 	<game name="Automobili Lamborghini (USA)" id="0050" cloneofid="0049">
+		<category>Games</category>
 		<description>Automobili Lamborghini (USA)</description>
 		<rom name="Automobili Lamborghini (USA).z64" size="4194304" crc="a4374eac" md5="ec39579f066a9714ff030d07dec3c9d3" sha1="78b36b48040426478011caef5e11884af2e80375" sha256="cab2467684a58bc19c787423d704a961aa497629763367d9fe691172de58591c" serial="NLCE"/>
 	</game>
@@ -315,6 +321,7 @@
 		<rom name="Bakushou Jinsei 64 - Mezase! Resort Ou (Japan).z64" size="12582912" crc="ef8c2f34" md5="09fd63afa1156405e618752fc583df93" sha1="28e6d11f6f48c86a9b7c112c672109e1c2d7e5d0" sha256="2e48f2efdd1895d7d5b3119ca4b3abb4b509249389f9b6d6e3c74cfe4a20c530" status="verified" serial="NBJJ"/>
 	</game>
 	<game name="Banjo to Kazooie no Daibouken (Japan)" id="0055" cloneofid="0057">
+		<category>Games</category>
 		<description>Banjo to Kazooie no Daibouken (Japan)</description>
 		<rom name="Banjo to Kazooie no Daibouken (Japan).z64" size="16777216" crc="8f7c9324" md5="3d3855a86fd5a1b4d30beb0f5a4a85af" sha1="90726d7e7cd5bf6cdfd38f45c9acbf4d45bd9fd8" sha256="f766bdb553dd38bf1ce1b9395647aa44abb85503ef08592c8c1a94b15eb6dbfb" status="verified" serial="NBKJ"/>
 	</game>
@@ -327,10 +334,12 @@
 		<rom name="Banjo-Kazooie (Europe) (En,Fr,De).z64" size="16777216" crc="525899c9" md5="06a43bacf5c0687f596df9b018ca6d7f" sha1="bb359a75941df74bf7290212c89fbc6e2c5601fe" sha256="d4e7534d8bcdc329386bf28dcb86e35136e793622f3e6913342500d17e89a931" status="verified" serial="NBKP"/>
 	</game>
 	<game name="Banjo-Kazooie (USA)" id="0058" cloneofid="0057">
+		<category>Games</category>
 		<description>Banjo-Kazooie (USA)</description>
 		<rom name="Banjo-Kazooie (USA).z64" size="16777216" crc="ad429961" md5="b29599651a13f681c9923d69354bf4a3" sha1="1fe1632098865f639e22c11b9a81ee8f29c75d7a" sha256="59875835b9a5128bb0054315a7f929e2071c2001e528d70bf543e1d6680e6eff" status="verified" serial="NBKE"/>
 	</game>
 	<game name="Banjo-Kazooie (USA) (Rev 1)" id="0059" cloneofid="0057">
+		<category>Games</category>
 		<description>Banjo-Kazooie (USA) (Rev 1)</description>
 		<rom name="Banjo-Kazooie (USA) (Rev 1).z64" size="16777216" crc="fb7ffb10" md5="b11f476d4bc8e039355241e871dc08cf" sha1="ded6ee166e740ad1bc810fd678a84b48e245ab80" sha256="f9ad43f64c3a38b0ca4067e24f570dcb8f3f8fec077c5c342484bcbec7ff6d22" status="verified" serial="NBKE"/>
 	</game>
@@ -343,6 +352,7 @@
 		<rom name="Banjo-Tooie (Europe) (En,Fr,De,Es).z64" size="33554432" crc="1ec12f5a" md5="8b2e56f18421a67bca861427453a1e19" sha1="93bf2fac1387320ad07251cb4b64fd36bac1d7a6" sha256="82d5b9062263daad5108645049de3f06c9db00a2eeffa409876af74e43437748" status="verified" serial="NB7P"/>
 	</game>
 	<game name="Banjo-Tooie (USA)" id="0062" cloneofid="0061">
+		<category>Games</category>
 		<description>Banjo-Tooie (USA)</description>
 		<rom name="Banjo-Tooie (USA).z64" size="33554432" crc="bab803ef" md5="40e98faa24ac3ebe1d25cb5e5ddf49e4" sha1="af1a89e12b638b8d82cc4c085c8e01d4cba03fb3" sha256="9ec37fba6890362eba86fb855697a9cff1519275531b172083a1a6a045483583" status="verified" serial="NB7E"/>
 	</game>
@@ -3913,6 +3923,7 @@
 		<rom name="Super Smash Bros. (USA) (LodgeNet).z64" size="16777216" crc="1c001a5d" md5="bf751a6c92d113e3ebdcb2bea6a814d0" sha1="a0aea7d219443209c6580a501601d3151c58d3ac"/>
 	</game>
 	<game name="Super Speed Race 64 (Japan)" id="0723" cloneofid="0049">
+		<category>Games</category>
 		<description>Super Speed Race 64 (Japan)</description>
 		<rom name="Super Speed Race 64 (Japan).z64" size="4194304" crc="0f879a70" md5="6b5d93b3566e96147009d1ac4fb15c97" sha1="e0a49ff953b882f9f135b583ef9e09a664d24288" serial="NLCJ"/>
 	</game>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4481) (2026-03-16 11-19-14)</description>
-		<version>2026-03-16 11-19-14</version>
-		<date>2026-03-16 11-19-14</date>
+		<description>Sony - PlayStation 3 - Discs (4486) (2026-03-17 14-52-51)</description>
+		<version>2026-03-17 14-52-51</version>
+		<date>2026-03-17 14-52-51</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22426,5 +22426,30 @@
 		<category>Demos</category>
 		<description>PS3 IDU - 2017 Spring Refresh - Best Buy Attract Wall (USA)</description>
 		<rom name="PS3 IDU - 2017 Spring Refresh - Best Buy Attract Wall (USA).iso" size="1469579264" crc="119f3cc3" md5="7140201f60a1f79d5090b6661aedeb4e" sha1="9645d0a5ca61ab2ef3fabdaab7cd2674a7938c27"/>
+	</game>
+	<game name="Hitman - Absolution (USA) (Greatest Hits)">
+		<category>Games</category>
+		<description>Hitman - Absolution (USA) (Greatest Hits)</description>
+		<rom name="Hitman - Absolution (USA) (Greatest Hits).iso" size="12404981760" crc="c35de1b0" md5="cd6eb2970e1620518947135128f5fbfd" sha1="ea673b9998c2add603d4237f478f1c338aa5fc1c"/>
+	</game>
+	<game name="Iron Man (Asia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Iron Man (Asia) (En,Fr,De,Es,It)</description>
+		<rom name="Iron Man (Asia) (En,Fr,De,Es,It).iso" size="12381454336" crc="b38a11bc" md5="d6ae301e3bb14bd2438ab6e8504a2753" sha1="b607e4d7fe997c8ebba46502edcda1eab5abf097"/>
+	</game>
+	<game name="Assassin's Creed II - Game of the Year Edition (Korea) (It,Ko)">
+		<category>Games</category>
+		<description>Assassin's Creed II - Game of the Year Edition (Korea) (It,Ko)</description>
+		<rom name="Assassin's Creed II - Game of the Year Edition (Korea) (It,Ko).iso" size="6472794112" crc="241480bf" md5="b990e7e188f0288d482ec818f34dafec" sha1="240a13be8d0c59cc3279c96986c44770966203fe"/>
+	</game>
+	<game name="Cursed Crusade, The (Korea)">
+		<category>Games</category>
+		<description>Cursed Crusade, The (Korea)</description>
+		<rom name="Cursed Crusade, The (Korea).iso" size="7326728192" crc="4c704a79" md5="4390bd56e71ca65e2e9ef9bcbfa4c35d" sha1="2aa53bd8ae7dee31ddd3a8f68ff37a121a5d1af6"/>
+	</game>
+	<game name="Mist of Chaos (Korea)">
+		<category>Games</category>
+		<description>Mist of Chaos (Korea)</description>
+		<rom name="Mist of Chaos (Korea).iso" size="7959674880" crc="1c652d34" md5="21b6e0c0f8908001f5681c9f1081509d" sha1="cd9cc5d8954b51a654fe54f791d85754d4c1702f"/>
 	</game>
 </datafile>
