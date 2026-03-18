@@ -4,7 +4,7 @@
 		<id>31</id>
 		<name>Nintendo - Family Computer Disk System (FDS)</name>
 		<description>Nintendo - Family Computer Disk System (FDS)</description>
-		<version>20260301-103145</version>
+		<version>20260317-004812</version>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -133,7 +133,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Battle Battle League (Japan) (Proto) (Disk 1)</description>
-		<rom name="Battle Battle League (Japan) (Proto) (Disk 1).fds" size="131000" crc="d578702f" md5="62854cac6163b2fa5e2e7f091d31dbeb" sha1="e951c85962e7499e0bcafae82774e489c1ca9942" sha256="d01fc8a17963d85d41903bd1fa2c0dee1b3f4f65606d0a7ac5734f82f37574ca" header="Q.D."/>
+		<rom name="Battle Battle League (Japan) (Proto) (Disk 1).fds" size="131000" crc="d578702f" md5="62854cac6163b2fa5e2e7f091d31dbeb" sha1="e951c85962e7499e0bcafae82774e489c1ca9942" sha256="d01fc8a17963d85d41903bd1fa2c0dee1b3f4f65606d0a7ac5734f82f37574ca" serial="Q.D."/>
 	</game>
 	<game name="Battle Battle League (Japan) (Proto) (Disk 2)" id="0439">
 		<category>Applications</category>

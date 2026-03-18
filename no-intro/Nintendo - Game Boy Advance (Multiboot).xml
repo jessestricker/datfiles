@@ -4,7 +4,7 @@
 		<id>137</id>
 		<name>Nintendo - Game Boy Advance (Multiboot)</name>
 		<description>Nintendo - Game Boy Advance (Multiboot)</description>
-		<version>20260315-171224</version>
+		<version>20260317-160947</version>
 		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, NovaAurora, relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -195,6 +195,10 @@
 		<game_id>GSBJ8P</game_id>
 		<rom name="Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut).gba" size="217032" crc="28a6baea" md5="2fd1658783cd1c6bf5e1b19a1462a42a" sha1="97ffbc9a4b0216af2983ce2e8d78b5693f47e673" sha256="a345bb567e73228743ef44c55b124de808cd77c0f566b46eea96de0b7caf831d" serial="GSBJ8P"/>
 	</game>
+	<game name="Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)" id="0127">
+		<description>Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)</description>
+		<rom name="Chao no Puchigaden (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition).gba" size="37156" crc="b12a36b8" md5="71e29c8cae1665ede37bcac41381ed9e" sha1="abbd9e0b3ea06f4c05973ae88ed56cdacaf3e3a0"/>
+	</game>
 	<game name="ChuChu Rocket! Challenge (World) (Ja) [b]" id="0001">
 		<description>ChuChu Rocket! Challenge (World) (Ja) [b]</description>
 		<game_id>ACRJ8P</game_id>
@@ -327,6 +331,10 @@
 		<description>NiGHTS into Dreams - Score Attack (World)</description>
 		<game_id>AGBT8P</game_id>
 		<rom name="NiGHTS into Dreams - Score Attack (World).gba" size="255552" crc="7bba269b" md5="e4d4a68c43e58e1b583f89a416e16f48" sha1="3dfa93104696a4c75fb4f337e86d2dd9a9404357" sha256="6f06525a81881dcedb45c9100a280415a01b8a3105f213cb926e3dffcfb450c5" status="verified" serial="AGBT8P"/>
+	</game>
+	<game name="NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)" id="0128">
+		<description>NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition)</description>
+		<rom name="NiGHTS into Dreams - Score Attack (Japan) (Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition).gba" size="253528" crc="f320a1e1" md5="2ba292659cd64bde962b0c2c1efdf953" sha1="1683145ca47cfd0b47af7c26fc9c4c676761c74e"/>
 	</game>
 	<game name="Nintendo Puzzle Collection - Dr. Mario (Japan) (En)" id="0028">
 		<description>Nintendo Puzzle Collection - Dr. Mario (Japan) (En)</description>

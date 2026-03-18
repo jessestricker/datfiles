@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260316-153222</version>
+		<version>20260317-090737</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3188,6 +3188,16 @@
 	<game name="Jurassic Park (USA)" id="0611" cloneofid="0610">
 		<description>Jurassic Park (USA)</description>
 		<rom name="Jurassic Park (USA).gb" size="262144" crc="b350bedf" md5="d11d2dc76c6d743c3cc791104a2bdae2" sha1="66273f0b52f9ff2be875b1428add267a5f01adb0" sha256="6b13a664a3c74e6e61b019f4024f65b3fb301ee5518a9cf9e2a27dc41bbdd561" status="verified"/>
+	</game>
+	<game name="Jurassic Park (World) (Limited Run Games)" id="2510" cloneofid="0610">
+		<category>Games</category>
+		<description>Jurassic Park (World) (Limited Run Games)</description>
+		<rom name="Jurassic Park (World) (Limited Run Games).gb" size="262144" crc="005e5e3f" md5="2e9fa0faf7589fdb355427808ded931c" sha1="fd5df64a376786d7bd287cadc2dc1ef66bfa637a" sha256="e4722f500e1abe8dca3f710883ed849ad2913f7dfe14888a3b28d9d0e0951008"/>
+	</game>
+	<game name="Jurassic Park Part 2 - The Chaos Continues (World) (En,Fr,De,It) (Limited Run Games)" id="2511" cloneofid="0612">
+		<category>Games</category>
+		<description>Jurassic Park Part 2 - The Chaos Continues (World) (En,Fr,De,It) (Limited Run Games)</description>
+		<rom name="Jurassic Park Part 2 - The Chaos Continues (World) (En,Fr,De,It) (Limited Run Games).gb" size="262144" crc="095c3d47" md5="d6cb91d1abe2a3ee95a5f12c05161663" sha1="09c1bd947fc57fd49354c0b30cd8cc13a4a5ef22" sha256="fba4a4eff4f103d481183e099433504b9d4ef310364ac8dcced2e4660a0f555e"/>
 	</game>
 	<game name="Jurassic Park Part 2 - The Chaos Continues (USA, Europe) (En,Fr,De,It)" id="0612">
 		<description>Jurassic Park Part 2 - The Chaos Continues (USA, Europe) (En,Fr,De,It)</description>
@@ -6440,6 +6450,16 @@
 	<game name="Snow Bros. Jr. (Japan)" id="1227" cloneofid="1226">
 		<description>Snow Bros. Jr. (Japan)</description>
 		<rom name="Snow Bros. Jr. (Japan).gb" size="131072" crc="e5a22f5a" md5="099d768c3541f4cbb6362c914e97f667" sha1="d46e6bb01129f0725e73b6b9aca35a1aceb7e415" sha256="bf4031de5915b6410c71eea892d4f4c6c70b6ebb5cedd0af7a30b09b150754ef"/>
+	</game>
+	<game name="Snow Bros. Jr. (World) (En) (Limited Run Games)" id="2512" cloneofid="1226">
+		<category>Games</category>
+		<description>Snow Bros. Jr. (World) (En) (Limited Run Games)</description>
+		<rom name="Snow Bros. Jr. (World) (En) (Limited Run Games).gb" size="262144" crc="fa136a45" md5="c465c2a8ae70b4be0e8b5cc0e3d60318" sha1="9d1bdca56968907feda94310775e212935d7112f" sha256="e8cb81170a62cabf476d684f73ba910af351703344604ad423f9f0b25c639b4e"/>
+	</game>
+	<game name="Snow Bros. Jr. (World) (Ja) (Limited Run Games)" id="2513" cloneofid="1226">
+		<category>Games</category>
+		<description>Snow Bros. Jr. (World) (Ja) (Limited Run Games)</description>
+		<rom name="Snow Bros. Jr. (World) (Ja) (Limited Run Games).gb" size="131072" crc="2a524909" md5="1f68ad1ca25125d10e5b64d7682a5c7a" sha1="ce56a678cbcc45eef3b772480c5f062cbccb3171" sha256="d89364c9fc684dd63e7b0f2311cec038f85a51b21da6eeb16a02ec88cac95c1a"/>
 	</game>
 	<game name="Snow Brothers (Europe)" id="1226">
 		<description>Snow Brothers (Europe)</description>

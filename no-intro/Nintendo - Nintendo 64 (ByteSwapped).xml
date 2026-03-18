@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260316-133759</version>
+		<version>20260317-140524</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -326,6 +326,7 @@
 		<rom name="Banjo to Kazooie no Daibouken (Japan).v64" size="16777216" crc="11ad432c" md5="6846fd87c7ce9063a4f25cd6a253c309" sha1="9379962839a6638f8ddcfb7d917216ec40a83edb" status="verified" serial="NBKJ"/>
 	</game>
 	<game name="Banjo to Kazooie no Daibouken 2 (Japan)" id="0056" cloneofid="0061">
+		<category>Games</category>
 		<description>Banjo to Kazooie no Daibouken 2 (Japan)</description>
 		<rom name="Banjo to Kazooie no Daibouken 2 (Japan).v64" size="33554432" crc="8a3d8792" md5="085405cfdf2cba66baf21ad07c73cdd6" sha1="a6c8d06aa6462c1479639786eda455cd60ff6aa3" status="verified" serial="NB7J"/>
 	</game>
@@ -344,10 +345,12 @@
 		<rom name="Banjo-Kazooie (USA) (Rev 1).v64" size="16777216" crc="90b38651" md5="767d015db4ce450d5f0c55276eab1ca4" sha1="93c5cfac5cca89e54c0f1d076625e2a4570994fd" status="verified" serial="NBKE"/>
 	</game>
 	<game name="Banjo-Tooie (Australia)" id="0060" cloneofid="0061">
+		<category>Games</category>
 		<description>Banjo-Tooie (Australia)</description>
 		<rom name="Banjo-Tooie (Australia).v64" size="33554432" crc="38ec4a6e" md5="b943623a53f427b53c48316e722ed2e1" sha1="f3c391f7d04f9cbcddac1cf03b7b6c78d844f7b0" serial="NB7U"/>
 	</game>
 	<game name="Banjo-Tooie (Europe) (En,Fr,De,Es)" id="0061">
+		<category>Games</category>
 		<description>Banjo-Tooie (Europe) (En,Fr,De,Es)</description>
 		<rom name="Banjo-Tooie (Europe) (En,Fr,De,Es).v64" size="33554432" crc="5ee620fb" md5="3a585ef93b327d47cb0095eea98d766a" sha1="1e2ca48f786983c487a8d0e17c496fccf5411dfe" status="verified" serial="NB7P"/>
 	</game>
@@ -361,50 +364,62 @@
 		<rom name="Bass Rush - ECOGEAR PowerWorm Championship (Japan).v64" size="33554432" crc="0e388fae" md5="b7939b2ea15c92edb33971fdbe236d6c" sha1="06d9da5dfd1e16ed56fc2bd028fa3642b4905820" serial="NVBJ"/>
 	</game>
 	<game name="Bassmasters 2000 (USA)" id="0064">
+		<category>Games</category>
 		<description>Bassmasters 2000 (USA)</description>
 		<rom name="Bassmasters 2000 (USA).v64" size="12582912" crc="8b7bd07e" md5="f4ac3af45a448b9f0d5d38af14a285b9" sha1="747b3b6c49f27e3381d91e9df59d01dbee769a58" serial="NB4E"/>
 	</game>
 	<game name="Bassmasters 2000 (USA) (Beta)" id="1056" cloneofid="0064">
+		<category>Games</category>
 		<description>Bassmasters 2000 (USA) (Beta)</description>
 		<rom name="Bassmasters 2000 (USA) (Beta).v64" size="33554432" crc="a9dd59b1" md5="ae13da6c5e4745186af605bd8e83e92b" sha1="97bf7641b6eb7a8dfe10240da0188f8ac4eeeb08" sha256="6a64d722e40d77289d60658e517d8a51f6f2d405f8bd4769aac05c7ca5567ffb" serial="!none!"/>
 	</game>
 	<game name="Batman Beyond - Return of the Joker (USA)" id="0065" cloneofid="0066">
+		<category>Games</category>
 		<description>Batman Beyond - Return of the Joker (USA)</description>
 		<rom name="Batman Beyond - Return of the Joker (USA).v64" size="4194304" crc="d64e0a7b" md5="ad242c47475d1b14ec2a29201b52a9f1" sha1="a67cef8a1f06ce201e0486ad2b9507314398799f" serial="NJQE"/>
 	</game>
 	<game name="Batman of the Future - Return of the Joker (Europe) (En,Fr,De)" id="0066">
+		<category>Games</category>
 		<description>Batman of the Future - Return of the Joker (Europe) (En,Fr,De)</description>
 		<rom name="Batman of the Future - Return of the Joker (Europe) (En,Fr,De).v64" size="4194304" crc="86aa921c" md5="7ad96be5f289276b6a9d7163b19d2bc4" sha1="16977e84fda45bbde7882a73a9685426fd4b458c" status="verified" serial="NJQP"/>
 	</game>
 	<game name="BattleTanx (USA)" id="0067">
+		<category>Games</category>
 		<description>BattleTanx (USA)</description>
 		<rom name="BattleTanx (USA).v64" size="8388608" crc="66123c8b" md5="e4f24ef9b43259bad0a1bf235745d81e" sha1="1daced29439e8f2605349e9f453e90155fea46f4" sha256="a87d0c2a29b0c2672762e96bd4255e23722e17730647057231ff45de4b0f305c" status="verified" serial="NBXE"/>
 	</game>
 	<game name="BattleTanx - Global Assault (Europe) (En,Fr,De)" id="0068">
+		<category>Games</category>
 		<description>BattleTanx - Global Assault (Europe) (En,Fr,De)</description>
 		<rom name="BattleTanx - Global Assault (Europe) (En,Fr,De).v64" size="8388608" crc="ec02c5ad" md5="2589ae458ebfc86100dc039cd0854cfa" sha1="ec346910b30e5c5c91cf4394633d226ea604bb57" status="verified" serial="NBQP"/>
 	</game>
 	<game name="BattleTanx - Global Assault (USA)" id="0069" cloneofid="0068">
+		<category>Games</category>
 		<description>BattleTanx - Global Assault (USA)</description>
 		<rom name="BattleTanx - Global Assault (USA).v64" size="8388608" crc="5819d423" md5="88da33ca04ef2d936f0c1b73248b71aa" sha1="08a9037488c47d1e26ce6f709955639e9f0f0bb8" sha256="54d1ea97a90cee3ee4cc5b564d5b5188449fc58611599dccab547c79ad2f353e" serial="NBQE"/>
 	</game>
 	<game name="Battlezone - Rise of the Black Dogs (USA)" id="0070">
+		<category>Games</category>
 		<description>Battlezone - Rise of the Black Dogs (USA)</description>
 		<rom name="Battlezone - Rise of the Black Dogs (USA).v64" size="16777216" crc="18ccccfd" md5="69cc951520ccee8c99f28e086ba6baaa" sha1="cdd1d1dec9763ce6b7b1a70668effcead0a185a0" serial="NZOE"/>
 	</game>
 	<game name="Beetle Adventure Racing! (Europe) (En,Fr,De)" id="0071">
+		<category>Games</category>
 		<description>Beetle Adventure Racing! (Europe) (En,Fr,De)</description>
 		<rom name="Beetle Adventure Racing! (Europe) (En,Fr,De).v64" size="16777216" crc="e6f43f48" md5="939bdaf220eddcefc8be78a5b3b98744" sha1="b185ed71668f9bd4f6aeef5edb31e03c1a119ae0" status="verified" serial="NNSP"/>
 	</game>
 	<game name="Beetle Adventure Racing! (Japan)" id="0072" cloneofid="0071">
+		<category>Games</category>
 		<description>Beetle Adventure Racing! (Japan)</description>
 		<rom name="Beetle Adventure Racing! (Japan).v64" size="16777216" crc="4246acd8" md5="b0c2a92cb944332571ec482f2010d470" sha1="196b70d4fd0bd361baabaee9719a5a3aa5a7f48f" serial="NB8J"/>
 	</game>
 	<game name="Beetle Adventure Racing! (USA) (En,Fr,De)" id="0073" cloneofid="0071">
+		<category>Games</category>
 		<description>Beetle Adventure Racing! (USA) (En,Fr,De)</description>
 		<rom name="Beetle Adventure Racing! (USA) (En,Fr,De).v64" size="16777216" crc="e3517fd8" md5="5559a7aae79e960851ce754f873280cb" sha1="52171429b655825a02864a94499816187d4014dc" serial="NNSE"/>
 	</game>
 	<game name="Big Mountain 2000 (USA)" id="0074">
+		<category>Games</category>
 		<description>Big Mountain 2000 (USA)</description>
 		<rom name="Big Mountain 2000 (USA).v64" size="12582912" crc="ff44020c" md5="e0b3354c7205db2d67c1fa23462f6326" sha1="cdc88d4ffa5883d34ffc426c552df200c4c65023" serial="NMUE"/>
 	</game>
@@ -421,10 +436,12 @@
 		<rom name="Bike Race '98 (World) (v1.0) (Demo) (Presence of Mind '98) (Unl).v64" size="3145728" crc="168a3403" md5="b275fd982ca8ebee45d594b68f63cf26" sha1="9f8729009b88c8ea01541225e9c1b4621acfd9d6" sha256="32964f444ea679532f23801af872994aba38b95d24dd53732426616ee6911ad8"/>
 	</game>
 	<game name="Bio F.R.E.A.K.S. (Europe)" id="0075">
+		<category>Games</category>
 		<description>Bio F.R.E.A.K.S. (Europe)</description>
 		<rom name="Bio F.R.E.A.K.S. (Europe).v64" size="16777216" crc="3ec67ad8" md5="58c15c1e507950273ae926f350c9292c" sha1="ef5546f288b39ca628907c05f8cbaada9e895026" status="verified" serial="NBFP"/>
 	</game>
 	<game name="Bio F.R.E.A.K.S. (USA)" id="0076" cloneofid="0075">
+		<category>Games</category>
 		<description>Bio F.R.E.A.K.S. (USA)</description>
 		<rom name="Bio F.R.E.A.K.S. (USA).v64" size="16777216" crc="52283865" md5="8b112f230a6e1e185f10f9574d676ef8" sha1="7d0a70c4437fe985aaf4faf82ca1dc011b8ed4e1" serial="NBFE"/>
 	</game>
@@ -433,18 +450,22 @@
 		<rom name="Biohazard 2 (Japan).v64" size="67108864" crc="31a3b913" md5="13b6f12b9f8cb0cb8c708c3132f7a372" sha1="8651451a9363da0b6783dee6bb99eb077b318bd5" serial="NB5J"/>
 	</game>
 	<game name="Blast Corps (Europe) (En,De)" id="0078">
+		<category>Games</category>
 		<description>Blast Corps (Europe) (En,De)</description>
 		<rom name="Blast Corps (Europe) (En,De).v64" size="8388608" crc="2ff810cf" md5="bd819802309e8e65ccc9f8eab8361223" sha1="9d42be8a947e64d4862d8a7c1fae57e10c2257ee" status="verified" serial="NBCP"/>
 	</game>
 	<game name="Blast Corps (USA)" id="0079" cloneofid="0078">
+		<category>Games</category>
 		<description>Blast Corps (USA)</description>
 		<rom name="Blast Corps (USA).v64" size="8388608" crc="22ca221d" md5="e579aa236d12725597dd4ed8c3e9350b" sha1="a6ad7fff57b10b782cede51d4558e19ad134f019" sha256="8b4af4928d96413b4eaaf2ce768c223cead563cd49b97c1692b84f2b2baf1300" status="verified" serial="NBCE"/>
 	</game>
 	<game name="Blast Corps (USA) (Rev 1)" id="0080" cloneofid="0078">
+		<category>Games</category>
 		<description>Blast Corps (USA) (Rev 1)</description>
 		<rom name="Blast Corps (USA) (Rev 1).v64" size="8388608" crc="23d415f8" md5="fd169651b23b5424c2d4cb5d9af81fc3" sha1="80e5365bd5ee8388e38a04b23bf3db9b5e4bf06b" serial="NBCE"/>
 	</game>
 	<game name="Blastdozer (Japan)" id="0081" cloneofid="0078">
+		<category>Games</category>
 		<description>Blastdozer (Japan)</description>
 		<rom name="Blastdozer (Japan).v64" size="8388608" crc="4605759e" md5="1691a0124a175f45954cc70c7dd98297" sha1="68c6d95af29c647b64d5dad90c02980b772d5faf" serial="NBCJ"/>
 	</game>
@@ -3597,6 +3618,7 @@
 		<rom name="Snobo Kids (Japan).v64" size="8388608" crc="9b691df4" md5="8fd0896369a6c9a01427bc878202bac4" sha1="739ab70a45cca33e8bf884c35be338ff4ce66f11" serial="NSKJ"/>
 	</game>
 	<game name="Snow Speeder (Japan)" id="0666" cloneofid="0074">
+		<category>Games</category>
 		<description>Snow Speeder (Japan)</description>
 		<rom name="Snow Speeder (Japan).v64" size="12582912" crc="5c98f900" md5="af71e732ab17533638132b01bb19ec2f" sha1="2ef8591e9750066e248075dc940ec4fc080ef905" serial="NSNJ"/>
 	</game>

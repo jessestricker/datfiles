@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260315-064014</version>
+		<version>20260317-121753</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1484,13 +1484,16 @@
 		<description>Mystic Ark (Japan) (Demo) (1995-6-26)</description>
 		<rom name="Mystic Ark (Japan) (Demo) (1995-6-26).bs" size="1048576" crc="45297dfd" md5="1524bd960eec5fe7e6dd9ec7233ea84e" sha1="97e94dfe241e454f437fa6f030825cfcd6023c54" sha256="9f0b018019c5a78864fadbf6f905b0aa26b00609b6d5b9c86cf48bc9514ec6e3"/>
 	</game>
-	<game name="New 3D Golf Simulation - Waialae no Kiseki (Japan)" id="3557">
-		<description>New 3D Golf Simulation - Waialae no Kiseki (Japan)</description>
-		<rom name="New 3D Golf Simulation - Waialae no Kiseki (Japan).bs" size="1048576" crc="87c888b8" md5="a49cbe7db2e8131f2da88be2777ab787" sha1="484f393a8455334861ecaf02b64fa99f0c9b6038" sha256="10509e3d463d8c21fe627fe9445aa6468024607c092e2ef05227b90d22750db7"/>
+	<game name="New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28)" id="3557">
+		<category>Games</category>
+		<description>New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28)</description>
+		<rom name="New 3D Golf Simulation - Waialae no Kiseki (Japan) (1997-10-28).bs" size="1048576" crc="87c888b8" md5="a49cbe7db2e8131f2da88be2777ab787" sha1="484f393a8455334861ecaf02b64fa99f0c9b6038" sha256="10509e3d463d8c21fe627fe9445aa6468024607c092e2ef05227b90d22750db7"/>
 	</game>
-	<game name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo)" id="3554">
-		<description>New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo)</description>
-		<rom name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo).bs" size="1048576" crc="ac79849c" md5="fa6dea2dc70e85e331ef2c33e5ee0fc7" sha1="7b3ae2980f4165da106ad6fc3fe58e840220cb5f" sha256="d1fdbbf85f37db20f214af813102da466c312b6955e0403ef7fb867433f94f98"/>
+	<game name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5)" id="3554">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5)</description>
+		<rom name="New Yatterman - Nandai Kandai Yajirobee (Japan) (Demo) (1996-5-5).bs" size="1048576" crc="ac79849c" md5="fa6dea2dc70e85e331ef2c33e5ee0fc7" sha1="7b3ae2980f4165da106ad6fc3fe58e840220cb5f" sha256="d1fdbbf85f37db20f214af813102da466c312b6955e0403ef7fb867433f94f98"/>
 	</game>
 	<game name="Nintama Rantarou 2 (Japan) (3-15)" id="1827">
 		<category>Games</category>
@@ -2072,10 +2075,11 @@
 		<description>Super Puyo Puyo Tsuu BS Ban (Japan) (12-3)</description>
 		<rom name="Super Puyo Puyo Tsuu BS Ban (Japan) (12-3).bs" size="1048576" crc="13951a1c" md5="2808f00d77a8d5b39c22e7158804abba" sha1="aef4b1ab411997244ed4dac0de105b28705a4f20" sha256="06f1f371e168cc2497750d5acda659d43c50f56dbe4d28c4cb6889f83b7cae0b"/>
 	</game>
-	<game name="Super Puyo Puyo Tsuu Remix (Japan) (3-4)" id="3520">
+	<game name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)" id="3520">
 		<category>Games</category>
-		<description>Super Puyo Puyo Tsuu Remix (Japan) (3-4)</description>
-		<rom name="Super Puyo Puyo Tsuu Remix (Japan) (3-4).bs" size="1048576" crc="5fc1fd18" md5="169828d7d34bd46fc720d81b233dae3f" sha1="a33d7dd85c0b79865c6c77a6b49694b67614488e" sha256="6d4f7d3c0fa7a92243fa9079beaa61dbbb93f52791c3b9eabc26acf3814bbbba"/>
+		<category>Magazines</category>
+		<description>Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan)</description>
+		<rom name="Super Puyo Puyo Tsuu Remix (3-4) + Bakushow Mondai no Silicon Chounaikai (1997-2-1 and 1997-2-8) (Japan).bs" size="1048576" crc="b4e8484d" md5="25d7fd9e383f96885647a72902fd1b27" sha1="617f1bd983088fe76b78496cd5a0bd012529a8e6" sha256="75c9459dc535f41abb534a101e6da6fba5df0b9c79b754622c42a19cd178b08c"/>
 	</game>
 	<game name="Super Puyo Puyo Tsuu Remix (5-16) + Game Tora no Chou Ooana (1996-5-19, Part 2) (Japan) (Game, SoundLink Magazine)" id="3838">
 		<category>Games</category>
@@ -2161,6 +2165,11 @@
 		<description>Sutte Hakkun - BS Version 2 (Japan) (1-5)</description>
 		<rom name="Sutte Hakkun - BS Version 2 (Japan) (1-5).bs" size="1048576" crc="54e8f9ee" md5="86d8d2abe64fcde5785666171dd8e00c" sha1="78885744fb724526242a0f1aa1951fd4ccd6f84e" sha256="ebbf426d12b7d70a65fb341d635209ce555b766641f0d277e6306ed5ffb6059f"/>
 	</game>
+	<game name="Sutte Hakkun - BS Version 2 (Japan) (11-25)" id="3983">
+		<category>Games</category>
+		<description>Sutte Hakkun - BS Version 2 (Japan) (11-25)</description>
+		<rom name="Sutte Hakkun - BS Version 2 (Japan) (11-25).bs" size="1048576" crc="c28a5000" md5="73a760c8f5ee888de0f96d83b0b8ed17" sha1="f642842413b07fc58d085fe0a3daf26004a34efe" sha256="2d42e9847039ad9d0a159d4e8d8dcfa1ded3f8d98af6265fc53ee19e8e758930"/>
+	</game>
 	<game name="Sutte Hakkun - Event Version (Japan) (6-5)" id="2940">
 		<description>Sutte Hakkun - Event Version (Japan) (6-5)</description>
 		<rom name="Sutte Hakkun - Event Version (Japan) (6-5).bs" size="1048576" crc="8cdd1054" md5="26603b9ca7a789ead6894262f5714ab4" sha1="6b0f6932b8761bf6e0c816ca9f782bd793a22c38" sha256="94ce952c4775cec5fa66424d73b6663e37e3f32648cd1aab2be865e219109457"/>
@@ -2242,7 +2251,7 @@
 	<game name="Tamori no Picross (Japan) (1995-6-26)" id="3473">
 		<category>Games</category>
 		<description>Tamori no Picross (Japan) (1995-6-26)</description>
-		<rom name="Tamori no Picross (Japan) (1995-6-26).bs" size="524288" crc="535becda" md5="9f778366e16e46ed0906c90de76a61f2" sha1="9667e997e614f445f2ba421c1bc0693752d595dc" sha256="af83b73f5681316020352f4459062f30cc64d9cdeb4418a0a8a8af7cb878f73d"/>
+		<rom name="Tamori no Picross (Japan) (1995-6-26).bs" size="1048576" crc="1feee8a2" md5="f0cecf105af3a6edb5c93a49065317cd" sha1="132dbfa5a8eeb9a85bf8414fc149111730456433" sha256="30db34ebfde40eb1c13c9659a9401d3127b914038c479f9ebb58655b78eaf22b"/>
 	</game>
 	<game name="Tamori no Picross (Japan) (1995-8-13)" id="3581">
 		<category>Games</category>
@@ -2265,6 +2274,12 @@
 		<description>Tamori no Picross (1995-5-3) + Game Tora no Ooana (1995-5-3) (Japan) (Game, SoundLink Magazine)</description>
 		<rom name="Tamori no Picross (1995-5-3) + Game Tora no Ooana (1995-5-3) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="847355ba" md5="b9583c16400194d6597ab7dcab6f78a8" sha1="f176cb8b16d5cee5b54aa4ce8021cd4e71247990" sha256="09d694fd4da96d816dc11e579e23e344f044025c1a4d4a1545aeee9a4b6f07d5"/>
 	</game>
+	<game name="Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine)" id="3984">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine)</description>
+		<rom name="Tamori no Picross (1995-6-13) + AK LIVE Hit Gang (1995-5-30) (Japan) (Game, Magazine).bs" size="1048576" crc="c7e1382d" md5="baf42c676b061249d0ff8a053543a28c" sha1="3c74ed92e18df4bc81b2cc79ccbc7e46b127b8c4" sha256="d185666dd954e87e103f708ecac311c14b452257349ab1c4987bcac7f2d57053"/>
+	</game>
 	<game name="Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan)" id="3650">
 		<description>Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan)</description>
 		<rom name="Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan).bs" size="1048576" crc="26a6d609" md5="b8edf62cb0f97b73658afe9492ba9242" sha1="18a582af6603ee0d60febf3a07b7796fb3151958" sha256="dbc6161119a2a8ba86ddfa0083a9c3d5c966d5909875fd83dc5c223c4ebb1ff4" status="verified"/>
@@ -2282,9 +2297,10 @@
 		<description>Top Racer 2 (Japan) (En)</description>
 		<rom name="Top Racer 2 (Japan) (En).bs" size="1048576" crc="c8d54976" md5="0210c2628d721b5e212e21b679334258" sha1="7d6a70b68a7d9fb7cf48a889b96934d276ab2383" sha256="cd8c0a4e78145b33df8b9e291954d400b98a838a79b58380d10053216eb60fca"/>
 	</game>
-	<game name="Tora Maga Daisakusen (Japan) (12-21) (Magazine)" id="3556">
-		<description>Tora Maga Daisakusen (Japan) (12-21) (Magazine)</description>
-		<rom name="Tora Maga Daisakusen (Japan) (12-21) (Magazine).bs" size="1048576" crc="47baffa7" md5="bd294663c30d771904d5fa3c0d02dcac" sha1="f97e44a0df56c7b47964d07d50e38487f2c530b5" sha256="f370937f127dfba2d14896a243234515e0b01156d212c77155810f754a1ea7f5"/>
+	<game name="Tora Maga Daisakusen (Japan) (1997-12-21) (Magazine)" id="3556">
+		<category>Magazines</category>
+		<description>Tora Maga Daisakusen (Japan) (1997-12-21) (Magazine)</description>
+		<rom name="Tora Maga Daisakusen (Japan) (1997-12-21) (Magazine).bs" size="1048576" crc="47baffa7" md5="bd294663c30d771904d5fa3c0d02dcac" sha1="f97e44a0df56c7b47964d07d50e38487f2c530b5" sha256="f370937f127dfba2d14896a243234515e0b01156d212c77155810f754a1ea7f5"/>
 	</game>
 	<game name="Treasure Conflix (Japan)" id="3122">
 		<description>Treasure Conflix (Japan)</description>

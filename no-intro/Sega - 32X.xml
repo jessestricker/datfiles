@@ -4,7 +4,7 @@
 		<id>17</id>
 		<name>Sega - 32X</name>
 		<description>Sega - 32X</description>
-		<version>20260122-193645</version>
+		<version>20260317-140429</version>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -945,10 +945,10 @@
 		<description>Stellar Assault (USA, Europe)</description>
 		<rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72" sha256="2f9b6017258fbb1c37d81df07c68d5255495d3bf76d9c7b680ff66bccf665750" serial="MK-84509-00"/>
 	</game>
-	<game name="Stellar Assault (Japan)" id="0060" cloneofid="0042">
+	<game name="Stellar Assault (Japan) (En)" id="0060" cloneofid="0042">
 		<category>Games</category>
-		<description>Stellar Assault (Japan)</description>
-		<rom name="Stellar Assault (Japan).32x" size="2097152" crc="fce4c8c7" md5="5f6c601dcecca937b6f2c2161e4566fe" sha1="ff4f1a2dded85f3ad43bf28a85c46ad8595d5614" sha256="faaabb7140552cf140047dc0d66d029fcc392d66540b1edeff4bdd8c176a2030" status="verified" serial="GM-04010-00"/>
+		<description>Stellar Assault (Japan) (En)</description>
+		<rom name="Stellar Assault (Japan) (En).32x" size="2097152" crc="fce4c8c7" md5="5f6c601dcecca937b6f2c2161e4566fe" sha1="ff4f1a2dded85f3ad43bf28a85c46ad8595d5614" sha256="faaabb7140552cf140047dc0d66d029fcc392d66540b1edeff4bdd8c176a2030" status="verified" serial="GM-04010-00"/>
 	</game>
 	<game name="Stellar Assault (Japan) (En) (Beta 1)" id="0159" cloneofid="0042">
 		<category>Games</category>
