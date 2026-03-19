@@ -4,8 +4,8 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260317-040458</version>
-		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260318-161930</version>
+		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -6480,10 +6480,10 @@
 		<description>Kien (USA) (Proto)</description>
 		<rom name="Kien (USA) (Proto).gba" size="8388608" crc="185c2eca" md5="fe8f2d7b6b58cb78ca51f8bceaa0f254" sha1="da1673ec5ec35f8ececa3f04cb6a92d61237ce72" serial="XXXE"/>
 	</game>
-	<game name="Kien (World) (Incub8 Games) (Unl)" id="3151">
+	<game name="Kien (World) (Incube8 Games) (Unl)" id="3151">
 		<category>Games</category>
-		<description>Kien (World) (Incub8 Games) (Unl)</description>
-		<rom name="Kien (World) (Incub8 Games) (Unl).gba" size="8350032" crc="5a64b473" md5="a509c1b5fa74f70550ee81386c7fe4b9" sha1="3cf07cd95e5a83b65c773111051a50d9bef367eb" status="verified"/>
+		<description>Kien (World) (Incube8 Games) (Unl)</description>
+		<rom name="Kien (World) (Incube8 Games) (Unl).gba" size="8350032" crc="5a64b473" md5="a509c1b5fa74f70550ee81386c7fe4b9" sha1="3cf07cd95e5a83b65c773111051a50d9bef367eb" status="verified"/>
 	</game>
 	<game name="Kikaika Guntai - Mech Platoon (Japan)" id="0361" cloneofid="0205">
 		<description>Kikaika Guntai - Mech Platoon (Japan)</description>
@@ -11286,7 +11286,7 @@
 	</game>
 	<game name="Sigma Star Saga DX (World) (Limited Run Games)" id="3298" cloneofid="2065">
 		<description>Sigma Star Saga DX (World) (Limited Run Games)</description>
-		<rom name="Sigma Star Saga DX (World) (Limited Run Games).gba" size="16777216" crc="ff797ac9" md5="5a2dc24d450d9733cbf1d755ebc40af4" sha1="9310aa93aedbf2394e848fc56339a22a71bc81a1" sha256="df1e94a01aec3aad70073702c9fd0827bc6b5ccc28a06b03f6ab4b8458ee5fc0" mia="yes"/>
+		<rom name="Sigma Star Saga DX (World) (Limited Run Games).gba" size="16777216" crc="ff797ac9" md5="5a2dc24d450d9733cbf1d755ebc40af4" sha1="9310aa93aedbf2394e848fc56339a22a71bc81a1" sha256="df1e94a01aec3aad70073702c9fd0827bc6b5ccc28a06b03f6ab4b8458ee5fc0"/>
 	</game>
 	<game name="Silent Scope (Europe) (En,Fr,De,Es,It)" id="1894">
 		<description>Silent Scope (Europe) (En,Fr,De,Es,It)</description>

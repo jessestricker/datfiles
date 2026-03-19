@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260317-140524</version>
+		<version>20260318-144742</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -470,10 +470,12 @@
 		<rom name="Blastdozer (Japan).v64" size="8388608" crc="4605759e" md5="1691a0124a175f45954cc70c7dd98297" sha1="68c6d95af29c647b64d5dad90c02980b772d5faf" serial="NBCJ"/>
 	</game>
 	<game name="Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)" id="0082">
+		<category>Games</category>
 		<description>Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).v64" size="16777216" crc="56507793" md5="37d5409ebb172e00cefaa8b1f14c39b2" sha1="a3e21ec8bf3de87d257f254ab68879981eaed4a9" status="verified" serial="NBPP"/>
 	</game>
 	<game name="Blues Brothers 2000 (USA)" id="0083" cloneofid="0082">
+		<category>Games</category>
 		<description>Blues Brothers 2000 (USA)</description>
 		<rom name="Blues Brothers 2000 (USA).v64" size="16777216" crc="109907b5" md5="d7f17e918ab32f64a67409dc86d89c5c" sha1="62655484f77091f31fb6a8142af90ae58489e0e2" serial="NBPE"/>
 	</game>
@@ -484,10 +486,12 @@
 		<rom name="Blues Brothers 2000 (Europe) (Beta) (2000-01-15).v64" size="16777216" crc="a92af79b" md5="bad3e0bbf84dc495adf8f4f51fe587f2" sha1="73de9bd5668b8c1d3df9007631816c58837ba3d5" sha256="cebc493a1cc446d95eba43c7f2e6bd79d3644f7dae1089d01abe6a315a802824"/>
 	</game>
 	<game name="Body Harvest (Europe) (En,Fr,De)" id="0084">
+		<category>Games</category>
 		<description>Body Harvest (Europe) (En,Fr,De)</description>
 		<rom name="Body Harvest (Europe) (En,Fr,De).v64" size="12582912" crc="2761bdae" md5="1f065db3baa31487de47defe56dcd374" sha1="c366cec6dfe3b724648486f0940d9a2c091c5e14" status="verified" serial="NBHP"/>
 	</game>
 	<game name="Body Harvest (USA)" id="0085" cloneofid="0084">
+		<category>Games</category>
 		<description>Body Harvest (USA)</description>
 		<rom name="Body Harvest (USA).v64" size="12582912" crc="7b878c56" md5="20113a1ac62660f507b00e541a3ac584" sha1="f61c30bc6feaac9700578a865d552ae42079b0e5" serial="NBHE"/>
 	</game>
