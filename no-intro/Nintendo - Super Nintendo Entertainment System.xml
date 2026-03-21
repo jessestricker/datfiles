@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260312-052357</version>
+		<version>20260319-181811</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19780,6 +19780,11 @@
 		<category>Games</category>
 		<description>Hercules (USA) (Pirate)</description>
 		<rom name="Hercules (USA) (Pirate).sfc" size="2097152" crc="45874d3d" md5="ca0b233e0b944c0ecd9d7cf223b74322" sha1="3e5d077c4ca1bb85f13cf12cc4432569b069b454" sha256="1559bf1b4300003552aecde1673607b467917a035d9ba504f020982ba4379da3"/>
+	</game>
+	<game name="Hori GameCube Controller Test (Japan) (En)" id="4567">
+		<category>Applications</category>
+		<description>Hori GameCube Controller Test (Japan) (En)</description>
+		<rom name="Hori GameCube Controller Test (Japan) (En).sfc" size="524288" crc="a7da7773" md5="d916e9f542292c89a542788b03e1d076" sha1="55b77707eff341882630edff499b417c83d223fa" sha256="8bad0ae24d0393d44263c95951683153ed8b9b4e80389e3003a258842dc62bfe" serial="!none"/>
 	</game>
 	<game name="Humans, The (World) (QUByte Classics)" id="4289" cloneofid="1100">
 		<category>Games</category>

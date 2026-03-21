@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260318-144742</version>
+		<version>20260320-114439</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -305,10 +305,12 @@
 		<rom name="Automobili Lamborghini (USA).z64" size="4194304" crc="a4374eac" md5="ec39579f066a9714ff030d07dec3c9d3" sha1="78b36b48040426478011caef5e11884af2e80375" sha256="cab2467684a58bc19c787423d704a961aa497629763367d9fe691172de58591c" serial="NLCE"/>
 	</game>
 	<game name="Baku Bomberman (Japan)" id="0051" cloneofid="0087">
+		<category>Games</category>
 		<description>Baku Bomberman (Japan)</description>
 		<rom name="Baku Bomberman (Japan).z64" size="8388608" crc="22f54a52" md5="8183688a4b7d0a390496b5655bcd252e" sha1="4813b147d552f72fdb0b306469bf9aa0f820fd5b" sha256="7a36567a0a26dfdcb6f24eb454be9f9cd815cf96d6660867845e8a55434084cf" status="verified" serial="NBMJ"/>
 	</game>
 	<game name="Baku Bomberman 2 (Japan)" id="0052" cloneofid="0090">
+		<category>Games</category>
 		<description>Baku Bomberman 2 (Japan)</description>
 		<rom name="Baku Bomberman 2 (Japan).z64" size="16777216" crc="86bbc278" md5="ca956015b6820dcff1c814f3532e18b1" sha1="179cab7426755f14bd3f4999f3789eb6d7af64c4" sha256="45c622c2e6d65ceb255c531b499c78d0e1880c32e9e9d7b804c617549f3da7cb" serial="NBVJ"/>
 	</game>
@@ -508,6 +510,7 @@
 		<rom name="Bokujou Monogatari 2 (Japan) (Rev 2).z64" size="16777216" crc="9181c1b7" md5="24e3ee6a54278db65c463804f2bb6223" sha1="74c5fd9647b702e889a5f2094d4bc4001bd6f68b" sha256="fd0390c22834604f4c894d7507f6d6ba768fea60aa374d1382bde535c02cc265" serial="NYWJ"/>
 	</game>
 	<game name="Bomberman 64 (Europe)" id="0087">
+		<category>Games</category>
 		<description>Bomberman 64 (Europe)</description>
 		<rom name="Bomberman 64 (Europe).z64" size="8388608" crc="525339c5" md5="b68f49aa8f6f7499184ac6b7b8570f2b" sha1="01e50f41733994bf229bee3b3d8aa9fd46441175" sha256="412112a3a7dbd712c9d7420028144b47691768aa6a26846c897abae8c9a69157" status="verified" serial="NBMP"/>
 	</game>
@@ -516,22 +519,27 @@
 		<rom name="Bomberman 64 (Japan).z64" size="16777216" crc="cb9bd3f5" md5="d54fd7067bd774e32b57f9c2c0496899" sha1="62f091b8b951238a7fb98459257ecc8a9095f6e9" sha256="5c7fb711f3885f3d8682955e5c88e4bb47c9bfbb996d8423b6da8f1e8f8884a2"/>
 	</game>
 	<game name="Bomberman 64 (USA)" id="0089" cloneofid="0087">
+		<category>Games</category>
 		<description>Bomberman 64 (USA)</description>
 		<rom name="Bomberman 64 (USA).z64" size="8388608" crc="3ed0e0dc" md5="093058ece14c8cc1a887b2087eb5cfe9" sha1="8a7648d8105ac4fc1ad942291b2ef89aeca921c9" sha256="e6da7c26127788cd894b88b71cc055ff9dec0d0f4f8e10d9b15b40153af2b52a" status="verified" serial="NBME"/>
 	</game>
 	<game name="Bomberman 64 - The Second Attack! (USA)" id="0090">
+		<category>Games</category>
 		<description>Bomberman 64 - The Second Attack! (USA)</description>
 		<rom name="Bomberman 64 - The Second Attack! (USA).z64" size="16777216" crc="57550007" md5="aec1fdb0f1caad86c9f457989a4ce482" sha1="66b1fd763793ecc6e03aa6c5d023df8de5351b9e" sha256="96f641120471a1d5dab848dffdeeeeb7c4002333a06763ae20e14af72126efd8" serial="NBVE"/>
 	</game>
 	<game name="Bomberman Hero (Europe)" id="0091">
+		<category>Games</category>
 		<description>Bomberman Hero (Europe)</description>
 		<rom name="Bomberman Hero (Europe).z64" size="12582912" crc="59e39947" md5="f79ef0813157880ffbad6199e07579be" sha1="ba1e6a4cc323a83d7c14573c9128ab9f9b60e5f2" sha256="f0323b303dfd4fc0f8eafba20aa8dac25c764ec8ec7a2e4d5933d38f5a763fc3" status="verified" serial="NBDP"/>
 	</game>
 	<game name="Bomberman Hero (USA)" id="0092" cloneofid="0091">
+		<category>Games</category>
 		<description>Bomberman Hero (USA)</description>
 		<rom name="Bomberman Hero (USA).z64" size="12582912" crc="2cc2e634" md5="ef2453bff7ad0c4bfa9ab0bd6324ebf3" sha1="a36364b7e59351f7551ab351cb3b41ebc4be285b" sha256="e021ec484a88c528256dbff80617e599768b074b0918dcec081ecbf365386542" status="verified" serial="NBDE"/>
 	</game>
 	<game name="Bomberman Hero - Mirian Oujo o Sukue! (Japan)" id="0093" cloneofid="0091">
+		<category>Games</category>
 		<description>Bomberman Hero - Mirian Oujo o Sukue! (Japan)</description>
 		<rom name="Bomberman Hero - Mirian Oujo o Sukue! (Japan).z64" size="12582912" crc="69ceabcc" md5="ee273763c7391458865ff26c7ea0c3f1" sha1="ae3f4f7c31ddbd14843d9beb932fc5aa21746211" sha256="ce37c2dd12c17f413d94f802760ebf669ceef964044beb44879b3f87e40881d7" status="verified" serial="NBDJ"/>
 	</game>
@@ -540,6 +548,7 @@
 		<rom name="Bottom of the 9th (USA).z64" size="16777216" crc="1844c8ca" md5="fb19afd5e8c49978e6e6ae3622e0498a" sha1="4ee0e3768b9f23112e4e5ef0c81a2b29ae22eab2" sha256="f814ecc17de9e4035c324b35f636cef299149e8bf96b9d46fe07fbbcfb98cae3" serial="NBOE"/>
 	</game>
 	<game name="Brunswick Circuit Pro Bowling (USA)" id="0095">
+		<category>Games</category>
 		<description>Brunswick Circuit Pro Bowling (USA)</description>
 		<rom name="Brunswick Circuit Pro Bowling (USA).z64" size="8388608" crc="80d70173" md5="62e92102d6fd1701a6e904da6ab58ae8" sha1="91f6f7843a7413126a7b4026104526615f979134" sha256="0820db5f76a45bbbe6323176b70d4a93256ccde925aee91a6bb500fd0fbd859a" serial="NOWE"/>
 	</game>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (256) (2026-03-08 15-42-43)</description>
-		<version>2026-03-08 15-42-43</version>
-		<date>2026-03-08 15-42-43</date>
+		<description>Photo CD - Discs (256) (2026-03-20 23-23-29)</description>
+		<version>2026-03-20 23-23-29</version>
+		<date>2026-03-20 23-23-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -286,44 +286,44 @@
 		<rom name="Photo CD Demo Disc Version 3.0 (Europe).cue" size="128" crc="f8e503ad" md5="4d17022ef5982b72dc832cb733df6feb" sha1="fc781321d2814819ba8dce5a8a11a1009faa0fc3"/>
 		<rom name="Photo CD Demo Disc Version 3.0 (Europe).bin" size="463108800" crc="58fce69a" md5="c5cb66dff16c1ec69bc118a394eab777" sha1="2e58f75acdc88a90484cfc3ed4ea0cfc0753e1b1"/>
 	</game>
-	<game name="Randy's - Randy to Nakama-tachi (Japan)">
+	<game name="Randy's - Randy to Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Randy's - Randy to Nakama-tachi (Japan)</description>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan).cue" size="4543" crc="3e6780de" md5="f6c0901b7bd537d9e5f2a4249343e716" sha1="e3a2dc1ca18870f0114dbb69ba5e0698736c45ee"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 01).bin" size="710304" crc="58e9fa26" md5="4a4ebdeed65f26f40bae89987be39b02" sha1="e6ea431e0633332d436dc95303bc9edba086d591"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 02).bin" size="50231664" crc="eda07a21" md5="aa56df515e5638b8e44865079ca36ae2" sha1="67db9b32e4d6e5626ac316e2709755104149dd04"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 03).bin" size="11879952" crc="92a619d4" md5="a32ae6e1ad2bc1917c7054626fc48d9c" sha1="3c293beacc4d72784047278ea1db64e4591ed140"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 04).bin" size="6138720" crc="4185c1d8" md5="4822d3fd407791338fbbdfd4f8ac2ae8" sha1="bab5e578d6cc860a7faeee2bc40ba661a6381adf"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 05).bin" size="7140672" crc="c44e2a4b" md5="5dcdd40d3f01c86470f1e95ff3fa9ec6" sha1="438ae52769e190c9f7df1cce471c4ee6d53f7d58"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 06).bin" size="6526800" crc="06564644" md5="a5583ca2192a6bea4bbb056dea98d181" sha1="f73fb34f77ce10d6b2919e572fcf61f0bb6ddba1"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 07).bin" size="6413904" crc="3665ee8c" md5="1a52d6fbb07bd8b001df70a2b837196a" sha1="b7b61da297751bc50949af011669fa9e280d33b6"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 08).bin" size="10358208" crc="9425569c" md5="aa0d809b28dcc868d4ed45ee9e04e678" sha1="9d6142037faf9755f3245f1d0297ef29a438c598"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 09).bin" size="7843920" crc="5fed972c" md5="14b6b5a94049c381c01298e4fd23f3aa" sha1="33081ffc63b17ff5cc7526f06e506633d48b024b"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 10).bin" size="6380976" crc="b2ba41eb" md5="c19bb9f5f425752e3907b1cb8495e020" sha1="982780d9b7b9ae12052f6b5f30fbf0a88338abe9"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 11).bin" size="5553072" crc="9255d8f6" md5="75e53251a89256db0ea38dae78ba8d81" sha1="f22827095d208d83435bef927cf16d134074c281"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 12).bin" size="9106944" crc="7cb1b316" md5="3453e003d692066a99afc28291ca13b9" sha1="6fdc05ecc6a5a1d9058b963ddf7e8e0525ae65a8"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 13).bin" size="6301008" crc="5c4a4e40" md5="4afe36ff8e1f366b5c2c45a6fb665a0c" sha1="305940765378c417548240190e7d25bad34d165d"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 14).bin" size="8516592" crc="fcf10ffe" md5="c5b13ce50535dff92fd1919bbd221cc4" sha1="f277418ace8be2f23ec72c067d5470802a449e08"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 15).bin" size="7985040" crc="940d29e3" md5="91c25f41d2f781227f242c38727a183e" sha1="417f4bf80eb556e409bed590eb0ee70bb3324aff"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 16).bin" size="8620080" crc="aa929ce9" md5="616faecf841a352ecdb43b10c9bcd59a" sha1="4a83799991d408b11f1633a8e152834192c08171"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 17).bin" size="5894112" crc="35efd7e1" md5="bc3edbe759c0dfb2882556a273b92064" sha1="c9023dd043ae8b1c5e4ad4785f25624f8405570a"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 18).bin" size="10868592" crc="6a61c28e" md5="71b2829f0c7ef7e7aefe5a415fb176a4" sha1="720f3f073ee2e9fa5fe549b4f092463536eee15a"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 19).bin" size="5240256" crc="706069c9" md5="3eb65750288119c57f7736472d0b7027" sha1="26eb943f3f2596214ffc97d9a2052931ad3a1298"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 20).bin" size="8582448" crc="a422ee74" md5="de016f610ba0e113d5548696d792346b" sha1="e7448b05654e86332221354d3fbc9424d20c8454"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 21).bin" size="13338192" crc="b8071aa6" md5="c200b55811ed0c8fa9dd66361c6f93d2" sha1="c888b7eb4a4913d1341c01b0f430031c4f960c11"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 22).bin" size="8335488" crc="e320d37b" md5="6cd40edcfe836d92adb97844c876be14" sha1="e1b30485221c6c42fdad93b671b2e5d28d6fbecd"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 23).bin" size="18228000" crc="f5c57b8f" md5="67273e3b6d27dcbfaa8440c987c9024f" sha1="27f5ac24be722b73a6457a94cc707d3e217e8af2"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 24).bin" size="33871152" crc="c60ed2d8" md5="f3a5240c29699827d89db054054a61dd" sha1="009c45c0df2c5e4e2885bc88c09aa08f575aa462"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 25).bin" size="7926240" crc="ea353b40" md5="0d2e585a5ee740e5198afd7c9047f531" sha1="9ca6dd1f869c909fc2ee843047758f2f9a03ff47"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 26).bin" size="8883504" crc="e8d98dda" md5="ade38158cb5222961caaf8ef657b307c" sha1="5c8bbc640d49d002f0dfe0073f845ea0a96fb96f"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 27).bin" size="47077632" crc="5ac942bb" md5="a3fc1188a906b27a8a7f179178ca30d0" sha1="c0bd38e8b3611045ea4dd42112d2412bf74f54c2"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 28).bin" size="1058400" crc="2b0b4a8c" md5="24abdb218195bb3263028c4a680b42b7" sha1="b37bbb0dc5a7d31992d80cd571905ad90724c8f2"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 29).bin" size="9231600" crc="cc8d7d40" md5="ed9901b9d687353f2fd77ac575e197cf" sha1="00d7842787b37f4ea704ac76f0989ce9e6466a53"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 30).bin" size="9455040" crc="4e45a4d0" md5="321f0b92ae4a8c3da3f85c2d3a3f452e" sha1="03cc2223428ce1051c51b816bbc02a45fce5e1e5"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 31).bin" size="6268080" crc="3891a829" md5="03bb97180cf61df3c6a25b57278ae454" sha1="18ca568f1ebfdc69353b9b3fc09e5c9c01fedd13"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 32).bin" size="7008960" crc="e02f43d8" md5="73a4614b064b57cc356251cbb5f2d7c7" sha1="01fa80e81a422e2a17ce71c6c9243077d16a965e"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 33).bin" size="10743936" crc="dd8c37e1" md5="694414f1dea4e32c66c36f5b9d34d56f" sha1="b774e54948a002b7382e94863f11bbaba75e562e"/>
-		<rom name="Randy's - Randy to Nakama-tachi (Japan) (Track 34).bin" size="19324032" crc="c9d17f04" md5="887f73acd3a032ffbef3bc01c263d9f1" sha1="4cd608592fbe11ed21eec07f7523d6953e7e5bd8"/>
+		<description>Randy's - Randy to Nakamatachi (Japan)</description>
+		<rom name="Randy's - Randy to Nakamatachi (Japan).cue" size="4509" crc="25d4f6a8" md5="b96f6c2dc9d71108b61ce23f79a0e1b4" sha1="d11f701646e7058cd674fa9de1f56e96cd9fed68"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 01).bin" size="710304" crc="58e9fa26" md5="4a4ebdeed65f26f40bae89987be39b02" sha1="e6ea431e0633332d436dc95303bc9edba086d591"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 02).bin" size="50231664" crc="eda07a21" md5="aa56df515e5638b8e44865079ca36ae2" sha1="67db9b32e4d6e5626ac316e2709755104149dd04"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 03).bin" size="11879952" crc="92a619d4" md5="a32ae6e1ad2bc1917c7054626fc48d9c" sha1="3c293beacc4d72784047278ea1db64e4591ed140"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 04).bin" size="6138720" crc="4185c1d8" md5="4822d3fd407791338fbbdfd4f8ac2ae8" sha1="bab5e578d6cc860a7faeee2bc40ba661a6381adf"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 05).bin" size="7140672" crc="c44e2a4b" md5="5dcdd40d3f01c86470f1e95ff3fa9ec6" sha1="438ae52769e190c9f7df1cce471c4ee6d53f7d58"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 06).bin" size="6526800" crc="06564644" md5="a5583ca2192a6bea4bbb056dea98d181" sha1="f73fb34f77ce10d6b2919e572fcf61f0bb6ddba1"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 07).bin" size="6413904" crc="3665ee8c" md5="1a52d6fbb07bd8b001df70a2b837196a" sha1="b7b61da297751bc50949af011669fa9e280d33b6"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 08).bin" size="10358208" crc="9425569c" md5="aa0d809b28dcc868d4ed45ee9e04e678" sha1="9d6142037faf9755f3245f1d0297ef29a438c598"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 09).bin" size="7843920" crc="5fed972c" md5="14b6b5a94049c381c01298e4fd23f3aa" sha1="33081ffc63b17ff5cc7526f06e506633d48b024b"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 10).bin" size="6380976" crc="b2ba41eb" md5="c19bb9f5f425752e3907b1cb8495e020" sha1="982780d9b7b9ae12052f6b5f30fbf0a88338abe9"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 11).bin" size="5553072" crc="9255d8f6" md5="75e53251a89256db0ea38dae78ba8d81" sha1="f22827095d208d83435bef927cf16d134074c281"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 12).bin" size="9106944" crc="7cb1b316" md5="3453e003d692066a99afc28291ca13b9" sha1="6fdc05ecc6a5a1d9058b963ddf7e8e0525ae65a8"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 13).bin" size="6301008" crc="5c4a4e40" md5="4afe36ff8e1f366b5c2c45a6fb665a0c" sha1="305940765378c417548240190e7d25bad34d165d"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 14).bin" size="8516592" crc="fcf10ffe" md5="c5b13ce50535dff92fd1919bbd221cc4" sha1="f277418ace8be2f23ec72c067d5470802a449e08"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 15).bin" size="7985040" crc="940d29e3" md5="91c25f41d2f781227f242c38727a183e" sha1="417f4bf80eb556e409bed590eb0ee70bb3324aff"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 16).bin" size="8620080" crc="aa929ce9" md5="616faecf841a352ecdb43b10c9bcd59a" sha1="4a83799991d408b11f1633a8e152834192c08171"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 17).bin" size="5894112" crc="35efd7e1" md5="bc3edbe759c0dfb2882556a273b92064" sha1="c9023dd043ae8b1c5e4ad4785f25624f8405570a"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 18).bin" size="10868592" crc="6a61c28e" md5="71b2829f0c7ef7e7aefe5a415fb176a4" sha1="720f3f073ee2e9fa5fe549b4f092463536eee15a"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 19).bin" size="5240256" crc="706069c9" md5="3eb65750288119c57f7736472d0b7027" sha1="26eb943f3f2596214ffc97d9a2052931ad3a1298"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 20).bin" size="8582448" crc="a422ee74" md5="de016f610ba0e113d5548696d792346b" sha1="e7448b05654e86332221354d3fbc9424d20c8454"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 21).bin" size="13338192" crc="b8071aa6" md5="c200b55811ed0c8fa9dd66361c6f93d2" sha1="c888b7eb4a4913d1341c01b0f430031c4f960c11"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 22).bin" size="8335488" crc="e320d37b" md5="6cd40edcfe836d92adb97844c876be14" sha1="e1b30485221c6c42fdad93b671b2e5d28d6fbecd"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 23).bin" size="18228000" crc="f5c57b8f" md5="67273e3b6d27dcbfaa8440c987c9024f" sha1="27f5ac24be722b73a6457a94cc707d3e217e8af2"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 24).bin" size="33871152" crc="c60ed2d8" md5="f3a5240c29699827d89db054054a61dd" sha1="009c45c0df2c5e4e2885bc88c09aa08f575aa462"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 25).bin" size="7926240" crc="ea353b40" md5="0d2e585a5ee740e5198afd7c9047f531" sha1="9ca6dd1f869c909fc2ee843047758f2f9a03ff47"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 26).bin" size="8883504" crc="e8d98dda" md5="ade38158cb5222961caaf8ef657b307c" sha1="5c8bbc640d49d002f0dfe0073f845ea0a96fb96f"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 27).bin" size="47077632" crc="5ac942bb" md5="a3fc1188a906b27a8a7f179178ca30d0" sha1="c0bd38e8b3611045ea4dd42112d2412bf74f54c2"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 28).bin" size="1058400" crc="2b0b4a8c" md5="24abdb218195bb3263028c4a680b42b7" sha1="b37bbb0dc5a7d31992d80cd571905ad90724c8f2"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 29).bin" size="9231600" crc="cc8d7d40" md5="ed9901b9d687353f2fd77ac575e197cf" sha1="00d7842787b37f4ea704ac76f0989ce9e6466a53"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 30).bin" size="9455040" crc="4e45a4d0" md5="321f0b92ae4a8c3da3f85c2d3a3f452e" sha1="03cc2223428ce1051c51b816bbc02a45fce5e1e5"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 31).bin" size="6268080" crc="3891a829" md5="03bb97180cf61df3c6a25b57278ae454" sha1="18ca568f1ebfdc69353b9b3fc09e5c9c01fedd13"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 32).bin" size="7008960" crc="e02f43d8" md5="73a4614b064b57cc356251cbb5f2d7c7" sha1="01fa80e81a422e2a17ce71c6c9243077d16a965e"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 33).bin" size="10743936" crc="dd8c37e1" md5="694414f1dea4e32c66c36f5b9d34d56f" sha1="b774e54948a002b7382e94863f11bbaba75e562e"/>
+		<rom name="Randy's - Randy to Nakamatachi (Japan) (Track 34).bin" size="19324032" crc="c9d17f04" md5="887f73acd3a032ffbef3bc01c263d9f1" sha1="4cd608592fbe11ed21eec07f7523d6953e7e5bd8"/>
 	</game>
 	<game name="True Heart - Pajo no Sutekina Ichinichi (Japan)">
 		<category>Games</category>

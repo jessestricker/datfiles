@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3663) (2026-03-16 04-16-16)</description>
-		<version>2026-03-16 04-16-16</version>
-		<date>2026-03-16 04-16-16</date>
+		<description>Microsoft - Xbox 360 - Discs (3666) (2026-03-21 14-54-11)</description>
+		<version>2026-03-21 14-54-11</version>
+		<date>2026-03-21 14-54-11</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9744,10 +9744,10 @@
 		<description>Dynasty Warriors 5 - Empires (Europe)</description>
 		<rom name="Dynasty Warriors 5 - Empires (Europe).iso" size="7834892288" crc="6dabc9a4" md5="feb16ee1d285464657ea5c1f0d3c6608" sha1="82fc63021a0919d8b97584682babf0654997c0a9"/>
 	</game>
-	<game name="Dynasty Warriors 6 - Empires (USA, Europe)">
+	<game name="Dynasty Warriors 6 - Empires (USA, Europe) (En,Fr,De)">
 		<category>Games</category>
-		<description>Dynasty Warriors 6 - Empires (USA, Europe)</description>
-		<rom name="Dynasty Warriors 6 - Empires (USA, Europe).iso" size="7838695424" crc="972593fa" md5="977b482c2830d69b9cb05632fb778b73" sha1="117e3ef5113af44b0d1d69ba701f3ed5606fe599"/>
+		<description>Dynasty Warriors 6 - Empires (USA, Europe) (En,Fr,De)</description>
+		<rom name="Dynasty Warriors 6 - Empires (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="972593fa" md5="977b482c2830d69b9cb05632fb778b73" sha1="117e3ef5113af44b0d1d69ba701f3ed5606fe599"/>
 	</game>
 	<game name="NHL 2K8 (Europe)">
 		<category>Games</category>
@@ -9814,10 +9814,10 @@
 		<description>Red Dead Redemption (Japan)</description>
 		<rom name="Red Dead Redemption (Japan).iso" size="7838695424" crc="2a3d33f7" md5="7fdffb192436602e12688d5d68021ab0" sha1="45ab4a65547215685f85027c062b25716b6770ed"/>
 	</game>
-	<game name="World Soccer Winning Eleven 2009 (Japan)">
+	<game name="World Soccer Winning Eleven 2009 (Japan) (En,Ja)">
 		<category>Games</category>
-		<description>World Soccer Winning Eleven 2009 (Japan)</description>
-		<rom name="World Soccer Winning Eleven 2009 (Japan).iso" size="7835492352" crc="a8f4ca77" md5="2dc2f1cbeeec26a21865915194044391" sha1="195fea2dc84f30c98bf9ed65f537385a00b1759e"/>
+		<description>World Soccer Winning Eleven 2009 (Japan) (En,Ja)</description>
+		<rom name="World Soccer Winning Eleven 2009 (Japan) (En,Ja).iso" size="7835492352" crc="a8f4ca77" md5="2dc2f1cbeeec26a21865915194044391" sha1="195fea2dc84f30c98bf9ed65f537385a00b1759e"/>
 	</game>
 	<game name="Gears of War 3 (Italy) (En,It)">
 		<category>Games</category>
@@ -14434,10 +14434,10 @@
 		<description>Radirgy Noa Massive (Japan) (En,Ja)</description>
 		<rom name="Radirgy Noa Massive (Japan) (En,Ja).iso" size="7838695424" crc="79107315" md5="219b3e71c8d984c2bc6b63d90d2a84cf" sha1="1db1f9884cbcf9fc6ccc45c2fae5157f21f8cedd"/>
 	</game>
-	<game name="Sengoku-hime 2 - Senran no Yo, Gunyuu Arashi no Gotoku (Japan)">
+	<game name="Sengoku Hime 2 - Senran no Yo, Gun'yuu Arashi no Gotoku (Japan)">
 		<category>Games</category>
-		<description>Sengoku-hime 2 - Senran no Yo, Gunyuu Arashi no Gotoku (Japan)</description>
-		<rom name="Sengoku-hime 2 - Senran no Yo, Gunyuu Arashi no Gotoku (Japan).iso" size="7838695424" crc="3ff1958f" md5="55138d182bcc9f76a97ad050060f26e7" sha1="86658e565a8487a524cb04f66ad13c6b0be0d5d5"/>
+		<description>Sengoku Hime 2 - Senran no Yo, Gun'yuu Arashi no Gotoku (Japan)</description>
+		<rom name="Sengoku Hime 2 - Senran no Yo, Gun'yuu Arashi no Gotoku (Japan).iso" size="7838695424" crc="3ff1958f" md5="55138d182bcc9f76a97ad050060f26e7" sha1="86658e565a8487a524cb04f66ad13c6b0be0d5d5"/>
 	</game>
 	<game name="Tomoyo After - It's a Wonderful Life - CS Edition (Japan)">
 		<category>Games</category>
@@ -18319,19 +18319,34 @@
 		<description>World Soccer Winning Eleven 2012 (Asia) (En,Zh)</description>
 		<rom name="World Soccer Winning Eleven 2012 (Asia) (En,Zh).iso" size="7838695424" crc="d519e515" md5="4fa30743658cfdda52238aece016c96a" sha1="e981a4a5f17ed9926dcadd186bd0a96584619916"/>
 	</game>
-	<game name="N3 - Ninety-Nine Nights (Asia) (En,Zh)">
+	<game name="N3 - Ninety-Nine Nights (Asia) (En,Ja,Zh)">
 		<category>Games</category>
-		<description>N3 - Ninety-Nine Nights (Asia) (En,Zh)</description>
-		<rom name="N3 - Ninety-Nine Nights (Asia) (En,Zh).iso" size="7834892288" crc="35425d46" md5="380c4cddfb1ecfee313aa5f0d59e7fb2" sha1="68d313fa5d4884ae0a5e28cc7a3c3834dbb83f18"/>
+		<description>N3 - Ninety-Nine Nights (Asia) (En,Ja,Zh)</description>
+		<rom name="N3 - Ninety-Nine Nights (Asia) (En,Ja,Zh).iso" size="7834892288" crc="35425d46" md5="380c4cddfb1ecfee313aa5f0d59e7fb2" sha1="68d313fa5d4884ae0a5e28cc7a3c3834dbb83f18"/>
 	</game>
 	<game name="Dynasty Warriors 6 (Asia)">
 		<category>Games</category>
 		<description>Dynasty Warriors 6 (Asia)</description>
 		<rom name="Dynasty Warriors 6 (Asia).iso" size="7835492352" crc="4d8dd9c0" md5="aee7999eda5b0b865ccc45779c60944c" sha1="7c92847f3e6e6700e393d32f947e386072542883"/>
 	</game>
-	<game name="Warriors Orochi 2 (Asia)">
+	<game name="Warriors Orochi 2 (Asia) (En,Fr,De)">
 		<category>Games</category>
-		<description>Warriors Orochi 2 (Asia)</description>
-		<rom name="Warriors Orochi 2 (Asia).iso" size="7835492352" crc="0b9abcfb" md5="b3faab7f23f39ab714743590516156d4" sha1="44b6cd87eb074c5ca4f655ce06650bbedf136966"/>
+		<description>Warriors Orochi 2 (Asia) (En,Fr,De)</description>
+		<rom name="Warriors Orochi 2 (Asia) (En,Fr,De).iso" size="7835492352" crc="0b9abcfb" md5="b3faab7f23f39ab714743590516156d4" sha1="44b6cd87eb074c5ca4f655ce06650bbedf136966"/>
+	</game>
+	<game name="Velvet Assassin (Japan)">
+		<category>Games</category>
+		<description>Velvet Assassin (Japan)</description>
+		<rom name="Velvet Assassin (Japan).iso" size="7838695424" crc="0acd8598" md5="391b8c3595e0a40de186c5eb4009086d" sha1="db4aa4029dd1e05784b1fec2ca37ed48ed718c3b"/>
+	</game>
+	<game name="Metro - Last Light (Japan)">
+		<category>Games</category>
+		<description>Metro - Last Light (Japan)</description>
+		<rom name="Metro - Last Light (Japan).iso" size="8738846720" crc="ab6a2144" md5="3728b1b6a2866755cd4e17e7ddf03a56" sha1="48dc43593708581a02be837a9d826af1b3d777eb"/>
+	</game>
+	<game name="SBK X - Superbike World Championship - JP Edition (Japan)">
+		<category>Games</category>
+		<description>SBK X - Superbike World Championship - JP Edition (Japan)</description>
+		<rom name="SBK X - Superbike World Championship - JP Edition (Japan).iso" size="7838695424" crc="d72c3a93" md5="5118b83fba3f56ba256774604a19d1a3" sha1="8603d2967d07c1794fc92fbbd6763f836b75e64e"/>
 	</game>
 </datafile>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2453) (2026-03-18 00-41-46)</description>
-		<version>2026-03-18 00-41-46</version>
-		<date>2026-03-18 00-41-46</date>
+		<description>Sega - Saturn - Discs (2454) (2026-03-21 16-52-56)</description>
+		<version>2026-03-21 16-52-56</version>
+		<date>2026-03-21 16-52-56</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17836,12 +17836,12 @@
 		<rom name="Batman Forever - The Arcade Game (Europe) (Track 1).bin" size="28461552" crc="8a8ac3a0" md5="aca9744d6c8a611fc78850c6e9341a7f" sha1="0b2e47f5d47e3001edb1ae1df0a8cdd3fca35a69"/>
 		<rom name="Batman Forever - The Arcade Game (Europe) (Track 2).bin" size="1058400" crc="cb94f153" md5="30ced211c681baca324e02ef84899fbe" sha1="152037fb3cddd669247f76e27a172ed914717713"/>
 	</game>
-	<game name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)">
+	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan).cue" size="311" crc="68ba381a" md5="9d535bc95fc09b184794bae556aabb82" sha1="1d260aa4566419289f00e99c1241ff2df4a4257c"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan) (Track 1).bin" size="205804704" crc="3d9abc7f" md5="273b800247c5647fc615af63ecc1a2f2" sha1="53c826d92609f0c8201f38ba07ddce22057185cf"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan) (Track 2).bin" size="1764000" crc="05f8cdf8" md5="843d100b6f740cb0a1c2e1dc859b8587" sha1="1455321f1b3846ae6ef464c4b331445237e83859"/>
+		<description>Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).cue" size="311" crc="0889c705" md5="ee1006a3abcb618e9a37ff66e9c3ad69" sha1="48b13dda515ca99e9450645b38cde56cef9151ba"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan) (Track 1).bin" size="205804704" crc="3d9abc7f" md5="273b800247c5647fc615af63ecc1a2f2" sha1="53c826d92609f0c8201f38ba07ddce22057185cf"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan) (Track 2).bin" size="1764000" crc="05f8cdf8" md5="843d100b6f740cb0a1c2e1dc859b8587" sha1="1455321f1b3846ae6ef464c4b331445237e83859"/>
 	</game>
 	<game name="Elf o Karu Monotachi - Hanafuda-hen (Japan)">
 		<category>Games</category>
@@ -31659,19 +31659,19 @@
 		<rom name="Flash SegaSaturn Vol. 5 (Japan) (Track 8).bin" size="37791936" crc="e7da2c15" md5="f409326d6e0ee8492396a248522b8d94" sha1="e41a83a01152e2d0d54cfdde553a2992a2cdb37e"/>
 		<rom name="Flash SegaSaturn Vol. 5 (Japan) (Track 9).bin" size="9758448" crc="75ad6f56" md5="38c56aa0a77f553b74470f12001f59a0" sha1="98ddd4eeb7315839819e4f506c7d37feb22e5c8e"/>
 	</game>
-	<game name="Flash SegaSaturn Vol. 6 (Japan)">
+	<game name="Flash SegaSaturn Vol. 6 (Japan) (1M)">
 		<category>Demos</category>
-		<description>Flash SegaSaturn Vol. 6 (Japan)</description>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan).cue" size="1130" crc="29b14145" md5="e20e2f7753d2f3154e2cc899b1da2523" sha1="1110b2dc2d4554c08603af66639ac7811a80de1b"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 1).bin" size="224731248" crc="63f1a0bd" md5="1daccd1ccca4301da4142317d54e9f67" sha1="4e4912347a2d1dd83db8e4afdfa630cc4285e8ec"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 2).bin" size="15005760" crc="a7cba80c" md5="4d05ba48f0d9e37235cacda65f87fcc6" sha1="cd22f57a8477815a84c771fe397c250f289590f1"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 3).bin" size="15499680" crc="54574f6b" md5="57241bd65dbe01e9828294a78d3bcc4b" sha1="a6caf5e5f914c991705cb5459caaec332bdfb928"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 4).bin" size="23124864" crc="6d8ec69c" md5="c43a26b841f7287934de901c45627d79" sha1="cf4921e525cf70c91212c25d10ce0b049bdee00e"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 5).bin" size="10094784" crc="71f584e5" md5="7326e44bb261c286520243a603db4ebd" sha1="798dc8e064da762fbb6c0455904eecfbc6cf45dd"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 6).bin" size="8885856" crc="0a78e6e5" md5="c8fefcee92cd9f0fd0aecca823041d8d" sha1="68c98f29c960fbb758f213c79d1c5d41e37c779d"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 7).bin" size="11228448" crc="f96d7097" md5="875e521eb5c8aa683482d327c42e473e" sha1="cd0fb1bee2db578ad9d8253ab22d48808726ad44"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 8).bin" size="36368976" crc="4919c2bc" md5="0e170cf1cf245fdbbf542617f8dd46d2" sha1="a1caf385256109acf28cb12dde76e94f40987488"/>
-		<rom name="Flash SegaSaturn Vol. 6 (Japan) (Track 9).bin" size="1883952" crc="986ebbb5" md5="a36e4f84f3258f509a078f08e78afaa8" sha1="64b61849ae187a44e305262fe6f788168cf411f3"/>
+		<description>Flash SegaSaturn Vol. 6 (Japan) (1M)</description>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M).cue" size="1175" crc="e4a6a0e2" md5="eb0c5aea49c2de94dc0a664b0ab7a66d" sha1="163a6d570d10b3563acf261d9a28dafcb8c5693b"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 1).bin" size="224731248" crc="63f1a0bd" md5="1daccd1ccca4301da4142317d54e9f67" sha1="4e4912347a2d1dd83db8e4afdfa630cc4285e8ec"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 2).bin" size="15005760" crc="a7cba80c" md5="4d05ba48f0d9e37235cacda65f87fcc6" sha1="cd22f57a8477815a84c771fe397c250f289590f1"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 3).bin" size="15499680" crc="54574f6b" md5="57241bd65dbe01e9828294a78d3bcc4b" sha1="a6caf5e5f914c991705cb5459caaec332bdfb928"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 4).bin" size="23124864" crc="6d8ec69c" md5="c43a26b841f7287934de901c45627d79" sha1="cf4921e525cf70c91212c25d10ce0b049bdee00e"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 5).bin" size="10094784" crc="71f584e5" md5="7326e44bb261c286520243a603db4ebd" sha1="798dc8e064da762fbb6c0455904eecfbc6cf45dd"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 6).bin" size="8885856" crc="0a78e6e5" md5="c8fefcee92cd9f0fd0aecca823041d8d" sha1="68c98f29c960fbb758f213c79d1c5d41e37c779d"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 7).bin" size="11228448" crc="f96d7097" md5="875e521eb5c8aa683482d327c42e473e" sha1="cd0fb1bee2db578ad9d8253ab22d48808726ad44"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 8).bin" size="36368976" crc="4919c2bc" md5="0e170cf1cf245fdbbf542617f8dd46d2" sha1="a1caf385256109acf28cb12dde76e94f40987488"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (1M) (Track 9).bin" size="1883952" crc="986ebbb5" md5="a36e4f84f3258f509a078f08e78afaa8" sha1="64b61849ae187a44e305262fe6f788168cf411f3"/>
 	</game>
 	<game name="Flash SegaSaturn Vol. 7 (Japan)">
 		<category>Demos</category>
@@ -40314,5 +40314,19 @@
 		<description>Rebellion (USA) (Unl) (Alt)</description>
 		<rom name="Rebellion (USA) (Unl) (Alt).cue" size="93" crc="af8c180a" md5="9eea25195f3a160c473e9725e87cfbb2" sha1="8697e893563938b548ca8647a53e2b435de5d0ff"/>
 		<rom name="Rebellion (USA) (Unl) (Alt).bin" size="240440256" crc="2cd5506f" md5="dbcd605540a0d36cc35854640022cf09" sha1="1743081900b63b165c9a6fbcc96a72e9b61ba537"/>
+	</game>
+	<game name="Flash SegaSaturn Vol. 6 (Japan) (2M)">
+		<category>Demos</category>
+		<description>Flash SegaSaturn Vol. 6 (Japan) (2M)</description>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M).cue" size="1175" crc="f981db55" md5="78159781c8904f525a3c809e746e5dd4" sha1="559bf38e7385dc36f9840ed6c7f3c1412949ad60"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 1).bin" size="224731248" crc="63f1a0bd" md5="1daccd1ccca4301da4142317d54e9f67" sha1="4e4912347a2d1dd83db8e4afdfa630cc4285e8ec"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 2).bin" size="15005760" crc="52f29f60" md5="3b30ffefe385eb1948a20299a47cb410" sha1="5ffc817d4cfc068e1f7fb8903fd0d643453f4f34"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 3).bin" size="15499680" crc="a62fa914" md5="5016c763764d005c4adf9900b8fdfac6" sha1="50dcb406dabf2369f07f18e6f3abe06930ba3c6b"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 4).bin" size="23124864" crc="00d86176" md5="4878ef027dfa56048859cd2f845849f6" sha1="643831c1e95c00d6bfa5bd8ff6388a7d039dd9b4"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 5).bin" size="10094784" crc="13022109" md5="8752597c6f3338321dcb9cd9ff67354a" sha1="e9b56c91aede2d6b4600b8b40759742f12386e93"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 6).bin" size="8885856" crc="2045f924" md5="9b1f230e78959ecddc82da0099f145c3" sha1="d709de5e55736e8ff9d624b6f1073262e0435595"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 7).bin" size="11228448" crc="7fab618d" md5="2bfaf2d2e20ecc01e4f270c7d45f5973" sha1="76986844c9a33b5fad52429b6c26e18e6125acb1"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 8).bin" size="36368976" crc="589638d1" md5="2179327c02c2f8d1bb5b239751f8fe20" sha1="acb94e5e46ec4109a0a206702b06cd092dfa3ac7"/>
+		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 9).bin" size="1883952" crc="b6d71a30" md5="16672971ccb1553f3dfd15051765156b" sha1="b7c6bd70402a9bb02c8da37a09e994b4160632e1"/>
 	</game>
 </datafile>

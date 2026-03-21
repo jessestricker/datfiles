@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260318-215122</version>
+		<version>20260320-204313</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12839,22 +12839,23 @@
 		<description>Vindicators (USA) (Unl)</description>
 		<rom name="Vindicators (USA) (Unl).nes" size="98320" crc="cb2ef149" md5="2ddc9166c9de220f7699e21a3936d9ba" sha1="7fecf92f89bf670f2d3e530d2151e756e8286416" sha256="d40e28de846595edfae4683d708187f865ac7a195d19dc732b6722087bbd16d7" header="4E 45 53 1A 04 04 E1 C8 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Virus (USA) (Beta 1)" id="2661" cloneofid="0581">
+	<game name="Virus (USA) (Proto 1)" id="2661" cloneofid="0581">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Virus (USA) (Beta 1)</description>
-		<rom name="Virus (USA) (Beta 1).nes" size="40976" crc="cac36615" md5="d770f8c8eba0abc068987588f59fe5cd" sha1="e69ca76933b53d32289453f1bd9ac7220b407024" sha256="9e26916008b05d0516a7b349edc8b7bb03eee118e8b2bb17ce33cf484bcad5b8" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+		<description>Virus (USA) (Proto 1)</description>
+		<rom name="Virus (USA) (Proto 1).nes" size="40976" crc="cac36615" md5="d770f8c8eba0abc068987588f59fe5cd" sha1="e69ca76933b53d32289453f1bd9ac7220b407024" sha256="9e26916008b05d0516a7b349edc8b7bb03eee118e8b2bb17ce33cf484bcad5b8" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Virus (USA) (Beta 2) (1990-02-02)" id="2662" cloneofid="0581">
+	<game name="Virus (USA) (Proto 2)" id="2662" cloneofid="0581">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Virus (USA) (Beta 2) (1990-02-02)</description>
-		<rom name="Virus (USA) (Beta 2) (1990-02-02).nes" size="49168" crc="9c249e25" md5="5ed4b00e808c9ed30bcfd20007c3391d" sha1="b264cb5a2784cc0d8f537eeb322de83ea00a455c" sha256="763c5b590101ac442df6a6f1cdefe3e66d98b08a808dcaea4bc20358697a5017" header="4E 45 53 1A 02 02 10 08 50 00 00 00 00 00 00 01"/>
+		<description>Virus (USA) (Proto 2)</description>
+		<rom name="Virus (USA) (Proto 2).nes" size="49168" crc="9c249e25" md5="5ed4b00e808c9ed30bcfd20007c3391d" sha1="b264cb5a2784cc0d8f537eeb322de83ea00a455c" sha256="763c5b590101ac442df6a6f1cdefe3e66d98b08a808dcaea4bc20358697a5017" header="4E 45 53 1A 02 02 10 08 50 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Virus (USA) (Proto) (1990-03-xx) (PC10) [b]" id="2727" cloneofid="0581">
+	<game name="Virus (USA) (Proto 3) (PC10) [b]" id="2727" cloneofid="0581">
 		<category>Games</category>
-		<description>Virus (USA) (Proto) (1990-03-xx) (PC10) [b]</description>
-		<rom name="Virus (USA) (Proto) (1990-03-xx) (PC10) [b].nes" size="65552" crc="8064e7d6" md5="a1d7dd3e21843904c55e4f504c41084b" sha1="582d7a7316bdd1f5745e5ee69abb994148a164a2" sha256="2b93e5dccb16d7676073fd09ad6b7838267acee1595bb1f8531b0f342070e8b4" status="baddump" header="4E 45 53 1A 02 04 10 0A 00 00 00 00 00 00 00 01"/>
+		<category>Preproduction</category>
+		<description>Virus (USA) (Proto 3) (PC10) [b]</description>
+		<rom name="Virus (USA) (Proto 3) (PC10) [b].nes" size="65552" crc="8064e7d6" md5="a1d7dd3e21843904c55e4f504c41084b" sha1="582d7a7316bdd1f5745e5ee69abb994148a164a2" sha256="2b93e5dccb16d7676073fd09ad6b7838267acee1595bb1f8531b0f342070e8b4" status="baddump" header="4E 45 53 1A 02 04 10 0A 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Viva! Las Vegas (Japan)" id="2430" cloneofid="2423">
 		<description>Viva! Las Vegas (Japan)</description>
@@ -20377,10 +20378,10 @@
 		<description>9999999-in-1 (Asia) (En) (GK-003) (Pirate)</description>
 		<rom name="9999999-in-1 (Asia) (En) (GK-003) (Pirate).nes" size="196624" crc="ee3e0df8" md5="fc811b7eab9b647ec015fea5cde4e39c" sha1="52cd08fd061125a5a9639441d76a640b0f61f55d" sha256="d5509dbc2e1476687d1d56d27deee845671654aab64a38bee82f83d0fe05f253" header="4E 45 53 1A 08 08 A0 38 00 00 00 00 03 00 00 2A"/>
 	</game>
-	<game name="9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate)" id="8144">
+	<game name="9999999-in-1 - World Series Championship (Taiwan) (En) (v1.1) (Pirate)" id="8144">
 		<category>Games</category>
-		<description>9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate)</description>
-		<rom name="9999999-in-1 - World Series Championship (Taiwan) (En) (Rev 1) (Pirate).nes" size="196624" crc="80d9b5e8" md5="3b1144a78115fe8566fecfaef0d37948" sha1="a39a1d8bd7b38f3de27a14d007f25251d12b7431" sha256="9102fa948f9591fcb283e390ffb543ebf543b32e57c3579e616013f3bd11663d" status="verified" header="4E 45 53 1A 08 08 B0 38 00 00 00 00 00 00 00 2A"/>
+		<description>9999999-in-1 - World Series Championship (Taiwan) (En) (v1.1) (Pirate)</description>
+		<rom name="9999999-in-1 - World Series Championship (Taiwan) (En) (v1.1) (Pirate).nes" size="196624" crc="80d9b5e8" md5="3b1144a78115fe8566fecfaef0d37948" sha1="a39a1d8bd7b38f3de27a14d007f25251d12b7431" sha256="9102fa948f9591fcb283e390ffb543ebf543b32e57c3579e616013f3bd11663d" status="verified" header="4E 45 53 1A 08 08 B0 38 00 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="999999999-in-1 (Asia) (En) (Pirate)" id="8148">
 		<category>Games</category>
