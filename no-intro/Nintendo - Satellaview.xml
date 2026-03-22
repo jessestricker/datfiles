@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260318-121925</version>
+		<version>20260321-143903</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -85,10 +85,10 @@
 		<description>B Dash - 3 Gatsugou (Japan) (Magazine)</description>
 		<rom name="B Dash - 3 Gatsugou (Japan) (Magazine).bs" size="1048576" crc="3494e10f" md5="6a9f9024403aaa4ddc9e0f3b7d917231" sha1="aa64e0479d246d7763a0820749f06c88f0f3b4df" sha256="5efaf6980085186d2aea22d399199c632a13222e6fe204537c5692405f807a61"/>
 	</game>
-	<game name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine)" id="3830">
+	<game name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine)" id="3830">
 		<category>Magazines</category>
-		<description>Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine)</description>
-		<rom name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (8-12) (SoundLink Magazine).bs" size="1048576" crc="8a452bbf" md5="54c63426d5cca05ef6eeef821b2b6af5" sha1="22ecd3274be8e9999238f0c44cbc52528d420f83" sha256="0c10d8d48059902a06d560857c7d9d32a27aa8cec40997e5ae5639b5b2d6b249"/>
+		<description>Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine)</description>
+		<rom name="Bakushow Mondai no Natsuyasumi no Ousama (Japan) (1995-8-12) (SoundLink Magazine).bs" size="1048576" crc="8a452bbf" md5="54c63426d5cca05ef6eeef821b2b6af5" sha1="22ecd3274be8e9999238f0c44cbc52528d420f83" sha256="0c10d8d48059902a06d560857c7d9d32a27aa8cec40997e5ae5639b5b2d6b249"/>
 	</game>
 	<game name="Bakushow Mondai no Silicon Chounaikai (Japan) (1996-6-22) (SoundLink Magazine)" id="3463">
 		<category>Magazines</category>
@@ -1612,9 +1612,9 @@
 		<description>Rika &amp; Hitomi (3-29) + Tamori no Picross (1995-8-1) (Japan) (SoundLink Magazine, Game)</description>
 		<rom name="Rika &amp; Hitomi (3-29) + Tamori no Picross (1995-8-1) (Japan) (SoundLink Magazine, Game).bs" size="1048576" crc="9c9f3cf5" md5="712803850b7ac7db122de8935e0e2e7d" sha1="abf2f17e6f5c4ec3b217a41a7ee857b971f7dc97" sha256="4163f46e4ea78dbe4d23c89ed8720258c7f82aa9b8f608ce27649d0e46d79245"/>
 	</game>
-	<game name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine)" id="3887">
-		<description>RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine)</description>
-		<rom name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (6-6) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="35b13217" md5="3aa19dae0348091db075e4b5b24ebdad" sha1="7211f06757358980b8d8118cf82ae575ce344f1b" sha256="d3b018a1d9fdc304f67a523eb3ca94c1e5b3fa53ab816ad87701759b9a19a2e8"/>
+	<game name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine)" id="3887">
+		<description>RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine)</description>
+		<rom name="RPG Tsukuru 2 + Bakushow Mondai no Houkago no Ousama (1995-6-6) (Japan) (Data, SoundLink Magazine).bs" size="1048576" crc="35b13217" md5="3aa19dae0348091db075e4b5b24ebdad" sha1="7211f06757358980b8d8118cf82ae575ce344f1b" sha256="d3b018a1d9fdc304f67a523eb3ca94c1e5b3fa53ab816ad87701759b9a19a2e8"/>
 	</game>
 	<game name="RPG Tsukuru 2 Collection (Japan) (Data Pack)" id="3796">
 		<category>Add-Ons</category>
@@ -2379,9 +2379,10 @@
 		<description>User Same Game (Japan) (3-10) (Data Pack)</description>
 		<rom name="User Same Game (Japan) (3-10) (Data Pack).bs" size="1048576" crc="751cf97d" md5="6bfc1aebbcdcb0617c2e702eda5d4c58" sha1="73ed5d9f7adb27a08ae61e3065cc2dc07c8455b1" sha256="7ca6a9b9490ed0b2ee05d79dea41e02748270b1a01b964a6877ff46e681b2c47"/>
 	</game>
-	<game name="View Cinema Paradise - Vol. 4 (Japan) (1-17) (Magazine)" id="3651">
-		<description>View Cinema Paradise - Vol. 4 (Japan) (1-17) (Magazine)</description>
-		<rom name="View Cinema Paradise - Vol. 4 (Japan) (1-17) (Magazine).bs" size="1048576" crc="1ccb20a5" md5="4da9ab1e60b9741cc019c80c045f0346" sha1="75645639569794a63b650c8cd31c33e962619970" sha256="de83b2947cef475c426a9282b9eb7fa3ccfd78d16ef3160814a577cb080b32fe"/>
+	<game name="View Cinema Paradise - Vol. 4 (Japan) (1999-1-17) (Magazine)" id="3651">
+		<category>Magazines</category>
+		<description>View Cinema Paradise - Vol. 4 (Japan) (1999-1-17) (Magazine)</description>
+		<rom name="View Cinema Paradise - Vol. 4 (Japan) (1999-1-17) (Magazine).bs" size="1048576" crc="1ccb20a5" md5="4da9ab1e60b9741cc019c80c045f0346" sha1="75645639569794a63b650c8cd31c33e962619970" sha256="de83b2947cef475c426a9282b9eb7fa3ccfd78d16ef3160814a577cb080b32fe"/>
 	</game>
 	<game name="Waiwai Check (Japan) (8-26)" id="3741">
 		<category>Games</category>

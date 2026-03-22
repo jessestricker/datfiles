@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260315-062045</version>
+		<version>20260321-035338</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -769,7 +769,7 @@
 	</game>
 	<game name="Coco Nuts (USA)" id="0080">
 		<description>Coco Nuts (USA)</description>
-		<rom name="Coco Nuts (USA).a26" size="4096" crc="b3e44e5c" md5="1e587ca91518a47753a28217cd4fd586" sha1="3f56d1a376702b64b3992b2d5652a3842c56ffad"/>
+		<rom name="Coco Nuts (USA).a26" size="4096" crc="b3e44e5c" md5="1e587ca91518a47753a28217cd4fd586" sha1="3f56d1a376702b64b3992b2d5652a3842c56ffad" sha256="5ff7811b67d962714501e789830b643a131144dd3513e9d8b2617c5d2e8b8111" status="verified"/>
 	</game>
 	<game name="Codebreaker (USA)" id="0081" cloneofid="0708">
 		<description>Codebreaker (USA)</description>
@@ -956,7 +956,7 @@
 	</game>
 	<game name="Dark Cavern (USA)" id="0109">
 		<description>Dark Cavern (USA)</description>
-		<rom name="Dark Cavern (USA).a26" size="4096" crc="0481078c" md5="a422194290c64ef9d444da9d6a207807" sha1="0ae2fc87f87a5cc199c3b9a17444bf3c2f6a829b"/>
+		<rom name="Dark Cavern (USA).a26" size="4096" crc="0481078c" md5="a422194290c64ef9d444da9d6a207807" sha1="0ae2fc87f87a5cc199c3b9a17444bf3c2f6a829b" sha256="632a4bc7d7ee3375f41cb4f0acdcf13f89cf302ca1f8053cc18385cec7195c01" status="verified"/>
 	</game>
 	<game name="Dark Chambers (USA)" id="0110">
 		<description>Dark Chambers (USA)</description>
@@ -2867,7 +2867,7 @@
 	</game>
 	<game name="Squeeze Box (USA)" id="0441">
 		<description>Squeeze Box (USA)</description>
-		<rom name="Squeeze Box (USA).a26" size="4096" crc="d37f3fb3" md5="ba257438f8a78862a9e014d831143690" sha1="033148faebc97d4ed3a86c97fe0cdee21bd261f7"/>
+		<rom name="Squeeze Box (USA).a26" size="4096" crc="d37f3fb3" md5="ba257438f8a78862a9e014d831143690" sha1="033148faebc97d4ed3a86c97fe0cdee21bd261f7" sha256="ef139ae2d81098f03e2145f5ffefd7e055264fb7f5be3c209b2d5d0107542cd9"/>
 	</game>
 	<game name="Squirrel ~ O Esquilo (USA)" id="0588">
 		<description>Squirrel ~ O Esquilo (USA)</description>
