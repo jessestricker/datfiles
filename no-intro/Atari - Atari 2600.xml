@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260321-035338</version>
+		<version>20260322-033038</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1126,6 +1126,10 @@
 	<game name="Earth Dies Screaming, The (USA)" id="0138">
 		<description>Earth Dies Screaming, The (USA)</description>
 		<rom name="Earth Dies Screaming, The (USA).a26" size="4096" crc="8a6c65f0" md5="033e21521e0bf4e54e8816873943406d" sha1="1f834923eac271bf04c18621ac2aada68d426917"/>
+	</game>
+	<game name="Eddy Langfinger, der Museumsdieb (Germany)" id="0926">
+		<description>Eddy Langfinger, der Museumsdieb (Germany)</description>
+		<rom name="Eddy Langfinger, der Museumsdieb (Germany).a26" size="4096" crc="b93a7346" md5="07973be3ecfd55235bf59aa56bdef28c" sha1="4e1ac830a8cd2ca27f92cb5d7e78c89c563e4c10" sha256="ac7eabd1dd40af955a7c6f17cb91ed7f77b188ce44b2925a6bb1a19ae84a8e41"/>
 	</game>
 	<game name="Eggomania (USA)" id="0139">
 		<description>Eggomania (USA)</description>

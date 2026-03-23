@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260321-143903</version>
+		<version>20260322-134432</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2291,9 +2291,11 @@
 		<description>Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan)</description>
 		<rom name="Tamori no Picross (1995-7-14) + SatellaQ (1995-7-21) + Machi Magazine (1995-7-21) (Japan).bs" size="1048576" crc="26a6d609" md5="b8edf62cb0f97b73658afe9492ba9242" sha1="18a582af6603ee0d60febf3a07b7796fb3151958" sha256="dbc6161119a2a8ba86ddfa0083a9c3d5c966d5909875fd83dc5c223c4ebb1ff4" status="verified"/>
 	</game>
-	<game name="Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (10-17) (Japan) (Game, SoundLink Magazine)" id="3575">
-		<description>Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (10-17) (Japan) (Game, SoundLink Magazine)</description>
-		<rom name="Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (10-17) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="e58ee3ad" md5="7a165aae06e675eb9a569bd1935b4816" sha1="184a8671a9d6790b351f22178d5a47c37d57a9ad" sha256="54bd561e9c2cfe79e2aede982d503ab501cf2ba1a45ecbb578736c708668cb55"/>
+	<game name="Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago no Ousama - Kayoubi (1995-10-17) (Japan) (Game, SoundLink Magazine)" id="3575">
+		<category>Games</category>
+		<category>Magazines</category>
+		<description>Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago no Ousama - Kayoubi (1995-10-17) (Japan) (Game, SoundLink Magazine)</description>
+		<rom name="Tamori no Picross (1995-8-13) + Bakushow Mondai no Houkago no Ousama - Kayoubi (1995-10-17) (Japan) (Game, SoundLink Magazine).bs" size="1048576" crc="e58ee3ad" md5="7a165aae06e675eb9a569bd1935b4816" sha1="184a8671a9d6790b351f22178d5a47c37d57a9ad" sha256="54bd561e9c2cfe79e2aede982d503ab501cf2ba1a45ecbb578736c708668cb55"/>
 	</game>
 	<game name="Tenchi Souzou (Japan) (Demo)" id="3641">
 		<description>Tenchi Souzou (Japan) (Demo)</description>

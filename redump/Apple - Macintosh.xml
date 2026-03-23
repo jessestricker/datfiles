@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1337) (2026-03-13 18-10-29)</description>
-		<version>2026-03-13 18-10-29</version>
-		<date>2026-03-13 18-10-29</date>
+		<description>Apple - Macintosh - Discs (1338) (2026-03-22 23-05-02)</description>
+		<version>2026-03-22 23-05-02</version>
+		<date>2026-03-22 23-05-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9491,5 +9491,11 @@
 		<description>Prisoner of Ice (USA) (En,Es)</description>
 		<rom name="Prisoner of Ice (USA) (En,Es).cue" size="95" crc="3df96038" md5="6c8df50018875ddc3b978ab763155d23" sha1="10e484d49e5289fd2a6546c3c07aa80f48b1f9ce"/>
 		<rom name="Prisoner of Ice (USA) (En,Es).bin" size="467706960" crc="813efdcb" md5="b1a308f968846937fd6f3230377abf7f" sha1="b2072ae1fad707862bf01e6320110faf68e0bdce"/>
+	</game>
+	<game name="Shouchan no Daibouken (Japan)">
+		<category>Games</category>
+		<description>Shouchan no Daibouken (Japan)</description>
+		<rom name="Shouchan no Daibouken (Japan).cue" size="95" crc="fb0a5344" md5="879739f874048d9aaf929dcdb9e7083c" sha1="4cb11db44920d3eeafb2ac86d72f86cc93014423"/>
+		<rom name="Shouchan no Daibouken (Japan).bin" size="338031792" crc="b70c308e" md5="7c10c890239f8d5ecd700807d8787b1c" sha1="fa6f8b036c227649fbca6d449d65bfd86f10aaf0"/>
 	</game>
 </datafile>
