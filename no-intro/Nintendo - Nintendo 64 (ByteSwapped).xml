@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260320-114439</version>
+		<version>20260324-132729</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1394,8 +1394,14 @@
 		<rom name="Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).v64" size="16777216" crc="163c3c51" md5="624742b506df9ff5c2d86d649eb8f3fb" sha1="d8ee4e745bae3625826ff267da5404b42f36c3c2" serial="NG6J"/>
 	</game>
 	<game name="Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)" id="0254" cloneofid="0466">
+		<category>Games</category>
 		<description>Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)</description>
 		<rom name="Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan).v64" size="16777216" crc="69964858" md5="9704b99f5f86879c0482d7223257dcef" sha1="b6386455c0b8f573e315976bbb47548cbafcedb3" sha256="881ea6adcb2c7a6fdb80bbc693f5f712e7f0c6a2973d5ace755939d5b1d21ffd" status="verified" serial="NG5J"/>
+	</game>
+	<game name="Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan) (Rev 1)" id="1326" cloneofid="0466">
+		<category>Games</category>
+		<description>Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan) (Rev 1)</description>
+		<rom name="Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan) (Rev 1).v64" size="16777216" crc="6932628b" md5="f085e10505700e2bd9da73da68a15b12" sha1="181b23458452c3cdbfb9d9dff590112373fc0fef" sha256="b087847beaf1cd2f44034d4917e868321dc5fdc2992376ef5d45de3ca784c165" status="verified" serial="NG5J"/>
 	</game>
 	<game name="Ganbare! Nippon! Olympics 2000 (Japan)" id="0255" cloneofid="0318">
 		<description>Ganbare! Nippon! Olympics 2000 (Japan)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10905) (2026-03-24 16-24-38)</description>
-		<version>2026-03-24 16-24-38</version>
-		<date>2026-03-24 16-24-38</date>
+		<description>Sony - PlayStation - Discs (10906) (2026-03-25 16-21-27)</description>
+		<version>2026-03-25 16-21-27</version>
+		<date>2026-03-25 16-21-27</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103770,5 +103770,11 @@
 		<description>Paca Paca Passion 2 (Japan) (Taikenban)</description>
 		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).cue" size="105" crc="5d2d68cc" md5="508e33119e15fc6d4364ea7343e76101" sha1="b7e5d45f67748c95d789ac6f0ffb88d35c018381"/>
 		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).bin" size="234028704" crc="41600119" md5="ac6f872a1ae443d5cd734e48ea3ee215" sha1="e782f2ba2f08e58a1306ff10668a74d2970c9f8c"/>
+	</game>
+	<game name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)">
+		<category>Games</category>
+		<description>Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)</description>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).cue" size="135" crc="76b54cf3" md5="08955e3755cd5d461d432925d34fd72a" sha1="4e98318d846a3ea9c01fa713ab7a2bb82baa9e26"/>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin" size="271665408" crc="5b2dac31" md5="fae6eaf333ffa0e229d722c6353b8722" sha1="e941ca9e471a87a25e9b93e86cd56d7aa99d858a"/>
 	</game>
 </datafile>
