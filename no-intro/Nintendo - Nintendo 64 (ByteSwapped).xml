@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260324-132729</version>
+		<version>20260325-150024</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -207,10 +207,12 @@
 		<rom name="Airboarder 64 (Europe).v64" size="8388608" crc="92659837" md5="2b257f7989946666032df995273746fe" sha1="e0a148ae2193e533947f52ba4ab029c2cd8b34d3" status="verified" serial="NABP"/>
 	</game>
 	<game name="Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)" id="0032" cloneofid="0112">
+		<category>Games</category>
 		<description>Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)</description>
 		<rom name="Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).v64" size="12582912" crc="ca79d5a0" md5="20971504b49f98ad0cc15c666ee1e30f" sha1="78629a527b6ec02825487e3c800aa81178768039" status="verified" serial="ND3J"/>
 	</game>
 	<game name="Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)" id="0033" cloneofid="0115">
+		<category>Games</category>
 		<description>Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)</description>
 		<rom name="Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).v64" size="16777216" crc="420ce37b" md5="7cb2782769f9b834b5948d316ef83cd6" sha1="10b15a7ceb6d56720ddd7755dac6102832407110" serial="ND4J"/>
 	</game>
@@ -553,14 +555,17 @@
 		<rom name="Brunswick Circuit Pro Bowling (USA).v64" size="8388608" crc="3ac1bbae" md5="db929d47127ea55bb919f8c7623e0256" sha1="578bef71585b2cc956a6847c682b123599be830a" serial="NOWE"/>
 	</game>
 	<game name="Buck Bumble (Europe) (En,Fr,De,Es,It)" id="0096">
+		<category>Games</category>
 		<description>Buck Bumble (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Buck Bumble (Europe) (En,Fr,De,Es,It).v64" size="12582912" crc="08433e0d" md5="80a2c272c13b2f1a5654e98cbeb64aaf" sha1="60305a61143bae5557672e2bdbb9d81ec2da5c20" status="verified" serial="NBLP"/>
 	</game>
 	<game name="Buck Bumble (Japan)" id="0097" cloneofid="0096">
+		<category>Games</category>
 		<description>Buck Bumble (Japan)</description>
 		<rom name="Buck Bumble (Japan).v64" size="12582912" crc="24d1a591" md5="5b2d83e1474a34190f748287982407be" sha1="60afbcc6afde1f22aa8031f98f9ad84b1529f848" serial="NBLJ"/>
 	</game>
 	<game name="Buck Bumble (USA)" id="0098" cloneofid="0096">
+		<category>Games</category>
 		<description>Buck Bumble (USA)</description>
 		<rom name="Buck Bumble (USA).v64" size="12582912" crc="da2acd5e" md5="2bd134f866af753ab46767fac3144e2e" sha1="9cf046e320e5437159a41c49694dc66d4d8e79bd" serial="NBLE"/>
 	</game>
@@ -585,6 +590,7 @@
 		<rom name="Bug's Life, A (USA).v64" size="12582912" crc="7c2f610d" md5="f4eb001d85f6d3229069cb82b8d3495f" sha1="e30e1b6bdcfd985b000757a8e611a419d1f38233" status="verified" serial="NBYE"/>
 	</game>
 	<game name="Bust-A-Move '99 (USA)" id="0104" cloneofid="0107">
+		<category>Games</category>
 		<description>Bust-A-Move '99 (USA)</description>
 		<rom name="Bust-A-Move '99 (USA).v64" size="8388608" crc="2a95290f" md5="f81f1fa671a2c861c484500150643360" sha1="3561149ddff17a60210ec5752781c512b6f4e126" sha256="10de2822067cb158139ef2fe1fe0469e5ee6108b43e98a46e22b25b7abd26979" serial="NB3E"/>
 	</game>
@@ -597,6 +603,7 @@
 		<rom name="Bust-A-Move 2 - Arcade Edition (USA).v64" size="8388608" crc="47511877" md5="8b2f1700cd02e34a99752213bdd150cf" sha1="9f7dcb8ee0a918eb9b257ac9f210f0d30f9f6430" serial="NBUE"/>
 	</game>
 	<game name="Bust-A-Move 3 DX (Europe)" id="0107">
+		<category>Games</category>
 		<description>Bust-A-Move 3 DX (Europe)</description>
 		<rom name="Bust-A-Move 3 DX (Europe).v64" size="8388608" crc="9f3f484b" md5="c7d54104cc455d90d31edd761beb7205" sha1="20b2704b12298987bb6151ff432d616866dc00c1" status="verified" serial="NB3P"/>
 	</game>
@@ -607,22 +614,28 @@
 		<rom name="Bust-A-Move 3 DX (USA) (Beta) (1998-08-28).v64" size="8388608" crc="6280ba4f" md5="d50384b1229a0f49f61f5331de47b836" sha1="118e4bb43a8d8ad4ad1ec7d8912c7bddb717d1a4" sha256="2a14d71b6db864b2fb481593060f7c80294ed95003702c87b0f6cb5a8c1d527f" serial="NB3E"/>
 	</game>
 	<game name="California Speed (USA)" id="0108">
+		<category>Games</category>
 		<description>California Speed (USA)</description>
 		<rom name="California Speed (USA).v64" size="16777216" crc="387b0c4c" md5="50726d8e0714f80f5514bec192796ba2" sha1="afe86aed561560bfcf1bc7130c8341252142269b" sha256="ae85561caee350f84d1fd9e7b01b4e4bbdfde261f82e67f27518153a457e74ae" status="verified" serial="NCLE"/>
 	</game>
-	<game name="California Speed (Europe) (Proto)" id="0910" cloneofid="0108">
-		<description>California Speed (Europe) (Proto)</description>
-		<rom name="California Speed (Europe) (Proto).v64" size="16777216" crc="8ef396fb" md5="a1cf997b136945e946c21b8dd1782da1" sha1="b9244f898e302ca06c04caf5d595f3a70d65fce5" serial="NCLP"/>
+	<game name="California Speed (Europe) (En,Fr,De,Es,It) (Proto)" id="0910" cloneofid="0108">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>California Speed (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="California Speed (Europe) (En,Fr,De,Es,It) (Proto).v64" size="16777216" crc="8ef396fb" md5="a1cf997b136945e946c21b8dd1782da1" sha1="b9244f898e302ca06c04caf5d595f3a70d65fce5" serial="NCLP"/>
 	</game>
 	<game name="Carmageddon 64 (Europe) (En,Fr,De,Es)" id="0109" cloneofid="0110">
+		<category>Games</category>
 		<description>Carmageddon 64 (Europe) (En,Fr,De,Es)</description>
 		<rom name="Carmageddon 64 (Europe) (En,Fr,De,Es).v64" size="16777216" crc="d8d87dca" md5="74dcf49871606036cd70b42ae2b19b1c" sha1="b8aa32d7d78e3119b05c19cd45aad102465ad254" serial="NCDX"/>
 	</game>
 	<game name="Carmageddon 64 (Europe) (En,Fr,Es,It)" id="0110">
+		<category>Games</category>
 		<description>Carmageddon 64 (Europe) (En,Fr,Es,It)</description>
 		<rom name="Carmageddon 64 (Europe) (En,Fr,Es,It).v64" size="16777216" crc="17b07602" md5="3405bb5266ccd60a3b4a4de7408251f2" sha1="2e64e34dc8f3b6349cb71412f1bf2ca6a2fd5c2b" status="verified" serial="NCDY"/>
 	</game>
 	<game name="Carmageddon 64 (USA)" id="0111" cloneofid="0110">
+		<category>Games</category>
 		<description>Carmageddon 64 (USA)</description>
 		<rom name="Carmageddon 64 (USA).v64" size="16777216" crc="e78debb6" md5="0b3c3a0940b9034ecf84a8db19b25200" sha1="ab3a1a52754fed3dea98e587fb9cc4cd64973403" serial="NCDE"/>
 	</game>
@@ -631,26 +644,32 @@
 		<rom name="Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).v64" size="16777216" crc="1415bd1d" md5="5488cad5fe3972ed0fd2a92bc75d7b8b" sha1="220ff8756b1188ef82fde5a046cf8707012475af" sha256="b8f85034270295183d48949b3192272c4d210cf27824ada9b35045f612d4c62b"/>
 	</game>
 	<game name="Castlevania (Europe) (En,Fr,De)" id="0112">
+		<category>Games</category>
 		<description>Castlevania (Europe) (En,Fr,De)</description>
 		<rom name="Castlevania (Europe) (En,Fr,De).v64" size="12582912" crc="d1d4d306" md5="0bfebedf99c1e715ada7103664bfcc97" sha1="72fec07cdb52645e48126a154c9f72e32c2b1931" status="verified" serial="ND3P"/>
 	</game>
 	<game name="Castlevania (USA)" id="0113" cloneofid="0112">
+		<category>Games</category>
 		<description>Castlevania (USA)</description>
 		<rom name="Castlevania (USA).v64" size="12582912" crc="84e815f3" md5="0bbaa6de2b9cbb822f8b4d85c1d5497b" sha1="b9e2dd5ca9e38e3beb4c4c374e7dd9377e88d943" serial="ND3E"/>
 	</game>
 	<game name="Castlevania (USA) (Rev 2)" id="0114" cloneofid="0112">
+		<category>Games</category>
 		<description>Castlevania (USA) (Rev 2)</description>
 		<rom name="Castlevania (USA) (Rev 2).v64" size="12582912" crc="7f50e637" md5="609b7b72221ee6dc3e25e419752aedce" sha1="c99a25022cc019ca8d3dd6b58552049b0ee0718c" status="verified" serial="ND3E"/>
 	</game>
 	<game name="Castlevania (USA) (Rev 1)" id="0943" cloneofid="0112">
+		<category>Games</category>
 		<description>Castlevania (USA) (Rev 1)</description>
 		<rom name="Castlevania (USA) (Rev 1).v64" size="12582912" crc="bf911b10" md5="02c9b61a9b2ff8a33dd1941d2c50d0ee" sha1="f542a9d2134a7066676422376a129b1970865f5d" serial="ND3E"/>
 	</game>
 	<game name="Castlevania - Legacy of Darkness (Europe) (En,Fr,De)" id="0115">
+		<category>Games</category>
 		<description>Castlevania - Legacy of Darkness (Europe) (En,Fr,De)</description>
 		<rom name="Castlevania - Legacy of Darkness (Europe) (En,Fr,De).v64" size="16777216" crc="a12bf3de" md5="bc0cbc7ce863579675116a14f660bf54" sha1="57ef17bd7450eb1e3c486e5c628aded23e884236" status="verified" serial="ND4P"/>
 	</game>
 	<game name="Castlevania - Legacy of Darkness (USA)" id="0116" cloneofid="0115">
+		<category>Games</category>
 		<description>Castlevania - Legacy of Darkness (USA)</description>
 		<rom name="Castlevania - Legacy of Darkness (USA).v64" size="16777216" crc="1f147376" md5="8a1729b7ef9bf63375194109c07bc41f" sha1="ab24feae782703886ee61069b930a2713b398c6d" sha256="5b98b9562880823ca48a85ae3467302c204742c4c02ee285b8f2ecc3412b009a" serial="ND4E"/>
 	</game>
@@ -659,30 +678,37 @@
 		<rom name="Centre Court Tennis (Europe).v64" size="12582912" crc="2573171a" md5="fff4bf92143c5a043e25461c2baadec8" sha1="18cc04521d0c7e9eba015b45cf7f3ab9930af28e" status="verified" serial="NTSP"/>
 	</game>
 	<game name="Chameleon Twist (Europe)" id="0118">
+		<category>Games</category>
 		<description>Chameleon Twist (Europe)</description>
 		<rom name="Chameleon Twist (Europe).v64" size="12582912" crc="2af50883" md5="ec5604a1573d0a2c08f6ef36be842154" sha1="1c936c558066da54210deef28eba58520d264011" status="verified" serial="NCTP"/>
 	</game>
 	<game name="Chameleon Twist (Japan)" id="0119" cloneofid="0118">
+		<category>Games</category>
 		<description>Chameleon Twist (Japan)</description>
 		<rom name="Chameleon Twist (Japan).v64" size="12582912" crc="a2dcf689" md5="59227d760a41dbcc644070cf0e993bfa" sha1="e6a1d9b94e83d1784ecaf0dec6f6a9e42feaa74d" serial="NCTJ"/>
 	</game>
 	<game name="Chameleon Twist (USA)" id="0120" cloneofid="0118">
+		<category>Games</category>
 		<description>Chameleon Twist (USA)</description>
 		<rom name="Chameleon Twist (USA).v64" size="12582912" crc="4246ee14" md5="74520d4064c37c72c2bdee4af2520e59" sha1="2cabb61506bf5f74437bc813429c22325045393a" serial="NCTE"/>
 	</game>
 	<game name="Chameleon Twist (USA) (Rev 1)" id="0942" cloneofid="0118">
+		<category>Games</category>
 		<description>Chameleon Twist (USA) (Rev 1)</description>
 		<rom name="Chameleon Twist (USA) (Rev 1).v64" size="12582912" crc="c0345565" md5="4c8fc1aaf634c3b12ae30d126668eaf7" sha1="115cd6c1c75eb1f4b4e5debfcbace61e94647579" serial="NCTE"/>
 	</game>
 	<game name="Chameleon Twist 2 (Europe)" id="0121">
+		<category>Games</category>
 		<description>Chameleon Twist 2 (Europe)</description>
 		<rom name="Chameleon Twist 2 (Europe).v64" size="8388608" crc="35958f55" md5="7a20b97c0b509aaa38e36068acd217c3" sha1="6ef1f9c84e73c9307b52a52635e4fe5e23d795d8" status="verified" serial="N2VP"/>
 	</game>
 	<game name="Chameleon Twist 2 (Japan)" id="0122" cloneofid="0121">
+		<category>Games</category>
 		<description>Chameleon Twist 2 (Japan)</description>
 		<rom name="Chameleon Twist 2 (Japan).v64" size="12582912" crc="f42bb75f" md5="cb4fc518cb6f3a1d70b3179c23fd54d3" sha1="e659cd6059fd464ba1883a5bae8b839c14ba72f4" serial="NV2J"/>
 	</game>
 	<game name="Chameleon Twist 2 (USA)" id="0123" cloneofid="0121">
+		<category>Games</category>
 		<description>Chameleon Twist 2 (USA)</description>
 		<rom name="Chameleon Twist 2 (USA).v64" size="8388608" crc="356736c7" md5="be134500da3342cd5dc7922b5e2697b7" sha1="185141b800bf109367905f1a6b0ef6823f224ce8" serial="N2VE"/>
 	</game>
@@ -3221,6 +3247,7 @@
 		<rom name="Puyo Puyoon Party (Japan).v64" size="12582912" crc="9c32adeb" md5="53272289f493d802b7c562daab64219f" sha1="e02d3a92256a43c8aeaa6dabd2f53cd3769ef1f6" serial="NPTJ"/>
 	</game>
 	<game name="Puzzle Bobble 64 (Japan)" id="0594" cloneofid="0107">
+		<category>Games</category>
 		<description>Puzzle Bobble 64 (Japan)</description>
 		<rom name="Puzzle Bobble 64 (Japan).v64" size="8388608" crc="30238199" md5="3c411421611e82c81ca228e9ec2b81db" sha1="4e8b0bfb5a885919e63cb09618a0a3d938422301" serial="NPBJ"/>
 	</game>

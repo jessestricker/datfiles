@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260319-181811</version>
+		<version>20260325-204627</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20117,10 +20117,18 @@
 		<description>Mega Man X (USA) (Capcom Town)</description>
 		<rom name="Mega Man X (USA) (Capcom Town).sfc" size="1572864" crc="a7689fc4" md5="22028714cd18783f9ab6387b5c6f4c3d" sha1="f43c28fff43a9ee73ea1e01c3cbe8ebfd40f6209" sha256="95a2e61ff89563dcbb1dd195826fea07f51600b0f8607ac26f0e1de7bc46e049" status="verified"/>
 	</game>
+	<game name="Mega Man X (USA) (Mega Man X Collection)" id="4568">
+		<description>Mega Man X (USA) (Mega Man X Collection)</description>
+		<rom name="Mega Man X (USA) (Mega Man X Collection).sfc" size="1572864" crc="fa542e48" md5="3393b0655a488a5c82c5cf62a434aa46" sha1="df62ec045c78e9b9184e7c35c9bc3bb8de28afde" sha256="01a3167958328f9999ba9c42f99588574016ce5411b2887c3946629aa6082db1"/>
+	</game>
 	<game name="Mega Man X2 (World) (En) (Mega Man X Legacy Collection)" id="4035" cloneofid="1610">
 		<category>Games</category>
 		<description>Mega Man X2 (World) (En) (Mega Man X Legacy Collection)</description>
 		<rom name="Mega Man X2 (World) (En) (Mega Man X Legacy Collection).sfc" size="1572864" crc="8972df65" md5="a8aa24df75686a5bb1a08a27d1876f5f" sha1="4a57802a0ad3817daf1ff60d62e094b0612b5612" sha256="67a2d7ea18d708a88f538d23d704d5c1cc1df56c5d58a883d8e5935dbed6dfb3" status="verified"/>
+	</game>
+	<game name="Mega Man X2 (USA) (Mega Man X Collection)" id="4569">
+		<description>Mega Man X2 (USA) (Mega Man X Collection)</description>
+		<rom name="Mega Man X2 (USA) (Mega Man X Collection).sfc" size="1572864" crc="b8600893" md5="e584a5c488b0f622722d9fb11a20e4c9" sha1="9ee80aff5fdb8dff7eb44b33fda856a4a538bda5" sha256="3098b69e7fab6e9dc0599f2c78e3578987ec1735a161634505d5c8312199cf64"/>
 	</game>
 	<game name="Mega Man X3 (World) (En) (Mega Man X Legacy Collection)" id="4036" cloneofid="1612">
 		<category>Games</category>

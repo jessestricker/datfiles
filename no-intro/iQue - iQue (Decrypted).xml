@@ -4,15 +4,15 @@
 		<id>109</id>
 		<name>iQue - iQue (Decrypted)</name>
 		<description>iQue - iQue (Decrypted)</description>
-		<version>20220514-122827</version>
+		<version>20260325-023746</version>
 		<author>chillerecke, Hiccup, Jhynjhiruu</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="[BIOS] Shenyou Julebu (China)" id="0080">
-		<description>[BIOS] Shenyou Julebu (China)</description>
-		<rom name="[BIOS] Shenyou Julebu (China).bin" size="8192" crc="86d12af3" md5="77878ab922428a2f7e9e248bacee1193" sha1="1663efc4f08e1e20c244b38f3572325700d327c1"/>
+	<game name="[BIOS] iQue Player (China)" id="0080">
+		<description>[BIOS] iQue Player (China)</description>
+		<rom name="[BIOS] iQue Player (China).bin" size="8192" crc="86d12af3" md5="77878ab922428a2f7e9e248bacee1193" sha1="1663efc4f08e1e20c244b38f3572325700d327c1"/>
 	</game>
 	<game name="Dongwu Senlin (China) (v8)" id="0001">
 		<description>Dongwu Senlin (China) (v8)</description>

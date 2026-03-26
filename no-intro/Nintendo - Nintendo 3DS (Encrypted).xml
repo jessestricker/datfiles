@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260319-214435</version>
+		<version>20260325-150712</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -466,7 +466,7 @@
 	<game name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Sv,No,Da,Fi)" id="1003" cloneofid="0408">
 		<description>Around the World with Hello Kitty &amp; Friends (Europe) (En,Sv,No,Da,Fi)</description>
 		<game_id>00040000000CFB00</game_id>
-		<rom name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Sv,No,Da,Fi).3ds" size="268435456" crc="e4c468ab" md5="5c5114fc8f0951a38dec31b573045d84" sha1="2163a66e8e7b66b9e0e012734b14725e5b387752" sha256="74dd267675fe41f408807e3c0edc3cab01a4187999e3a68eae0e825ffa07fd3c" serial="CTR-P-AHKZ"/>
+		<rom name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Sv,No,Da,Fi).3ds" size="268435456" crc="e4c468ab" md5="5c5114fc8f0951a38dec31b573045d84" sha1="2163a66e8e7b66b9e0e012734b14725e5b387752" sha256="74dd267675fe41f408807e3c0edc3cab01a4187999e3a68eae0e825ffa07fd3c" status="verified" serial="CTR-P-AHKZ"/>
 	</game>
 	<game name="Around the World with Hello Kitty &amp; Friends (Europe) (En,Fr,De,Es,It)" id="0408">
 		<description>Around the World with Hello Kitty &amp; Friends (Europe) (En,Fr,De,Es,It)</description>
@@ -2644,7 +2644,7 @@
 	<game name="Finding Nemo - Escape to the Big Blue - Special Edition (Europe) (En,Sv,No,Da)" id="0659" cloneofid="0603">
 		<description>Finding Nemo - Escape to the Big Blue - Special Edition (Europe) (En,Sv,No,Da)</description>
 		<game_id>00040000000B1F00</game_id>
-		<rom name="Finding Nemo - Escape to the Big Blue - Special Edition (Europe) (En,Sv,No,Da).3ds" size="536870912" crc="6f675af4" md5="eb94b1669bb8775fe6d9ee0e11dfc60a" sha1="ae422860a067319fca9ad18553855dc5b1592c91" sha256="219cb03d54201c6c26af47c2735e66a0e8fd945d4cf4afdeb1f30c18b61ed22a" serial="CTR-P-AF7X"/>
+		<rom name="Finding Nemo - Escape to the Big Blue - Special Edition (Europe) (En,Sv,No,Da).3ds" size="536870912" crc="6f675af4" md5="eb94b1669bb8775fe6d9ee0e11dfc60a" sha1="ae422860a067319fca9ad18553855dc5b1592c91" sha256="219cb03d54201c6c26af47c2735e66a0e8fd945d4cf4afdeb1f30c18b61ed22a" status="verified" serial="CTR-P-AF7X"/>
 	</game>
 	<game name="Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It)" id="0244">
 		<description>Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It)</description>
@@ -2867,7 +2867,7 @@
 	</game>
 	<game name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="z080">
 		<description>Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="268435456" crc="3173e9ed" md5="5f958d8e96a4833acfa145ed46f8621a" sha1="69388e3ddef8ccfa19505cd2c2ebf941c5e5268c" serial="CTR-P-AG3P"/>
+		<rom name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="268435456" crc="3173e9ed" md5="5f958d8e96a4833acfa145ed46f8621a" sha1="69388e3ddef8ccfa19505cd2c2ebf941c5e5268c" status="verified" serial="CTR-P-AG3P"/>
 	</game>
 	<game name="Gaist Crusher (Japan)" id="0734">
 		<description>Gaist Crusher (Japan)</description>
@@ -5810,7 +5810,7 @@
 	<game name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFP)" id="0580">
 		<description>Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFP)</description>
 		<game_id>00040000000F0A00</game_id>
-		<rom name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFP).3ds" size="268435456" crc="5c3fb3be" md5="2f36abef817bbd09f1b83dd2988ea836" sha1="5275af24a0b7bac2af8ef92547edcc6b3a36f8a2" sha256="58df3d8355c3af458d859d47c3e4e9b12d78a113ade734076af06a68b9089c06" serial="CTR-P-AEFP"/>
+		<rom name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFP).3ds" size="268435456" crc="5c3fb3be" md5="2f36abef817bbd09f1b83dd2988ea836" sha1="5275af24a0b7bac2af8ef92547edcc6b3a36f8a2" sha256="58df3d8355c3af458d859d47c3e4e9b12d78a113ade734076af06a68b9089c06" status="verified" serial="CTR-P-AEFP"/>
 	</game>
 	<game name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFZ)" id="0865" cloneofid="0580">
 		<description>Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (AEFZ)</description>

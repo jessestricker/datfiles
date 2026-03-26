@@ -4,7 +4,7 @@
 		<id>15</id>
 		<name>Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>20260130-114942</version>
+		<version>20260325-143115</version>
 		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -162,7 +162,7 @@
 	<game name="Virtual League Baseball (USA)" id="0026">
 		<category>Games</category>
 		<description>Virtual League Baseball (USA)</description>
-		<rom name="Virtual League Baseball (USA).vb" size="1048576" crc="736b40d6" md5="2ba914c8aa16f2f9230b3c5b7e17e67b" sha1="266fe615ee3df1160a20b456824699f16810fa28" serial="VVPE"/>
+		<rom name="Virtual League Baseball (USA).vb" size="1048576" crc="736b40d6" md5="2ba914c8aa16f2f9230b3c5b7e17e67b" sha1="266fe615ee3df1160a20b456824699f16810fa28" status="verified" serial="VVPE"/>
 	</game>
 	<game name="Virtual League Baseball 2 (USA) (Proto)" id="0079">
 		<category>Games</category>

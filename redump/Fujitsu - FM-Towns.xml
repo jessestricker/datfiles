@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns</name>
-		<description>Fujitsu - FM-Towns - Discs (947) (2026-02-17 21-06-26)</description>
-		<version>2026-02-17 21-06-26</version>
-		<date>2026-02-17 21-06-26</date>
+		<description>Fujitsu - FM-Towns - Discs (947) (2026-03-25 23-22-00)</description>
+		<version>2026-03-25 23-22-00</version>
+		<date>2026-03-25 23-22-00</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13331,11 +13331,11 @@
 		<rom name="Computer Zukan - Shokubutsu-hen (Japan).cue" size="128" crc="3f5e371f" md5="d869772bd2bed163f79835c1fcadcda4" sha1="e7309037f1578891dd6dcc474e219709a624c3d0"/>
 		<rom name="Computer Zukan - Shokubutsu-hen (Japan).bin" size="401839200" crc="f7481f93" md5="047d1409eef064856b9bd3b87c1a1710" sha1="71f8630ef0f4f183f686ee4a7be3478f2c40a97e"/>
 	</game>
-	<game name="Q^2 ROM Magazine Soukan-gou (Japan)">
+	<game name="Q^2 ROM Magazine Soukangou (Japan)">
 		<category>Multimedia</category>
-		<description>Q^2 ROM Magazine Soukan-gou (Japan)</description>
-		<rom name="Q^2 ROM Magazine Soukan-gou (Japan).cue" size="124" crc="ae1bfcb7" md5="dcb0e71edf201dc8e370212e980b38d1" sha1="5ca36d39610d80b8c174cabc7fe0620d6c5aafbe"/>
-		<rom name="Q^2 ROM Magazine Soukan-gou (Japan).bin" size="274831200" crc="567ab0f3" md5="d0b7802a5ac7bf7cf56f56d7e3f55141" sha1="8930c6a7099b7f624c1a1ee2b8af45a4613e681a"/>
+		<description>Q^2 ROM Magazine Soukangou (Japan)</description>
+		<rom name="Q^2 ROM Magazine Soukangou (Japan).cue" size="123" crc="69d39311" md5="f63b7eb117e68bd731d1021bef9893aa" sha1="4eefd5034e9ddbab2f29c07db66f8f0c76d1f16b"/>
+		<rom name="Q^2 ROM Magazine Soukangou (Japan).bin" size="274831200" crc="567ab0f3" md5="d0b7802a5ac7bf7cf56f56d7e3f55141" sha1="8930c6a7099b7f624c1a1ee2b8af45a4613e681a"/>
 	</game>
 	<game name="Mahou Daisakusen (Japan)">
 		<category>Games</category>
@@ -16201,11 +16201,11 @@
 		<rom name="Secre Volume 3 - Fumie Hosokawa (Japan).cue" size="128" crc="bcb592cc" md5="5303e71ffa6a0c74f28d334d2be88bc6" sha1="b423d876cd04729128447651760f20d9982016f2"/>
 		<rom name="Secre Volume 3 - Fumie Hosokawa (Japan).bin" size="200743200" crc="5768ff32" md5="64eb60d98d677e2a61ffd48300b787e7" sha1="0aa90d0a0755d219c58d44a1e045b9fdc2bb0a34"/>
 	</game>
-	<game name="Scholar Movie Magazine Soukan-gou (Japan)">
+	<game name="Scholar Movie Magazine Soukangou (Japan)">
 		<category>Multimedia</category>
-		<description>Scholar Movie Magazine Soukan-gou (Japan)</description>
-		<rom name="Scholar Movie Magazine Soukan-gou (Japan).cue" size="130" crc="a2ad5990" md5="323cc9432a3596fbc4605ff2c61d00e3" sha1="73accc6a590248674685ae07b54241e5c04c3b25"/>
-		<rom name="Scholar Movie Magazine Soukan-gou (Japan).bin" size="381372096" crc="eb013a0a" md5="6ac63c684a558911b10de312223e542e" sha1="22cc090752d7a2b03bb1fbfb4e413bc839e846e9"/>
+		<description>Scholar Movie Magazine Soukangou (Japan)</description>
+		<rom name="Scholar Movie Magazine Soukangou (Japan).cue" size="129" crc="696d8cda" md5="017fa084537b001e842b3fdbc08b0d87" sha1="b6e7e36ed1eef595e189fc76773b5502ee7a97ba"/>
+		<rom name="Scholar Movie Magazine Soukangou (Japan).bin" size="381372096" crc="eb013a0a" md5="6ac63c684a558911b10de312223e542e" sha1="22cc090752d7a2b03bb1fbfb4e413bc839e846e9"/>
 	</game>
 	<game name="4D Driving (Japan) (FM Towns Marty Rerelease)">
 		<category>Games</category>
@@ -16935,34 +16935,34 @@
 		<rom name="ClearMind - Shimoguchi Yuuzan no Shuuchuuryoku Kaihatsu (Japan) (Track 11).bin" size="24002160" crc="f0c191c4" md5="ff8f59d07b43938988ea355a4948055c" sha1="b9706003e41b0b4e97b2459ad2c4054bd156cb74"/>
 		<rom name="ClearMind - Shimoguchi Yuuzan no Shuuchuuryoku Kaihatsu (Japan) (Track 12).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
 	</game>
-	<game name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan)">
+	<game name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan)">
 		<category>Demos</category>
-		<description>FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan)</description>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan).cue" size="3582" crc="d06e0811" md5="502feac478f53625ad7a72f3ef5d6ee2" sha1="0adbd04a77422e2ef7df7a7ba380eff1dd7fbc14"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 01).bin" size="348919200" crc="d961bb3f" md5="fd3f2702c0c5f40238a295b96957f8bf" sha1="64c5c208605af590e814fd2d96c3dec43cedec1b"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 02).bin" size="28231056" crc="1077c717" md5="4dbd6e5606499c74e5243417d46befe6" sha1="ac33fb0411b1a5be2bcefab13b1d76acdb9c47ef"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 03).bin" size="3050544" crc="94b43946" md5="13cdc9eddc786badf53c05991080f6ab" sha1="8788e4a904a6d0bb36e5dd42f5d4ef78d10b95e2"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 04).bin" size="75588576" crc="64b58001" md5="b9de5a602b9535bfec8b4025a49e2364" sha1="847378de155cf0a3b686c1b837b33ac116995242"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 05).bin" size="7566384" crc="1c39db5f" md5="edeb5690f46c48f1069e60b8660720d8" sha1="1fc30168a1b36b5ee73e54cd13d82f44283f673d"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 06).bin" size="27396096" crc="41b41a65" md5="542ae90c96d49c5423070d56ddbd4dea" sha1="d686c41bb42093cc1b298430b0ad3e2173658467"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 07).bin" size="6390384" crc="c1bcec04" md5="2f73f450828837a6888a61c6f10228aa" sha1="72f05e911a3fe29189ba3ae8d4dc2eebc77d4128"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 08).bin" size="2488416" crc="15e93c62" md5="24d08e36d4567063e2c396a078b2b098" sha1="0f349e9eb6dedcee340873b5e147ab9cd7a0ca23"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 09).bin" size="23148384" crc="c409a561" md5="20caa9633b9eb880b538d7b8fb829b38" sha1="d1afb2c2aa73d106bb785509c096cb2cd49238bd"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 10).bin" size="16440480" crc="88334550" md5="e76179a2b932d094c17267730ad6ac85" sha1="b0eeb20af59fdb4e1a57ed0ab6b65f3dc5a35d3a"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 11).bin" size="11783520" crc="d236d0e7" md5="e3498aac2892d3437ae522e2a5801140" sha1="4a0cdae61f53388a28820198a0f8bf383923a175"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 12).bin" size="31810800" crc="831ec9bb" md5="b212bfb7aa85abb358891a8a8fd988e9" sha1="d4c08b39ea06c1bb5258b52636e52b7b92de3886"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 13).bin" size="21814800" crc="d0687e9f" md5="81ea1df589bf3407b96bf93762a90b9e" sha1="dc11bbcb8bbbe8725723b367876df6f965032619"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 14).bin" size="11865840" crc="c9fcde6f" md5="3b31bc8456d339397b53024ebd6f2751" sha1="79638d8e01ea012f3265c8e69eb93c73b9114123"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 15).bin" size="6503280" crc="9112a45b" md5="63e5e5fb311570f3f559aff18df0d521" sha1="97792c4fc68486bec62d00ee1b06088ae183e6f2"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 16).bin" size="6326880" crc="2bc9007a" md5="8901ac50bd51925a76b5e4e4952ea7dd" sha1="5d560a4c9255bfe9b530c676de3c0dc97c4d5b7b"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 17).bin" size="4010160" crc="351e9932" md5="f559a88a98537a55dd4084df1b1a02fc" sha1="b449dd309b6f4f04191f3d942f5e362be187f460"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 18).bin" size="8368416" crc="574ddd0c" md5="e4a5e7c7bd1e7d6ea4eca2fcf8755257" sha1="87dfe37fca327f250665e901985539641b8d8316"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 19).bin" size="3974880" crc="f3eca615" md5="e38c174df4fecf4173caa3705ce31211" sha1="68c7e54ed6da45e60ab52b6de22e815150ce9d07"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 20).bin" size="2744784" crc="ec0e88c1" md5="2cddc4fa77bcb98c177bc10fabd93f7e" sha1="d8cfb40946ba7a1d575cf4cb4e804a76631870cf"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 21).bin" size="1147776" crc="d07b00ea" md5="90d7b3e68dcef5a66a2a0da25d9f875f" sha1="224ca8f81c6027bc5a23fe141fe7a08e2e52db5c"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 22).bin" size="1498224" crc="5d4b7bff" md5="09115007c465d010fc00f106603f899a" sha1="88b7d8ede83fd03037993b1de382d2bd5915c869"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 23).bin" size="1147776" crc="39a5721c" md5="a87e3c33973294a02a49a871a458064a" sha1="e7b1dfb99b192b6442c923cd6c550b1ea4d05ec1"/>
-		<rom name="FM Towns Demonstration CD-ROM 1993-nen Haru-gou (Japan) (Track 24).bin" size="1851024" crc="81f91b85" md5="3816b54b5bbb23db249b98a216b192e4" sha1="b5ab06ae0b2c93558e6b1fb03209748ee01a7063"/>
+		<description>FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan)</description>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan).cue" size="3558" crc="e056b138" md5="5ac1948b18dc845e686f23ec3a026fe0" sha1="f7410d1c033a7ebdd6b23736d2f6a5b4fef18d8b"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 01).bin" size="348919200" crc="d961bb3f" md5="fd3f2702c0c5f40238a295b96957f8bf" sha1="64c5c208605af590e814fd2d96c3dec43cedec1b"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 02).bin" size="28231056" crc="1077c717" md5="4dbd6e5606499c74e5243417d46befe6" sha1="ac33fb0411b1a5be2bcefab13b1d76acdb9c47ef"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 03).bin" size="3050544" crc="94b43946" md5="13cdc9eddc786badf53c05991080f6ab" sha1="8788e4a904a6d0bb36e5dd42f5d4ef78d10b95e2"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 04).bin" size="75588576" crc="64b58001" md5="b9de5a602b9535bfec8b4025a49e2364" sha1="847378de155cf0a3b686c1b837b33ac116995242"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 05).bin" size="7566384" crc="1c39db5f" md5="edeb5690f46c48f1069e60b8660720d8" sha1="1fc30168a1b36b5ee73e54cd13d82f44283f673d"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 06).bin" size="27396096" crc="41b41a65" md5="542ae90c96d49c5423070d56ddbd4dea" sha1="d686c41bb42093cc1b298430b0ad3e2173658467"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 07).bin" size="6390384" crc="c1bcec04" md5="2f73f450828837a6888a61c6f10228aa" sha1="72f05e911a3fe29189ba3ae8d4dc2eebc77d4128"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 08).bin" size="2488416" crc="15e93c62" md5="24d08e36d4567063e2c396a078b2b098" sha1="0f349e9eb6dedcee340873b5e147ab9cd7a0ca23"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 09).bin" size="23148384" crc="c409a561" md5="20caa9633b9eb880b538d7b8fb829b38" sha1="d1afb2c2aa73d106bb785509c096cb2cd49238bd"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 10).bin" size="16440480" crc="88334550" md5="e76179a2b932d094c17267730ad6ac85" sha1="b0eeb20af59fdb4e1a57ed0ab6b65f3dc5a35d3a"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 11).bin" size="11783520" crc="d236d0e7" md5="e3498aac2892d3437ae522e2a5801140" sha1="4a0cdae61f53388a28820198a0f8bf383923a175"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 12).bin" size="31810800" crc="831ec9bb" md5="b212bfb7aa85abb358891a8a8fd988e9" sha1="d4c08b39ea06c1bb5258b52636e52b7b92de3886"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 13).bin" size="21814800" crc="d0687e9f" md5="81ea1df589bf3407b96bf93762a90b9e" sha1="dc11bbcb8bbbe8725723b367876df6f965032619"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 14).bin" size="11865840" crc="c9fcde6f" md5="3b31bc8456d339397b53024ebd6f2751" sha1="79638d8e01ea012f3265c8e69eb93c73b9114123"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 15).bin" size="6503280" crc="9112a45b" md5="63e5e5fb311570f3f559aff18df0d521" sha1="97792c4fc68486bec62d00ee1b06088ae183e6f2"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 16).bin" size="6326880" crc="2bc9007a" md5="8901ac50bd51925a76b5e4e4952ea7dd" sha1="5d560a4c9255bfe9b530c676de3c0dc97c4d5b7b"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 17).bin" size="4010160" crc="351e9932" md5="f559a88a98537a55dd4084df1b1a02fc" sha1="b449dd309b6f4f04191f3d942f5e362be187f460"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 18).bin" size="8368416" crc="574ddd0c" md5="e4a5e7c7bd1e7d6ea4eca2fcf8755257" sha1="87dfe37fca327f250665e901985539641b8d8316"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 19).bin" size="3974880" crc="f3eca615" md5="e38c174df4fecf4173caa3705ce31211" sha1="68c7e54ed6da45e60ab52b6de22e815150ce9d07"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 20).bin" size="2744784" crc="ec0e88c1" md5="2cddc4fa77bcb98c177bc10fabd93f7e" sha1="d8cfb40946ba7a1d575cf4cb4e804a76631870cf"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 21).bin" size="1147776" crc="d07b00ea" md5="90d7b3e68dcef5a66a2a0da25d9f875f" sha1="224ca8f81c6027bc5a23fe141fe7a08e2e52db5c"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 22).bin" size="1498224" crc="5d4b7bff" md5="09115007c465d010fc00f106603f899a" sha1="88b7d8ede83fd03037993b1de382d2bd5915c869"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 23).bin" size="1147776" crc="39a5721c" md5="a87e3c33973294a02a49a871a458064a" sha1="e7b1dfb99b192b6442c923cd6c550b1ea4d05ec1"/>
+		<rom name="FM Towns Demonstration CD-ROM 1993-nen Harugou (Japan) (Track 24).bin" size="1851024" crc="81f91b85" md5="3816b54b5bbb23db249b98a216b192e4" sha1="b5ab06ae0b2c93558e6b1fb03209748ee01a7063"/>
 	</game>
 	<game name="ImageFight (Japan) (Demo)">
 		<category>Demos</category>
@@ -17026,54 +17026,54 @@
 		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (Track 36).bin" size="28840224" crc="6ae9404f" md5="ded79e7e353d9c47b87de0f8fa53ff87" sha1="3ee171020987405c81038580c79d0e7387fca094"/>
 		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (Track 37).bin" size="49352016" crc="ce8a8d4e" md5="b1dc65ccac820994a6bd4cff2a37f165" sha1="1d82fc8128e0f3f83cd239c60e352ab0755e0c9b"/>
 	</game>
-	<game name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan)">
+	<game name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan)">
 		<category>Demos</category>
-		<description>FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan)</description>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan).cue" size="6582" crc="05b2385a" md5="8d50dd05236fa4abece49dd4dd395919" sha1="e900857c6c10ee0cbec3ad4dc72ab649aa27859d"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 01).bin" size="147823200" crc="6d9f42dc" md5="4ab00f1e0c41c5ae9554a90a78ac73a7" sha1="7fcf8479d362bbe3221d09b82d6646e6dea9492e"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 02).bin" size="1234800" crc="d42c677c" md5="e0c43bd80fcf62f0a3d3a4ed930312f1" sha1="37276f79e8923d659b24ed3ab916b9191e89f5c6"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 03).bin" size="23108400" crc="234ba86f" md5="0f1ef4af2881a680be0240e265451495" sha1="21975a1a6f16693c88e8f7b4a41ede4fd36da10e"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 04).bin" size="13182960" crc="7fe71397" md5="817f9f850f675f66e5b37b6d4cf53a0f" sha1="9def873aeb675c9c87b4a8ecf66834819d6feca6"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 05).bin" size="23155440" crc="68368d61" md5="84186c15d873f8102da15fedef4d87cb" sha1="6eb00b8d6ec6dbee68404ae3bcffe5b5506d6beb"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 06).bin" size="24432576" crc="6a4208f8" md5="8cceadc42c7bb6d81c5afb4a510ea7e1" sha1="2b182a0d143603b8eb6fb236ac8d2ee658f9a126"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 07).bin" size="20979840" crc="35b4cca6" md5="2e3183b213d97504dbee7c95f911b81c" sha1="3cb87e79b32bda584d08ce47d0afa5078f31a295"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 08).bin" size="23148384" crc="891f404c" md5="889b21a7c6ccc46e0eff007d688e1e42" sha1="29d3dd7158b26958525da4c78d9313c54816b448"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 09).bin" size="12030480" crc="ff9170de" md5="fae88cdeb4a76c6dc690bab2bafcc287" sha1="440271d337bd9a90987c26f8580f13e670896440"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 10).bin" size="9019920" crc="ced4a6af" md5="d9d9e3a7d6a93a5771aec9c7afc37555" sha1="297048fba6708f637df08aa03d41c6572d03b93c"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 11).bin" size="3335136" crc="e0f9ff61" md5="c9542105e52a2119ace4d29c77accbaf" sha1="619d096710ba60b6b06b84486af175b9d86f3e67"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 12).bin" size="23607024" crc="33b0207d" md5="7ce5690d3fe9749b4b11116846eb500b" sha1="9caac49c5450943daf360da0807f32c897ce406b"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 13).bin" size="11148480" crc="009966af" md5="5209d2ebfe04160b860503dc02e69377" sha1="6b6f367bfa76ba3d1cfba99152e0a85b9283e57f"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 14).bin" size="10391136" crc="86bf7b9e" md5="24b419f3ca38567f13b4b9ff00dbd480" sha1="9d4a8d6f680e95506e3daef9a436a47a15ec6082"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 15).bin" size="8848224" crc="dbaf39ef" md5="97b2a1c6939621ccb74af83ceb349fc6" sha1="68dc955db5e13bea825d16c9eae0043a3878e956"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 16).bin" size="69007680" crc="38b99939" md5="094b20b5f33f91e6a4b1562f0264c55f" sha1="686094cea98eb9bb2804918f6935aa3b02b719ca"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 17).bin" size="23073120" crc="938d172c" md5="03e56c5e953f89c4a1fc28bb43c79ed4" sha1="7bd4f3025588ca397e37cac6bd782da9ffc7c7b2"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 18).bin" size="4664016" crc="f87f4f2b" md5="cb3dd7b31af03d6ff92817ba111e16e6" sha1="0f463374d442e080bf6bbc49faea218ce6a593be"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 19).bin" size="5092080" crc="f4209239" md5="d7f5c6fcdab0f85ecdd961d8faa2121d" sha1="0c0d6a0572e7610d5ca56fbc0e5aac34eefd6025"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 20).bin" size="6373920" crc="1772755e" md5="58ba5630c372896e5e5d8e51d840aa9e" sha1="399a209f425abd25c02394acfac7807a5b378eb4"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 21).bin" size="60869760" crc="a4c93e10" md5="99e12c0e75a9530df8b1cd19275b02a3" sha1="e1eb6e9f25e1dad5c8c1467e6cf9e18c7a70b4fc"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 22).bin" size="7773360" crc="9ba85492" md5="ca8bd70becc14e9dc48c79627c4bb927" sha1="ea3efc45d950e57bf630fc9bdfa3ecd2f183220c"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 23).bin" size="9161040" crc="f37a0446" md5="df5f954edb1f9a016185aefd7a47b806" sha1="a178023df85b588e06aaf1baab9599242e4876fb"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 24).bin" size="7761600" crc="93fd4295" md5="b85b09b96c4cdaf1c1604def6c27d92a" sha1="9e424917e84723ed125cff81ffff68ea0007ee99"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 25).bin" size="9513840" crc="49a65667" md5="a950c9045e7b174a17026805a62b417e" sha1="ad9f061fdc80d0371b1ec17859ab39dc72d47190"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 26).bin" size="7067760" crc="3b551fef" md5="5b6ac6bd92a197c3510a3d87e3d519c2" sha1="5ba2a5f8301f3fb6a27234618960187661bbd98c"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 27).bin" size="7495824" crc="1bec69f2" md5="a2c2739573fa295c465689f1008f3bd1" sha1="37254304a2d0048f98e86268bc33a0d8d5f1b1c7"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 28).bin" size="2058000" crc="6dd055d4" md5="3cac712d5b580f090984f3e52616546f" sha1="0e1942d2d55979bc77d2559e9088681ec159e131"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 29).bin" size="15146880" crc="f237d516" md5="eb01a422f7829f50ae916a51110f64cf" sha1="b8f91312c6d8626466a238a33dd16496aa02cdb5"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 30).bin" size="4833360" crc="25b8725f" md5="568375026ec8a7e153f26c88cad77923" sha1="d213a00384e8e0d8acd21c389d6ef571606f869e"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 31).bin" size="5569536" crc="c615e1b8" md5="a5ff6f0f64ce08d4887a1404ee631747" sha1="e7edbfb1ba610294d7dd598cd2fbe69215ede264"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 32).bin" size="3810240" crc="1e4ebd0b" md5="b01e005968dfec83fee2318bd5d057f8" sha1="6b875d2048b6018ff8a57b7ef36598b71e29e183"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 33).bin" size="35797440" crc="9660e2e5" md5="e628309480913a2ad910c5ecbc86c66f" sha1="cd91c7b583d74f6b4ed35ccbe0902339434d53cd"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 34).bin" size="11395440" crc="f7731c65" md5="14ebfa5199c2ff30725a7824bb75c3b7" sha1="dad1ef298e62d8481cacd0578b1e50ef9c3ef128"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 35).bin" size="5249664" crc="4a81f106" md5="99a21691fdbf2b8401be45fdc3913790" sha1="3fd546467ce763aff0ad29492c9d9002652463ca"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 36).bin" size="3582096" crc="e6c77aea" md5="b64e6802ff0ffcacfbfb39b4fbf0ee6a" sha1="221a8b0e47179ac66ef25bb1b763ecefa56a5bcf"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 37).bin" size="6049344" crc="aaa71f3c" md5="45cc6821de52805922427c29e8820640" sha1="4be53e7a7452d8197ede94019f1c011b7d4799ea"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 38).bin" size="3535056" crc="5aca1d83" md5="859de5597af0e82b0fded34c744ceb29" sha1="e9d80e7404eaf529fb12915044a16cd33d7e4f6f"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 39).bin" size="4344144" crc="4b652073" md5="d6486d413e4ae4f891313309c65bf324" sha1="a88c8bd694675383917eace55af5f6f9568c17b4"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 40).bin" size="3669120" crc="044b6d29" md5="a8487a34f5f6db684c41da921ff79644" sha1="a6cf5bb89ca725c568efa0510d88cbf011388e63"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 41).bin" size="11520096" crc="9789384d" md5="dd2cacacb3a94a466f9d4229a12440d0" sha1="d6707c8c86dd01b55986b1f47018505567faf7ef"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 42).bin" size="11877600" crc="5f05f036" md5="9983ba691daa7ead4e2577ce9ea5d8fd" sha1="86d4954e07d14f42ab71640b7ec55e2b378af1af"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 43).bin" size="15511440" crc="2be847e0" md5="96e9d0be161bac3b7a2fa1276b6dccff" sha1="7538e590a3cc72117418014a80329f50a4a5ce15"/>
-		<rom name="FM Towns Demonstration CD-ROM 1992-nen Haru-gou (Japan) (Track 44).bin" size="11901120" crc="002cb91e" md5="feb83bb7dfe52f324316caa19235dd6c" sha1="fcd8bffd431555c9785c94a31a9e36f77f91d200"/>
+		<description>FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan)</description>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan).cue" size="6538" crc="6cea6e2d" md5="b3ecec71532bb6204a52b422a5ccb199" sha1="758bb7104475f059ea211f334c953cf218891ccd"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 01).bin" size="147823200" crc="6d9f42dc" md5="4ab00f1e0c41c5ae9554a90a78ac73a7" sha1="7fcf8479d362bbe3221d09b82d6646e6dea9492e"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 02).bin" size="1234800" crc="d42c677c" md5="e0c43bd80fcf62f0a3d3a4ed930312f1" sha1="37276f79e8923d659b24ed3ab916b9191e89f5c6"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 03).bin" size="23108400" crc="234ba86f" md5="0f1ef4af2881a680be0240e265451495" sha1="21975a1a6f16693c88e8f7b4a41ede4fd36da10e"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 04).bin" size="13182960" crc="7fe71397" md5="817f9f850f675f66e5b37b6d4cf53a0f" sha1="9def873aeb675c9c87b4a8ecf66834819d6feca6"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 05).bin" size="23155440" crc="68368d61" md5="84186c15d873f8102da15fedef4d87cb" sha1="6eb00b8d6ec6dbee68404ae3bcffe5b5506d6beb"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 06).bin" size="24432576" crc="6a4208f8" md5="8cceadc42c7bb6d81c5afb4a510ea7e1" sha1="2b182a0d143603b8eb6fb236ac8d2ee658f9a126"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 07).bin" size="20979840" crc="35b4cca6" md5="2e3183b213d97504dbee7c95f911b81c" sha1="3cb87e79b32bda584d08ce47d0afa5078f31a295"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 08).bin" size="23148384" crc="891f404c" md5="889b21a7c6ccc46e0eff007d688e1e42" sha1="29d3dd7158b26958525da4c78d9313c54816b448"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 09).bin" size="12030480" crc="ff9170de" md5="fae88cdeb4a76c6dc690bab2bafcc287" sha1="440271d337bd9a90987c26f8580f13e670896440"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 10).bin" size="9019920" crc="ced4a6af" md5="d9d9e3a7d6a93a5771aec9c7afc37555" sha1="297048fba6708f637df08aa03d41c6572d03b93c"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 11).bin" size="3335136" crc="e0f9ff61" md5="c9542105e52a2119ace4d29c77accbaf" sha1="619d096710ba60b6b06b84486af175b9d86f3e67"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 12).bin" size="23607024" crc="33b0207d" md5="7ce5690d3fe9749b4b11116846eb500b" sha1="9caac49c5450943daf360da0807f32c897ce406b"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 13).bin" size="11148480" crc="009966af" md5="5209d2ebfe04160b860503dc02e69377" sha1="6b6f367bfa76ba3d1cfba99152e0a85b9283e57f"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 14).bin" size="10391136" crc="86bf7b9e" md5="24b419f3ca38567f13b4b9ff00dbd480" sha1="9d4a8d6f680e95506e3daef9a436a47a15ec6082"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 15).bin" size="8848224" crc="dbaf39ef" md5="97b2a1c6939621ccb74af83ceb349fc6" sha1="68dc955db5e13bea825d16c9eae0043a3878e956"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 16).bin" size="69007680" crc="38b99939" md5="094b20b5f33f91e6a4b1562f0264c55f" sha1="686094cea98eb9bb2804918f6935aa3b02b719ca"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 17).bin" size="23073120" crc="938d172c" md5="03e56c5e953f89c4a1fc28bb43c79ed4" sha1="7bd4f3025588ca397e37cac6bd782da9ffc7c7b2"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 18).bin" size="4664016" crc="f87f4f2b" md5="cb3dd7b31af03d6ff92817ba111e16e6" sha1="0f463374d442e080bf6bbc49faea218ce6a593be"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 19).bin" size="5092080" crc="f4209239" md5="d7f5c6fcdab0f85ecdd961d8faa2121d" sha1="0c0d6a0572e7610d5ca56fbc0e5aac34eefd6025"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 20).bin" size="6373920" crc="1772755e" md5="58ba5630c372896e5e5d8e51d840aa9e" sha1="399a209f425abd25c02394acfac7807a5b378eb4"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 21).bin" size="60869760" crc="a4c93e10" md5="99e12c0e75a9530df8b1cd19275b02a3" sha1="e1eb6e9f25e1dad5c8c1467e6cf9e18c7a70b4fc"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 22).bin" size="7773360" crc="9ba85492" md5="ca8bd70becc14e9dc48c79627c4bb927" sha1="ea3efc45d950e57bf630fc9bdfa3ecd2f183220c"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 23).bin" size="9161040" crc="f37a0446" md5="df5f954edb1f9a016185aefd7a47b806" sha1="a178023df85b588e06aaf1baab9599242e4876fb"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 24).bin" size="7761600" crc="93fd4295" md5="b85b09b96c4cdaf1c1604def6c27d92a" sha1="9e424917e84723ed125cff81ffff68ea0007ee99"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 25).bin" size="9513840" crc="49a65667" md5="a950c9045e7b174a17026805a62b417e" sha1="ad9f061fdc80d0371b1ec17859ab39dc72d47190"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 26).bin" size="7067760" crc="3b551fef" md5="5b6ac6bd92a197c3510a3d87e3d519c2" sha1="5ba2a5f8301f3fb6a27234618960187661bbd98c"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 27).bin" size="7495824" crc="1bec69f2" md5="a2c2739573fa295c465689f1008f3bd1" sha1="37254304a2d0048f98e86268bc33a0d8d5f1b1c7"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 28).bin" size="2058000" crc="6dd055d4" md5="3cac712d5b580f090984f3e52616546f" sha1="0e1942d2d55979bc77d2559e9088681ec159e131"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 29).bin" size="15146880" crc="f237d516" md5="eb01a422f7829f50ae916a51110f64cf" sha1="b8f91312c6d8626466a238a33dd16496aa02cdb5"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 30).bin" size="4833360" crc="25b8725f" md5="568375026ec8a7e153f26c88cad77923" sha1="d213a00384e8e0d8acd21c389d6ef571606f869e"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 31).bin" size="5569536" crc="c615e1b8" md5="a5ff6f0f64ce08d4887a1404ee631747" sha1="e7edbfb1ba610294d7dd598cd2fbe69215ede264"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 32).bin" size="3810240" crc="1e4ebd0b" md5="b01e005968dfec83fee2318bd5d057f8" sha1="6b875d2048b6018ff8a57b7ef36598b71e29e183"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 33).bin" size="35797440" crc="9660e2e5" md5="e628309480913a2ad910c5ecbc86c66f" sha1="cd91c7b583d74f6b4ed35ccbe0902339434d53cd"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 34).bin" size="11395440" crc="f7731c65" md5="14ebfa5199c2ff30725a7824bb75c3b7" sha1="dad1ef298e62d8481cacd0578b1e50ef9c3ef128"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 35).bin" size="5249664" crc="4a81f106" md5="99a21691fdbf2b8401be45fdc3913790" sha1="3fd546467ce763aff0ad29492c9d9002652463ca"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 36).bin" size="3582096" crc="e6c77aea" md5="b64e6802ff0ffcacfbfb39b4fbf0ee6a" sha1="221a8b0e47179ac66ef25bb1b763ecefa56a5bcf"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 37).bin" size="6049344" crc="aaa71f3c" md5="45cc6821de52805922427c29e8820640" sha1="4be53e7a7452d8197ede94019f1c011b7d4799ea"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 38).bin" size="3535056" crc="5aca1d83" md5="859de5597af0e82b0fded34c744ceb29" sha1="e9d80e7404eaf529fb12915044a16cd33d7e4f6f"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 39).bin" size="4344144" crc="4b652073" md5="d6486d413e4ae4f891313309c65bf324" sha1="a88c8bd694675383917eace55af5f6f9568c17b4"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 40).bin" size="3669120" crc="044b6d29" md5="a8487a34f5f6db684c41da921ff79644" sha1="a6cf5bb89ca725c568efa0510d88cbf011388e63"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 41).bin" size="11520096" crc="9789384d" md5="dd2cacacb3a94a466f9d4229a12440d0" sha1="d6707c8c86dd01b55986b1f47018505567faf7ef"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 42).bin" size="11877600" crc="5f05f036" md5="9983ba691daa7ead4e2577ce9ea5d8fd" sha1="86d4954e07d14f42ab71640b7ec55e2b378af1af"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 43).bin" size="15511440" crc="2be847e0" md5="96e9d0be161bac3b7a2fa1276b6dccff" sha1="7538e590a3cc72117418014a80329f50a4a5ce15"/>
+		<rom name="FM Towns Demonstration CD-ROM 1992-nen Harugou (Japan) (Track 44).bin" size="11901120" crc="002cb91e" md5="feb83bb7dfe52f324316caa19235dd6c" sha1="fcd8bffd431555c9785c94a31a9e36f77f91d200"/>
 	</game>
 	<game name="Euphony II &amp; Score V1.1 L10 (Japan)">
 		<category>Applications</category>

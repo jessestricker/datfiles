@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (29) (2026-03-24 12-08-22)</description>
-		<version>2026-03-24 12-08-22</version>
-		<date>2026-03-24 12-08-22</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (37) (2026-03-26 20-42-43)</description>
+		<version>2026-03-26 20-42-43</version>
+		<date>2026-03-26 20-42-43</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -421,21 +421,21 @@
 		<rom name="Dragon's Lair (USA) (Track 4).bin" size="1404144" crc="a0653d3d" md5="20950479d6c67a0beb9111630407bb24" sha1="75eb95021beef98dce9bb3e830237dff2ebc62f2"/>
 		<rom name="Dragon's Lair (USA) (Track 5).bin" size="1401792" crc="569b54ba" md5="8a4dd8e9c7679721f6145db162987d7d" sha1="3013720892e42025ea78f0ce54866d461993d143"/>
 	</game>
-	<game name="Blue Lightning (USA) (En,Fr,De) (Alt)">
+	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 1)">
 		<category>Games</category>
-		<description>Blue Lightning (USA) (En,Fr,De) (Alt)</description>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt).cue" size="1484" crc="5900ecb3" md5="9c6abcbcb4ea30b5a84871852558c1c1" sha1="e057747c1261398f05b1f1f88defe75bf8544af2"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 04).bin" size="49773024" crc="5fb24d26" md5="a48406ffd5211fd95d1aebf7c6b3cbb6" sha1="45d65da91dcec086685be3bf6abd95e7affd6445"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 05).bin" size="77966448" crc="2615a732" md5="32d2cc1d48d51b7ed5afb5d4580ebdc6" sha1="0eab6a25798c3d1055ef1ad7917da496c01e03df"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 06).bin" size="65162160" crc="c9ae22b4" md5="e7cddc6cf2f67c6ee45ea0f4f2fe2617" sha1="c9703050a7620767acc881c100d797ee164a37d7"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 07).bin" size="48352416" crc="a9be1da8" md5="c540e60fe48333095312798e05751975" sha1="2694f046fcc86690100cee159b2a5ed6fc920775"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 08).bin" size="48352416" crc="5a6afc2b" md5="c368936b55df11bdad12fede18c09923" sha1="2e4dec47dd0a6c3896c4bf90a7987f1b30b0917d"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 09).bin" size="48352416" crc="eac0ab9c" md5="2ae6b6781ec488007418949fb61b0302" sha1="f3cd18fc1bfb8fb436520da9a8123a3091165ed2"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 10).bin" size="48352416" crc="61917517" md5="7b196ad1db3f28e5e401d7435b3b0898" sha1="bc1514c4fba82203d136608cff41e37991ea2fbb"/>
-		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
+		<description>Blue Lightning (USA) (En,Fr,De) (Alt 1)</description>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1).cue" size="1506" crc="524790a6" md5="463aac0578cdba3371f94d2b6594ae56" sha1="ecfd650c2775fa0afbe18f420efe251545ceb147"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 04).bin" size="49773024" crc="5fb24d26" md5="a48406ffd5211fd95d1aebf7c6b3cbb6" sha1="45d65da91dcec086685be3bf6abd95e7affd6445"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 05).bin" size="77966448" crc="2615a732" md5="32d2cc1d48d51b7ed5afb5d4580ebdc6" sha1="0eab6a25798c3d1055ef1ad7917da496c01e03df"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 06).bin" size="65162160" crc="c9ae22b4" md5="e7cddc6cf2f67c6ee45ea0f4f2fe2617" sha1="c9703050a7620767acc881c100d797ee164a37d7"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 07).bin" size="48352416" crc="a9be1da8" md5="c540e60fe48333095312798e05751975" sha1="2694f046fcc86690100cee159b2a5ed6fc920775"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 08).bin" size="48352416" crc="5a6afc2b" md5="c368936b55df11bdad12fede18c09923" sha1="2e4dec47dd0a6c3896c4bf90a7987f1b30b0917d"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 09).bin" size="48352416" crc="eac0ab9c" md5="2ae6b6781ec488007418949fb61b0302" sha1="f3cd18fc1bfb8fb436520da9a8123a3091165ed2"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 10).bin" size="48352416" crc="61917517" md5="7b196ad1db3f28e5e401d7435b3b0898" sha1="bc1514c4fba82203d136608cff41e37991ea2fbb"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 1) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
 	</game>
 	<game name="Battle Morph (USA) (Songbird)">
 		<category>Games</category>
@@ -506,5 +506,135 @@
 		<rom name="Vid Grid (USA) (Rev 1) (Track 15).bin" size="57668688" crc="3ca2ad9a" md5="69c783327db9ad8d7b6627386654d53e" sha1="337b1ab4d014533acefb0810c31162e01aa873dd"/>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 16).bin" size="4595808" crc="0bde0780" md5="a1f00d2f03a64d810ff647b0ae5e9692" sha1="a4e86dfebbcd487de7f8cf7f215e7b62b7518f19"/>
 		<rom name="Vid Grid (USA) (Rev 1) (Track 17).bin" size="1401792" crc="11c8f0dd" md5="1b31968cb5ce770de30e758b8556e585" sha1="5ae9ee6f063f2bea4170eb933c8802bbab27872e"/>
+	</game>
+	<game name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl)">
+		<category>Games</category>
+		<description>Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl)</description>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl).cue" size="873" crc="e2674659" md5="a087f17365ec867c475dc0f61b50718c" sha1="2cb5b9f12b205a627c4478d87415066f132f1305"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 1).bin" size="29995056" crc="63e41df2" md5="1e0633eee28556783c51b81082308b58" sha1="b6f5274aeba5cb73830ed63e7b91ecc37f46ede0"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 2).bin" size="710304" crc="622d631c" md5="d1039fe3390160b42d45c55448309554" sha1="97f2055796e9146d7ea6b3bd4ed801e9053532e3"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 3).bin" size="1117200" crc="6273bbb8" md5="25f3d56bc153551220fe61a5aa69f824" sha1="0e93307a1bda3f0abd6dfb630383cdcda1d6b15b"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 4).bin" size="2900016" crc="10c45c4e" md5="401fdf89900657303e3209fd632c44d4" sha1="6946805c6a689a41950b181fbb80e61d179c34da"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 5).bin" size="4348848" crc="a20935c0" md5="34a73191d97cc8249a51e27a0123e566" sha1="4404b59d3e5b4f420634b744d3dfeadd8eabe74f"/>
+		<rom name="Alice's Mom's Rescue! (Europe) (En,Fr,De,Es,It) (Unl) (Track 6).bin" size="1063104" crc="4f03ed01" md5="6e5daa9b6748d58f0c4e321f52429624" sha1="a0b7edc15bd52824c938a770b7564bfeb34ef7ea"/>
+	</game>
+	<game name="Blue Lightning (USA) (En,Fr,De) (Alt 2)">
+		<category>Games</category>
+		<description>Blue Lightning (USA) (En,Fr,De) (Alt 2)</description>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2).cue" size="1483" crc="97d34f63" md5="210d63c51f7386f580623df08b7cc61a" sha1="339761a0ffd84392be10b2177b621f1ad842b345"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 01).bin" size="38196480" crc="7e1ee8c7" md5="5d9564a29d2721ff8c4bfe67bd576136" sha1="8f6daa9015544cc83f0c4c320e8256ab09c41d07"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 02).bin" size="1056048" crc="dfdcf849" md5="99d9daba71b88f9bade4e0ed01d03ec0" sha1="4bab76e281db64a00a60c9e0e6e1df6bef415b5e"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 03).bin" size="119138208" crc="a536b676" md5="d782a327b59f2585b17364567fe50ba6" sha1="d0cb81a6cd4127f8f07eee353452254ef180262b"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 04).bin" size="49773024" crc="5fb24d26" md5="a48406ffd5211fd95d1aebf7c6b3cbb6" sha1="45d65da91dcec086685be3bf6abd95e7affd6445"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 05).bin" size="77966448" crc="2615a732" md5="32d2cc1d48d51b7ed5afb5d4580ebdc6" sha1="0eab6a25798c3d1055ef1ad7917da496c01e03df"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 06).bin" size="65164512" crc="bd79933d" md5="4e20d80db56d22fe0c625052ffe81c30" sha1="c4be0ea75dca33f8a94f3a2e66bcf7932dd65edd"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 07).bin" size="48350064" crc="e28ef89c" md5="3b4f380e22cb2811cb233f49f223c3ef" sha1="1a61e7868925eb48b2fe48aa2f462292bd447bdf"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 08).bin" size="48352416" crc="5a6afc2b" md5="c368936b55df11bdad12fede18c09923" sha1="2e4dec47dd0a6c3896c4bf90a7987f1b30b0917d"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 09).bin" size="48352416" crc="eac0ab9c" md5="2ae6b6781ec488007418949fb61b0302" sha1="f3cd18fc1bfb8fb436520da9a8123a3091165ed2"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 10).bin" size="48352416" crc="61917517" md5="7b196ad1db3f28e5e401d7435b3b0898" sha1="bc1514c4fba82203d136608cff41e37991ea2fbb"/>
+		<rom name="Blue Lightning (USA) (En,Fr,De) (Alt 2) (Track 11).bin" size="1401792" crc="5f121609" md5="9ae53ef3e9618367efe7b4e2de2dc08f" sha1="d7e35a509f7ac6114ea2fa5aed3153489a6406ce"/>
+	</game>
+	<game name="Beebris (Australia) (Disc 1) (Unl)">
+		<category>Games</category>
+		<description>Beebris (Australia) (Disc 1) (Unl)</description>
+		<rom name="Beebris (Australia) (Disc 1) (Unl).cue" size="662" crc="2ec2d737" md5="6f7e4fc9f21b5de602b5b68b98604e43" sha1="5343bc4ec196e560afaee01ff53d6973d9f8c5b3"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 2).bin" size="2102688" crc="97ed6a2b" md5="819ea605727f01666c095ddfa30da5d7" sha1="9b19db67fa96261d1ea1148e6d751de0df3933ff"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 3).bin" size="1453536" crc="7538de5a" md5="b66b51c54bc7f1b083facdb5ba51ed17" sha1="46f4f0a39d52506954aee4038e578ec9a255592a"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 4).bin" size="1573488" crc="eeb39c32" md5="91e3d44dd96c4050e8840f7cbec9eb33" sha1="148e648838e85638b83b7887d5492a602a538d5e"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 5).bin" size="1573488" crc="eeb39c32" md5="91e3d44dd96c4050e8840f7cbec9eb33" sha1="148e648838e85638b83b7887d5492a602a538d5e"/>
+		<rom name="Beebris (Australia) (Disc 1) (Unl) (Track 6).bin" size="1053696" crc="9b268f13" md5="cb104b2174af1b10544b69f9f0f83d20" sha1="6a1feddc80e8884a7102c4fb68d766523459364c"/>
+	</game>
+	<game name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl)">
+		<category>Video</category>
+		<description>Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl)</description>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl).cue" size="3172" crc="4ced1a4c" md5="291c2a2c6605949d0ee3e792aff23eec" sha1="90792fa501aa2bd892012326b581742db8ad5d35"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 01).bin" size="2709504" crc="5d597e68" md5="cef4f4eec6854140fb2a40b1b82c9ee8" sha1="9c5be733513cb9d6b8c8e84c6e0ae81529cdba67"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 02).bin" size="710304" crc="25636e13" md5="8f38a26feacf1fb986d598a4b4a30201" sha1="47536f7799c5bce05819b01e54476fddd2ad6e03"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 03).bin" size="10250016" crc="657ff979" md5="15cb17dc6235ab138b86340f0e3b7af9" sha1="a51f45066619816dbf8bac2b470bfc93fecf3182"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 04).bin" size="5964672" crc="d16bd568" md5="0f1eb54cc13f8e61ebd8be0775ca1582" sha1="390cb3185dbe14f4d1aed1911f015c14ac47f01a"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 05).bin" size="17722320" crc="fae63ab4" md5="686a0fce94ae5c2747d1acc82bbb1009" sha1="cf66f17e22ce2574c497d33cf256f3005097f742"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 06).bin" size="50937264" crc="cd2e80b0" md5="68665a82d8185219fa204e8f87290135" sha1="860149792f59c262bf62b02b792cdefc8773a1f9"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 07).bin" size="14455392" crc="514af75e" md5="c72fc51c2946a448a2b379220e891bbb" sha1="f9109b7e1484f2b14305ec9b6d13d01176778742"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 08).bin" size="11821152" crc="d652ecf0" md5="786968276d8ab394d6d6387e8fd74790" sha1="52aff55c086314858c3537a4be54bda226fdcb89"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 09).bin" size="35792736" crc="cbfd8dc6" md5="e31f1e341ad1a6c4ad41f027b30119e5" sha1="898127f2ca43e4b20e6b869b003c4df752511043"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 10).bin" size="12623184" crc="cf133114" md5="ac9f58b075c94d5d138c13a224c63a52" sha1="d27d6db2137030a16c81f5b020fe29455c98ef2e"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 11).bin" size="4007808" crc="25c12c43" md5="2dea773f1a79bab474685c4ba2967423" sha1="a8ca2daa696065fb09b642ab00c428c3a0c207ce"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 12).bin" size="6162240" crc="23c69201" md5="d94433be59ba047bbc110840e5233d22" sha1="5e98ae4f47cc72b5e902ff267942ef084582675c"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 13).bin" size="2551920" crc="7726d54a" md5="020843f61a78e722a3e1e1938c6c3b09" sha1="ac22bfe56e67fde2d65240cd23a783afddb03d63"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 14).bin" size="1799280" crc="496ae5ed" md5="6ea28197d52839aafde138093c4b51da" sha1="233e0a81af02de19b587f0f5eacdd251d41e7cbe"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 15).bin" size="5548368" crc="2b806e82" md5="40496807ad0d71c594c41d8436283fe6" sha1="ae109823354f633191dd5c9dcc98b5b03fe249bb"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 16).bin" size="2627184" crc="245a6203" md5="8cb70d089208e69bd458844d64a5c257" sha1="e2ddfa8b9c9d6ada5898d2d40f675f6b8f648da3"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 17).bin" size="4372368" crc="0162363e" md5="43e0d1afa195b7d2a722c8b883443327" sha1="f4cff4ea4d5b9f379d6c3ab545ba4443faa550e5"/>
+		<rom name="Demolition Man &amp; Commander Blood - Lost Video Footage for Jaguar 64bit (USA) (Unl) (Track 18).bin" size="1406496" crc="5206f2ac" md5="a5962b8e45382e577165e2e4c5dd285b" sha1="374bdd3ff6837864b4263294fcb3f08e6b970d6b"/>
+	</game>
+	<game name="Elansar (Europe) (En,Fr,De,Es) (Unl)">
+		<category>Games</category>
+		<description>Elansar (Europe) (En,Fr,De,Es) (Unl)</description>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl).cue" size="896" crc="8ce9b8ac" md5="5041a16847e9e88a77fb335eb1515ac3" sha1="3ec9c39ae7e1edb064546f14bb34b1d67e135eb2"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 1).bin" size="15883056" crc="cdadfb66" md5="8301483055f5347627594e878654c7b8" sha1="f7a1079848ec374a4732bb66efeb3d19d4b2add9"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 2).bin" size="710304" crc="ff379830" md5="823265c11b2a2f52678488fb52da4c39" sha1="b391080510869b926e6a098d1520fff7747477ee"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 3).bin" size="18639600" crc="5e4e83e8" md5="456ed435202e297ee3112efde883d331" sha1="70f91e775e4a6ecd68b7abe2c4c2f810581ea470"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 4).bin" size="2900016" crc="d0ad7174" md5="958f656c445b46b337066444941565b2" sha1="d749326d30b2651a8109f9016313b4b200d3f3c6"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 5).bin" size="7886256" crc="6d3c1ad9" md5="68ae38557d84c3467a9c3a767556bdfc" sha1="1546383a737d7215a961838018cf8018fc53518a"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 6).bin" size="4915680" crc="bf5de60f" md5="4d03d5cfa8340fa023c805ef02fec133" sha1="97fad2c96cd1ce912eac37532baab032a815ce7c"/>
+		<rom name="Elansar (Europe) (En,Fr,De,Es) (Unl) (Track 7).bin" size="1063104" crc="1db96b70" md5="7d5ec097752944b2c8eb6b75ac6b9d26" sha1="6860e345bc742219fee8e3222421e5a21676fa5c"/>
+	</game>
+	<game name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl)">
+		<category>Games</category>
+		<description>Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl)</description>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl).cue" size="2206" crc="079ef411" md5="0e8c4def2a1289c2a1ddfde01ff2bdf1" sha1="a967313d32e8e38ed8b8ade3944775148184dad3"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 01).bin" size="15883056" crc="cdadfb66" md5="8301483055f5347627594e878654c7b8" sha1="f7a1079848ec374a4732bb66efeb3d19d4b2add9"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 02).bin" size="710304" crc="4e98da56" md5="c0c8c3528bceb6b270c70980d79b7742" sha1="0920187f3ad5c230f7a98bceae3407bcd558ce45"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 03).bin" size="1131312" crc="e94fede8" md5="68d6f3583bc870392e723f752d7e2dd8" sha1="975c5a483f83b3ff2d27a1241fc04379087bd8dd"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 04).bin" size="7105392" crc="c3ee0589" md5="07a8222471359bed3869a09f1d3dd3e0" sha1="5c9119c2a93f91dbf31f28507ea8b55582ffcd95"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 05).bin" size="9487968" crc="c104c4c8" md5="809d288c2b915c56d9782dfceee022a6" sha1="915f5a1b529a0e31def43c4a0c8ef8fb41d4bfb4"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 06).bin" size="2688336" crc="a8995177" md5="e057d6e024fcd4c039b4d6e7409ae22f" sha1="7ef6c58a57bb6032e62d11ad3074e6bb4fb25dfa"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 07).bin" size="2123856" crc="22bde5db" md5="b29f5693a49fc1148e5ba0d7564f05a1" sha1="c7e887cf4d28a9aae2103c791cceba3e3fcbd5fd"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 08).bin" size="2900016" crc="81d7c844" md5="faaedddd87e747256fe19d8c969e629d" sha1="4108d5ac039ffc54acedb43632789414ace3b454"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 09).bin" size="3711456" crc="1f686fad" md5="f12069cf0fee7269f082fdde8db3cfa3" sha1="13c32c67f64e3b486e86ec1c251cb054a68473bb"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 10).bin" size="2086224" crc="324aa6d7" md5="4f0bb80c521d4f9b641ebf065eaea4d1" sha1="79dd5d4a8889ff782740ca71e78df3d5d99d52ea"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 11).bin" size="13086528" crc="a30e80c4" md5="94334235292ab56cbcb6e790bbd1cea2" sha1="12dccf19e66546199c3cc5235a1815397d119312"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 12).bin" size="3396288" crc="4a0486bc" md5="d1a0dbd16af3e23de90a118d3f7d1153" sha1="253b42233acd259b35fdbb0a490ea21248f2fbcd"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 13).bin" size="17054352" crc="527ede8b" md5="3d170f2e9da22693829f18e4bee394be" sha1="d4754c18967cc23b3563bada248b5297e250bdcd"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 14).bin" size="17124912" crc="f84ac54d" md5="2f9c678eeb81537fe0e692f3a09f95e0" sha1="d3eb9ea8e442711beb4786d113c62d98fc59e7d4"/>
+		<rom name="Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl) (Track 15).bin" size="1063104" crc="a365bece" md5="893046a6f387f657ed80243fab5e0a59" sha1="6b87192f721eda904dda84d3a5b6bc0dec5f54f2"/>
+	</game>
+	<game name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl)">
+		<category>Demos</category>
+		<description>Varuna's Forces (USA) (Disc 1) (Introduction) (Unl)</description>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl).cue" size="1284" crc="200d22b1" md5="fb4b5614806f2fa712841720abcb9571" sha1="4283bebe8626d513422942a6de86253ca316d9aa"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 1).bin" size="1806336" crc="d6eb3b88" md5="bd0865a347fa67c5356c1404b0c53bb7" sha1="5426bdb5bf8c98aeecd213658bd96f905d52c0d6"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 2).bin" size="1239504" crc="5e0344f8" md5="06c2888fa9d2bc2277d19e4873acb5cc" sha1="6e49c9f3c36742d978dbf158e4dd38faea80c826"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 3).bin" size="13218240" crc="fa32d924" md5="e1dc80bc46a97c76b6ad555195894ad8" sha1="202df9042fa74d50fe5b3230688b85f8f72c0345"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 4).bin" size="13707456" crc="52eb8d65" md5="7cb5160a36ab01be74109f94585423f4" sha1="38247089e727942e876ed8db6a5d15b4e15ee74b"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 5).bin" size="12037536" crc="b16a0162" md5="439cd35ac0f1b7fc322c8aab4c79de5e" sha1="ae1a266286a7e1dc7e64cb6e705358b71c7d809b"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 6).bin" size="13458144" crc="e2103860" md5="44da72f793601f0264558aa17c136aa3" sha1="946f4857b404e01432330e5aba2ce82d0606120a"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 7).bin" size="6042288" crc="e9b582fe" md5="9c4fae1ae2d835567d142dc71a8e27ec" sha1="7804c3247a32b52bbbb14e25bb9779dbccc32a73"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 8).bin" size="23686992" crc="b9b9217f" md5="98b8e2d1812e02dc6c71bc9f9dc55725" sha1="9205ea01889c440e47aa24ec42a09ed90ec8ec93"/>
+		<rom name="Varuna's Forces (USA) (Disc 1) (Introduction) (Unl) (Track 9).bin" size="1406496" crc="e812f328" md5="67cd4296e346692287d0d2bebee8289a" sha1="4a65c8f7da2031d5e73ead4c3ac5e80916caf665"/>
+	</game>
+	<game name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl)">
+		<category>Demos</category>
+		<description>Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl)</description>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl).cue" size="3172" crc="228a0653" md5="08894006980c57ef060a608fee32363e" sha1="739fb66355e4aa1a10d91c40e7250f0d40f5ad9f"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 01).bin" size="23731680" crc="bcf5c51d" md5="83cd532658faf009f0609e7ba452bb75" sha1="c5e30d37549727ecd8b789b2815dd14df7adf68a"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 02).bin" size="24084480" crc="289e5d2c" md5="17f1e63474af77a84fa93fb5ca66cfd7" sha1="6713b0086e32914ff80084f1c2f76fea4c5e95e2"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 03).bin" size="710304" crc="914f3456" md5="77915f31151d7ba86a71f083768e3466" sha1="e6892829ff94bb147128ef2a9a18bda8faa0ae17"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 04).bin" size="1495872" crc="11e465cf" md5="c5e31ed91e9c8cfb89076ddc397569fd" sha1="bc847f270755f78bc8630fbf0c7b969bff898813"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 05).bin" size="10847424" crc="1fd61bc1" md5="154e300b3e66c4688ef51915c226aa76" sha1="3326fc281ebe99c942e5142b079f09c5a1487a90"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 06).bin" size="6632640" crc="2c3d71ae" md5="9b4b31b525738b10faca76f821b41d93" sha1="44838a6e4f7006a122beb59e6c3411f091a7ba03"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 07).bin" size="5202624" crc="334e149c" md5="0971eb99809581c3f8450fa5a8eb7d22" sha1="3ab9f7ba67f89ef979fcb1c870203330d23b534c"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 08).bin" size="9233952" crc="53c9f208" md5="d10b193dde34b592339b8b63641e7331" sha1="209ded54a3be6f2898f382e3393e649b355d1bd3"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 09).bin" size="11642400" crc="a5c09552" md5="5f984137eda054dcab2165f026087d54" sha1="c41a3c7ec3ce23d3faaaceb8723d742e24025a48"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 10).bin" size="5292000" crc="fafc05a6" md5="806da59e537f7a9baa1fca751402e030" sha1="c528df561215bf3daa85960817fe4ec6e5dcf463"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 11).bin" size="11461296" crc="77f6410f" md5="356834871ba840acfc94fb2aa6d664a4" sha1="be79d95bd2e25df86896d19a33726b3289cf07dd"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 12).bin" size="8876448" crc="2a54f07c" md5="711047cc696efa0b47ca174e208bf470" sha1="4ed0240a1ae0d1669caccfa7b4f19e9a9cdcd2c5"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 13).bin" size="7747488" crc="71734ce2" md5="ee776c5a72bfdc3295ca574f7f2f8b61" sha1="8714a483fcfa8c41bfc34a0ebff536ec50d20062"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 14).bin" size="11797632" crc="f6382857" md5="5c67fcd9324912dfd288b000c59862d8" sha1="0c83e6fba83dd13eafdbd6af5b6a134396989b62"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 15).bin" size="13719216" crc="28832492" md5="ec039e957344588b0a39bc0f4cd0ba70" sha1="7e5f0ec459ba26a46ca3a46fed6f28c1dd6b77da"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 16).bin" size="1954512" crc="a75a8aa2" md5="e92c8bf3668c7a60c5e0641295bb3b84" sha1="7c5f6253d99d0b08044cb7da0fcedb6d1a483697"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 17).bin" size="24082128" crc="8e168b9f" md5="cec7bdbaffe448ef75eb46362035eede" sha1="07afa21f83b55d6270018bf55e504ad8fd1c271c"/>
+		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 18).bin" size="1406496" crc="247e76da" md5="271bd7698567c8dcd6eaedd153d0caf6" sha1="cd4c26660d161e40bf4dd3fe7f4a1f0ed078c136"/>
 	</game>
 </datafile>

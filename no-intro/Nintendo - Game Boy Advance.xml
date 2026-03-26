@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260324-184817</version>
+		<version>20260325-160856</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8832,7 +8832,7 @@
 	</game>
 	<game name="Naruto - Konoha Senki (Japan) (Rev 1)" id="2829">
 		<description>Naruto - Konoha Senki (Japan) (Rev 1)</description>
-		<rom name="Naruto - Konoha Senki (Japan) (Rev 1).gba" size="8388608" crc="69cf0418" md5="f9acb6c92faeda7287646dcb354ca183" sha1="01deffedd9e78544465031333baa0eb16c1bc5bd" serial="AUEJ"/>
+		<rom name="Naruto - Konoha Senki (Japan) (Rev 1).gba" size="8388608" crc="69cf0418" md5="f9acb6c92faeda7287646dcb354ca183" sha1="01deffedd9e78544465031333baa0eb16c1bc5bd" status="verified" serial="AUEJ"/>
 	</game>
 	<game name="Naruto - Konoha Senki (Japan)" id="1133" cloneofid="2829">
 		<description>Naruto - Konoha Senki (Japan)</description>
@@ -8848,7 +8848,7 @@
 	</game>
 	<game name="Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)" id="2811" cloneofid="2304">
 		<description>Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)</description>
-		<rom name="Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1).gba" size="8388608" crc="f5f8ecb4" md5="4e6e4e85ede139a629320dcf0613f4a6" sha1="7fca2cff63cf5aa2f2ad301ca254f979f723b072" serial="A7AJ"/>
+		<rom name="Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1).gba" size="8388608" crc="f5f8ecb4" md5="4e6e4e85ede139a629320dcf0613f4a6" sha1="7fca2cff63cf5aa2f2ad301ca254f979f723b072" status="verified" serial="A7AJ"/>
 	</game>
 	<game name="Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)" id="0978" cloneofid="2304">
 		<description>Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)</description>
@@ -14134,7 +14134,9 @@
 		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan).gba" size="8388608" crc="f3041e7e" md5="31dd0e7efd461e004cfa6bad8e7b0e57" sha1="dc25f733cee913afdf187ec03df30909fe28b03c" sha256="59f3141578ae1747bd333c507971a93453e376fbc6a9579c3b148bfca408ae03" status="verified" serial="AY5J"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)" id="3299">
+	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)" id="3299" cloneofid="0654">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 5 Expert 1 - Taikenban (Japan).gba" size="4194304" crc="8d93e52d" md5="716368d2062bb02136b7ded6a8db687e" sha1="0807b14c08cecbbf95a2707fb6293ea5d53a7c65" sha256="23fd9f753ad0b130fc4bb8a0fc6784f0545f711fef521351965ec7c5bf207ad5" serial="AYTJ"/>
 	</game>

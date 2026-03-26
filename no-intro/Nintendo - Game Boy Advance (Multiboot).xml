@@ -4,7 +4,7 @@
 		<id>137</id>
 		<name>Nintendo - Game Boy Advance (Multiboot)</name>
 		<description>Nintendo - Game Boy Advance (Multiboot)</description>
-		<version>20260317-160947</version>
+		<version>20260325-184143</version>
 		<author>Arctic Circle System, C. V. Reynolds, chillerecke, DeriLoko3, Hiccup, hking0036, niemand, norkmetnoil577, NovaAurora, relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -347,6 +347,10 @@
 	<game name="Nintendo Puzzle Collection - Yoshi no Cookie (Japan)" id="0029">
 		<description>Nintendo Puzzle Collection - Yoshi no Cookie (Japan)</description>
 		<rom name="Nintendo Puzzle Collection - Yoshi no Cookie (Japan).gba" size="100144" crc="7662d781" md5="f5fc4246e0019064c3a625b58a057479" sha1="74651fff0bfe50a51a70e5902a7caa0dcae804e7" serial="AGBJ"/>
+	</game>
+	<game name="One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban)" id="0129">
+		<description>One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban)</description>
+		<rom name="One Piece - Going Baseball - Kaizoku Yakyuu (Japan) (Home Run Battle Taikenban).gba" size="168264" crc="5b4e9fdf" md5="16da28a88c0f55fcac3de6dd735fe303" sha1="338723b382c1e74042936bc4c213d4e753481418" sha256="444b85434400e7de9a96d74a7934f9acb3b3fd2ec3f043de7cd07ca3e4e894c2"/>
 	</game>
 	<game name="Puyo Pop - Endless Version (World)" id="0005" cloneofid="0004">
 		<description>Puyo Pop - Endless Version (World)</description>

@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260324-195459</version>
+		<version>20260325-143637</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6660,18 +6660,18 @@
 		<description>Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="34c8a4a5" md5="6dbc891774265f4bc8ccba65f9383aec" sha1="44070e77eb2b56b67f979e444d404e56b67edbb0"/>
 	</game>
+	<game name="Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)" id="1141">
+		<description>Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</description>
+		<rom name="Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="524288" crc="6833923d" md5="3383c2754015c4da7b5295a28ac09739" sha1="5bd06600b35cd2b2e8d51ede6f79db76ba97e78e"/>
+	</game>
+	<game name="Super Breakout (USA) (GB Compatible)" id="1142" cloneofid="1141">
+		<description>Super Breakout (USA) (GB Compatible)</description>
+		<rom name="Super Breakout (USA) (GB Compatible).gbc" size="1048576" crc="52f51cb5" md5="9b8869fa36562a32edec76717632875e" sha1="8c795b6d8ebc3a796821a6b2879f3e5cebf9215c"/>
+	</game>
 	<game name="Super Breakout (World) (ModRetro Chromatic)" id="2725" cloneofid="1141">
 		<category>Games</category>
 		<description>Super Breakout (World) (ModRetro Chromatic)</description>
 		<rom name="Super Breakout (World) (ModRetro Chromatic).gbc" size="262144" crc="3ab3aa4f" md5="34711fafc58e711702e2ff8c30648c19" sha1="069f3befbd6fe49231f0f4b7db4f4237fbc43dcf" sha256="bfd73eb9ab880815e2180fc2b5640bc5c5d7d256855126aba4080c7ea03062b7"/>
-	</game>
-	<game name="Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)" id="1141">
-		<description>Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</description>
-		<rom name="Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="524288" crc="6833923d" md5="3383c2754015c4da7b5295a28ac09739" sha1="5bd06600b35cd2b2e8d51ede6f79db76ba97e78e"/>
-	</game>
-	<game name="Super Breakout! (USA) (GB Compatible)" id="1142" cloneofid="1141">
-		<description>Super Breakout! (USA) (GB Compatible)</description>
-		<rom name="Super Breakout! (USA) (GB Compatible).gbc" size="1048576" crc="52f51cb5" md5="9b8869fa36562a32edec76717632875e" sha1="8c795b6d8ebc3a796821a6b2879f3e5cebf9215c"/>
 	</game>
 	<game name="Super Chinese Fighter EX (Japan)" id="1143">
 		<description>Super Chinese Fighter EX (Japan)</description>
