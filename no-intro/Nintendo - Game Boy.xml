@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260325-070609</version>
+		<version>20260326-152115</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1130,13 +1130,13 @@
 		<description>Castelian (USA)</description>
 		<rom name="Castelian (USA).gb" size="32768" crc="f2d739e4" md5="21cc47b68fc7c9c56ef3393dbe528600" sha1="a03982e2ffa9aa368fe11bc09f024207bada45eb" sha256="0d1230db8d3a634934cb244d1d6a138865a60956667c539f0fbe583581266db3"/>
 	</game>
-	<game name="Castle Quest (Europe)" id="0212">
-		<description>Castle Quest (Europe)</description>
-		<rom name="Castle Quest (Europe).gb" size="131072" crc="2f8aaf6f" md5="03ce24437224ff296a71f402663a0ee9" sha1="45b38a334481f620bb7165fee81391036a54a748" sha256="49049b9e39327ec27a79374835c50700b8dac9359e1f2cec435816690b04483d" status="verified"/>
-	</game>
 	<game name="Castle Quest (Europe) (Beta)" id="1811" cloneofid="0212">
 		<description>Castle Quest (Europe) (Beta)</description>
 		<rom name="Castle Quest (Europe) (Beta).gb" size="131072" crc="8a5636ea" md5="779dce075e652bea5bbecf89bb5b04df" sha1="356c8510b0647e56a558aba9d5dc4cc9d3ccd94c" sha256="70461027df27a08698b33bea2a724a6415578340d29dafc84545cd7f156de7ca"/>
+	</game>
+	<game name="Castle Quest (Europe)" id="0212">
+		<description>Castle Quest (Europe)</description>
+		<rom name="Castle Quest (Europe).gb" size="131072" crc="2f8aaf6f" md5="03ce24437224ff296a71f402663a0ee9" sha1="45b38a334481f620bb7165fee81391036a54a748" sha256="49049b9e39327ec27a79374835c50700b8dac9359e1f2cec435816690b04483d" status="verified"/>
 	</game>
 	<game name="Castlevania - The Adventure (Europe)" id="0213">
 		<description>Castlevania - The Adventure (Europe)</description>
@@ -1794,6 +1794,11 @@
 		<description>Dragon's Lair - The Legend (USA)</description>
 		<rom name="Dragon's Lair - The Legend (USA).gb" size="131072" crc="7a38b5c3" md5="ae4fda03378a0584d45a4735c9d6290e" sha1="4e947908fde7ef9892c59021c6eea0607771f6d2" sha256="15fecc6e3d9f72e9cf3f5af7c1f034cc94a2007d29ea0a204976adcc0ff9a52e"/>
 	</game>
+	<game name="Dragon's Lair - The Legend (World) (Incube8 Games)" id="2544" cloneofid="0339">
+		<category>Games</category>
+		<description>Dragon's Lair - The Legend (World) (Incube8 Games)</description>
+		<rom name="Dragon's Lair - The Legend (World) (Incube8 Games).gb" size="131072" crc="040843c1" md5="9a715725639c7c9e6224812b68d372ae" sha1="7065d63f8fd577e00e0b8c227bd98b49d25e60e0" sha256="98cb182679ecd73fb172688ee4d235c44f95e7abf11b4b2209d01b3c01a5e0e0"/>
+	</game>
 	<game name="DragonHeart (France)" id="0341" cloneofid="0342">
 		<description>DragonHeart (France)</description>
 		<rom name="DragonHeart (France).gb" size="524288" crc="8d089356" md5="97c000e7b02914512ee05b1159371483" sha1="6b01e78df8a7dc3fb171d488cae38501fce3b660" sha256="72a9101f7a0b3acbb5d12a842f81d6d5b973bb5d10086f95a09a05ecc0e9aac3"/>
@@ -1997,13 +2002,13 @@
 		<description>Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade)</description>
 		<rom name="Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade).gb" size="262144" crc="87e018be" md5="bb120634ef25cfc43d8f31697348ad4e" sha1="775bffc187c225d8de4899d5f1d68901fb64f9db" sha256="9eff4e8a66b85a41715539239378007bd5c687082ec07cb0447453f71082280a"/>
 	</game>
-	<game name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)" id="1572">
-		<description>FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)</description>
-		<rom name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced).gb" size="524288" crc="8dc0d46c" md5="0980a1650ad5e23a27202a58fc792ec8" sha1="8dc3ab8f020e4377af1e1f636396cc3881268a1f" sha256="46bb9d0fdf07f4e5fedf785cb9fc1fd20345dd0f27c6ebed7c360f62acc9137d"/>
-	</game>
 	<game name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)" id="0381" cloneofid="1572">
 		<description>FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)</description>
 		<rom name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced).gb" size="524288" crc="cdf6a5ac" md5="3552eada6ea2db722fab1048e3ec654f" sha1="5ef615a919ea967e749febb046f9d097d91fab0d" sha256="4d37b976bb21fb1e7bdeecf6e67e3ae7ee3fd34bb80b10cc921621b92140dee4" status="verified"/>
+	</game>
+	<game name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)" id="1572">
+		<description>FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)</description>
+		<rom name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced).gb" size="524288" crc="8dc0d46c" md5="0980a1650ad5e23a27202a58fc792ec8" sha1="8dc3ab8f020e4377af1e1f636396cc3881268a1f" sha256="46bb9d0fdf07f4e5fedf785cb9fc1fd20345dd0f27c6ebed7c360f62acc9137d"/>
 	</game>
 	<game name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)" id="0380">
 		<description>FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)</description>

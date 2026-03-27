@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3671) (2026-03-26 17-48-09)</description>
-		<version>2026-03-26 17-48-09</version>
-		<date>2026-03-26 17-48-09</date>
+		<description>Microsoft - Xbox 360 - Discs (3672) (2026-03-27 15-31-29)</description>
+		<version>2026-03-27 15-31-29</version>
+		<date>2026-03-27 15-31-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18369,9 +18369,14 @@
 		<description>Musou Orochi - Maou Sairin (Japan) (Rev 1)</description>
 		<rom name="Musou Orochi - Maou Sairin (Japan) (Rev 1).iso" size="7835492352" crc="6382874c" md5="e7722130023c4eb0f714bacb0e69f97e" sha1="e4e63dbf57dcba55a70e7bc3801e239245567b28"/>
 	</game>
-	<game name="Skate 2 (Europe)">
+	<game name="Skate 2 (Europe) (Fr,De)">
 		<category>Games</category>
-		<description>Skate 2 (Europe)</description>
-		<rom name="Skate 2 (Europe).iso" size="7835492352" crc="b0b412d4" md5="f4b98bb88567c4b38bcd06256a79ae5b" sha1="8a83aa124f5ff7675c3464d8fa870b6579193ad4"/>
+		<description>Skate 2 (Europe) (Fr,De)</description>
+		<rom name="Skate 2 (Europe) (Fr,De).iso" size="7835492352" crc="b0b412d4" md5="f4b98bb88567c4b38bcd06256a79ae5b" sha1="8a83aa124f5ff7675c3464d8fa870b6579193ad4"/>
+	</game>
+	<game name="Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan)">
+		<category>Games</category>
+		<description>Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan)</description>
+		<rom name="Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan).iso" size="8738846720" crc="09ae33ee" md5="ddd7f90f99d269d01bf3fe4fc0eb8b11" sha1="562cf252ebe2abbf5e5e0ecc12a6700a4f27b01c"/>
 	</game>
 </datafile>

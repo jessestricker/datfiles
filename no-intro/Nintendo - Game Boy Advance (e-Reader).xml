@@ -4,8 +4,8 @@
 		<id>41</id>
 		<name>Nintendo - Game Boy Advance (e-Reader)</name>
 		<description>Nintendo - Game Boy Advance (e-Reader)</description>
-		<version>20260209-122907</version>
-		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
+		<version>20260326-092756</version>
+		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -3968,8 +3968,8 @@
 	</game>
 	<game name="Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo)" id="3217">
 		<description>Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo)</description>
-		<rom name="Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo) (Strip 1).raw" size="2912" crc="67b101e5" md5="58c0aaaee9a41e1197a335ad4f79a4b5" sha1="af6846e3370f810d245643bdcffdd0245d70e73a" mia="yes"/>
-		<rom name="Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo) (Strip 2).raw" size="2912" crc="12bb4324" md5="8b5c5a35410a41850a6519f1fbb4fed7" sha1="ce96dff64783d3018758b652e342ca8b3ad62596" mia="yes"/>
+		<rom name="Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo) (Strip 1).raw" size="2912" crc="67b101e5" md5="58c0aaaee9a41e1197a335ad4f79a4b5" sha1="af6846e3370f810d245643bdcffdd0245d70e73a" sha256="d96980e1dbd72f89f8ac30fa07bcb05fed9fe35ec1dd0cd0600d0d344fa33341" status="verified"/>
+		<rom name="Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo) (Strip 2).raw" size="2912" crc="12bb4324" md5="8b5c5a35410a41850a6519f1fbb4fed7" sha1="ce96dff64783d3018758b652e342ca8b3ad62596" sha256="5c2fbece04227f46ac47cdbcdb74b1982674960a87a11fa2d9bbd1c9d3c21c34" status="verified"/>
 	</game>
 	<game name="Mario vs. Donkey Kong Card-e+ - 18-M003 (Japan) (Promo)" id="2370">
 		<description>Mario vs. Donkey Kong Card-e+ - 18-M003 (Japan) (Promo)</description>

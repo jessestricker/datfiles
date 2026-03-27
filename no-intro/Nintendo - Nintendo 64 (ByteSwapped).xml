@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260325-150024</version>
+		<version>20260326-133624</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -595,10 +595,12 @@
 		<rom name="Bust-A-Move '99 (USA).v64" size="8388608" crc="2a95290f" md5="f81f1fa671a2c861c484500150643360" sha1="3561149ddff17a60210ec5752781c512b6f4e126" sha256="10de2822067cb158139ef2fe1fe0469e5ee6108b43e98a46e22b25b7abd26979" serial="NB3E"/>
 	</game>
 	<game name="Bust-A-Move 2 - Arcade Edition (Europe)" id="0105">
+		<category>Games</category>
 		<description>Bust-A-Move 2 - Arcade Edition (Europe)</description>
 		<rom name="Bust-A-Move 2 - Arcade Edition (Europe).v64" size="8388608" crc="14f2cbe9" md5="066d3b1727225962db938d60642cd6bc" sha1="275a39083567c0e4ecf334b666ee6543962fb899" status="verified" serial="NBUP"/>
 	</game>
 	<game name="Bust-A-Move 2 - Arcade Edition (USA)" id="0106" cloneofid="0105">
+		<category>Games</category>
 		<description>Bust-A-Move 2 - Arcade Edition (USA)</description>
 		<rom name="Bust-A-Move 2 - Arcade Edition (USA).v64" size="8388608" crc="47511877" md5="8b2f1700cd02e34a99752213bdd150cf" sha1="9f7dcb8ee0a918eb9b257ac9f210f0d30f9f6430" serial="NBUE"/>
 	</game>
@@ -713,10 +715,12 @@
 		<rom name="Chameleon Twist 2 (USA).v64" size="8388608" crc="356736c7" md5="be134500da3342cd5dc7922b5e2697b7" sha1="185141b800bf109367905f1a6b0ef6823f224ce8" serial="N2VE"/>
 	</game>
 	<game name="Charlie Blast's Territory (Europe)" id="0124">
+		<category>Games</category>
 		<description>Charlie Blast's Territory (Europe)</description>
 		<rom name="Charlie Blast's Territory (Europe).v64" size="4194304" crc="831c5a55" md5="9f591bf3c78e6f00e8b83aa797441a4c" sha1="43b30901befbc629e50f76edc7d96b393dcc5f0b" status="verified" serial="NCBP"/>
 	</game>
 	<game name="Charlie Blast's Territory (USA)" id="0125" cloneofid="0124">
+		<category>Games</category>
 		<description>Charlie Blast's Territory (USA)</description>
 		<rom name="Charlie Blast's Territory (USA).v64" size="4194304" crc="28153f07" md5="84c0b44c939b3c9a73fd7ef4a0b00132" sha1="b85e977648f0f75a438d7281887d19a85e86680e" sha256="c3205a9dace38d4beaf81e56bae431e77fc7963469e888fe3d7aebb888095a32" serial="NCBE"/>
 	</game>
@@ -727,10 +731,12 @@
 		<rom name="Charlie Blast's Territory (USA) (Beta).v64" size="4194304" crc="69af0d73" md5="e4c09590e29a497225518308999bd2fa" sha1="06df9fdff25d813cde52d65170ae107f110378e3" sha256="f90ed7d261a044ebbe0a1fe032834b770f4ee00487bcaa1db6d1c1fc96af7d44" serial="NCBE"/>
 	</game>
 	<game name="Chopper Attack (Europe)" id="0126">
+		<category>Games</category>
 		<description>Chopper Attack (Europe)</description>
 		<rom name="Chopper Attack (Europe).v64" size="8388608" crc="30ca7dbe" md5="f1cac35bc510733862a55b32642fff74" sha1="9d0840380c468a8458a838c0ee06c4858dcd1c9a" serial="NCHP"/>
 	</game>
 	<game name="Chopper Attack (USA)" id="0127" cloneofid="0126">
+		<category>Games</category>
 		<description>Chopper Attack (USA)</description>
 		<rom name="Chopper Attack (USA).v64" size="8388608" crc="2c22147d" md5="2537f5b2c1c49c13e5f39421a376ee7a" sha1="ce39f1afac5efc889cbe0ae03f0ccfa9a2e5b085" sha256="9e9f0c38412b1e5a8690444ecb0ea29de1e3905ec2ffb9c60b415dc01c20c36f" serial="NCHE"/>
 	</game>
@@ -2740,6 +2746,7 @@
 		<rom name="NFL Blitz - Special Edition (USA).v64" size="16777216" crc="3dd3eb64" md5="7b5036a93b1f01f1d90d3df554dacb51" sha1="2f64076b423a72f873a04910a40d3a3f5dddbb25" serial="NSZE"/>
 	</game>
 	<game name="NFL Blitz 2000 (USA)" id="0499" cloneofid="0938">
+		<category>Games</category>
 		<description>NFL Blitz 2000 (USA)</description>
 		<rom name="NFL Blitz 2000 (USA).v64" size="16777216" crc="e4b42e6a" md5="b4015f331830c550edd438f254be318a" sha1="0dc7a0b174c53d95cb8046538a1a4c4475d7209d" sha256="2de74a4b6876fae000138ddb2ca31779b696ab905209a15b65403a46fd56e1db" serial="NBIE"/>
 	</game>
@@ -3706,10 +3713,12 @@
 		<rom name="South Park (Brazil).v64" size="16777216" crc="40ac4211" md5="ea5e83663f360f11f054a8b02f5ef7ae" sha1="def6ce5c26bb8acf51cb57002bea707bcdf0ec15" serial="NDTB"/>
 	</game>
 	<game name="South Park - Chef's Luv Shack (Europe)" id="0675">
+		<category>Games</category>
 		<description>South Park - Chef's Luv Shack (Europe)</description>
 		<rom name="South Park - Chef's Luv Shack (Europe).v64" size="16777216" crc="ed36fa49" md5="06da3c068c3fc5d39684aaaa6c778bac" sha1="1fcdc805db0b026db04730fb385b30721ce74a21" serial="NCYP"/>
 	</game>
 	<game name="South Park - Chef's Luv Shack (USA)" id="0676" cloneofid="0675">
+		<category>Games</category>
 		<description>South Park - Chef's Luv Shack (USA)</description>
 		<rom name="South Park - Chef's Luv Shack (USA).v64" size="16777216" crc="67d38382" md5="d9699e89a4e4cd0ac04b628d6007df0e" sha1="54fb22142f3a02c9c15e412d7e900a963698bbda" serial="NCYE"/>
 	</game>

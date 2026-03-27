@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260325-194632</version>
+		<version>20260326-192819</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20478,7 +20478,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Chiller (USA) (Beta) (1989-12-24) (Unl)</description>
-		<rom name="Chiller (USA) (Beta) (1989-12-24) (Unl).unh" size="16384" crc="def2678c" md5="1436c1e303a8319026eb8da6045bed7d" sha1="9fc66204783614b2e1df0f806bce6cfb723d5dc7" sha256="44aa7bbb354fd2eb5677b8a5e408a99c446a4a4e4d59eeb6898495e9de42fb7e"/>
+		<rom name="Chiller (USA) (Beta) (1989-12-24) (Unl).unh" size="16384" crc="def2678c" md5="1436c1e303a8319026eb8da6045bed7d" sha1="9fc66204783614b2e1df0f806bce6cfb723d5dc7" sha256="44aa7bbb354fd2eb5677b8a5e408a99c446a4a4e4d59eeb6898495e9de42fb7e" mia="yes"/>
 	</game>
 	<game name="Choujikuu Yousai - Macross (Taiwan) (En) (Pirate)" id="8042" cloneofid="0402">
 		<category>Games</category>
