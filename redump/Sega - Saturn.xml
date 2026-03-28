@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2454) (2026-03-25 23-29-10)</description>
-		<version>2026-03-25 23-29-10</version>
-		<date>2026-03-25 23-29-10</date>
+		<description>Sega - Saturn - Discs (2456) (2026-03-28 03-13-23)</description>
+		<version>2026-03-28 03-13-23</version>
+		<date>2026-03-28 03-13-23</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -40328,5 +40328,45 @@
 		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 7).bin" size="11228448" crc="7fab618d" md5="2bfaf2d2e20ecc01e4f270c7d45f5973" sha1="76986844c9a33b5fad52429b6c26e18e6125acb1"/>
 		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 8).bin" size="36368976" crc="589638d1" md5="2179327c02c2f8d1bb5b239751f8fe20" sha1="acb94e5e46ec4109a0a206702b06cd092dfa3ac7"/>
 		<rom name="Flash SegaSaturn Vol. 6 (Japan) (2M) (Track 9).bin" size="1883952" crc="b6d71a30" md5="16672971ccb1553f3dfd15051765156b" sha1="b7c6bd70402a9bb02c8da37a09e994b4160632e1"/>
+	</game>
+	<game name="Fantastep (Japan) (Beta) (1996-09-24)">
+		<category>Preproduction</category>
+		<description>Fantastep (Japan) (Beta) (1996-09-24)</description>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24).cue" size="2490" crc="6f5bc114" md5="e0db2acf09443d43b3cc0c1fd963dc0f" sha1="a819c3f1f9b6b42b1eb68c62649eacd02494f05b"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 01).bin" size="175115808" crc="356c48e0" md5="942d275aa461bd4fd4e3e361c7dac230" sha1="48e2664bae99dbdfbca42761302bc7c0ac2e78c4"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 02).bin" size="19759152" crc="5bb8aa9e" md5="56857cc316cebd3d71ea2c7709bab78e" sha1="415d9d77291e8c5085a8d141f61bb130153c8f9a"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 03).bin" size="4132464" crc="a5e694f4" md5="5495f4268714c8c57e845838150a4757" sha1="128be5c7a8205a21a817605e75b6f8f095464614"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 04).bin" size="1888656" crc="773329d2" md5="35d4cb4d84cff7e9851b74120054a629" sha1="e1c26311dbcf938764cfc7359ee1863af4cfb167"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 05).bin" size="1524096" crc="ff5bd4a6" md5="96f78c1710ada7e6b54da4498e30a6c6" sha1="fcaa4f4310a810c0e36601d487371d618312ec17"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 06).bin" size="1653456" crc="3130e261" md5="5865560b74bc29827b490e29d57a4851" sha1="47c7e84f6edd21b594be97b481486f61ca7f50b5"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 07).bin" size="1606416" crc="38679ce6" md5="507197fdc8c1236e089024df6ad7b9ce" sha1="e9b73c2dffa82159a407711c9627e23016e3af62"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 08).bin" size="2086224" crc="e93bc96b" md5="f2ad9b475c776541d37456e466336bf1" sha1="88086a1c44a17a385110cce611e9d44bdc3714ee"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 09).bin" size="1178352" crc="5daab9f3" md5="3f022830d9363ac3b59c78a12cd3f70d" sha1="a4e26d51147ac2d9e3c698109324a410574cb6a7"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 10).bin" size="1592304" crc="a4f4351e" md5="2c27fa072544e175546b06eab42388a9" sha1="c9bd3012f1b1d63784c96a993557256d5c100aee"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 11).bin" size="1533504" crc="2e083d16" md5="49e2fed2a31ef283bba88afdb20559cb" sha1="74f68b17fa57881c2c42d64fdb5d019fe69ec139"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 12).bin" size="1140720" crc="8100991e" md5="6ebe91fb39df7cdaaf7c56f62f578a2b" sha1="0b1a611d2b032a1f1b6757bcee4b04fe8c3749c8"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 13).bin" size="1107792" crc="9c2aa9ab" md5="29c99e8dd32163ae163b54af4c339e2b" sha1="80f3f5c92d3ed291c85adeb6e669d66e6d7ed527"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 14).bin" size="1199520" crc="a2e75c55" md5="1c85bc30b8c2ec131a9904f24bca038b" sha1="085ab6252f99366d402205bbc16080eb8f6c6144"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 15).bin" size="2530752" crc="c91990aa" md5="a18771f1e70bd8fb2ba982d4290d6b6f" sha1="2de1d93aa1191e554e4b605e46a72c00e872849a"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 16).bin" size="2159136" crc="54b723df" md5="60a830280b5d4ceb76bf1726fb8c0f41" sha1="9d359d40c2af7c29d1e7dcff1806de93f0eff903"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 17).bin" size="2159136" crc="0907a679" md5="d8ce6bca911a919e31e41941148260ae" sha1="961d27e399627f8edc5b63b7021acd1d3e58da6d"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 18).bin" size="1399440" crc="1adfc4d7" md5="f9043a3c245a643faed46033d8547144" sha1="e796637617c8db62928dbdb1e96c08048dc709f6"/>
+		<rom name="Fantastep (Japan) (Beta) (1996-09-24) (Track 19).bin" size="1107792" crc="b9bbf7bd" md5="d04518f78b6bc8c57595635344ea3419" sha1="6d75251f31a96dd7c88dcf0b0ab5ec31af3149c7"/>
+	</game>
+	<game name="Quake (USA) (Beta) (1997-08-20)">
+		<category>Preproduction</category>
+		<description>Quake (USA) (Beta) (1997-08-20)</description>
+		<rom name="Quake (USA) (Beta) (1997-08-20).cue" size="1368" crc="d985b21e" md5="d14526902daaf4c67d50fa4c03713c00" sha1="3ba6fd3b9de2efaadb00c4d186d52be9d8d1225a"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 01).bin" size="42766416" crc="5da63fa8" md5="aee65eee2c560f6e9b53469a9a0fc5f4" sha1="cd34f9c36b8a660ee5a87556f696361e6e727d3f"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 02).bin" size="54143040" crc="1c79111a" md5="5d12a11b4af2df0a33f5d8c365a14892" sha1="5e1fefaa21fb33e024323958a2283fb8acef887b"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 03).bin" size="25690896" crc="9718507f" md5="19d01bcd401a8563ba0a76b667b4f749" sha1="fe77970d494502d80117ec35ec109ba4dafd8845"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 04).bin" size="37476768" crc="a48afc7c" md5="a0202292e457a18156d7f39c4476ba53" sha1="6b0b78b4b5ce6ac031d495a4f5b4d7de230ca82e"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 05).bin" size="64214304" crc="5b95e53a" md5="794a5f8d3807392173957445cdc511da" sha1="bba933546643382372adb16b5dd405cf4d03d1a2"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 06).bin" size="59872512" crc="d5139e10" md5="2d2988c664b46775d8b7124b55eedefd" sha1="c8e5a7dd183a0c74930d56358d3bd54d5473cfde"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 07).bin" size="25690896" crc="650061c7" md5="ee691566e6bbe037963b26ed5f85f332" sha1="c2f0775f175658174540a291c6002b89b5b5952d"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 08).bin" size="59136336" crc="a404ee3a" md5="1597a5ba7ed7ca7fde9d8e0c771cda7f" sha1="551252bf348bc444941de0f0ba29f76086bcd323"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 09).bin" size="25690896" crc="41757d84" md5="b7aeeda3c34bd133e083a8f00165a0b2" sha1="1d0c2c9128163e9eebfb67be41a17c5003b9612e"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 10).bin" size="37476768" crc="37925fcf" md5="4dab036f3fcb1ffeadb889120d848682" sha1="955c1c5b53e3f7a168da64aa1cac4e69c9e8d2b1"/>
+		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 11).bin" size="55603632" crc="dd6eead5" md5="3f58510cd778e803d2f06a59a7c242d2" sha1="510fda4024a5c02f47cd8c9de3735e046669b00e"/>
 	</game>
 </datafile>

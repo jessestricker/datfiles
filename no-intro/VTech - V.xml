@@ -4,7 +4,7 @@
 		<id>76</id>
 		<name>VTech - V.Smile</name>
 		<description>VTech - V.Smile</description>
-		<version>20260317-000004</version>
+		<version>20260327-212126</version>
 		<author>Aringon, coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, NESBrew12, nnssxx, omonim2007, relax, sCZther, SonGoku, Tauwasser, TeamEurope, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -725,7 +725,7 @@
 	</game>
 	<game name="Disney Topolino - Le Magiche Avventure di Topolino (Italy)" id="0139" cloneofid="0084">
 		<description>Disney Topolino - Le Magiche Avventure di Topolino (Italy)</description>
-		<rom name="Disney Topolino - Le Magiche Avventure di Topolino (Italy).bin" size="8388608" crc="cc2f661d" md5="0c665632bc5c9df2630afa74dee2ed57" sha1="20cfd75031ff42d1f446e478edc6ccc78e8df66f" sha256="6b2af1f619f19a7f06808fe29ebbe61e7c8564e00f7beba786ff2d62042a7540" serial="8092091000"/>
+		<rom name="Disney Topolino - Le Magiche Avventure di Topolino (Italy).bin" size="8388608" crc="cc2f661d" md5="0c665632bc5c9df2630afa74dee2ed57" sha1="20cfd75031ff42d1f446e478edc6ccc78e8df66f" sha256="6b2af1f619f19a7f06808fe29ebbe61e7c8564e00f7beba786ff2d62042a7540" status="verified" serial="8092091000"/>
 	</game>
 	<game name="Disney Winnie l'Ourson - La Chasse au miel de Winnie (France)" id="0077" cloneofid="0090">
 		<description>Disney Winnie l'Ourson - La Chasse au miel de Winnie (France)</description>
@@ -1168,14 +1168,10 @@
 		<description>Football Challenge (France) (V.Smile Motion)</description>
 		<rom name="Football Challenge (France) (V.Smile Motion).bin" size="8388608" crc="bca67fe6" md5="4bebd844b6bc4561afa5bc6a74832fa4" sha1="9949f36d4584290371b0126b59b7bd0b96a7c77b" sha256="613445ceb97183d2dfacf75d4d287ecbbffcee590954062f099ccc5fd5f5adc9" serial="80-084305-005-001"/>
 	</game>
-	<game name="Football Club (Italy)" id="0144" cloneofid="0008">
-		<description>Football Club (Italy)</description>
-		<rom name="Football Club (Italy).bin" size="8388608" crc="e1c8ed7a" md5="9590ef6d622dcec5be9f047dd43f6753" sha1="b03bf9ac043da77e3e42f12ce92859bd37e410d2" sha256="565f48578b72511427e0ee6072b0715b73166a359381a6c6b8f910baf3325a17" serial="8092831001"/>
-	</game>
-	<game name="Football Club (Italy) (Alt)" id="0466" cloneofid="0008">
+	<game name="Football Club (Italy)" id="0466" cloneofid="0008">
 		<category>Games</category>
-		<description>Football Club (Italy) (Alt)</description>
-		<rom name="Football Club (Italy) (Alt).bin" size="8388608" crc="fd7e7c41" md5="fc3ab538b5cb0105fb7e92fa6b27cd80" sha1="c728e8d0f3e7a3f92869e24b5536cc583d9f642e" sha256="ecb3c4ca60d7e5c0b028845b1a7c600f01bdac880f23c8d56351b0281209cd28"/>
+		<description>Football Club (Italy)</description>
+		<rom name="Football Club (Italy).bin" size="8388608" crc="fd7e7c41" md5="fc3ab538b5cb0105fb7e92fa6b27cd80" sha1="c728e8d0f3e7a3f92869e24b5536cc583d9f642e" sha256="ecb3c4ca60d7e5c0b028845b1a7c600f01bdac880f23c8d56351b0281209cd28" status="verified"/>
 	</game>
 	<game name="Freds Zahlen Rallye (Germany)" id="0012">
 		<description>Freds Zahlen Rallye (Germany)</description>
@@ -1743,7 +1739,7 @@
 	</game>
 	<game name="SpongeBob - Un giorno da Spugna (Italy)" id="0147" cloneofid="0033">
 		<description>SpongeBob - Un giorno da Spugna (Italy)</description>
-		<rom name="SpongeBob - Un giorno da Spugna (Italy).bin" size="8388608" crc="0f8708f3" md5="7b8e2f76a26bc5a45ef8d469594f7625" sha1="0788e5d434299703ce61559eac32160bf4f51086" sha256="b59436bcc25d5b8e397e4923f0bdc7fa2de40e9071615ec0a5e7a45fad68064c" serial="8092451001"/>
+		<rom name="SpongeBob - Un giorno da Spugna (Italy).bin" size="8388608" crc="0f8708f3" md5="7b8e2f76a26bc5a45ef8d469594f7625" sha1="0788e5d434299703ce61559eac32160bf4f51086" sha256="b59436bcc25d5b8e397e4923f0bdc7fa2de40e9071615ec0a5e7a45fad68064c" status="verified" serial="8092451001"/>
 	</game>
 	<game name="SpongeBob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)" id="0007" cloneofid="0033">
 		<description>SpongeBob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)</description>

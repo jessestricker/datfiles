@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260326-192819</version>
+		<version>20260327-172535</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11143,13 +11143,13 @@
 		<description>Star Gate (Japan)</description>
 		<rom name="Star Gate (Japan).unh" size="24576" crc="493bd2ff" md5="0909a5ce598384fc2c547f0dc319a91c" sha1="e516cb54de0c683202d4bc2c97fc11000d8e5642" sha256="835bf5aa513e1a8a3ce2bebd5bcf3ba7c1a1d20b5d781a83c5fa810c51f1ca39" status="verified"/>
 	</game>
-	<game name="Star Luster (Japan)" id="2084">
-		<description>Star Luster (Japan)</description>
-		<rom name="Star Luster (Japan).unh" size="40960" crc="26bd6ec6" md5="69a18f44736e7160d34f3a610f3a9c3c" sha1="feb3013505143ad926e5307acf2f2ec177e18d4f" sha256="9c957a63eeac9383082f5984ec95746e087b8c93a0425974763698dd32f48319" status="verified"/>
+	<game name="Star Luster (Japan) (En)" id="2084">
+		<description>Star Luster (Japan) (En)</description>
+		<rom name="Star Luster (Japan) (En).unh" size="40960" crc="26bd6ec6" md5="69a18f44736e7160d34f3a610f3a9c3c" sha1="feb3013505143ad926e5307acf2f2ec177e18d4f" sha256="9c957a63eeac9383082f5984ec95746e087b8c93a0425974763698dd32f48319" status="verified"/>
 	</game>
-	<game name="Star Luster (Japan) (Virtual Console)" id="2977" cloneofid="2084">
-		<description>Star Luster (Japan) (Virtual Console)</description>
-		<rom name="Star Luster (Japan) (Virtual Console).unh" size="40960" crc="5cdd800f" md5="b50657267d67c5f46fd77737b0d5bdd5" sha1="e3b99c2a0ac8adfc919476788dad31985cc3cda4" sha256="b52ad16bed2e4e7cd04e588be79332ec72a50069e8064929a7544587ec43e1c1" status="verified"/>
+	<game name="Star Luster (Japan) (En) (Virtual Console)" id="2977" cloneofid="2084">
+		<description>Star Luster (Japan) (En) (Virtual Console)</description>
+		<rom name="Star Luster (Japan) (En) (Virtual Console).unh" size="40960" crc="5cdd800f" md5="b50657267d67c5f46fd77737b0d5bdd5" sha1="e3b99c2a0ac8adfc919476788dad31985cc3cda4" sha256="b52ad16bed2e4e7cd04e588be79332ec72a50069e8064929a7544587ec43e1c1" status="verified"/>
 	</game>
 	<game name="Star Soldier (Japan)" id="2085" cloneofid="2086">
 		<description>Star Soldier (Japan)</description>
@@ -14367,14 +14367,14 @@
 		<description>Stanley - The Search for Dr. Livingston (USA) (Beta 1)</description>
 		<rom name="Stanley - The Search for Dr. Livingston (USA) (Beta 1).unh" size="262144" crc="46ea4f53" md5="f25b153777ad990c9cd2f7944a476994" sha1="56477e3d6cc29472f2eb37d9b4f12b15f64c99fe" sha256="baa98ac1d1df8d6562c8ecb55d76675aff7727cd7b1413d5f3edd54618ca68a1"/>
 	</game>
-	<game name="Star Luster (Japan) (Namcot Collection)" id="3065" cloneofid="2084">
+	<game name="Star Luster (Japan) (En) (Namcot Collection)" id="3065" cloneofid="2084">
 		<category>Games</category>
-		<description>Star Luster (Japan) (Namcot Collection)</description>
-		<rom name="Star Luster (Japan) (Namcot Collection).unh" size="40960" crc="6790630b" md5="408423d59e46dd07871f243623f44c9b" sha1="7f45e2a95280cf7169d2e23a0ac422d23cf54446" sha256="735ffd9416d6ce819c4544f24a7e7e86847f88fc2b92b0d8ea6192dbb418ad9e" status="verified"/>
+		<description>Star Luster (Japan) (En) (Namcot Collection)</description>
+		<rom name="Star Luster (Japan) (En) (Namcot Collection).unh" size="40960" crc="6790630b" md5="408423d59e46dd07871f243623f44c9b" sha1="7f45e2a95280cf7169d2e23a0ac422d23cf54446" sha256="735ffd9416d6ce819c4544f24a7e7e86847f88fc2b92b0d8ea6192dbb418ad9e" status="verified"/>
 	</game>
-	<game name="Star Luster (Japan) (Namco Anthology 1)" id="3921" cloneofid="2084">
-		<description>Star Luster (Japan) (Namco Anthology 1)</description>
-		<rom name="Star Luster (Japan) (Namco Anthology 1).unh" size="40960" crc="1efb6c83" md5="022047d3b1728d6e42b4bc23aee58d31" sha1="2b79e6c1340ad2a64ce75aa53c533447960058f2" sha256="4f065f954ca5512d2292284e03ab384027b66519af2661209ceb7b0c1dbf2d25"/>
+	<game name="Star Luster (Japan) (En) (Namco Anthology 1)" id="3921" cloneofid="2084">
+		<description>Star Luster (Japan) (En) (Namco Anthology 1)</description>
+		<rom name="Star Luster (Japan) (En) (Namco Anthology 1).unh" size="40960" crc="1efb6c83" md5="022047d3b1728d6e42b4bc23aee58d31" sha1="2b79e6c1340ad2a64ce75aa53c533447960058f2" sha256="4f065f954ca5512d2292284e03ab384027b66519af2661209ceb7b0c1dbf2d25"/>
 	</game>
 	<game name="Super 190-in-1 (Asia) (En) (Pirate)" id="3028">
 		<category>Games</category>
@@ -20444,6 +20444,10 @@
 		<description>BattleCity (Taiwan) (En) (Pirate)</description>
 		<rom name="BattleCity (Taiwan) (En) (Pirate).unh" size="24576" crc="33878cfa" md5="8b7bffa690528ddeda124cc941320343" sha1="75ba2a9aee02f9735a6b2a51ee41fdf267928dba" sha256="1cedabc5aa4dcd3c2a20b2acc03925d50fb8d559356487015068977d907d9854"/>
 	</game>
+	<game name="BattleCity (World) (Star Fox - Assault)" id="8478">
+		<description>BattleCity (World) (Star Fox - Assault)</description>
+		<rom name="BattleCity (World) (Star Fox - Assault).unh" size="24576" crc="02efb0e1" md5="3e6c7d4455f80ef7a907bc28a7a70ba9" sha1="aa160f3c70a8518332508894987ca363a602f711" sha256="7ca7b08042542a26ade3a9f3a9947ebafb276c4849d778ad000f9c05237b7993"/>
+	</game>
 	<game name="Boxing + Soccer (Hong Kong) (En) (v1.1) (Unl)" id="8078">
 		<category>Games</category>
 		<description>Boxing + Soccer (Hong Kong) (En) (v1.1) (Unl)</description>
@@ -20969,6 +20973,10 @@
 		<category>Games</category>
 		<description>Star Force (Taiwan) (En) (Pirate)</description>
 		<rom name="Star Force (Taiwan) (En) (Pirate).unh" size="24576" crc="57811373" md5="419e0bf482cee2f692691400fce73ba4" sha1="0e1e55a96983209b4fdf7dd90da6c2907c91a9d4" sha256="7a44168357b52367165c768bfb2f0f9768dfef2abfbf7466e2739bdfc6082962"/>
+	</game>
+	<game name="Star Luster (World) (Star Fox - Assault)" id="8477">
+		<description>Star Luster (World) (Star Fox - Assault)</description>
+		<rom name="Star Luster (World) (Star Fox - Assault).unh" size="40960" crc="e7718c0b" md5="b52cb774cebc1b9e36d90e89f9211131" sha1="b1de069cfffd3c4c17d83b50d9f8a0cbcf24d18f" sha256="23c79ee3a569ec7788896e797e26d96d0a1c55e5649ad9a0e790497d441aff50"/>
 	</game>
 	<game name="Street Hero (USA) (Proto) (Unl)" id="8093" cloneofid="2741">
 		<category>Games</category>

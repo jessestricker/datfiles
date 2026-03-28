@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260326-133624</version>
+		<version>20260327-153202</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -765,38 +765,47 @@
 		<rom name="City-Tour GP - Zen-Nihon GT Senshuken (Japan).v64" size="16777216" crc="7a59354b" md5="e55be3d631ad7b76acf8ad4832a1cb8b" sha1="fcad11bcdd2ad20e1c49cea89f1ed4697ddebd91" serial="NGTJ"/>
 	</game>
 	<game name="Clay Fighter - Sculptor's Cut (USA)" id="0134">
+		<category>Games</category>
 		<description>Clay Fighter - Sculptor's Cut (USA)</description>
 		<rom name="Clay Fighter - Sculptor's Cut (USA).v64" size="16777216" crc="f59fd73e" md5="b0d4356ad7c988b8d6f257bf039faf50" sha1="99cc2fe3c4f7e8df185feca570281364bab987c6" serial="NC2E"/>
 	</game>
 	<game name="Clay Fighter 63 1-3 (Europe)" id="0135">
+		<category>Games</category>
 		<description>Clay Fighter 63 1-3 (Europe)</description>
 		<rom name="Clay Fighter 63 1-3 (Europe).v64" size="12582912" crc="dcccb22f" md5="53b9f00c65fd7e8d594149533a2a4982" sha1="1cda578cad71abccecd3643197c76a3284caac3e" serial="NCFP"/>
 	</game>
 	<game name="Clay Fighter 63 1-3 (USA)" id="0136" cloneofid="0135">
+		<category>Games</category>
 		<description>Clay Fighter 63 1-3 (USA)</description>
 		<rom name="Clay Fighter 63 1-3 (USA).v64" size="12582912" crc="e7c70f25" md5="8ff24347d96b0f1bdc755e864e8dba91" sha1="475e41f3e2ac43892657146170fd223d5d6557a9" status="verified" serial="NCFE"/>
 	</game>
 	<game name="Clay Fighter 63 1-3 (USA) (Beta)" id="0137" cloneofid="0135">
+		<category>Games</category>
 		<description>Clay Fighter 63 1-3 (USA) (Beta)</description>
 		<rom name="Clay Fighter 63 1-3 (USA) (Beta).v64" size="12582912" crc="23139027" md5="ddc463091050484309037576a201d439" sha1="9c2009462315508119b991ba22d4b23bb50d0779" serial="NCFE"/>
 	</game>
 	<game name="Command &amp; Conquer (Europe) (En,Fr)" id="0138">
+		<category>Games</category>
 		<description>Command &amp; Conquer (Europe) (En,Fr)</description>
 		<rom name="Command &amp; Conquer (Europe) (En,Fr).v64" size="33554432" crc="ce383b3e" md5="2b7e4e14d744b40fd393c487e0768c24" sha1="5ea73072575eded3954abe4a9d44623b7847c820" status="verified" serial="NCCP"/>
 	</game>
 	<game name="Command &amp; Conquer (Germany)" id="0139" cloneofid="0138">
+		<category>Games</category>
 		<description>Command &amp; Conquer (Germany)</description>
 		<rom name="Command &amp; Conquer (Germany).v64" size="33554432" crc="b312e838" md5="fbc337325b9ceae41f237f3e54d72ab3" sha1="662d03f3df3e1817330db94ce330f7915bd9a00c" serial="NCCD"/>
 	</game>
 	<game name="Command &amp; Conquer (USA)" id="0140" cloneofid="0138">
+		<category>Games</category>
 		<description>Command &amp; Conquer (USA)</description>
 		<rom name="Command &amp; Conquer (USA).v64" size="33554432" crc="8d23ba95" md5="d822dde8cafad279c3ea27c22beaefec" sha1="63bafa4615eb7488aec3c631021720e05376aa1c" status="verified" serial="NCCE"/>
 	</game>
 	<game name="Conker's Bad Fur Day (Europe)" id="0141">
+		<category>Games</category>
 		<description>Conker's Bad Fur Day (Europe)</description>
 		<rom name="Conker's Bad Fur Day (Europe).v64" size="67108864" crc="96dba949" md5="e31ded9c7887ebc07a343b8865a2bf55" sha1="175a058e739762d49aff01b4eac8784db415c711" status="verified" serial="NFUP"/>
 	</game>
 	<game name="Conker's Bad Fur Day (USA)" id="0142" cloneofid="0141">
+		<category>Games</category>
 		<description>Conker's Bad Fur Day (USA)</description>
 		<rom name="Conker's Bad Fur Day (USA).v64" size="67108864" crc="6acdb3fc" md5="220543f489a9828021ea82a69e6305a3" sha1="27d3123dd4a3d84cb1a7ecf2ced3bc44389f4607" status="verified" serial="NFUE"/>
 	</game>
@@ -813,10 +822,12 @@
 		<rom name="Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).v64" size="8388608" crc="063e0a52" md5="b656a74a86e82a19de137556e67e3f1b" sha1="6cd924266e64be7bdba0017e38004d56d96c22cb" sha256="ab4188ea913da61d5065f94a99aa273040ec43ba5120918af80e6be080fa9fda"/>
 	</game>
 	<game name="Cruis'n Exotica (USA)" id="0143">
+		<category>Games</category>
 		<description>Cruis'n Exotica (USA)</description>
 		<rom name="Cruis'n Exotica (USA).v64" size="16777216" crc="20e7dbd7" md5="ac67b606aea6a01f3cfcccbc30061a10" sha1="130fed584a6eb820b69e90e8ac8ec9301d69c3c5" sha256="5e15fbb5f314a1e82e9f27b1028323b96e7be447c080cad82ed0a5f8674311c6" status="verified" serial="NXOE"/>
 	</game>
 	<game name="Cruis'n USA (Europe)" id="0144">
+		<category>Games</category>
 		<description>Cruis'n USA (Europe)</description>
 		<rom name="Cruis'n USA (Europe).v64" size="8388608" crc="6767eca4" md5="07bbf2e52f243852b01b25ce874fde17" sha1="6cc846aedcc31597842645bbb6030272cd9a82f0" sha256="29b9a13f4c21cf84da5766604fa1a52ef9426451b14cf57465057d12f40b30c0" status="verified" serial="NCUP"/>
 	</game>
@@ -829,6 +840,7 @@
 		<rom name="Cruis'n USA (USA) (Rev 1).v64" size="8388608" crc="615ac9bc" md5="78baa0f08d53842b84f25700b750ca8c" sha1="da43a6443c22a608b76b6b73602c30b0c6038379" serial="NCUE"/>
 	</game>
 	<game name="Cruis'n USA (USA) (Rev 2)" id="0147" cloneofid="0144">
+		<category>Games</category>
 		<description>Cruis'n USA (USA) (Rev 2)</description>
 		<rom name="Cruis'n USA (USA) (Rev 2).v64" size="8388608" crc="e466c124" md5="4379ee6c5cb0b521c2d0866a3ba71973" sha1="4e0af2979c573aaab84a60f42266ec0c3fa60b84" status="verified" serial="NCUE"/>
 	</game>
@@ -841,6 +853,7 @@
 		<rom name="Cruis'n World (Europe).v64" size="12582912" crc="2a8b3094" md5="47d90f8a5b8bbf90049a161469625fe2" sha1="e0efbb03b343cc9ace4e98306250436604054b6e" sha256="403d39bd8fdfeef1483af1f9a736fc102b020d06fcf217576a33ac55b9d20d9f" status="verified" serial="NCWP"/>
 	</game>
 	<game name="Cruis'n World (USA)" id="0149" cloneofid="1022">
+		<category>Games</category>
 		<description>Cruis'n World (USA)</description>
 		<rom name="Cruis'n World (USA).v64" size="12582912" crc="41877d7d" md5="fcf34799bb1f3ca47b46371bd23b4424" sha1="a584735385485ee0b158e3206ce9b2e47feca830" sha256="c5ac7e497e090175fb6db0baa2d3cf30dc5f57a4c567352a13debcbf0add9a67" status="verified" serial="NCWE"/>
 	</game>
@@ -863,10 +876,12 @@
 		<rom name="Custom Robo V2 (Japan) (Beta) (2000-09-09) (Debug).v64" size="16777216" crc="9e449fe3" md5="ffd5aa4c81bf7824381018403d41f296" sha1="4623b4ae108299c88a867400601d764b2652e2f7" sha256="4e33bc235ca8622abb4c289d1f83a4c1320c5669f585ae842dc164c664aa1b40" serial="NCZJ"/>
 	</game>
 	<game name="CyberTiger (Europe)" id="0152">
+		<category>Games</category>
 		<description>CyberTiger (Europe)</description>
 		<rom name="CyberTiger (Europe).v64" size="16777216" crc="bcf1071f" md5="aee5bd2f3288182038c028531c0ad092" sha1="e68970895cc01b69b8a5a05eaf4d07b632544330" serial="NT4P"/>
 	</game>
 	<game name="CyberTiger (USA)" id="0153" cloneofid="0152">
+		<category>Games</category>
 		<description>CyberTiger (USA)</description>
 		<rom name="CyberTiger (USA).v64" size="16777216" crc="f0f89bb9" md5="4f1540ca7e7dedbb2b3ee4bf6509975d" sha1="afb3e9290730fd19106eca24cb305c1b55f2e864" serial="NT4E"/>
 	</game>

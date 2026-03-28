@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer</name>
-		<description>Panasonic - 3DO Interactive Multiplayer - Discs (671) (2026-01-30 21-16-13)</description>
-		<version>2026-01-30 21-16-13</version>
-		<date>2026-01-30 21-16-13</date>
+		<description>Panasonic - 3DO Interactive Multiplayer - Discs (672) (2026-03-28 19-06-03)</description>
+		<version>2026-03-28 19-06-03</version>
+		<date>2026-03-28 19-06-03</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -4035,5 +4035,11 @@
 		<description>Alone in the Dark 2 (Europe)</description>
 		<rom name="Alone in the Dark 2 (Europe).cue" size="117" crc="e66e6005" md5="a6b843292afb04355a31bb01a6b6f7d8" sha1="db96e8413c45188f97102a4dc8f003969ba9f79c"/>
 		<rom name="Alone in the Dark 2 (Europe).bin" size="674722944" crc="c617b677" md5="4c283d8c2f1eb48326799114addf9563" sha1="11c95b613bcfe3a0c700182199a58dfc1f273477"/>
+	</game>
+	<game name="Mortal Kombat II (USA) (Unl)">
+		<category>Games</category>
+		<description>Mortal Kombat II (USA) (Unl)</description>
+		<rom name="Mortal Kombat II (USA) (Unl).cue" size="94" crc="fcd8e95a" md5="85475fd3beb2521957b3818d556b6d18" sha1="41a0dbda8fd62b735097f94264f71efdfa1e6e9b"/>
+		<rom name="Mortal Kombat II (USA) (Unl).bin" size="144257568" crc="9f24cd07" md5="d6789e7a4a537a241dda220aafe74751" sha1="2950936bb7a978191f9aa283cdcddc1de5785e0a"/>
 	</game>
 </datafile>
