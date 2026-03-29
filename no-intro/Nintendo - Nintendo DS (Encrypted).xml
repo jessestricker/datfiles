@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260315-141512</version>
+		<version>20260328-094437</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21588,6 +21588,11 @@
 		<description>Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2) (Wii U Virtual Console)</description>
 		<rom name="Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2) (Wii U Virtual Console).nds" size="134217728" crc="e601d1dd" md5="e3c7a4ce91333d3c6db281d6804b1d6e" sha1="9fc913ecca424558b360e7628134e4d743694583" serial="WUP-N-DA4J"/>
 	</game>
+	<game name="Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2)" id="z667" cloneofid="4468">
+		<category>Games</category>
+		<description>Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2)</description>
+		<rom name="Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2).nds" size="134217728" crc="38601ed7" md5="aecc94ae44dbd618fd2c0be16599ea1d" sha1="ae5381ac5b611e0d543d1e0c9c209f7c5490625f" sha256="d647e02d174311fcf7784011ea1880366ddb38e8692b043c537cc2323aebe07c" serial="C2SJ"/>
+	</game>
 	<game name="Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan)" id="3656" cloneofid="4468">
 		<description>Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan)</description>
 		<rom name="Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan).nds" size="134217728" crc="de07003a" md5="ef8f9daf7512d432ff4e01659dfd8002" sha1="50b411f67e251faab5b04f02e1c264273a9dc195" status="verified" serial="C2SJ"/>
@@ -27292,7 +27297,7 @@
 	</game>
 	<game name="That's QT (Japan)" id="2279" cloneofid="z073">
 		<description>That's QT (Japan)</description>
-		<rom name="That's QT (Japan).nds" size="67108864" crc="b91d9e0e" md5="a71e33eab01783be4f81e62ffd405287" sha1="dd19af9fca84feca670bd6ac5c5349a87872f8df" serial="CQTJ"/>
+		<rom name="That's QT (Japan).nds" size="67108864" crc="2ef1b6fa" md5="9edf3ebc155a228ea5b87d634d2d2e40" sha1="c88bd6f838bb1a34e54c77e10882bce7a360c2c5" sha256="10c2e1682410c6ddf27f888cac7ceda3d5e7ecf1b352ea0b7521e203188aea89" serial="CQTJ"/>
 	</game>
 	<game name="That's So Raven - Psychic on the Scene (USA)" id="0656">
 		<description>That's So Raven - Psychic on the Scene (USA)</description>

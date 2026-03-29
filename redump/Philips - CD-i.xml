@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2423) (2026-03-21 16-10-08)</description>
-		<version>2026-03-21 16-10-08</version>
-		<date>2026-03-21 16-10-08</date>
+		<description>Philips - CD-i - Discs (2423) (2026-03-29 00-40-21)</description>
+		<version>2026-03-29 00-40-21</version>
+		<date>2026-03-29 00-40-21</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15802,11 +15802,11 @@
 		<rom name="Philips Farbfernsehen - Demo CD-i (Germany).cue" size="130" crc="d315f532" md5="6560e1165588fc1916c21b0d1d359dc7" sha1="097dfdbbd5ff2f221b1b2e1d0f7ed5077395f054"/>
 		<rom name="Philips Farbfernsehen - Demo CD-i (Germany).bin" size="128423904" crc="7964237f" md5="aed651f44f8380b76083adaf49f35a27" sha1="42bc9ee788c1a407b99b018620622fa320a102ad"/>
 	</game>
-	<game name="Caricature (Europe) (Beta) (1992-09-28)">
+	<game name="Caricature (UK) (Beta) (1992-09-28)">
 		<category>Preproduction</category>
-		<description>Caricature (Europe) (Beta) (1992-09-28)</description>
-		<rom name="Caricature (Europe) (Beta) (1992-09-28).cue" size="103" crc="bdb2bd73" md5="97acf75df545fe9764f31d4896bc87cf" sha1="3491140c631d5da241f356b9648a84afaedd0987"/>
-		<rom name="Caricature (Europe) (Beta) (1992-09-28).bin" size="384034560" crc="094473b1" md5="e565d40f73ffc451d4068ae96e8b4d4d" sha1="99d4e143f078721b73ef9a1417f2b791b4ef0db5"/>
+		<description>Caricature (UK) (Beta) (1992-09-28)</description>
+		<rom name="Caricature (UK) (Beta) (1992-09-28).cue" size="99" crc="8977f53b" md5="4a158c440ed93253cd61e10a0e631ca6" sha1="f2ab606d454b46a3983f674204a7302fc1ae102e"/>
+		<rom name="Caricature (UK) (Beta) (1992-09-28).bin" size="384034560" crc="094473b1" md5="e565d40f73ffc451d4068ae96e8b4d4d" sha1="99d4e143f078721b73ef9a1417f2b791b4ef0db5"/>
 	</game>
 	<game name="CD-i Music Book - Classical Guitar Volume 1 (USA) (Beta) (1993-04-29)">
 		<category>Preproduction</category>

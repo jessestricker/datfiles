@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260325-150735</version>
+		<version>20260328-221409</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5271,6 +5271,12 @@
 		<game_id>00040000001CA900</game_id>
 		<rom name="Mario &amp; Luigi RPG3 DX (Japan).3ds" size="1073741824" crc="ae1de02c" md5="96ccd38adc40a7925651611ee124f058" sha1="b8062cd660ba062d852154d7c52b95411636b02e" sha256="082d4750ab5a2820984cfd91cf26cb623978e30de04a089db5e4c991f3b998c5" serial="CTR-P-A3RJ"/>
 	</game>
+	<game name="Mario &amp; Sonic at London Olympics (Japan) (Rev 2)" id="z221" cloneofid="0109">
+		<category>Games</category>
+		<description>Mario &amp; Sonic at London Olympics (Japan) (Rev 2)</description>
+		<game_id>0004000000032500</game_id>
+		<rom name="Mario &amp; Sonic at London Olympics (Japan) (Rev 2).3ds" size="536870912" crc="836ad7d9" md5="b3272711f0a24d47e1baf3018eca591c" sha1="9976515cf6af7a07bde5dcbaf40daf553fb53060" sha256="ebbc49cfb2081583287a0af88326e0002567742effb39ec9094c5549aed7a08c" serial="CTR-P-ACMJ"/>
+	</game>
 	<game name="Mario &amp; Sonic at London Olympics (Japan) (Rev 1)" id="0508" cloneofid="0109">
 		<description>Mario &amp; Sonic at London Olympics (Japan) (Rev 1)</description>
 		<game_id>0004000000032500</game_id>
@@ -5281,10 +5287,6 @@
 		<game_id>000400000014A400</game_id>
 		<rom name="Mario &amp; Sonic at Rio Olympics (Japan) (Rev 1).3ds" size="1073741824" crc="4e286d32" md5="7018f547be52f0327dde5a479c4de173" sha1="f6f6ad9e1edb187aee8c76c98a9a6622d4dbfd51" status="verified" serial="CTR-P-BGXJ"/>
 	</game>
-	<game name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)" id="z089" cloneofid="0109">
-		<description>Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)</description>
-		<rom name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="9ad0c715" md5="99a154169ef34e5aa0139a21ccf269e3" sha1="a9f35929b1a108e7159f52ba51e2cf7e787eb1b0" serial="CTR-P-ACME"/>
-	</game>
 	<game name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es)" id="0104" cloneofid="0109">
 		<description>Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es)</description>
 		<game_id>0004000000054800</game_id>
@@ -5294,6 +5296,10 @@
 		<description>Mario &amp; Sonic at the London 2012 Olympic Games (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000054900</game_id>
 		<rom name="Mario &amp; Sonic at the London 2012 Olympic Games (Europe) (En,Fr,De,Es,It,Nl).3ds" size="536870912" crc="9452067d" md5="24a259d0ab9b48fd11c13043442dbde4" sha1="45f42774193fff02de3c87367588d4940e07e6bc" sha256="5ce09078ea725345041271142c55e5bfe59504a97de25dceafbad20ff8ef489c" status="verified" serial="CTR-P-ACMP"/>
+	</game>
+	<game name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)" id="z089" cloneofid="0109">
+		<description>Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Mario &amp; Sonic at the London 2012 Olympic Games (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="9ad0c715" md5="99a154169ef34e5aa0139a21ccf269e3" sha1="a9f35929b1a108e7159f52ba51e2cf7e787eb1b0" serial="CTR-P-ACME"/>
 	</game>
 	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)" id="1468" cloneofid="1473">
 		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)</description>
@@ -5315,6 +5321,11 @@
 		<game_id>000400000012E400</game_id>
 		<rom name="Mario Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk).3ds" size="268435456" crc="2ccbf147" md5="47f724c702bd13858cb2f9850ab5ae41" sha1="3cc4759bfa80b265a6f1be2ec9ca7d38b12f943e" serial="CTR-B-AJ3P"/>
 	</game>
+	<game name="Mario Golf - World Tour (Korea)" id="z111" cloneofid="0886">
+		<description>Mario Golf - World Tour (Korea)</description>
+		<game_id>0004000000106300</game_id>
+		<rom name="Mario Golf - World Tour (Korea).3ds" size="1073741824" crc="d2e84b0e" md5="81c8f22fb0a3165efc81ed6c4e6158fa" sha1="a1d5614dd087ee3def6b450a638823f97b61919b" sha256="899fc989304701642a7d8985d528c7f8073a89f10e7b017eec3a3ce664c1ce36" serial="CTR-P-AJ3K"/>
+	</game>
 	<game name="Mario Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0886">
 		<description>Mario Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>00040000000DCE00</game_id>
@@ -5329,31 +5340,6 @@
 		<description>Mario Golf - World Tour (USA) (En,Fr,Es)</description>
 		<game_id>00040000000DCD00</game_id>
 		<rom name="Mario Golf - World Tour (USA) (En,Fr,Es).3ds" size="1073741824" crc="ccc172b5" md5="3c668d72fb60621d58e774cc4bcb9da8" sha1="a14e2b84f3fdcde9fcc36fcd581104035f8eb083" sha256="f5c870e52a6a176c015c2473edc02010fea92dcc631dd7a8c812871b0eec685b" serial="CTR-P-AJ3E"/>
-	</game>
-	<game name="Mario Golf - World Tour (Korea)" id="z111" cloneofid="0886">
-		<description>Mario Golf - World Tour (Korea)</description>
-		<game_id>0004000000106300</game_id>
-		<rom name="Mario Golf - World Tour (Korea).3ds" size="1073741824" crc="d2e84b0e" md5="81c8f22fb0a3165efc81ed6c4e6158fa" sha1="a1d5614dd087ee3def6b450a638823f97b61919b" sha256="899fc989304701642a7d8985d528c7f8073a89f10e7b017eec3a3ce664c1ce36" serial="CTR-P-AJ3K"/>
-	</game>
-	<game name="Mario Kart 7 (Japan) (Rev 2)" id="1164" cloneofid="0016">
-		<description>Mario Kart 7 (Japan) (Rev 2)</description>
-		<game_id>0004000000030600</game_id>
-		<rom name="Mario Kart 7 (Japan) (Rev 2).3ds" size="1073741824" crc="4605b4ce" md5="0a949d1f0b2374b48352000f36776db7" sha1="989ff18b1ba3206bac3baf6c20b1bdaddf625484" sha256="759320e7ed3c9781fcbfab6533c7875a32639fc10015cda97a61e2df59edd974" serial="CTR-P-AMKJ"/>
-	</game>
-	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1321" cloneofid="0016">
-		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
-		<game_id>0004000000030700</game_id>
-		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="1073741824" crc="fb0bf30b" md5="e9972e55ff093a5d1dc45dfbbd95a96b" sha1="7eb63e4d5e5ae077f5b0f4664fa9a1daa536dd62" serial="CTR-P-AMKP"/>
-	</game>
-	<game name="Mario Kart 7 (Japan) (Rev 1)" id="1715" cloneofid="0016">
-		<description>Mario Kart 7 (Japan) (Rev 1)</description>
-		<game_id>0004000000030600</game_id>
-		<rom name="Mario Kart 7 (Japan) (Rev 1).3ds" size="1073741824" crc="17de539f" md5="ea2cf5f3b4ae59506b53e51a81b4626e" sha1="b7fd8abab51341e2806b7b6222c5ce7aef2d025f" serial="CTR-P-AMKJ"/>
-	</game>
-	<game name="Mario Kart 7 (Korea)" id="z031" cloneofid="0016">
-		<description>Mario Kart 7 (Korea)</description>
-		<game_id>0004000000030A00</game_id>
-		<rom name="Mario Kart 7 (Korea).3ds" size="1073741824" crc="cfb8cc33" md5="9aa1661b6dc6eabadca246022f6f7a26" sha1="949c9f7760a1cba533ebb9466e3042e090eb8759" sha256="79eb4270bd5ea6aa86cf8d732597f7a5852e70117a81b4fd0d6179e19285f0e2" serial="CTR-P-AMKK"/>
 	</game>
 	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0016">
 		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
@@ -5394,6 +5380,26 @@
 		<description>Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000030800</game_id>
 		<rom name="Mario Kart 7 (USA) (En,Fr,Es) (Rev 1).3ds" size="1073741824" crc="9ec4a269" md5="58810648249048809765a08b1c7f3f5f" sha1="f7216b7ac2426b6c55657cce615dded9d8064282" sha256="3a075b13a0d525515abe6b0ebb7dcd674020054011889116ab38c0a08ef3d84e" status="verified" serial="CTR-P-AMKE"/>
+	</game>
+	<game name="Mario Kart 7 (Japan) (Rev 2)" id="1164" cloneofid="0016">
+		<description>Mario Kart 7 (Japan) (Rev 2)</description>
+		<game_id>0004000000030600</game_id>
+		<rom name="Mario Kart 7 (Japan) (Rev 2).3ds" size="1073741824" crc="4605b4ce" md5="0a949d1f0b2374b48352000f36776db7" sha1="989ff18b1ba3206bac3baf6c20b1bdaddf625484" sha256="759320e7ed3c9781fcbfab6533c7875a32639fc10015cda97a61e2df59edd974" serial="CTR-P-AMKJ"/>
+	</game>
+	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1321" cloneofid="0016">
+		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+		<game_id>0004000000030700</game_id>
+		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="1073741824" crc="fb0bf30b" md5="e9972e55ff093a5d1dc45dfbbd95a96b" sha1="7eb63e4d5e5ae077f5b0f4664fa9a1daa536dd62" serial="CTR-P-AMKP"/>
+	</game>
+	<game name="Mario Kart 7 (Japan) (Rev 1)" id="1715" cloneofid="0016">
+		<description>Mario Kart 7 (Japan) (Rev 1)</description>
+		<game_id>0004000000030600</game_id>
+		<rom name="Mario Kart 7 (Japan) (Rev 1).3ds" size="1073741824" crc="17de539f" md5="ea2cf5f3b4ae59506b53e51a81b4626e" sha1="b7fd8abab51341e2806b7b6222c5ce7aef2d025f" serial="CTR-P-AMKJ"/>
+	</game>
+	<game name="Mario Kart 7 (Korea)" id="z031" cloneofid="0016">
+		<description>Mario Kart 7 (Korea)</description>
+		<game_id>0004000000030A00</game_id>
+		<rom name="Mario Kart 7 (Korea).3ds" size="1073741824" crc="cfb8cc33" md5="9aa1661b6dc6eabadca246022f6f7a26" sha1="949c9f7760a1cba533ebb9466e3042e090eb8759" sha256="79eb4270bd5ea6aa86cf8d732597f7a5852e70117a81b4fd0d6179e19285f0e2" serial="CTR-P-AMKK"/>
 	</game>
 	<game name="Mario Party - Island Tour (USA) (En,Fr,Es)" id="0492" cloneofid="0581">
 		<description>Mario Party - Island Tour (USA) (En,Fr,Es)</description>
@@ -5476,6 +5482,26 @@
 		<game_id>00040000000B8800</game_id>
 		<rom name="Mario Tennis Open (Korea).3ds" size="536870912" crc="8a4c8c00" md5="1d738fa3d648011197c760ebfc19688e" sha1="375045bb51300a1abda01d7126f2d6a2d9d46bba" sha256="38156b021263648d12e4c33b3a420bd866c505d1d08fac1051ca5078c76dcd97" serial="CTR-P-AGAK"/>
 	</game>
+	<game name="Mario Tennis Open (USA) (Demo) (Kiosk)" id="x039" cloneofid="0185">
+		<description>Mario Tennis Open (USA) (Demo) (Kiosk)</description>
+		<game_id>00040000000A2400</game_id>
+		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="dab662eb" md5="3d13535e196cbbd540f4d29a2e577b75" sha1="11574cccbb458372c1e129cf77f4b43a4cf9f3e6" serial="CTR-B-AGAE"/>
+	</game>
+	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1446" cloneofid="0185">
+		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+		<game_id>000400000007C800</game_id>
+		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="9cd0592b" md5="d2d88f8ee9f1f1947cc2d3436ea896c4" sha1="d7d748aaa4c69b9eb8cee7baa82c88fba0ce2ae5" serial="CTR-P-AGAP"/>
+	</game>
+	<game name="Mario Tennis Open (USA) (En,Fr,Es)" id="1673" cloneofid="0185">
+		<description>Mario Tennis Open (USA) (En,Fr,Es)</description>
+		<game_id>000400000007C700</game_id>
+		<rom name="Mario Tennis Open (USA) (En,Fr,Es).3ds" size="536870912" crc="87fe18b4" md5="a5d8df9ac950285f1215d20d5d3d9d41" sha1="91b87cf88f38384c2e8ed0dc09ea66787c8d01d4" status="verified" serial="CTR-P-AGAE"/>
+	</game>
+	<game name="Mario Tennis Open (Japan) (Rev 1)" id="1548" cloneofid="0185">
+		<description>Mario Tennis Open (Japan) (Rev 1)</description>
+		<game_id>0004000000064D00</game_id>
+		<rom name="Mario Tennis Open (Japan) (Rev 1).3ds" size="536870912" crc="18d2ea0c" md5="479c4dbd8c57e19c480544146fceb3a0" sha1="6132096c7679bab82dcfadba9ef13adb03627a6f" serial="CTR-P-AGAJ"/>
+	</game>
 	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0185">
 		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>000400000007C800</game_id>
@@ -5500,26 +5526,6 @@
 		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk)</description>
 		<game_id>00040000000A2500</game_id>
 		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk).3ds" size="134217728" crc="e3760e71" md5="39199402d7c2ae7eb1d14ef4897e3ef3" sha1="762a4f7f3ac6f049043f939c83a1c5659605fad9" serial="CTR-B-AGAP"/>
-	</game>
-	<game name="Mario Tennis Open (USA) (Demo) (Kiosk)" id="x039" cloneofid="0185">
-		<description>Mario Tennis Open (USA) (Demo) (Kiosk)</description>
-		<game_id>00040000000A2400</game_id>
-		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="dab662eb" md5="3d13535e196cbbd540f4d29a2e577b75" sha1="11574cccbb458372c1e129cf77f4b43a4cf9f3e6" serial="CTR-B-AGAE"/>
-	</game>
-	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1446" cloneofid="0185">
-		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
-		<game_id>000400000007C800</game_id>
-		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="9cd0592b" md5="d2d88f8ee9f1f1947cc2d3436ea896c4" sha1="d7d748aaa4c69b9eb8cee7baa82c88fba0ce2ae5" serial="CTR-P-AGAP"/>
-	</game>
-	<game name="Mario Tennis Open (USA) (En,Fr,Es)" id="1673" cloneofid="0185">
-		<description>Mario Tennis Open (USA) (En,Fr,Es)</description>
-		<game_id>000400000007C700</game_id>
-		<rom name="Mario Tennis Open (USA) (En,Fr,Es).3ds" size="536870912" crc="87fe18b4" md5="a5d8df9ac950285f1215d20d5d3d9d41" sha1="91b87cf88f38384c2e8ed0dc09ea66787c8d01d4" status="verified" serial="CTR-P-AGAE"/>
-	</game>
-	<game name="Mario Tennis Open (Japan) (Rev 1)" id="1548" cloneofid="0185">
-		<description>Mario Tennis Open (Japan) (Rev 1)</description>
-		<game_id>0004000000064D00</game_id>
-		<rom name="Mario Tennis Open (Japan) (Rev 1).3ds" size="536870912" crc="18d2ea0c" md5="479c4dbd8c57e19c480544146fceb3a0" sha1="6132096c7679bab82dcfadba9ef13adb03627a6f" serial="CTR-P-AGAJ"/>
 	</game>
 	<game name="Mario vs. Donkey Kong - Minna de Mini-Land (Japan)" id="1209">
 		<description>Mario vs. Donkey Kong - Minna de Mini-Land (Japan)</description>
@@ -10647,6 +10653,18 @@
 		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan)</description>
 		<game_id>00040000001C9C00</game_id>
 		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan).3ds" size="2147483648" crc="36fe5390" md5="2be4d9438e20153bf82a11694dd24bdc" sha1="00d74d7dbd27e420b3afb6efbca439cb49e95641" serial="CTR-P-BYMJ"/>
+	</game>
+	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)" id="z222" cloneofid="1797">
+		<category>Games</category>
+		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)</description>
+		<game_id>00040000001C9C00</game_id>
+		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1).3ds" size="2147483648" crc="14828003" md5="990fd27433bfcc671dff197ee10852f3" sha1="0d1b766162d2049c9adfcb955a2380a9196b2a36" sha256="1e591ded5400f42f3fb8e4b19f9c8304c07d68f897cb8d8cc5e4a6fa27caf983" serial="CTR-P-BYMJ"/>
+	</game>
+	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)" id="z223" cloneofid="1796">
+		<category>Games</category>
+		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)</description>
+		<game_id>00040000001C9400</game_id>
+		<rom name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1).3ds" size="2147483648" crc="f086c87d" md5="64b5f0e38fcaf10930c2136e06e060ca" sha1="8699b0ad1abf0edc9763cea1986888543a17b496" sha256="a19b24b2778565ea623ffe1dd9d39aaa3c4242169cf212f0f7948e2c442bf4a9" serial="CTR-P-BYNJ"/>
 	</game>
 	<game name="Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)" id="1796">
 		<description>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)</description>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260327-172535</version>
+		<version>20260328-230027</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19880,17 +19880,17 @@
 		<description>Marble Madness (USA) (Beta)</description>
 		<rom name="Marble Madness (USA) (Beta).nes" size="131088" crc="072923d3" md5="ed8c88dafcf3cbb06079f417c9237712" sha1="b6dc8008c5d109688d7f2bb1fb5b955b84b7ac50" sha256="2a82351c8da011e6a80bddfca64e1d3e7efa9b5f8ca9a697a507d617ac2d06ee" header="4E 45 53 1A 08 00 70 08 10 00 00 07 00 00 00 01"/>
 	</game>
-	<game name="Maxivision 30-in-1 (USA) (Beta) (Unl)" id="7669" cloneofid="1390">
+	<game name="Maxivision 30-in-1 (USA) (Beta) (1991-08-09) (Unl)" id="7669" cloneofid="1390">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Maxivision 30-in-1 (USA) (Beta) (Unl)</description>
-		<rom name="Maxivision 30-in-1 (USA) (Beta) (Unl).nes" size="3145744" crc="e961cf09" md5="2273a82ae41e0c274fabdf9e6f353a3e" sha1="8758f59ad63335f98e9cb42cc9de74c0719fe7f8" sha256="d0d6e0671c1d96c90673cc172f2de1266efe6eff7054b08b7858d2e4247f67de" header="4E 45 53 1A 60 C0 70 E8 01 00 00 00 00 00 00 2A"/>
+		<description>Maxivision 30-in-1 (USA) (Beta) (1991-08-09) (Unl)</description>
+		<rom name="Maxivision 30-in-1 (USA) (Beta) (1991-08-09) (Unl).nes" size="3145744" crc="e961cf09" md5="2273a82ae41e0c274fabdf9e6f353a3e" sha1="8758f59ad63335f98e9cb42cc9de74c0719fe7f8" sha256="d0d6e0671c1d96c90673cc172f2de1266efe6eff7054b08b7858d2e4247f67de" header="4E 45 53 1A 60 C0 70 E8 01 00 00 00 00 00 00 2A"/>
 	</game>
-	<game name="Maxivision 30-in-1 (USA) (Proto) (Unl)" id="7891">
+	<game name="Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl)" id="7891" cloneofid="8479">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Maxivision 30-in-1 (USA) (Proto) (Unl)</description>
-		<rom name="Maxivision 30-in-1 (USA) (Proto) (Unl).nes" size="2097168" crc="87619670" md5="262344704b01230de4e29c9d4dcd1a07" sha1="981c7f4404c305bd0201023509c74151c096a59b" sha256="92fb8714bb027476954b58e2c7d3d0a0382a99c5dba285e0c9773cec2e922b5d" header="4E 45 53 1A 40 80 D1 E8 01 00 00 00 00 00 00 2A"/>
+		<description>Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl)</description>
+		<rom name="Maxivision 30-in-1 (USA) (Proto) (1991-12-16) (Unl).nes" size="2097168" crc="87619670" md5="262344704b01230de4e29c9d4dcd1a07" sha1="981c7f4404c305bd0201023509c74151c096a59b" sha256="92fb8714bb027476954b58e2c7d3d0a0382a99c5dba285e0c9773cec2e922b5d" header="4E 45 53 1A 40 80 D1 E8 01 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="Mega Man 4 (USA) (Beta)" id="7622" cloneofid="1403">
 		<category>Games</category>
@@ -19984,11 +19984,11 @@
 		<description>Pro Sport Hockey (USA) (Beta)</description>
 		<rom name="Pro Sport Hockey (USA) (Beta).nes" size="262160" crc="fc21e3d3" md5="40ed32bec1f37e8ee91663502bc945c7" sha1="1c61ee3f8c189e427d22139060edc46489aec4b3" sha256="2f734a10c2d3f10350eb91b1ace60fb75e2d47abcc3d0a44d55d4ac5d390269e" header="4E 45 53 1A 08 10 60 78 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Rad Racket - Deluxe Tennis II (USA) (Beta) (Unl)" id="7577" cloneofid="1783">
+	<game name="Rad Racket - Deluxe Tennis II (USA) (Beta) (Later) (Unl)" id="7577" cloneofid="1783">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Rad Racket - Deluxe Tennis II (USA) (Beta) (Unl)</description>
-		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (Unl).nes" size="65552" crc="eef87ee0" md5="abc4142b60492e3bef5c67c1d72d199b" sha1="ad86bb7cf05bad77c1200be6fa75633a8be1c4ac" sha256="8efe553220fe4baeebbcda295d271d2c9c1f8e1f21f6a99c3f5b70892ff412e6" header="4E 45 53 1A 02 04 F1 48 00 00 00 00 00 00 00 01"/>
+		<description>Rad Racket - Deluxe Tennis II (USA) (Beta) (Later) (Unl)</description>
+		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (Later) (Unl).nes" size="65552" crc="eef87ee0" md5="abc4142b60492e3bef5c67c1d72d199b" sha1="ad86bb7cf05bad77c1200be6fa75633a8be1c4ac" sha256="8efe553220fe4baeebbcda295d271d2c9c1f8e1f21f6a99c3f5b70892ff412e6" header="4E 45 53 1A 02 04 F1 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Rally Bike (USA) (v0.3) (Beta)" id="7578" cloneofid="1792">
 		<category>Games</category>
@@ -20757,6 +20757,12 @@
 		<description>Master Fighter II (Taiwan) (En) (Invincibility) (Pirate)</description>
 		<rom name="Master Fighter II (Taiwan) (En) (Invincibility) (Pirate).nes" size="262160" crc="b3e5a8a5" md5="13fdfca26324ed4e676bf45d39b57611" sha1="5a4565b33ff56644a61b9a53a12389d9650c9991" sha256="01a35101f964f4f01f30488643ad538d9ecf349b22ea1b16d7cca734bc88444b" header="4E 45 53 1A 08 10 D0 B8 00 00 00 00 02 00 00 01"/>
 	</game>
+	<game name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)" id="8479">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)</description>
+		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).nes" size="3145744" crc="94d64222" md5="456741f7bba691f0ae035265bafba3e0" sha1="13d45dbfcaca1aa3d5f104ffa61ab833310a7fea" sha256="e88fd376659d0e28274f896455a583d014229b571beee8d4a72985e02383279b" header="4E 45 53 1A 60 C0 70 E8 01 00 00 00 00 00 00 2A"/>
+	</game>
 	<game name="Mega Man (World) (Evercade)" id="8189" cloneofid="1395">
 		<category>Games</category>
 		<description>Mega Man (World) (Evercade)</description>
@@ -20891,6 +20897,12 @@
 		<category>Games</category>
 		<description>R.C. Pro-Am (USA) (Evercade)</description>
 		<rom name="R.C. Pro-Am (USA) (Evercade).nes" size="65552" crc="3766191b" md5="31a866e93272cc06aef1038fca0240b1" sha1="736b932e2b1476d6daa1e8baa0d690fb5e829d36" sha256="baf640b4d17b3ed9ee3ebac3346da8989aa2891631131a7df81c4deab98f5bcc" header="4E 45 53 1A 04 00 70 08 10 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl)" id="8480" cloneofid="1783">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl)</description>
+		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl).nes" size="49168" crc="bdbeca78" md5="3a839dc496f2194d85e2ba24a67e3080" sha1="3d8c33a64b2408be4b2e7babee68d827898119fc" sha256="06e2d584351aaf2bb6cb9d738ca64fa8882f7f4df34ebdd5e98d3c2f418f9c34" header="4E 45 53 1A 02 02 F1 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Rambo Bros (Taiwan) (En) (Pirate)" id="8036" cloneofid="1371">
 		<category>Games</category>

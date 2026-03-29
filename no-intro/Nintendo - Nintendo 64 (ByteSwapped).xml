@@ -4,8 +4,8 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260327-153202</version>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
+		<version>20260328-230750</version>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -894,14 +894,17 @@
 		<rom name="Dance Dance Revolution - Disney Dancing Museum (Japan).v64" size="33554432" crc="e085afa0" md5="b3f1d0abc1a8e1713124ef64a4b9be51" sha1="b0931ecabc6d7c05a14c792f45bc6faac8722ab1" status="verified" serial="NDFJ"/>
 	</game>
 	<game name="Dark Rift (Europe)" id="0156">
+		<category>Games</category>
 		<description>Dark Rift (Europe)</description>
 		<rom name="Dark Rift (Europe).v64" size="8388608" crc="375d8ffe" md5="b05ab4d2ceb5b9132afdb138e14b9a4c" sha1="9c6701dd396a35649b0045c5be3dc0642c334c8c" status="verified" serial="NDKP"/>
 	</game>
 	<game name="Dark Rift (USA)" id="0157" cloneofid="0156">
+		<category>Games</category>
 		<description>Dark Rift (USA)</description>
 		<rom name="Dark Rift (USA).v64" size="8388608" crc="2afab93c" md5="a524d85ecd2c9c239f10439a95a79467" sha1="8e7ec39e0f4b0a1351cf15f12ad5e5afa337f5f4" serial="NDKE"/>
 	</game>
 	<game name="Deadly Arts (USA)" id="0158" cloneofid="0251">
+		<category>Games</category>
 		<description>Deadly Arts (USA)</description>
 		<rom name="Deadly Arts (USA).v64" size="12582912" crc="b4afbf51" md5="72cc6bc6a40705e4d49bbacabc84e347" sha1="f4c7b5f79cee09d263b8a75b683ffbdb453d88f4" serial="NGAE"/>
 	</game>
@@ -922,10 +925,12 @@
 		<rom name="Derby Stallion 64 (Japan) (Beta) [b].v64" size="33554432" crc="418fa479" md5="836d85a3668e5fc577de63e411b0b8ea" sha1="bca2db2b280261cd0e62b304ba3754a6c56351b5" status="baddump"/>
 	</game>
 	<game name="Destruction Derby 64 (Europe) (En,Fr,De)" id="0163">
+		<category>Games</category>
 		<description>Destruction Derby 64 (Europe) (En,Fr,De)</description>
 		<rom name="Destruction Derby 64 (Europe) (En,Fr,De).v64" size="16777216" crc="212a8000" md5="dffd909e47b4abc8fb25669c83eef8aa" sha1="e68747f46ab2eb21d56bd39f65232bdaad86bcf9" status="verified" serial="NDEP"/>
 	</game>
 	<game name="Destruction Derby 64 (USA)" id="0164" cloneofid="0163">
+		<category>Games</category>
 		<description>Destruction Derby 64 (USA)</description>
 		<rom name="Destruction Derby 64 (USA).v64" size="16777216" crc="ef680f71" md5="5b9d74019ffcc91b8737ce09c0af5030" sha1="31981b9b32814bbc3fe0c2a71c888858566352f9" serial="NDEE"/>
 	</game>
@@ -948,10 +953,12 @@
 		<rom name="Diddy Kong Racing (Europe) (En,Fr,De).v64" size="12582912" crc="883df1ea" md5="56caa8f0d1b95fd3af3472841a04c5fb" sha1="944ef38c40630573c16d7534109eb7d3c822eeec" sha256="7a933e42f1e6b518c41b1a805afc63174f444c47dda55e038a40848cb21f4bf7" status="verified" serial="NDYP"/>
 	</game>
 	<game name="Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)" id="0167">
+		<category>Games</category>
 		<description>Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)</description>
 		<rom name="Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).v64" size="12582912" crc="f05d414f" md5="75874d5233240e9790755da009b8b6bb" sha1="fd57da7fe1d4dd471caaca419176a4c097ee7b90" serial="NDYP"/>
 	</game>
 	<game name="Diddy Kong Racing (Japan)" id="0168" cloneofid="0167">
+		<category>Games</category>
 		<description>Diddy Kong Racing (Japan)</description>
 		<rom name="Diddy Kong Racing (Japan).v64" size="12582912" crc="95931356" md5="7021a85c953549e73b151a1b328a8fb1" sha1="a33962564640cd80e57f7cac895ca831f123afd5" status="verified" serial="NDYJ"/>
 	</game>
@@ -960,6 +967,7 @@
 		<rom name="Diddy Kong Racing (USA) (En,Fr).v64" size="12582912" crc="9d2935a1" md5="e00c0e6bfb0ce740e3e1c50ba82bc01a" sha1="812807d8dc23229e736d543c3bafc7ef28519ef5" status="verified" serial="NDYE"/>
 	</game>
 	<game name="Diddy Kong Racing (USA) (En,Fr) (Rev 1)" id="0170" cloneofid="0167">
+		<category>Games</category>
 		<description>Diddy Kong Racing (USA) (En,Fr) (Rev 1)</description>
 		<rom name="Diddy Kong Racing (USA) (En,Fr) (Rev 1).v64" size="12582912" crc="96c32bb6" md5="34fceba45079808a1a4f735b27344ef6" sha1="03f04dfe0c34e8bad370aa4b68f4bb8ed3429fde" sha256="8ba618954452ff1f6ad77674acf14d6d3ab614cdb474a658852fc776e4216371" status="verified" serial="NDYE"/>
 	</game>
@@ -1413,10 +1421,12 @@
 		<rom name="Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).v64" size="33554432" crc="af0a22ef" md5="e520452c07479fa6a059346919340764" sha1="a50ef01ec653ed48a2b857fe2834d815cbd8e972" sha256="424518c722c2d2ec816b8323494332c05a49967e38b20c4df5c3dbd1ca952620" status="verified" serial="NSIJ"/>
 	</game>
 	<game name="G.A.S.P!! Fighters' NEXTream (Europe)" id="0251">
+		<category>Games</category>
 		<description>G.A.S.P!! Fighters' NEXTream (Europe)</description>
 		<rom name="G.A.S.P!! Fighters' NEXTream (Europe).v64" size="12582912" crc="b0d256b8" md5="139a72a1ebfd224924f72747695c2945" sha1="ff187a9a1f357796528ca98e0b15ec227df8a659" serial="NGAP"/>
 	</game>
 	<game name="G.A.S.P!! Fighters' NEXTream (Japan)" id="0252" cloneofid="0251">
+		<category>Games</category>
 		<description>G.A.S.P!! Fighters' NEXTream (Japan)</description>
 		<rom name="G.A.S.P!! Fighters' NEXTream (Japan).v64" size="12582912" crc="0e05ea3a" md5="a34a1fd0bfd7e2e18696370afc642273" sha1="743673180188dfee89f36c76602c1a75df51716e" serial="NGAJ"/>
 	</game>
@@ -1949,14 +1959,17 @@
 		<rom name="Jinsei Game 64 (Japan).v64" size="16777216" crc="888b4265" md5="56fb8ac309038ef2f68a8b3b0456c915" sha1="ce9931571e9d60cc3c92458f89fbdbed214ed833" serial="NJGJ"/>
 	</game>
 	<game name="John Romero's Daikatana (Europe) (En,Fr,De)" id="0349">
+		<category>Games</category>
 		<description>John Romero's Daikatana (Europe) (En,Fr,De)</description>
 		<rom name="John Romero's Daikatana (Europe) (En,Fr,De).v64" size="16777216" crc="48f3e888" md5="af13198db692da423806e88114bffc77" sha1="0a9400897cb7984a0e927a47f912405664ab70ba" status="verified" serial="NDWP"/>
 	</game>
 	<game name="John Romero's Daikatana (Japan)" id="0350" cloneofid="0349">
+		<category>Games</category>
 		<description>John Romero's Daikatana (Japan)</description>
 		<rom name="John Romero's Daikatana (Japan).v64" size="16777216" crc="befb1434" md5="45711f060d945982ce4dffb9f5e31306" sha1="8bda39f1e1c39020ff259b1d4d1ccb2c87d1ee38" serial="NDWJ"/>
 	</game>
 	<game name="John Romero's Daikatana (USA)" id="0351" cloneofid="0349">
+		<category>Games</category>
 		<description>John Romero's Daikatana (USA)</description>
 		<rom name="John Romero's Daikatana (USA).v64" size="16777216" crc="cb126ea9" md5="fee7f48f3da74aea78994ffc862a3641" sha1="c9f3d07af09adef1cc977bf263b899e005a5aab6" serial="NDWE"/>
 	</game>

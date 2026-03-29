@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260327-165132</version>
+		<version>20260328-141827</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -173,6 +173,11 @@
 		<description>4 in 1 + 8 in 1 (World) (4B-007, 4B-008, 8B-004, Sachen) (Unl)</description>
 		<rom name="4 in 1 + 8 in 1 (World) (4B-007, 4B-008, 8B-004, Sachen) (Unl).gbc" size="524288" crc="0a504426" md5="af8e059196fcdd29cc0fc417d3abf9ff" sha1="9c436bb4e2c666a92d4f695c776c2751cd3eb3b6" status="verified"/>
 	</game>
+	<game name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto)" id="2745">
+		<category>Preproduction</category>
+		<description>40 Winks (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="cd5b28d8" md5="c748ffc1a7a1eca04f85044bcb7c46fc" sha1="ca97cc480fa906708a4da286026e2fd68e511a33" sha256="758d4c6a805ec43155d5fdcedb45f623a1c4d918c0d5808aba209299caff9bd7"/>
+	</game>
 	<game name="4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="0009">
 		<description>4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>
 		<rom name="4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="f62ad75e" md5="5878a145e365fa1841b22e837c3226ff" sha1="369e359d1b9a80fdda756411a395594b3d955100" status="verified"/>
@@ -239,10 +244,6 @@
 		<description>All Star Tennis '99 (USA) (Proto) (1999-09-13) (GB Compatible)</description>
 		<rom name="All Star Tennis '99 (USA) (Proto) (1999-09-13) (GB Compatible).gbc" size="1048576" crc="e1b17e76" md5="4b6b4476a9a2f205975db431dfec4533" sha1="239e79281faacf7df2abfb527e6e2adfb58b0bc3" sha256="d91fcb52bf65252c40696b347d2c0f41169db165825a3eee5ea11bca8442b4b0" serial="AZTE"/>
 	</game>
-	<game name="All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)" id="0025">
-		<description>All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)</description>
-		<rom name="All Star Tennis 2000 (Europe) (AZTP) (GB Compatible).gbc" size="1048576" crc="952b94e5" md5="c5e3bb77000c5d3755e816f6c0eed489" sha1="50f99b0fc5c2f5edc2e76ba973cc42fb0a1a02c8"/>
-	</game>
 	<game name="All Star Tennis 2000 (USA) (Proto) (GB Compatible)" id="1573" cloneofid="0025">
 		<description>All Star Tennis 2000 (USA) (Proto) (GB Compatible)</description>
 		<rom name="All Star Tennis 2000 (USA) (Proto) (GB Compatible).gbc" size="1048576" crc="9890bcb4" md5="9aa127615d6f0de4ccc534774fe54c37" sha1="f6829ac5bba08732f875fc5812284d62f3d727e6" sha256="2be476e1f73e72b500ce8fc408e75f2e23c38dc31ff8810df5bde1f8d8297cb3"/>
@@ -250,6 +251,10 @@
 	<game name="All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)" id="1574" cloneofid="0025">
 		<description>All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)</description>
 		<rom name="All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible).gbc" size="1048576" crc="deff8dfb" md5="6bbdbc468d32a31d21727ec0136ee419" sha1="c9db40e3e348668fe6fc41d031263acbe9041a67" sha256="0635d0e32a7f9f4f0326aed1f1524f8de00416736b38d7ab456f11730f778408"/>
+	</game>
+	<game name="All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)" id="0025">
+		<description>All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)</description>
+		<rom name="All Star Tennis 2000 (Europe) (AZTP) (GB Compatible).gbc" size="1048576" crc="952b94e5" md5="c5e3bb77000c5d3755e816f6c0eed489" sha1="50f99b0fc5c2f5edc2e76ba973cc42fb0a1a02c8"/>
 	</game>
 	<game name="All-Star Baseball 2000 (USA, Europe)" id="0026">
 		<description>All-Star Baseball 2000 (USA, Europe)</description>

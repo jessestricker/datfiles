@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4488) (2026-03-28 15-46-51)</description>
-		<version>2026-03-28 15-46-51</version>
-		<date>2026-03-28 15-46-51</date>
+		<description>Sony - PlayStation 3 - Discs (4489) (2026-03-29 09-07-56)</description>
+		<version>2026-03-29 09-07-56</version>
+		<date>2026-03-29 09-07-56</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22461,5 +22461,10 @@
 		<category>Games</category>
 		<description>Legend of Heroes, The - Seom-ui Gwejeok II (Korea)</description>
 		<rom name="Legend of Heroes, The - Seom-ui Gwejeok II (Korea).iso" size="5133828096" crc="273f3fd5" md5="5cf729f96990231035d872e54259340d" sha1="aa4ba0f9dba5ff8b38203801313909657191d9a6"/>
+	</game>
+	<game name="Sly Cooper Collection (Korea)">
+		<category>Games</category>
+		<description>Sly Cooper Collection (Korea)</description>
+		<rom name="Sly Cooper Collection (Korea).iso" size="21377581056" crc="220cec06" md5="e9a7c0f4db163ebe504e2618a338657c" sha1="bf4b6e54223d0ea09e3031d4e45e3d365ff321a5"/>
 	</game>
 </datafile>
