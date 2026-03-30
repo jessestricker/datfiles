@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260328-230750</version>
+		<version>20260329-135618</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -570,6 +570,7 @@
 		<rom name="Buck Bumble (USA).v64" size="12582912" crc="da2acd5e" md5="2bd134f866af753ab46767fac3144e2e" sha1="9cf046e320e5437159a41c49694dc66d4d8e79bd" serial="NBLE"/>
 	</game>
 	<game name="Bug's Life, A (Europe)" id="0099">
+		<category>Games</category>
 		<description>Bug's Life, A (Europe)</description>
 		<rom name="Bug's Life, A (Europe).v64" size="12582912" crc="0d101756" md5="fdbac5a07ef105e31428e14fc7afe887" sha1="ee0175cdf971bce250e174d5bc56cdb53104058e" serial="NBYP"/>
 	</game>
@@ -586,6 +587,7 @@
 		<rom name="Bug's Life, A (Italy).v64" size="12582912" crc="04244aac" md5="c7ffee53b085c5c8c184fc1aa0b374f7" sha1="59564546478ae885a39b4ed77f8fb3a6e7e9bc40" serial="NBYI"/>
 	</game>
 	<game name="Bug's Life, A (USA)" id="0103" cloneofid="0099">
+		<category>Games</category>
 		<description>Bug's Life, A (USA)</description>
 		<rom name="Bug's Life, A (USA).v64" size="12582912" crc="7c2f610d" md5="f4eb001d85f6d3229069cb82b8d3495f" sha1="e30e1b6bdcfd985b000757a8e611a419d1f38233" status="verified" serial="NBYE"/>
 	</game>
@@ -992,10 +994,12 @@
 		<rom name="Dolphin Controller Test (Japan) (Test Program).v64" size="8388608" crc="cba61bc8" md5="91e7945fee2ea4c820cb43e31e929244" sha1="b1d514c8b50aa05c688b20121783dff6069087bf" sha256="825cdc8fb455dcc3c5191dbbe1851fffb1c07b9f65ec861b3c5e3a38ea0cd002"/>
 	</game>
 	<game name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)" id="0171" cloneofid="0172">
+		<category>Games</category>
 		<description>Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).v64" size="33554432" crc="edefc39b" md5="612e286f2b1377c98afc39d8131309fb" sha1="38098c159b6b47dba201ffbbf68f3cd958fc01eb" sha256="fddaa23fc4663db1b9457fd42486bf2b4e72f28650c78f6f910649bed0ff8043" status="verified" serial="NDQE"/>
 	</game>
 	<game name="Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)" id="0172">
+		<category>Games</category>
 		<description>Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).v64" size="33554432" crc="725758ee" md5="e7c9853312e23663852fc62c4491357f" sha1="85ba3aece6fd329a60493e7dabaad4c6d489b539" sha256="2efdc470f1f58d3a7d4f1182a0bc65111a3e373b4f35b496b257e608d8021b13"/>
 	</game>
@@ -1008,6 +1012,7 @@
 		<rom name="Donkey Kong 64 (Japan).v64" size="33554432" crc="fbd001b9" md5="0e7ea5baff2f6a7fbe17164e97231619" sha1="429e7ace2a68832345bfbb3bc3aadf3a7a505d7b" status="verified" serial="NDOJ"/>
 	</game>
 	<game name="Donkey Kong 64 (USA)" id="0175" cloneofid="0173">
+		<category>Games</category>
 		<description>Donkey Kong 64 (USA)</description>
 		<rom name="Donkey Kong 64 (USA).v64" size="33554432" crc="96972d67" md5="b71a88ba73e141fa2d355a6a72f46f6c" sha1="3ead7798284c0593d8c91e09923cde03e87c6b09" sha256="5778c9ef72ef269cdcc52333710a79961a343b1f01d12189d1dbe94df3cbabed" status="verified" serial="NDOE"/>
 	</game>
@@ -1039,6 +1044,7 @@
 		<rom name="Doom 64 (USA).v64" size="8388608" crc="4dfb7cb6" md5="5a8684bc098428dd2a401f4cdaee78df" sha1="b30f2b1b1cf70dc4b398bff26f75eedff858540d" serial="NDME"/>
 	</game>
 	<game name="Doom 64 (USA) (Rev 1)" id="0180" cloneofid="0177">
+		<category>Games</category>
 		<description>Doom 64 (USA) (Rev 1)</description>
 		<rom name="Doom 64 (USA) (Rev 1).v64" size="8388608" crc="0f080d06" md5="300ce844f090807053377d43c6706e33" sha1="07a7dac8084f1be8b102312fcd3ee65be095109c" serial="NDME"/>
 	</game>
@@ -1063,6 +1069,7 @@
 		<rom name="Doubutsu no Mori (Japan).v64" size="16777216" crc="b9fcd0a6" md5="a6ef34bd225f22bbf737d61b839ae1b0" sha1="648b978895bc20256d48f763a72a8686f5cf549d" status="verified" serial="NAFJ"/>
 	</game>
 	<game name="Dr. Mario 64 (USA)" id="0185">
+		<category>Games</category>
 		<description>Dr. Mario 64 (USA)</description>
 		<rom name="Dr. Mario 64 (USA).v64" size="4194304" crc="f7c44b5b" md5="30ec4f3e1c435ed8b1d1fd3788b6a407" sha1="188abdf9e879dd8c92e78a2e978284879a00a8bf" serial="NN6E"/>
 	</game>
@@ -1085,14 +1092,17 @@
 		<rom name="Dragon Sword 64 (USA) (Proto) (1999-08-25).v64" size="33554432" crc="bc5a6081" md5="85d77c74a989e6cff1ef14d9f19313cc" sha1="f5ac5eff3c6eaf7df9119c0f16504a90e70a59dc"/>
 	</game>
 	<game name="Dual Heroes (Europe)" id="0186">
+		<category>Games</category>
 		<description>Dual Heroes (Europe)</description>
 		<rom name="Dual Heroes (Europe).v64" size="12582912" crc="04064347" md5="8d9c55cd89894e24ea49fcaa6ade1a22" sha1="7703976c4bef912feeb5b553ff913e8ef0db8a60" serial="NDHP"/>
 	</game>
 	<game name="Dual Heroes (Japan)" id="0187" cloneofid="0186">
+		<category>Games</category>
 		<description>Dual Heroes (Japan)</description>
 		<rom name="Dual Heroes (Japan).v64" size="12582912" crc="a3565ffc" md5="8dc1f2991fb430f2d18bd37f0242ed90" sha1="b36e4d8a19a50711b0423469dd43b954084fe36a" serial="NDHJ"/>
 	</game>
 	<game name="Dual Heroes (USA)" id="0188" cloneofid="0186">
+		<category>Games</category>
 		<description>Dual Heroes (USA)</description>
 		<rom name="Dual Heroes (USA).v64" size="12582912" crc="8968d989" md5="4f154f3490d35c0a6d38cb94fd842d0b" sha1="ac48d0a10a26de691976618d1d0caebf402f9123" serial="NDHE"/>
 	</game>
@@ -1138,6 +1148,7 @@
 		<rom name="Duke Nukem 64 (France).v64" size="8388608" crc="cbe8c78a" md5="521c4e8444786c1ff6cf9bbc6d6facb6" sha1="bf05f8ec1a1bb936f8cc4d32f0deada7355b16b1" status="verified" serial="NDNF"/>
 	</game>
 	<game name="Duke Nukem 64 (USA)" id="0196" cloneofid="0194">
+		<category>Games</category>
 		<description>Duke Nukem 64 (USA)</description>
 		<rom name="Duke Nukem 64 (USA).v64" size="8388608" crc="1bf948c3" md5="a18868c5d7bcf919a65999d91653b268" sha1="72fcf260632323c2538a6d2feea7030b8da5bac8" status="verified" serial="NDNE"/>
 	</game>
@@ -1146,10 +1157,12 @@
 		<rom name="Duke Nukem 64 (Europe) (Beta).v64" size="8388608" crc="1ff97bad" md5="2ff051d37f1efb8307c91d1e810edaee" sha1="f4adffeb61eccf5715e3f61a9d24b87ce2ae08c9" serial="NMSE"/>
 	</game>
 	<game name="Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)" id="0197">
+		<category>Games</category>
 		<description>Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).v64" size="16777216" crc="20c3adab" md5="404b4cedc5dcff08d1580e9e98b7e5c7" sha1="c613b72369292bb8a16b395073f70c586e0fa65e" serial="NJMP"/>
 	</game>
 	<game name="Earthworm Jim 3D (USA)" id="0198" cloneofid="0197">
+		<category>Games</category>
 		<description>Earthworm Jim 3D (USA)</description>
 		<rom name="Earthworm Jim 3D (USA).v64" size="16777216" crc="1017be14" md5="9f793770d32e576f62dbd57f35ea441d" sha1="1b0aa4d94194edc885d9a9c2a4f37000c963756a" serial="NJME"/>
 	</game>
@@ -4119,6 +4132,7 @@
 		<rom name="TG Rally 2 (Europe).v64" size="12582912" crc="b5e8a1df" md5="a2c3ec262b1db91463369cbdcaa1c4ab" sha1="77baf3dd7b20c2c7faae4944d1f9d30476a25aac" status="verified" serial="NL2X"/>
 	</game>
 	<game name="Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)" id="0739">
+		<category>Games</category>
 		<description>Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
 		<rom name="Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).v64" size="16777216" crc="cf7aa5ef" md5="ac60411bbfb28c3b43dc7e5e030dbc73" sha1="92362bf5c1cf95b726fb9b05735bbeb00c0751e0" status="verified" serial="NT9P"/>
 	</game>
@@ -4297,6 +4311,7 @@
 		<rom name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA).v64" size="12582912" crc="f7a72276" md5="eeeca2b0130b8c9a11a1fc95110990b0" sha1="2196b226f1a75a917bfd1dcf22f02cd96ff39007" sha256="0e1d6738e300562b5416a9802221d673db9ee40e0b896c527c1ebb83f447011e" status="verified" serial="NTHE"/>
 	</game>
 	<game name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)" id="0944" cloneofid="0767">
+		<category>Games</category>
 		<description>Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)</description>
 		<rom name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).v64" size="12582912" crc="a11f0f8e" md5="53bb784d56a81c59b2c0246c37f7035f" sha1="e0cd3699fd9f5443d3dfa2333726eaea724d892d" serial="NTHE"/>
 	</game>

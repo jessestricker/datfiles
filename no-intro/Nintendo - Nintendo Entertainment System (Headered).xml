@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260328-230027</version>
+		<version>20260329-201628</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10539,9 +10539,10 @@
 		<description>Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Beta)</description>
 		<rom name="Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Beta).nes" size="40976" crc="8078d47d" md5="0e6233b0216c1867a71963831c74fc26" sha1="348816f41aee46f1540b96d8a56df9f78c4223ad" sha256="f220258e4331777b9cc99a24effd9ef4abc973923d8e0ed2554d8e6710fc352b" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console)" id="2917" cloneofid="1576">
-		<description>Ninja Jajamaru-kun (World) (Ja) (Virtual Console)</description>
-		<rom name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console).nes" size="49168" crc="703b83d3" md5="6c2cd2ee1bbf8628c93dededf70e1a35" sha1="14ef4e991b6fec11e3ed19a003c60d85bd9776dd" sha256="69612b321c837f905b5627871ed8a93013a4da9fb3d4328999f11f4d5be89c03" status="verified" header="4E 45 53 1A 02 02 71 58 00 00 00 00 00 00 00 01"/>
+	<game name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online)" id="2917" cloneofid="1576">
+		<category>Games</category>
+		<description>Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online)</description>
+		<rom name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online).nes" size="49168" crc="703b83d3" md5="6c2cd2ee1bbf8628c93dededf70e1a35" sha1="14ef4e991b6fec11e3ed19a003c60d85bd9776dd" sha256="69612b321c837f905b5627871ed8a93013a4da9fb3d4328999f11f4d5be89c03" status="verified" header="4E 45 53 1A 02 02 71 58 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Ninja Ryuuken Den (Japan) (Wii Virtual Console)" id="2914" cloneofid="1944">
 		<description>Ninja Ryuuken Den (Japan) (Wii Virtual Console)</description>
@@ -19429,7 +19430,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Arkanoid II (Japan) (En) (Beta 1)</description>
-		<rom name="Arkanoid II (Japan) (En) (Beta 1).nes" size="131088" crc="585b7771" md5="da7517569b605d496cdc35ef820a2da2" sha1="ecc231ba6b9047d2137f2d01a9576659fb634e64" sha256="438ef4e29aa5b42778972a8d587bc4a9e50ff58ef773f857e4787cef5b09ff6c" header="4E 45 53 1A 08 00 20 08 00 00 00 07 00 00 00 4A"/>
+		<rom name="Arkanoid II (Japan) (En) (Beta 1).nes" size="131088" crc="4ac24382" md5="cd01d497cdf9bf215f9590fe1d6f206d" sha1="1dd049e8f6f63f62d3eadd9346581228196e61c1" sha256="5ff53631c5e71b5237e3ee3958757bea842ced973b9f5e47c999378f12fd4ac6" header="4E 45 53 1A 08 00 20 08 20 00 00 07 00 00 00 4A"/>
 	</game>
 	<game name="Bad News Baseball (USA) (Beta)" id="7541" cloneofid="0158">
 		<category>Games</category>
@@ -20761,7 +20762,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)</description>
-		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).nes" size="3145744" crc="94d64222" md5="456741f7bba691f0ae035265bafba3e0" sha1="13d45dbfcaca1aa3d5f104ffa61ab833310a7fea" sha256="e88fd376659d0e28274f896455a583d014229b571beee8d4a72985e02383279b" header="4E 45 53 1A 60 C0 70 E8 01 00 00 00 00 00 00 2A"/>
+		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).nes" size="3145744" crc="94d64222" md5="456741f7bba691f0ae035265bafba3e0" sha1="13d45dbfcaca1aa3d5f104ffa61ab833310a7fea" sha256="e88fd376659d0e28274f896455a583d014229b571beee8d4a72985e02383279b" mia="yes" header="4E 45 53 1A 60 C0 70 E8 01 00 00 00 00 00 00 2A"/>
 	</game>
 	<game name="Mega Man (World) (Evercade)" id="8189" cloneofid="1395">
 		<category>Games</category>
@@ -20902,7 +20903,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl)</description>
-		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl).nes" size="49168" crc="bdbeca78" md5="3a839dc496f2194d85e2ba24a67e3080" sha1="3d8c33a64b2408be4b2e7babee68d827898119fc" sha256="06e2d584351aaf2bb6cb9d738ca64fa8882f7f4df34ebdd5e98d3c2f418f9c34" header="4E 45 53 1A 02 02 F1 48 00 00 00 00 00 00 00 01"/>
+		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl).nes" size="49168" crc="bdbeca78" md5="3a839dc496f2194d85e2ba24a67e3080" sha1="3d8c33a64b2408be4b2e7babee68d827898119fc" sha256="06e2d584351aaf2bb6cb9d738ca64fa8882f7f4df34ebdd5e98d3c2f418f9c34" mia="yes" header="4E 45 53 1A 02 02 F1 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Rambo Bros (Taiwan) (En) (Pirate)" id="8036" cloneofid="1371">
 		<category>Games</category>

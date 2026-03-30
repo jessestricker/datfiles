@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260328-230027</version>
+		<version>20260329-201628</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10543,9 +10543,10 @@
 		<description>Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Beta)</description>
 		<rom name="Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Beta).unh" size="40960" crc="fa12003d" md5="f1160b02b059ad7076823a485183313a" sha1="4fb7e59bc5ef965467d19af9191dd91df104fe61" sha256="e48107211b9d4539ce74414f5ca9fea59e05632227df556217a9e0055d5c635b"/>
 	</game>
-	<game name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console)" id="2917" cloneofid="1576">
-		<description>Ninja Jajamaru-kun (World) (Ja) (Virtual Console)</description>
-		<rom name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console).unh" size="49152" crc="edf60d23" md5="cbe97b1824e59c5505c87a7254bae303" sha1="d2f1067532981d7c8eeee8c28f0b3678abb264a5" sha256="1a7f0a0636d89e30cb38b2878d3885762d0b54c3774ca50b9d814cce498899b5" status="verified"/>
+	<game name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online)" id="2917" cloneofid="1576">
+		<category>Games</category>
+		<description>Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online)</description>
+		<rom name="Ninja Jajamaru-kun (World) (Ja) (Virtual Console, Switch Online).unh" size="49152" crc="edf60d23" md5="cbe97b1824e59c5505c87a7254bae303" sha1="d2f1067532981d7c8eeee8c28f0b3678abb264a5" sha256="1a7f0a0636d89e30cb38b2878d3885762d0b54c3774ca50b9d814cce498899b5" status="verified"/>
 	</game>
 	<game name="Ninja Ryuuken Den (Japan) (Wii Virtual Console)" id="2914" cloneofid="1944">
 		<description>Ninja Ryuuken Den (Japan) (Wii Virtual Console)</description>
@@ -20780,7 +20781,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl)</description>
-		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).unh" size="3145728" crc="b337154f" md5="94374f72f425c2d011f4e319ba324331" sha1="c7a614165bbc9873a7b9651c822a35bf4d4088aa" sha256="a076cf7d5d60200cfd8475db5ac493eeb01fcd299155e94dab2eb6bda0f29279"/>
+		<rom name="Maxivision 30-in-1 (USA) (Proto) (1992-03-22) (Unl).unh" size="3145728" crc="b337154f" md5="94374f72f425c2d011f4e319ba324331" sha1="c7a614165bbc9873a7b9651c822a35bf4d4088aa" sha256="a076cf7d5d60200cfd8475db5ac493eeb01fcd299155e94dab2eb6bda0f29279" mia="yes"/>
 	</game>
 	<game name="Mega Man (World) (Evercade)" id="8189" cloneofid="1395">
 		<category>Games</category>
@@ -20922,7 +20923,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl)</description>
-		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl).unh" size="49152" crc="5e918cd6" md5="7fb311bac9b4f412e72fa9696eab824d" sha1="72e7a3eea7f88e38eb1d9815e2de65f943d81db1" sha256="e3df15d78d4d640c043b120655e66f696050627194809b1e0d41b1a9ad017941"/>
+		<rom name="Rad Racket - Deluxe Tennis II (USA) (Beta) (1991-03-18) (Unl).unh" size="49152" crc="5e918cd6" md5="7fb311bac9b4f412e72fa9696eab824d" sha1="72e7a3eea7f88e38eb1d9815e2de65f943d81db1" sha256="e3df15d78d4d640c043b120655e66f696050627194809b1e0d41b1a9ad017941" mia="yes"/>
 	</game>
 	<game name="Rambo Bros (Taiwan) (En) (Pirate)" id="8036" cloneofid="1371">
 		<category>Games</category>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260328-221409</version>
+		<version>20260329-043953</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6048,6 +6048,11 @@
 		<game_id>0004000000181000</game_id>
 		<rom name="My Melody - Negai ga Kanau Fushigi na Hako (Japan).3ds" size="134217728" crc="77ff1f5f" md5="236e0b6491f8eb327e4c78928114a2d3" sha1="710b3bf33f072e9bd7ca6cbec94fc54fd8caca3e" serial="CTR-P-BM7J"/>
 	</game>
+	<game name="My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)" id="1871">
+		<description>My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)</description>
+		<game_id>0004000000181000</game_id>
+		<rom name="My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto).3ds" size="134217728" crc="5f7c299e" md5="9a7faede745477847bd326a33665d78a" sha1="443b6ed12f355edc7c0ef4fb4b7339921cf285ad" sha256="abf1e4c4f9511c5c76861e7bcad5058f0744782830b38af3776a30660c27635a"/>
+	</game>
 	<game name="My Pet Puppy 3D (USA)" id="0432">
 		<description>My Pet Puppy 3D (USA)</description>
 		<game_id>0004000000074300</game_id>
@@ -6437,6 +6442,26 @@
 		<game_id>CTR-P-ADBK</game_id>
 		<rom name="Nintendogs + Cats - French Bull &amp; New Chingudeul (Korea).3ds" size="536870912" crc="6fb0e185" md5="65a1d335a04525752d11728d54232f2a" sha1="de2dd30b7792a2d0d99afc044e3971fc52400fa2" sha256="492d38e0462f3a665e4878b3430c3a22c621114724d6a6fc8c79f2d0cdf66d84" serial="CTR-P-ADBK"/>
 	</game>
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)" id="0113" cloneofid="0199">
+		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)</description>
+		<game_id>0004000000031200</game_id>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="d919c475" md5="7eeeae35da4313cdc1f193bc901b1560" sha1="d900d0fca54da1927b7fa4be0f4e928475d413d1" status="verified" serial="CTR-P-ADBE"/>
+	</game>
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0199">
+		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+		<game_id>0004000000031100</game_id>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="3488fe85" md5="fb6830b2cb676d48bea6df4ecf319ba2" sha1="86185597f23dcc18ba694512605512cf491271eb" sha256="ed63fc2196e552067b3e3e5e709a1416bffcdef067cf88cf745692810184323d" status="verified" serial="CTR-P-ADBP"/>
+	</game>
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0374" cloneofid="0199">
+		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
+		<game_id>0004000000090800</game_id>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="8e0df94f" md5="876f8d916ed30e05765ff8bca4f7e898" sha1="fda9a341e09b5b0911abb6fb5be5a8f38282ebfb" serial="CTR-P-ADBW"/>
+	</game>
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)" id="0708" cloneofid="0199">
+		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)</description>
+		<game_id>0004000000031000</game_id>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan).3ds" size="536870912" crc="827b903a" md5="37799231c31633f0dfdd933a6bca05c6" sha1="4921933545f7e6d39642d6e9dd7b12f2275b2c39" serial="CTR-P-ADBJ"/>
+	</game>
 	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1317" cloneofid="0199">
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000031100</game_id>
@@ -6462,41 +6487,6 @@
 		<game_id>0004000000031200</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="3bc32668" md5="10b9c3c409524f9faf4848ae139503e1" sha1="8d83f1eebf4d18faf8fa3a4d1baf0b9adc845b28" sha256="8be4a56d955808af422df245d35a34806e0c4ed1a0f30af2b292336ab1fa86f7" serial="CTR-P-ADBE"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)" id="0113" cloneofid="0199">
-		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)</description>
-		<game_id>0004000000031200</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="d919c475" md5="7eeeae35da4313cdc1f193bc901b1560" sha1="d900d0fca54da1927b7fa4be0f4e928475d413d1" status="verified" serial="CTR-P-ADBE"/>
-	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0199">
-		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
-		<game_id>0004000000031100</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="3488fe85" md5="fb6830b2cb676d48bea6df4ecf319ba2" sha1="86185597f23dcc18ba694512605512cf491271eb" sha256="ed63fc2196e552067b3e3e5e709a1416bffcdef067cf88cf745692810184323d" status="verified" serial="CTR-P-ADBP"/>
-	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0374" cloneofid="0199">
-		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
-		<game_id>0004000000090800</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="8e0df94f" md5="876f8d916ed30e05765ff8bca4f7e898" sha1="fda9a341e09b5b0911abb6fb5be5a8f38282ebfb" serial="CTR-P-ADBW"/>
-	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)" id="0708" cloneofid="0199">
-		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)</description>
-		<game_id>0004000000031000</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan).3ds" size="536870912" crc="827b903a" md5="37799231c31633f0dfdd933a6bca05c6" sha1="4921933545f7e6d39642d6e9dd7b12f2275b2c39" serial="CTR-P-ADBJ"/>
-	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)" id="0096" cloneofid="1262">
-		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)</description>
-		<game_id>0004000000030D00</game_id>
-		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="cbade778" md5="8bc99a9ab6b889c6100dc899b1770438" sha1="04139e5ab8400a374ca685bf3e2a68a1d6114a37" serial="CTR-P-ADAE"/>
-	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="0133" cloneofid="1262">
-		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
-		<game_id>0004000000030C00</game_id>
-		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="42a75634" md5="f3aae2c02e507187db258d104506a0b6" sha1="653fd16511ad681957c16f349ebffefe14ab48ea" sha256="bb3eea6cd58e700d93749b238d6d8214f64c130a00da382bca7c6dafeecdcfc0" status="verified" serial="CTR-P-ADAP"/>
-	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z214" cloneofid="1262">
-		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)</description>
-		<game_id>0004000000030D00</game_id>
-		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="255b9422" md5="2afbcf79412bb95804409b7547a59b5c" sha1="7987f3f0ecce88963a348d8164d4aca9c63eae58" sha256="5e424efa3e7fcff700a89e91ff0a68d39defc1f5cf4e17764c684cca282565eb" serial="CTR-P-ADAE"/>
-	</game>
 	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1263" cloneofid="1262">
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000030C00</game_id>
@@ -6512,11 +6502,35 @@
 		<game_id>0004000000030D00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="5aca6d29" md5="7f496aa6983f65685f5a12ecc6b36bc2" sha1="3166557862dfdc4c0732cf82d403d891a0b79289" serial="CTR-P-ADAE"/>
 	</game>
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z214" cloneofid="1262">
+		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>0004000000030D00</game_id>
+		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="255b9422" md5="2afbcf79412bb95804409b7547a59b5c" sha1="7987f3f0ecce88963a348d8164d4aca9c63eae58" sha256="5e424efa3e7fcff700a89e91ff0a68d39defc1f5cf4e17764c684cca282565eb" serial="CTR-P-ADAE"/>
+	</game>
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)" id="0096" cloneofid="1262">
+		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)</description>
+		<game_id>0004000000030D00</game_id>
+		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="cbade778" md5="8bc99a9ab6b889c6100dc899b1770438" sha1="04139e5ab8400a374ca685bf3e2a68a1d6114a37" serial="CTR-P-ADAE"/>
+	</game>
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="0133" cloneofid="1262">
+		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+		<game_id>0004000000030C00</game_id>
+		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="42a75634" md5="f3aae2c02e507187db258d104506a0b6" sha1="653fd16511ad681957c16f349ebffefe14ab48ea" sha256="bb3eea6cd58e700d93749b238d6d8214f64c130a00da382bca7c6dafeecdcfc0" status="verified" serial="CTR-P-ADAP"/>
+	</game>
 	<game name="Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea)" id="z143" cloneofid="0159">
 		<description>Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea)</description>
 		<game_id>0004000000031900</game_id>
 		<game_id>CTR-P-ADCK</game_id>
 		<rom name="Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea).3ds" size="536870912" crc="bf292dc2" md5="1aea6f33666d3f02f475fd5079aaae02" sha1="4d6aeada5558f019fe344213c6f6ed6afc161e3b" sha256="e2c9e85501c527cf36a1c033af736fe4f3d86ffb272ac740eed2171be88eb188" serial="CTR-P-ADCK"/>
+	</game>
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)" id="1423" cloneofid="1262">
+		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)</description>
+		<game_id>0004000000030B00</game_id>
+		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="549e2b7a" md5="1c7ae11806f937868acfbea42e800e26" sha1="67266e34813eaca6c7a2c274335c07c2be67901c" serial="CTR-P-ADAJ"/>
+	</game>
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)" id="z067" cloneofid="1262">
+		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)</description>
+		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="a9b1a382" md5="6849d1dea8d4e6a3dac792e33382a0dc" sha1="b591a55540d3e1f9ee3df9d2eae33d31587f3b14" sha256="d83ea997a061925a6da7c6355c1f6ac588f9989f801a0511c28588fe1f8c4569" serial="CTR-P-ADAJ"/>
 	</game>
 	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0375" cloneofid="1262">
 		<description>Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
@@ -6528,15 +6542,6 @@
 		<game_id>0004000000030B00</game_id>
 		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan).3ds" size="536870912" crc="bd8e49b9" md5="e3a688100de706bf470dbad7567de751" sha1="6dd4e998c31a0978909d9fd066b6b2d8100819e4" serial="CTR-P-ADAJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)" id="1423" cloneofid="1262">
-		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)</description>
-		<game_id>0004000000030B00</game_id>
-		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="549e2b7a" md5="1c7ae11806f937868acfbea42e800e26" sha1="67266e34813eaca6c7a2c274335c07c2be67901c" serial="CTR-P-ADAJ"/>
-	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)" id="z067" cloneofid="1262">
-		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)</description>
-		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="a9b1a382" md5="6849d1dea8d4e6a3dac792e33382a0dc" sha1="b591a55540d3e1f9ee3df9d2eae33d31587f3b14" sha256="d83ea997a061925a6da7c6355c1f6ac588f9989f801a0511c28588fe1f8c4569" serial="CTR-P-ADAJ"/>
-	</game>
 	<game name="Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea)" id="z141" cloneofid="1262">
 		<description>Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea)</description>
 		<game_id>0004000000030F00</game_id>
@@ -6547,25 +6552,6 @@
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>0004000000031700</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="e53f3950" md5="fe7fa84bbf7187477247c3d746f3a76f" sha1="a1617f29cc6f6a513a0462410fcbb345bb8b9ac1" sha256="71a329ee90df051b338dc9965e08e89a0dc895cb1b83e330ced6316ae33164ae" serial="CTR-P-ADCE"/>
-	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1274" cloneofid="0159">
-		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
-		<game_id>0004000000031600</game_id>
-		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="2cea4c17" md5="cf6fa92737819aa706862c3268537669" sha1="72d6d3d9cda922bcc0182f3913c1735d9a72ff1c" serial="CTR-P-ADCP"/>
-	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)" id="1271" cloneofid="0159">
-		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)</description>
-		<game_id>0004000000031500</game_id>
-		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="c074599c" md5="04e61d07fbb505be8608f59139f192d0" sha1="53a3cf675774a20e46104689f17b145f7545e5ba" serial="CTR-P-ADCJ"/>
-	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1629" cloneofid="0159">
-		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
-		<game_id>0004000000031600</game_id>
-		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="aa82e8f0" md5="cf9cbcbd3306b1d32eac18e115098bbc" sha1="be617d3dc2827d608811be70619ccb112b2fd316" serial="CTR-P-ADCP"/>
-	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)" id="z055" cloneofid="0199">
-		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)</description>
-		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="ebb4255e" md5="826b170d78b39109cd3d37ac1c0721d6" sha1="c46aa59b025fd756e6beb32666e88b611d710457" sha256="dac46d99df32bea3d2149ac4ff716984417887ad44bdb8b615b4785faccb0c1f" status="verified" serial="CTR-P-ADCJ"/>
 	</game>
 	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es)" id="0035" cloneofid="0159">
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es)</description>
@@ -6586,6 +6572,25 @@
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>0004000000090900</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="d8872596" md5="0fb249619d064b03632677c772ffa397" sha1="82cde8457bf6d83cd718e6ebdd88c0b1fc607c6d" serial="CTR-P-ADCW"/>
+	</game>
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1274" cloneofid="0159">
+		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
+		<game_id>0004000000031600</game_id>
+		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="2cea4c17" md5="cf6fa92737819aa706862c3268537669" sha1="72d6d3d9cda922bcc0182f3913c1735d9a72ff1c" serial="CTR-P-ADCP"/>
+	</game>
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)" id="1271" cloneofid="0159">
+		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)</description>
+		<game_id>0004000000031500</game_id>
+		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="c074599c" md5="04e61d07fbb505be8608f59139f192d0" sha1="53a3cf675774a20e46104689f17b145f7545e5ba" serial="CTR-P-ADCJ"/>
+	</game>
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1629" cloneofid="0159">
+		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+		<game_id>0004000000031600</game_id>
+		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="aa82e8f0" md5="cf9cbcbd3306b1d32eac18e115098bbc" sha1="be617d3dc2827d608811be70619ccb112b2fd316" serial="CTR-P-ADCP"/>
+	</game>
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)" id="z055" cloneofid="0199">
+		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)</description>
+		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="ebb4255e" md5="826b170d78b39109cd3d37ac1c0721d6" sha1="c46aa59b025fd756e6beb32666e88b611d710457" sha256="dac46d99df32bea3d2149ac4ff716984417887ad44bdb8b615b4785faccb0c1f" status="verified" serial="CTR-P-ADCJ"/>
 	</game>
 	<game name="Nobunaga no Yabou (Japan)" id="0686">
 		<description>Nobunaga no Yabou (Japan)</description>
