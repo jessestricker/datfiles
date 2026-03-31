@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260326-182335</version>
+		<version>20260329-232123</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19786,11 +19786,11 @@
 		<description>Hori GameCube Controller Test (Japan) (En)</description>
 		<rom name="Hori GameCube Controller Test (Japan) (En).sfc" size="524288" crc="a7da7773" md5="d916e9f542292c89a542788b03e1d076" sha1="55b77707eff341882630edff499b417c83d223fa" sha256="8bad0ae24d0393d44263c95951683153ed8b9b4e80389e3003a258842dc62bfe" serial="!none"/>
 	</game>
-	<game name="Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4570">
+	<game name="Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4570" cloneofid="1372">
 		<description>Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)</description>
 		<rom name="Hoshi no Kirby 3 (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc" size="4194304" crc="48096d5f" md5="2c222a2335e8fca2df0b570508466b34" sha1="be60972764d8041ce138c023aef108fa7a73553c" sha256="7b8527e02a6177ad8c15ee148fb2ef9b62f73299578edb165e17cf2e34a0a907"/>
 	</game>
-	<game name="Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4571">
+	<game name="Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)" id="4571" cloneofid="1373">
 		<description>Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection)</description>
 		<rom name="Hoshi no Kirby Super Deluxe (Japan) (Hoshi no Kirby - 20 Shuunen Special Collection).sfc" size="4194304" crc="3c2e08ae" md5="6a6dc7bed9a55bfa7a5341d1df62cbcc" sha1="5f0bdd45d8a1674105d86f2ac093ed1fab209b27" sha256="bc4dc5ff9f0ee3825e0bb91dc9b2b27eb1c8515c6dd75e7937e4fa98c049e942"/>
 	</game>
@@ -20002,11 +20002,11 @@
 		<description>King of Fighters '98, The (USA) (Pirate)</description>
 		<rom name="King of Fighters '98, The (USA) (Pirate).sfc" size="2097152" crc="6c303fc9" md5="7769f94a6393c023c4e9c25328acd294" sha1="3729e177d524385309e2a21d7e8923f01f1a3632" sha256="82b80fc6181d19bc75a4fcc84d7785e4e51041c8bebbc4411616e7269316a58c"/>
 	</game>
-	<game name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)" id="4572">
+	<game name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)" id="4572" cloneofid="1373">
 		<description>Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition)</description>
 		<rom name="Kirby Super Star (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="eb740641" md5="5e0be1a462ffaca1351d446b96b25b74" sha1="364b82e4775120d1f60be8b7d11c2933edebff5b" sha256="bcea6368122dad61dee93656f14ebba4c07be0090537839c76a2fcc67e9b2416"/>
 	</game>
-	<game name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)" id="4573">
+	<game name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)" id="4573" cloneofid="1372">
 		<description>Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition)</description>
 		<rom name="Kirby's Dream Land 3 (USA) (Kirby's Dream Collection - Special Edition).sfc" size="4194304" crc="a291000c" md5="e16973dbf9e17644ddb36290e8b7039a" sha1="f844c3c92deb5755f2eab6c5b053731743d9c95f" sha256="4eba4462e4694f92f247af83abb8603dcaa98f8f0e7f3805d4826c22dc07cf6b"/>
 	</game>
@@ -20133,7 +20133,7 @@
 		<description>Mega Man X (USA) (Capcom Town)</description>
 		<rom name="Mega Man X (USA) (Capcom Town).sfc" size="1572864" crc="a7689fc4" md5="22028714cd18783f9ab6387b5c6f4c3d" sha1="f43c28fff43a9ee73ea1e01c3cbe8ebfd40f6209" sha256="95a2e61ff89563dcbb1dd195826fea07f51600b0f8607ac26f0e1de7bc46e049" status="verified"/>
 	</game>
-	<game name="Mega Man X (USA) (Mega Man X Collection)" id="4568">
+	<game name="Mega Man X (USA) (Mega Man X Collection)" id="4568" cloneofid="1607">
 		<description>Mega Man X (USA) (Mega Man X Collection)</description>
 		<rom name="Mega Man X (USA) (Mega Man X Collection).sfc" size="1572864" crc="fa542e48" md5="3393b0655a488a5c82c5cf62a434aa46" sha1="df62ec045c78e9b9184e7c35c9bc3bb8de28afde" sha256="01a3167958328f9999ba9c42f99588574016ce5411b2887c3946629aa6082db1"/>
 	</game>
@@ -20142,7 +20142,7 @@
 		<description>Mega Man X2 (World) (En) (Mega Man X Legacy Collection)</description>
 		<rom name="Mega Man X2 (World) (En) (Mega Man X Legacy Collection).sfc" size="1572864" crc="8972df65" md5="a8aa24df75686a5bb1a08a27d1876f5f" sha1="4a57802a0ad3817daf1ff60d62e094b0612b5612" sha256="67a2d7ea18d708a88f538d23d704d5c1cc1df56c5d58a883d8e5935dbed6dfb3" status="verified"/>
 	</game>
-	<game name="Mega Man X2 (USA) (Mega Man X Collection)" id="4569">
+	<game name="Mega Man X2 (USA) (Mega Man X Collection)" id="4569" cloneofid="1610">
 		<description>Mega Man X2 (USA) (Mega Man X Collection)</description>
 		<rom name="Mega Man X2 (USA) (Mega Man X Collection).sfc" size="1572864" crc="b8600893" md5="e584a5c488b0f622722d9fb11a20e4c9" sha1="9ee80aff5fdb8dff7eb44b33fda856a4a538bda5" sha256="3098b69e7fab6e9dc0599f2c78e3578987ec1735a161634505d5c8312199cf64"/>
 	</game>
@@ -20905,15 +20905,15 @@
 		<description>Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)</description>
 		<rom name="Super Mario - Yoshi Island (Japan) (Rev 2) (Sample).sfc" size="2097152" crc="fb6ce04a" md5="b4f54c0c985629418b59cafff3a3a47a" sha1="d2245fa377319cf22638938df254a70d7e033244" sha256="ef0750d5cd368b806090f0cc3e6b22893c193f3d1c49b6f176a105c72252b62a"/>
 	</game>
-	<game name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)" id="4574">
+	<game name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)" id="4574" cloneofid="2753">
 		<description>Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary)</description>
 		<rom name="Super Mario All-Stars (USA) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" crc="1cb2fe8e" md5="c66c5378a8b29bd3bb2e696e6593da0e" sha1="79c1e471d54a9ae0a291f982774e04970a998b85" sha256="411c7036750fbc79d60b84602414dbe713074de8204d3c4a5ad762679c103c61"/>
 	</game>
-	<game name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary)" id="4575">
+	<game name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary)" id="4575" cloneofid="2753">
 		<description>Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary)</description>
 		<rom name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" crc="24dd9cf6" md5="58fd166362624edcfe48635e37549f82" sha1="157e10291b8b190eec5f985e62c56e5d4728a578" sha256="8808a75efda1dafbf62f0851d4ce444a36a8a60e20f84048ac6bbf0cd416fbcf"/>
 	</game>
-	<game name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)" id="4576">
+	<game name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)" id="4576" cloneofid="2753">
 		<description>Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)</description>
 		<rom name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary).sfc" size="2097152" crc="a1bb9b20" md5="3f327dc75af4ce3d8e305c4f754d7bf1" sha1="69b1bb988307abad7f63ca931eb667361ef23180" sha256="4407b1865532fbded3c738cc9ff811d1ac1820f5fb30acdbf203cf8c42cb6453"/>
 	</game>

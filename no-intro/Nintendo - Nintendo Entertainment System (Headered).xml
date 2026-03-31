@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260329-201628</version>
+		<version>20260329-232605</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20426,7 +20426,7 @@
 		<description>BattleCity (Taiwan) (En) (Pirate)</description>
 		<rom name="BattleCity (Taiwan) (En) (Pirate).nes" size="24592" crc="f441fdb6" md5="feb670c12d6c696738384d9ca4339de1" sha1="21dd982e807e2d8b0df8f766d1e5a2c30931d28b" sha256="112b8238b0257e107fb909afabe93aeb20aa2e6a69da90c201475fd6d6730c61" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="BattleCity (World) (Star Fox - Assault)" id="8478">
+	<game name="BattleCity (World) (Star Fox - Assault)" id="8478" cloneofid="0215">
 		<description>BattleCity (World) (Star Fox - Assault)</description>
 		<rom name="BattleCity (World) (Star Fox - Assault).nes" size="24592" crc="c529c1ad" md5="8586498e851538f5f7d214989cbb7741" sha1="5debfa14c04d8b14acde9e06a5e40c6f36d82693" sha256="b218c0340cd1a5e903133f658f04046ba9148aef8a5c538e4067c02213cf7ea8" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
@@ -20967,7 +20967,7 @@
 		<description>Star Force (Taiwan) (En) (Pirate)</description>
 		<rom name="Star Force (Taiwan) (En) (Pirate).nes" size="24592" crc="79c673ea" md5="5d5097a065e7c4935db3a66185b1a81f" sha1="8751d12b1f6cf0a50578aa0069ec6622ebc3194c" sha256="a705873dc802c934b43c8b60107b73fe1081e9d7f3ba6e90a70c10366099b000" header="4E 45 53 1A 01 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Star Luster (World) (Star Fox - Assault)" id="8477">
+	<game name="Star Luster (World) (Star Fox - Assault)" id="8477" cloneofid="2084">
 		<description>Star Luster (World) (Star Fox - Assault)</description>
 		<rom name="Star Luster (World) (Star Fox - Assault).nes" size="40976" crc="84b46709" md5="398a7e7c91e19442f6863f6ca188d138" sha1="a4bd9f43915c8eaf390dd928efbbad450dca9342" sha256="09194a77ab99579d77835ce1499d386d0ae4045acebaafbfeac4fe2a08572b3b" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>

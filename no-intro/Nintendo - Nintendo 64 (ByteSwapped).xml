@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260329-135618</version>
+		<version>20260330-214522</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1405,29 +1405,29 @@
 		<description>Freak Boy (Unknown) (Proto)</description>
 		<rom name="Freak Boy (Unknown) (Proto).v64" size="16777216" crc="c15147fa" md5="9356bdeca2146360c7dcd0740084d71a" sha1="a5b705ab35815748905bacd580dd9ede4d04fb60" sha256="b97f523ab3ec9351a21bc3d4e11ef61a90d3659776ec170da145bd50e240404c"/>
 	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-03-xx)" id="0249" cloneofid="1293">
+	<game name="Frogger 2 (USA) (Proto 1)" id="0249" cloneofid="1293">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-03-xx)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-03-xx).v64" size="8388608" crc="6169a03a" md5="5886e25bf7d6a1b782cd71d22663237c" sha1="e0ed9df4d416b9466097dee333354778d60d3739" sha256="7cf85d6c5be7eb888fdc44cfff1b9c337881bab13461f9f3aa71da4a81f0e3b3" serial="NGVE"/>
+		<description>Frogger 2 (USA) (Proto 1)</description>
+		<rom name="Frogger 2 (USA) (Proto 1).v64" size="8388608" crc="6169a03a" md5="5886e25bf7d6a1b782cd71d22663237c" sha1="e0ed9df4d416b9466097dee333354778d60d3739" sha256="7cf85d6c5be7eb888fdc44cfff1b9c337881bab13461f9f3aa71da4a81f0e3b3" serial="NGVE"/>
 	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-06-xx) (MS4)" id="1035" cloneofid="1293">
+	<game name="Frogger 2 (USA) (Proto 3)" id="1035" cloneofid="1293">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-06-xx) (MS4)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-06-xx) (MS4).v64" size="8388608" crc="5eb0c7d0" md5="bff4b5b4549964c5aa63700852af188e" sha1="275bbbbd1cb11e1611449f37128054d7a4dac3f5" sha256="fa292811c47c058c44a9bd428ebeffbafebf500023e4f273058766c778ec0d08" serial="NGVE"/>
+		<description>Frogger 2 (USA) (Proto 3)</description>
+		<rom name="Frogger 2 (USA) (Proto 3).v64" size="8388608" crc="5eb0c7d0" md5="bff4b5b4549964c5aa63700852af188e" sha1="275bbbbd1cb11e1611449f37128054d7a4dac3f5" sha256="fa292811c47c058c44a9bd428ebeffbafebf500023e4f273058766c778ec0d08" serial="NGVE"/>
 	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-06-xx)" id="1292" cloneofid="1293">
+	<game name="Frogger 2 (USA) (Proto 2)" id="1292" cloneofid="1293">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-06-xx)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-06-xx).v64" size="8388608" crc="395422ec" md5="6ce5726a9dd254f6b09941197a33ea45" sha1="fc4c8b8ea0536e6e5fabcd1a2b8a557cb69da613" sha256="48af9f4aaf8436397fb1e95809a0e03b40b378bacdcd6c33ab7b9dca78bfe49e" serial="NGVE"/>
+		<description>Frogger 2 (USA) (Proto 2)</description>
+		<rom name="Frogger 2 (USA) (Proto 2).v64" size="8388608" crc="395422ec" md5="6ce5726a9dd254f6b09941197a33ea45" sha1="fc4c8b8ea0536e6e5fabcd1a2b8a557cb69da613" sha256="48af9f4aaf8436397fb1e95809a0e03b40b378bacdcd6c33ab7b9dca78bfe49e" serial="NGVE"/>
 	</game>
-	<game name="Frogger 2 (USA) (Proto) (1999-12-01)" id="1293">
+	<game name="Frogger 2 (USA) (Proto 4)" id="1293">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Frogger 2 (USA) (Proto) (1999-12-01)</description>
-		<rom name="Frogger 2 (USA) (Proto) (1999-12-01).v64" size="12582912" crc="6571dbb1" md5="1adb614c1e613b88a4b0d2b661ac9115" sha1="728f40179e20467f5c796cbc142cc5ac31f9be2b" sha256="5b8c59ef789545b26dacf95e5fbe40699a133d340db9eb437074f05fce218340" serial="NGVE"/>
+		<description>Frogger 2 (USA) (Proto 4)</description>
+		<rom name="Frogger 2 (USA) (Proto 4).v64" size="12582912" crc="6571dbb1" md5="1adb614c1e613b88a4b0d2b661ac9115" sha1="728f40179e20467f5c796cbc142cc5ac31f9be2b" sha256="5b8c59ef789545b26dacf95e5fbe40699a133d340db9eb437074f05fce218340" serial="NGVE"/>
 	</game>
 	<game name="Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)" id="0250">
 		<description>Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)</description>
@@ -3341,6 +3341,12 @@
 		<category>Preproduction</category>
 		<description>Rakugakids (Europe) (Beta 2) (1998-09-16)</description>
 		<rom name="Rakugakids (Europe) (Beta 2) (1998-09-16).v64" size="12582912" crc="d7816e6b" md5="9af6bdad177f3480196383d95be06b8c" sha1="d7fec3bb522653f7f35a8bc5675675a7446a6158" sha256="385f949d67ce472c699802a445a80b66f82c11c6bf651890d9e90bdf6b29376f" serial="NKRP"/>
+	</game>
+	<game name="Rakugakids (Europe) (Beta 1) (1998-06-19)" id="1312" cloneofid="0601">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rakugakids (Europe) (Beta 1) (1998-06-19)</description>
+		<rom name="Rakugakids (Europe) (Beta 1) (1998-06-19).v64" size="12582912" crc="38363dce" md5="ae3a90b4186f578e0f4daff0ec922242" sha1="36a1ea18594fdd25aea51c2787d28996163f2061" sha256="69adc4aabbf2c606cc4f702946519500abd4316c68243831a4547d23bdcd4f2f"/>
 	</game>
 	<game name="Rally '99 (Japan)" id="0603" cloneofid="0604">
 		<description>Rally '99 (Japan)</description>

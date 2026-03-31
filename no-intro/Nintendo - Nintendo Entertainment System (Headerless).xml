@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260329-201628</version>
+		<version>20260329-232605</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20445,7 +20445,7 @@
 		<description>BattleCity (Taiwan) (En) (Pirate)</description>
 		<rom name="BattleCity (Taiwan) (En) (Pirate).unh" size="24576" crc="33878cfa" md5="8b7bffa690528ddeda124cc941320343" sha1="75ba2a9aee02f9735a6b2a51ee41fdf267928dba" sha256="1cedabc5aa4dcd3c2a20b2acc03925d50fb8d559356487015068977d907d9854"/>
 	</game>
-	<game name="BattleCity (World) (Star Fox - Assault)" id="8478">
+	<game name="BattleCity (World) (Star Fox - Assault)" id="8478" cloneofid="0215">
 		<description>BattleCity (World) (Star Fox - Assault)</description>
 		<rom name="BattleCity (World) (Star Fox - Assault).unh" size="24576" crc="02efb0e1" md5="3e6c7d4455f80ef7a907bc28a7a70ba9" sha1="aa160f3c70a8518332508894987ca363a602f711" sha256="7ca7b08042542a26ade3a9f3a9947ebafb276c4849d778ad000f9c05237b7993"/>
 	</game>
@@ -20987,7 +20987,7 @@
 		<description>Star Force (Taiwan) (En) (Pirate)</description>
 		<rom name="Star Force (Taiwan) (En) (Pirate).unh" size="24576" crc="57811373" md5="419e0bf482cee2f692691400fce73ba4" sha1="0e1e55a96983209b4fdf7dd90da6c2907c91a9d4" sha256="7a44168357b52367165c768bfb2f0f9768dfef2abfbf7466e2739bdfc6082962"/>
 	</game>
-	<game name="Star Luster (World) (Star Fox - Assault)" id="8477">
+	<game name="Star Luster (World) (Star Fox - Assault)" id="8477" cloneofid="2084">
 		<description>Star Luster (World) (Star Fox - Assault)</description>
 		<rom name="Star Luster (World) (Star Fox - Assault).unh" size="40960" crc="e7718c0b" md5="b52cb774cebc1b9e36d90e89f9211131" sha1="b1de069cfffd3c4c17d83b50d9f8a0cbcf24d18f" sha256="23c79ee3a569ec7788896e797e26d96d0a1c55e5649ad9a0e790497d441aff50"/>
 	</game>
