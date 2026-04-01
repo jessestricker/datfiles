@@ -4,8 +4,8 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260329-232123</version>
-		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
+		<version>20260331-133805</version>
+		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -20645,6 +20645,16 @@
 		<description>SpellCraft - Aspects of Valor (USA) (Proto 2)</description>
 		<rom name="SpellCraft - Aspects of Valor (USA) (Proto 2).sfc" size="1048576" crc="76390095" md5="1c415cf78751cc7f0b2bb14f39852c28" sha1="a70293f915e5ebdd2c4b3a7acd428876633964ea" sha256="9cc23ace93e756f18927aab38c28667dd8e21c0b3a9d56d28f5b6a346da8834a" header="!none"/>
 	</game>
+	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="4578" cloneofid="2456">
+		<category>Games</category>
+		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).sfc" size="2097152" crc="9d840d0b" md5="76b4558ee02f046168bd9e6b3f2642e7" sha1="c82dff7c20967e20a849673cd0f0a1a670a17097" sha256="c9c8b0f669e9244d02c8aab41f5294b0894fb07c2835ebc9c8f904c34ae34e40"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="4579" cloneofid="2461">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).sfc" size="1048576" crc="b07ffb8a" md5="7398d0bfc067e010e357486546fc47c5" sha1="ec6bd15f34e41fae55ce1332b0e8048cd69f2c00" sha256="5f81b735539df9414a3eba192a2b9225cc1a41596e4ebca4ac70b8238cf77b2e"/>
+	</game>
 	<game name="Squirrel (USA) (Pirate)" id="4241">
 		<description>Squirrel (USA) (Pirate)</description>
 		<rom name="Squirrel (USA) (Pirate).sfc" size="2097152" crc="bad1d9b8" md5="b846ff852409ad266fde7ba4b44fa15a" sha1="4a88cdfbfefeaf79df9ebfd1974b16a1571dbce1" sha256="0d5bbe55e9f2e7b929865823c593c63351de5a02c23c8e475adb30d88027f371"/>
@@ -21130,6 +21140,11 @@
 		<category>Preproduction</category>
 		<description>Vegas Stakes (USA) (Beta)</description>
 		<rom name="Vegas Stakes (USA) (Beta).sfc" size="1048576" crc="09f6f778" md5="692491de7cd1e295012a2b63807d0832" sha1="c7862f31e3a46494bf194d48034b5813f47867bf" sha256="799974a8488a315a10e303a406e6587029a2e7f98ffd1b8ad3127d5780989a02"/>
+	</game>
+	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="4577" cloneofid="3212">
+		<category>Games</category>
+		<description>Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)</description>
+		<rom name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).sfc" size="3145728" crc="b264f6d0" md5="ef390b5f9eb0c9ad3893a93cd4873f78" sha1="2c54f05ee6d7a61ffd146bd4a932af1cfcf98597" sha256="0239629e29f87757448af4eaabad0ac896bbcefcf53fa22b076b60b85e30df6d"/>
 	</game>
 	<game name="WeaponLord (World) (Evercade)" id="4435" cloneofid="3254">
 		<category>Games</category>

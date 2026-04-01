@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Mega CD &amp; Sega CD</name>
-		<description>Sega - Mega CD &amp; Sega CD - Discs (545) (2026-02-19 14-50-55)</description>
-		<version>2026-02-19 14-50-55</version>
-		<date>2026-02-19 14-50-55</date>
+		<description>Sega - Mega CD &amp; Sega CD - Discs (549) (2026-04-01 22-06-55)</description>
+		<version>2026-04-01 22-06-55</version>
+		<date>2026-04-01 22-06-55</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -10603,5 +10603,33 @@
 		<rom name="Silpheed (Japan) (Demo) (Reprint).cue" size="259" crc="f8f8b90f" md5="89dbd4badcdecab864ab24ccd2e26151" sha1="282f2a9f866d5496640fba2812e494cd6aa873fb"/>
 		<rom name="Silpheed (Japan) (Demo) (Reprint) (Track 1).bin" size="369174624" crc="6b59f551" md5="62114ad0be5d9ce331d90607687a2574" sha1="a04f5372e40ba222489d384dc050524f9574527e"/>
 		<rom name="Silpheed (Japan) (Demo) (Reprint) (Track 2).bin" size="1060752" crc="a3c16e5e" md5="8fee25227f42a0530e1a0d5329061c17" sha1="5cc076d8eb636c8776832329e55cc47f75515050"/>
+	</game>
+	<game name="Night Trap (USA) (Disc 1) (Limited Run Games)">
+		<category>Games</category>
+		<description>Night Trap (USA) (Disc 1) (Limited Run Games)</description>
+		<rom name="Night Trap (USA) (Disc 1) (Limited Run Games).cue" size="283" crc="60eed7dc" md5="7c2d709829d8ca8c2d0d2420b7d6d55d" sha1="015019aeff0986c7a9b2b914821fe9d31ce0b82e"/>
+		<rom name="Night Trap (USA) (Disc 1) (Limited Run Games) (Track 1).bin" size="617058960" crc="dfd08d74" md5="41052fb9c5a921e1de5056f107ac6374" sha1="e8389b823b5c4305520f3a04591eb2a32ca593d8"/>
+		<rom name="Night Trap (USA) (Disc 1) (Limited Run Games) (Track 2).bin" size="2554272" crc="d3125150" md5="570e12480d4efc06ee1eb59b6eb98f95" sha1="65cfc9cf826aa10eeffa856d85fb6259a1d135d1"/>
+	</game>
+	<game name="Night Trap (USA) (Disc 2) (Limited Run Games)">
+		<category>Games</category>
+		<description>Night Trap (USA) (Disc 2) (Limited Run Games)</description>
+		<rom name="Night Trap (USA) (Disc 2) (Limited Run Games).cue" size="283" crc="1443a379" md5="c23580c9849e99f606ed2da8c9418033" sha1="52b559be83a7a9370b42196c6173887fb6de0be2"/>
+		<rom name="Night Trap (USA) (Disc 2) (Limited Run Games) (Track 1).bin" size="515276160" crc="e495d81e" md5="8729032aa159df4704355e0a036690d2" sha1="7587c0faea4165d1df3182a52923d1f2683517b0"/>
+		<rom name="Night Trap (USA) (Disc 2) (Limited Run Games) (Track 2).bin" size="2554272" crc="8eed3131" md5="7bb9ad7eb5d79931b36e697b30236732" sha1="4b03b673b63f1ecdc7376f85f4aca1b1b790d758"/>
+	</game>
+	<game name="Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games)">
+		<category>Games</category>
+		<description>Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games)</description>
+		<rom name="Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games).cue" size="311" crc="ddb2546c" md5="17187f0e2be94e71047394bd39f8fdcc" sha1="65c713acf7c8d746ba296e695225369e1b9ffbb5"/>
+		<rom name="Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games) (Track 1).bin" size="617058960" crc="8f9d8a16" md5="46731e3541f48a59e578805aa330a0e1" sha1="8ebd0879df65e4abeea3d93bafa8e9e42ecd4653"/>
+		<rom name="Night Trap (USA) (Disc 1) (Sega CD 32X) (Limited Run Games) (Track 2).bin" size="2554272" crc="8eed3131" md5="7bb9ad7eb5d79931b36e697b30236732" sha1="4b03b673b63f1ecdc7376f85f4aca1b1b790d758"/>
+	</game>
+	<game name="Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games)">
+		<category>Games</category>
+		<description>Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games)</description>
+		<rom name="Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games).cue" size="311" crc="f20519be" md5="cb906d27a292256e52bda9f64ac28a54" sha1="db986ed3d0679ff32f1bdb640ea8f327821b234f"/>
+		<rom name="Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games) (Track 1).bin" size="515276160" crc="7e7649e2" md5="23ed076db99e1009d8c38e7bf8a01512" sha1="af635148d1290099241843b519e155e81e47198a"/>
+		<rom name="Night Trap (USA) (Disc 2) (Sega CD 32X) (Limited Run Games) (Track 2).bin" size="2554272" crc="a5e04df3" md5="5e6186487cee229884cbdf3a53596882" sha1="e14ea462cb88626abe32f7aa24815f54c70ed40c"/>
 	</game>
 </datafile>

@@ -4,8 +4,8 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260329-232605</version>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<version>20260331-150553</version>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -20469,6 +20469,11 @@
 		<description>Cai Dilei - Rumen Pian (Asia) (Extract) (Pirate)</description>
 		<rom name="Cai Dilei - Rumen Pian (Asia) (Extract) (Pirate).unh" size="40960" crc="462bbc2d" md5="8b790ca96ea8f8fcbb0313e8e9eed773" sha1="45f5b7a2b5534637040b98136339522a1be634fc" sha256="bafce645413e226746b717fb963fb7f1e369ac5a43da080cbe69aae887314a8b"/>
 	</game>
+	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482" cloneofid="0335">
+		<category>Games</category>
+		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).unh" size="262144" crc="5e2f16c4" md5="aaae8ec17b83bd0b22f4c4253db29363" sha1="c02fbb90ac85e2766acab05e7365ae88fc94f997" sha256="7827daf79f0e7ed6ea1ac8ad519e7495f337ed931b31da28eafd6ac4295a7484"/>
+	</game>
 	<game name="Captain Bassam (Asia) (Ar) (Extract) (Pirate)" id="8283" cloneofid="0345">
 		<category>Games</category>
 		<description>Captain Bassam (Asia) (Ar) (Extract) (Pirate)</description>
@@ -20959,6 +20964,11 @@
 		<category>Games</category>
 		<description>Shui Guo Li (Asia) (En) (Pirate)</description>
 		<rom name="Shui Guo Li (Asia) (En) (Pirate).unh" size="65536" crc="4e7a6181" md5="a2be83f61d88d2644ff802603baaa0c1" sha1="bcb273c1d62b2eff3836a3717b8ceaabec66dc8c" sha256="16c6e7e738a1e0edd4de25855626023583b5620187a99847a2b42212c5303cf4"/>
+	</game>
+	<game name="Silver Surfer (World) (Marvel MaXimum Collection)" id="8481" cloneofid="1994">
+		<category>Games</category>
+		<description>Silver Surfer (World) (Marvel MaXimum Collection)</description>
+		<rom name="Silver Surfer (World) (Marvel MaXimum Collection).unh" size="393216" crc="e5c0841d" md5="e6eccc9d551eaba7e9caf077619efdbe" sha1="227b14f793d594887e51926c6b35c73887b75cc9" sha256="c6681cf2caa26c10d4fd05db490405db8ecd913a0d683f3fbd473d4aa4f82c66"/>
 	</game>
 	<game name="Sky Shark (World) (Evercade)" id="8121" cloneofid="2012">
 		<category>Games</category>

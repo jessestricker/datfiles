@@ -4,8 +4,8 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260327-112520</version>
-		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<version>20260331-154635</version>
+		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -3880,6 +3880,7 @@
 		<rom name="Mario no Picross (Japan) (SGB Enhanced).gb" size="262144" crc="17533700" md5="defe3559ef5e8d69ca95289edb6f9f6e" sha1="6b72cbff3e224299eff6f79e0110a477b8f840c2" sha256="eb13fba45c077e52b6947d53cd36ff2fa2f79be39004681dc8f3b4bd93743173" status="verified"/>
 	</game>
 	<game name="Mario no Picross (Japan) (Beta) (SGB Enhanced)" id="2525" cloneofid="0736">
+		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Mario no Picross (Japan) (Beta) (SGB Enhanced)</description>
 		<rom name="Mario no Picross (Japan) (Beta) (SGB Enhanced).gb" size="262144" crc="7b27bae3" md5="6a275d0158da983574963b65d47cef83" sha1="ba0b3b36afeaed9bfa3c717b0749bc2398627953" sha256="795bd524e9b8356cee202e2660dca8a7bb90aeee60b4aba4ae3ac10a9644e9cc"/>
@@ -6604,6 +6605,11 @@
 	<game name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe)" id="1253">
 		<description>Spider-Man - X-Men - Arcade's Revenge (USA, Europe)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe).gb" size="131072" crc="1009c6c0" md5="634532de88aa7c35bd9231ee5356ae8a" sha1="fb3770e2da5c668d23e5f96a4806a6d3db24eaeb" sha256="0e700bc3168f51b22b0c0c6768550198e293ed01a83c6d233c26192ea688bdde" status="verified"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="2546" cloneofid="1253">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).gb" size="131072" crc="1496a089" md5="8a79409b2c768ffa3563a501d6db26fa" sha1="260bba1e81660aa6580faa4fb06523d768c0bf68" sha256="aa5ea7e434534bdcebfad76b631e5c5de0fdcacddbacd2726f97b4f74512c65e"/>
 	</game>
 	<game name="Spider-Man 2 (USA, Europe)" id="0043">
 		<description>Spider-Man 2 (USA, Europe)</description>

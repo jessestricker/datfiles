@@ -4,8 +4,8 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260328-141827</version>
-		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260331-135439</version>
+		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -176,7 +176,7 @@
 	<game name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto)" id="2745">
 		<category>Preproduction</category>
 		<description>40 Winks (Europe) (En,Fr,De,Es,It) (Proto)</description>
-		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="cd5b28d8" md5="c748ffc1a7a1eca04f85044bcb7c46fc" sha1="ca97cc480fa906708a4da286026e2fd68e511a33" sha256="758d4c6a805ec43155d5fdcedb45f623a1c4d918c0d5808aba209299caff9bd7"/>
+		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="9b20c473" md5="2ce4eab7166281a80cab3f1ae1ae25ae" sha1="3e704498d35a1d3cb965222e8799cf80be24ea4d" sha256="faa5e7ddbccfbe783ed91bc1147caa5bc583fa8b017e84d556e3600906bcc9b5"/>
 	</game>
 	<game name="4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="0009">
 		<description>4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>

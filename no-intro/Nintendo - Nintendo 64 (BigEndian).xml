@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260330-214522</version>
+		<version>20260331-215638</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1520,7 +1520,7 @@
 	</game>
 	<game name="Glover (USA) (1998-09-04) (Beta)" id="1050" cloneofid="0265">
 		<description>Glover (USA) (1998-09-04) (Beta)</description>
-		<rom name="Glover (USA) (1998-09-04) (Beta).z64" size="25165824" crc="5e091e8f" md5="9cc14c73eb1202c3d19633ee05ad5fc4" sha1="3da3074fe998dbc6c47791a5b6dcbb5143b0fad8" sha256="7bfbdce623cdfdffcebdfc95db1317ab46de8d3189e13c790d1def46b2ff6710" serial="NGVE"/>
+		<rom name="Glover (USA) (1998-09-04) (Beta).z64" size="8388608" crc="c33f683e" md5="82ad5da2ae054037d6772101b2d7a148" sha1="d77774dfda1ef1af11df7bae1d135b3664d960d5" sha256="5cf666c15ca2eae4fef8ad50f11048dd07c0ff45bb9b471e8102efaaa0458d02"/>
 	</game>
 	<game name="Glover (USA) (En,Fr,De) (Limited Run Games)" id="1182" cloneofid="0265">
 		<category>Games</category>
@@ -1537,7 +1537,7 @@
 	</game>
 	<game name="Glover (USA) (1998-07-16) (Beta) [b]" id="0925" cloneofid="0265">
 		<description>Glover (USA) (1998-07-16) (Beta) [b]</description>
-		<rom name="Glover (USA) (1998-07-16) (Beta) [b].z64" size="67108864" crc="7a866221" md5="43c3375bbd6496b6c51d08ec193bc8ed" sha1="a60bb3856218b554beee25d30dcf05e6d0308f52" status="baddump"/>
+		<rom name="Glover (USA) (1998-07-16) (Beta) [b].z64" size="16777216" crc="d0c97155" md5="d37694aa881db148ca1b9392a64cd17e" sha1="c5a744595dcb5aaec2893147db30e9938739a02c" sha256="8c7d05723fd3e15b6857ac3b597b78d442a02470cc7bdc2340ac340a060acc1a" status="baddump"/>
 	</game>
 	<game name="Glover 2 (USA) (Proto 2)" id="0917">
 		<description>Glover 2 (USA) (Proto 2)</description>
@@ -3065,11 +3065,11 @@
 		<description>PGA European Tour Golf (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="PGA European Tour Golf (Europe) (En,Fr,De,Es,It).z64" size="16777216" crc="6b5ff959" md5="0112ffaada116d172abce136e9043a93" sha1="f9e838cf5cfd0fa493d5e5f7a7d450a80787c814" status="verified" serial="NEAP"/>
 	</game>
-	<game name="PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)" id="1184" cloneofid="0549">
+	<game name="PGA European Tour Golf (Europe) (En,De) (Beta)" id="1184" cloneofid="0549">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)</description>
-		<rom name="PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta).z64" size="16777216" crc="c98562e7" md5="8b960a89813c363987810c8a06bef258" sha1="2044b6bfcf119771486c6b96be9bfe58ef840478" sha256="2b19dac0a2c2775a70d8b7a961ba3842a6775d38f8e235773f68336cd4ad6a16"/>
+		<description>PGA European Tour Golf (Europe) (En,De) (Beta)</description>
+		<rom name="PGA European Tour Golf (Europe) (En,De) (Beta).z64" size="16777216" crc="c98562e7" md5="8b960a89813c363987810c8a06bef258" sha1="2044b6bfcf119771486c6b96be9bfe58ef840478" sha256="2b19dac0a2c2775a70d8b7a961ba3842a6775d38f8e235773f68336cd4ad6a16"/>
 	</game>
 	<game name="Pikachuu Genki de Chuu (Japan) (Beta)" id="1192" cloneofid="0283">
 		<description>Pikachuu Genki de Chuu (Japan) (Beta)</description>
@@ -4204,9 +4204,11 @@
 		<description>Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)</description>
 		<rom name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).z64" size="33554432" crc="98d0d335" md5="317a4e89618b8b7955632c5f70177690" sha1="fab693f9da784837d10a3281d16ec5a1d3d733c9" sha256="39df4d15ffdb081a29d399f0df935dad667080b9ffc255f44dcbf559871f2586" serial="!none"/>
 	</game>
-	<game name="Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)" id="1046" cloneofid="0752">
-		<description>Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)</description>
-		<rom name="Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04).z64" size="33554432" crc="bcf178c5" md5="6440a67e2c27bd9adedfc60939c2bf1b" sha1="134289253ccccbcabbf52660f28a49449c399ede" sha256="05946af0bcc0ca1e9c8b17675c24df98038e66864a934b5182ff858993b0d0ae" serial="!none"/>
+	<game name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-06-04)" id="1046" cloneofid="0752">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-06-04)</description>
+		<rom name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-06-04).z64" size="16777216" crc="63ddc62d" md5="91461c109a1e1e5fb8d99111fd326724" sha1="44bc209164e90f0dae3a469a835efe3bf3c9f8dc" sha256="3774771147f99bbda2bc93e42322827c2177fa3d48da6bd1d464c07ef96e6bf1"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater 2 (Europe)" id="0752">
 		<description>Tony Hawk's Pro Skater 2 (Europe)</description>
@@ -4721,9 +4723,11 @@
 		<description>Wetrix (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).z64" size="8388608" crc="50cd1f71" md5="6e81d3056e409208e4af2d39a2ff0f03" sha1="6e40312cf88a9182e93b396b9d82457b1aba7cd6" sha256="790f36a3ddd64e4dcd08c479b0b66f9080d0191473e92fa895f53d15706167bb" status="verified" serial="NWTE"/>
 	</game>
-	<game name="Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)" id="1051" cloneofid="0265">
-		<description>Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05)</description>
-		<rom name="Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).z64" size="3823288" crc="74df67bb" md5="aab9c595a91b9f26e12cae2ff2649881" sha1="1d8f3b0cc37dc357cddc8075fc749bc7d66b5331" sha256="ff781fc0998e8cff0e76d576ce77ebee7420c43765187f54400161195f07b323" serial="!none"/>
+	<game name="Whack 'n' Roll (USA) (Proto) (1998-02-05)" id="1051" cloneofid="0265">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Whack 'n' Roll (USA) (Proto) (1998-02-05)</description>
+		<rom name="Whack 'n' Roll (USA) (Proto) (1998-02-05).z64" size="3823288" crc="74df67bb" md5="aab9c595a91b9f26e12cae2ff2649881" sha1="1d8f3b0cc37dc357cddc8075fc749bc7d66b5331" sha256="ff781fc0998e8cff0e76d576ce77ebee7420c43765187f54400161195f07b323" serial="!none"/>
 	</game>
 	<game name="Wheel of Fortune (USA)" id="0844">
 		<description>Wheel of Fortune (USA)</description>

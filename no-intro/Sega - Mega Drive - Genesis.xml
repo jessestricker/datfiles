@@ -4,8 +4,8 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260328-195558</version>
-		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
+		<version>20260331-133230</version>
+		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -1976,6 +1976,11 @@
 		<category>Games</category>
 		<description>Canon - The Legend of the New Gods (USA) (Piko Interactive) (Unl)</description>
 		<rom name="Canon - The Legend of the New Gods (USA) (Piko Interactive) (Unl).md" size="2097152" crc="f85dd66d" md5="956c9f7da0f6ed6432b3ddf018533ba6" sha1="76c2ff5d704b5996a97f6b50375edac860f8d4dd" sha256="bf9b2e2131100672ac86adced519dc4c9b48a570653c4453b04425400c36dd2a"/>
+	</game>
+	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="3777" cloneofid="0248">
+		<category>Games</category>
+		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).md" size="1048576" crc="09cbd94c" md5="8cb7cf4fd403f6faec238b97a0cf1359" sha1="e4e2efdc33703447f62212ff83b77282d80bf7c6" sha256="e5f7eec78b57fea14174b9e8c1a63eae5469f185999cb58221f63b71063718cd"/>
 	</game>
 	<game name="Captain America and the Avengers (Europe)" id="0248">
 		<category>Games</category>
@@ -9752,6 +9757,11 @@
 		<description>Richard Scarry's Busytown (USA) (Sega Channel)</description>
 		<rom name="Richard Scarry's Busytown (USA) (Sega Channel).md" size="2097152" crc="566216bd" md5="ce511a6745fea78c2a26050d65c9bd57" sha1="641cc97d2e505d1cdf173783fa444fe9fc9701a1" sha256="be445d620887a60561c234cd5fc279ad74841ce91da82e33f79027a8295088a7" status="verified" serial="MK-1552-00"/>
 	</game>
+	<game name="Richard Scarry's Busytown (USA)" id="1090">
+		<category>Games</category>
+		<description>Richard Scarry's Busytown (USA)</description>
+		<rom name="Richard Scarry's Busytown (USA).md" size="2097152" crc="7bb60c3f" md5="06ddc929a7bf834c40344ac83a4acc97" sha1="42e5ac265e3bf82c44dca70deb71b0aa08acf1a9" sha256="20c7adaec80b977e193f5365cffc00dfbd6c634b429bc590040e148b5ddeb76f" serial="MK-1552-00"/>
+	</game>
 	<game name="Richard Scarry's Busytown (USA) (Beta 1)" id="2100" cloneofid="1090">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -9793,11 +9803,6 @@
 		<category>Preproduction</category>
 		<description>Richard Scarry's Busytown (USA) (Beta 6)</description>
 		<rom name="Richard Scarry's Busytown (USA) (Beta 6).md" size="2097152" crc="1ad270f3" md5="de96b49550908ffb5a942355a266466e" sha1="375f358a24ae63be8b8bc1010f61b27d013f8212" sha256="d81ae09c5e0a6629420d93bba73a468e65a8202974a8c7227ac671c43b7c18e4" serial="MK-1552-00"/>
-	</game>
-	<game name="Richard Scarry's Busytown (USA)" id="1090">
-		<category>Games</category>
-		<description>Richard Scarry's Busytown (USA)</description>
-		<rom name="Richard Scarry's Busytown (USA).md" size="2097152" crc="7bb60c3f" md5="06ddc929a7bf834c40344ac83a4acc97" sha1="42e5ac265e3bf82c44dca70deb71b0aa08acf1a9" sha256="20c7adaec80b977e193f5365cffc00dfbd6c634b429bc590040e148b5ddeb76f" serial="MK-1552-00"/>
 	</game>
 	<game name="Riddle Wired (Japan) (Sega Game Toshokan)" id="0050">
 		<category>Games</category>
@@ -11344,6 +11349,16 @@
 		<description>Spider-Man (USA, Europe)</description>
 		<rom name="Spider-Man (USA, Europe).md" size="2097152" crc="11b5b590" md5="af2a9fdd4a378593e47289eb8068164d" sha1="a38d5ad7d503999b7fea3ebf59f3dda9d667758b" sha256="c22c1b2e51dd8ab77c6da1b90c33b307ad88808eb007934171e39ffa12630cb0" serial="T-81436-00"/>
 	</game>
+	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="3774" cloneofid="1256">
+		<category>Games</category>
+		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).md" size="2097152" crc="f4726918" md5="6f5baac0812db4ceeecdbb9a3062cf10" sha1="8ad3133e02747c3966ad6cfa206f483fb78cf1b1" sha256="0fcc855dd503adb8a77e94f7ad4d22912e3f4a76da55147d18f3900eba4e2f3a"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="3776" cloneofid="1853">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).md" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4" sha256="d66bf7f13ada8eab599f3bca13079c697797e67a2a004aafc4c0ff973e0aa240"/>
+	</game>
 	<game name="Spider-Man vs. The Kingpin (World)" id="1255">
 		<category>Games</category>
 		<description>Spider-Man vs. The Kingpin (World)</description>
@@ -11375,11 +11390,6 @@
 		<description>Spirou (Europe) (En,Fr,De,Es) (Beta)</description>
 		<rom name="Spirou (Europe) (En,Fr,De,Es) (Beta).md" size="1048576" crc="51bc6c35" md5="a3930cbe1db94ec22b808018899f8a22" sha1="1b03b04a1d3ae75b51e487dced305c6a729b4fa6" sha256="a11aeeadd29b32f152ba2e547018d5181d7d16a0127f34c94f07398ed4923b57" serial="T-151026-00"/>
 	</game>
-	<game name="Splatterhouse 2 (World) (Evercade)" id="3358" cloneofid="1261">
-		<category>Games</category>
-		<description>Splatterhouse 2 (World) (Evercade)</description>
-		<rom name="Splatterhouse 2 (World) (Evercade).md" size="1085408" crc="8188c7f4" md5="7cbfbff974f4e7dc61e9fc944a96c2b4" sha1="7eef50e3770f44e12b8590beaa8f587675191fe4" sha256="21f66bc8be7810aeb26f4dfae1875fb9d24af88bd3572d82a0fe6ba60a60ceeb" serial="T-14076-00"/>
-	</game>
 	<game name="Splatterhouse 2 (Europe)" id="1261">
 		<category>Games</category>
 		<description>Splatterhouse 2 (Europe)</description>
@@ -11395,15 +11405,20 @@
 		<description>Splatterhouse 2 (USA) (Sega Channel)</description>
 		<rom name="Splatterhouse 2 (USA) (Sega Channel).md" size="1048576" crc="ed64ce8c" md5="73f2bee7480969aba96958bb274e58b0" sha1="fd5133bb737e577f9e351cb3b7744c722cbaaa55" sha256="5da1c5ccf885c601e028508effb87fd365dae2f1068d109ad703102088c5182b" serial="T-14076-00"/>
 	</game>
-	<game name="Splatterhouse 3 (USA)" id="1263">
+	<game name="Splatterhouse 2 (World) (Evercade)" id="3358" cloneofid="1261">
 		<category>Games</category>
-		<description>Splatterhouse 3 (USA)</description>
-		<rom name="Splatterhouse 3 (USA).md" size="2097152" crc="00f05d07" md5="8c2a9b15ba24b611c895efd49c175ebe" sha1="7f29f00ec724e20cb93907f1e33ac4af16879827" sha256="8c7737912cf948a606a683e32f4b6a0a4303215cdc99b39fbc5976c196c45710" status="verified" serial="T-14086-00"/>
+		<description>Splatterhouse 2 (World) (Evercade)</description>
+		<rom name="Splatterhouse 2 (World) (Evercade).md" size="1085408" crc="8188c7f4" md5="7cbfbff974f4e7dc61e9fc944a96c2b4" sha1="7eef50e3770f44e12b8590beaa8f587675191fe4" sha256="21f66bc8be7810aeb26f4dfae1875fb9d24af88bd3572d82a0fe6ba60a60ceeb" serial="T-14076-00"/>
 	</game>
 	<game name="Splatterhouse 3 (World) (Evercade)" id="3357" cloneofid="1263">
 		<category>Games</category>
 		<description>Splatterhouse 3 (World) (Evercade)</description>
 		<rom name="Splatterhouse 3 (World) (Evercade).md" size="2150368" crc="42b8b1c2" md5="213ea4f6ca943feae9572dbb98440871" sha1="f28fe57be9880e1c3200bad7726521e18695235b" sha256="15a77771d27bfd7b36e50f22574e28840f7751069fe2a4bfa319ffe05bd25bb5" serial="T-14086-00"/>
+	</game>
+	<game name="Splatterhouse 3 (USA)" id="1263">
+		<category>Games</category>
+		<description>Splatterhouse 3 (USA)</description>
+		<rom name="Splatterhouse 3 (USA).md" size="2097152" crc="00f05d07" md5="8c2a9b15ba24b611c895efd49c175ebe" sha1="7f29f00ec724e20cb93907f1e33ac4af16879827" sha256="8c7737912cf948a606a683e32f4b6a0a4303215cdc99b39fbc5976c196c45710" status="verified" serial="T-14086-00"/>
 	</game>
 	<game name="Splatterhouse Part 2 (Japan)" id="1264" cloneofid="1261">
 		<category>Games</category>
@@ -13513,6 +13528,11 @@
 		<category>Preproduction</category>
 		<description>Vectorman 2 (USA) (Beta 6)</description>
 		<rom name="Vectorman 2 (USA) (Beta 6).md" size="3145728" crc="6333d89a" md5="b95705a2b30070467b929dc80afe319d" sha1="d142ce853becc6450c7a3e8b7fe65839e5b68521" sha256="a09b4469a580bc2257d949ae8414ea37c394ae7f84050136b2fea24ee8fb4fb0" serial="MK-1843-00"/>
+	</game>
+	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="3778" cloneofid="1257">
+		<category>Games</category>
+		<description>Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)</description>
+		<rom name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).md" size="3145728" crc="337cda6d" md5="3e7bb422a490100e5ef44c75e5a4919c" sha1="2025e4ddd9d8b0816523425993154f469919455b" sha256="0462f272e8c468dfeadbc27b013b0a43d63d65c5e0827848827abf597040b5cb"/>
 	</game>
 	<game name="Vermilion (Japan)" id="1496" cloneofid="1361">
 		<category>Games</category>

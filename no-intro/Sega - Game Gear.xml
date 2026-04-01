@@ -4,8 +4,8 @@
 		<id>25</id>
 		<name>Sega - Game Gear</name>
 		<description>Sega - Game Gear</description>
-		<version>20260124-122308</version>
-		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
+		<version>20260331-133326</version>
+		<author>Arctic Circle System, Aringon, BigFred, BitLooter, BlueMoon, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -3422,6 +3422,11 @@
 		<category>Games</category>
 		<description>Spider-Man - X-Men - Arcade's Revenge (USA)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA).gg" size="524288" crc="742a372b" md5="912075356cc3bb5bbab641e61d3904d7" sha1="4006a23571f194e1fcb3563557decd5d11e7b5c2" sha256="5aa48ff360124f882a0a06c03b473785ecb580bad083be04911af2011c4d90dc" status="verified"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="0930" cloneofid="0357">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).gg" size="524288" crc="7ca0fb6b" md5="c7850a354d01346af335667d68beac60" sha1="08c5062d34d91007ce6860938e78bd5f61809202" sha256="1e5163864fd1320e39d50fd7f9ad716d4ebea42b585e5a419b62aac4e9f7f8d1"/>
 	</game>
 	<game name="Spirou (Europe) (Proto)" id="0359">
 		<category>Games</category>

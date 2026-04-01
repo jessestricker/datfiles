@@ -4,7 +4,7 @@
 		<id>140</id>
 		<name>Sony - PlayStation 3 (PSN) (Updates)</name>
 		<description>Sony - PlayStation 3 (PSN) (Updates)</description>
-		<version>20251013-105502</version>
+		<version>20260331-014259</version>
 		<author>baldjared, bsbt, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight, SonGoku, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -93,6 +93,10 @@
 	<game name="[BIOS] PS3 System Software Update (World) (v4.92) (Update)" id="12154">
 		<description>[BIOS] PS3 System Software Update (World) (v4.92) (Update)</description>
 		<rom name="PS3UPDAT.PUP" size="206177436" crc="1d8a0e51" md5="c179ad173bbc08b55431d30947725a4b" sha1="f998395780765addd5ea13975f6af2484c3eb84b" sha256="99c044293290d0338ffee4ea7d21f993523b1b69012af7f09ae719efe2c9d464"/>
+	</game>
+	<game name="[BIOS] PS3 System Software Update (World) (v4.93) (Update)" id="12156">
+		<description>[BIOS] PS3 System Software Update (World) (v4.93) (Update)</description>
+		<rom name="PS3UPDAT.PUP" size="206197916" crc="ed8ab192" md5="a2b60b6ac1d2e49e230144345616927c" sha1="ae2a4f49ec6c09d124fed20f84231ce27d10c7b7" sha256="158471fd834f8ea8036136b6aab43cd86c7ba73d79ca30e0af3c0fe0001cf365"/>
 	</game>
 	<game name="[BIOS] PS3 System Software Update (World) (v3.41) (Patch) (Update)" id="06283">
 		<description>[BIOS] PS3 System Software Update (World) (v3.41) (Patch) (Update)</description>
