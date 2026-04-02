@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260331-154635</version>
+		<version>20260401-110316</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1667,6 +1667,11 @@
 	<game name="Double Dragon (USA, Europe)" id="0317">
 		<description>Double Dragon (USA, Europe)</description>
 		<rom name="Double Dragon (USA, Europe).gb" size="131072" crc="40a8bf12" md5="545de5c311259b7f7ec313a9d58cf4b4" sha1="6565a3d89827717d8e5d2e041c743266ba14b412" sha256="75f902ab8674c3cd379438fbd54cfe7e87ca3ddf9727679547261d1b77db720b" status="verified"/>
+	</game>
+	<game name="Double Dragon (World) (Evercade)" id="2548" cloneofid="0317">
+		<category>Games</category>
+		<description>Double Dragon (World) (Evercade)</description>
+		<rom name="Double Dragon (World) (Evercade).gb" size="131072" crc="8ae3f5ed" md5="3e23955c66aff2441d67b74a56d442ce" sha1="5276714936edb5d536e6272ce0061a9d0c87976a" sha256="60cd2d9d25253ded4a70cf971de45da94003b6e039105d91f7004c084fe74802"/>
 	</game>
 	<game name="Double Dragon 3 - The Arcade Game (USA, Europe)" id="0318">
 		<description>Double Dragon 3 - The Arcade Game (USA, Europe)</description>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260331-150553</version>
+		<version>20260401-133204</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11162,7 +11162,7 @@
 	</game>
 	<game name="Star Trek - 25th Anniversary (Germany)" id="2087" cloneofid="2088">
 		<description>Star Trek - 25th Anniversary (Germany)</description>
-		<rom name="Star Trek - 25th Anniversary (Germany).nes" size="524304" crc="b2f4880f" md5="2e20217262b6b33404587f99edc7ee03" sha1="fe1b897f029e3ad0c56bc2b7ecbcc6cf5029306e" sha256="40982fdc0f15e138c08e9c927520f26edc28d004b72ec735d240e26c205ce588" header="4E 45 53 1A 10 20 40 08 00 00 00 00 01 00 00 01"/>
+		<rom name="Star Trek - 25th Anniversary (Germany).nes" size="524304" crc="b2f4880f" md5="2e20217262b6b33404587f99edc7ee03" sha1="fe1b897f029e3ad0c56bc2b7ecbcc6cf5029306e" sha256="40982fdc0f15e138c08e9c927520f26edc28d004b72ec735d240e26c205ce588" status="verified" header="4E 45 53 1A 10 20 40 08 00 00 00 00 01 00 00 01"/>
 	</game>
 	<game name="Star Trek - 25th Anniversary (USA)" id="2088">
 		<description>Star Trek - 25th Anniversary (USA)</description>
@@ -20453,7 +20453,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482" cloneofid="0335">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" crc="74bc1e56" md5="3d91dde48c3f5dda35ff19443f996e78" sha1="db5b4e4a5a64cb1c059721972af33a4fdd616578" sha256="3428a1152b25b7e8344e3e0f9c29983b9f60c82f7dd68bc7c93ba9863d4ac5c4" header="4E 45 53 1A 08 20 40 08 00 00 07 00 00 00 00 01"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf" header="4E 45 53 1A 08 20 40 08 00 00 07 00 00 00 00 01"/>
 	</game>
 	<game name="Captain Bassam (Asia) (Ar) (Extract) (Pirate)" id="8283" cloneofid="0345">
 		<category>Games</category>
@@ -20501,6 +20501,11 @@
 		<category>Games</category>
 		<description>Daodan Tank (China) (En) (Rev 1) (Pirate)</description>
 		<rom name="Daodan Tank (China) (En) (Rev 1) (Pirate).nes" size="40976" crc="5dd76e52" md5="d3de1815520cbbad6cfcdd3bc01f481c" sha1="5d1545913f0701a9fa6048f95a4b9cae0426145b" sha256="1bf09b260fcb0258bbdeb28c4459b212102d5329f7115f2625ba51d8c6aac96c" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Destiny of an Emperor (USA) (Capcom Town)" id="8483" cloneofid="0518">
+		<category>Games</category>
+		<description>Destiny of an Emperor (USA) (Capcom Town)</description>
+		<rom name="Destiny of an Emperor (USA) (Capcom Town).nes" size="262160" crc="d3a2fdfc" md5="383c70445c3f560d749e8b60c6e6b8e2" sha1="f6798482ae0e0feab31c3911137fc4875a2da5a9" sha256="3ed150df51574c1cea0af5fad9eb661167820515ce11548061eb53aa85779c30" header="4E 45 53 1A 10 00 12 08 00 00 70 07 00 00 00 01"/>
 	</game>
 	<game name="Dongfang Bubai - The Hyrule Fantasy (China) (Pirate)" id="8063" cloneofid="1253">
 		<category>Games</category>

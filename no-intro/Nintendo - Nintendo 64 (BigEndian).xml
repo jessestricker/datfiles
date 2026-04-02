@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260331-215638</version>
+		<version>20260401-225051</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1201,10 +1201,12 @@
 		<rom name="Excitebike 64 (USA) (LodgeNet).z64" size="16777216" crc="a1895884" md5="bc34b1aabd1109593abf9cf017573201" sha1="3a043dc4c8b1351ca56c3ab9bb061bd7fa99c312"/>
 	</game>
 	<game name="Excitebike 64 (Europe)" id="0205">
+		<category>Games</category>
 		<description>Excitebike 64 (Europe)</description>
 		<rom name="Excitebike 64 (Europe).z64" size="16777216" crc="0b881e60" md5="8fa253fd69b73df9a831ef2f731491f2" sha1="5abfb6024f935ef5fe0067f39fd594c50697c749" sha256="a28143f7dc16e905ca4da25665875a2b0d5489bcc7310ce4465637537ab096d0" status="verified" serial="NMXP"/>
 	</game>
 	<game name="Excitebike 64 (Japan)" id="0206" cloneofid="0205">
+		<category>Games</category>
 		<description>Excitebike 64 (Japan)</description>
 		<rom name="Excitebike 64 (Japan).z64" size="16777216" crc="03bfd065" md5="bf15a61aff71c93bf5e05243f57bca1d" sha1="e2c8d01fc66c0a575e79cb338678f1fd065226d6" sha256="a2227d626690256f6d1242d5fe7c9bbbf8fa5aec2d803a0a138e1e09dd26b635" status="verified" serial="NMXJ"/>
 	</game>
@@ -1217,6 +1219,7 @@
 		<rom name="Excitebike 64 (USA) (Demo) (Kiosk).z64" size="16777216" crc="be6298b0" md5="e0018c33346714b63a55c0e040f23dea" sha1="daaf564815e9eef3fc163b9546b5880ee256274b" sha256="cd056cc339b30b77d9a7afa99bc7f9203d655ba9e34ee4048cc0b36982458263" serial="NNXE"/>
 	</game>
 	<game name="Excitebike 64 (USA) (Rev 1)" id="0939" cloneofid="0205">
+		<category>Games</category>
 		<description>Excitebike 64 (USA) (Rev 1)</description>
 		<rom name="Excitebike 64 (USA) (Rev 1).z64" size="16777216" crc="143926ce" md5="21954e4e404d9e87dbdb87dd309f3e94" sha1="c2fac422af135409c1b38569b309f9d452c81c35" sha256="7f72526876c87423c757ffa2246eb689e4079de473c7a9f599699e6892dfe7ed" status="verified" serial="NMXE"/>
 	</game>
@@ -3630,10 +3633,12 @@
 		<rom name="SD Hiryuu no Ken Densetsu (Japan).z64" size="12582912" crc="cc083e34" md5="637a7ea2a39f20c5b20834187230d89d" sha1="79cfb5a29b2cbd4f35966f209385b389233cf8cf" sha256="9f499647daa608266637d3a06446311a7fa9b23132df8d28eda613cc41d5a7b1" status="verified" serial="NDCJ"/>
 	</game>
 	<game name="Sesame Street - Elmo's Letter Adventure (USA)" id="0202">
+		<category>Games</category>
 		<description>Sesame Street - Elmo's Letter Adventure (USA)</description>
 		<rom name="Sesame Street - Elmo's Letter Adventure (USA).z64" size="8388608" crc="92c3ba6f" md5="15df97a59b2354b130dec3fb86bba513" sha1="97777ca06f4e8aff8f1e95033cc8d3833be40f76" sha256="eadfd24dd54f56343dd228cddfce67dd8af450a2e8d0040f6a1ed87ea81fdef5" status="verified" serial="NELE"/>
 	</game>
 	<game name="Sesame Street - Elmo's Number Journey (USA)" id="0203">
+		<category>Games</category>
 		<description>Sesame Street - Elmo's Number Journey (USA)</description>
 		<rom name="Sesame Street - Elmo's Number Journey (USA).z64" size="8388608" crc="ea3b92d8" md5="f733453ed26afa0aca8d3eb3b5b6d8ea" sha1="7195ea96d9fe5de065af61f70d55c92c8ee905e6" status="verified" serial="NENE"/>
 	</game>

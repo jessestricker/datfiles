@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD32</name>
-		<description>Commodore - Amiga CD32 - Discs (205) (2026-01-11 16-03-09)</description>
-		<version>2026-01-11 16-03-09</version>
-		<date>2026-01-11 16-03-09</date>
+		<description>Commodore - Amiga CD32 - Discs (206) (2026-04-02 10-25-46)</description>
+		<version>2026-04-02 10-25-46</version>
+		<date>2026-04-02 10-25-46</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2248,18 +2248,18 @@
 		<rom name="Project-X &amp; F17 Challenge (Europe) (En,Fr,De,It,Da).cue" size="140" crc="6ec76422" md5="6d183879d3fcd20c9b1fb0aa1f29f547" sha1="03f0e0a4e4d23993ba71335162fb3c1185b9725a"/>
 		<rom name="Project-X &amp; F17 Challenge (Europe) (En,Fr,De,It,Da).bin" size="11515392" crc="ec0bce0c" md5="1f966a9e2fcfddcbadf4c7b21ffbd6b8" sha1="de6472304a934c416f76c97ecab5b3c96fa2ebc4"/>
 	</game>
-	<game name="Sleepwalker (Europe)">
+	<game name="SleepWalker (Europe)">
 		<category>Games</category>
-		<description>Sleepwalker (Europe)</description>
-		<rom name="Sleepwalker (Europe).cue" size="894" crc="d943e0b9" md5="a1c99658796c42819631d5e3deb96bae" sha1="3d8418674225e3c6b6158e27efde489e744aa5f1"/>
-		<rom name="Sleepwalker (Europe) (Track 1).bin" size="66992016" crc="2a418843" md5="d023bf60456b1c115090c9693db9e9db" sha1="f0abc1caaca523f5aacc1db3d7313357c7671e1b"/>
-		<rom name="Sleepwalker (Europe) (Track 2).bin" size="53919600" crc="1280f596" md5="31cd7c8fc43c7547b455e82e8c0141b3" sha1="ccabd9a09d74e365ed2781b283c89ba19761a212"/>
-		<rom name="Sleepwalker (Europe) (Track 3).bin" size="51137184" crc="dd5659ba" md5="7623b1156457f0efbf0ff04981332c0b" sha1="d0e3be8f2b23284162ddf4878a17d5b34fc61a4b"/>
-		<rom name="Sleepwalker (Europe) (Track 4).bin" size="49822416" crc="2815e26e" md5="17a5209fefd8f6e67867e40161291b6c" sha1="8b5a66cb58e9fbc8574c24b6904477fded3e063b"/>
-		<rom name="Sleepwalker (Europe) (Track 5).bin" size="48745200" crc="c8e08b28" md5="af52fd3378ed9ae9ff6359dddee969c0" sha1="2af5b53b4cdd6530d02cd68fc1b869e7e928a860"/>
-		<rom name="Sleepwalker (Europe) (Track 6).bin" size="50713824" crc="4bac413f" md5="a0dfdcf4715e718ea325077833e37b24" sha1="3e884b93062cfad76058fea73259c63e6da8c6a9"/>
-		<rom name="Sleepwalker (Europe) (Track 7).bin" size="46188576" crc="f399849c" md5="0b28b605e868dd24e0e2f59d3e5cd5d0" sha1="d6b2b767a8b7cf91bd06ba509f2d78cefab23217"/>
-		<rom name="Sleepwalker (Europe) (Track 8).bin" size="14029680" crc="d66ca015" md5="8d4012854ff0442400ebae72b0ec0045" sha1="d2a4db16aee285b7b8169cf57f4ae6ab400503e7"/>
+		<description>SleepWalker (Europe)</description>
+		<rom name="SleepWalker (Europe).cue" size="894" crc="8f6d29cd" md5="23e155dcf0d4db2db11739c8f7f9cfc0" sha1="e833376434892dbfc74a60e0730a0e1237a5a0e6"/>
+		<rom name="SleepWalker (Europe) (Track 1).bin" size="66992016" crc="2a418843" md5="d023bf60456b1c115090c9693db9e9db" sha1="f0abc1caaca523f5aacc1db3d7313357c7671e1b"/>
+		<rom name="SleepWalker (Europe) (Track 2).bin" size="53919600" crc="1280f596" md5="31cd7c8fc43c7547b455e82e8c0141b3" sha1="ccabd9a09d74e365ed2781b283c89ba19761a212"/>
+		<rom name="SleepWalker (Europe) (Track 3).bin" size="51137184" crc="dd5659ba" md5="7623b1156457f0efbf0ff04981332c0b" sha1="d0e3be8f2b23284162ddf4878a17d5b34fc61a4b"/>
+		<rom name="SleepWalker (Europe) (Track 4).bin" size="49822416" crc="2815e26e" md5="17a5209fefd8f6e67867e40161291b6c" sha1="8b5a66cb58e9fbc8574c24b6904477fded3e063b"/>
+		<rom name="SleepWalker (Europe) (Track 5).bin" size="48745200" crc="c8e08b28" md5="af52fd3378ed9ae9ff6359dddee969c0" sha1="2af5b53b4cdd6530d02cd68fc1b869e7e928a860"/>
+		<rom name="SleepWalker (Europe) (Track 6).bin" size="50713824" crc="4bac413f" md5="a0dfdcf4715e718ea325077833e37b24" sha1="3e884b93062cfad76058fea73259c63e6da8c6a9"/>
+		<rom name="SleepWalker (Europe) (Track 7).bin" size="46188576" crc="f399849c" md5="0b28b605e868dd24e0e2f59d3e5cd5d0" sha1="d6b2b767a8b7cf91bd06ba509f2d78cefab23217"/>
+		<rom name="SleepWalker (Europe) (Track 8).bin" size="14029680" crc="d66ca015" md5="8d4012854ff0442400ebae72b0ec0045" sha1="d2a4db16aee285b7b8169cf57f4ae6ab400503e7"/>
 	</game>
 	<game name="Soccer Kid (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -2569,5 +2569,21 @@
 		<description>CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 18 (UK)</description>
 		<rom name="CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 18 (UK).cue" size="146" crc="09b0f693" md5="30861c821a1d090ff8ae6340a5306f5f" sha1="1c384374096989747c690c57463d720d4bb4be05"/>
 		<rom name="CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 18 (UK).bin" size="26537616" crc="48c005ce" md5="3c346aa1812c9ed33a249ca7ab9544dc" sha1="e865bc65905d6dee7017dc988d014b743fb23f08"/>
+	</game>
+	<game name="SleepWalker &amp; Pinball Fantasies (Europe)">
+		<category>Games</category>
+		<description>SleepWalker &amp; Pinball Fantasies (Europe)</description>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe).cue" size="1490" crc="237a4cd5" md5="e52026316ac463b8532b1ebb885fd916" sha1="9a9ebfed516525821d6cc6a821b7bdc334221545"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 01).bin" size="71093904" crc="e2d8cb92" md5="55d0192ce6a1247850ab1fbad32cab27" sha1="93b55cec8b63b8d8d2064782ca8e38a0cbc3931d"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 02).bin" size="43631952" crc="683d6c9c" md5="9883e8a5e4835cb6e0c625d474093fa4" sha1="5f3bc7249da78e6ce5e782feea3b6203c3bdc44e"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 03).bin" size="51461760" crc="febf433a" md5="628b37748f273b6678df1b9857ff181f" sha1="54953da0cbc1899b3cd00b1490adf37bd42532ce"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 04).bin" size="54166560" crc="dc12aa29" md5="67b81659e7771ce467028d94cc0e93e0" sha1="5c92eff421f7c9c0ee528b378e1acb3c1399a4cb"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 05).bin" size="51539376" crc="7c43dc62" md5="115533f2fcf092cb8dafaa86bb08bbd4" sha1="b63f99537bee529698bfcb85bbf1978f75aea1e0"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 06).bin" size="50259888" crc="0a37c5ed" md5="be30ed5ca5ab524fe9da6cbe3a5b55c6" sha1="8b23360b6807b2b29c82e09054242fa926a85735"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 07).bin" size="48672288" crc="614cc62e" md5="498a6b2c0a2bf63230dab77f29680ac4" sha1="e61dc7db96793441deabfb706b3ac73152c1cca2"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 08).bin" size="51165408" crc="0305cd0c" md5="11912fd55cd11861fc8852c9dadfed69" sha1="76d94bfa02e603563862466200a25e6bd6ffcca4"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 09).bin" size="46491984" crc="d91edb83" md5="7fad42eff8bd17f26b545232e214ead3" sha1="b9ba9fdacf8b0f1fd3fe66b0ef373470ab889dde"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 10).bin" size="13909728" crc="a20de39b" md5="5a40b29718577f386486ee78168e4951" sha1="bc54ad96b935ba62e4f56cff4c9e49b3f98ef726"/>
+		<rom name="SleepWalker &amp; Pinball Fantasies (Europe) (Track 11).bin" size="22964928" crc="f0dc0a32" md5="16a7e1f70837e18d68b4babd1c277bd4" sha1="276daf8ca295a66c58f80a720e390ffaef1ba299"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260331-150553</version>
+		<version>20260401-133204</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11166,7 +11166,7 @@
 	</game>
 	<game name="Star Trek - 25th Anniversary (Germany)" id="2087" cloneofid="2088">
 		<description>Star Trek - 25th Anniversary (Germany)</description>
-		<rom name="Star Trek - 25th Anniversary (Germany).unh" size="524288" crc="cc553fc4" md5="cb71c5a6b20273f9875211df246e1444" sha1="5770230dc3ba79fe77923eb47e3c27fea3fe7dc9" sha256="4bba077105f0e4834394067e477d7fe07495b916f2a63623b66110c298f3978b"/>
+		<rom name="Star Trek - 25th Anniversary (Germany).unh" size="524288" crc="cc553fc4" md5="cb71c5a6b20273f9875211df246e1444" sha1="5770230dc3ba79fe77923eb47e3c27fea3fe7dc9" sha256="4bba077105f0e4834394067e477d7fe07495b916f2a63623b66110c298f3978b" status="verified"/>
 	</game>
 	<game name="Star Trek - 25th Anniversary (USA)" id="2088">
 		<description>Star Trek - 25th Anniversary (USA)</description>
@@ -20520,6 +20520,11 @@
 		<category>Games</category>
 		<description>Daodan Tank (China) (En) (Rev 1) (Pirate)</description>
 		<rom name="Daodan Tank (China) (En) (Rev 1) (Pirate).unh" size="40960" crc="3e128550" md5="fbca551e4e30684dbf10bf80217d692a" sha1="2926cbaa274b5cd30c4995ac83bf686b071aa2f2" sha256="20fbb94c26d304f17abe59ac1644d1468ce25dff0ab883c447336eac8d46b1c9"/>
+	</game>
+	<game name="Destiny of an Emperor (USA) (Capcom Town)" id="8483" cloneofid="0518">
+		<category>Games</category>
+		<description>Destiny of an Emperor (USA) (Capcom Town)</description>
+		<rom name="Destiny of an Emperor (USA) (Capcom Town).unh" size="262144" crc="9c3a67d4" md5="748e8d963339d7a9a0ee47909e918bf8" sha1="1ebc65210f9ef1f02cf5db47495161c9734db7bf" sha256="491898c145a4a9c2df63a6db452c01abd484f0e6059344405d51d9cc074860f6"/>
 	</game>
 	<game name="Dongfang Bubai - The Hyrule Fantasy (China) (Pirate)" id="8063" cloneofid="1253">
 		<category>Games</category>

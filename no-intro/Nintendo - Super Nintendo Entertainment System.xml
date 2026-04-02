@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260331-133805</version>
+		<version>20260401-131635</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19401,10 +19401,10 @@
 		<description>Battle Cars (World) (Evercade)</description>
 		<rom name="Battle Cars (World) (Evercade).sfc" size="1572864" crc="9cd27606" md5="16a20d2f340371dbb69b4101753d2bc3" sha1="7d733217fc281e6b905b8efdae5a722077da27ad" sha256="7cd63963a202d93e8a95c1956498567f98bf23decc532ef3f0905b49005ba4de"/>
 	</game>
-	<game name="Battletoads-Double Dragon (USA) (Retro-Bit)" id="4386" cloneofid="0204">
+	<game name="Battletoads-Double Dragon (USA, Europe) (Retro-Bit)" id="4386" cloneofid="0204">
 		<category>Games</category>
-		<description>Battletoads-Double Dragon (USA) (Retro-Bit)</description>
-		<rom name="Battletoads-Double Dragon (USA) (Retro-Bit).sfc" size="1048576" crc="f7433e03" md5="f827ffbda26a32617a32136d090050ce" sha1="b392d00f78e04a35e1c95c1eb5f11bdd0d843efa" sha256="3a43f01a766bc77c8155e84367853f531ccf22de85b4cdb0ca44e3c51b3bd250"/>
+		<description>Battletoads-Double Dragon (USA, Europe) (Retro-Bit)</description>
+		<rom name="Battletoads-Double Dragon (USA, Europe) (Retro-Bit).sfc" size="1048576" crc="f7433e03" md5="f827ffbda26a32617a32136d090050ce" sha1="b392d00f78e04a35e1c95c1eb5f11bdd0d843efa" sha256="3a43f01a766bc77c8155e84367853f531ccf22de85b4cdb0ca44e3c51b3bd250" status="verified"/>
 	</game>
 	<game name="Best of the Best - Championship Karate (Europe) (Beta 1)" id="4012" cloneofid="0221">
 		<category>Games</category>
@@ -19439,6 +19439,11 @@
 		<category>Games</category>
 		<description>Brawl Brothers (World) (Evercade)</description>
 		<rom name="Brawl Brothers (World) (Evercade).sfc" size="1572864" crc="93356b76" md5="eb1aa51369f39224f47507f562cf6f39" sha1="1abfa5da05fbc96d94cebf9143aba59107ad09f2" sha256="5105ad61b05ba5a128858b48946bb4e2bce1faa6e673d541af03b4a3f507cea8"/>
+	</game>
+	<game name="Breath of Fire (USA) (Capcom Town)" id="4581" cloneofid="0292">
+		<category>Games</category>
+		<description>Breath of Fire (USA) (Capcom Town)</description>
+		<rom name="Breath of Fire (USA) (Capcom Town).sfc" size="1572864" crc="45a4d2fd" md5="e2c9d685506d96e5d293a404f6ede2d6" sha1="64a64f94b7e4c0cffd7216e6ce6f97aaf4d4889d" sha256="88b560bffb06783154c1ee9231ec30ff5965b4e6f1d5329e0cd5bc36b88224a6"/>
 	</game>
 	<game name="Bubsy II (World) (Steam)" id="4266" cloneofid="0352">
 		<category>Games</category>
@@ -20072,6 +20077,11 @@
 		<description>Maerchen Adventure Cotton 100% (Japan) (Columbus Circle)</description>
 		<rom name="Maerchen Adventure Cotton 100% (Japan) (Columbus Circle).sfc" size="2097152" crc="f4c10a72" md5="6c1113314e024467a1deb4c54a417940" sha1="c4ffefff5307233caaa13dd8c81b22136eba0d1e" sha256="84e64c8e67b5228ded13493e75de51a7745dd6ca348b9efe25db83682a8f6b1a"/>
 	</game>
+	<game name="Magic Sword (USA) (Capcom Town)" id="4582" cloneofid="1519">
+		<category>Games</category>
+		<description>Magic Sword (USA) (Capcom Town)</description>
+		<rom name="Magic Sword (USA) (Capcom Town).sfc" size="1048576" crc="0a4ff7de" md5="6391b1dfc518f195d6403477f40888c7" sha1="2352f2b9423e439e4dee34ddd642e09150e806e4" sha256="60a148cfad6e5b63e6d902862db8372dd67d57b3a0d2e7b4113aae1308eaf1e0"/>
+	</game>
 	<game name="Magical Drop 2 (World) (Evercade)" id="4419" cloneofid="1523">
 		<category>Games</category>
 		<description>Magical Drop 2 (World) (Evercade)</description>
@@ -20449,6 +20459,11 @@
 		<category>Games</category>
 		<description>Return of Double Dragon (World) (Evercade)</description>
 		<rom name="Return of Double Dragon (World) (Evercade).sfc" size="1572864" crc="bb2684c3" md5="686da540762c1e280bd081dd396e7109" sha1="c26c6ae19fb0e9efd2c30b89c88e671180243c63" sha256="8091fd2ba2f758770b80eca3dd12d7047dc820a8923b83d45a06dc15e9ae039f"/>
+	</game>
+	<game name="Return of Double Dragon (World) (v1.1) (Evercade)" id="4580" cloneofid="2634">
+		<category>Games</category>
+		<description>Return of Double Dragon (World) (v1.1) (Evercade)</description>
+		<rom name="Return of Double Dragon (World) (v1.1) (Evercade).sfc" size="1572864" crc="3aa42970" md5="2786c5e1d18a0974b5a94e36cbaf9d3f" sha1="514c826da531fb2faa16528e2d20ee24d4bda5ae" sha256="3433aeed19865b1bc23c76df5eab0e7a7f438ca0d1a2e24c2bab7a2649c8ef45"/>
 	</game>
 	<game name="River City Girls Zero (World) (Switch) (RCG Translation)" id="4186" cloneofid="2314">
 		<category>Games</category>
@@ -20885,6 +20900,11 @@
 		<category>Preproduction</category>
 		<description>Super Ghouls 'N Ghosts (USA) (Beta)</description>
 		<rom name="Super Ghouls 'N Ghosts (USA) (Beta).sfc" size="2097152" crc="d923c321" md5="cd011399ae520b2a7e294e3ef3cda24c" sha1="f8f03f9c63300bf3ffa1d182632c17fc606bd569" sha256="85eb7071c890a09460ab4c4af1a881193467e1835ce5ea5eee0a19e6bdfb2bbf"/>
+	</game>
+	<game name="Super Ghouls 'N Ghosts (USA) (Capcom Town)" id="4583" cloneofid="2689">
+		<category>Games</category>
+		<description>Super Ghouls 'N Ghosts (USA) (Capcom Town)</description>
+		<rom name="Super Ghouls 'N Ghosts (USA) (Capcom Town).sfc" size="1048576" crc="0ae1b52f" md5="2ec154d3429237011cc87b9c7d5005b5" sha1="f241d6fea5d4d4ac43dcc9ef2d3d215033e8bc40" sha256="3bc106669c3594a7d3e5318a85f56bb9216aa7e3b1912dfddd57a2728a93b709"/>
 	</game>
 	<game name="Super Goal! 2 (World) (Evercade)" id="4428" cloneofid="2692">
 		<category>Games</category>
