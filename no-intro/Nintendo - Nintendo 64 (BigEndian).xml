@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260401-225051</version>
+		<version>20260402-142214</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1232,6 +1232,7 @@
 		<rom name="Extreme-G (Japan).z64" size="8388608" crc="750dc9a7" md5="a7cd65e5a4a8838d1cd452ba66e74df6" sha1="d9d6f7cc456b530fd3233ef2d8d6b9f845cee043" sha256="a4784b478525cef90be5576a1acfde1ca23bac254535952811f22385d5e03601" serial="NEGJ"/>
 	</game>
 	<game name="Extreme-G (USA)" id="0211" cloneofid="0209">
+		<category>Games</category>
 		<description>Extreme-G (USA)</description>
 		<rom name="Extreme-G (USA).z64" size="8388608" crc="04cb74ec" md5="3e660d3f991c0529e90bfec0244db31a" sha1="eb9b273431970a6124319a8fd125f0b2cacd8966" sha256="9e67bc574e40ef273759d587972655003d5213e625bfa68d3071dc9782d2071c" serial="NEGE"/>
 	</game>
@@ -1244,6 +1245,7 @@
 		<rom name="Extreme-G XG2 (Japan).z64" size="12582912" crc="7c8a36da" md5="f17884a2c16fb6fd11a74d65b1388b4a" sha1="94efb5d7247a075a9cc782d39b5e8af56d5f434f" sha256="5004c79552feb976b72aec4fa3e3eba2e19f7e7b6233be58acee9f7b7fb75cbe" serial="NG2J"/>
 	</game>
 	<game name="Extreme-G XG2 (USA)" id="0214" cloneofid="0212">
+		<category>Games</category>
 		<description>Extreme-G XG2 (USA)</description>
 		<rom name="Extreme-G XG2 (USA).z64" size="12582912" crc="81a4c28b" md5="44fe06ba3686c02a7988f27600a533da" sha1="ed0a50086ef9a89f5b445c20ab6f365165959630" sha256="0b5d9904cf45a92396396308506da0ae258afe44a902c96e50d0ff4969c67500" status="verified" serial="NG2E"/>
 	</game>
@@ -1264,6 +1266,7 @@
 		<rom name="F-1 World Grand Prix (Japan).z64" size="12582912" crc="f7bacbc3" md5="f248f0aae609111ba9dff9fd7afbc485" sha1="595bfa62ec34f7884ff46137c92771cde4d8d6fe" sha256="756bfcd4f823a5306520ad48d14d43b94392e5a8c922653328165b109f1be147" serial="NFWJ"/>
 	</game>
 	<game name="F-1 World Grand Prix (USA)" id="0219" cloneofid="0215">
+		<category>Games</category>
 		<description>F-1 World Grand Prix (USA)</description>
 		<rom name="F-1 World Grand Prix (USA).z64" size="12582912" crc="7dc9ef2c" md5="a81b1de864df3f4bb0903760be673f21" sha1="dd17545adc8fe2af2a713ab48c5f71801222edaf" sha256="b5470d259dfebcdf7910257479ff47792bcc83e82f6c70131d4363d7ecb6e7a0" status="verified" serial="NFWE"/>
 	</game>
@@ -1297,10 +1300,12 @@
 		<rom name="F-Zero X (USA) (LodgeNet).z64" size="16777216" crc="1c753f3f" md5="036ec306fc0a6bc3afd967ede4cf4a6f" sha1="2a7cd80ce10a654f3844c602268d66cdbe78230d"/>
 	</game>
 	<game name="F1 Pole Position 64 (Europe) (En,Fr,De)" id="0224">
+		<category>Games</category>
 		<description>F1 Pole Position 64 (Europe) (En,Fr,De)</description>
 		<rom name="F1 Pole Position 64 (Europe) (En,Fr,De).z64" size="8388608" crc="ed750623" md5="a6bd93ea576cdf8569f68171452f7e8a" sha1="685feb2e8615d5d50944093eb0552858d3e12583" sha256="25e201e65a7d8cd656846b51a39a3cf56a8c5cd4ecb6b577091f61de201ec59d" status="verified" serial="NHGP"/>
 	</game>
 	<game name="F1 Pole Position 64 (USA) (En,Fr,De)" id="0225" cloneofid="0224">
+		<category>Games</category>
 		<description>F1 Pole Position 64 (USA) (En,Fr,De)</description>
 		<rom name="F1 Pole Position 64 (USA) (En,Fr,De).z64" size="8388608" crc="30a24d89" md5="049db657f4223d949f56e9dc5b6a9180" sha1="6e6bdaefc9980f066cd2abc5fa7f29f2353ca8b1" sha256="c41c9679fee76a32aefa4e35e54eff2a90edd3e501c339c18496eb915c7b1736" serial="NHGE"/>
 	</game>
@@ -1333,26 +1338,32 @@
 		<rom name="FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).z64" size="12582912" crc="ae346df6" md5="3611779f29997267622cbc80e2d087cc" sha1="d8a0c9ef8ff258d061a639e7572d0d9e3038a895" serial="N8IJ"/>
 	</game>
 	<game name="FIFA 64 (Europe) (En,Fr,De)" id="0233">
+		<category>Games</category>
 		<description>FIFA 64 (Europe) (En,Fr,De)</description>
 		<rom name="FIFA 64 (Europe) (En,Fr,De).z64" size="8388608" crc="ae2583fb" md5="9a7006212947ee7648ee1d13162e55e0" sha1="eacdf23e27ec1e0639042bf03804222851e4f151" sha256="f00e3398a860839631b1e06ad26454029bf0d35b3fa27703fdbe58dc1e89051f" status="verified" serial="N7IP"/>
 	</game>
 	<game name="FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0231">
+		<category>Games</category>
 		<description>FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
 		<rom name="FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).z64" size="16777216" crc="6eae1e6e" md5="6432c622c05ea9cd3217e280ac2ce37c" sha1="07400c53aef501887f73ef6a45ce04fe2f170fb0" sha256="9598ee62390f249f02bd595c8610e5f81a21f71b7d1162f7d1014012ce799db0" status="verified" serial="N9FP"/>
 	</game>
 	<game name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0232" cloneofid="0231">
+		<category>Games</category>
 		<description>FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
 		<rom name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).z64" size="16777216" crc="6b2473a9" md5="148de3073727b9fd156f10afadd46864" sha1="735062e593715f128d3aad435de0e7a899aed127" serial="N9FE"/>
 	</game>
 	<game name="FIFA Soccer 64 (USA) (En,Fr,De)" id="0234" cloneofid="0233">
+		<category>Games</category>
 		<description>FIFA Soccer 64 (USA) (En,Fr,De)</description>
 		<rom name="FIFA Soccer 64 (USA) (En,Fr,De).z64" size="8388608" crc="57de7cab" md5="cc7c58a032aaba19e72ccbfa6b3eeff6" sha1="603c5bf64497dca86c4eb802f97f1c32e75a68a8" serial="N7IE"/>
 	</game>
 	<game name="Fighter Destiny 2 (USA)" id="0235">
+		<category>Games</category>
 		<description>Fighter Destiny 2 (USA)</description>
 		<rom name="Fighter Destiny 2 (USA).z64" size="16777216" crc="bb2563c6" md5="04dd2a319f4f5c22569b612cfdf9f00c" sha1="1dc12cfd908f56debcad6cf582bfdfc23a3ad725" serial="NFGE"/>
 	</game>
 	<game name="Fighters Destiny (Europe)" id="0236">
+		<category>Games</category>
 		<description>Fighters Destiny (Europe)</description>
 		<rom name="Fighters Destiny (Europe).z64" size="12582912" crc="c9225511" md5="ef5cb24ce3fe4e0f850901205437b574" sha1="2763731085a9d86d357d8fef775c2d21d3c9f2b4" serial="NKAP"/>
 	</game>
@@ -1365,10 +1376,12 @@
 		<rom name="Fighters Destiny (Germany).z64" size="12582912" crc="5052168c" md5="1cf379aca2397222af9f3dc5d8e3c444" sha1="aef7792324c262c956e91ee01f57bed0c36bd825" serial="NKAD"/>
 	</game>
 	<game name="Fighters Destiny (USA)" id="0239" cloneofid="0236">
+		<category>Games</category>
 		<description>Fighters Destiny (USA)</description>
 		<rom name="Fighters Destiny (USA).z64" size="12582912" crc="f45ea789" md5="d61d97a7658c419a25a9bac96b0a3df8" sha1="f87e1677602e38bac962424042e289ec58ec37b2" serial="NKAE"/>
 	</game>
 	<game name="Fighting Cup (Japan)" id="0240" cloneofid="0236">
+		<category>Games</category>
 		<description>Fighting Cup (Japan)</description>
 		<rom name="Fighting Cup (Japan).z64" size="12582912" crc="8a1c261e" md5="722c3a74a90305d6079a37994cebf5b2" sha1="011bdbaa1bc6d6a5540a749cf1a90bf6a35fd94b" serial="NKAJ"/>
 	</game>
@@ -1700,6 +1713,7 @@
 		<rom name="HSV Adventure Racing! (Australia).z64" size="16777216" crc="c0ba9440" md5="26f7d8f4640ebdfa823f84e5f89d62bf" sha1="8a9cdc2a7d98c354ba4b31cea644dbd5153880ae" status="verified" serial="NNSX"/>
 	</game>
 	<game name="Human Grand Prix - The New Generation (Japan)" id="0295" cloneofid="0224">
+		<category>Games</category>
 		<description>Human Grand Prix - The New Generation (Japan)</description>
 		<rom name="Human Grand Prix - The New Generation (Japan).z64" size="8388608" crc="31e102e3" md5="97e706ed9cc6f30708ffdc187c85d59f" sha1="b8dfe78c7abf1e33edad0b5ecec1c9f1f3c8b576" serial="NHGJ"/>
 	</game>
@@ -1990,6 +2004,7 @@
 		<rom name="John Romero's Daikatana (USA).z64" size="16777216" crc="494950c6" md5="5b4c268422469f50b94779e655f2b798" sha1="08709013d512f3a2bed65b98ab451ec8b839d3b4" serial="NDWE"/>
 	</game>
 	<game name="Kakutou Denshou - F-Cup Maniax (Japan)" id="0352" cloneofid="0235">
+		<category>Games</category>
 		<description>Kakutou Denshou - F-Cup Maniax (Japan)</description>
 		<rom name="Kakutou Denshou - F-Cup Maniax (Japan).z64" size="16777216" crc="db40a155" md5="dff0efe2b35fcde506d21b0c0bd373a5" sha1="f88f541d5913c99a9eac5ca4162e65b8a3828725" serial="NFYJ"/>
 	</game>

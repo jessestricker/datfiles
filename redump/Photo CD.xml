@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (256) (2026-04-02 01-19-47)</description>
-		<version>2026-04-02 01-19-47</version>
-		<date>2026-04-02 01-19-47</date>
+		<description>Photo CD - Discs (258) (2026-04-03 21-52-06)</description>
+		<version>2026-04-03 21-52-06</version>
+		<date>2026-04-03 21-52-06</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3186,5 +3186,19 @@
 		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 1).bin" size="710304" crc="1359a91e" md5="a1ed4111421d1d5f2ce5adbf5cce4c7e" sha1="215be2ae8059605654164aa758fb85965de9cb00"/>
 		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 2).bin" size="165583152" crc="3388d0ec" md5="6098a2791ee5a667a01b81f772aa89c1" sha1="9b2d4f253041feac7c45cc1f888111a43d533ba9"/>
 		<rom name="Gamera - The Guardian of the Universe (Japan) (Track 3).bin" size="94795008" crc="f219e1e9" md5="dcb402d1cc5705d45339df0363b746c1" sha1="ffe88bb16f482154379e228ddbe58636b4bd97e6"/>
+	</game>
+	<game name="Perfume - Mariko Morimoto (Japan)">
+		<category>Multimedia</category>
+		<description>Perfume - Mariko Morimoto (Japan)</description>
+		<rom name="Perfume - Mariko Morimoto (Japan).cue" size="391" crc="9d6943c1" md5="1cf150858e533dfe76f8f37c737e3b8b" sha1="5c6b83ddaf0c720ca9fbc54d265aadd84e279977"/>
+		<rom name="Perfume - Mariko Morimoto (Japan) (Track 1).bin" size="710304" crc="193081d9" md5="7b146272b653de096cf905bd345a8553" sha1="dcda1cb3723694a393e1cd51582f94f6c37d306c"/>
+		<rom name="Perfume - Mariko Morimoto (Japan) (Track 2).bin" size="118307952" crc="da564dae" md5="b1ae8b2f0604e877ddcc79cdb1f6514b" sha1="931c62ccfafc1c49448fc168044134d441e02ccf"/>
+		<rom name="Perfume - Mariko Morimoto (Japan) (Track 3).bin" size="111395424" crc="c1bb2a7e" md5="7fe21b1b762356993b08b700061dc50d" sha1="3093134d8cfa1e7ac6ec691f809bc883dc21b26c"/>
+	</game>
+	<game name="Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany)">
+		<category>Multimedia</category>
+		<description>Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany)</description>
+		<rom name="Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany).cue" size="126" crc="abb71d13" md5="defce71564f3c5213fe3b9a71c7d40ef" sha1="d6afe3e453235d45d278ae67fb8ec66dc570f03c"/>
+		<rom name="Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany).bin" size="703944192" crc="0b9a86ac" md5="4c39e2f86071055e9dddf268383fa093" sha1="a0052790d98c07e7c633bb8e53300b50acd46cb8"/>
 	</game>
 </datafile>

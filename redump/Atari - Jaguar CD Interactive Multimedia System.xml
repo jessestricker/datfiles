@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System</name>
-		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (37) (2026-03-26 22-12-10)</description>
-		<version>2026-03-26 22-12-10</version>
-		<date>2026-03-26 22-12-10</date>
+		<description>Atari - Jaguar CD Interactive Multimedia System - Discs (38) (2026-04-03 15-50-49)</description>
+		<version>2026-04-03 15-50-49</version>
+		<date>2026-04-03 15-50-49</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -636,5 +636,47 @@
 		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 16).bin" size="1954512" crc="a75a8aa2" md5="e92c8bf3668c7a60c5e0641295bb3b84" sha1="7c5f6253d99d0b08044cb7da0fcedb6d1a483697"/>
 		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 17).bin" size="24082128" crc="8e168b9f" md5="cec7bdbaffe448ef75eb46362035eede" sha1="07afa21f83b55d6270018bf55e504ad8fd1c271c"/>
 		<rom name="Varuna's Forces (USA) (Disc 2) (Team Bio's, Interviews &amp; Station Recon Demo) (Unl) (Track 18).bin" size="1406496" crc="247e76da" md5="271bd7698567c8dcd6eaedd153d0caf6" sha1="cd4c26660d161e40bf4dd3fe7f4a1f0ed078c136"/>
+	</game>
+	<game name="Ocean Depths (Germany) (Unl)">
+		<category>Games</category>
+		<description>Ocean Depths (Germany) (Unl)</description>
+		<rom name="Ocean Depths (Germany) (Unl).cue" size="3732" crc="0b7a087a" md5="a3d34eba4f6066c7c89590e69931d6e5" sha1="384dcac6c66f73635c4c19fd2d11396cd8970937"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 01).bin" size="3854928" crc="da542e6f" md5="cfa828b085634faad5bae23729488a0b" sha1="e908dd57e9f7b33046988d6580fc032f2542cc5d"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 02).bin" size="1063104" crc="469a1352" md5="27f756e9d107fed7b8d782eb585b760a" sha1="6a3f65e8f38748febacc8a274ac8113208f416c2"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 03).bin" size="1858080" crc="2135541e" md5="ff129f0b99b59b0d459bcfeddbe83dca" sha1="1efe8e9cfd0d7940090a0c79e5d480c2d20160e4"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 04).bin" size="1858080" crc="b6ad376d" md5="6a29907a391331a5962b21b6d0b33252" sha1="29d921c96565287a0d118411c70dc6e29f479d86"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 05).bin" size="1858080" crc="0a5b3a7e" md5="8eb76c849be107cc5180cb26c2fff493" sha1="d868ada73b4520813fb6be787abc20063b8a9eab"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 06).bin" size="1858080" crc="0735b4e5" md5="0e92617979769bc78a58b6f285baa010" sha1="4d276784961ff19eee5568b4c4507ba8d3445c6d"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 07).bin" size="1063104" crc="2f5df754" md5="6fe84c8a205a7d6a827f08786945a613" sha1="41f8d6e0e2453e0b24085f67a04dff3720e98bdc"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 08).bin" size="1063104" crc="0103b6d7" md5="f07ad9f1269a353f492789bc1c1cc2fd" sha1="989b9707ba415674f3fc548a0605b49e264c7d11"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 09).bin" size="1063104" crc="f3449a98" md5="6215773196bd30dd14c7819a6be27883" sha1="826a0d338362660d1d91bab09226982eb2c9480c"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 10).bin" size="1063104" crc="30cc1180" md5="7ada5aafb046f4c1594b43d43a4673a3" sha1="e75aa52c6d7827e66192eca851b869147c93c7e7"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 11).bin" size="1063104" crc="f82d9c86" md5="af48eb03ece0068beeb68c775c86dc50" sha1="ef0a6b2bdff30e416c887ed953729fa73e92a644"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 12).bin" size="1063104" crc="da83f5b2" md5="72b9b9dc39aefa25dae820c739628308" sha1="62c66ca59e38f034e7b1fca624d1c336a0600f3b"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 13).bin" size="1063104" crc="888a9718" md5="1c141134ad9e00d68abe0d37bfbba56b" sha1="f50ab918030274f4419326c65336bb562f5a4005"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 14).bin" size="1063104" crc="d7ece1da" md5="93bd4dd439ac7a45b3d0e627a78f968a" sha1="34b583f5ab8aaa0f79409fe089e8dfc2efd718b6"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 15).bin" size="1063104" crc="8499a056" md5="588db8e1095c7a3a0f0eb7643631ec12" sha1="d74897f6e638fc896eec880f1739af03695c4528"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 16).bin" size="1063104" crc="ead27614" md5="a4f87ac4f55f5d982eb0baa2990acbab" sha1="e2fed21441cec485a120a65e63f61f96d193aab3"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 17).bin" size="1063104" crc="d4638cd8" md5="0d040248a0ee1d48094b2e3b885e9b1a" sha1="07155d7023da316a11acf8a6dfd614adf1d2a518"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 18).bin" size="1063104" crc="80eab650" md5="6cb036afb1ddd1ef0cbb99360191868d" sha1="574e130d2a1041ecc56dad71a0801819ea06feb4"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 19).bin" size="1063104" crc="3a84f837" md5="e7825c7c20087b27042d1a3d2d5c97e2" sha1="143d9cbb0d7322cc3050015273b41498cc9fe1da"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 20).bin" size="1063104" crc="9a20e204" md5="78ee68cdda3e9916cde9ad4cbcc1d00a" sha1="d9e476bca01e31090e574266e44d3d1dc7dcaccd"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 21).bin" size="1063104" crc="b63d6894" md5="5e9096af1ad44c4023489ae7a3e6dd3b" sha1="8e9c4bae2248dd8b06961ade879ac8787176de48"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 22).bin" size="1063104" crc="f3ea69db" md5="4ccf886071c96a6d8015877c668d8107" sha1="533ea058d85975f894533315f031e22f7d7dc456"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 23).bin" size="1063104" crc="405ac9c4" md5="6105824c5706eae950bb3a32acbb907f" sha1="12f6966f6e57901def5cea9e0495a7ea2e01a8e0"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 24).bin" size="1063104" crc="49082755" md5="0a2b53525f21c92887ef014c09671a72" sha1="ae941354a6696f71a8cfaf1fd04910b6e89c799d"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 25).bin" size="1063104" crc="42feb481" md5="a80638fbfe268ca56ae7eb0e6739a3e6" sha1="fdbd522d9d47d5d064af160223a8beff765366bc"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 26).bin" size="1063104" crc="e9b5afe2" md5="a37497181ab789766496a8f2fe6e1d20" sha1="ec14aee93fee114149977add3cd163214d4bac8e"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 27).bin" size="1063104" crc="645a3e4a" md5="ab1a3de9eb8c302317c5927ca6a9de08" sha1="39edadb45b572b1d81b21d1b08dc93d43dbbed4a"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 28).bin" size="1063104" crc="5e43269d" md5="b8f7405d7520cd84bc2b106e784d5332" sha1="23f11324b4bfed4246d2cd6411bdeef7fd7d6f41"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 29).bin" size="1063104" crc="14b81c96" md5="4b514ec8dc9b69ba0ca575ec300c97d3" sha1="f4668d47bc08ccec16041ecd97e5f22a843af7e0"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 30).bin" size="1063104" crc="7d8b0646" md5="51f0df652df423831c84c2bf8010b111" sha1="72314e14a5659e0d94dc957d5a4298d785db9cb5"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 31).bin" size="1063104" crc="c4544d89" md5="087b44b6d84d4957309c785d158397bf" sha1="17d71fe9ada9f8e7ad458b4d75dc0b3d7b06701a"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 32).bin" size="1063104" crc="60d9aadc" md5="3ef82beac6b9bd1c92a7344fbb4fb346" sha1="f1b9c00c837915f862211c18c2a0711bd8f4b1c5"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 33).bin" size="1063104" crc="e525c141" md5="ef9ee224c0c834333bb38399d791733e" sha1="444af4b42894b3557a25aead02a3b295e7730d12"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 34).bin" size="1063104" crc="01a3beaf" md5="aeb611be19841f18af148e80148c83f3" sha1="b34c30820e62679f84f8cb03ec4a62b770976137"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 35).bin" size="1063104" crc="99d5aea8" md5="7cab49234cc32bf847afdbe1729df4d8" sha1="a8b1d9100071d878c5104f12fe3f92e30e2a3f36"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 36).bin" size="1063104" crc="e5005c11" md5="e9970724e7ace2a9880f35c9d8826654" sha1="b4763decd73ceecdd4be21e5a81edd48a5baacca"/>
+		<rom name="Ocean Depths (Germany) (Unl) (Track 37).bin" size="1053696" crc="3bf50254" md5="f2acd1511eaace394256d34c5f1a81fa" sha1="a32e12fba7f76cae8cafb4115fd4b67f1d1541d6"/>
 	</game>
 </datafile>

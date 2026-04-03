@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1509) (2026-03-25 23-25-11)</description>
-		<version>2026-03-25 23-25-11</version>
-		<date>2026-03-25 23-25-11</date>
+		<description>Sega - Dreamcast - Discs (1509) (2026-04-03 11-19-00)</description>
+		<version>2026-04-03 11-19-00</version>
+		<date>2026-04-03 11-19-00</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -4071,13 +4071,13 @@
 		<rom name="ECW Anarchy Rulz (USA) (Track 4).bin" size="1237152" crc="95557332" md5="cb9f913312fff0782cd8c87568bcc047" sha1="cf9a3476b4886212c18868190f98d301f5205a09"/>
 		<rom name="ECW Anarchy Rulz (USA) (Track 5).bin" size="718644192" crc="0e857cdf" md5="f9b7c1d799c5fa47d0b0da75f64b2ff8" sha1="10a8145bd43b1d421688d6889ca418f68cd5d67e"/>
 	</game>
-	<game name="Blue Stinger (Germany) (En,De)">
+	<game name="Blue Stinger (Germany)">
 		<category>Games</category>
-		<description>Blue Stinger (Germany) (En,De)</description>
-		<rom name="Blue Stinger (Germany) (En,De).cue" size="384" crc="eee7407d" md5="8ee12044ade183bf2729074bfad1c2fc" sha1="bdf33d9f3ba0542c4d8b630c10bf7093a6c5257f"/>
-		<rom name="Blue Stinger (Germany) (En,De) (Track 1).bin" size="20422416" crc="006cf2d6" md5="14e6e9b23c35cad961fe7d19ca37adc2" sha1="9951ac3641fb3e8551ef572ae56abf79e0d8f522"/>
-		<rom name="Blue Stinger (Germany) (En,De) (Track 2).bin" size="2824752" crc="38d87684" md5="a258ca94a44d5be3c528eb999e99df35" sha1="a9ded934e694c310ff846cf1229c5da8edbd9ccf"/>
-		<rom name="Blue Stinger (Germany) (En,De) (Track 3).bin" size="1185760800" crc="e747bd9f" md5="0498d9b8709a34020080994c40ddf901" sha1="3ae1c4a610fa4f9c0ba47eb5bfb4fd2bb686c294"/>
+		<description>Blue Stinger (Germany)</description>
+		<rom name="Blue Stinger (Germany).cue" size="360" crc="d196710b" md5="a4295af8efee033efc52a7878cf1bd51" sha1="1ccfb3eaa40e99ad8b7357a4ed51182e08802d90"/>
+		<rom name="Blue Stinger (Germany) (Track 1).bin" size="20422416" crc="006cf2d6" md5="14e6e9b23c35cad961fe7d19ca37adc2" sha1="9951ac3641fb3e8551ef572ae56abf79e0d8f522"/>
+		<rom name="Blue Stinger (Germany) (Track 2).bin" size="2824752" crc="38d87684" md5="a258ca94a44d5be3c528eb999e99df35" sha1="a9ded934e694c310ff846cf1229c5da8edbd9ccf"/>
+		<rom name="Blue Stinger (Germany) (Track 3).bin" size="1185760800" crc="e747bd9f" md5="0498d9b8709a34020080994c40ddf901" sha1="3ae1c4a610fa4f9c0ba47eb5bfb4fd2bb686c294"/>
 	</game>
 	<game name="Ready 2 Rumble Boxing (Europe) (En,Fr,De)">
 		<category>Games</category>
