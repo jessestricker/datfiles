@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260401-133204</version>
+		<version>20260403-144347</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20722,6 +20722,11 @@
 		<description>Kyuukyoku Harikiri Stadium (Japan) (Beta)</description>
 		<rom name="Kyuukyoku Harikiri Stadium (Japan) (Beta).nes" size="262160" crc="ae644e81" md5="b9b391eca0ead5a60d2a600fea2501eb" sha1="d1c863a65c748c6657d3035647676311a0336b8b" sha256="63d7097cb5701aaf02ef261b632f0aa7756b8fe6ccd8faa9642ed79943598293" header="4E 45 53 1A 08 10 02 58 00 00 70 00 00 00 00 01"/>
 	</game>
+	<game name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)" id="8486" cloneofid="2377">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage).nes" size="262160" crc="12754b0c" md5="eb35b4627f0feebfd390e7eaeac809aa" sha1="f42a1ca9822f7a2c9fd1f5e84df4fa3d7650cae5" sha256="d1e0a821dbb5e09596f56736c8b4cb41930090f9aa9c9d0190182664f1477836" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Life Force (Taiwan) (En) (Pirate)" id="8035" cloneofid="1263">
 		<category>Games</category>
 		<description>Life Force (Taiwan) (En) (Pirate)</description>
@@ -21142,6 +21147,16 @@
 		<description>Tiaowu Tianshi (China) (Pirate)</description>
 		<rom name="Tiaowu Tianshi (China) (Pirate).nes" size="262160" crc="853d8eb1" md5="8071786057e1b124b272e21a714caf72" sha1="f956de90d89400ed5709cffecec24e929d5d0c4a" sha256="14347826ac64b9ba43b428f8b900c695603da07933ea3e11999b597768e396f0" header="4E 45 53 1A 10 00 60 08 02 00 07 07 03 00 00 01"/>
 	</game>
+	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484">
+		<category>Games</category>
+		<description>Tiger-Heli (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (USA) (Toaplan Arcade Garage).nes" size="65552" crc="3ff414d9" md5="e8a5b37d30f78f6378b5b66f5c7b2ea5" sha1="cf92e244697adc3af221dd07b458c5cd421b7968" sha256="76f75009f3f78c0f9e09b8f5557421ab1582eb3282306b567c2eb2c5a1569d33" header="4E 45 53 1A 02 04 30 08 20 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Tiger-Heli (Japan) (Toaplan Arcade Garage)" id="8485" cloneofid="2720">
+		<category>Games</category>
+		<description>Tiger-Heli (Japan) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (Japan) (Toaplan Arcade Garage).nes" size="65680" crc="f256136d" md5="b84cc6ca8aceb8abcdd6c77096bf8959" sha1="f1f96f531590c11f2336753d44f4250966a8dc17" sha256="213d7da74734b60ac0fc4aafdf60c790e94e86c3e9b794fe05d8f461f43e96ef" header="4E 45 53 1A 02 04 30 08 20 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Time Diver - Eon Man (Japan) (En) (Proto)" id="8018" cloneofid="2304">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -21162,6 +21177,11 @@
 		<category>Games</category>
 		<description>Tom &amp; Jerry (Asia) (Ja) (Pirate)</description>
 		<rom name="Tom &amp; Jerry (Asia) (Ja) (Pirate).nes" size="262160" crc="dda291f8" md5="c062c54865c2265ed70e386f38421d76" sha1="a1f1845c28e7d48c2bdeb79aad32859941067a56" sha256="17034973a622d37902508a8e3e5a6542350ce61b3bb5a03ed3ea732fd6f98262" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Twin Cobra (USA) (Toaplan Arcade Garage)" id="8487" cloneofid="2377">
+		<category>Games</category>
+		<description>Twin Cobra (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra (USA) (Toaplan Arcade Garage).nes" size="262160" crc="b54d3e81" md5="f39ce308dcd3d1a84116b03270d1da11" sha1="92874ae97701084125fd063aaa7cac71e66b9bb4" sha256="918f0c6763decf71f1cab9390300d43743cc79a2413058450737058f1fc6c724" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="TwinBee (India) (En) (Pirate)" id="8157" cloneofid="2382">
 		<category>Games</category>

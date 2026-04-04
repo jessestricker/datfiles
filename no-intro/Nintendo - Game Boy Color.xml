@@ -4,8 +4,8 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260402-131712</version>
-		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260403-115353</version>
+		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -1707,10 +1707,6 @@
 		<description>Dragon Ball Z Gedou 2005 (Taiwan) (Unl)</description>
 		<rom name="Dragon Ball Z Gedou 2005 (Taiwan) (Unl).gbc" size="2097152" crc="d1c48145" md5="05e5ecc94ef05260ebba60576ca45ba0" sha1="8637ed614dc94e846c32adbc723e09a06b3da3ce" sha256="496a066c6e4d4f7651826e9deaef61a142b122b3ceb55ba8095b23592cd9d0b3"/>
 	</game>
-	<game name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible)" id="0293">
-		<description>Dragon Dance (USA) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="0602dbe1" md5="0c6a0f2add131ca4afd24763fe3c3a04" sha1="a28bfabc4db62ad5aa6bfe29114b0878429586cc"/>
-	</game>
 	<game name="Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)" id="1599" cloneofid="0293">
 		<description>Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="8b0dd3b2" md5="e027bb984964e07be2feeaa712715987" sha1="76de183317c952276dbdad9d8f0592493652f31e" sha256="847b2ee82c0638e01e0c93325dc6e4c4ca2c167eabeae548d52ba84eb14be257"/>
@@ -1722,6 +1718,10 @@
 	<game name="Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible)" id="1681" cloneofid="0293">
 		<description>Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="9a90adbe" md5="35168b96a50352217130116bd67cdcc1" sha1="5fc97752a98a18b7e2db238d1ab88c6b09e34602" sha256="0dc0a8e74f492f1eddad50693686426e6273c581db5027e1d7ef5d4ba9298d1e"/>
+	</game>
+	<game name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible)" id="0293">
+		<description>Dragon Dance (USA) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="0602dbe1" md5="0c6a0f2add131ca4afd24763fe3c3a04" sha1="a28bfabc4db62ad5aa6bfe29114b0878429586cc"/>
 	</game>
 	<game name="Dragon Quest I &amp; II (Japan) (SGB Enhanced) (GB Compatible)" id="0294" cloneofid="0304">
 		<description>Dragon Quest I &amp; II (Japan) (SGB Enhanced) (GB Compatible)</description>

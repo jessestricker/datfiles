@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260331-133230</version>
+		<version>20260403-141153</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5184,6 +5184,16 @@
 		<description>Hellfire (USA) (Beta)</description>
 		<rom name="Hellfire (USA) (Beta).md" size="524288" crc="772cbd90" md5="3f51ae5277f9adcca4700d878034126c" sha1="97452c8c90ca9f180280138eb41c8da52fdfb32d" sha256="292fde4cfc4b98a88db9348a7ef69c104c6045dab883c768b8410cf38f0552df" serial="T-35036-00"/>
 	</game>
+	<game name="Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)" id="3781" cloneofid="0592">
+		<category>Games</category>
+		<description>Hellfire (USA) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)</description>
+		<rom name="Hellfire (USA) (Genesis Mini 2, Mega Drive Mini 2, Toaplan Arcade Garage).md" size="524288" crc="7e805b9a" md5="d87387f76cd6c0535df3542eaf08101e" sha1="ef26978ad337f8b52b1417987e80e7249753ee5d" sha256="cb839e87f36aa595b08a74b174e8144be2e425d39a449a5e2ee3ebae55d118b4"/>
+	</game>
+	<game name="Hellfire (Japan) (En) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)" id="3782" cloneofid="0592">
+		<category>Games</category>
+		<description>Hellfire (Japan) (En) (Mega Drive Mini 2, Genesis Mini 2, Toaplan Arcade Garage)</description>
+		<rom name="Hellfire (Japan) (En) (Genesis Mini 2, Mega Drive Mini 2, Toaplan Arcade Garage).md" size="524288" crc="26c6af9e" md5="bca6e6109e0d96329c49d9bb0a60b135" sha1="318d2f4518c16fa03ae8a78ee754ad74c07c2686" sha256="8b14a507c0a45e52cd7f3691e9da776f04d770d0bc3125cb8e92fdc1166c20f7"/>
+	</game>
 	<game name="Hercules 2 (Taiwan) (En) (Unl)" id="1803">
 		<category>Games</category>
 		<description>Hercules 2 (Taiwan) (En) (Unl)</description>
@@ -6166,6 +6176,11 @@
 		<category>Games</category>
 		<description>Kyuukyoku Tiger (Japan) (En)</description>
 		<rom name="Kyuukyoku Tiger (Japan) (En).md" size="655360" crc="61276d21" md5="c7a3369029237556a342532ffc786a18" sha1="cbe207732c6ce5e5e5846e44847ce902315f2bc3" sha256="78d5520290735d91f37b18741b3e66f2d6bdc18d8301b5a9e5afaeb0b09e41db" serial="T-24033-00"/>
+	</game>
+	<game name="Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage)" id="3780" cloneofid="1467">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (En) (Toaplan Arcade Garage).md" size="655360" crc="157332b6" md5="e1c2f7e606d71ada3816ac8c06e4bd03" sha1="bcbfe717dc6fd3c1b3f59e9529d7ab2fd95c5f82" sha256="67ce802e240fbdc081661b4e11fa007dfb1721ee3af622d0caef83320e4623a3"/>
 	</game>
 	<game name="La Russa Baseball 95 (USA, Australia)" id="0718">
 		<category>Games</category>
@@ -13231,6 +13246,11 @@
 		<category>Games</category>
 		<description>Twin Cobra - Desert Attack Helicopter (USA)</description>
 		<rom name="Twin Cobra - Desert Attack Helicopter (USA).md" size="655360" crc="2c708248" md5="0006c0c0db9b334b79f1ed20eeb8b9bf" sha1="c386c617703a3f5278d24b310c6bc15e3e180bdf" sha256="23c1dd768c455067ad614c6c054db59176b0bda0f6531fff56da023e224cd512" serial="MK-1128"/>
+	</game>
+	<game name="Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage)" id="3779" cloneofid="1467">
+		<category>Games</category>
+		<description>Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra - Desert Attack Helicopter (USA) (Toaplan Arcade Garage).md" size="655360" crc="5840ffaa" md5="0f431b5461c2d753cbfbfc4f34617cf1" sha1="0c435a6a176ae4a27649302013cb62f39df09e8b" sha256="7338f41707146eec9f9867df5bc4ac66328ac4878878498eed0f28c8fdb5de7c"/>
 	</game>
 	<game name="Twin Hawk (Japan, Europe) (En)" id="0338">
 		<category>Games</category>

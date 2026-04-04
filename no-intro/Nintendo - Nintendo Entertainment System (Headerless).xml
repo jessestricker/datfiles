@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260401-133204</version>
+		<version>20260403-144347</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20741,6 +20741,11 @@
 		<description>Kyuukyoku Harikiri Stadium (Japan) (Beta)</description>
 		<rom name="Kyuukyoku Harikiri Stadium (Japan) (Beta).unh" size="262144" crc="79e99375" md5="cc54b552aad26ae2fe7e9a3c391f48b9" sha1="55f8888a554e72e559fbe611b4583ecb0d135011" sha256="6adc950fd1601532ccc97fc812bd7f0d60874bfb5528b32925642939fbb961d9"/>
 	</game>
+	<game name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)" id="8486" cloneofid="2377">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (Toaplan Arcade Garage).unh" size="262144" crc="a9cca936" md5="17a88e49866e4b9eb09b98e92ec94e42" sha1="4de5fb01c506059f7aa3c025553839f4ca401074" sha256="0c3794249337833db5dcda463ca00de93a2c87059f92bd11b2c26935f2662628"/>
+	</game>
 	<game name="Life Force (Taiwan) (En) (Pirate)" id="8035" cloneofid="1263">
 		<category>Games</category>
 		<description>Life Force (Taiwan) (En) (Pirate)</description>
@@ -21162,6 +21167,16 @@
 		<description>Tiaowu Tianshi (China) (Pirate)</description>
 		<rom name="Tiaowu Tianshi (China) (Pirate).unh" size="262144" crc="dc019f2c" md5="e1e264c792592a5b699c2bca5435e2f7" sha1="4e3ea6662374e15c830453723aa3f301e1087f3e" sha256="c37218b9bb8daa991593038da27a5a112396e747e073570a60032c0d565fc35a"/>
 	</game>
+	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484">
+		<category>Games</category>
+		<description>Tiger-Heli (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (USA) (Toaplan Arcade Garage).unh" size="65536" crc="c83c57d5" md5="b4b20522172211f104d47bc94447297e" sha1="2cfe3af739596321e9750ff33716e28e5d88df64" sha256="52a77737150d8dcc217ddc7f0962309dcb6fa3036b3ae641aef72e7200b621cc"/>
+	</game>
+	<game name="Tiger-Heli (Japan) (Toaplan Arcade Garage)" id="8485" cloneofid="2720">
+		<category>Games</category>
+		<description>Tiger-Heli (Japan) (Toaplan Arcade Garage)</description>
+		<rom name="Tiger-Heli (Japan) (Toaplan Arcade Garage).unh" size="65664" crc="0ad890ba" md5="64320f592b10a927ead7d9788672aca5" sha1="f041db3cd5bcf268aeb59e67b81a737044506813" sha256="df60bfc832b7e76e5abae9c7a48b7b5375d488112141be3c06c77d9d3e49d4cb"/>
+	</game>
 	<game name="Time Diver - Eon Man (Japan) (En) (Proto)" id="8018" cloneofid="2304">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -21182,6 +21197,11 @@
 		<category>Games</category>
 		<description>Tom &amp; Jerry (Asia) (Ja) (Pirate)</description>
 		<rom name="Tom &amp; Jerry (Asia) (Ja) (Pirate).unh" size="262144" crc="661b73c2" md5="1ef1bba055d5de798631a23d17e3e05a" sha1="0d3ff7ffa30bea14aa657c626fe6393d55ee7cce" sha256="aa7fc1d036f775daf6714798f67fb484d399b5f3bf8e376de68cd7be85d6fc6c"/>
+	</game>
+	<game name="Twin Cobra (USA) (Toaplan Arcade Garage)" id="8487" cloneofid="2377">
+		<category>Games</category>
+		<description>Twin Cobra (USA) (Toaplan Arcade Garage)</description>
+		<rom name="Twin Cobra (USA) (Toaplan Arcade Garage).unh" size="262144" crc="0ef4dcbb" md5="139ad6e9310191165940a931b1cd77b6" sha1="f654eed31d398a6a3c7aa9fcec20f1770fc668b7" sha256="680109c4ad87b9ceff6696b8b35e33aed22b558b0793966f738e7272a127ae71"/>
 	</game>
 	<game name="TwinBee (India) (En) (Pirate)" id="8157" cloneofid="2382">
 		<category>Games</category>

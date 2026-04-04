@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Palm</name>
-		<description>Palm - Discs (158) (2026-03-25 23-39-08)</description>
-		<version>2026-03-25 23-39-08</version>
-		<date>2026-03-25 23-39-08</date>
+		<description>Palm - Discs (159) (2026-04-04 02-22-51)</description>
+		<version>2026-04-04 02-22-51</version>
+		<date>2026-04-04 02-22-51</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -957,5 +957,11 @@
 		<description>Sega Swirl (USA)</description>
 		<rom name="Sega Swirl (USA).cue" size="82" crc="a71274ca" md5="e296f82c266137ed69f6658e94b32cd2" sha1="bf0e3e7896502eeca08ad3f301e4c44f424f770a"/>
 		<rom name="Sega Swirl (USA).bin" size="3655008" crc="538d2e0d" md5="6162874d3b7171ebd0c0c5b3752e7c01" sha1="572ce6d38e676e7197b5ab472d9365c1f88b124c"/>
+	</game>
+	<game name="Programari en catala - Perque el teu ordinador parli com tu (Spain)">
+		<category>Multimedia</category>
+		<description>Programari en catala - Perque el teu ordinador parli com tu (Spain)</description>
+		<rom name="Programari en catala - Perque el teu ordinador parli com tu (Spain).cue" size="133" crc="710f1ada" md5="19f153cf199d113d92ca7164a3f22ef6" sha1="76867fc619055da84363f5c6bb422c746f4135df"/>
+		<rom name="Programari en catala - Perque el teu ordinador parli com tu (Spain).bin" size="803520816" crc="394d211f" md5="00cb95d0f079f06c8e031c9fb18cd243" sha1="b6c5daf08dcce00816fffb86d42078ac4530536e"/>
 	</game>
 </datafile>
