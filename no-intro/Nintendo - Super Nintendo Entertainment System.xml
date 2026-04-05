@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260403-105632</version>
+		<version>20260404-132146</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19785,6 +19785,11 @@
 		<category>Games</category>
 		<description>Hercules (USA) (Pirate)</description>
 		<rom name="Hercules (USA) (Pirate).sfc" size="2097152" crc="45874d3d" md5="ca0b233e0b944c0ecd9d7cf223b74322" sha1="3e5d077c4ca1bb85f13cf12cc4432569b069b454" sha256="1559bf1b4300003552aecde1673607b467917a035d9ba504f020982ba4379da3"/>
+	</game>
+	<game name="Hong Kong 97 (Japan) (En,Ja,Zh-Hant) (Unl)" id="4584">
+		<category>Games</category>
+		<description>Hong Kong 97 (Japan) (En,Ja,Zh-Hant) (Unl)</description>
+		<rom name="Hong Kong 97 (Japan) (En,Ja,Zh-Hant) (Unl).sfc" size="524800" crc="a6c42c06" md5="fbfe8d78b2668f7e34b1745ff4caa0e2" sha1="d62896e9d574873a0284f53162311a5b887e98c3" sha256="e3bfddef7bd5a13f0e6be1443d415de71a183ad9048aaabf0e1b5084bd0194ba"/>
 	</game>
 	<game name="Hori GameCube Controller Test (Japan) (En)" id="4567">
 		<category>Applications</category>

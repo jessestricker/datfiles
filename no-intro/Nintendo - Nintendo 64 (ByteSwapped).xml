@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260402-142214</version>
+		<version>20260404-073613</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1287,6 +1287,7 @@
 		<rom name="F-Zero X (Japan).v64" size="16777216" crc="927387b6" md5="60297b40a16ac569dee8659062b08b7f" sha1="aad380ce474a19d3823aeaaad3594ab0edd47f97" status="verified" serial="CFZJ"/>
 	</game>
 	<game name="F-Zero X (USA)" id="0223" cloneofid="0221">
+		<category>Games</category>
 		<description>F-Zero X (USA)</description>
 		<rom name="F-Zero X (USA).v64" size="16777216" crc="9408c2c1" md5="dee6ef2cbaac89846a59983e19a55348" sha1="c322c80a676604cda4b605558b5bd8aa6f1a2060" status="verified" serial="CFZE"/>
 	</game>
@@ -1386,18 +1387,22 @@
 		<rom name="Fighting Cup (Japan).v64" size="12582912" crc="a9740235" md5="9bbf2ceb75411bfdf139d8dfbf99ca96" sha1="55f3e6e3c9fdcf0278fa494a798316600d9db4d4" serial="NKAJ"/>
 	</game>
 	<game name="Fighting Force 64 (Europe)" id="0241">
+		<category>Games</category>
 		<description>Fighting Force 64 (Europe)</description>
 		<rom name="Fighting Force 64 (Europe).v64" size="16777216" crc="8d0cb2ff" md5="a3bec94d91f24dbea7290ff0daf92f5c" sha1="0e55db7874b9259622f54aa9b36247db87373e58" status="verified" serial="NFFP"/>
 	</game>
 	<game name="Fighting Force 64 (USA)" id="0242" cloneofid="0241">
+		<category>Games</category>
 		<description>Fighting Force 64 (USA)</description>
 		<rom name="Fighting Force 64 (USA).v64" size="16777216" crc="ade7dca4" md5="a47af0821704b001c3565c0c1d5afef1" sha1="3ce2ddafaa5101d3b2f49210ab6e6976994e5fbe" sha256="0c06fc115190842e678195f42278bbc2da4c06f21ca31b61c85796dcd7a7e610" serial="NFFE"/>
 	</game>
 	<game name="Flying Dragon (Europe)" id="0243">
+		<category>Games</category>
 		<description>Flying Dragon (Europe)</description>
 		<rom name="Flying Dragon (Europe).v64" size="12582912" crc="00fff973" md5="73c88384b597b0cc667f353dfae12b79" sha1="fa71bada5055fcda27899d8f165224b737dc8449" status="verified" serial="NFDP"/>
 	</game>
 	<game name="Flying Dragon (USA)" id="0244" cloneofid="0243">
+		<category>Games</category>
 		<description>Flying Dragon (USA)</description>
 		<rom name="Flying Dragon (USA).v64" size="12582912" crc="87e4e352" md5="a7a2bd96167eea31edee3e05f4d3dd04" sha1="25fd5cc411092d917d18c6d6ba3d7749b2f27f1a" serial="NFDE"/>
 	</game>
@@ -1410,10 +1415,12 @@
 		<rom name="Forsaken (Germany).v64" size="8388608" crc="c3fa1b8e" md5="e39d59320cfe31f04ac575abfdf21840" sha1="46e2a07b805f06e04fb4dc6934eaa0ebccc81f76" serial="NFOD"/>
 	</game>
 	<game name="Forsaken 64 (USA)" id="0247" cloneofid="0245">
+		<category>Games</category>
 		<description>Forsaken 64 (USA)</description>
 		<rom name="Forsaken 64 (USA).v64" size="8388608" crc="f970e4a4" md5="a35a36ccedbe741236eed34b26cb7473" sha1="7741fa3cc164e7b51d79079e14c46edd5be205bf" serial="NFOE"/>
 	</game>
 	<game name="Fox Sports College Hoops '99 (USA)" id="0248">
+		<category>Games</category>
 		<description>Fox Sports College Hoops '99 (USA)</description>
 		<rom name="Fox Sports College Hoops '99 (USA).v64" size="12582912" crc="fede3ef8" md5="d468caf0aab6d1c9607b69ad1bad1824" sha1="86d16b039abe70bc5b8b16805dd48483477fbdf6" serial="NF9E"/>
 	</game>
@@ -1523,6 +1530,7 @@
 		<rom name="Gex 3 - Deep Cover Gecko (Europe) (Fr,De).v64" size="33554432" crc="d169e9f8" md5="19b3e60f53ae174321a9c410c076cbb2" sha1="ee133817a0ac2d0be0f0ef8aa343f83e70704acc" status="verified" serial="NX3X"/>
 	</game>
 	<game name="Gex 3 - Deep Cover Gecko (USA)" id="0262" cloneofid="0260">
+		<category>Games</category>
 		<description>Gex 3 - Deep Cover Gecko (USA)</description>
 		<rom name="Gex 3 - Deep Cover Gecko (USA).v64" size="33554432" crc="3571f3bd" md5="6e47938ffeb8b202198877c7cb0efa1d" sha1="4d26566ba00f6f633fb41384a01a4464a7371000" serial="NX3E"/>
 	</game>
@@ -1531,6 +1539,7 @@
 		<rom name="Gex 64 - Enter the Gecko (Europe).v64" size="16777216" crc="3e20eafd" md5="3429fe82df66192eddb2844c81ba49b1" sha1="b802dfc2015bd7f944a9633ac06c96f68001c0a8" status="verified" serial="NX2P"/>
 	</game>
 	<game name="Gex 64 - Enter the Gecko (USA)" id="0264" cloneofid="0263">
+		<category>Games</category>
 		<description>Gex 64 - Enter the Gecko (USA)</description>
 		<rom name="Gex 64 - Enter the Gecko (USA).v64" size="16777216" crc="3f90e7c2" md5="a949166a1eb9592c8f46471e7aac290f" sha1="8c10971d9052ef796973f4ce137858109a63a598" serial="NX2E"/>
 	</game>
@@ -1568,6 +1577,7 @@
 		<rom name="Goemon - Mononoke Sugoroku (Japan).v64" size="16777216" crc="f6bacbac" md5="6444c04aa9a4e176120fbbee2b2dfbfd" sha1="fbb8c3d20023ab13dc8eb95a23f10d8e1063d86b" serial="NGPJ"/>
 	</game>
 	<game name="Goemon's Great Adventure (USA)" id="0268" cloneofid="0465">
+		<category>Games</category>
 		<description>Goemon's Great Adventure (USA)</description>
 		<rom name="Goemon's Great Adventure (USA).v64" size="16777216" crc="e3c7a184" md5="b31debb9007459b0b20d7e73c189cffb" sha1="fb5f82d315ec99e5cd1ed5edda0d2f289231851e" serial="NGME"/>
 	</game>
@@ -1601,6 +1611,7 @@
 		<rom name="GT 64 - Championship Edition (Europe) (En,Fr,De).v64" size="12582912" crc="b06d0d85" md5="15166fa77d606d98e6ab6a238dcecd12" sha1="a2016364dde65ec5746bab9710bd4fa72da25485" status="verified" serial="NGCP"/>
 	</game>
 	<game name="GT 64 - Championship Edition (USA)" id="0271" cloneofid="0270">
+		<category>Games</category>
 		<description>GT 64 - Championship Edition (USA)</description>
 		<rom name="GT 64 - Championship Edition (USA).v64" size="12582912" crc="b6dc4cfd" md5="15ae9e64114f87de8adabd5a24ca8a2f" sha1="bbf4039865fdcf30e403a45478dc6c8450944512" serial="NGCE"/>
 	</game>
@@ -1669,6 +1680,7 @@
 		<rom name="Hey You, Pikachu! (USA).v64" size="16777216" crc="0149e9f6" md5="3ff2abe65504c4a9c0602090aa6d2b27" sha1="615835390e80921f37cb9c081d27fea42920fcce" sha256="89efadb49aa3fa36a4176f2d4a92674b18a97a360fac8dd9cce617ffeb12979e" status="verified" serial="NPGE"/>
 	</game>
 	<game name="Hiryuu no Ken Twin (Japan)" id="0284" cloneofid="0243">
+		<category>Games</category>
 		<description>Hiryuu no Ken Twin (Japan)</description>
 		<rom name="Hiryuu no Ken Twin (Japan).v64" size="12582912" crc="4a07511c" md5="82daa5fc7115d43a72dbf7566c95b106" sha1="bf68b9514a78040edd62863dfe15b75aed397cdb" status="verified" serial="NHKJ"/>
 	</game>

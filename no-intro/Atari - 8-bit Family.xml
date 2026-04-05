@@ -4,7 +4,7 @@
 		<id>203</id>
 		<name>Atari - 8-bit Family</name>
 		<description>Atari - 8-bit Family</description>
-		<version>20260222-023943</version>
+		<version>20260404-070158</version>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -87,6 +87,10 @@
 	<game name="Gato (USA, Europe)" id="0029">
 		<description>Gato (USA, Europe)</description>
 		<rom name="Gato (USA, Europe).bin" size="131072" crc="ab06a3f5" md5="a14bc5fc0bf309c1bfc51efdc495814b" sha1="cabb1effa554d915521b2a49961d8e61b67ec9b3" sha256="f10e1f66b4a02b2188df256a6a5719cb6ca0e4061ce385c539aa75bb1d642f96"/>
+	</game>
+	<game name="HardBall! (USA)" id="0041">
+		<description>HardBall! (USA)</description>
+		<rom name="HardBall! (USA).bin" size="65536" crc="bf0c6df2" md5="b6c4de367b60ef35a7a778421c990e5d" sha1="8a8556b2398168a557bc04e37f1f3a26bc066147" sha256="f4a72815d78874205a488dc00a93dd13099f9e2fa2bb4c6c6c4892e632ffcab9"/>
 	</game>
 	<game name="Joust (USA)" id="0016">
 		<description>Joust (USA)</description>

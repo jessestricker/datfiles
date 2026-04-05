@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260328-094437</version>
+		<version>20260404-213256</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -15519,14 +15519,6 @@
 		<description>Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="97616ab9" md5="b30c9253c4ba72b1d6b14622e4b48026" sha1="293aa1d70d07f62950f21234792bba81f122fc34" serial="CMJP"/>
 	</game>
-	<game name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)" id="3679">
-		<description>Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)</description>
-		<rom name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1).nds" size="33554432" crc="6cc51442" md5="f7941e71ad6aa8f4ad47db2b891d36b9" sha1="98678e00ab0d8b8739ac9b4423d23b06cbbcb890" sha256="e13eeb1a3d15e5044ed91a6df6eb38d408761ad2d15b5882c25fc47267a4aa89" serial="AC5J"/>
-	</game>
-	<game name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan)" id="0731" cloneofid="3679">
-		<description>Mahjong Fight Club DS - Wi-Fi Taiou (Japan)</description>
-		<rom name="Mahjong Fight Club DS - Wi-Fi Taiou (Japan).nds" size="33554432" crc="99900f8b" md5="5a592d185f818de189f62819eb3a66f8" sha1="4cca5ca9340a6ff89c8e1b97047fac73bf55dc8d" serial="AC5J"/>
-	</game>
 	<game name="Mahjong Haou DS - Dan-Kyuu Battle (Japan)" id="4884">
 		<description>Mahjong Haou DS - Dan-Kyuu Battle (Japan)</description>
 		<rom name="Mahjong Haou DS - Dan-Kyuu Battle (Japan).nds" size="16777216" crc="b7ead688" md5="d7f7196e8d23dd78855daf61fe03b087" sha1="56a6da381f7c8b37f2d239e2c6c590176f16a309" serial="YHOJ"/>
@@ -15567,13 +15559,13 @@
 		<description>Mahjongg - Ancient Egypt (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mahjongg - Ancient Egypt (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="15875fdc" md5="50f05fc7d9a86f855ccaebc74e0eabe5" sha1="ae32660692d3dffbd300cf534af442f722958e11" serial="BMVP"/>
 	</game>
-	<game name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)" id="2727">
-		<description>Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="ebc71d0e" md5="d44e7e7d049f3df3786422babd6da4db" sha1="b7f791ec96da9ba824016cde553c203d34aa7882" serial="CQJP"/>
-	</game>
 	<game name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It)" id="4386" cloneofid="2727">
 		<description>Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="a6284e01" md5="d9b172c87efab8d599f6720884bdbdc1" sha1="b94be89a63ac0e049006d180fe72d193c042bfa3" serial="CQJX"/>
+	</game>
+	<game name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)" id="2727">
+		<description>Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="ebc71d0e" md5="d44e7e7d049f3df3786422babd6da4db" sha1="b7f791ec96da9ba824016cde553c203d34aa7882" serial="CQJP"/>
 	</game>
 	<game name="Mahjongg DS (Europe) (En,Fr,De,Es,It,Nl)" id="2655">
 		<description>Mahjongg DS (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -15773,13 +15765,13 @@
 		<description>Manjyeora - Made in Wario (Korea)</description>
 		<rom name="Manjyeora - Made in Wario (Korea).nds" size="33554432" crc="081102ce" md5="abce14d317169ab6da990a583e3cd4ba" sha1="7be34dca582ce0c11b38051d333b23cb2e1e3d46" sha256="d38d38d9b9334d51f6d644f273235cf5f9549d771133faf49de851f804023d99" serial="AZWK"/>
 	</game>
-	<game name="MapleStory DS (Japan)" id="5967">
-		<description>MapleStory DS (Japan)</description>
-		<rom name="MapleStory DS (Japan).nds" size="134217728" crc="b9238ea9" md5="ab281ea07fd52679f9c836bdaa43181a" sha1="d1834f3bd472ccec8027ed2b34b985afe55cf747" serial="YMPJ"/>
-	</game>
 	<game name="MapleStory DS (Korea)" id="4893" cloneofid="5967">
 		<description>MapleStory DS (Korea)</description>
 		<rom name="MapleStory DS (Korea).nds" size="134217728" crc="72b8c743" md5="16a9ffdc4b76b63e44f6defa2365ab73" sha1="1c59e8f6256d11b6ab167384c65c00d536b1f1d5" serial="YMPK"/>
+	</game>
+	<game name="MapleStory DS (Japan)" id="5967">
+		<description>MapleStory DS (Japan)</description>
+		<rom name="MapleStory DS (Japan).nds" size="134217728" crc="b9238ea9" md5="ab281ea07fd52679f9c836bdaa43181a" sha1="d1834f3bd472ccec8027ed2b34b985afe55cf747" serial="YMPJ"/>
 	</game>
 	<game name="March of the Penguins (Europe) (En,Fr,De,Es,It)" id="1063">
 		<description>March of the Penguins (Europe) (En,Fr,De,Es,It)</description>
@@ -23029,11 +23021,11 @@
 		<description>Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El)</description>
 		<rom name="Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El).nds" size="33554432" crc="d96f2f25" md5="e06196c0d95992ec9f382c61e17cb4ce" sha1="69aebbbaae8810c94ecc7c2a7c4fba82085cd875" serial="YRLP"/>
 	</game>
-	<game name="raw numbers game (United Kingdom) (Wi-Fi Kiosk, Dev Cart)" id="z657">
+	<game name="Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk)" id="z657">
 		<category>Educational</category>
-		<category>Games</category>
-		<description>raw numbers game (United Kingdom) (Wi-Fi Kiosk, Dev Cart)</description>
-		<rom name="raw numbers game (United Kingdom) (Wi-Fi Kiosk, Dev Cart).nds" size="8388608" crc="27923ab9" md5="5a7063484c6c960e3479f009cf79376a" sha1="37886f08d1fee24d752184a681b897eae9395528" sha256="2c74859e00c11f97a5db21f82265a35130ec345dc6566de720674bd4e6858d7c" serial="NTRJ"/>
+		<category>Preproduction</category>
+		<description>Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk)</description>
+		<rom name="Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk).nds" size="8388608" crc="27923ab9" md5="5a7063484c6c960e3479f009cf79376a" sha1="37886f08d1fee24d752184a681b897eae9395528" sha256="2c74859e00c11f97a5db21f82265a35130ec345dc6566de720674bd4e6858d7c" serial="NTRJ"/>
 	</game>
 	<game name="Rayman - Raving Rabbids (USA) (En,Fr,Es)" id="0886" cloneofid="0906">
 		<description>Rayman - Raving Rabbids (USA) (En,Fr,Es)</description>
@@ -29636,6 +29628,14 @@
 	<game name="Wi-Fi Taiou - Gensen Table Game DS (Japan)" id="1454">
 		<description>Wi-Fi Taiou - Gensen Table Game DS (Japan)</description>
 		<rom name="Wi-Fi Taiou - Gensen Table Game DS (Japan).nds" size="33554432" crc="dd4048ec" md5="5d3dd75cfc495258c7f5a2d9fc0b9ec9" sha1="5df47555566dcaa3e46ead576424072998219db8" serial="AWYJ"/>
+	</game>
+	<game name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)" id="3679">
+		<description>Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)</description>
+		<rom name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1).nds" size="33554432" crc="6cc51442" md5="f7941e71ad6aa8f4ad47db2b891d36b9" sha1="98678e00ab0d8b8739ac9b4423d23b06cbbcb890" sha256="e13eeb1a3d15e5044ed91a6df6eb38d408761ad2d15b5882c25fc47267a4aa89" serial="AC5J"/>
+	</game>
+	<game name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan)" id="0731" cloneofid="3679">
+		<description>Wi-Fi Taiou - Mahjong Fight Club DS (Japan)</description>
+		<rom name="Wi-Fi Taiou - Mahjong Fight Club DS (Japan).nds" size="33554432" crc="99900f8b" md5="5a592d185f818de189f62819eb3a66f8" sha1="4cca5ca9340a6ff89c8e1b97047fac73bf55dc8d" serial="AC5J"/>
 	</game>
 	<game name="Wi-Fi Taiou - Morita Shougi DS (Japan)" id="0850">
 		<description>Wi-Fi Taiou - Morita Shougi DS (Japan)</description>
