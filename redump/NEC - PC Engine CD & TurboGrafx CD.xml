@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
-		<description>NEC - PC Engine CD &amp; TurboGrafx CD - Discs (551) (2026-03-25 23-05-01)</description>
-		<version>2026-03-25 23-05-01</version>
-		<date>2026-03-25 23-05-01</date>
+		<description>NEC - PC Engine CD &amp; TurboGrafx CD - Discs (551) (2026-04-06 22-38-41)</description>
+		<version>2026-04-06 22-38-41</version>
+		<date>2026-04-06 22-38-41</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -7665,14 +7665,14 @@
 		<rom name="Valis III (Japan) (Alt) (Track 71).bin" size="1966272" crc="1afc2a5c" md5="80f3be3e5ce6207a99fc4bbb2bf47471" sha1="097df22cf4f90ba64aa6832538d66159ea20d295"/>
 		<rom name="Valis III (Japan) (Alt) (Track 72).bin" size="3734976" crc="19fc04a3" md5="625fe4ce28f659a87ddb3970d75bee91" sha1="a1d1bc9be45bbd734b3abe70b431d53f05fb935d"/>
 	</game>
-	<game name="CD Battle - Hikari no Yuusha-tachi (Japan)">
+	<game name="CD Battle - Hikari no Yuushatachi (Japan)">
 		<category>Games</category>
-		<description>CD Battle - Hikari no Yuusha-tachi (Japan)</description>
-		<rom name="CD Battle - Hikari no Yuusha-tachi (Japan).cue" size="503" crc="b5cd5281" md5="a1f82d0d3cfad5f0dad44be57285a511" sha1="6ed0076bbed1bd0e6aadf6e516cdd9c1bb55f180"/>
-		<rom name="CD Battle - Hikari no Yuusha-tachi (Japan) (Track 1).bin" size="7914480" crc="e214f155" md5="d40c88eee64677e653d47a67c563ff0d" sha1="7dcb29851dae3c31ba3a831e4a976a2d7c618f62"/>
-		<rom name="CD Battle - Hikari no Yuusha-tachi (Japan) (Track 2).bin" size="2020368" crc="242e84bf" md5="393d56a3fa14fc7b85bfaa9d7065533c" sha1="91a6747cdc623f78bcf7fe34133ce8da54dc023f"/>
-		<rom name="CD Battle - Hikari no Yuusha-tachi (Japan) (Track 3).bin" size="15184512" crc="79ea6a2a" md5="108732d454467f1404019e18df41622e" sha1="9862c1b787c2ef3b2122ba6e43282972be1f4901"/>
-		<rom name="CD Battle - Hikari no Yuusha-tachi (Japan) (Track 4).bin" size="54427632" crc="a66b14af" md5="a390ec39f4c87c3bcba38137582447b1" sha1="4f7d88eb4dbe95a4ba7e9bc1f47941ed8c8fdc37"/>
+		<description>CD Battle - Hikari no Yuushatachi (Japan)</description>
+		<rom name="CD Battle - Hikari no Yuushatachi (Japan).cue" size="499" crc="04ae91a4" md5="589a3746ebeacbd9cf44be87b5a689f4" sha1="39ef5e9221b016803befff4a709388834e6db652"/>
+		<rom name="CD Battle - Hikari no Yuushatachi (Japan) (Track 1).bin" size="7914480" crc="e214f155" md5="d40c88eee64677e653d47a67c563ff0d" sha1="7dcb29851dae3c31ba3a831e4a976a2d7c618f62"/>
+		<rom name="CD Battle - Hikari no Yuushatachi (Japan) (Track 2).bin" size="2020368" crc="242e84bf" md5="393d56a3fa14fc7b85bfaa9d7065533c" sha1="91a6747cdc623f78bcf7fe34133ce8da54dc023f"/>
+		<rom name="CD Battle - Hikari no Yuushatachi (Japan) (Track 3).bin" size="15184512" crc="79ea6a2a" md5="108732d454467f1404019e18df41622e" sha1="9862c1b787c2ef3b2122ba6e43282972be1f4901"/>
+		<rom name="CD Battle - Hikari no Yuushatachi (Japan) (Track 4).bin" size="54427632" crc="a66b14af" md5="a390ec39f4c87c3bcba38137582447b1" sha1="4f7d88eb4dbe95a4ba7e9bc1f47941ed8c8fdc37"/>
 	</game>
 	<game name="Gradius II - Gofer no Yabou (Japan)">
 		<category>Games</category>

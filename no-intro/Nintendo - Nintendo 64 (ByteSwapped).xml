@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260404-073613</version>
+		<version>20260405-011604</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1672,10 +1672,12 @@
 		<rom name="Hexen (Japan).v64" size="8388608" crc="3d157140" md5="7648296bed096cce8aa707ade991eda9" sha1="70adc890606315107d97adedc02d210ab7ae8a57" serial="NHXJ"/>
 	</game>
 	<game name="Hexen (USA)" id="0282" cloneofid="0278">
+		<category>Games</category>
 		<description>Hexen (USA)</description>
 		<rom name="Hexen (USA).v64" size="8388608" crc="d2b22343" md5="a8531bfd6ffbad2059ef4f34aabc6282" sha1="5b58cc647fb10178c89d4dacc97cd25f5fbff2d0" serial="NHXE"/>
 	</game>
 	<game name="Hey You, Pikachu! (USA)" id="0283">
+		<category>Games</category>
 		<description>Hey You, Pikachu! (USA)</description>
 		<rom name="Hey You, Pikachu! (USA).v64" size="16777216" crc="0149e9f6" md5="3ff2abe65504c4a9c0602090aa6d2b27" sha1="615835390e80921f37cb9c081d27fea42920fcce" sha256="89efadb49aa3fa36a4176f2d4a92674b18a97a360fac8dd9cce617ffeb12979e" status="verified" serial="NPGE"/>
 	</game>
@@ -1717,6 +1719,7 @@
 		<rom name="Hot Wheels - Turbo Racing (Europe) (En,Fr,De).v64" size="16777216" crc="ef63c780" md5="a42df6d45b181731707de3a01f5b9e4f" sha1="1bf92987c5531ae213ed1d721980c61f580436fa" status="verified" serial="NHWP"/>
 	</game>
 	<game name="Hot Wheels - Turbo Racing (USA)" id="0293" cloneofid="0292">
+		<category>Games</category>
 		<description>Hot Wheels - Turbo Racing (USA)</description>
 		<rom name="Hot Wheels - Turbo Racing (USA).v64" size="12582912" crc="525e8f8f" md5="3bd7f78af738fc3d68d855c2cd525c26" sha1="477818165666648bfbe8452f2f89f42277add932" sha256="3092dabb9dbbf9c428990da45963d738cbf91c288fc0be0e790e7868d7877095" serial="NHWE"/>
 	</game>

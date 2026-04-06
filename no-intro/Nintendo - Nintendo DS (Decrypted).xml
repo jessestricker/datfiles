@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260404-213256</version>
+		<version>20260405-215832</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -784,7 +784,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Agent Hugo - Fly Guyz! (Europe) (Proto)</description>
-		<rom name="Agent Hugo - Fly Guyz! (Europe) (Proto).nds" size="33554432" crc="a4e71c80" md5="4a18aa7b64ab8f20360acce4467fce6c" sha1="641561aec3b15ebe1824fd7c726526f00300f533" sha256="8ec6d28d6d9e7cb31881c6c4f57c98b11d49b9aa27d2b37cb152bf8139fc5393" serial="NTRJ"/>
+		<rom name="Agent Hugo - Fly Guyz! (Europe) (Proto).nds" size="8388608" crc="ac01411b" md5="d8635661b6da8c6c19de7e581305755e" sha1="3e4f5eb5750089f85941c18271bc599c8ef2cf35" sha256="c9d90a005f7b216f1c2704620d8300769840cd542b0dda763d5087d3755fe8f5"/>
 	</game>
 	<game name="Aibou DS (Japan)" id="3474">
 		<description>Aibou DS (Japan)</description>
@@ -3020,7 +3020,8 @@
 		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)</description>
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2).nds" size="134217728" crc="39a56711" md5="80ded54dbdcc594f9c9ef5ef5125b37f" sha1="50d388e9f79a2af35c01d12369d23a6a2881c041" serial="CB9J"/>
 	</game>
-	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)" id="z665">
+	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)" id="z665" cloneofid="5842">
+		<category>Games</category>
 		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)</description>
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1).nds" size="134217728" crc="eaeac3f0" md5="992cab2931a8396f5fc3d21dc708a4a1" sha1="0e99c50dd4db0d1114bba8ff29b17a858480309f" sha256="467c5039e21cf4a93aa098d106f66b665769467cc298a501c98946cd6803f502" serial="CB9J"/>
 	</game>
@@ -9201,11 +9202,10 @@
 		<description>George of the Jungle and the Search for the Secret (USA)</description>
 		<rom name="George of the Jungle and the Search for the Secret (USA).nds" size="33554432" crc="e9bf7fd5" md5="e0e256de740dd5bd68030ecf4d7c2a70" sha1="3ced7528d576a5c9cf61ac8d0681070933832fac" serial="YGJE"/>
 	</game>
-	<game name="GeoTrip (Europe) (Proto)" id="z664">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>GeoTrip (Europe) (Proto)</description>
-		<rom name="GeoTrip (Europe) (Proto).nds" size="268435456" crc="0c388e22" md5="b92f3445edc66f42a51b5c384216ddef" sha1="d60720c324f7f210bca49cffed8d4d996be47eca" sha256="3de9d44f2e464caf754d0c3935511da976aa04b729d2ae9863d30a45d4768d61" serial="NTRJ"/>
+	<game name="GeoTrip (Europe) (Auto Demo)" id="z664">
+		<category>Demos</category>
+		<description>GeoTrip (Europe) (Auto Demo)</description>
+		<rom name="GeoTrip (Europe) (Auto Demo).nds" size="8388608" crc="7498bf9b" md5="bb135afce8f4a689d7b8f2571e181f67" sha1="a575a2b83914d3cf0845137da790279ce95565a3" sha256="0ae9bbac3b99460ea82daf85e239c5d3e9827b03e193ee608f30166527f1a0a9"/>
 	</game>
 	<game name="Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany)" id="2193" cloneofid="2907">
 		<description>Germany's Next Topmodel - Das Offizielle Spiel zur Show (Germany)</description>
@@ -19321,11 +19321,13 @@
 		<description>Nintama Rantarou - Nintama no Tame no Ninjutsu Training (Japan)</description>
 		<rom name="Nintama Rantarou - Nintama no Tame no Ninjutsu Training (Japan).nds" size="67108864" crc="5a60a24e" md5="d304490139273043c761df9a7a59b768" sha1="192f4e6374ee1dba5c763db4b8527232d802e6ee" serial="CR6J"/>
 	</game>
-	<game name="Nintendo DS Browser (Japan) (Rev 1)" id="z666">
+	<game name="Nintendo DS Browser (Japan) (Rev 1)" id="z666" cloneofid="0591">
+		<category>Applications</category>
 		<description>Nintendo DS Browser (Japan) (Rev 1)</description>
 		<rom name="Nintendo DS Browser (Japan) (Rev 1).nds" size="8388608" crc="1bf036bc" md5="4bd0e922cf96dcceb71436f1022a6df5" sha1="af3bc8ccf0fe9ae28d1bf8eb19fb13b59c8555f2" sha256="b5f30f0124690e9a2b36b9997ee67322054c2a26daa77d7656ddd03a10ae42c3" serial="UBRJ"/>
 	</game>
 	<game name="Nintendo DS Browser (Japan)" id="0506" cloneofid="0591">
+		<category>Applications</category>
 		<description>Nintendo DS Browser (Japan)</description>
 		<rom name="Nintendo DS Browser (Japan).nds" size="8388608" crc="af000eb8" md5="832fb52d76f0c0ed8a5321c93238113b" sha1="237e560326f9f0cfa4ec0c7937d9379efd4143e1" status="verified" serial="UBRJ"/>
 	</game>

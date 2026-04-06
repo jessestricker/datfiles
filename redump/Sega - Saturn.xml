@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2456) (2026-04-05 18-34-35)</description>
-		<version>2026-04-05 18-34-35</version>
-		<date>2026-04-05 18-34-35</date>
+		<description>Sega - Saturn - Discs (2456) (2026-04-06 22-53-44)</description>
+		<version>2026-04-06 22-53-44</version>
+		<date>2026-04-06 22-53-44</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3113,12 +3113,12 @@
 		<rom name="Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan) (Track 64).bin" size="16047696" crc="6ec1728a" md5="2755d30480fca5e2f340188ad6992544" sha1="85f0cf65bede673a31a2cef78f831083916e1739"/>
 		<rom name="Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan) (Track 65).bin" size="13549872" crc="bfbef710" md5="542c630c594c8aaf5bade20c0cece016" sha1="d683262129c800346d6e157e5a69eea8f7c0802b"/>
 	</game>
-	<game name="Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)">
+	<game name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)">
 		<category>Games</category>
-		<description>Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)</description>
-		<rom name="Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan).cue" size="301" crc="a9865617" md5="0eae9f37088655544420cc4242cba24c" sha1="1b6500a37639dc854f9ccc98c8960a9e65a0b759"/>
-		<rom name="Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan) (Track 1).bin" size="536112528" crc="f4c9b8ff" md5="0f94159ab402ae26b3560e5bdbde19f3" sha1="e6c2e44ff2f6f01c69b72460f803c32807abef0f"/>
-		<rom name="Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan) (Track 2).bin" size="3880800" crc="9f0c72a9" md5="a0504ac125aabae3312a9f61d0becd00" sha1="eb8a96c9bd1358cc8606e099bad61762df07790a"/>
+		<description>Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)</description>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan).cue" size="299" crc="c9e0b446" md5="25832a1dd28d8b0c6c10b4c4e951d530" sha1="863d01d17ce4a6dc2240cddc5d2605cef8c32355"/>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 1).bin" size="536112528" crc="f4c9b8ff" md5="0f94159ab402ae26b3560e5bdbde19f3" sha1="e6c2e44ff2f6f01c69b72460f803c32807abef0f"/>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 2).bin" size="3880800" crc="9f0c72a9" md5="a0504ac125aabae3312a9f61d0becd00" sha1="eb8a96c9bd1358cc8606e099bad61762df07790a"/>
 	</game>
 	<game name="Marvel Super Heroes (Japan)">
 		<category>Games</category>
@@ -11618,19 +11618,19 @@
 		<rom name="Tetris Plus (USA) (Track 50).bin" size="6703200" crc="01464f07" md5="857cc8d11f8df06745aa51caf6dc7d29" sha1="20e404ebf940991a87972932682192ab3988c0b4"/>
 		<rom name="Tetris Plus (USA) (Track 51).bin" size="11061456" crc="d76197df" md5="d10133cb214b318b035830c4e0966b7e" sha1="3111a4c0ab38069a2630395d3de1968b97689c04"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).cue" size="363" crc="3455c251" md5="4af689b33bca4ef03c3896ab67e7067f" sha1="43950d4aa0cb24fe3b15a15f0bca1d4606db8ed6"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) (Track 1).bin" size="642839232" crc="4f60c120" md5="720fdd48962341e4c74edbea23fc4b7b" sha1="5a6fa32bb2b5db20f246f7e919acf60bc76ad1a7"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).cue" size="361" crc="4a41fc2c" md5="7e0656bdfa808dca8b550649adf71550" sha1="c4221bd1e4e3a2e4b7639faab3d40ab4734e79f0"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) (Track 1).bin" size="642839232" crc="4f60c120" md5="720fdd48962341e4c74edbea23fc4b7b" sha1="5a6fa32bb2b5db20f246f7e919acf60bc76ad1a7"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).cue" size="363" crc="1b032d17" md5="7eb08e6c585946ea998bbabc9abd7507" sha1="9b2917ea0c34179c400dacbe0e25845cece8f86f"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) (Track 1).bin" size="628456752" crc="ebe072c6" md5="c002e226a990d3060fc5c1f224ff8f11" sha1="abb62925fe0c66e821b2b8ca2c6774db03516d13"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).cue" size="361" crc="21eed448" md5="febbe191457f068230bd10a3e807c190" sha1="efba770ff44253648d1bbae52b866ab82af7e774"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) (Track 1).bin" size="628456752" crc="ebe072c6" md5="c002e226a990d3060fc5c1f224ff8f11" sha1="abb62925fe0c66e821b2b8ca2c6774db03516d13"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
 	<game name="Tomb Raider (USA) (2S)">
 		<category>Games</category>
@@ -25067,12 +25067,12 @@
 		<rom name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan) (Track 1).bin" size="185459904" crc="5bacc551" md5="0eb2890bb41f62d20c170ecfc828a02f" sha1="2cc80eafa52c163c9dfe28d704e430e6be6254e6"/>
 		<rom name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan) (Track 2).bin" size="1764000" crc="2b65df95" md5="5abdd123f1f721875d8eade888da2550" sha1="565af856c3e5d443ff7369e809aed2b2cf35aa5a"/>
 	</game>
-	<game name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan)">
+	<game name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujotachi no Mita Mono wa (Japan)">
 		<category>Games</category>
-		<description>Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan)</description>
-		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan).cue" size="381" crc="5707cc65" md5="8dea055fdbc1f1370841a11f58e96352" sha1="ec8382059c15d44db5ee48960ea90a09bb9384be"/>
-		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan) (Track 1).bin" size="256083408" crc="b94f3958" md5="8f0a2f94971b044db5b5086f90dbbaac" sha1="2950f92eac28b39acec668a4699eeddc42c8032a"/>
-		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujotachi no Mita Mono wa (Japan)</description>
+		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujotachi no Mita Mono wa (Japan).cue" size="379" crc="b4c8e653" md5="b18a5af811de52024a73cb170897864e" sha1="9fefd11f4de565ec7c6edbf856c40d26678d3583"/>
+		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujotachi no Mita Mono wa (Japan) (Track 1).bin" size="256083408" crc="b94f3958" md5="8f0a2f94971b044db5b5086f90dbbaac" sha1="2950f92eac28b39acec668a4699eeddc42c8032a"/>
+		<rom name="Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujotachi no Mita Mono wa (Japan) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
 	<game name="Habitat II (Japan)">
 		<category>Games</category>
@@ -27429,12 +27429,12 @@
 		<rom name="Game no Tatsujin 2 (Japan) (Track 1).bin" size="17442432" crc="2854e568" md5="247560785f76c20f5f0a07db27637e50" sha1="f183486770dc68c649a1f3874c1fcd067e68ab27"/>
 		<rom name="Game no Tatsujin 2 (Japan) (Track 2).bin" size="35428176" crc="482d9950" md5="c84bd1a82de62eeda55bd70e5133fb2a" sha1="bb638dde24d2fabecb083d6fecda9c101664f2ec"/>
 	</game>
-	<game name="Gekka no Kishi - Ouryuu-sen (Japan)">
+	<game name="Gekka no Kishi - Ouryuusen (Japan)">
 		<category>Games</category>
-		<description>Gekka no Kishi - Ouryuu-sen (Japan)</description>
-		<rom name="Gekka no Kishi - Ouryuu-sen (Japan).cue" size="240" crc="1d45269a" md5="c957c236d1560a809d322197f362829c" sha1="1795eb19b6b13752c033e45440b303c8f5433b05"/>
-		<rom name="Gekka no Kishi - Ouryuu-sen (Japan) (Track 1).bin" size="19940256" crc="1bff89f7" md5="68a10cec7be3a4a535291a12593d20b8" sha1="9b1d8253cf0d5b2bb72a83257b950faed528cae2"/>
-		<rom name="Gekka no Kishi - Ouryuu-sen (Japan) (Track 2).bin" size="3880800" crc="9f0c72a9" md5="a0504ac125aabae3312a9f61d0becd00" sha1="eb8a96c9bd1358cc8606e099bad61762df07790a"/>
+		<description>Gekka no Kishi - Ouryuusen (Japan)</description>
+		<rom name="Gekka no Kishi - Ouryuusen (Japan).cue" size="238" crc="5a4f24c5" md5="76366045dfbbf265089e90029d3ac3ae" sha1="e44d23ef3697d8c4578b294524484beaf62a8994"/>
+		<rom name="Gekka no Kishi - Ouryuusen (Japan) (Track 1).bin" size="19940256" crc="1bff89f7" md5="68a10cec7be3a4a535291a12593d20b8" sha1="9b1d8253cf0d5b2bb72a83257b950faed528cae2"/>
+		<rom name="Gekka no Kishi - Ouryuusen (Japan) (Track 2).bin" size="3880800" crc="9f0c72a9" md5="a0504ac125aabae3312a9f61d0becd00" sha1="eb8a96c9bd1358cc8606e099bad61762df07790a"/>
 	</game>
 	<game name="Blue Seed - Kushinada Hirokuden (Japan)">
 		<category>Games</category>
@@ -27538,19 +27538,19 @@
 		<rom name="Virtua Fighter (Europe) (Made in EU) (Track 18).bin" size="1599360" crc="066417b9" md5="b21750d22c1e9c6817f8c70751886c5f" sha1="2850a42ce17e57b7c01075303c4f632060176206"/>
 		<rom name="Virtua Fighter (Europe) (Made in EU) (Track 19).bin" size="2542512" crc="e43f928d" md5="910f293600cd26d0ac9ef4bc5b948db8" sha1="b60d7d28c4ec8ddab20b8373d81f97088d3fc58c"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).cue" size="357" crc="ce7b274d" md5="7fe06a08bd5da699785f75a968d30b0b" sha1="f8fcfd2d88ed24e37686dc2893a611f668a4abb7"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) (Track 1).bin" size="463656816" crc="cfa6aac7" md5="693eb39541932ba5311ce838fee2337d" sha1="d161d13d9c1ab1a132d35e67714d0502e8ab0d8a"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).cue" size="355" crc="498d5a12" md5="c4422cf43abb0c2f818a297a9553df7a" sha1="3d88e8451ffeec0ab699607c2f4ccee1962cc09b"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) (Track 1).bin" size="463656816" crc="cfa6aac7" md5="693eb39541932ba5311ce838fee2337d" sha1="d161d13d9c1ab1a132d35e67714d0502e8ab0d8a"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).cue" size="357" crc="d096485f" md5="f317b80c86aae260114e5b56ca751141" sha1="b873e0e36f78057602b134a1359644e06870871c"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) (Track 1).bin" size="460413408" crc="40b09acc" md5="860b6d6603d56ba04abd1129f1aec4d1" sha1="c907c459a05cabc897f84a34e3ed2790a432d689"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).cue" size="355" crc="f72cc9d8" md5="99c76879207b4c1851c5c079e846e4a2" sha1="896a2f4347f566503ba0a695ee3e958a685817cf"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) (Track 1).bin" size="460413408" crc="40b09acc" md5="860b6d6603d56ba04abd1129f1aec4d1" sha1="c907c459a05cabc897f84a34e3ed2790a432d689"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
 	<game name="DeJig - Tin Toy (Japan)">
 		<category>Games</category>
@@ -28794,12 +28794,12 @@
 		<rom name="World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M) (Track 1).bin" size="357750960" crc="f14e7a0e" md5="d47a87e87aecd6bdedcb8b42cecd0a77" sha1="83d65f200e56aced7ff696f482e97ab2015c1fc7"/>
 		<rom name="World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M) (Track 2).bin" size="3885504" crc="35854375" md5="4167a5a81e8829c471336801bf8806d7" sha1="82d145c660e21c559e210b9811cef9d450fe37b4"/>
 	</game>
-	<game name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)">
+	<game name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan)">
 		<category>Games</category>
-		<description>Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)</description>
-		<rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan).cue" size="301" crc="10dbbd84" md5="9d30f8ca5849370366557882119b4261" sha1="fa4f72ae58c7752bdeb6d4485b704438691ed2ab"/>
-		<rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) (Track 1).bin" size="475574400" crc="5d722d5a" md5="ef292e4e60dcbe21041494e12ef3925a" sha1="dfea9aed1e46f556707aa14bf3bfcbe09388fc62"/>
-		<rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
+		<description>Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan)</description>
+		<rom name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan).cue" size="299" crc="cc267cf2" md5="6135216407a7b0c15ef3050defffff7f" sha1="185867a1ffe942434716a1842d1996dc38fc7e5f"/>
+		<rom name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan) (Track 1).bin" size="475574400" crc="5d722d5a" md5="ef292e4e60dcbe21041494e12ef3925a" sha1="dfea9aed1e46f556707aa14bf3bfcbe09388fc62"/>
+		<rom name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe"/>
 	</game>
 	<game name="Daisenryaku - Strong Style (Japan)">
 		<category>Games</category>
@@ -29274,19 +29274,19 @@
 		<rom name="Gebockers (Japan) (Track 15).bin" size="1425312" crc="e6d6ab3f" md5="f5be9e1a5549ca482cc0a9fa0fcda8ca" sha1="754b3b749fd7a0b81c9f5ec0fd5cb7d0eff3c324"/>
 		<rom name="Gebockers (Japan) (Track 16).bin" size="1357104" crc="7ce1d34d" md5="19d3759476ff92ace1ffc975ef41c7c5" sha1="4d334807b7f6d9dea35a5fd7d2100acac5ddee4d"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).cue" size="295" crc="0a82f41c" md5="89355236c364cac8e7855c321c1cc499" sha1="2712432d1a0279d503c4ee49ccbcb81747faeec7"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2) (Track 1).bin" size="605978688" crc="e58fe047" md5="c3d55b3596335eff91fb6f4c415aff43" sha1="72cfa5d853c7f8a02259b7fb33cefc157447ce5c"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).cue" size="293" crc="ed81b422" md5="b930da21e966e9be87a66681f619c5b2" sha1="bdff68024396d575c0b100b87ffde989ab727a6b"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2) (Track 1).bin" size="605978688" crc="e58fe047" md5="c3d55b3596335eff91fb6f4c415aff43" sha1="72cfa5d853c7f8a02259b7fb33cefc157447ce5c"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).cue" size="295" crc="f0f97c43" md5="ce6e3e2db858ab8a4e3d0f598a494213" sha1="58ca04c7a098868ea17747f94b91b6f47c440ee0"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1) (Track 1).bin" size="633421824" crc="0349a8c4" md5="aa7ca4e75dfc4c253eacc2b1941855aa" sha1="d61d836c88e7a1a5d93e8c41f03ffc1d64644fd7"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).cue" size="293" crc="cb086164" md5="7b1b4afca4e0b06e49939b66a225bbfa" sha1="41607922a086bfb27d92518d795958baf80d38f4"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1) (Track 1).bin" size="633421824" crc="0349a8c4" md5="aa7ca4e75dfc4c253eacc2b1941855aa" sha1="d61d836c88e7a1a5d93e8c41f03ffc1d64644fd7"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
 	</game>
 	<game name="Stakes Winner 2 - Saikyouba Densetsu (Japan)">
 		<category>Games</category>
@@ -35664,12 +35664,12 @@
 		<rom name="Gotha II - Tenkuu no Kishi &amp; Teitoku no Ketsudan II (Japan) (Demo) (Track 1).bin" size="147663264" crc="2ed9bdb6" md5="a9dcd9d12e54119f377ab8609a0b4df2" sha1="ed549c00d2c13cc2529fb25a875946d6ba692137"/>
 		<rom name="Gotha II - Tenkuu no Kishi &amp; Teitoku no Ketsudan II (Japan) (Demo) (Track 2).bin" size="1764000" crc="6bf539d0" md5="0c99ea07a984ae10539ce0afbe9fa749" sha1="7b777e40c17906fae79ab4d2da61d600e9ec9f15"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo)">
 		<category>Demos</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo).cue" size="291" crc="9f293d43" md5="b277e2f56969c910cd9c05192cd83e9f" sha1="a46a2c72cb706ed4f353279ef41954adf428356b"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo) (Track 1).bin" size="62572608" crc="a212e9c2" md5="eb837286c658640530e6d09125201284" sha1="0204d7e83a9a4f426a2aeee729d5ab42116b77a0"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Demo)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo).cue" size="289" crc="c939cb4a" md5="de3a041634017f95c797b7a44b02385b" sha1="e12a55ac3aaabb3f823fc132a2f6f8a84ddb9c0f"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo) (Track 1).bin" size="62572608" crc="a212e9c2" md5="eb837286c658640530e6d09125201284" sha1="0204d7e83a9a4f426a2aeee729d5ab42116b77a0"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo) (Track 2).bin" size="3880800" crc="7367dccc" md5="2a04ef040f77dcff5900186b0e571695" sha1="f8e27f1e4c71295adbb816d432672cba9f331b8e"/>
 	</game>
 	<game name="Tenant Wars (Japan) (Demo)">
 		<category>Demos</category>

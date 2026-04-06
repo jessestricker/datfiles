@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260328-124829</version>
+		<version>20260405-051359</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1375,6 +1375,10 @@
 		<description>Gas Hog (USA)</description>
 		<rom name="Gas Hog (USA).a26" size="4096" crc="40699ca5" md5="5cbd7c31443fb9c308e9f0b54d94a395" sha1="e919ee03e8a17fd85be1e53b4d5ff76dae54d099"/>
 	</game>
+	<game name="Gas Hog ~ Piraten Schiff (Europe)" id="0868" cloneofid="0181">
+		<description>Gas Hog ~ Piraten Schiff (Europe)</description>
+		<rom name="Gas Hog ~ Piraten Schiff (Europe).a26" size="4096" crc="fdaa9d20" md5="b1486e12de717013376447ac6f7f3a80" sha1="3696575988be6814b6c0eebab2285c471f94a127" sha256="98defe83afa74f40fac8b65dad81f303ef34b39bda8b2e1001500df5fddd5084" status="verified"/>
+	</game>
 	<game name="Gauntlet (USA)" id="0182">
 		<description>Gauntlet (USA)</description>
 		<rom name="Gauntlet (USA).a26" size="4096" crc="c7ac23c7" md5="e64a8008812327853877a37befeb6465" sha1="73adae38d86d50360b1a247244df05892e33da46"/>
@@ -2199,10 +2203,6 @@
 	<game name="Pigs in Space - Starring Miss Piggy (USA)" id="0328">
 		<description>Pigs in Space - Starring Miss Piggy (USA)</description>
 		<rom name="Pigs in Space - Starring Miss Piggy (USA).a26" size="8192" crc="27673d7c" md5="8e4fa8c6ad8d8dce0db8c991c166cdaa" sha1="d08b30ca2e5e351cac3bd3fb760b87a1a30aa300"/>
-	</game>
-	<game name="Piraten Schiff (Germany)" id="0868">
-		<description>Piraten Schiff (Germany)</description>
-		<rom name="Piraten Schiff (Germany).a26" size="4096" crc="fdaa9d20" md5="b1486e12de717013376447ac6f7f3a80" sha1="3696575988be6814b6c0eebab2285c471f94a127" sha256="98defe83afa74f40fac8b65dad81f303ef34b39bda8b2e1001500df5fddd5084"/>
 	</game>
 	<game name="Pitfall! - Pitfall Harry's Jungle Adventure (USA)" id="0330">
 		<description>Pitfall! - Pitfall Harry's Jungle Adventure (USA)</description>

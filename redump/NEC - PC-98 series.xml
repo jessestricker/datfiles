@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC-98 series</name>
-		<description>NEC - PC-98 series - Discs (127) (2026-01-25 02-55-54)</description>
-		<version>2026-01-25 02-55-54</version>
-		<date>2026-01-25 02-55-54</date>
+		<description>NEC - PC-98 series - Discs (127) (2026-04-06 22-04-02)</description>
+		<version>2026-04-06 22-04-02</version>
+		<date>2026-04-06 22-04-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1595,11 +1595,11 @@
 		<rom name="Jurassic Park (Japan).cue" size="110" crc="7d72d0ca" md5="4ce00cce2698f16f3401c8c763447f24" sha1="5e4d381e0e3376d1b172dd7178b166fa67cf175f"/>
 		<rom name="Jurassic Park (Japan).bin" size="172613280" crc="feb8d757" md5="1d09b285da4b08c3aa6d3f84d00d1afc" sha1="591ab566ec9dc4c91fecfad43b0b790a1d9bebb2"/>
 	</game>
-	<game name="Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)">
+	<game name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan)">
 		<category>Games</category>
-		<description>Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)</description>
-		<rom name="Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan).cue" size="153" crc="43587518" md5="f840a76884d5ddc0dc444509e0f65d18" sha1="b23b07513207e8dd0f4696f56fe6dcbb9a3220fd"/>
-		<rom name="Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan).bin" size="8152032" crc="d26e1341" md5="fe1f553d04023a5847796a1f251878ea" sha1="6abfc80682c227e2a3b5261b3ca5866e03b2d900"/>
+		<description>Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan)</description>
+		<rom name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan).cue" size="152" crc="a8fbf888" md5="a43307a1d96b032de92343b2b91d4285" sha1="8309ca0f133af69742418a819d054c598dbb3bb5"/>
+		<rom name="Angel Night - Yamiyo o Kakeru Tenshitachi no Monogatari (Japan).bin" size="8152032" crc="d26e1341" md5="fe1f553d04023a5847796a1f251878ea" sha1="6abfc80682c227e2a3b5261b3ca5866e03b2d900"/>
 	</game>
 	<game name="Ardor Aeternus - Wasureenu Honoo (Japan)">
 		<category>Games</category>
