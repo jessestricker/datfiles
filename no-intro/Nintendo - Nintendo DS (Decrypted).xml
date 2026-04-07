@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260405-215832</version>
+		<version>20260406-193630</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21911,6 +21911,7 @@
 		<rom name="Pool (USA) (En,Fr,De,Es,It) (Proto) (2008-08-15).nds" size="8388608" crc="102b83c0" md5="e8c310b89f7bff73f8d3821fd86fcc6b" sha1="6fb9628a3ba946152afc1400e14ca2e9b43a7597" sha256="56d57c8f16f52f565149ce2f2683633701eb579e79783e51efddb82d23b63a08" serial="A8BP"/>
 	</game>
 	<game name="Pop Cutie! - Street Fashion Simulation (USA)" id="2778">
+		<category>Games</category>
 		<description>Pop Cutie! - Street Fashion Simulation (USA)</description>
 		<rom name="Pop Cutie! - Street Fashion Simulation (USA).nds" size="67108864" crc="2655a2c6" md5="c2a4bd2cc0983b15aeba2de5711fcf56" sha1="39d63e44b6900ea185f55af29ebc0559ca07d874" serial="CQTE"/>
 	</game>
@@ -27329,11 +27330,13 @@
 		<description>th!nk - Logic Trainer - KIDS! (USA)</description>
 		<rom name="th!nk - Logic Trainer - KIDS! (USA).nds" size="16777216" crc="d0137943" md5="68933dc07a3123400c4fab767130e157" sha1="422a34e5eac7d73ba4dd14e967dc6c9b7568a878" serial="CI9E"/>
 	</game>
-	<game name="That's QT (Japan) (Rev 1)" id="z073">
+	<game name="That's QT (Japan) (Rev 1)" id="z073" cloneofid="2778">
+		<category>Games</category>
 		<description>That's QT (Japan) (Rev 1)</description>
 		<rom name="That's QT (Japan) (Rev 1).nds" size="67108864" crc="248f8e73" md5="595357a15f6bb859b8701b44848b6ec9" sha1="2a6b5e486d3de403c1ce6c4bd53ac63c4ef30b1f" serial="CQTJ"/>
 	</game>
-	<game name="That's QT (Japan)" id="2279" cloneofid="z073">
+	<game name="That's QT (Japan)" id="2279" cloneofid="2778">
+		<category>Games</category>
 		<description>That's QT (Japan)</description>
 		<rom name="That's QT (Japan).nds" size="67108864" crc="f03c3f36" md5="db007aaaa9231609aee751e06725fa8d" sha1="43f41df692be01fb70c0177c7ec1590641d7261f" sha256="59f7bc1d381cf20d20ddb8df0c27a1a38ad9b45d28d678a64b9e8f317586058d" serial="CQTJ"/>
 	</game>

@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260405-031740</version>
+		<version>20260407-012636</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8110,6 +8110,41 @@
 	<game name="Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced)" id="1542">
 		<description>Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced)</description>
 		<rom name="Yu Yu Hakusho Dai-4-dan - Makai Touitsu Hen (Japan) (SGB Enhanced).gb" size="262144" crc="3e7c6b2b" md5="bfc83dd55f64f6c472ef45d3592a7b92" sha1="14a8e39f1adfa6acce11f902eb6763c73ababa47" sha256="9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70"/>
+	</game>
+	<game name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)" id="2557" cloneofid="1345">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! - The Sacred Cards (USA) (Early Days Collection).gb" size="16777216" crc="bf7fbd2e" md5="5dae2d0218e07534e0744043780eec90" sha1="d3710031520d9cdae70d870c60b1667285fe5230" sha256="12d28e0994cbe3a6cc4903fdd3434646c6e912142b73324ffabb2b322a04a411"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)" id="2552" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" sha256="7f76f02c91a11d52409c916d169fa50df760125c30622d93be95b1668a6e0d35"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (De) (Early Days Collection) (SGB Enhanced)" id="2551" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (De) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (De) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="0175e0be" md5="2534c95317a9c0324a5bcd0e4765ea23" sha1="0f750dfbb797836b4fdd98b7159c00534a6b24db" sha256="534cc6af0b3efd5c0cf6850896d874679e255e2c4e618f9e19f2b0cf7a3433de"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Es) (Early Days Collection) (SGB Enhanced)" id="2553" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Es) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Es) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="8d20a6d4" md5="3adbda6de0b4edb496064d2e83449326" sha1="1c2c6bc288e04ff5562c669ba813c160fb27edc3" sha256="b0d46c46df85abc0c606675fa0c8990cbc345edc8728598fa41dcf4fb8f76dd7"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Fr) (Early Days Collection) (SGB Enhanced)" id="2554" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Fr) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Fr) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="72253daa" md5="43cbc5b46fdd1c9825e0d8f3fdf17639" sha1="38b6055937575a31623c8bfea38009d1e56a7bea" sha256="a28c064135dee9b6d5319b44ac85aca59e6cf2096f085c9b31fe6e97ecb91f22"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (It) (Early Days Collection) (SGB Enhanced)" id="2555" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (It) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (It) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="8a6faea1" md5="9371994bab043a73d678776f84e526d0" sha1="8db41a5988b2017c5b0573dc05ecd9d9df25121c" sha256="f29c80c6faad8c447a682a491b9c1cbf97fbda41c0406100a857d461742f16c4"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Ja) (Early Days Collection) (SGB Enhanced)" id="2556" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Ja) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Ja) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" sha256="eac15c09679bcb0b3dca4e0bd6748cbcfa1012b0bec4805cd991f983b1d8f67c"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)" id="1538">
 		<description>Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)</description>
