@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Acorn - Archimedes</name>
-		<description>Acorn - Archimedes - Discs (77) (2025-10-23 18-11-28)</description>
-		<version>2025-10-23 18-11-28</version>
-		<date>2025-10-23 18-11-28</date>
+		<description>Acorn - Archimedes - Discs (79) (2026-04-08 14-44-18)</description>
+		<version>2026-04-08 14-44-18</version>
+		<date>2026-04-08 14-44-18</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -539,5 +539,17 @@
 		<description>Bitfolio - Edition 7 (UK)</description>
 		<rom name="Bitfolio - Edition 7 (UK).cue" size="91" crc="4783e40d" md5="372ed233065c428fb5318a0daae06a81" sha1="bb8114c8f63b0f4809fa8cac4f93aa7332899ba0"/>
 		<rom name="Bitfolio - Edition 7 (UK).bin" size="381381504" crc="86351af3" md5="cc038533450bc764ec4be854146e3477" sha1="cb1b2468878f46c91c1b21146fb576e7d35328e0"/>
+	</game>
+	<game name="Being a Scientist (UK)">
+		<category>Educational</category>
+		<description>Being a Scientist (UK)</description>
+		<rom name="Being a Scientist (UK).cue" size="111" crc="91fcb8a2" md5="cc7bc6a60d5a21972937e15227fe7aab" sha1="8939a7de0d688730d86617285e3233f9de367380"/>
+		<rom name="Being a Scientist (UK).bin" size="390721296" crc="2a51e171" md5="fe25e92ff47fa1e01ff885635d5b358f" sha1="abef2b5bd95cec24692a3e9eb71c0470d0faa0de"/>
+	</game>
+	<game name="Survival - Mysteries of Nature (UK)">
+		<category>Educational</category>
+		<description>Survival - Mysteries of Nature (UK)</description>
+		<rom name="Survival - Mysteries of Nature (UK).cue" size="124" crc="46bf1011" md5="a5aee293bb93d110df7d8a795f5c469d" sha1="1de13e6515f5d447f66e1f15380029850f6661a4"/>
+		<rom name="Survival - Mysteries of Nature (UK).bin" size="564510576" crc="b060177f" md5="868d4881ce544bd845bc23fda45a03f4" sha1="935857495a255676684dd37e14ac8566cadd4bcd"/>
 	</game>
 </datafile>

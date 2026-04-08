@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC</name>
-		<description>Pocket PC - Discs (79) (2026-04-03 20-02-56)</description>
-		<version>2026-04-03 20-02-56</version>
-		<date>2026-04-03 20-02-56</date>
+		<description>Pocket PC - Discs (81) (2026-04-08 00-01-56)</description>
+		<version>2026-04-08 00-01-56</version>
+		<date>2026-04-08 00-01-56</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -483,5 +483,17 @@
 		<description>Trivial Pursuit - Windows CE Edition (USA)</description>
 		<rom name="Trivial Pursuit - Windows CE Edition (USA).cue" size="108" crc="0b1e84ec" md5="998d85b5b7640cfc33839398817c9cdf" sha1="45ffac3f7a32eabb603718c0c3d7dd9c86620792"/>
 		<rom name="Trivial Pursuit - Windows CE Edition (USA).bin" size="20789328" crc="c33adde5" md5="8bcfe614418bad644c34d5264e0ec300" sha1="fd130d140795d2c4ce6efa292c7643a40ca6a91a"/>
+	</game>
+	<game name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16)">
+		<category>Preproduction</category>
+		<description>Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16)</description>
+		<rom name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16).cue" size="139" crc="9faa6baf" md5="7e7bb416b4062a35b8fee430ccebff92" sha1="5724eaf9764e749c21027fba002dd13b974dcf12"/>
+		<rom name="Microsoft ActiveSync 3.0 (USA) (Beta) (1999-07-16).bin" size="147929040" crc="38073d77" md5="a786d865e20ca64d40d377324c6a9cbd" sha1="c95df44cc4d9a843508acdc8f2d6a449ce89379f"/>
+	</game>
+	<game name="Desktop Software for Microsoft Windows CE (USA)">
+		<category>Applications</category>
+		<description>Desktop Software for Microsoft Windows CE (USA)</description>
+		<rom name="Desktop Software for Microsoft Windows CE (USA).cue" size="113" crc="d1a6224f" md5="0ccef4423e21290eba1d2f7bd446ce3d" sha1="d0022b408e57e2bd339fed623ac6015aa6b3e115"/>
+		<rom name="Desktop Software for Microsoft Windows CE (USA).bin" size="176254176" crc="65443fa2" md5="4554ce1c38ef9d3a6660b499557e287e" sha1="2d0dd25a423975afba263a17eb3a1d9dc7834e24"/>
 	</game>
 </datafile>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2424) (2026-04-07 21-19-09)</description>
-		<version>2026-04-07 21-19-09</version>
-		<date>2026-04-07 21-19-09</date>
+		<description>Philips - CD-i - Discs (2425) (2026-04-08 10-06-28)</description>
+		<version>2026-04-08 10-06-28</version>
+		<date>2026-04-08 10-06-28</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15996,5 +15996,11 @@
 		<description>Humanum Corpus (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Humanum Corpus (Europe) (En,Fr,De,Es,It).cue" size="127" crc="20c99584" md5="b2c74be722204f9d605fc775fc02320d" sha1="b4772dc783b7e122bb7f8eb2befbe56d15e1e3d8"/>
 		<rom name="Humanum Corpus (Europe) (En,Fr,De,Es,It).bin" size="530611200" crc="188cdf65" md5="20f445342d1e9973216f4374a347eec5" sha1="4a827a97f6bb6ee977d5cda1a594011ad59dc0d1"/>
+	</game>
+	<game name="J'invente mes histoires - Reves d'etoiles (France)">
+		<category>Multimedia</category>
+		<description>J'invente mes histoires - Reves d'etoiles (France)</description>
+		<rom name="J'invente mes histoires - Reves d'etoiles (France).cue" size="114" crc="6e3c6903" md5="9f1a19c307d31fea8a303f59a9f8c201" sha1="b6ac66981c0dec2442fed4f9183576211fbb3ee2"/>
+		<rom name="J'invente mes histoires - Reves d'etoiles (France).bin" size="208363680" crc="13e3a540" md5="ebcb830b1602572a90d1e3e8766be724" sha1="3f61f3f11ad8c89e485c85cae97bb9264e838f68"/>
 	</game>
 </datafile>

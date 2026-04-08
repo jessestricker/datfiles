@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3672) (2026-04-07 00-19-29)</description>
-		<version>2026-04-07 00-19-29</version>
-		<date>2026-04-07 00-19-29</date>
+		<description>Microsoft - Xbox 360 - Discs (3673) (2026-04-08 10-03-15)</description>
+		<version>2026-04-08 10-03-15</version>
+		<date>2026-04-08 10-03-15</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18378,5 +18378,10 @@
 		<category>Games</category>
 		<description>Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan)</description>
 		<rom name="Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan).iso" size="8738846720" crc="09ae33ee" md5="ddd7f90f99d269d01bf3fe4fc0eb8b11" sha1="562cf252ebe2abbf5e5e0ecc12a6700a4f27b01c"/>
+	</game>
+	<game name="Need for Speed - ProStreet (Asia) (En,Es)">
+		<category>Games</category>
+		<description>Need for Speed - ProStreet (Asia) (En,Es)</description>
+		<rom name="Need for Speed - ProStreet (Asia) (En,Es).iso" size="7835492352" crc="7edbe40b" md5="8f7b613fdee132729741912be4ed053e" sha1="93ca5a7f3e01eb881128383538db949895236beb"/>
 	</game>
 </datafile>
