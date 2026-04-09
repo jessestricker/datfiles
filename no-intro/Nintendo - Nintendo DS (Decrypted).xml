@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260407-210758</version>
+		<version>20260409-005244</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1753,7 +1753,7 @@
 	</game>
 	<game name="Atsumete! Kirby (Japan)" id="5803" cloneofid="5865">
 		<description>Atsumete! Kirby (Japan)</description>
-		<rom name="Atsumete! Kirby (Japan).nds" size="134217728" crc="47db3918" md5="c712418b19adf8c24df639f2a9cc4616" sha1="4f1c377d6316e58f282187be72a40655ec9a9825" sha256="0a5230fa38d07b83bfcb7faa4c17c886a671ffe0acc78a1ae2a2bd00e6a33671" serial="TADJ"/>
+		<rom name="Atsumete! Kirby (Japan).nds" size="134217728" crc="47db3918" md5="c712418b19adf8c24df639f2a9cc4616" sha1="4f1c377d6316e58f282187be72a40655ec9a9825" sha256="0a5230fa38d07b83bfcb7faa4c17c886a671ffe0acc78a1ae2a2bd00e6a33671" status="verified" serial="TADJ"/>
 	</game>
 	<game name="Atsumete! Kirby (Japan) (Wii U Virtual Console)" id="z483" cloneofid="5865">
 		<category>Games</category>
@@ -3993,7 +3993,7 @@
 	</game>
 	<game name="Catch! Touch! Yoshi! (Japan)" id="0015" cloneofid="0013">
 		<description>Catch! Touch! Yoshi! (Japan)</description>
-		<rom name="Catch! Touch! Yoshi! (Japan).nds" size="16777216" crc="35ebd240" md5="0bee5e5de161f23d87ef777a37a121c9" sha1="4fc138da61ff599ce60803b5076ebdfdf104f884" serial="AYIJ"/>
+		<rom name="Catch! Touch! Yoshi! (Japan).nds" size="16777216" crc="35ebd240" md5="0bee5e5de161f23d87ef777a37a121c9" sha1="4fc138da61ff599ce60803b5076ebdfdf104f884" sha256="8d34b48b2e7a7088ac03aef292b6b5f58286bff5b5f1f323df1bb1dfb9b107c3" serial="AYIJ"/>
 	</game>
 	<game name="Cate West - The Vanishing Files (USA)" id="3289" cloneofid="4276">
 		<description>Cate West - The Vanishing Files (USA)</description>
@@ -5715,11 +5715,11 @@
 	</game>
 	<game name="Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan (Japan)" id="2444" cloneofid="3841">
 		<description>Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan (Japan)</description>
-		<rom name="Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan (Japan).nds" size="67108864" crc="e117e22b" md5="b22d2e015bfffae9ec4522262a4dcf02" sha1="a1c68e818fcfbb9429a56737db65338385599559" serial="YSSJ"/>
+		<rom name="Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan (Japan).nds" size="67108864" crc="e117e22b" md5="b22d2e015bfffae9ec4522262a4dcf02" sha1="a1c68e818fcfbb9429a56737db65338385599559" sha256="858abf4ed97ef023feb5a6c40dcbb00d678983cbeff7ccd980c49783072ab794" serial="YSSJ"/>
 	</game>
 	<game name="Densetsu no Stafy 4 (Japan)" id="0401">
 		<description>Densetsu no Stafy 4 (Japan)</description>
-		<rom name="Densetsu no Stafy 4 (Japan).nds" size="67108864" crc="45fe3a37" md5="668ac6e34e5c149fa15ad68e1a33ebb5" sha1="07a04f32c7f49439c9555d58211268b486a44d2a" serial="A4DJ"/>
+		<rom name="Densetsu no Stafy 4 (Japan).nds" size="67108864" crc="45fe3a37" md5="668ac6e34e5c149fa15ad68e1a33ebb5" sha1="07a04f32c7f49439c9555d58211268b486a44d2a" sha256="a60dd45410db047765919492d9b8395b3e2c72e1235c7c1867d61e61b5ae335c" status="verified" serial="A4DJ"/>
 	</game>
 	<game name="Deoxys Distribution 2008 (USA) (Wi-Fi Kiosk) (Save Data)" id="x102">
 		<description>Deoxys Distribution 2008 (USA) (Wi-Fi Kiosk) (Save Data)</description>
@@ -7122,11 +7122,11 @@
 	</game>
 	<game name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan)" id="0980">
 		<description>DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan)</description>
-		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan).nds" size="33554432" crc="0a6bc302" md5="0a33f2b9dbbaafd217d62a944ed00e08" sha1="e4119801c07d031f4279690db81459a086fe51e0" serial="A8KJ"/>
+		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun (Japan).nds" size="33554432" crc="0a6bc302" md5="0a33f2b9dbbaafd217d62a944ed00e08" sha1="e4119801c07d031f4279690db81459a086fe51e0" sha256="98d1aa9501d110eba30db1ef71f2e711c14df36c7c67127bcea314d6f98d8de4" status="verified" serial="A8KJ"/>
 	</game>
 	<game name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 2)" id="z270">
 		<description>DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 2)</description>
-		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 2).nds" size="67108864" crc="b1c891ea" md5="e199c8e05a67b2da88b776c94800f32a" sha1="6c62fe9fe2b9bececbf89d6477e3a9bdb14f0c30" sha256="3bd8f5f43e671124cc90ed0aea926da00e08b087fdff803f0d9ca5cc0b5c9b3e" serial="YK8J"/>
+		<rom name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 2).nds" size="67108864" crc="b1c891ea" md5="e199c8e05a67b2da88b776c94800f32a" sha1="6c62fe9fe2b9bececbf89d6477e3a9bdb14f0c30" sha256="3bd8f5f43e671124cc90ed0aea926da00e08b087fdff803f0d9ca5cc0b5c9b3e" status="verified" serial="YK8J"/>
 	</game>
 	<game name="DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 1)" id="z349" cloneofid="z270">
 		<description>DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan) (Rev 1)</description>
@@ -8290,7 +8290,7 @@
 	</game>
 	<game name="Final Fantasy III (Japan)" id="0524" cloneofid="1044">
 		<description>Final Fantasy III (Japan)</description>
-		<rom name="Final Fantasy III (Japan).nds" size="134217728" crc="54b95690" md5="326ee92ba3a4b5395a94b61421d1769a" sha1="dfb60307c3987041ca06b7e3642400a09bd8b45f" serial="AFFJ"/>
+		<rom name="Final Fantasy III (Japan).nds" size="134217728" crc="54b95690" md5="326ee92ba3a4b5395a94b61421d1769a" sha1="dfb60307c3987041ca06b7e3642400a09bd8b45f" sha256="621af0f7f294fbc98e18b8cbf6630b8293b2da0ae2fcd81a1d9e83b0a26cba7b" status="verified" serial="AFFJ"/>
 	</game>
 	<game name="Final Fantasy III (USA)" id="0681" cloneofid="1044">
 		<description>Final Fantasy III (USA)</description>
@@ -8314,7 +8314,7 @@
 	</game>
 	<game name="Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan)" id="1535" cloneofid="2381">
 		<description>Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan)</description>
-		<rom name="Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan).nds" size="134217728" crc="765172f6" md5="7501bfd64665bc209e7d0167e8bb5db4" sha1="2b640ad9c7e6c5945bd93c2d9b24b657acfda1bc" sha256="95aec791f427c4aa1bf54ab5e604f8c9bef33210f934ac567167c26313455330" serial="A6FJ"/>
+		<rom name="Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan).nds" size="134217728" crc="765172f6" md5="7501bfd64665bc209e7d0167e8bb5db4" sha1="2b640ad9c7e6c5945bd93c2d9b24b657acfda1bc" sha256="95aec791f427c4aa1bf54ab5e604f8c9bef33210f934ac567167c26313455330" status="verified" serial="A6FJ"/>
 	</game>
 	<game name="Final Fantasy Tactics A2 - Grimoire of the Rift (Europe) (En,Fr,De,Es)" id="2381">
 		<description>Final Fantasy Tactics A2 - Grimoire of the Rift (Europe) (En,Fr,De,Es)</description>
@@ -8409,7 +8409,7 @@
 	</game>
 	<game name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)" id="5097">
 		<description>Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)</description>
-		<rom name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced).nds" size="134217728" crc="2da8a814" md5="76a346e915e2bae57432b166ca7b74e6" sha1="c724754fb09800833e9aceb2022fa100475b4369" serial="VI2J"/>
+		<rom name="Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced).nds" size="134217728" crc="2da8a814" md5="76a346e915e2bae57432b166ca7b74e6" sha1="c724754fb09800833e9aceb2022fa100475b4369" sha256="5fe1360fd8448e9dbeb08dc23941921df89e8bb7e1565568ed39bf0c8d60df89" status="verified" serial="VI2J"/>
 	</game>
 	<game name="Fireman Sam (Europe)" id="5195">
 		<description>Fireman Sam (Europe)</description>
@@ -10769,7 +10769,7 @@
 	</game>
 	<game name="Hoshi no Kirby Ultra Super Deluxe (Japan)" id="2884" cloneofid="4185">
 		<description>Hoshi no Kirby Ultra Super Deluxe (Japan)</description>
-		<rom name="Hoshi no Kirby Ultra Super Deluxe (Japan).nds" size="134217728" crc="46342d80" md5="1816473b04e54f0bb925be36c51301b3" sha1="7b15f266f7d1c0d23295aea6b490d1f54eaac9f1" serial="YKWJ"/>
+		<rom name="Hoshi no Kirby Ultra Super Deluxe (Japan).nds" size="134217728" crc="46342d80" md5="1816473b04e54f0bb925be36c51301b3" sha1="7b15f266f7d1c0d23295aea6b490d1f54eaac9f1" sha256="d88c3eefc9949bea19fc619b33386a5d5719340efad0ce54af3013d08225fce6" status="verified" serial="YKWJ"/>
 	</game>
 	<game name="Hoshigami (France)" id="2095" cloneofid="1523">
 		<description>Hoshigami (France)</description>
@@ -15479,7 +15479,7 @@
 	</game>
 	<game name="Magical Starsign (USA)" id="0614" cloneofid="0845">
 		<description>Magical Starsign (USA)</description>
-		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd" serial="AVCE"/>
+		<rom name="Magical Starsign (USA).nds" size="67108864" crc="260e90b2" md5="149f87ee73c0d792623c2382463e1d18" sha1="e89ab031edf8c8dac9bcc75cd962374278f98edd" sha256="0c53d4a89454c9cd610ccd3b4f61fe2b0a58de188158117004c229c7ee6d0a2b" status="verified" serial="AVCE"/>
 	</game>
 	<game name="Magical Starsign (Europe) (En,Fr,De,Es,It)" id="0845">
 		<description>Magical Starsign (Europe) (En,Fr,De,Es,It)</description>
@@ -16120,7 +16120,7 @@
 	</game>
 	<game name="Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan)" id="0995" cloneofid="0884">
 		<description>Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan)</description>
-		<rom name="Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan).nds" size="67108864" crc="d4415ed0" md5="2a82ab4371015ac6bad30f63b9129b1d" sha1="976816a0d045b98b94de03f9091f55dabf893864" serial="AMQJ"/>
+		<rom name="Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan).nds" size="67108864" crc="d4415ed0" md5="2a82ab4371015ac6bad30f63b9129b1d" sha1="976816a0d045b98b94de03f9091f55dabf893864" sha256="e90a2a2c9ec05d8247aeda76fdeee1c61da1fc5b859d718a95f6b1e50e9b9827" serial="AMQJ"/>
 	</game>
 	<game name="Mariowa Sonic - Beijing Olympic (Korea)" id="2578" cloneofid="1997">
 		<description>Mariowa Sonic - Beijing Olympic (Korea)</description>
@@ -17309,7 +17309,7 @@
 	</game>
 	<game name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)" id="1081">
 		<description>Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)</description>
-		<rom name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan).nds" size="134217728" crc="68e3b021" md5="1cf939cdb85b257fcce93c8716993d38" sha1="aaa518e816fff9d9b878c8a9e0ee242a6cdc8697" status="verified" serial="AO2J"/>
+		<rom name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan).nds" size="134217728" crc="68e3b021" md5="1cf939cdb85b257fcce93c8716993d38" sha1="aaa518e816fff9d9b878c8a9e0ee242a6cdc8697" sha256="22c81d400ef0713638ee6d8a6a24a19ab3fcb76239117896c6ea9a5cfa83dd03" status="verified" serial="AO2J"/>
 	</game>
 	<game name="Moetan DS (Japan)" id="2536">
 		<description>Moetan DS (Japan)</description>
@@ -17717,7 +17717,7 @@
 	</game>
 	<game name="Mr. Driller - Drill Spirits (Japan)" id="0027" cloneofid="0048">
 		<description>Mr. Driller - Drill Spirits (Japan)</description>
-		<rom name="Mr. Driller - Drill Spirits (Japan).nds" size="16777216" crc="b909adb3" md5="8604de9974b0d333e77ded841d8c032a" sha1="29a7297be7482cf96b0525470e5f3a6354c9cb93" serial="ADRJ"/>
+		<rom name="Mr. Driller - Drill Spirits (Japan).nds" size="16777216" crc="b909adb3" md5="8604de9974b0d333e77ded841d8c032a" sha1="29a7297be7482cf96b0525470e5f3a6354c9cb93" sha256="1e88b6fd6be869c2dadd3350eb6ff84f8b1913e195b5c1a31201761488f35b27" status="verified" serial="ADRJ"/>
 	</game>
 	<game name="Mr. Driller - Drill Spirits (Europe)" id="0048">
 		<description>Mr. Driller - Drill Spirits (Europe)</description>
@@ -20769,7 +20769,7 @@
 	</game>
 	<game name="Phantasy Star 0 (USA)" id="4429" cloneofid="4708">
 		<description>Phantasy Star 0 (USA)</description>
-		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa" serial="C24E"/>
+		<rom name="Phantasy Star 0 (USA).nds" size="134217728" crc="affb07cf" md5="0ef2ab31b0068c0832bd6a5ef901dd0c" sha1="d95f55963792716cdbc5904418190d6ca654fffa" sha256="a4fb8d5b2768b1f9b1d0bfbee1a913bcef487a729133ba11797c2cec936f4156" status="verified" serial="C24E"/>
 	</game>
 	<game name="Phantasy Star 0 (Europe)" id="4708">
 		<description>Phantasy Star 0 (Europe)</description>
@@ -21328,7 +21328,7 @@
 	</game>
 	<game name="Point Blank DS (USA)" id="0469" cloneofid="0733">
 		<description>Point Blank DS (USA)</description>
-		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810" serial="AGLE"/>
+		<rom name="Point Blank DS (USA).nds" size="33554432" crc="8497f1bf" md5="cf017d1a89d6b49d7dd96eb4ad277fa9" sha1="720da706cbdf9ca483135fa15d49fbff68ace810" sha256="7c4238b7cfc506aecd8fccc504194a63109cad2992cf92476e156d991c7cf4a8" serial="AGLE"/>
 	</game>
 	<game name="Point Blank DS (Europe) (En,Fr,De,Es)" id="0733">
 		<description>Point Blank DS (Europe) (En,Fr,De,Es)</description>
@@ -23343,7 +23343,7 @@
 	</game>
 	<game name="Rhythm de Run Run Run (Japan)" id="3669">
 		<description>Rhythm de Run Run Run (Japan)</description>
-		<rom name="Rhythm de Run Run Run (Japan).nds" size="16777216" crc="5086c795" md5="5cf395a596d05d0540bff3fb6962dc3e" sha1="24bce736e5e5395c8d0c4b307bf9501230dbf0f1" sha256="fd5aebab94ca2d350a63fc767058a01638367fb383fe940c3fc25ac2c8649dc1" serial="BR8J"/>
+		<rom name="Rhythm de Run Run Run (Japan).nds" size="16777216" crc="5086c795" md5="5cf395a596d05d0540bff3fb6962dc3e" sha1="24bce736e5e5395c8d0c4b307bf9501230dbf0f1" sha256="fd5aebab94ca2d350a63fc767058a01638367fb383fe940c3fc25ac2c8649dc1" status="verified" serial="BR8J"/>
 	</game>
 	<game name="Rhythm Heaven (USA)" id="3588" cloneofid="3699">
 		<description>Rhythm Heaven (USA)</description>
@@ -23419,7 +23419,7 @@
 	</game>
 	<game name="Rittai Picross (Japan)" id="3499" cloneofid="4753">
 		<description>Rittai Picross (Japan)</description>
-		<rom name="Rittai Picross (Japan).nds" size="33554432" crc="04cd8df2" md5="bc80a30162892f2bfbe3327d8cae3f32" sha1="2bb15024606179e96596f17a95469af06a09b3bf" serial="C6PJ"/>
+		<rom name="Rittai Picross (Japan).nds" size="33554432" crc="04cd8df2" md5="bc80a30162892f2bfbe3327d8cae3f32" sha1="2bb15024606179e96596f17a95469af06a09b3bf" sha256="bda07e8af3a2822bc34287e23188eaaf796c488ca683f40b498a44e76cbb7351" status="verified" serial="C6PJ"/>
 	</game>
 	<game name="Rittai Picross (Japan) (Wii U Virtual Console)" id="z513" cloneofid="4753">
 		<category>Games</category>
@@ -23781,7 +23781,7 @@
 	</game>
 	<game name="Sakasete! Chibi-Robo! (Japan)" id="1192" cloneofid="1457">
 		<description>Sakasete! Chibi-Robo! (Japan)</description>
-		<rom name="Sakasete! Chibi-Robo! (Japan).nds" size="67108864" crc="ab233b8c" md5="85fb1c6490daea485cad5fa04d3bcc81" sha1="0fbf5afa80af4605f70dbcf41ed56f5740187ddc" serial="AJBJ"/>
+		<rom name="Sakasete! Chibi-Robo! (Japan).nds" size="67108864" crc="b77d7ea5" md5="855bfa33d378bd5b42a2299f8f952bb6" sha1="b67dfdea892bb8f149ebe051d3be242a41f0ac54" sha256="c48d0b3b96fa29f105cb10c46feb0fb28a70508ed21b0c4d62cb4222d91a7575" serial="AJBJ"/>
 	</game>
 	<game name="Sakashou DS (Japan)" id="1355">
 		<description>Sakashou DS (Japan)</description>
@@ -30934,7 +30934,7 @@
 	</game>
 	<game name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)" id="2358">
 		<description>Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)</description>
-		<rom name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan).nds" size="67108864" crc="fef506e1" md5="81c4804de34d4e365ec1abbd1f34d29f" sha1="2d86b144b184f2f6c291af2b48ebcdf38e1c5601" serial="YZNJ"/>
+		<rom name="Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan).nds" size="67108864" crc="fef506e1" md5="81c4804de34d4e365ec1abbd1f34d29f" sha1="2d86b144b184f2f6c291af2b48ebcdf38e1c5601" sha256="623e61a490bdb37c4f1288ca5ad5da87d847f4e42ba8bab3343c795aad8388f4" serial="YZNJ"/>
 	</game>
 	<game name="Zombiez Seeker (USA) (En,Fr,Es)" id="5999">
 		<description>Zombiez Seeker (USA) (En,Fr,Es)</description>

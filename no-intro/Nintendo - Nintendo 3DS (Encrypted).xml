@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260329-043953</version>
+		<version>20260408-141049</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4286,7 +4286,7 @@
 	<game name="Layton Kyouju to Choubunmei A no Isan (Japan)" id="0393" cloneofid="0577">
 		<description>Layton Kyouju to Choubunmei A no Isan (Japan)</description>
 		<game_id>00040000000C0200</game_id>
-		<rom name="Layton Kyouju to Choubunmei A no Isan (Japan).3ds" size="1073741824" crc="8d949264" md5="a559697544ffb4f729481e71d4c38538" sha1="34c8063172803d3c4bdd200bc79579dabac48f0a" serial="CTR-P-AL6J"/>
+		<rom name="Layton Kyouju to Choubunmei A no Isan (Japan).3ds" size="1073741824" crc="8d949264" md5="a559697544ffb4f729481e71d4c38538" sha1="34c8063172803d3c4bdd200bc79579dabac48f0a" sha256="ee31a396f3b342b1025662007e122d64d95eb935d99a83b3c9eca18b02cfe30d" serial="CTR-P-AL6J"/>
 	</game>
 	<game name="Layton Kyouju to Kiseki no Kamen (Japan)" id="0064" cloneofid="0582">
 		<description>Layton Kyouju to Kiseki no Kamen (Japan)</description>
@@ -4317,7 +4317,7 @@
 	<game name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan)" id="1737" cloneofid="1757">
 		<description>Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan)</description>
 		<game_id>00040000001C1900</game_id>
-		<rom name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan).3ds" size="1073741824" crc="452fe0fa" md5="22c56f9a15b440a707d4856e10f74283" sha1="42f9e417ffb70e5ff252eaf332b166a7334141ad" serial="CTR-P-BLFJ"/>
+		<rom name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan).3ds" size="1073741824" crc="452fe0fa" md5="22c56f9a15b440a707d4856e10f74283" sha1="42f9e417ffb70e5ff252eaf332b166a7334141ad" sha256="10496f9c7e73264659753ace07246f50583221df0e32a242f27a0b2cfcbdf450" serial="CTR-P-BLFJ"/>
 	</game>
 	<game name="LBX - Little Battlers eXperience (USA) (En,Fr,Es)" id="1328" cloneofid="1331">
 		<description>LBX - Little Battlers eXperience (USA) (En,Fr,Es)</description>
@@ -7625,7 +7625,7 @@
 	<game name="Professor Layton and the Azran Legacy (USA)" id="0647" cloneofid="0577">
 		<description>Professor Layton and the Azran Legacy (USA)</description>
 		<game_id>00040000000F2F00</game_id>
-		<rom name="Professor Layton and the Azran Legacy (USA).3ds" size="1073741824" crc="ce3c7aed" md5="595732e95e2198b950863785a1a8eaa6" sha1="ded712b67836fab8935e1222f80c74778237b2ab" sha256="394594b3984db208dde01538824ca4ffcdc9ff74397462d7de81623ea65a098b" serial="CTR-P-AL6E"/>
+		<rom name="Professor Layton and the Azran Legacy (USA).3ds" size="1073741824" crc="ce3c7aed" md5="595732e95e2198b950863785a1a8eaa6" sha1="ded712b67836fab8935e1222f80c74778237b2ab" sha256="394594b3984db208dde01538824ca4ffcdc9ff74397462d7de81623ea65a098b" status="verified" serial="CTR-P-AL6E"/>
 	</game>
 	<game name="Professor Layton and the Azran Legacy (Europe) (Demo) (Kiosk)" id="x033" cloneofid="0577">
 		<description>Professor Layton and the Azran Legacy (Europe) (Demo) (Kiosk)</description>

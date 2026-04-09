@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260407-111327</version>
+		<version>20260408-130838</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1742,6 +1742,7 @@
 		<rom name="Hybrid Heaven (Japan).v64" size="16777216" crc="42e44701" md5="2a5c6dfb0965c6c6db2cc8e6e27832db" sha1="6b755fc59f35f0f25c46f062471699533ab99da4" serial="NHYJ"/>
 	</game>
 	<game name="Hybrid Heaven (USA)" id="0298" cloneofid="0296">
+		<category>Games</category>
 		<description>Hybrid Heaven (USA)</description>
 		<rom name="Hybrid Heaven (USA).v64" size="16777216" crc="7ce3ea39" md5="ec6e73eca53e902e305168f773f67b11" sha1="a0f6777dcecf8b956f12ff69ec5051a9be4c234f" serial="NHVE"/>
 	</game>
