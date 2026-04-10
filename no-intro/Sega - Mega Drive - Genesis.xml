@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260407-010839</version>
+		<version>20260409-230535</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5815,7 +5815,7 @@
 	</game>
 	<game name="Jungle Book, The (USA) (Blockbuster Flash ROM)" id="3788" cloneofid="0678">
 		<description>Jungle Book, The (USA) (Blockbuster Flash ROM)</description>
-		<rom name="Jungle Book, The (USA) (Blockbuster Flash ROM).md" size="2097152" crc="87780266" md5="1e44ca4090d4ecb95d47cb6cdb2e8dba" sha1="402fa371c8144c15f1ad43e542c4abc65c258a00" sha256="c46f20800f67e6c8cbda0f441efc1fc251f315318af02f41bdbf140a176047b7"/>
+		<rom name="Jungle Book, The (USA) (Blockbuster Flash ROM).md" size="2097152" crc="87780266" md5="1e44ca4090d4ecb95d47cb6cdb2e8dba" sha1="402fa371c8144c15f1ad43e542c4abc65c258a00" sha256="c46f20800f67e6c8cbda0f441efc1fc251f315318af02f41bdbf140a176047b7" mia="yes"/>
 	</game>
 	<game name="Jungle Book, The (Europe) (Beta)" id="2399" cloneofid="0678">
 		<category>Games</category>

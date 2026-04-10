@@ -4,8 +4,8 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260406-065817</version>
-		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
+		<version>20260409-230939</version>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -20898,6 +20898,11 @@
 		<category>Preproduction</category>
 		<description>Police Academy (USA) (Proto) (Unl)</description>
 		<rom name="Police Academy (USA) (Proto) (Unl).nes" size="262160" crc="b642dc00" md5="dc9877235d1b56a46ee8f573b0c94943" sha1="92b40e45808bbbed3a87c8fbd63c11d5868130f3" sha256="ef21f486fda6e1db0428d1bdacd5dd09303ca8b9d435d79c189dfd74997958a1" header="4E 45 53 1A 08 10 00 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Punch-Out!! (USA) (Beta)" id="8488" cloneofid="1736">
+		<category>Preproduction</category>
+		<description>Punch-Out!! (USA) (Beta)</description>
+		<rom name="Punch-Out!! (USA) (Beta).nes" size="262160" crc="34fdfa5e" md5="9254b1a8948017d30b90ef9666d69274" sha1="96d4074998987bfb76c87b5e738c764be53a1f80" sha256="c0b3d45a5f88baa3561d6bef5e0f9dbceaf0668d1269481270da69bd3c74c3ef" header="4E 45 53 1A 08 10 90 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315" cloneofid="1743">
 		<category>Games</category>
