@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (591) (2026-04-04 01-52-27)</description>
-		<version>2026-04-04 01-52-27</version>
-		<date>2026-04-04 01-52-27</date>
+		<description>Commodore - Amiga CD - Discs (592) (2026-04-11 15-47-17)</description>
+		<version>2026-04-11 15-47-17</version>
+		<date>2026-04-11 15-47-17</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3901,5 +3901,11 @@
 		<description>Bit CD 13 (Italy)</description>
 		<rom name="Bit CD 13 (Italy).cue" size="83" crc="e53fe1f6" md5="5135b31e31a66f83c3f7fa7b3cc9d33b" sha1="c781c312305ff7c941c05b7a4a1b2c8a503a39a3"/>
 		<rom name="Bit CD 13 (Italy).bin" size="787085040" crc="9f569cfb" md5="7a25d2d15c12d4d24fb8202b46ddc70a" sha1="01fd09ca2160229a2ec7065414dea60a72ccdb45"/>
+	</game>
+	<game name="FishMarket (Canada) (v2.4)">
+		<category>Multimedia</category>
+		<description>FishMarket (Canada) (v2.4)</description>
+		<rom name="FishMarket (Canada) (v2.4).cue" size="115" crc="2ca8f33c" md5="b5f714f159263edb78810fc306fb28f6" sha1="e327c5b3a11d9bc1ac2040b0a8b0922799c410ed"/>
+		<rom name="FishMarket (Canada) (v2.4).bin" size="779575104" crc="084a5817" md5="55cc7a885118fcab72ff88dbc5754475" sha1="8b88d43ed78157964bd61a00f4304a4501574791"/>
 	</game>
 </datafile>

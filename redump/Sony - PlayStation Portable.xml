@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3459) (2026-04-06 23-32-05)</description>
-		<version>2026-04-06 23-32-05</version>
-		<date>2026-04-06 23-32-05</date>
+		<description>Sony - PlayStation Portable - Discs (3460) (2026-04-11 05-20-09)</description>
+		<version>2026-04-11 05-20-09</version>
+		<date>2026-04-11 05-20-09</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17304,5 +17304,10 @@
 		<category>Games</category>
 		<description>Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan)</description>
 		<rom name="Sengoku Hime 2 - Ran - Hyakka, Senran Tatsukaze no Gotoku (Japan).iso" size="767983616" crc="84ecc02e" md5="321e372aad9553debeb22a3497a23023" sha1="d8c65457a402349358c33b816930fde52eadcc19"/>
+	</game>
+	<game name="Kamigami no Asobi - InFinite (Japan)">
+		<category>Games</category>
+		<description>Kamigami no Asobi - InFinite (Japan)</description>
+		<rom name="Kamigami no Asobi - InFinite (Japan).iso" size="1550680064" crc="a938a921" md5="f89c1a1f459428dfff8695a4695fa010" sha1="7167a7bb3f0364d97e82415026792fef4dc2bcf1"/>
 	</game>
 </datafile>
