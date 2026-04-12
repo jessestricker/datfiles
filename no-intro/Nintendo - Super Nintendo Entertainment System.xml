@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260410-134717</version>
+		<version>20260411-041141</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21100,15 +21100,15 @@
 		<description>Tom and Jerry (USA) (Beta 1)</description>
 		<rom name="Tom and Jerry (USA) (Beta 1).sfc" size="524288" crc="50422852" md5="570f995b9e2f708619df466bb1eddb54" sha1="62ad2eab36de09064458c415ce4248f3ce66b133" sha256="b5c11da5a179216e3a21e72401ce59a26c563788a4d1a97d46082f1dd0f26a17"/>
 	</game>
-	<game name="Top Racer (World) (Evercade)" id="4404" cloneofid="3097">
+	<game name="Top Racer (World) (Piko Interactive)" id="4404" cloneofid="3097">
 		<category>Games</category>
-		<description>Top Racer (World) (Evercade)</description>
-		<rom name="Top Racer (World) (Evercade).sfc" size="524288" crc="19369514" md5="b26095d3c9eefe11037b554b56bcf2fb" sha1="67c26085cbfa0ae31ae500527ee26bed453f2d90" sha256="e0a20f0c3bb7bdce98723cf30a9e75ac2c929a61005a14bfb1c1ef3d85d5c7dc"/>
+		<description>Top Racer (World) (Piko Interactive)</description>
+		<rom name="Top Racer (World) (Piko Interactive).sfc" size="524288" crc="19369514" md5="b26095d3c9eefe11037b554b56bcf2fb" sha1="67c26085cbfa0ae31ae500527ee26bed453f2d90" sha256="e0a20f0c3bb7bdce98723cf30a9e75ac2c929a61005a14bfb1c1ef3d85d5c7dc"/>
 	</game>
-	<game name="Top Racer 2 (World) (Evercade)" id="4433" cloneofid="3099">
+	<game name="Top Racer 2 (World) (Piko Interactive)" id="4433" cloneofid="3099">
 		<category>Games</category>
-		<description>Top Racer 2 (World) (Evercade)</description>
-		<rom name="Top Racer 2 (World) (Evercade).sfc" size="1572864" crc="f7665eaf" md5="c171c495f5e4499c13be0c7f154cccd6" sha1="a778ed4b920c6038686e5e5006b7bbb4ba9071a3" sha256="3bd3c7d338192b47ba178e1437fb338e55f13df6c8c87aa8f0aa896a98353f50"/>
+		<description>Top Racer 2 (World) (Piko Interactive)</description>
+		<rom name="Top Racer 2 (World) (Piko Interactive).sfc" size="1572864" crc="f7665eaf" md5="c171c495f5e4499c13be0c7f154cccd6" sha1="a778ed4b920c6038686e5e5006b7bbb4ba9071a3" sha256="3bd3c7d338192b47ba178e1437fb338e55f13df6c8c87aa8f0aa896a98353f50"/>
 	</game>
 	<game name="Troddlers (Japan) (En) (Proto)" id="4112" cloneofid="3126">
 		<category>Games</category>

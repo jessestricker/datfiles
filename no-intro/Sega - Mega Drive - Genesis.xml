@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260409-230535</version>
+		<version>20260412-041716</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6860,11 +6860,6 @@
 		<description>Math Blaster - Episode 1 (USA)</description>
 		<rom name="Math Blaster - Episode 1 (USA).md" size="1048576" crc="d055a462" md5="84873c9aef8ad04e4a2b6a113bd68015" sha1="119c2615db2607b8102ccb57d862ac6084e37c9d" sha256="dab2cf63787ec7fff81f41f7650ac7f7203669f2c678c3bc6328eb14da63520a" status="verified" serial="T-152016-00"/>
 	</game>
-	<game name="Maximum Carnage (World)" id="1256">
-		<category>Games</category>
-		<description>Maximum Carnage (World)</description>
-		<rom name="Maximum Carnage (World).md" size="2097152" crc="8fa0b6e6" md5="75af3f1e3b16d725cac258bfafaaea8a" sha1="43624536cbebd65232abe4af042c0fa4b0d9e3b7" sha256="7fa9b45511fa1d54084dd3bfbe87dc77288e18376a0afc3c37bb9782ac1e3511" status="verified" serial="T-081256-00"/>
-	</game>
 	<game name="Mazin Saga (Asia) (En)" id="0795" cloneofid="0798">
 		<category>Games</category>
 		<description>Mazin Saga (Asia) (En)</description>
@@ -10342,11 +10337,6 @@
 		<description>Sensible Soccer (Europe) (En,Fr,De,It) (Beta)</description>
 		<rom name="Sensible Soccer (Europe) (En,Fr,De,It) (Beta).md" size="524288" crc="ef52664d" md5="81c58cc091350a14e0e94fcf8e970a5b" sha1="c12a644cf81886050a4ae108b17b3c742055f5c3" sha256="a00e9cf9ff292dd20a1ce5f83724d1e69b2c71a1131a0f60b8bcfa1fc77a710a" serial="T-93076-00"/>
 	</game>
-	<game name="Separation Anxiety (USA, Europe)" id="1257">
-		<category>Games</category>
-		<description>Separation Anxiety (USA, Europe)</description>
-		<rom name="Separation Anxiety (USA, Europe).md" size="3145728" crc="512ade32" md5="41d79267b01e983c0956151de10d9646" sha1="563b45254c168aa0de0bba8fadd75a2d1e8e094b" sha256="52a2bab513f4212e1c3b44ec8f469d6cf3a4900e521619ff721502b15834c761" status="verified" serial="T-81556-00"/>
-	</game>
 	<game name="Sesame Street Counting Cafe (USA)" id="1157">
 		<category>Games</category>
 		<description>Sesame Street Counting Cafe (USA)</description>
@@ -11383,6 +11373,11 @@
 		<description>Spider-Man (USA, Europe)</description>
 		<rom name="Spider-Man (USA, Europe).md" size="2097152" crc="11b5b590" md5="af2a9fdd4a378593e47289eb8068164d" sha1="a38d5ad7d503999b7fea3ebf59f3dda9d667758b" sha256="c22c1b2e51dd8ab77c6da1b90c33b307ad88808eb007934171e39ffa12630cb0" serial="T-81436-00"/>
 	</game>
+	<game name="Spider-Man - Venom - Maximum Carnage (World)" id="1256">
+		<category>Games</category>
+		<description>Spider-Man - Venom - Maximum Carnage (World)</description>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World).md" size="2097152" crc="8fa0b6e6" md5="75af3f1e3b16d725cac258bfafaaea8a" sha1="43624536cbebd65232abe4af042c0fa4b0d9e3b7" sha256="7fa9b45511fa1d54084dd3bfbe87dc77288e18376a0afc3c37bb9782ac1e3511" status="verified" serial="T-081256-00"/>
+	</game>
 	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="3774" cloneofid="1256">
 		<category>Games</category>
 		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
@@ -11393,20 +11388,20 @@
 		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
 		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).md" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4" sha256="d66bf7f13ada8eab599f3bca13079c697797e67a2a004aafc4c0ff973e0aa240"/>
 	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (Europe) (Rev 1)" id="1853">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (Europe) (Rev 1)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (Europe) (Rev 1).md" size="1048576" crc="e7014092" md5="144f9919f0e7372debe5e0c9b8bad3e9" sha1="489213947c14b164b3b11b2307d3236eab956fe5" sha256="f9db002b2620e735f7305825540ae52fdf2de9881db0eab97a6d19999349308b" serial="T-081136-00"/>
+	</game>
+	<game name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe)" id="1258" cloneofid="1853">
+		<category>Games</category>
+		<description>Spider-Man - X-Men - Arcade's Revenge (USA, Europe)</description>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (USA, Europe).md" size="1048576" crc="4a4414ea" md5="16205f67804ec434085121f3c4a81bf5" sha1="978dabcc7d098edebc9d3f2fef04f27fd6aeab19" sha256="17af8a58e549a990a282289e5bad1375b8d64ff01d696348fe6d26007b80ca2d" status="verified" serial="T-081136-00"/>
+	</game>
 	<game name="Spider-Man vs. The Kingpin (World)" id="1255">
 		<category>Games</category>
 		<description>Spider-Man vs. The Kingpin (World)</description>
 		<rom name="Spider-Man vs. The Kingpin (World).md" size="524288" crc="70ab775f" md5="084403af61869de5c98cb00f59072abb" sha1="250f7a7301a028450eef2f2a9dcec91f99ecccbd" sha256="74a8ec0c28c6399b793ee49b69f4b4ce7205325484414bcf35d6d4dd8825bc8d" status="verified" serial="MK-1016-00"/>
-	</game>
-	<game name="Spider-Man X-Men - Arcade's Revenge (Europe) (Rev 1)" id="1853">
-		<category>Games</category>
-		<description>Spider-Man X-Men - Arcade's Revenge (Europe) (Rev 1)</description>
-		<rom name="Spider-Man X-Men - Arcade's Revenge (Europe) (Rev 1).md" size="1048576" crc="e7014092" md5="144f9919f0e7372debe5e0c9b8bad3e9" sha1="489213947c14b164b3b11b2307d3236eab956fe5" sha256="f9db002b2620e735f7305825540ae52fdf2de9881db0eab97a6d19999349308b" serial="T-081136-00"/>
-	</game>
-	<game name="Spider-Man X-Men - Arcade's Revenge (USA, Europe)" id="1258" cloneofid="1853">
-		<category>Games</category>
-		<description>Spider-Man X-Men - Arcade's Revenge (USA, Europe)</description>
-		<rom name="Spider-Man X-Men - Arcade's Revenge (USA, Europe).md" size="1048576" crc="4a4414ea" md5="16205f67804ec434085121f3c4a81bf5" sha1="978dabcc7d098edebc9d3f2fef04f27fd6aeab19" sha256="17af8a58e549a990a282289e5bad1375b8d64ff01d696348fe6d26007b80ca2d" status="verified" serial="T-081136-00"/>
 	</game>
 	<game name="Spiritual Warfare (USA) (Unl)" id="1259">
 		<category>Games</category>
@@ -13577,6 +13572,11 @@
 		<category>Preproduction</category>
 		<description>Vectorman 2 (USA) (Beta 6)</description>
 		<rom name="Vectorman 2 (USA) (Beta 6).md" size="3145728" crc="6333d89a" md5="b95705a2b30070467b929dc80afe319d" sha1="d142ce853becc6450c7a3e8b7fe65839e5b68521" sha256="a09b4469a580bc2257d949ae8414ea37c394ae7f84050136b2fea24ee8fb4fb0" serial="MK-1843-00"/>
+	</game>
+	<game name="Venom - Spider-Man - Separation Anxiety (USA, Europe)" id="1257">
+		<category>Games</category>
+		<description>Venom - Spider-Man - Separation Anxiety (USA, Europe)</description>
+		<rom name="Venom - Spider-Man - Separation Anxiety (USA, Europe).md" size="3145728" crc="512ade32" md5="41d79267b01e983c0956151de10d9646" sha1="563b45254c168aa0de0bba8fadd75a2d1e8e094b" sha256="52a2bab513f4212e1c3b44ec8f469d6cf3a4900e521619ff721502b15834c761" status="verified" serial="T-81556-00"/>
 	</game>
 	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="3778" cloneofid="1257">
 		<category>Games</category>

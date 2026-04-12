@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3674) (2026-04-10 09-37-11)</description>
-		<version>2026-04-10 09-37-11</version>
-		<date>2026-04-10 09-37-11</date>
+		<description>Microsoft - Xbox 360 - Discs (3676) (2026-04-12 12-15-43)</description>
+		<version>2026-04-12 12-15-43</version>
+		<date>2026-04-12 12-15-43</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18388,5 +18388,15 @@
 		<category>Games</category>
 		<description>WWE SmackDown vs. Raw 2007 (Japan)</description>
 		<rom name="WWE SmackDown vs. Raw 2007 (Japan).iso" size="7834892288" crc="0feffbbc" md5="f79cd15a8163d12d195cf35900fd30af" sha1="0e469235245d5b300b19f74efee409d1c743e00b"/>
+	</game>
+	<game name="Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 1) (Play Disc)">
+		<category>Games</category>
+		<description>Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 1) (Play Disc)</description>
+		<rom name="Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 1) (Play Disc).iso" size="7838695424" crc="8f946b8c" md5="95c38927def1dcd0ebf57ec4c4b6bca4" sha1="abdd4753ac004072a4c103bde07b87aa9fbf1a52"/>
+	</game>
+	<game name="Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 2) (Content Install Disc)">
+		<category>Games</category>
+		<description>Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 2) (Content Install Disc)</description>
+		<rom name="Forza Motorsport 3 - Ultimate Edition (Japan) (Disc 2) (Content Install Disc).iso" size="7838695424" crc="ec6e36ea" md5="0f93f96a4509cdbc3b91e7f090bfa730" sha1="df06de1ca61a146d82820459f7359986630bf599"/>
 	</game>
 </datafile>
