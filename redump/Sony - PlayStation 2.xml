@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11762) (2026-04-12 11-36-10)</description>
-		<version>2026-04-12 11-36-10</version>
-		<date>2026-04-12 11-36-10</date>
+		<description>Sony - PlayStation 2 - Discs (11763) (2026-04-13 02-02-45)</description>
+		<version>2026-04-13 02-02-45</version>
+		<date>2026-04-13 02-02-45</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -62023,5 +62023,10 @@
 		<category>Games</category>
 		<description>Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang (Korea)</description>
 		<rom name="Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang (Korea).iso" size="4278059008" crc="d4f041cf" md5="b642373178c51b7d645503b11e6f0627" sha1="919caa39c2db8739c9ba2ecd0c253fda14adf6b3"/>
+	</game>
+	<game name="Dororo (Korea)">
+		<category>Games</category>
+		<description>Dororo (Korea)</description>
+		<rom name="Dororo (Korea).iso" size="3384377344" crc="58356b77" md5="d655021c900831d146bcf56bc344f151" sha1="f00e3193e3ab28f882ab9f8b5573e3e75a5762aa"/>
 	</game>
 </datafile>

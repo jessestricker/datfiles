@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3460) (2026-04-11 05-20-09)</description>
-		<version>2026-04-11 05-20-09</version>
-		<date>2026-04-11 05-20-09</date>
+		<description>Sony - PlayStation Portable - Discs (3462) (2026-04-13 18-41-17)</description>
+		<version>2026-04-13 18-41-17</version>
+		<date>2026-04-13 18-41-17</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -8140,10 +8140,10 @@
 		<description>PES 2011 - Pro Evolution Soccer (Europe) (It,El)</description>
 		<rom name="PES 2011 - Pro Evolution Soccer (Europe) (It,El).iso" size="1446281216" crc="f992048e" md5="7430f1e53801fb053cf718df0d20e121" sha1="2ef87e7a608890b4e25cabddf1dced9d62e0bd98"/>
 	</game>
-	<game name="Dead Head Fred (Europe) (En,Fr,De,Es,It)">
+	<game name="Dead Head Fred (Europe) (Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Dead Head Fred (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dead Head Fred (Europe) (En,Fr,De,Es,It).iso" size="1791688704" crc="ef6e14a1" md5="54cad2d7024e894a2dd7ebb4a5063251" sha1="1a9d0ae6b93712155c732502ec3914b3cdb9f8cc"/>
+		<description>Dead Head Fred (Europe) (Fr,De,Es,It)</description>
+		<rom name="Dead Head Fred (Europe) (Fr,De,Es,It).iso" size="1791688704" crc="ef6e14a1" md5="54cad2d7024e894a2dd7ebb4a5063251" sha1="1a9d0ae6b93712155c732502ec3914b3cdb9f8cc"/>
 	</game>
 	<game name="2010 FIFA World Cup South Africa (Europe) (Es,It)">
 		<category>Games</category>
@@ -17309,5 +17309,15 @@
 		<category>Games</category>
 		<description>Kamigami no Asobi - InFinite (Japan)</description>
 		<rom name="Kamigami no Asobi - InFinite (Japan).iso" size="1550680064" crc="a938a921" md5="f89c1a1f459428dfff8695a4695fa010" sha1="7167a7bb3f0364d97e82415026792fef4dc2bcf1"/>
+	</game>
+	<game name="Rakuen Danshi (Japan)">
+		<category>Games</category>
+		<description>Rakuen Danshi (Japan)</description>
+		<rom name="Rakuen Danshi (Japan).iso" size="1233125376" crc="268e99e7" md5="2368a0d22e256385cb94820f9ec8f9e1" sha1="27594495667e47e4e519bea0ddf69d13e7b3f8c7"/>
+	</game>
+	<game name="Mahou Tsukai to Goshujin-sama - New Ground (Japan)">
+		<category>Games</category>
+		<description>Mahou Tsukai to Goshujin-sama - New Ground (Japan)</description>
+		<rom name="Mahou Tsukai to Goshujin-sama - New Ground (Japan).iso" size="1443430400" crc="c109e3e5" md5="bc14c6908837f0f81cf32761498f733c" sha1="e4d0f6c72764e51ebc5c9bdcfe187b8f5664c8f5"/>
 	</game>
 </datafile>

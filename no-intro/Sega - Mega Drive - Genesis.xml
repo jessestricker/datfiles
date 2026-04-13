@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260412-041716</version>
+		<version>20260412-211135</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1980,7 +1980,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="3777" cloneofid="0248">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).md" size="1048576" crc="09cbd94c" md5="8cb7cf4fd403f6faec238b97a0cf1359" sha1="e4e2efdc33703447f62212ff83b77282d80bf7c6" sha256="e5f7eec78b57fea14174b9e8c1a63eae5469f185999cb58221f63b71063718cd"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).md" size="1048576" crc="09cbd94c" md5="8cb7cf4fd403f6faec238b97a0cf1359" sha1="e4e2efdc33703447f62212ff83b77282d80bf7c6" sha256="e5f7eec78b57fea14174b9e8c1a63eae5469f185999cb58221f63b71063718cd" serial="T-13056-00"/>
 	</game>
 	<game name="Captain America and the Avengers (Europe)" id="0248">
 		<category>Games</category>
@@ -11381,12 +11381,12 @@
 	<game name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)" id="3774" cloneofid="1256">
 		<category>Games</category>
 		<description>Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection)</description>
-		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).md" size="2097152" crc="f4726918" md5="6f5baac0812db4ceeecdbb9a3062cf10" sha1="8ad3133e02747c3966ad6cfa206f483fb78cf1b1" sha256="0fcc855dd503adb8a77e94f7ad4d22912e3f4a76da55147d18f3900eba4e2f3a"/>
+		<rom name="Spider-Man - Venom - Maximum Carnage (World) (Marvel MaXimum Collection).md" size="2097152" crc="f4726918" md5="6f5baac0812db4ceeecdbb9a3062cf10" sha1="8ad3133e02747c3966ad6cfa206f483fb78cf1b1" sha256="0fcc855dd503adb8a77e94f7ad4d22912e3f4a76da55147d18f3900eba4e2f3a" serial="T-081256-00"/>
 	</game>
 	<game name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)" id="3776" cloneofid="1853">
 		<category>Games</category>
 		<description>Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)</description>
-		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).md" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4" sha256="d66bf7f13ada8eab599f3bca13079c697797e67a2a004aafc4c0ff973e0aa240"/>
+		<rom name="Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).md" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4" sha256="d66bf7f13ada8eab599f3bca13079c697797e67a2a004aafc4c0ff973e0aa240" serial="T-081136-00"/>
 	</game>
 	<game name="Spider-Man - X-Men - Arcade's Revenge (Europe) (Rev 1)" id="1853">
 		<category>Games</category>
@@ -13581,7 +13581,7 @@
 	<game name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)" id="3778" cloneofid="1257">
 		<category>Games</category>
 		<description>Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection)</description>
-		<rom name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).md" size="3145728" crc="337cda6d" md5="3e7bb422a490100e5ef44c75e5a4919c" sha1="2025e4ddd9d8b0816523425993154f469919455b" sha256="0462f272e8c468dfeadbc27b013b0a43d63d65c5e0827848827abf597040b5cb"/>
+		<rom name="Venom - Spider-Man - Separation Anxiety (World) (Marvel MaXimum Collection).md" size="3145728" crc="337cda6d" md5="3e7bb422a490100e5ef44c75e5a4919c" sha1="2025e4ddd9d8b0816523425993154f469919455b" sha256="0462f272e8c468dfeadbc27b013b0a43d63d65c5e0827848827abf597040b5cb" serial="T-81556-00"/>
 	</game>
 	<game name="Vermilion (Japan)" id="1496" cloneofid="1361">
 		<category>Games</category>

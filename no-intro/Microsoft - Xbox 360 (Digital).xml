@@ -4,7 +4,7 @@
 		<id>57</id>
 		<name>Microsoft - Xbox 360 (Digital)</name>
 		<description>Microsoft - Xbox 360 (Digital)</description>
-		<version>20260313-093658</version>
+		<version>20260412-175259</version>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18,14 +18,19 @@
 		<description>'Splosion Man - Prologue to Ms. Splosion Man (World) (Addon)</description>
 		<rom name="5841098F\00000002\CCB5AF46AFE1347322A89783FA671A6B481D019758" size="897024" crc="99b9f2d5" md5="5c001ea674ba2b7a3da794722bd51db3" sha1="0e0282c8e2b6b413e50066a486395d17b81f0242"/>
 	</game>
-	<game name="'Splosion Man - Splosion Man - TU 5 (World) (Addon)" id="05712">
-		<description>'Splosion Man - Splosion Man - TU 5 (World) (Addon)</description>
+	<game name="'Splosion Man - Splosion Man (World) (v5) (Title Update)" id="05712">
+		<description>'Splosion Man - Splosion Man (World) (v5) (Title Update)</description>
 		<game_id>1F967A36</game_id>
 		<rom name="Cache\TU_1C422CF_0000104000000.0000000000181" size="3051520" crc="976b57d1" md5="82d92459f43f87d873b4869a707ac8bc" sha1="ae79f205daabbc3367a4aaa9e4c28cca2c0653e7" sha256="25e1f8f83ad9253a6a09a7090eecac0c26408f80bdfa397b581ec3e648893e2e"/>
 	</game>
 	<game name="$1 Zombie Game, The (World) (XBLIG)" id="11790">
 		<description>$1 Zombie Game, The (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\322D96A41AAD6357F85638F5788762559ACF461F58" size="53243904" crc="d3410bb1" md5="ff68fab3bf3e97dc87e8f5195948fb65" sha1="dfdbde8cc04ea3fb26862ed1e6e84d9f6d3eb278"/>
+	</game>
+	<game name="0 Day Attack on Earth (World) (v2) (Title Update)" id="05713">
+		<description>0 Day Attack on Earth (World) (v2) (Title Update)</description>
+		<game_id>79595405</game_id>
+		<rom name="Cache\TU_1C422DN_0000108000000.00000000000G2" size="233472" crc="8ae9ea77" md5="7271adbf3404540c17b8377e0029886a" sha1="d6c70930f4acf3d8cadeb214042bbe7304f86ee9" sha256="8152ab8ea42b9c278d72c7b9cf242632c9dfb542aca4312af5646441db90cce5"/>
 	</game>
 	<game name="0 Day Attack on Earth (World) (XBLA)" id="00044">
 		<description>0 Day Attack on Earth (World) (XBLA)</description>
@@ -38,11 +43,6 @@
 	<game name="0 Day Attack on Earth - Night Missions Map Pack (World) (Addon)" id="00551">
 		<description>0 Day Attack on Earth - Night Missions Map Pack (World) (Addon)</description>
 		<rom name="584109B7\00000002\4942E61AFD9154744E668C0B9AEFE57800AAEABE58" size="141549568" crc="10d28f2a" md5="4e86173e288aa1695d9645962c8d1fc2" sha1="b57584153cde3837387175c98aac75cbd4bc760a"/>
-	</game>
-	<game name="0 day Attack on Earth - TU 2 (World) (Addon)" id="05713">
-		<description>0 day Attack on Earth - TU 2 (World) (Addon)</description>
-		<game_id>79595405</game_id>
-		<rom name="Cache\TU_1C422DN_0000108000000.00000000000G2" size="233472" crc="8ae9ea77" md5="7271adbf3404540c17b8377e0029886a" sha1="d6c70930f4acf3d8cadeb214042bbe7304f86ee9" sha256="8152ab8ea42b9c278d72c7b9cf242632c9dfb542aca4312af5646441db90cce5"/>
 	</game>
 	<game name="0 Gravity Y3030 (World) (XBLIG)" id="11791">
 		<description>0 Gravity Y3030 (World) (XBLIG)</description>
@@ -176,8 +176,8 @@
 		<description>2012 Athletics Tournament (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\26ABFA31D26B3833DC819E46A248364DB6267A1F58" size="14893056" crc="a25d0f0b" md5="bb58091ab1286f35a02b2e249ca57613" sha1="4a0796e6f594f8a4729dea5572122ef68578cb71"/>
 	</game>
-	<game name="2014 FIFA World Cup Brazil - TU 1 (World) (Addon)" id="05714">
-		<description>2014 FIFA World Cup Brazil - TU 1 (World) (Addon)</description>
+	<game name="2014 FIFA World Cup Brazil (World) (Title Update)" id="05714">
+		<description>2014 FIFA World Cup Brazil (World) (Title Update)</description>
 		<game_id>5D31A745</game_id>
 		<rom name="Cache\TU_12K22EK_000001K000000.000000000008D" size="3391488" crc="5b4bf5c0" md5="f6705de055c42d41e3dbfcafaf790c31" sha1="d1af483540a4d9631053a54a03fbf5913c34b08c" sha256="acb3cb6c154ee8c7a5f72f47d9a992d3375766f77913f8a57fd3c0d2327f5916"/>
 	</game>
@@ -1035,10 +1035,6 @@
 	<game name="9 Ball Pool Champion (World) (XBLIG)" id="11846">
 		<description>9 Ball Pool Champion (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\CB256BB65D64EE30E34809D493DFDD8AD543AEB658" size="48320512" crc="0d862cf6" md5="15e0786e6bfb937ebb81a8ff01709e34" sha1="5f0b30e238469d7ee9cecf240cc09b477f4bc57e"/>
-	</game>
-	<game name="A Fever Dance with Disco Ball (World) (373907D1) (Addon)" id="06314">
-		<description>A Fever Dance with Disco Ball (World) (373907D1) (Addon)</description>
-		<rom name="373907D1\00009000\000010005A67F233CF027707373907D1" size="225280" crc="b7ba3ea8" md5="1aca874c843a162684152538bf822f81" sha1="cf0b1442684359befa5c9110b83f81590284aa36"/>
 	</game>
 	<game name="a Voxel Action (World) (XBLIG)" id="11847">
 		<description>a Voxel Action (World) (XBLIG)</description>
@@ -2382,31 +2378,31 @@
 		<rom name="413607D3\00009000\00001000EC938213CAB8E393413607D3" size="229376" crc="e4ddaceb" md5="1c5dae71671c2471f9b315a30b063819" sha1="1cd40c1fe94b420dcb12aae50cf31ea41f9d5364"/>
 		<rom name="413607D3\00009000\00001000F4E7A2A3CCC85481413607D3" size="147456" crc="0163f90f" md5="d2262ada3c132af25909315746fb2ef7" sha1="0b43471ee31a117a36af32cd9d451f3bcc68f019"/>
 	</game>
-	<game name="Adventure Time - Explore the Dungeon Because I DON'T KNOW! - Gunter (World) (Addon)" id="05615">
-		<description>Adventure Time - Explore the Dungeon Because I DON'T KNOW! - Gunter (World) (Addon)</description>
-		<rom name="44500807\00000002\AF9F4E9A571C8E3D8608C1B24A85DDF118A2EE2344" size="5275648" crc="163e6e5d" md5="880bf46270b5776d5c9891ff6e69c6bf" sha1="d44f31a7b7cb9fd86a8d062307cb5c12f26baa4c" sha256="66f446479cb7faba05feb3731266c29ba10b12dd9e8441725b7c706fa320e963"/>
-	</game>
-	<game name="Adventure Time - Explore the Dungeon Because I DON'T KNOW! - King of Mars (World) (Addon)" id="05613">
-		<description>Adventure Time - Explore the Dungeon Because I DON'T KNOW! - King of Mars (World) (Addon)</description>
-		<rom name="44500807\00000002\5280187AA0B6787D0DD4B9CA3A32B51E2B090D6E44" size="6037504" crc="883c5c46" md5="3d09f5701153719829b153d0fa1b04f8" sha1="023ab46dc2625d06ef6d7bf4a84c9fb0bb66aa7c" sha256="fd34aed21ee1bef0127059b89991161893f45453f6fec70d6c5a25621789a09c"/>
-	</game>
-	<game name="Adventure Time - Explore the Dungeon Because I DON'T KNOW! - Peppermint Butler (World) (Addon)" id="05614">
-		<description>Adventure Time - Explore the Dungeon Because I DON'T KNOW! - Peppermint Butler (World) (Addon)</description>
-		<rom name="44500807\00000002\6DDB80E6CD880CC78292E725ADD35800154AFD3144" size="5287936" crc="ca99e368" md5="df737f096687dd4ed26fce0e4795f8ac" sha1="dfd5a6a53e42262e8444c133382c27d912296808" sha256="1e8a44998e0f89fa50c470087a071fd52fc0216eada1c0b4ce00c2cbcd4a01e8"/>
-	</game>
-	<game name="Adventure Time - Explore the Dungeon Because I DON'T KNOW! - TU 1 (World) (Addon)" id="05716">
-		<description>Adventure Time - Explore the Dungeon Because I DON'T KNOW! - TU 1 (World) (Addon)</description>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! (World) (Title Update)" id="05716">
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! (World) (Title Update)</description>
 		<game_id>2C32D8E2</game_id>
 		<rom name="44500807\000B0000\tu00000001_00000000" size="33783808" crc="2c3f7578" md5="6ca213647061680ef30cb6ca914aa282" sha1="4f2fec668df66fe29d708910b0824c3e51a9ba7d" sha256="6e63b8cf2c4fd2c4f26353a52103343fc3585ae19d8e6e36a5ac2407eabb6228"/>
+	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! - Gunter (World) (DLC)" id="05615">
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! - Gunter (World) (DLC)</description>
+		<rom name="44500807\00000002\AF9F4E9A571C8E3D8608C1B24A85DDF118A2EE2344" size="5275648" crc="163e6e5d" md5="880bf46270b5776d5c9891ff6e69c6bf" sha1="d44f31a7b7cb9fd86a8d062307cb5c12f26baa4c" sha256="66f446479cb7faba05feb3731266c29ba10b12dd9e8441725b7c706fa320e963"/>
+	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! - King of Mars (World) (DLC)" id="05613">
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! - King of Mars (World) (DLC)</description>
+		<rom name="44500807\00000002\5280187AA0B6787D0DD4B9CA3A32B51E2B090D6E44" size="6037504" crc="883c5c46" md5="3d09f5701153719829b153d0fa1b04f8" sha1="023ab46dc2625d06ef6d7bf4a84c9fb0bb66aa7c" sha256="fd34aed21ee1bef0127059b89991161893f45453f6fec70d6c5a25621789a09c"/>
+	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! - Peppermint Butler (World) (DLC)" id="05614">
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! - Peppermint Butler (World) (DLC)</description>
+		<rom name="44500807\00000002\6DDB80E6CD880CC78292E725ADD35800154AFD3144" size="5287936" crc="ca99e368" md5="df737f096687dd4ed26fce0e4795f8ac" sha1="dfd5a6a53e42262e8444c133382c27d912296808" sha256="1e8a44998e0f89fa50c470087a071fd52fc0216eada1c0b4ce00c2cbcd4a01e8"/>
+	</game>
+	<game name="Adventure Time - Finn &amp; Jake Investigations (World) (Title Update)" id="05717">
+		<description>Adventure Time - Finn &amp; Jake Investigations (World) (Title Update)</description>
+		<game_id>320BCCE1</game_id>
+		<rom name="373407D8\000B0000\tu00000001_00000000" size="36593664" crc="288fdfd0" md5="1b4cd05b42f5fed42a71de56edd58bcc" sha1="c65da87601dd483ce3fdea744f7494b70d5f6a39" sha256="35bf265dacd296c0c35fa0873f2a77ab55be8639c6fc75e23ff750a6ddc29d44"/>
 	</game>
 	<game name="Adventure Time - Finn &amp; Jake Investigations - Artifact Checking (World) (Addon)" id="05630">
 		<description>Adventure Time - Finn &amp; Jake Investigations - Artifact Checking (World) (Addon)</description>
 		<rom name="373407D8\00000002\C44AAFFABD1C37138D24FBCB7D7B0569FFF5859C37" size="384364544" crc="9857a662" md5="b765d9b9c0d32b7ffedfa25da9f50b9f" sha1="d7c7edbda861c238653c08cb5b488ac3d8f793e4"/>
-	</game>
-	<game name="Adventure Time - Finn &amp; Jake Investigations - TU 1 (World) (Addon)" id="05717">
-		<description>Adventure Time - Finn &amp; Jake Investigations - TU 1 (World) (Addon)</description>
-		<game_id>320BCCE1</game_id>
-		<rom name="373407D8\000B0000\tu00000001_00000000" size="36593664" crc="288fdfd0" md5="1b4cd05b42f5fed42a71de56edd58bcc" sha1="c65da87601dd483ce3fdea744f7494b70d5f6a39" sha256="35bf265dacd296c0c35fa0873f2a77ab55be8639c6fc75e23ff750a6ddc29d44"/>
 	</game>
 	<game name="Adventurer Pets HD (World) (XBLIG)" id="11891">
 		<description>Adventurer Pets HD (World) (XBLIG)</description>
@@ -2511,8 +2507,8 @@
 		<description>After Burner Climax (World) (Beta) (XBLA)</description>
 		<rom name="58410A06\000D0000\6840ACC01BAE9B0EBB40F577349428B04B9042A958" size="518701056" crc="3f5bfbc0" md5="2d31e20290d6e8159b21b55888bf6b11" sha1="fca108d6d5769cba42df6c5d6838e4e36ecb9724"/>
 	</game>
-	<game name="After Burner Climax - Picture Pack (World) (Addon for XBLA)" id="02537">
-		<description>After Burner Climax - Picture Pack (World) (Addon for XBLA)</description>
+	<game name="After Burner Climax - Picture Pack (World) (DLC)" id="02537">
+		<description>After Burner Climax - Picture Pack (World) (DLC)</description>
 		<rom name="58410A06\00020000\D69BF847A9052EAB60F0B7F4830EE9928FF1C2B558" size="135168" crc="d15bc2c4" md5="45106d0a2c00252390c1a13ce3a2b44a" sha1="a3a87a981a7678055f623889d397fd8a12ae633f"/>
 	</game>
 	<game name="After Dusk (World) (XBLIG)" id="11900">
@@ -2742,13 +2738,18 @@
 		<description>Alexander Learning Series 360 (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\13F9731926E07209962DB052AD6F5849A9D5219658" size="18710528" crc="7d5bab34" md5="f52fd28b0b5dd168f9e1b1f094400f14" sha1="35d18c456431b40a35879b582bc2839c97e3ca80"/>
 	</game>
-	<game name="Alice - Madness Returns - American McGee's Alice DLC (World) (Addon)" id="03326">
-		<description>Alice - Madness Returns - American McGee's Alice DLC (World) (Addon)</description>
+	<game name="Alice - Madness Returns - American McGee's Alice (World) (DLC)" id="03326">
+		<description>Alice - Madness Returns - American McGee's Alice (World) (DLC)</description>
 		<rom name="45410916\00000002\A5FBD9A1D9F3B40F273EDD1DDD279A98C813C57045" size="1008488448" crc="58dee50b" md5="1f150d935e0622b3521599b30d614493" sha1="ca15d0c60434c4df6c2c348f188eb529041aa759"/>
 	</game>
 	<game name="Alice - Madness Returns - Weapons of Madness and Dresses Pack (World) (Addon)" id="03325">
 		<description>Alice - Madness Returns - Weapons of Madness and Dresses Pack (World) (Addon)</description>
 		<rom name="45410916\00000002\D9A4B72B89A521542CD1AA6261B4A5D920915D8145" size="57344" crc="2b1ac0ac" md5="f726fe6ef56c7ba85e24385efaa7d46a" sha1="45d35b49f7391d0e5433ff9c1a75f5e35d07c973"/>
+	</game>
+	<game name="Alien - Isolation (World) (v2) (Title Update)" id="05722">
+		<description>Alien - Isolation (World) (v2) (Title Update)</description>
+		<game_id>6C4728D7</game_id>
+		<rom name="5345085E\000B0000\tu00000005_00000000" size="945115136" crc="911d5f21" md5="a177219f488ad06008b77ae5bd3d77ef" sha1="6fdd3733abd1b2c3b3a10df7276b1cb63204215e" sha256="23751fefe508d3058e2d97feabb52937125be7f93887f920950192279dbd50a0"/>
 	</game>
 	<game name="Alien - Isolation - Corporate Lockdown (World) (Addon)" id="05655">
 		<description>Alien - Isolation - Corporate Lockdown (World) (Addon)</description>
@@ -2781,11 +2782,6 @@
 	<game name="Alien - Isolation - Trauma (World) (Addon)" id="05654">
 		<description>Alien - Isolation - Trauma (World) (Addon)</description>
 		<rom name="5345085E\00000002\7C8BF5A9353D7F76601D76C3641364291036520F53" size="561704960" crc="c7b5fdc5" md5="25d3eff1af4519f3649ef0cf3ca370ba" sha1="e7f5dd9f1b6f11722b90460676e3a5bd6c6728a5" sha256="7829b1986178c8d6c3dd2f146c3f5acd121b17b3737cd0c7d54541dcc94e35d2"/>
-	</game>
-	<game name="Alien - Isolation - TU 2 (World) (Addon)" id="05722">
-		<description>Alien - Isolation - TU 2 (World) (Addon)</description>
-		<game_id>6C4728D7</game_id>
-		<rom name="5345085E\000B0000\tu00000005_00000000" size="945115136" crc="911d5f21" md5="a177219f488ad06008b77ae5bd3d77ef" sha1="6fdd3733abd1b2c3b3a10df7276b1cb63204215e" sha256="23751fefe508d3058e2d97feabb52937125be7f93887f920950192279dbd50a0"/>
 	</game>
 	<game name="Alien Breed - Evolution (World) (XBLA)" id="00050">
 		<description>Alien Breed - Evolution (World) (XBLA)</description>
@@ -3046,14 +3042,14 @@
 		<description>All Zombies Must Die! (World) (XBLA)</description>
 		<rom name="58411204\000D0000\8F749F7A5589DAB92E0520F83D1F4E4091FCEE5858" size="433446912" crc="7748e76c" md5="3ca27e261082c390c577847d70a2529a" sha1="08bc0618dc64592e1fe54917751faf636792b9af"/>
 	</game>
+	<game name="All-Pro Football 2K8 (World) (Title Update)" id="05724">
+		<description>All-Pro Football 2K8 (World) (Title Update)</description>
+		<game_id>7744078F</game_id>
+		<rom name="Cache\TU_1A58207_0000008000000.0000000000082" size="839680" crc="06f5fde6" md5="b5d523eb8ae13cfbdd8048350113b1cd" sha1="e2765e95b978d58fced16f8b5369144179943f1b" sha256="8a09c837a3ac4c8f8654d0093c275ae7659db3c941d325d1e8c8382b2a083a31"/>
+	</game>
 	<game name="All-Pro Football 2K8 - 2K ReelMaker for All Pro Football 2K8 (World) (Addon)" id="05595">
 		<description>All-Pro Football 2K8 - 2K ReelMaker for All Pro Football 2K8 (World) (Addon)</description>
 		<rom name="54540807\00000002\A8582560C69AD0FFD200BF7BF37CD99E4ABA3A7F54" size="57344" crc="3002c7ff" md5="3145383acd6db085f07e4b5a877ba0b4" sha1="5ba074d0f91d12bb908fbf5139aff9ababc05748" sha256="2d1b85766358022e9c899d751f184a213c88ce3be99b0f38e9009c0c58d22efc"/>
-	</game>
-	<game name="All-Pro Football 2K8 - TU 1 (World) (Addon)" id="05724">
-		<description>All-Pro Football 2K8 - TU 1 (World) (Addon)</description>
-		<game_id>7744078F</game_id>
-		<rom name="Cache\TU_1A58207_0000008000000.0000000000082" size="839680" crc="06f5fde6" md5="b5d523eb8ae13cfbdd8048350113b1cd" sha1="e2765e95b978d58fced16f8b5369144179943f1b" sha256="8a09c837a3ac4c8f8654d0093c275ae7659db3c941d325d1e8c8382b2a083a31"/>
 	</game>
 	<game name="Allegory (World) (XBLIG)" id="11934">
 		<description>Allegory (World) (XBLIG)</description>
@@ -3182,6 +3178,11 @@
 		<description>Amazing Spider-Man 2, The - Web Threads Suit Pack (World) (Addon)</description>
 		<rom name="41560905\00000002\C9A91D71A2714D512C9DBB0F495D54FD4C7811C241" size="16965632" crc="3874edcd" md5="5956e8f3db03e6525b695e7e431b6d6e" sha1="f5e929f8740eda56b4085bd182620810531475cf" sha256="8d61479ba9aac96d45739a08a3c8ad69c019529848fc0027bd502a1881ca6235"/>
 	</game>
+	<game name="Amazing Spider-Man, The (World) (v2) (Title Update)" id="05725">
+		<description>Amazing Spider-Man, The (World) (v2) (Title Update)</description>
+		<game_id>63461509</game_id>
+		<rom name="Cache\TU_10LC25L_000000O000000.00000000000G6" size="1146880" crc="88f1bc7a" md5="6a89de3f32d0c2eb2f452d2f6d47689d" sha1="b82f5b0cb06d167021f4f3a999ac4c54beb5e706" sha256="4ccfa056e211ba3270d0551e85863ea45067773c90074ea1ef6ac376ec7effca"/>
+	</game>
 	<game name="Amazing Spider-Man, The - Lizard Rampage Pack (World) (Addon)" id="04025">
 		<description>Amazing Spider-Man, The - Lizard Rampage Pack (World) (Addon)</description>
 		<rom name="415608B5\00000002\3AB9BCD308F3F9CF452A490B286E6F05A46DAED741" size="51695616" crc="7471aee8" md5="761b361d5bcf3ddf4eccef9e37ad708b" sha1="8e85d61b3e6f4197bf9290295f894be739ffd7a3"/>
@@ -3197,11 +3198,6 @@
 	<game name="Amazing Spider-Man, The - Stan Lee Adventure Pack (World) (Addon)" id="04028">
 		<description>Amazing Spider-Man, The - Stan Lee Adventure Pack (World) (Addon)</description>
 		<rom name="415608B5\00000002\DCF34A4AFA4FBC2EF933EAC50FDB45B81BF489B541" size="121090048" crc="f4f7173d" md5="6177756d40acf9824fe92127afeaf145" sha1="6209f992dd55f8d410d8819402651fe5f802bbad"/>
-	</game>
-	<game name="Amazing Spider-Man, The - TU 2 (World) (Addon)" id="05725">
-		<description>Amazing Spider-Man, The - TU 2 (World) (Addon)</description>
-		<game_id>63461509</game_id>
-		<rom name="Cache\TU_10LC25L_000000O000000.00000000000G6" size="1146880" crc="88f1bc7a" md5="6a89de3f32d0c2eb2f452d2f6d47689d" sha1="b82f5b0cb06d167021f4f3a999ac4c54beb5e706" sha256="4ccfa056e211ba3270d0551e85863ea45067773c90074ea1ef6ac376ec7effca"/>
 	</game>
 	<game name="Amazing Wizard (World) (XBLIG)" id="11951">
 		<description>Amazing Wizard (World) (XBLIG)</description>
@@ -8398,13 +8394,13 @@
 		<description>Bionic Arm (World) (5858086A) (Addon)</description>
 		<rom name="5858086A\00009000\00001000AA41A203CF3A2C285858086A" size="249856" crc="1c837fc7" md5="2e2cdbbe66704f0b8ac1ddc882b0febe" sha1="82b3b51847da87bdfda4c4282be2db8aa41f0b9d"/>
 	</game>
-	<game name="Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)" id="01115">
-		<description>Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)</description>
-		<rom name="58410937\000D0000\0F453B07F171BD8B63031D0B64461819B5CCB47058" size="223428608" crc="4cbf0cd4" md5="144030d1c0f76d978208395acf21dc40" sha1="1beb637cdf6e7bf07dd36ce0a6106504858d602c"/>
-	</game>
 	<game name="Bionic Commando - Rearmed (World) (XBLA)" id="00067">
 		<description>Bionic Commando - Rearmed (World) (XBLA)</description>
 		<rom name="584108F1\000D0000\15E5ACDFE8CD19D92CC652A1943A10300BAC211A58" size="223723520" crc="fea959a9" md5="bd927e68c8ca611c4c922d132d2c1074" sha1="cee12468a01604ed6b7a38dc8940270e26d0a91c"/>
+	</game>
+	<game name="Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)" id="01115">
+		<description>Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)</description>
+		<rom name="58410937\000D0000\0F453B07F171BD8B63031D0B64461819B5CCB47058" size="223428608" crc="4cbf0cd4" md5="144030d1c0f76d978208395acf21dc40" sha1="1beb637cdf6e7bf07dd36ce0a6106504858d602c"/>
 	</game>
 	<game name="Bionic Commando - Rearmed - TU 2 (World) (Addon)" id="05818">
 		<description>Bionic Commando - Rearmed - TU 2 (World) (Addon)</description>
@@ -17185,121 +17181,121 @@
 		<rom name="373307D2\00009000\00001000CAC112C3C8C32D79373307D2" size="196608" crc="812833f3" md5="9fb3dc2308766c45867241b0015d948c" sha1="647814d7e30fd3d1da07be41fa69754cde8dbe31"/>
 		<rom name="373307D2\00009000\00001000D00B42C3C44A9786373307D2" size="188416" crc="68a58083" md5="4642af876b8ad5ee836f630156b4822c" sha1="b5f98b9d8b3f625a891f3f429976117d991e0e47"/>
 	</game>
-	<game name="Dance Central 2 - Closer (World) (DLC)" id="09453">
-		<description>Dance Central 2 - Closer (World) (DLC)</description>
-		<rom name="373307D2\00000002\B1DDD0E1BC9C512FBA730662CD63CABB6362514537" size="14139392" crc="2206b4fe" md5="c4755ee5f3f034ba0825033f2f0bf930" sha1="78c98f3457e12df1861752bebd17db797b49a11b"/>
+	<game name="Dance Central 2 - A Tribe Called Quest - Scenario (World) (DLC)" id="09476">
+		<description>Dance Central 2 - A Tribe Called Quest - Scenario (World) (DLC)</description>
+		<rom name="373307D2\00000002\83FDAD90F2BBB3F38E7FB4EF18C84F383025BEF037" size="28471296" crc="523fecc6" md5="ad66fde886508481034d24fa8290b8d6" sha1="24789a5db2e35c7e3d10ee90d6bd02112ff0f34a"/>
 	</game>
-	<game name="Dance Central 2 - Commander (World) (DLC)" id="09454">
-		<description>Dance Central 2 - Commander (World) (DLC)</description>
-		<rom name="373307D2\00000002\6AB131D924C1216792642E3ED69FDAE442276C4637" size="19742720" crc="649bb85f" md5="821cc1c527238100037d52d489373f48" sha1="a3035ded3e63c871c5879e6177eb55e32e7b0877"/>
+	<game name="Dance Central 2 - Busta Rhymes - Don't Touch Me - Throw da Water on 'Em (World) (DLC)" id="09456">
+		<description>Dance Central 2 - Busta Rhymes - Don't Touch Me - Throw da Water on 'Em (World) (DLC)</description>
+		<rom name="373307D2\00000002\19684CDD675E626D9709917853B8889F86D1209B37" size="18812928" crc="9f4160d3" md5="10021f944e5dcd2bf28f36f4d93fec3c" sha1="bcc6666779c9b33196db3211522db24f9cc0561a"/>
+	</game>
+	<game name="Dance Central 2 - C+C Music Factory - Gonna Make You Sweat - Everybody Dance Now (World) (DLC)" id="09460">
+		<description>Dance Central 2 - C+C Music Factory - Gonna Make You Sweat - Everybody Dance Now (World) (DLC)</description>
+		<rom name="373307D2\00000002\DA34A1EE4EA661785BC72F2037583E9C0C9AE9E537" size="20254720" crc="3e118005" md5="8856b78f9174c4ded338362ac1533ec2" sha1="cd357d5cbd46691efecb0859dd6e36d2fa312326"/>
+	</game>
+	<game name="Dance Central 2 - Cee Lo Green - Forget You (World) (DLC)" id="09458">
+		<description>Dance Central 2 - Cee Lo Green - Forget You (World) (DLC)</description>
+		<rom name="373307D2\00000002\61E8B51D0C82BDA7890F1D0016530781E12300FD37" size="17154048" crc="a9e6e107" md5="55691dc4f960d05a8edad4dd716e9edf" sha1="9adfaa45aabb56fbb84c8da25e59a397c8e797f1"/>
+	</game>
+	<game name="Dance Central 2 - Chris Brown - Yeah 3X (World) (DLC)" id="09480">
+		<description>Dance Central 2 - Chris Brown - Yeah 3X (World) (DLC)</description>
+		<rom name="373307D2\00000002\63301632F3032BD08A93B67CC341C3743E3528D537" size="18505728" crc="a1c172ee" md5="e54732f8938b973ddd0c38278fb3355d" sha1="b0fe904b59bfd6938899e81e4e7409f331cbc8fa"/>
 	</game>
 	<game name="Dance Central 2 - Dance Central Import Pack (World) (DLC)" id="09455">
 		<description>Dance Central 2 - Dance Central Import Pack (World) (DLC)</description>
 		<rom name="373307D2\00000002\EFC80CF897914CCB057C7D137599B2585E1720E437" size="212488192" crc="639cf70a" md5="7875cbd5f66f8f81ab3bb77e3a4ce0ca" sha1="4f3bf4e1bfe46eb041574b6e97eb332b12bc4745"/>
 	</game>
-	<game name="Dance Central 2 - Don't Touch Me (Throw da Water on 'Em) (World) (DLC)" id="09456">
-		<description>Dance Central 2 - Don't Touch Me (Throw da Water on 'Em) (World) (DLC)</description>
-		<rom name="373307D2\00000002\19684CDD675E626D9709917853B8889F86D1209B37" size="18812928" crc="9f4160d3" md5="10021f944e5dcd2bf28f36f4d93fec3c" sha1="bcc6666779c9b33196db3211522db24f9cc0561a"/>
+	<game name="Dance Central 2 - Demi Lovato - La La Land (World) (DLC)" id="09464">
+		<description>Dance Central 2 - Demi Lovato - La La Land (World) (DLC)</description>
+		<rom name="373307D2\00000002\EB7AE28F92DD9DCEA68DA225610900A4905ACC6A37" size="16465920" crc="f1059879" md5="3fde4eaab4658a0569a6e1da69b210b7" sha1="0ee239a91823bf9a0035b9391cf6fad10b3a0852"/>
 	</game>
-	<game name="Dance Central 2 - Down On Me (World) (DLC)" id="09457">
-		<description>Dance Central 2 - Down On Me (World) (DLC)</description>
-		<rom name="373307D2\00000002\FCC03CAAFC4D650BF3B8B048083C3B6D6AC8252937" size="16314368" crc="b531240f" md5="de16061bf7951564700bbd60efe9aaf0" sha1="f93ac233291886624434da87af3d05fd841ad2e3"/>
-	</game>
-	<game name="Dance Central 2 - Forget You (World) (DLC)" id="09458">
-		<description>Dance Central 2 - Forget You (World) (DLC)</description>
-		<rom name="373307D2\00000002\61E8B51D0C82BDA7890F1D0016530781E12300FD37" size="17154048" crc="a9e6e107" md5="55691dc4f960d05a8edad4dd716e9edf" sha1="9adfaa45aabb56fbb84c8da25e59a397c8e797f1"/>
-	</game>
-	<game name="Dance Central 2 - Give Me Everything (World) (DLC)" id="09459">
-		<description>Dance Central 2 - Give Me Everything (World) (DLC)</description>
-		<rom name="373307D2\00000002\B4CFDE13347E0270B7B05D74FC7320AB7787690237" size="24354816" crc="7fee5e87" md5="6786367116a19cd4accc286dcde16dd0" sha1="38a835d4146777c24d82682ab13493f2f1d23135"/>
-	</game>
-	<game name="Dance Central 2 - Gonna Make You Sweat (Everybody Dance Now) (World) (DLC)" id="09460">
-		<description>Dance Central 2 - Gonna Make You Sweat (Everybody Dance Now) (World) (DLC)</description>
-		<rom name="373307D2\00000002\DA34A1EE4EA661785BC72F2037583E9C0C9AE9E537" size="20254720" crc="3e118005" md5="8856b78f9174c4ded338362ac1533ec2" sha1="cd357d5cbd46691efecb0859dd6e36d2fa312326"/>
-	</game>
-	<game name="Dance Central 2 - Hello Good Morning (World) (DLC)" id="09461">
-		<description>Dance Central 2 - Hello Good Morning (World) (DLC)</description>
+	<game name="Dance Central 2 - Diddy-Dirty Money ft. T.I. - Hello Good Morning (World) (DLC)" id="09461">
+		<description>Dance Central 2 - Diddy-Dirty Money ft. T.I. - Hello Good Morning (World) (DLC)</description>
 		<rom name="373307D2\00000002\0DF5DABC595400FDB4FB83D7DB31B67C1D616EB237" size="19267584" crc="e4515324" md5="fc9254fb7da5d4b4da7eacc395df7123" sha1="3f08fbf52870ba7064e20e7cb802afd396395356"/>
 	</game>
-	<game name="Dance Central 2 - Hot In Herre (World) (DLC)" id="09462">
-		<description>Dance Central 2 - Hot In Herre (World) (DLC)</description>
-		<rom name="373307D2\00000002\94647B6E00E0B0F9EAB471907D2CAE2280D2072F37" size="17293312" crc="e5208313" md5="9afa3f16603fd58cd492c994023d6b10" sha1="91ee907c7f864417aa942804dc857ef358ab017d"/>
+	<game name="Dance Central 2 - Flo Rida - Low (World) (DLC)" id="09466">
+		<description>Dance Central 2 - Flo Rida - Low (World) (DLC)</description>
+		<rom name="373307D2\00000002\6807B65C19CC9A57EF3E31F5597280AF34B9F6E037" size="16523264" crc="6c2c753a" md5="f073afae622293c29785efd7798d611d" sha1="933500f79264a3b44d1d5de9c04d7149992593a3"/>
+	</game>
+	<game name="Dance Central 2 - Iyaz - Replay (World) (DLC)" id="09472">
+		<description>Dance Central 2 - Iyaz - Replay (World) (DLC)</description>
+		<rom name="373307D2\00000002\4EE9D9583DD0496C3A550A75FD4BDDDA45A845D137" size="13574144" crc="787e9dbb" md5="2a2121b9b7d9300b166486649c244f80" sha1="3998a12e8282a345168d2ab111bd114820f7bc9d"/>
 	</game>
 	<game name="Dance Central 2 - Janet Jackson Dance Pack 01 (World) (DLC)" id="09463">
 		<description>Dance Central 2 - Janet Jackson Dance Pack 01 (World) (DLC)</description>
 		<rom name="373307D2\00000002\54DCF85AAA63ADC7805EF040DD4DD0B4690AE04B37" size="33005568" crc="96a7a3e2" md5="935adf6d3ed347dbe4e90f421df6a014" sha1="e85edfd3ac70ee57c96f6de681f518fa9e597d8c"/>
 	</game>
-	<game name="Dance Central 2 - La La Land (World) (DLC)" id="09464">
-		<description>Dance Central 2 - La La Land (World) (DLC)</description>
-		<rom name="373307D2\00000002\EB7AE28F92DD9DCEA68DA225610900A4905ACC6A37" size="16465920" crc="f1059879" md5="3fde4eaab4658a0569a6e1da69b210b7" sha1="0ee239a91823bf9a0035b9391cf6fad10b3a0852"/>
+	<game name="Dance Central 2 - Jeremih ft. 50 Cent - Down on Me (World) (DLC)" id="09457">
+		<description>Dance Central 2 - Jeremih ft. 50 Cent - Down on Me (World) (DLC)</description>
+		<rom name="373307D2\00000002\FCC03CAAFC4D650BF3B8B048083C3B6D6AC8252937" size="16314368" crc="b531240f" md5="de16061bf7951564700bbd60efe9aaf0" sha1="f93ac233291886624434da87af3d05fd841ad2e3"/>
+	</game>
+	<game name="Dance Central 2 - Justin Bieber ft. Jaden Smith - Never Say Never (World) (DLC)" id="09468">
+		<description>Dance Central 2 - Justin Bieber ft. Jaden Smith - Never Say Never (World) (DLC)</description>
+		<rom name="373307D2\00000002\95FED552D47B1BB7438A3F5DB7B32E0EB34B297137" size="17145856" crc="869eada6" md5="cd1f817838ac019040050e6e1d4ca939" sha1="7a4f1a5cd3fe745f8eff3a422a04296b5bf23f60"/>
+	</game>
+	<game name="Dance Central 2 - Kat Deluna feat. Elephant Man - Whine Up (World) (DLC)" id="09479">
+		<description>Dance Central 2 - Kat Deluna feat. Elephant Man - Whine Up (World) (DLC)</description>
+		<rom name="373307D2\00000002\AB621F58D72857DE7B04E287FE8203DF00FBAB2B37" size="27054080" crc="7945c44b" md5="2f77f97fe63caa00906fe62a06777ee7" sha1="f6ddace0a93d250d23ee2de5d2a6bcfba0eafbe1"/>
+	</game>
+	<game name="Dance Central 2 - Kelis - Milkshake (World) (DLC)" id="09467">
+		<description>Dance Central 2 - Kelis - Milkshake (World) (DLC)</description>
+		<rom name="373307D2\00000002\029F256FBF33D8FEDCF98EE88C4B6882401B0CA137" size="17850368" crc="e3bb1c50" md5="6f314c1de3bebcaf3048f2ee92aa4691" sha1="5744a612f58117bc74e2bf3d8cfcbd2405761881"/>
+	</game>
+	<game name="Dance Central 2 - Kelly Rowland ft. David Guetta - Commander (World) (DLC)" id="09454">
+		<description>Dance Central 2 - Kelly Rowland ft. David Guetta - Commander (World) (DLC)</description>
+		<rom name="373307D2\00000002\6AB131D924C1216792642E3ED69FDAE442276C4637" size="19742720" crc="649bb85f" md5="821cc1c527238100037d52d489373f48" sha1="a3035ded3e63c871c5879e6177eb55e32e7b0877"/>
+	</game>
+	<game name="Dance Central 2 - Kevin Rudolf ft. Lil' Wayne - Let It Rock (World) (DLC)" id="09465">
+		<description>Dance Central 2 - Kevin Rudolf ft. Lil' Wayne - Let It Rock (World) (DLC)</description>
+		<rom name="373307D2\00000002\115B95A8C1FB6E3F82FA5BBC58759EB1E329DF1537" size="20840448" crc="f0cc3c2e" md5="9a1c44326bc5f5b40c1b34e05c6a2fbf" sha1="aeca357989372255679e062ffde655cbeeef8454"/>
 	</game>
 	<game name="Dance Central 2 - Lady Gaga Dance Pack 01 (World) (Addon)" id="03608">
 		<description>Dance Central 2 - Lady Gaga Dance Pack 01 (World) (Addon)</description>
 		<rom name="373307D2\00000002\4EA9B975F7417A98AC4EB870673554FD31B9B26D37" size="36970496" crc="6a541709" md5="2785030052a0fee92315f4e0cdccd83c" sha1="79cafe4a574f9950b6b8baec0a8884a19f2d9c88"/>
 	</game>
-	<game name="Dance Central 2 - Let It Rock (World) (DLC)" id="09465">
-		<description>Dance Central 2 - Let It Rock (World) (DLC)</description>
-		<rom name="373307D2\00000002\115B95A8C1FB6E3F82FA5BBC58759EB1E329DF1537" size="20840448" crc="f0cc3c2e" md5="9a1c44326bc5f5b40c1b34e05c6a2fbf" sha1="aeca357989372255679e062ffde655cbeeef8454"/>
-	</game>
-	<game name="Dance Central 2 - Low (World) (DLC)" id="09466">
-		<description>Dance Central 2 - Low (World) (DLC)</description>
-		<rom name="373307D2\00000002\6807B65C19CC9A57EF3E31F5597280AF34B9F6E037" size="16523264" crc="6c2c753a" md5="f073afae622293c29785efd7798d611d" sha1="933500f79264a3b44d1d5de9c04d7149992593a3"/>
-	</game>
-	<game name="Dance Central 2 - Milkshake (World) (DLC)" id="09467">
-		<description>Dance Central 2 - Milkshake (World) (DLC)</description>
-		<rom name="373307D2\00000002\029F256FBF33D8FEDCF98EE88C4B6882401B0CA137" size="17850368" crc="e3bb1c50" md5="6f314c1de3bebcaf3048f2ee92aa4691" sha1="5744a612f58117bc74e2bf3d8cfcbd2405761881"/>
-	</game>
-	<game name="Dance Central 2 - Never Say Never (World) (DLC)" id="09468">
-		<description>Dance Central 2 - Never Say Never (World) (DLC)</description>
-		<rom name="373307D2\00000002\95FED552D47B1BB7438A3F5DB7B32E0EB34B297137" size="17145856" crc="869eada6" md5="cd1f817838ac019040050e6e1d4ca939" sha1="7a4f1a5cd3fe745f8eff3a422a04296b5bf23f60"/>
-	</game>
-	<game name="Dance Central 2 - O.P.P. (World) (DLC)" id="09469">
-		<description>Dance Central 2 - O.P.P. (World) (DLC)</description>
-		<rom name="373307D2\00000002\EB6C3C056A4ABC14822C0BD1D93338495D61E08937" size="20275200" crc="ac47f115" md5="954b5da77393a4c0488056a1de560b6b" sha1="3abcd8bb01352440cca5ef0d86432d5997852f7c"/>
-	</game>
-	<game name="Dance Central 2 - Party Rock Anthem (World) (DLC)" id="09470">
-		<description>Dance Central 2 - Party Rock Anthem (World) (DLC)</description>
+	<game name="Dance Central 2 - LMFAO ft. Lauren Bennett &amp; GoonRock - Party Rock Anthem (World) (DLC)" id="09470">
+		<description>Dance Central 2 - LMFAO ft. Lauren Bennett &amp; GoonRock - Party Rock Anthem (World) (DLC)</description>
 		<rom name="373307D2\00000002\C250FFD75E32CBEFCEE275E6A29BE88CC009247F37" size="21839872" crc="3d4eedcd" md5="1b1682c6252ab13d9f9966335b43ec2c" sha1="d061233969469a96546c4b9e89e0f29b433bb0bc"/>
 	</game>
-	<game name="Dance Central 2 - Promiscuous (World) (DLC)" id="09471">
-		<description>Dance Central 2 - Promiscuous (World) (DLC)</description>
+	<game name="Dance Central 2 - Michael Franti &amp; Spearheard - Say Hey - I Love You (World) (DLC)" id="09475">
+		<description>Dance Central 2 - Michael Franti &amp; Spearheard - Say Hey - I Love You (World) (DLC)</description>
+		<rom name="373307D2\00000002\5AB5321D551798AEDD9A5042F9DB701C6FCD5E9A37" size="12726272" crc="90a292c5" md5="4acb0047dc502063bae42f3c6553155e" sha1="eef46600ae4d68095c1560d24a8baf3e4eb4f36d"/>
+	</game>
+	<game name="Dance Central 2 - Naughty by Nature - O.P.P. (World) (DLC)" id="09469">
+		<description>Dance Central 2 - Naughty by Nature - O.P.P. (World) (DLC)</description>
+		<rom name="373307D2\00000002\EB6C3C056A4ABC14822C0BD1D93338495D61E08937" size="20275200" crc="ac47f115" md5="954b5da77393a4c0488056a1de560b6b" sha1="3abcd8bb01352440cca5ef0d86432d5997852f7c"/>
+	</game>
+	<game name="Dance Central 2 - Ne-Yo - Closer (World) (DLC)" id="09453">
+		<description>Dance Central 2 - Ne-Yo - Closer (World) (DLC)</description>
+		<rom name="373307D2\00000002\B1DDD0E1BC9C512FBA730662CD63CABB6362514537" size="14139392" crc="2206b4fe" md5="c4755ee5f3f034ba0825033f2f0bf930" sha1="78c98f3457e12df1861752bebd17db797b49a11b"/>
+	</game>
+	<game name="Dance Central 2 - Nelly - Hot in Herre (World) (DLC)" id="09462">
+		<description>Dance Central 2 - Nelly - Hot in Herre (World) (DLC)</description>
+		<rom name="373307D2\00000002\94647B6E00E0B0F9EAB471907D2CAE2280D2072F37" size="17293312" crc="e5208313" md5="9afa3f16603fd58cd492c994023d6b10" sha1="91ee907c7f864417aa942804dc857ef358ab017d"/>
+	</game>
+	<game name="Dance Central 2 - Nelly Furtado ft. Timbaland - Promiscuous (World) (DLC)" id="09471">
+		<description>Dance Central 2 - Nelly Furtado ft. Timbaland - Promiscuous (World) (DLC)</description>
 		<rom name="373307D2\00000002\6275B5E459387C0B7AFA4EB34E24D566CF5D426F37" size="14790656" crc="7e658e7d" md5="ebc2d7a901c87b9aa3ccfdea4f3aaaf7" sha1="4f2b5f313a35a85794a4930d2b1495c50870aaa4"/>
 	</game>
-	<game name="Dance Central 2 - Replay (World) (DLC)" id="09472">
-		<description>Dance Central 2 - Replay (World) (DLC)</description>
-		<rom name="373307D2\00000002\4EE9D9583DD0496C3A550A75FD4BDDDA45A845D137" size="13574144" crc="787e9dbb" md5="2a2121b9b7d9300b166486649c244f80" sha1="3998a12e8282a345168d2ab111bd114820f7bc9d"/>
+	<game name="Dance Central 2 - Pitbull ft. Ne-Yo, Afrojack &amp; Nayer - Give Me Everything (World) (DLC)" id="09459">
+		<description>Dance Central 2 - Pitbull ft. Ne-Yo, Afrojack &amp; Nayer - Give Me Everything (World) (DLC)</description>
+		<rom name="373307D2\00000002\B4CFDE13347E0270B7B05D74FC7320AB7787690237" size="24354816" crc="7fee5e87" md5="6786367116a19cd4accc286dcde16dd0" sha1="38a835d4146777c24d82682ab13493f2f1d23135"/>
 	</game>
 	<game name="Dance Central 2 - Rihanna Dance Pack 01 (World) (DLC)" id="09473">
 		<description>Dance Central 2 - Rihanna Dance Pack 01 (World) (DLC)</description>
 		<rom name="373307D2\00000002\B6B2CF92A9FCF8C373B0ABD5F57E1B79A881578637" size="67145728" crc="547f2bc5" md5="8bcf6290d8433b2f98671aabd5a6c6e8" sha1="6323016a3724b877f677c7ca8e6c2e750287a024"/>
 	</game>
-	<game name="Dance Central 2 - Round &amp; Round (World) (DLC)" id="09474">
-		<description>Dance Central 2 - Round &amp; Round (World) (DLC)</description>
+	<game name="Dance Central 2 - Selena Gomez &amp; The Scene - Round &amp; Round (World) (DLC)" id="09474">
+		<description>Dance Central 2 - Selena Gomez &amp; The Scene - Round &amp; Round (World) (DLC)</description>
 		<rom name="373307D2\00000002\827FDBB82502DB72058AB72CC173DECBBE7AAE2037" size="21069824" crc="47bee946" md5="b6201ebca2398bc68db8a0d61292ee9a" sha1="9063dd41f6a10d27bb2e6368acfc02d2306954aa"/>
 	</game>
-	<game name="Dance Central 2 - Say Hey (I Love You) (World) (DLC)" id="09475">
-		<description>Dance Central 2 - Say Hey (I Love You) (World) (DLC)</description>
-		<rom name="373307D2\00000002\5AB5321D551798AEDD9A5042F9DB701C6FCD5E9A37" size="12726272" crc="90a292c5" md5="4acb0047dc502063bae42f3c6553155e" sha1="eef46600ae4d68095c1560d24a8baf3e4eb4f36d"/>
-	</game>
-	<game name="Dance Central 2 - Scenario (World) (DLC)" id="09476">
-		<description>Dance Central 2 - Scenario (World) (DLC)</description>
-		<rom name="373307D2\00000002\83FDAD90F2BBB3F38E7FB4EF18C84F383025BEF037" size="28471296" crc="523fecc6" md5="ad66fde886508481034d24fa8290b8d6" sha1="24789a5db2e35c7e3d10ee90d6bd02112ff0f34a"/>
-	</game>
-	<game name="Dance Central 2 - Spice Up Your Life (World) (DLC)" id="09477">
-		<description>Dance Central 2 - Spice Up Your Life (World) (DLC)</description>
+	<game name="Dance Central 2 - Spice Girls - Spice Up Your Life (World) (DLC)" id="09477">
+		<description>Dance Central 2 - Spice Girls - Spice Up Your Life (World) (DLC)</description>
 		<rom name="373307D2\00000002\953DB87629BC3C106F03DE9ABF25F3D8E55DC2D637" size="20709376" crc="ff740e30" md5="cefd7f517a961f4f657283d692b987a1" sha1="bcc75806ed6732d6d44df5717e66d4f1c9bc9643"/>
 	</game>
-	<game name="Dance Central 2 - We No Speak Americano (World) (DLC)" id="09478">
-		<description>Dance Central 2 - We No Speak Americano (World) (DLC)</description>
+	<game name="Dance Central 2 - Yolanda Be Cool &amp; DCUP - We No Speak Americano (World) (DLC)" id="09478">
+		<description>Dance Central 2 - Yolanda Be Cool &amp; DCUP - We No Speak Americano (World) (DLC)</description>
 		<rom name="373307D2\00000002\30C03690C6AC631812C033378AC07BC0EAB71BCE37" size="18251776" crc="81d29e2c" md5="ee26b178c7a72aa085e012f81d892b87" sha1="ed3afea65ffcec978918b18640682e20288e3694"/>
-	</game>
-	<game name="Dance Central 2 - Whine Up (World) (DLC)" id="09479">
-		<description>Dance Central 2 - Whine Up (World) (DLC)</description>
-		<rom name="373307D2\00000002\AB621F58D72857DE7B04E287FE8203DF00FBAB2B37" size="27054080" crc="7945c44b" md5="2f77f97fe63caa00906fe62a06777ee7" sha1="f6ddace0a93d250d23ee2de5d2a6bcfba0eafbe1"/>
-	</game>
-	<game name="Dance Central 2 - Yeah 3X (World) (DLC)" id="09480">
-		<description>Dance Central 2 - Yeah 3X (World) (DLC)</description>
-		<rom name="373307D2\00000002\63301632F3032BD08A93B67CC341C3743E3528D537" size="18505728" crc="a1c172ee" md5="e54732f8938b973ddd0c38278fb3355d" sha1="b0fe904b59bfd6938899e81e4e7409f331cbc8fa"/>
 	</game>
 	<game name="Dance Central 3 (World) (373307D9) (Addon)" id="07192">
 		<description>Dance Central 3 (World) (373307D9) (Addon)</description>
@@ -17314,12 +17310,12 @@
 		<rom name="373307D9\00009000\00000A386394D2D1CC5BE7BC373307D9" size="184320" crc="a7774a21" md5="05369ed14149b133998cb005505f8237" sha1="6923b6f9c6305b38586b237350a94d446dcec442"/>
 		<rom name="373307D9\00009000\00001000EDF73253C1FD3A55373307D9" size="217088" crc="003e54ef" md5="bccc983ae5dfa4bcea375431e6d40cb2" sha1="b9b40cecfa805f71b7a9b2fff131c41248839f75"/>
 	</game>
-	<game name="Dance Central 3 - Airplanes (World) (DLC)" id="09481">
-		<description>Dance Central 3 - Airplanes (World) (DLC)</description>
+	<game name="Dance Central 3 - B.o.B. feat. Hayley Williams - Airplanes (World) (DLC)" id="09481">
+		<description>Dance Central 3 - B.o.B. feat. Hayley Williams - Airplanes (World) (DLC)</description>
 		<rom name="373307D9\00000002\4902B2D22499E16B6A632C9015D9C649753E518B37" size="24539136" crc="c2453d15" md5="cb37ef50b5b4bcca53a0881cbd4659aa" sha1="3440650972c2fa687e0d8f87c1ba71217dd513d0"/>
 	</game>
-	<game name="Dance Central 3 - Call Me Maybe (World) (DLC)" id="09482">
-		<description>Dance Central 3 - Call Me Maybe (World) (DLC)</description>
+	<game name="Dance Central 3 - Carly Rae Jepsen - Call Me Maybe (World) (DLC)" id="09482">
+		<description>Dance Central 3 - Carly Rae Jepsen - Call Me Maybe (World) (DLC)</description>
 		<rom name="373307D9\00000002\E827A6F234513837438B9245FC143F2BED1DE1AD37" size="25513984" crc="0fb6835b" md5="f5794d1565aa20ea2bee692f4a4b6e55" sha1="a2deb5dfccdf1522293cfb945cd857988ba33e84"/>
 	</game>
 	<game name="Dance Central 3 - Dance Central 1 DLC Import Pack (World) (DLC)" id="09483">
@@ -17338,13 +17334,21 @@
 		<description>Dance Central 3 - Dance Central 2 Import Pack (World) (DLC)</description>
 		<rom name="373307D9\00000002\B30973D5D31E6BF7891A26ED00D3016B5CFB704737" size="775507968" crc="cf8293ff" md5="794c75b51ae19a62aa3eaaea0b924db2" sha1="e639f3cfc9cb72525457129480a304d5a8176241"/>
 	</game>
-	<game name="Dance Central 3 - Gangnam Style (World) (DLC)" id="09487">
-		<description>Dance Central 3 - Gangnam Style (World) (DLC)</description>
-		<rom name="373307D9\00000002\2FC8EE9FFA6A3636373ABCD44F8E77D5B1A9140C37" size="28221440" crc="9d1bdf7e" md5="5aa02d81507b1c3d2885f33c314b0c48" sha1="80b6342681757463db1db9ade710c9e34f0a78ce"/>
+	<game name="Dance Central 3 - Drake ft. Rihanna - Take Care (World) (DLC)" id="09497">
+		<description>Dance Central 3 - Drake ft. Rihanna - Take Care (World) (DLC)</description>
+		<rom name="373307D9\00000002\4C518A82CF6955F61FF492DFF1D5174DE32CE07B37" size="22847488" crc="9ff6d79c" md5="bc8c3ca582e92a6c99f5e2150f2b927e" sha1="6bdeffd79fef743b568cc7b0989f412c1edb8a1d"/>
 	</game>
-	<game name="Dance Central 3 - Glad You Came (World) (DLC)" id="09488">
-		<description>Dance Central 3 - Glad You Came (World) (DLC)</description>
-		<rom name="373307D9\00000002\15BAB2F14DC820C2A38437DBBE845BBB8901DD3837" size="20410368" crc="e72eb296" md5="a821e69e894bab4987bb26db389b8077" sha1="aa7622fa9376c3c8b909f6c3ff2beb6a27d51974"/>
+	<game name="Dance Central 3 - Ellie Goulding - Lights (World) (DLC)" id="09492">
+		<description>Dance Central 3 - Ellie Goulding - Lights (World) (DLC)</description>
+		<rom name="373307D9\00000002\CA643671877A32F5366372211B3ABD09C52A34A637" size="25755648" crc="475c9e34" md5="25b0cb7d7caa1291edae9adffaf361c1" sha1="dfa756f783c95e50bbcf4f46a00fda9d3106bd1d"/>
+	</game>
+	<game name="Dance Central 3 - Fergie - London Bridge (World) (DLC)" id="09493">
+		<description>Dance Central 3 - Fergie - London Bridge (World) (DLC)</description>
+		<rom name="373307D9\00000002\58632D2009658F31EE26314B2577E294A3CC5EA337" size="23179264" crc="2ab1d2a4" md5="6c25cfb7ad2774baff13c00a63113316" sha1="5a717b5e5855f454673de6ad78709cb893db9e61"/>
+	</game>
+	<game name="Dance Central 3 - Flo Rida - Let It Roll (World) (DLC)" id="09491">
+		<description>Dance Central 3 - Flo Rida - Let It Roll (World) (DLC)</description>
+		<rom name="373307D9\00000002\331B2ED4C6B9F485BCDF9C771D07DD7AC790E19537" size="25985024" crc="1e54830f" md5="3cb2063b5f61f52747e6c2c745289705" sha1="61e537fb60abcf88d08194fd0654ed736e10e39e"/>
 	</game>
 	<game name="Dance Central 3 - Justin Bieber Dance Pack 01 (World) (DLC)" id="09489">
 		<description>Dance Central 3 - Justin Bieber Dance Pack 01 (World) (DLC)</description>
@@ -17354,33 +17358,29 @@
 		<description>Dance Central 3 - Lady Gaga Dance Pack 02 (World) (DLC)</description>
 		<rom name="373307D9\00000002\4CB834EC194DD8C0E1AE30DA0FCE0C219D18FD8237" size="49315840" crc="10a4824d" md5="1b11bf679c4e84b98bac47ca6b2658a5" sha1="0fe8d9404d9f676886317cf379a7ec0fca87e378"/>
 	</game>
-	<game name="Dance Central 3 - Let It Roll (World) (DLC)" id="09491">
-		<description>Dance Central 3 - Let It Roll (World) (DLC)</description>
-		<rom name="373307D9\00000002\331B2ED4C6B9F485BCDF9C771D07DD7AC790E19537" size="25985024" crc="1e54830f" md5="3cb2063b5f61f52747e6c2c745289705" sha1="61e537fb60abcf88d08194fd0654ed736e10e39e"/>
+	<game name="Dance Central 3 - LMFAO - Sorry for Party Rocking (World) (DLC)" id="09496">
+		<description>Dance Central 3 - LMFAO - Sorry for Party Rocking (World) (DLC)</description>
+		<rom name="373307D9\00000002\497B9D5BD3F32752F4436E04BE0832BC26CADCF337" size="23461888" crc="0a1cf6a2" md5="ebb73a41e79afd781813c615ac14b064" sha1="2b1364af9e81c7b54b2fb4eda64a5c8cfc299397"/>
 	</game>
-	<game name="Dance Central 3 - Lights (World) (DLC)" id="09492">
-		<description>Dance Central 3 - Lights (World) (DLC)</description>
-		<rom name="373307D9\00000002\CA643671877A32F5366372211B3ABD09C52A34A637" size="25755648" crc="475c9e34" md5="25b0cb7d7caa1291edae9adffaf361c1" sha1="dfa756f783c95e50bbcf4f46a00fda9d3106bd1d"/>
-	</game>
-	<game name="Dance Central 3 - London Bridge (World) (DLC)" id="09493">
-		<description>Dance Central 3 - London Bridge (World) (DLC)</description>
-		<rom name="373307D9\00000002\58632D2009658F31EE26314B2577E294A3CC5EA337" size="23179264" crc="2ab1d2a4" md5="6c25cfb7ad2774baff13c00a63113316" sha1="5a717b5e5855f454673de6ad78709cb893db9e61"/>
+	<game name="Dance Central 3 - Nicki Minaj - Whip It (World) (DLC)" id="09500">
+		<description>Dance Central 3 - Nicki Minaj - Whip It (World) (DLC)</description>
+		<rom name="373307D9\00000002\A089056207D1377F48B3302861A01A35F85B33FC37" size="26505216" crc="c6917a2e" md5="117e36c214b173003c5d868e2ad895de" sha1="60ba13e87ab71f6dd63815292cd4b598ce373c73"/>
 	</game>
 	<game name="Dance Central 3 - Pitbull Dance Pack 01 (World) (DLC)" id="09494">
 		<description>Dance Central 3 - Pitbull Dance Pack 01 (World) (DLC)</description>
 		<rom name="373307D9\00000002\AD88413EA774D907296CED9A04DC08AFF95B742537" size="49119232" crc="4e7b52b6" md5="ed5aefce24393f98ea9af501f7cedba5" sha1="2c8ed712946ff6851af38f76362d72eb727ad373"/>
 	</game>
+	<game name="Dance Central 3 - PSY - Gangnam Style (World) (DLC)" id="09487">
+		<description>Dance Central 3 - PSY - Gangnam Style (World) (DLC)</description>
+		<rom name="373307D9\00000002\2FC8EE9FFA6A3636373ABCD44F8E77D5B1A9140C37" size="28221440" crc="9d1bdf7e" md5="5aa02d81507b1c3d2885f33c314b0c48" sha1="80b6342681757463db1db9ade710c9e34f0a78ce"/>
+	</game>
 	<game name="Dance Central 3 - Rihanna Dance Pack 02 (World) (DLC)" id="09495">
 		<description>Dance Central 3 - Rihanna Dance Pack 02 (World) (DLC)</description>
 		<rom name="373307D9\00000002\51D47183C3291555E789F34C9A79EB84CD4581B537" size="51326976" crc="9e2b6886" md5="d2ebd1fb5c41a9a774ec0199365da67f" sha1="3a5dbf52aae94c382949cda9810f454f83346091"/>
 	</game>
-	<game name="Dance Central 3 - Sorry for Party Rocking (World) (DLC)" id="09496">
-		<description>Dance Central 3 - Sorry for Party Rocking (World) (DLC)</description>
-		<rom name="373307D9\00000002\497B9D5BD3F32752F4436E04BE0832BC26CADCF337" size="23461888" crc="0a1cf6a2" md5="ebb73a41e79afd781813c615ac14b064" sha1="2b1364af9e81c7b54b2fb4eda64a5c8cfc299397"/>
-	</game>
-	<game name="Dance Central 3 - Take Care (World) (DLC)" id="09497">
-		<description>Dance Central 3 - Take Care (World) (DLC)</description>
-		<rom name="373307D9\00000002\4C518A82CF6955F61FF492DFF1D5174DE32CE07B37" size="22847488" crc="9ff6d79c" md5="bc8c3ca582e92a6c99f5e2150f2b927e" sha1="6bdeffd79fef743b568cc7b0989f412c1edb8a1d"/>
+	<game name="Dance Central 3 - The Wanted - Glad You Came (World) (DLC)" id="09488">
+		<description>Dance Central 3 - The Wanted - Glad You Came (World) (DLC)</description>
+		<rom name="373307D9\00000002\15BAB2F14DC820C2A38437DBBE845BBB8901DD3837" size="20410368" crc="e72eb296" md5="a821e69e894bab4987bb26db389b8077" sha1="aa7622fa9376c3c8b909f6c3ff2beb6a27d51974"/>
 	</game>
 	<game name="Dance Central 3 - Usher Dance Pack 01 (World) (DLC)" id="09498">
 		<description>Dance Central 3 - Usher Dance Pack 01 (World) (DLC)</description>
@@ -17389,10 +17389,6 @@
 	<game name="Dance Central 3 - What Makes You Beautiful (World) (DLC)" id="09499">
 		<description>Dance Central 3 - What Makes You Beautiful (World) (DLC)</description>
 		<rom name="373307D9\00000002\62422AFAF4535C799EC5E11BAF1495C97409424337" size="20873216" crc="c72f7f20" md5="6a9f8baa04a928e3da3d7292404bf2d8" sha1="889edc900940118183100649eae0a1150f30ba10"/>
-	</game>
-	<game name="Dance Central 3 - Whip It (World) (DLC)" id="09500">
-		<description>Dance Central 3 - Whip It (World) (DLC)</description>
-		<rom name="373307D9\00000002\A089056207D1377F48B3302861A01A35F85B33FC37" size="26505216" crc="c6917a2e" md5="117e36c214b173003c5d868e2ad895de" sha1="60ba13e87ab71f6dd63815292cd4b598ce373c73"/>
 	</game>
 	<game name="Dance Clown Mask (World) (444D07D9) (Addon)" id="07193">
 		<description>Dance Clown Mask (World) (444D07D9) (Addon)</description>
@@ -25095,13 +25091,17 @@
 		<rom name="413607E9\00009000\00000208FB6162E2C013D79C413607E9" size="106496" crc="3ffb611f" md5="d5056f3e5a075d9568a1205eccfd5ad9" sha1="637d83db1a683f3c8b7719beae97fc0475c3cf49"/>
 		<rom name="413607E9\00009000\00001000D19992E3CFBEB482413607E9" size="262144" crc="78a9c6e5" md5="2eeffaf7f6052730262c8908ee8e6859" sha1="f1cb216c8f1528accf0c0caed4be1a867f7dda1b"/>
 	</game>
-	<game name="Fez (World) (484907E1) (Addon)" id="07631">
-		<description>Fez (World) (484907E1) (Addon)</description>
-		<rom name="484907E1\00009000\00000040C79E3263C7A3D1ED484907E1" size="81920" crc="df0a72dd" md5="9a527fb91ce995118ce1cf5e3526aad3" sha1="10f42a3e3d7b7d84643f318203ffff5d519daeb0"/>
+	<game name="Fever Dance with Disco Ball, A (World) (373907D1) (Addon)" id="06314">
+		<description>Fever Dance with Disco Ball, A (World) (373907D1) (Addon)</description>
+		<rom name="373907D1\00009000\000010005A67F233CF027707373907D1" size="225280" crc="b7ba3ea8" md5="1aca874c843a162684152538bf822f81" sha1="cf0b1442684359befa5c9110b83f81590284aa36"/>
 	</game>
 	<game name="Fez (World) (XBLA)" id="03699">
 		<description>Fez (World) (XBLA)</description>
 		<rom name="584109C0\000D0000\8DB5D1E0841CDAC614A2806A43606EAB2AD54EB358" size="286687232" crc="78c019d8" md5="5ee2ab84378b19fc250c8544a409d680" sha1="2985f8baa8d0ba2131bfdd9b111f627f9e693479"/>
+	</game>
+	<game name="Fez (World) (484907E1) (Addon)" id="07631">
+		<description>Fez (World) (484907E1) (Addon)</description>
+		<rom name="484907E1\00009000\00000040C79E3263C7A3D1ED484907E1" size="81920" crc="df0a72dd" md5="9a527fb91ce995118ce1cf5e3526aad3" sha1="10f42a3e3d7b7d84643f318203ffff5d519daeb0"/>
 	</game>
 	<game name="FFFE07D1 (World) (00009000) (Addon)" id="07632">
 		<description>FFFE07D1 (World) (00009000) (Addon)</description>
@@ -28525,13 +28525,13 @@
 		<description>Goals (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\2D09F5EF756C408D5EE92928E641BC7743B01B6458" size="16379904" crc="78da29a4" md5="3849c5a48a47e42607f222570a63326b" sha1="8cc220108e7f80ca658aaa13825ef04073d5fbcf"/>
 	</game>
-	<game name="Goat Simulator (World) (v3) (Title Update)" id="05367">
-		<description>Goat Simulator (World) (v3) (Title Update)</description>
-		<rom name="58411498\000B0000\D98FCD207757E418E1ACC6AD0047F7AF70022A7358" size="307544064" crc="5cb69bd9" md5="7cc5449256ec9ebb0a21bd30fdf64a8b" sha1="610cc24b6613287d3a994bdd7f25274af2da831c"/>
-	</game>
 	<game name="Goat Simulator (World) (XBLA)" id="04537">
 		<description>Goat Simulator (World) (XBLA)</description>
 		<rom name="58411498\000D0000\82C39FBF2C7B1799F1B44718D027A6B11BADA41858" size="197271552" crc="6a9ade23" md5="ce2685226c24ff6217ce047bcc8b1dfd" sha1="5efd20a00202ee8c949551a61d218a78ef1a08ed"/>
+	</game>
+	<game name="Goat Simulator (World) (v3) (Title Update)" id="05367">
+		<description>Goat Simulator (World) (v3) (Title Update)</description>
+		<rom name="58411498\000B0000\D98FCD207757E418E1ACC6AD0047F7AF70022A7358" size="307544064" crc="5cb69bd9" md5="7cc5449256ec9ebb0a21bd30fdf64a8b" sha1="610cc24b6613287d3a994bdd7f25274af2da831c"/>
 	</game>
 	<game name="Goat Simulator - Goat MMO Simulator (World) (Addon)" id="04679">
 		<description>Goat Simulator - Goat MMO Simulator (World) (Addon)</description>
@@ -32739,6 +32739,10 @@
 		<description>How to Get a Girlfriend (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\1D5B4E86498D0CEC420B45233497849A96C48CBC58" size="5242880" crc="7465482f" md5="e548f452bf26a5acf530d8a203d98843" sha1="40e9f657220392fe1b9e3572419a6d85b308a307"/>
 	</game>
+	<game name="How to Survive (World) (XBLA)" id="04463">
+		<description>How to Survive (World) (XBLA)</description>
+		<rom name="584113E8\000D0000\8EF7F17B76E93B78ADBB1C110EA1244C783EC38F58" size="1505943552" crc="1c6c5db2" md5="2774633185944bfeaae9b565555ff7b3" sha1="766d3e5a2229d9b0f81c000bbef8cd6de3a21293"/>
+	</game>
 	<game name="How to Survive (World) (584113E8) (Addon)" id="07994">
 		<description>How to Survive (World) (584113E8) (Addon)</description>
 		<rom name="584113E8\00009000\0000000840603212C00BD967584113E8" size="110592" crc="c74d647c" md5="d7552610c4cfab5812329a2a2bf2c4a2" sha1="14d39430b9eeac55ba04869af3ef408e9632e09c"/>
@@ -32748,10 +32752,6 @@
 		<rom name="584113E8\00009000\000005440CD722C3C66F6D0C584113E8" size="106496" crc="98729007" md5="e3dc49e806fa53bbed86bae15d3d78ac" sha1="1796238e3af853bf1fb3eebfed8e186c9ed6b1ab"/>
 		<rom name="584113E8\00009000\00000AF8CE7222C2CB4E52DF584113E8" size="200704" crc="3607c38b" md5="ffb7637c821d3e89a6a542684dc4909a" sha1="072df31890a20104147017dad19f2de517f96b4c"/>
 		<rom name="584113E8\00009000\00000FFCCE7202E1CB9F310A584113E8" size="274432" crc="f046dc62" md5="9c53b4f214fb2478560a81448381b39a" sha1="3c875022d1633525688577f824d1b2164c6ab22f"/>
-	</game>
-	<game name="How to Survive (World) (XBLA)" id="04463">
-		<description>How to Survive (World) (XBLA)</description>
-		<rom name="584113E8\000D0000\8EF7F17B76E93B78ADBB1C110EA1244C783EC38F58" size="1505943552" crc="1c6c5db2" md5="2774633185944bfeaae9b565555ff7b3" sha1="766d3e5a2229d9b0f81c000bbef8cd6de3a21293"/>
 	</game>
 	<game name="How to Survive (World) (v1) (Title Update)" id="05337">
 		<description>How to Survive (World) (v1) (Title Update)</description>
@@ -32924,6 +32924,10 @@
 		<description>I Accidentally...In Space! Episode 1 - Hostile Hustle (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\1E426089F31071E294458041F98FF1560B15FC5158" size="49467392" crc="d56b0a5b" md5="a6bcad19340b3dae38fc71970fec777c" sha1="903bf9e460c2b948331e8db25cb7b55461ded892"/>
 	</game>
+	<game name="I Am Alive (World) (XBLA)" id="03667">
+		<description>I Am Alive (World) (XBLA)</description>
+		<rom name="58410B3A\000D0000\114D7A094014D10F51052F6FDBA0FAC28E00632858" size="1996177408" crc="f087360d" md5="58f9696400c06fc8815b8e684cbd351c" sha1="8a401a62069f816c8172c5b00b6bcb5d04035489"/>
+	</game>
 	<game name="I Am Alive (World) (58410B3A) (Addon)" id="08002">
 		<description>I Am Alive (World) (58410B3A) (Addon)</description>
 		<rom name="58410B3A\00009000\00000008395AE281C193DA8558410B3A" size="131072" crc="c49f67e2" md5="0a66669fc114cbc97a81d29b663c30b1" sha1="e9c20697985072e505dc944392ad00666e9d02fe"/>
@@ -32937,10 +32941,6 @@
 		<rom name="58410B3A\00009000\00000AB87AC34252C2DAE6B058410B3A" size="217088" crc="3c9bdeb8" md5="ad536a95c4ac669ee2fce9cb6eda60cc" sha1="e7e6b947ac39c3c821afd8ba4d87a2cb037e35d8"/>
 		<rom name="58410B3A\00009000\00000AB87F0162A1C8155AC658410B3A" size="204800" crc="39897571" md5="614183b6f8c2def4ec3e52617fc6837c" sha1="327758c71c8495f94a49b3b23477c1a67852d4bd"/>
 		<rom name="58410B3A\00009000\00001000D12BB2A3C1BFE84358410B3A" size="249856" crc="aaa23247" md5="83ef006a31dfc81ab27a41a0dcb31ff0" sha1="e5cc28cc9c4e536b95ac2880f9eabf9d143b5f5d"/>
-	</game>
-	<game name="I Am Alive (World) (XBLA)" id="03667">
-		<description>I Am Alive (World) (XBLA)</description>
-		<rom name="58410B3A\000D0000\114D7A094014D10F51052F6FDBA0FAC28E00632858" size="1996177408" crc="f087360d" md5="58f9696400c06fc8815b8e684cbd351c" sha1="8a401a62069f816c8172c5b00b6bcb5d04035489"/>
 	</game>
 	<game name="I Heart Shift (World) (XBLIG)" id="13395">
 		<description>I Heart Shift (World) (XBLIG)</description>
@@ -43003,13 +43003,13 @@
 		<description>Military K 9 Unit (World) (5858089F) (Addon)</description>
 		<rom name="5858089F\00009000\00001000714672F3C41C3EE55858089F" size="278528" crc="93582a24" md5="da608a4ffc2fef850bdcae6d0339d1f3" sha1="4781f9a0dedfc2d0e19f94c80fd36afec27f73d0"/>
 	</game>
-	<game name="Military Madness - Nectaris (World) (XBLA)" id="04630">
-		<description>Military Madness - Nectaris (World) (XBLA)</description>
-		<rom name="58410898\000D0000\A7345292F98B6936EA32A2EA41867B00290B4EC258" size="105697280" crc="0f6da98c" md5="9f41fa4d1fa42b39393194d3f661c736" sha1="56561ecbce838b1f39813c50a3d6fb9a13dcf8fd"/>
-	</game>
 	<game name="Military Madness - Nectaris (World) (Video Trailer)" id="00157">
 		<description>Military Madness - Nectaris (World) (Video Trailer)</description>
 		<rom name="58410898\000C0000\81982EE7A31408B81CBFCAC9F26E862DA28C090F58" size="48775168" crc="07fd3f71" md5="52da7803479899b0b81809bbe77f7b43" sha1="5fd25d2e7c07ac52605cb65e83008687e4832767"/>
+	</game>
+	<game name="Military Madness - Nectaris (World) (XBLA)" id="04630">
+		<description>Military Madness - Nectaris (World) (XBLA)</description>
+		<rom name="58410898\000D0000\A7345292F98B6936EA32A2EA41867B00290B4EC258" size="105697280" crc="0f6da98c" md5="9f41fa4d1fa42b39393194d3f661c736" sha1="56561ecbce838b1f39813c50a3d6fb9a13dcf8fd"/>
 	</game>
 	<game name="Military Operator (World) (58580850) (Addon)" id="08309">
 		<description>Military Operator (World) (58580850) (Addon)</description>
@@ -51807,14 +51807,6 @@
 		<description>Peg Solitaire (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\5CFA559C6288757F099A5EAECAC219C2E240023D58" size="598016" crc="b4164e91" md5="e4f4d923c83b6d65244427b4c70857a6" sha1="9ff4b12208fc686d77a4e512ad3435b7681a2a7d"/>
 	</game>
-	<game name="Peggle (World) (XBLA)" id="00040">
-		<description>Peggle (World) (XBLA)</description>
-		<rom name="58410889\000D0000\87D0A5D366F24C8FF8BEE120E5F72D78F100E18958" size="107302912" crc="ac82b645" md5="b0af4134938e0d9ea73b9c91d9a3e283" sha1="9a0ff6911bbd00cef504cfa5f0a35ec91a6e25ca"/>
-	</game>
-	<game name="Peggle (World) (v2) (Title Update)" id="05317">
-		<description>Peggle (World) (v2) (Title Update)</description>
-		<rom name="58410889\000B0000\09069E5C7DD2129FE1164050B7EE7547C192F47858" size="3510272" crc="509979c8" md5="410241912e79a5a85e3c86ebe5462408" sha1="6bd7501add54941512d44817ff8ac9da6819fb94"/>
-	</game>
 	<game name="Peggle (World) (58410889) (Addon)" id="08521">
 		<description>Peggle (World) (58410889) (Addon)</description>
 		<rom name="58410889\00009000\00000040D6448253C6531C5758410889" size="90112" crc="d586eea1" md5="19804126d76d9df9cbb9be955581c918" sha1="95db51b337334947a162793df01eb73d07ec0479"/>
@@ -51829,6 +51821,14 @@
 		<rom name="58410889\00009000\00000FFCD644A2A2CDCEBD1C58410889" size="258048" crc="dbdce343" md5="d120fd88a980b298725bc7e6bae708c0" sha1="c0d2b930da7550e88e981dcc6516bd141ab840fb"/>
 		<rom name="58410889\00009000\00000FFCD644E281CEEC9E8F58410889" size="241664" crc="f0b56b12" md5="701a457101d60e0f1a2a3c850024f72f" sha1="df3362d25acebea241dab034ea2bd7d6cecaecb5"/>
 		<rom name="58410889\00009000\00001000D644D223C775322F58410889" size="286720" crc="4e6bc542" md5="c1d0ea538038c2e2f030bc7efa5fa849" sha1="eb6566665b95a95cb660c77e95cc6ac221d37f93"/>
+	</game>
+	<game name="Peggle (World) (XBLA)" id="00040">
+		<description>Peggle (World) (XBLA)</description>
+		<rom name="58410889\000D0000\87D0A5D366F24C8FF8BEE120E5F72D78F100E18958" size="107302912" crc="ac82b645" md5="b0af4134938e0d9ea73b9c91d9a3e283" sha1="9a0ff6911bbd00cef504cfa5f0a35ec91a6e25ca"/>
+	</game>
+	<game name="Peggle (World) (v2) (Title Update)" id="05317">
+		<description>Peggle (World) (v2) (Title Update)</description>
+		<rom name="58410889\000B0000\09069E5C7DD2129FE1164050B7EE7547C192F47858" size="3510272" crc="509979c8" md5="410241912e79a5a85e3c86ebe5462408" sha1="6bd7501add54941512d44817ff8ac9da6819fb94"/>
 	</game>
 	<game name="Peggle - Peggle Nights Content Pack (World) (Addon)" id="00280">
 		<description>Peggle - Peggle Nights Content Pack (World) (Addon)</description>
@@ -51998,14 +51998,6 @@
 		<description>Perdition (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\D3E9BC125E9B5C1B3D78DCDB0F696B1933DCA1DA58" size="21532672" crc="ca22f396" md5="710ed1b2a1638ac024ad30b7d4fc1db5" sha1="b0bd3c3b1cce6db9c74e3cdb8c320b327662d2a1"/>
 	</game>
-	<game name="Perfect Dark (World) (Beta) (XBLA)" id="00907">
-		<description>Perfect Dark (World) (Beta) (XBLA)</description>
-		<rom name="584109C2\000D0000\15AD6EBAE1FBA236078AFB2D69A689BB072D08A058" size="247308288" crc="c17f3654" md5="28dad87aa8fc12485b4c4d3b3ea48f5f" sha1="0a9d1850e7e8d2d853e3b4c1ffe4c12b2841e4cf"/>
-	</game>
-	<game name="Perfect Dark (World) (XBLA)" id="00940">
-		<description>Perfect Dark (World) (XBLA)</description>
-		<rom name="584109C2\000D0000\4287CC74C591DB37B577DAEA43BB6E51692D7A8E58" size="250712064" crc="a576a386" md5="9e720d3cc33ee2441cccdf84129b6396" sha1="27ec9dc2c7916c4af2086f8192a4a596efd5e151"/>
-	</game>
 	<game name="Perfect Dark (World) (584109C2) (Addon)" id="08537">
 		<description>Perfect Dark (World) (584109C2) (Addon)</description>
 		<rom name="584109C2\00009000\00000008095C6222CC815F51584109C2" size="110592" crc="74cabd17" md5="055a00b4859f217b3eb5fbc80774b583" sha1="a47d803e5cb998f913b7c9669f3d4f73ed308515"/>
@@ -52028,6 +52020,14 @@
 		<rom name="584109C2\00009000\00000AB8F550D242C6DB72DF584109C2" size="241664" crc="29886bc1" md5="773c5af0764662f1d2b912d8cdafa45c" sha1="373f144b6f3f5128b018d5751a4be55b2614800d"/>
 		<rom name="584109C2\00009000\000010006060A2A3C1AF7CB5584109C2" size="229376" crc="ced78802" md5="ae38b0ee123b6e86f3df3c27f13e3d32" sha1="6488d9f7dd66d427075c4cadcb2af877991635d5"/>
 		<rom name="584109C2\00009000\00001000C4346243C630D7F3584109C2" size="237568" crc="868f8d5c" md5="2934bbc86bf1fe3e3dc49a04e7c8209c" sha1="e9275ae4539c0c0782d47bd9961fe172f4427c02"/>
+	</game>
+	<game name="Perfect Dark (World) (Beta) (XBLA)" id="00907">
+		<description>Perfect Dark (World) (Beta) (XBLA)</description>
+		<rom name="584109C2\000D0000\15AD6EBAE1FBA236078AFB2D69A689BB072D08A058" size="247308288" crc="c17f3654" md5="28dad87aa8fc12485b4c4d3b3ea48f5f" sha1="0a9d1850e7e8d2d853e3b4c1ffe4c12b2841e4cf"/>
+	</game>
+	<game name="Perfect Dark (World) (XBLA)" id="00940">
+		<description>Perfect Dark (World) (XBLA)</description>
+		<rom name="584109C2\000D0000\4287CC74C591DB37B577DAEA43BB6E51692D7A8E58" size="250712064" crc="a576a386" md5="9e720d3cc33ee2441cccdf84129b6396" sha1="27ec9dc2c7916c4af2086f8192a4a596efd5e151"/>
 	</game>
 	<game name="Perfect Dark - Zero Map Pack Two (World) (Addon)" id="00832">
 		<description>Perfect Dark - Zero Map Pack Two (World) (Addon)</description>
@@ -69406,13 +69406,13 @@
 		<description>Straight Talk Avatar Prop (World) (354E0852) (Addon)</description>
 		<rom name="354E0852\00009000\00001000E2699283C2794AA7354E0852" size="245760" crc="9fa07b1f" md5="39d7f9133e2127d8b99b5b0468cf07eb" sha1="e9cee113857239c642e102d86f80eb22e20864a3"/>
 	</game>
-	<game name="Strania - The Stella Machina (World) (XBLA)" id="03123">
-		<description>Strania - The Stella Machina (World) (XBLA)</description>
-		<rom name="58410AA5\000D0000\12F39C7E661AC02E0E8A92A9487A7C5D8A67207F58" size="216850432" crc="6114a89f" md5="7f4e8cfa379ac019637c7fc599a783dd" sha1="7b142c637cc8171985b2cdb2ece09fab3813c80a"/>
-	</game>
 	<game name="Strania - The Stella Machina (World) (v1) (Title Update)" id="05330">
 		<description>Strania - The Stella Machina (World) (v1) (Title Update)</description>
 		<rom name="58410AA5\000B0000\3F6A7617F3D1F7EB83F8F4A337C88693A66BB90358" size="421888" crc="91527a9c" md5="cf7be5e93958d2c829d393ab6931d1dc" sha1="b2e5eacc8bf3a7c2d3ca3e9758d780df7e2b9447"/>
+	</game>
+	<game name="Strania - The Stella Machina (World) (XBLA)" id="03123">
+		<description>Strania - The Stella Machina (World) (XBLA)</description>
+		<rom name="58410AA5\000D0000\12F39C7E661AC02E0E8A92A9487A7C5D8A67207F58" size="216850432" crc="6114a89f" md5="7f4e8cfa379ac019637c7fc599a783dd" sha1="7b142c637cc8171985b2cdb2ece09fab3813c80a"/>
 	</game>
 	<game name="Strania - The Stella Machina - Add-on Gamemode Side VOWER (World) (Addon)" id="03202">
 		<description>Strania - The Stella Machina - Add-on Gamemode Side VOWER (World) (Addon)</description>
@@ -73906,13 +73906,13 @@
 		<description>Widows Peak Hair (World) (444D07D9) (Addon)</description>
 		<rom name="444D07D9\00009000\00000544704F62C3CE09F8D1444D07D9" size="81920" crc="b7c7e68e" md5="9348381eb0230b49cf1a821c430ea350" sha1="791d784fe7beb19745d4570d474d8f4ca91fac0f"/>
 	</game>
-	<game name="Wik and the Fable of Souls (World) (XBLA)" id="00223">
-		<description>Wik and the Fable of Souls (World) (XBLA)</description>
-		<rom name="584107DD\000D0000\648945D83E85F7A2EDAAEC857E71FE039FBC9E4058" size="23621632" crc="9e5c92b4" md5="8b2f0ee810d1b287db4157cc703e60f8" sha1="ed531545e9d6628442ffb1e136a090ecc6cef90d"/>
-	</game>
 	<game name="Wik and the Fable of Souls (World) (v2) (Title Update)" id="05352">
 		<description>Wik and the Fable of Souls (World) (v2) (Title Update)</description>
 		<rom name="584107DD\000B0000\AABF904176BD4939A2FA7F6889AA1BBF66297F6F58" size="3235840" crc="9e59e1b8" md5="70183e9bad2602f922efc6f09bd4cafd" sha1="4125f7d98a53ecbd24082df8cf982ec8bb43b867"/>
+	</game>
+	<game name="Wik and the Fable of Souls (World) (XBLA)" id="00223">
+		<description>Wik and the Fable of Souls (World) (XBLA)</description>
+		<rom name="584107DD\000D0000\648945D83E85F7A2EDAAEC857E71FE039FBC9E4058" size="23621632" crc="9e5c92b4" md5="8b2f0ee810d1b287db4157cc703e60f8" sha1="ed531545e9d6628442ffb1e136a090ecc6cef90d"/>
 	</game>
 	<game name="Wild 2018 Jersey (World) (5858087F) (Addon)" id="09364">
 		<description>Wild 2018 Jersey (World) (5858087F) (Addon)</description>

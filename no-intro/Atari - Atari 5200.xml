@@ -4,7 +4,7 @@
 		<id>1</id>
 		<name>Atari - Atari 5200</name>
 		<description>Atari - Atari 5200</description>
-		<version>20260213-122147</version>
+		<version>20260412-121350</version>
 		<author>C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -974,6 +974,12 @@
 	<game name="Wizard of Wor (USA)" id="0101">
 		<description>Wizard of Wor (USA)</description>
 		<rom name="Wizard of Wor (USA).a52" size="16384" crc="d6f7ddfd" md5="560b68b7f83077444a57ebe9f932905a" sha1="49debdf3c133fde9905d6d9137da5d8dff8d6283" status="verified"/>
+	</game>
+	<game name="Wizard of Wor (USA) (Beta) (1982-12-17)" id="0215" cloneofid="0101">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Wizard of Wor (USA) (Beta) (1982-12-17)</description>
+		<rom name="Wizard of Wor (USA) (Beta) (1982-12-17).a52" size="16384" crc="acdda01b" md5="33f0e84d4e8109f1052d58fcedc129cd" sha1="70a945cfe063e39a7287bb4d5da267a24541f3bf" sha256="00a436ac2adba71d4f6a3e79b95a736798cb6c632e63ace16c57e60bff658be5"/>
 	</game>
 	<game name="Xari Arena (USA) (Proto) (1983-08-30)" id="0102" cloneofid="0121">
 		<category>Games</category>
