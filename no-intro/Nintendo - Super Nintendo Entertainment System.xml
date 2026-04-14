@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260412-184159</version>
+		<version>20260413-112222</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20036,6 +20036,30 @@
 		<category>Games</category>
 		<description>Legend (World) (QUByte Classics)</description>
 		<rom name="Legend (World) (QUByte Classics).sfc" size="1048576" crc="33c648aa" md5="99c070d3cdf193582a3413168bba546f" sha1="80aca3dd651657d714c702157166900c61e33c7a" sha256="e52e73f15004cc45669f360127e4461fdd19dac70c9798805a3be9837b8d5ddb" status="verified"/>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (Europe) (Beta)" id="4586" cloneofid="1443">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Legend of Zelda, The - A Link to the Past (Europe) (Beta)</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (Europe) (Beta).sfc" size="1048576" crc="052ee35d" md5="235cdfd8856f8a64dea82ff8bfb241ca" sha1="285c6c9ae4c76a1deebafccd4a07af58b672110e" sha256="e957d5db6a731c1c582fff54047f40d804c59dac973a69db6a0ebfd8b0327723" serial="!none"/>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (Germany) (Beta)" id="4587" cloneofid="1443">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Legend of Zelda, The - A Link to the Past (Germany) (Beta)</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (Germany) (Beta).sfc" size="1048576" crc="92ff4444" md5="22c9120a260fd4a6613b1ef33b3a23ed" sha1="a480f4bf181116949bc0b61f7d65cd9028fa955c" sha256="e2bb951bfd043b917f1a5e0a38033a0aac0b63b766dced1aa0c9e41e861cfda8" serial="!none"/>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (France) (Beta 1)" id="4588" cloneofid="1443">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Legend of Zelda, The - A Link to the Past (France) (Beta 1)</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (France) (Beta 1).sfc" size="1048576" crc="220f154d" md5="b412390c9bdca64a2588c43afc7ea3b6" sha1="00a2b2ea5adc4474d87ff7b7303b2b1d0d54a952" sha256="a5d6c15e3a9e25f3cf56847ce8b857ee2758fabefcc47610f41993565beff7db" serial="!none"/>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (France) (Beta 2)" id="4589" cloneofid="1443">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Legend of Zelda, The - A Link to the Past (France) (Beta 2)</description>
+		<rom name="Legend of Zelda, The - A Link to the Past (France) (Beta 2).sfc" size="1048576" crc="cad9d8ec" md5="48645cb15057d837b6d271a0ec9cb34b" sha1="5b38121ffa6ac21eaf74ad2b72c2a767b6856a5d" sha256="63fce64fe5c7f9d7c2e1f2681f03e39f370b2aaa6d3215a1b05dba62bd74b68e" serial="!none"/>
 	</game>
 	<game name="Libble Rabble (World) (Evercade)" id="4418" cloneofid="1466">
 		<category>Games</category>

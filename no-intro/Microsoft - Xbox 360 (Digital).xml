@@ -4,7 +4,7 @@
 		<id>57</id>
 		<name>Microsoft - Xbox 360 (Digital)</name>
 		<description>Microsoft - Xbox 360 (Digital)</description>
-		<version>20260412-175259</version>
+		<version>20260413-063933</version>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -975,10 +975,6 @@
 	<game name="8 Ball Pool Champion (World) (XBLIG)" id="11841">
 		<description>8 Ball Pool Champion (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\55BFBBFCD62A5FE0BEBDF7451E6E0E884932C05758" size="44728320" crc="0e8f30a6" md5="62c235ec8d1168f57b8a92d3680eb82e" sha1="fa5ffb6f214c375e928c9240d896b04761038a23"/>
-	</game>
-	<game name="8 Bit Bling (World) (444D07D9) (Addon)" id="06311">
-		<description>8 Bit Bling (World) (444D07D9) (Addon)</description>
-		<rom name="444D07D9\00009000\00001000A1473263C8C939CE444D07D9" size="253952" crc="ed8b3999" md5="508e6888f5c73b40eee618f0851056d3" sha1="bda4d152b8112f7b5732583909bafb99f9f97128"/>
 	</game>
 	<game name="8-Bit Defense (World) (XBLIG)" id="11842">
 		<description>8-Bit Defense (World) (XBLIG)</description>
@@ -6076,6 +6072,10 @@
 		<rom name="58580899\00009000\0000100051421253CCDD522258580899" size="262144" crc="5cae738d" md5="104fdd604c976c58e41e245b75701f1b" sha1="d13c3876f5c24eb4d2c76e1fef97c00ce20b841b"/>
 		<rom name="58580899\00009000\000010008C479203C02ED2CE58580899" size="176128" crc="b074201f" md5="b496d74e6330eb3cbc5a15b88f90bc7c" sha1="f529c722e897edb7f2a911bb5664d8cece6df1a4"/>
 		<rom name="58580899\00009000\00001000E54F3253CC64CD2B58580899" size="229376" crc="52edf8a5" md5="9676e7bc19abb6865302d6a3175846a7" sha1="cf03ec08eb860ed61476ea1ac770ed867d1094c4"/>
+	</game>
+	<game name="Avatar Threads - 8 Bit Bling (World) (Avatar Item)" id="06311">
+		<description>Avatar Threads - 8 Bit Bling (World) (Avatar Item)</description>
+		<rom name="444D07D9\00009000\00001000A1473263C8C939CE444D07D9" size="253952" crc="ed8b3999" md5="508e6888f5c73b40eee618f0851056d3" sha1="bda4d152b8112f7b5732583909bafb99f9f97128"/>
 	</game>
 	<game name="Avatar Thunder Cars (World) (XBLIG)" id="12219">
 		<description>Avatar Thunder Cars (World) (XBLIG)</description>
@@ -34194,8 +34194,8 @@
 		<description>Just Dance 2014 - Jason Derulo - The Other Side (World) (DLC)</description>
 		<rom name="555308C1\00000002\1FDF72C3806CDE8414CC37C1F7D385B0D99E4EBF55" size="65069056" crc="fa9e5fcc" md5="2813a346e8f3b535bee200901966f5b6" sha1="e0864f91e3c0bfb797229fde514e021e48ba8a73"/>
 	</game>
-	<game name="Just Dance 2014 - Justin Bieber ft. Nicki Minaj - Beauty And A Beat (World) (DLC)" id="10417">
-		<description>Just Dance 2014 - Justin Bieber ft. Nicki Minaj - Beauty And A Beat (World) (DLC)</description>
+	<game name="Just Dance 2014 - Justin Bieber ft. Nicki Minaj - Beauty and a Beat (World) (DLC)" id="10417">
+		<description>Just Dance 2014 - Justin Bieber ft. Nicki Minaj - Beauty and a Beat (World) (DLC)</description>
 		<rom name="555308C1\00000002\677CB6ECEB7DF76E639B91B2E6A1A03940EF2AD955" size="135749632" crc="6726926b" md5="cd44ba809d34aa3ced0fb2017a12cf26" sha1="a6004e657b4ee43f1dccd9e5d12a6c75eb1b2de4"/>
 	</game>
 	<game name="Just Dance 2014 - Katy Perry - Part Of Me (World) (DLC)" id="10418">
@@ -34206,8 +34206,8 @@
 		<description>Just Dance 2014 - Katy Perry - Roar (World) (DLC)</description>
 		<rom name="555308C1\00000002\DD972988E895D10782F890283EB03FA683CAC06055" size="129957888" crc="ccff0b01" md5="6caa447ede1bee9c490ea1fc1daf8510" sha1="fef7ca9d9f3ec55ab199a5d0ae3b20c7d5d0286b"/>
 	</game>
-	<game name="Just Dance 2014 - Katy Perry - Waking Up In Vegas (World) (DLC)" id="10420">
-		<description>Just Dance 2014 - Katy Perry - Waking Up In Vegas (World) (DLC)</description>
+	<game name="Just Dance 2014 - Katy Perry - Waking Up in Vegas (World) (DLC)" id="10420">
+		<description>Just Dance 2014 - Katy Perry - Waking Up in Vegas (World) (DLC)</description>
 		<rom name="555308C1\00000002\A0FB67BDA5B5B63D9180FB0EBFD352E519AC079D55" size="68132864" crc="1dcf7d76" md5="662dfbedba5f6db06a6f19748d8feaa7" sha1="617ff9bb9365db846e5fe965245fc79a808b279f"/>
 	</game>
 	<game name="Just Dance 2014 - Ke$ha - Die Young (World) (DLC)" id="10421">
@@ -34218,16 +34218,16 @@
 		<description>Just Dance 2014 - Ke$ha - We R Who We R (World) (DLC)</description>
 		<rom name="555308C1\00000002\6964B00093CD401FE62BADEE0B01D584E8F1F28A55" size="123351040" crc="54b12918" md5="bb01437f8f247f5184b8e37130eb252b" sha1="b7d8dbb9d2341ec1680292ed51e0501ca3f2dc91"/>
 	</game>
-	<game name="Just Dance 2014 - Lady Gaga - Applause (Official Choreography) (World) (DLC)" id="10423">
-		<description>Just Dance 2014 - Lady Gaga - Applause (Official Choreography) (World) (DLC)</description>
+	<game name="Just Dance 2014 - Lady Gaga - Applause - Official Choreography (World) (DLC)" id="10423">
+		<description>Just Dance 2014 - Lady Gaga - Applause - Official Choreography (World) (DLC)</description>
 		<rom name="555308C1\00000002\F97DC2FC1EA1B0DEF155B39B91399EB49AF021FF55" size="58785792" crc="30298e30" md5="b4f77d25adb0f0a19146c5d9af862916" sha1="e3b2a5e7abf038d2b14f0db0940b81d8801ea402"/>
 	</game>
-	<game name="Just Dance 2014 - Lady Gaga ft. Colby O'Donis - Just Dance (Sweat) (World) (DLC)" id="10424">
-		<description>Just Dance 2014 - Lady Gaga ft. Colby O'Donis - Just Dance (Sweat) (World) (DLC)</description>
+	<game name="Just Dance 2014 - Lady Gaga ft. Colby O'Donis - Just Dance - Sweat (World) (DLC)" id="10424">
+		<description>Just Dance 2014 - Lady Gaga ft. Colby O'Donis - Just Dance - Sweat (World) (DLC)</description>
 		<rom name="555308C1\00000002\A02829A15F88212CE24E884FCBD5AACFDA4039CA55" size="62275584" crc="fd031cb5" md5="b4ef84ce2a389ea7333730f919ebd649" sha1="65cda2c29ff708f7b3b187f5272a2c5e03885913"/>
 	</game>
-	<game name="Just Dance 2014 - LMFAO - Sexy And I Know It (World) (DLC)" id="10425">
-		<description>Just Dance 2014 - LMFAO - Sexy And I Know It (World) (DLC)</description>
+	<game name="Just Dance 2014 - LMFAO - Sexy and I Know It (World) (DLC)" id="10425">
+		<description>Just Dance 2014 - LMFAO - Sexy and I Know It (World) (DLC)</description>
 		<rom name="555308C1\00000002\30EE28B433F1534E476F9E9B0CA5B15DB141820C55" size="118292480" crc="20c7bd5c" md5="65638923307881f6516a7113c0804b02" sha1="e647d6383f5459f935331db8adbfe91e68504d25"/>
 	</game>
 	<game name="Just Dance 2014 - Macklemore &amp; Ryan Lewis ft. Ray Dalton - Can't Hold Us (World) (DLC)" id="10426">
@@ -34246,16 +34246,16 @@
 		<description>Just Dance 2014 - Miley Cyrus - We Can't Stop (World) (DLC)</description>
 		<rom name="555308C1\00000002\3DA7B794B7BA1D371D92163AE7EC3EA9F112A2D955" size="63152128" crc="e0face19" md5="573b925d40c3cecd59a856df0ddf1939" sha1="2d77e27bb0b9527c4d42533dea14c5733ceb0b74"/>
 	</game>
-	<game name="Just Dance 2014 - Nicki Minaj - Pound The Alarm (Extreme) (World) (DLC)" id="10430">
-		<description>Just Dance 2014 - Nicki Minaj - Pound The Alarm (Extreme) (World) (DLC)</description>
+	<game name="Just Dance 2014 - Nicki Minaj - Pound the Alarm - Extreme (World) (DLC)" id="10430">
+		<description>Just Dance 2014 - Nicki Minaj - Pound the Alarm - Extreme (World) (DLC)</description>
 		<rom name="555308C1\00000002\9E170B6B57EF26C81BFBA74C6E3A125EA65BF80B55" size="47538176" crc="4f8e41b8" md5="57cf0090ef3fc3ae38e843e09e1f51b8" sha1="ee665260b8385b04d6f77f602426009e6bed83d3"/>
 	</game>
 	<game name="Just Dance 2014 - One Direction - One Thing (World) (DLC)" id="10431">
 		<description>Just Dance 2014 - One Direction - One Thing (World) (DLC)</description>
 		<rom name="555308C1\00000002\AB197FB648C7643C89A95AA8D4EEE6DAFBB88F8655" size="121040896" crc="bee0a067" md5="3a623b90a2dcbbfed6f05ce89d3f5d0b" sha1="977c43f58f99f41fb63b3817648b90eeb3c219f8"/>
 	</game>
-	<game name="Just Dance 2014 - One Direction - One Way Or Another (Teenage Kicks) (World) (DLC)" id="10432">
-		<description>Just Dance 2014 - One Direction - One Way Or Another (Teenage Kicks) (World) (DLC)</description>
+	<game name="Just Dance 2014 - One Direction - One Way or Another - Teenage Kicks (World) (DLC)" id="10432">
+		<description>Just Dance 2014 - One Direction - One Way or Another - Teenage Kicks (World) (DLC)</description>
 		<rom name="555308C1\00000002\56BC8CC795AA9D6F5F026179791DE50072776E5E55" size="99508224" crc="ee12801e" md5="db6a46caa6366c8a490031a19cdb1ec5" sha1="a752dbda9ff2f31896066e53e1dfa8a11a0426c8"/>
 	</game>
 	<game name="Just Dance 2014 - P!nk - Funhouse (World) (DLC)" id="10433">
@@ -34326,8 +34326,8 @@
 		<description>Just Dance 2015 - Jennifer Lopez ft. French Montana - I Luh Ya Papi (World) (DLC)</description>
 		<rom name="555308CD\00000002\8335552E7928FEA254D75858390530C6BA2F1E4F55" size="144179200" crc="5013f4d5" md5="b4eaee3b7b26309f1f7f84f4bf82975b" sha1="d5b7809a7b601d6371bbf613fa95c65d93854cec"/>
 	</game>
-	<game name="Just Dance 2015 - Justin Bieber ft. Nicki Minaj - Beauty And A Beat (World) (DLC)" id="10450">
-		<description>Just Dance 2015 - Justin Bieber ft. Nicki Minaj - Beauty And A Beat (World) (DLC)</description>
+	<game name="Just Dance 2015 - Justin Bieber ft. Nicki Minaj - Beauty and a Beat (World) (DLC)" id="10450">
+		<description>Just Dance 2015 - Justin Bieber ft. Nicki Minaj - Beauty and a Beat (World) (DLC)</description>
 		<rom name="555308CD\00000002\C6F734847DF002D933D593BB42B79C3613EABB2855" size="131170304" crc="23e89c6e" md5="42adc6968dbf5fcbfd30d15cfa0e9d41" sha1="aae1ad7e682f0760c008b2a9e62b3f877495bfee"/>
 	</game>
 	<game name="Just Dance 2015 - Katy Perry - Roar (World) (DLC)" id="10451">
@@ -34362,8 +34362,8 @@
 		<description>Just Dance 2015 - One Direction - Kiss You (World) (DLC)</description>
 		<rom name="555308CD\00000002\005E493249AECF16941BDC96070D230FA3B0FCCD55" size="153300992" crc="e9f1b173" md5="c39998b9722fb0cb7a68886658541877" sha1="54d4c6bfc7eace0189c18566ca215f815c2fa1cd"/>
 	</game>
-	<game name="Just Dance 2015 - One Direction - One Way Or Another (Teenage Kicks) (World) (DLC)" id="10459">
-		<description>Just Dance 2015 - One Direction - One Way Or Another (Teenage Kicks) (World) (DLC)</description>
+	<game name="Just Dance 2015 - One Direction - One Way or Another - Teenage Kicks (World) (DLC)" id="10459">
+		<description>Just Dance 2015 - One Direction - One Way or Another - Teenage Kicks (World) (DLC)</description>
 		<rom name="555308CD\00000002\23B64056619FDFC4088C1666493584336212CE9C55" size="90906624" crc="619c641a" md5="1764bfc386f23faa1fa9a5f169ced589" sha1="13c1968803a768b48b2f9bed2c5bd6defddd9fa6"/>
 	</game>
 	<game name="Just Dance 2015 - P!nk - Funhouse (World) (DLC)" id="10460">
@@ -34413,8 +34413,8 @@
 		<rom name="55530888\00009000\00001000D4D3F293CAA77AAE55530888" size="167936" crc="2e134987" md5="706f44188aae128865ff3443be578afa" sha1="066188cce11049a59233a85c49aa240b259361c0"/>
 		<rom name="55530888\00009000\00001000E52E02E3C6497CC655530888" size="217088" crc="5259f4b4" md5="20a8d2523c3342cf58ec21a310b1ec0c" sha1="cacc8202d09b4c6af2993955dfff8ae9a8bdc29d"/>
 	</game>
-	<game name="Just Dance 3 - Baha Men (The Sunlight Shakers) - Who Let The Dogs Out (World) (DLC)" id="10465">
-		<description>Just Dance 3 - Baha Men (The Sunlight Shakers) - Who Let The Dogs Out (World) (DLC)</description>
+	<game name="Just Dance 3 - Baha Men - The Sunlight Shakers - Who Let the Dogs Out (World) (DLC)" id="10465">
+		<description>Just Dance 3 - Baha Men - The Sunlight Shakers - Who Let the Dogs Out (World) (DLC)</description>
 		<rom name="55530888\00000002\821280D79D64A13A4971C9A669C0EA9241B14CEC55" size="104812544" crc="b8b83d91" md5="ceb45f568774b1f36f46b6c013a437b7" sha1="74693ae518b2718c717a99cc70aa95463dba8546"/>
 	</game>
 	<game name="Just Dance 3 - Benny Benassi pres. The Biz - Satisfaction (Isak Original Ext.) (World) (DLC)" id="10466">
@@ -34433,12 +34433,12 @@
 		<description>Just Dance 3 - Boney M. - Rasputin (World) (DLC)</description>
 		<rom name="55530888\00000002\4C04884040863F5B5938F12F8C7E7CCCF8AE7DE355" size="130727936" crc="004858a9" md5="8e8b278d02103c051d5b5ea788170ad9" sha1="f84c3a1f7ccab15e8f8b401471b5bad7974eaf79"/>
 	</game>
-	<game name="Just Dance 3 - Britney Spears (The Hit Crew) - Toxic (World) (DLC)" id="10469">
-		<description>Just Dance 3 - Britney Spears (The Hit Crew) - Toxic (World) (DLC)</description>
+	<game name="Just Dance 3 - Britney Spears &amp; The Hit Crew - Toxic (World) (DLC)" id="10469">
+		<description>Just Dance 3 - Britney Spears &amp; The Hit Crew - Toxic (World) (DLC)</description>
 		<rom name="55530888\00000002\3A6024FCF2D5AD1BB5A3444AB646C7A675735B8955" size="95444992" crc="27bf7402" md5="4713036b79e954e41d9d043c2cea4a49" sha1="bc1b31dbc73877b69906148f26c241834623ced3"/>
 	</game>
-	<game name="Just Dance 3 - Calvin Harris - Acceptable In The 80s (World) (DLC)" id="10470">
-		<description>Just Dance 3 - Calvin Harris - Acceptable In The 80s (World) (DLC)</description>
+	<game name="Just Dance 3 - Calvin Harris - Acceptable in the 80s (World) (DLC)" id="10470">
+		<description>Just Dance 3 - Calvin Harris - Acceptable in the 80s (World) (DLC)</description>
 		<rom name="55530888\00000002\FF2CE8B685F70A33EC64BC2564A556DC7D32172D55" size="111099904" crc="68de0480" md5="995b31eb19235b91f6d753d603ceb149" sha1="402ed33ca20b89891ea1eada6e116c12f38b5fef"/>
 	</game>
 	<game name="Just Dance 3 - Charleston - Mugsy Baloney (World) (DLC)" id="10471">
@@ -34469,8 +34469,8 @@
 		<description>Just Dance 3 - Jamiroquai - Cosmic Girl (World) (DLC)</description>
 		<rom name="55530888\00000002\462FC5E13C51D7016D1D3385F0E57934559B8E9355" size="110178304" crc="e9f3095d" md5="3cc3f38932afc3d334510a520dd0be9c" sha1="fba8cf009c25f3a239a49d01d0ae7e579d3b8248"/>
 	</game>
-	<game name="Just Dance 3 - KC &amp; The Sunshine Band - That's The Way (I Like It) (World) (DLC)" id="10477">
-		<description>Just Dance 3 - KC &amp; The Sunshine Band - That's The Way (I Like It) (World) (DLC)</description>
+	<game name="Just Dance 3 - KC &amp; The Sunshine Band - That's the Way I Like It (World) (DLC)" id="10477">
+		<description>Just Dance 3 - KC &amp; The Sunshine Band - That's the Way I Like It (World) (DLC)</description>
 		<rom name="55530888\00000002\2F7A0164890AB023D6E570227A859B851A16075E55" size="98828288" crc="8b692686" md5="b72c5a4d338d98564686f75949c7f9d5" sha1="68156fa6f2a8a441480cafbff97a14d3501d0c83"/>
 	</game>
 	<game name="Just Dance 3 - Kris Kross - Jump (World) (DLC)" id="10478">
@@ -34489,8 +34489,8 @@
 		<description>Just Dance 3 - New Kids On The Block - Step By Step (World) (DLC)</description>
 		<rom name="55530888\00000002\ED1F2F4ED8854E4ECDB2C44A82C3B1D52659F33055" size="76845056" crc="2eb4ac18" md5="6546c4df69bfe9c71e8aa3f9800278cc" sha1="bc40a2fcc82aeba0cea3ff8fea5c5b578755e7f3"/>
 	</game>
-	<game name="Just Dance 3 - Pitbull &amp; Sean Paul - Jump In The Line (Shake, Senora) (World) (DLC)" id="10481">
-		<description>Just Dance 3 - Pitbull &amp; Sean Paul - Jump In The Line (Shake, Senora) (World) (DLC)</description>
+	<game name="Just Dance 3 - Pitbull &amp; Sean Paul - Jump in the Line - Shake, Senora (World) (DLC)" id="10481">
+		<description>Just Dance 3 - Pitbull &amp; Sean Paul - Jump in the Line - Shake, Senora (World) (DLC)</description>
 		<rom name="55530888\00000002\633FB2E07BE479162215022C108F53A6B63F0AD855" size="103010304" crc="cc412fd3" md5="a2bf4438a078f3e24b6ddc8f32be70bd" sha1="02d172449489402800ca4599de476d27cd043dcd"/>
 	</game>
 	<game name="Just Dance 3 - Reel 2 Real ft. The Mad Stuntman - I Like to Move It (Radio Mix) (World) (DLC)" id="10482">
@@ -34533,8 +34533,8 @@
 		<description>Just Dance 3 - Sweat Pack #2 (World) (DLC)</description>
 		<rom name="55530888\00000002\55041107E03325321CF151598A728415B60132FE55" size="322781184" crc="8e4e2fbe" md5="350ce127cebd5adf0c193bee5b57d359" sha1="3f03207f2a20f47e07a78d091ea6ee35252ed236"/>
 	</game>
-	<game name="Just Dance 3 - The B-52's - Funplex (CSS Remix) (World) (DLC)" id="10492">
-		<description>Just Dance 3 - The B-52's - Funplex (CSS Remix) (World) (DLC)</description>
+	<game name="Just Dance 3 - The B-52's - Funplex - CSS Remix (World) (DLC)" id="10492">
+		<description>Just Dance 3 - The B-52's - Funplex - CSS Remix (World) (DLC)</description>
 		<rom name="55530888\00000002\AA2C6A4B500AEB51C8D8A9AC5FB30E33D066F46755" size="66744320" crc="aefd5b61" md5="bba99675854bd431dcd15e0400bc9abc" sha1="93f5c827157dadd31232cd77f46d21ebda3f7a3f"/>
 	</game>
 	<game name="Just Dance 3 - The Weather Girls - It's Raining Men (World) (DLC)" id="10493">
@@ -34573,8 +34573,8 @@
 		<description>Just Dance 4 - Gossip - Heavy Cross (World) (DLC)</description>
 		<rom name="555308B5\00000002\A75BAE953367B196FF0C80707CD60874BB21161955" size="132329472" crc="9c0ad103" md5="107a4f81e1159b12ab8e424b8a85d231" sha1="3ad465bc1bde4a89f4a5ddca433c16294eced4f9"/>
 	</game>
-	<game name="Just Dance 4 - Katy Perry - Part Of Me (World) (DLC)" id="10502">
-		<description>Just Dance 4 - Katy Perry - Part Of Me (World) (DLC)</description>
+	<game name="Just Dance 4 - Katy Perry - Part of Me (World) (DLC)" id="10502">
+		<description>Just Dance 4 - Katy Perry - Part of Me (World) (DLC)</description>
 		<rom name="555308B5\00000002\2E48B59845A617C1AC2C976BA1EC1921F332943755" size="75259904" crc="ca259060" md5="83ba8cae2ee6e07c6453191669a0be93" sha1="45527dc47ab93f3e4da7233121dfd0c3c57c6c9f"/>
 	</game>
 	<game name="Just Dance 4 - Ke$ha - Die Young (World) (DLC)" id="10503">
@@ -34613,8 +34613,8 @@
 		<description>Just Dance 4 - Reggaeton Storm - Boom (World) (DLC)</description>
 		<rom name="555308B5\00000002\B2CC552F7764FBAA74E3FF7237802EB1420C9C8A55" size="45649920" crc="a97808b5" md5="f7b72beaba2e8c108ef1c1a50e402b18" sha1="cf345c01940aa992ea78015bdd06bbb139ca2c76"/>
 	</game>
-	<game name="Just Dance 4 - Selena Gomez &amp; The Scene - Hit The Lights (World) (DLC)" id="10512">
-		<description>Just Dance 4 - Selena Gomez &amp; The Scene - Hit The Lights (World) (DLC)</description>
+	<game name="Just Dance 4 - Selena Gomez &amp; The Scene - Hit the Lights (World) (DLC)" id="10512">
+		<description>Just Dance 4 - Selena Gomez &amp; The Scene - Hit the Lights (World) (DLC)</description>
 		<rom name="555308B5\00000002\95EAE5E7DD196D7BEF801A6650F6F49A514D5DF255" size="106803200" crc="02e2ac68" md5="a8f5c432dda9abcfb543c8116a1b3cc1" sha1="0c9fa7cbdfdc1710e4ede555bde9ea8c06d5af04"/>
 	</game>
 	<game name="Just Dance 4 - Sorcerer - Dagomba (World) (DLC)" id="10513">
@@ -64752,8 +64752,8 @@
 		<description>Rock Band Network - Steve Vai - The Crying Machine (Live) (World) (Addon)</description>
 		<rom name="45410869\00000002\F28F45C1BCD667B6C62617C9FC45E8FC5853CA0F45" size="44765184" crc="7f4f54fa" md5="3000884768ad0656595428091c95ff8e" sha1="a84cbf720127e7b018569fc06c3d8f12ff1bedc2"/>
 	</game>
-	<game name="Rock Band Network - Stewart - Dance With Me (World) (Addon)" id="01781">
-		<description>Rock Band Network - Stewart - Dance With Me (World) (Addon)</description>
+	<game name="Rock Band Network - Stewart - Dance with Me (World) (Addon)" id="01781">
+		<description>Rock Band Network - Stewart - Dance with Me (World) (Addon)</description>
 		<rom name="45410869\00000002\7E4F22257982B18D4D30E85F51F10BA74ABB94A545" size="20299776" crc="363e3eb1" md5="25204619ceded592ed036db6be93dfa0" sha1="6da0eef05ff174d4493f4c48900b669f674564eb"/>
 	</game>
 	<game name="Rock Band Network - Stop the World - Enemy (World) (Addon)" id="03075">
