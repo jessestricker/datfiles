@@ -4,7 +4,7 @@
 		<id>15</id>
 		<name>Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>20260405-032110</version>
+		<version>20260414-123846</version>
 		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, ShiroeNL, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -37,10 +37,10 @@
 		<description>Golf (USA)</description>
 		<rom name="Golf (USA).vb" size="2097152" crc="2199af41" md5="977c4da800dacfac1a1402781670f872" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5" serial="VVGE"/>
 	</game>
-	<game name="Insmouth no Yakata (Japan)" id="0004">
+	<game name="Innsmouth no Yakata (Japan)" id="0004">
 		<category>Games</category>
-		<description>Insmouth no Yakata (Japan)</description>
-		<rom name="Insmouth no Yakata (Japan).vb" size="1048576" crc="83cb6a00" md5="1eb964d0eaa3223cfefdcc99a6265c88" sha1="37e06e53ce2810e870835c48decdd6c72079bfda" sha256="df48db37887c9ef2f30a3a2f486607a8c8633bba5163ea8c3b8e7cf49067ef7d" status="verified" serial="VIMJ"/>
+		<description>Innsmouth no Yakata (Japan)</description>
+		<rom name="Innsmouth no Yakata (Japan).vb" size="1048576" crc="83cb6a00" md5="1eb964d0eaa3223cfefdcc99a6265c88" sha1="37e06e53ce2810e870835c48decdd6c72079bfda" sha256="df48db37887c9ef2f30a3a2f486607a8c8633bba5163ea8c3b8e7cf49067ef7d" status="verified" serial="VIMJ"/>
 	</game>
 	<game name="Jack Bros. (USA)" id="0005">
 		<category>Games</category>

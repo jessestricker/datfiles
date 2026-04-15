@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260412-211135</version>
+		<version>20260414-223451</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4513,6 +4513,12 @@
 		<description>Formula One (USA)</description>
 		<rom name="Formula One (USA).md" size="1048576" crc="ccd73738" md5="7247829ab401477e4141e5f5b3077f0c" sha1="8f8edd8e6846cbba1b46f8eb9015b195ccc4acf9" sha256="b71858f50eb126d96fc702cc48c1f9f7ae1b2404a61a7e8960fe3fcb5b58fc63" serial="T-088066-00"/>
 	</game>
+	<game name="Formula One (USA) (Beta)" id="3795" cloneofid="0469">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Formula One (USA) (Beta)</description>
+		<rom name="Formula One (USA) (Beta).md" size="1048576" crc="5395825a" md5="a56c03c52b8ed25f98110642259274c8" sha1="ab019b43f2d1c7d2cf925187362815194d0ccd9b" sha256="30abc82da7252e87539750c560856440f8130f884defb2274de17b40c9ed7b79" serial="T-000000-00"/>
+	</game>
 	<game name="Frank Thomas Big Hurt Baseball (USA, Europe)" id="0515">
 		<category>Games</category>
 		<description>Frank Thomas Big Hurt Baseball (USA, Europe)</description>
@@ -5815,7 +5821,7 @@
 	</game>
 	<game name="Jungle Book, The (USA) (Blockbuster Flash ROM)" id="3788" cloneofid="0678">
 		<description>Jungle Book, The (USA) (Blockbuster Flash ROM)</description>
-		<rom name="Jungle Book, The (USA) (Blockbuster Flash ROM).md" size="2097152" crc="87780266" md5="1e44ca4090d4ecb95d47cb6cdb2e8dba" sha1="402fa371c8144c15f1ad43e542c4abc65c258a00" sha256="c46f20800f67e6c8cbda0f441efc1fc251f315318af02f41bdbf140a176047b7" mia="yes"/>
+		<rom name="Jungle Book, The (USA) (Blockbuster Flash ROM).md" size="2097152" crc="87780266" md5="1e44ca4090d4ecb95d47cb6cdb2e8dba" sha1="402fa371c8144c15f1ad43e542c4abc65c258a00" sha256="c46f20800f67e6c8cbda0f441efc1fc251f315318af02f41bdbf140a176047b7"/>
 	</game>
 	<game name="Jungle Book, The (Europe) (Beta)" id="2399" cloneofid="0678">
 		<category>Games</category>
@@ -6535,11 +6541,6 @@
 		<description>Lost Vikings, The (USA) (Rev 1)</description>
 		<rom name="Lost Vikings, The (USA) (Rev 1).md" size="1048576" crc="63729b74" md5="8335ca918a503047fc9cde6a0b082308" sha1="1434551cec6f7a9ca6f7f9a8bb4aad4d89b0e3fb" sha256="0d71e903be21b77c9a77ee84d5990fd84a07aa7ec876ff733efbf05497388b83" serial="T-119216-00"/>
 	</game>
-	<game name="Lost World, The - Jurassic Park (USA, Europe)" id="0689">
-		<category>Games</category>
-		<description>Lost World, The - Jurassic Park (USA, Europe)</description>
-		<rom name="Lost World, The - Jurassic Park (USA, Europe).md" size="4194304" crc="140a284c" md5="faa6c4be300016843000cbbed8e94553" sha1="25a93bbcfbbe286a36f0b973adf86b0f0f3cfa3f" sha256="9dc5c6de99895018c102b558d9a8b0d24e6ce22df2da8e8f0e4bb96e7210bd6f" status="verified" serial="MK-1846-00"/>
-	</game>
 	<game name="Lost World, The - Jurassic Park (USA) (Demo) (Test Drive) (Sega Channel)" id="3692" cloneofid="0689">
 		<category>Demos</category>
 		<category>Games</category>
@@ -6557,6 +6558,11 @@
 		<category>Games</category>
 		<description>Lost World, The - Jurassic Park (USA) (Demo) (Part Two) (Sega Channel)</description>
 		<rom name="Lost World, The - Jurassic Park (USA) (Demo) (Part Two) (Sega Channel).md" size="3145728" crc="de058410" md5="a408b62147555fb6f7f7455f1e63c5be" sha1="0fd66c4064a4fff5383f244a743ca4376bee397d" sha256="7ad93133a7269ba43724cd7bcd0cbc0d23e82ca0780e553634ee392690e17ded" serial="MK-1846-00"/>
+	</game>
+	<game name="Lost World, The - Jurassic Park (USA, Europe)" id="0689">
+		<category>Games</category>
+		<description>Lost World, The - Jurassic Park (USA, Europe)</description>
+		<rom name="Lost World, The - Jurassic Park (USA, Europe).md" size="4194304" crc="140a284c" md5="faa6c4be300016843000cbbed8e94553" sha1="25a93bbcfbbe286a36f0b973adf86b0f0f3cfa3f" sha256="9dc5c6de99895018c102b558d9a8b0d24e6ce22df2da8e8f0e4bb96e7210bd6f" status="verified" serial="MK-1846-00"/>
 	</game>
 	<game name="Lotus II (USA, Europe) (Beta)" id="0760" cloneofid="0761">
 		<category>Games</category>

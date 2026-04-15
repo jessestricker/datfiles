@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260407-072210</version>
+		<version>20260414-084400</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1247,6 +1247,11 @@
 		<description>Chiki Chiki Tengoku (Japan)</description>
 		<rom name="Chiki Chiki Tengoku (Japan).gb" size="32768" crc="eb33f601" md5="c6c1ce5f473fd6a31033878d32c885d4" sha1="56012e7f9150ec8f9117b0540dcbd2bf82c948bb" sha256="2eb1ab19a19e688ebc047497922b17218da3cb673084846999bd81a4dd73eba4"/>
 	</game>
+	<game name="Chikyuu Kaihou Gun ZAS (World) (ModRetro Chromatic)" id="2563" cloneofid="1543">
+		<category>Games</category>
+		<description>Chikyuu Kaihou Gun ZAS (World) (ModRetro Chromatic)</description>
+		<rom name="Chikyuu Kaihou Gun ZAS (World) (ModRetro Chromatic).gb" size="131072" crc="b7f5ced2" md5="00272ca1737c1ff58adbe67e6bc43e05" sha1="7d0f2a38862ae78ebde2fd2cc61c68bf569551c8" sha256="c7f0ef1bac33c1fecea47cb6b858e31c9c9abfc5d174865af13eb7668dbe3547"/>
+	</game>
 	<game name="Chikyuu Kaihou Gun ZAS (Japan) (En)" id="1543">
 		<description>Chikyuu Kaihou Gun ZAS (Japan) (En)</description>
 		<rom name="Chikyuu Kaihou Gun ZAS (Japan) (En).gb" size="131072" crc="7bfd1cff" md5="a74aa804a3a6439303583e6c0b413b00" sha1="2ff6d0242d845669445e3d97fffae5c5f7943cfd" sha256="8b5f5f3f615136b83a5f8b60ba5cf1ba32048dd0a6ddfa127c1ad3a024c7de5b"/>
@@ -1300,13 +1305,13 @@
 		<description>College Slam (USA)</description>
 		<rom name="College Slam (USA).gb" size="524288" crc="a549a572" md5="a61b0c0e0f0d9833cba22811caabd3ba" sha1="84dc6269fbe4ee4c157f940b0a9630412e099cc6" sha256="53199f624a81f566104c143b835ca648ee9bbccc2c10efa21a3f4b3f5b5e7ea7"/>
 	</game>
-	<game name="Contra (World) (Contra Anniversary Collection)" id="1682" cloneofid="1072">
-		<description>Contra (World) (Contra Anniversary Collection)</description>
-		<rom name="Contra (World) (Contra Anniversary Collection).gb" size="131072" crc="cc67a046" md5="62d484bc4988823a143e50fddaadae2f" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc" sha256="1f35e2a662b9379ad9bdae8b7495e4b58d12d3c29206bb6e1e461a4d8b5f994e" status="verified"/>
-	</game>
 	<game name="Contra (Japan) (En)" id="0249" cloneofid="1072">
 		<description>Contra (Japan) (En)</description>
 		<rom name="Contra (Japan) (En).gb" size="131072" crc="cde6de15" md5="2cc322a27530f6aaa09a35b2f14aebd5" sha1="c8b34b5aba3d448e357b59cdf106ee9b134713db" sha256="8e765a4e381462a29632b7a3c5421080be3e8445e5913d7e904a8e80d688ca81"/>
+	</game>
+	<game name="Contra (World) (Contra Anniversary Collection)" id="1682" cloneofid="1072">
+		<description>Contra (World) (Contra Anniversary Collection)</description>
+		<rom name="Contra (World) (Contra Anniversary Collection).gb" size="131072" crc="cc67a046" md5="62d484bc4988823a143e50fddaadae2f" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc" sha256="1f35e2a662b9379ad9bdae8b7495e4b58d12d3c29206bb6e1e461a4d8b5f994e" status="verified"/>
 	</game>
 	<game name="Contra - The Alien Wars (USA) (SGB Enhanced)" id="0250" cloneofid="1073">
 		<description>Contra - The Alien Wars (USA) (SGB Enhanced)</description>

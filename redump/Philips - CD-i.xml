@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Philips - CD-i</name>
-		<description>Philips - CD-i - Discs (2425) (2026-04-08 10-06-28)</description>
-		<version>2026-04-08 10-06-28</version>
-		<date>2026-04-08 10-06-28</date>
+		<description>Philips - CD-i - Discs (2425) (2026-04-15 20-51-33)</description>
+		<version>2026-04-15 20-51-33</version>
+		<date>2026-04-15 20-51-33</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -7890,11 +7890,11 @@
 		<rom name="Building the Winning Company - Toolkit for Teams and Managers (Europe).cue" size="157" crc="4078a25b" md5="c01845b2a4294ec2c6fc86a304f931a0" sha1="9332f7b2f1e7352faba64ca0f2cb1a60a359e819"/>
 		<rom name="Building the Winning Company - Toolkit for Teams and Managers (Europe).bin" size="631340304" crc="62cc7a4d" md5="afd3e222e8470fb7cf61c82dc60ece64" sha1="24ffff7039617dad1e5a77126a7d4685ac854def"/>
 	</game>
-	<game name="Tom - Magic Picture Show (Europe)">
+	<game name="Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03)">
 		<category>Educational</category>
-		<description>Tom - Magic Picture Show (Europe)</description>
-		<rom name="Tom - Magic Picture Show (Europe).cue" size="120" crc="ce5162bc" md5="660ff2faead4a9bfb236315ad1a1f52e" sha1="287ab97d7c789495b4c51d500b7bd333e7311d08"/>
-		<rom name="Tom - Magic Picture Show (Europe).bin" size="189100800" crc="9e96b168" md5="3072e43fa2f54047acaf9116f881ad0b" sha1="827fee1fc84041a641310b271554c84ac3523edb"/>
+		<description>Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03)</description>
+		<rom name="Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03).cue" size="139" crc="11c75f7a" md5="c0c0ff8c6eedf42d3ac9017f3b8e1932" sha1="5d63589678051832072dae19177a19a7d73219ea"/>
+		<rom name="Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03).bin" size="189100800" crc="9e96b168" md5="3072e43fa2f54047acaf9116f881ad0b" sha1="827fee1fc84041a641310b271554c84ac3523edb"/>
 	</game>
 	<game name="Zombie Dinos de la Planete Zeltoide (France)">
 		<category>Games</category>
@@ -11449,11 +11449,11 @@
 		<rom name="Paint School II (Europe).cue" size="88" crc="10914c64" md5="855b7953036c82de7ac10af265f6f960" sha1="1ee78117f8d1829a6881be99a90e87c79b34fa84"/>
 		<rom name="Paint School II (Europe).bin" size="162640800" crc="9540272e" md5="6f4d79bee313b6a3f8cb4bee0e549be2" sha1="2a5a5413d61ec1585bfcdcb5d97e0ac57e91f5e5"/>
 	</game>
-	<game name="Tom's Magic Picture Show (Europe)">
+	<game name="Tom - Magic Picture Show (Europe) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Tom's Magic Picture Show (Europe)</description>
-		<rom name="Tom's Magic Picture Show (Europe).cue" size="97" crc="f44f3e01" md5="0590b38e05429561296986feaf87b007" sha1="62cdc6b22eb3ae49452f16815c88dce07282acae"/>
-		<rom name="Tom's Magic Picture Show (Europe).bin" size="189277200" crc="aed2f62e" md5="298db6eb4b0c8d6fde9fdb254fee3e81" sha1="5676b9f9427b22295a14c3043ff7f9e48e29d345"/>
+		<description>Tom - Magic Picture Show (Europe) (En,Fr,Es)</description>
+		<rom name="Tom - Magic Picture Show (Europe) (En,Fr,Es).cue" size="108" crc="50560c16" md5="0105f880ebc8b523d04121171a7f406e" sha1="0b1dc2d47f5ab9cd960cccc6618db85d92f4cbd5"/>
+		<rom name="Tom - Magic Picture Show (Europe) (En,Fr,Es).bin" size="189277200" crc="aed2f62e" md5="298db6eb4b0c8d6fde9fdb254fee3e81" sha1="5676b9f9427b22295a14c3043ff7f9e48e29d345"/>
 	</game>
 	<game name="NFL Hall of Fame Football (Europe)">
 		<category>Games</category>
