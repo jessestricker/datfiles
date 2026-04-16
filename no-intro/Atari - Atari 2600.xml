@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260405-051359</version>
+		<version>20260415-093854</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1697,7 +1697,7 @@
 		<description>Laaser Voley (Europe) (Pirate)</description>
 		<rom name="Laaser Voley (Europe) (Pirate).a26" size="4096" crc="dc1d3627" md5="bce4c291d0007f16997faa5c4db0a6b8" sha1="c513703d638c01b0c26922d5e3e7bfb65ea597da"/>
 	</game>
-	<game name="Labyrinth (Europe)" id="0813">
+	<game name="Labyrinth (Europe)" id="0813" cloneofid="0258">
 		<description>Labyrinth (Europe)</description>
 		<rom name="Labyrinth (Europe).a26" size="4096" crc="4f2bc502" md5="0fbf618be43d4396856d4244126fe7dc" sha1="adbc884601016ebf1b3bca03dce56d95b7a90a22" sha256="8533208a328ad34657b104a6eec7e7973ef44810790b538e976114ac403f70fb" status="verified"/>
 	</game>
@@ -1809,6 +1809,10 @@
 	<game name="Math Gran Prix (Europe)" id="0860">
 		<description>Math Gran Prix (Europe)</description>
 		<rom name="Math Gran Prix (Europe).a26" size="4096" crc="4eefe843" md5="45beef9da1a7e45f37f3f445f769a0b3" sha1="3ac92529e4c146eb15365486778052e6892bab32" sha256="5a0026eca6620e1b4214b49d3b194a62151342e545cc19a6b6efa9febaa2eb82"/>
+	</game>
+	<game name="Maze Craze - A Game of Cops 'n Robbers (Europe)" id="0927" cloneofid="0258">
+		<description>Maze Craze - A Game of Cops 'n Robbers (Europe)</description>
+		<rom name="Maze Craze - A Game of Cops 'n Robbers (Europe).a26" size="4096" crc="328075b8" md5="ed2218b3075d15eaa34e3356025ccca3" sha1="4a255c1d277f9ceb98dfe61ec2c6f7537ca4e7bf" sha256="3c6b01041b1788d582f7b5b526d20457c46a2b080c8126f23b6892b02a16932d"/>
 	</game>
 	<game name="Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)" id="0258">
 		<description>Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)</description>
@@ -2896,6 +2900,10 @@
 	<game name="Star Raiders (USA)" id="0447">
 		<description>Star Raiders (USA)</description>
 		<rom name="Star Raiders (USA).a26" size="8192" crc="2ae193ee" md5="cbd981a23c592fb9ab979223bb368cd5" sha1="e10cce1a438c82bd499e1eb31a3f07d7254198f5"/>
+	</game>
+	<game name="Star Raiders (Europe)" id="0928" cloneofid="0447">
+		<description>Star Raiders (Europe)</description>
+		<rom name="Star Raiders (Europe).a26" size="8192" crc="ba8a07e2" md5="cab2bb580e19923bdcc6f1c5629f0832" sha1="67230ac76e9ea23df12e4212f7e8ed47f1dfd5e1" sha256="4e92bc19682d79e3172d8a57c65bb633b7eb82795a09d59bdc621aa7a77ed515" status="verified"/>
 	</game>
 	<game name="Star Ship ~ Outer Space (USA)" id="0448">
 		<description>Star Ship ~ Outer Space (USA)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3470) (2026-04-15 22-11-59)</description>
-		<version>2026-04-15 22-11-59</version>
-		<date>2026-04-15 22-11-59</date>
+		<description>Sony - PlayStation Portable - Discs (3472) (2026-04-16 22-51-10)</description>
+		<version>2026-04-16 22-51-10</version>
+		<date>2026-04-16 22-51-10</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17355,9 +17355,19 @@
 		<description>Umineko no Naku Koro ni Portable 2 (Japan)</description>
 		<rom name="Umineko no Naku Koro ni Portable 2 (Japan).iso" size="1624145920" crc="728d8524" md5="1cca4cccb4fb3f732e7572cb5d886ae3" sha1="22a65af09e1516e6b49a74739d542a56ac43428c"/>
 	</game>
-	<game name="Fight Ippatsu! Juden-chan!! CC (Japan)">
+	<game name="Fight Ippatsu! Juuden-chan!! CC (Japan)">
 		<category>Games</category>
-		<description>Fight Ippatsu! Juden-chan!! CC (Japan)</description>
-		<rom name="Fight Ippatsu! Juden-chan!! CC (Japan).iso" size="1043988480" crc="adc07767" md5="1ba78d93f5332a3f9a2a9c7892323012" sha1="3ca69f2a49b736662e4f481b61d58c9a738aa580"/>
+		<description>Fight Ippatsu! Juuden-chan!! CC (Japan)</description>
+		<rom name="Fight Ippatsu! Juuden-chan!! CC (Japan).iso" size="1043988480" crc="adc07767" md5="1ba78d93f5332a3f9a2a9c7892323012" sha1="3ca69f2a49b736662e4f481b61d58c9a738aa580"/>
+	</game>
+	<game name="Kamigami no Asobi (Japan)">
+		<category>Games</category>
+		<description>Kamigami no Asobi (Japan)</description>
+		<rom name="Kamigami no Asobi (Japan).iso" size="1445789696" crc="83966ddc" md5="e89406c87dbff5b34812a8355e3ecec2" sha1="0367bbfd2d17c1f36f057970d5f472d316d98d6d"/>
+	</game>
+	<game name="Entaku no Seito - The Eternal Legend (Japan)">
+		<category>Games</category>
+		<description>Entaku no Seito - The Eternal Legend (Japan)</description>
+		<rom name="Entaku no Seito - The Eternal Legend (Japan).iso" size="506855424" crc="1246b861" md5="ff12b79d6d07f376763bedc1cc20a959" sha1="06b30a3a68081786529a39a1e2506c113efef3e0"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260413-112222</version>
+		<version>20260415-130609</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6092,10 +6092,10 @@
 		<description>Kakinoki Shougi (Japan)</description>
 		<rom name="Kakinoki Shougi (Japan).sfc" size="1572864" crc="bc1a265f" md5="e61df94fffdd1583554bcd8fcb5200da" sha1="659db940bb26a655972e4d62d00c5c6d3fdae76c" sha256="cec62bae2471240168d05aaa23a48a68b655f7d55d6c2e86cf85150ce916860d"/>
 	</game>
-	<game name="Kamai-tachi no Yoru (Japan)" id="1301">
+	<game name="Kamaitachi no Yoru (Japan)" id="1301">
 		<category>Games</category>
-		<description>Kamai-tachi no Yoru (Japan)</description>
-		<rom name="Kamai-tachi no Yoru (Japan).sfc" size="3145728" crc="71c631aa" md5="efe8a1e8fbd0c05d1f515e2227e48d11" sha1="4c8f357bd86f9ed909d6a89afb0dbe74913fb333" sha256="3228a3b35f7d234a7bf91f8159ccc56518199222e84d258c14a153f54f9fcbc7" status="verified"/>
+		<description>Kamaitachi no Yoru (Japan)</description>
+		<rom name="Kamaitachi no Yoru (Japan).sfc" size="3145728" crc="71c631aa" md5="efe8a1e8fbd0c05d1f515e2227e48d11" sha1="4c8f357bd86f9ed909d6a89afb0dbe74913fb333" sha256="3228a3b35f7d234a7bf91f8159ccc56518199222e84d258c14a153f54f9fcbc7" status="verified"/>
 	</game>
 	<game name="Kamen Rider (Japan)" id="1302" cloneofid="3713">
 		<category>Games</category>

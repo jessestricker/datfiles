@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260410-211624</version>
+		<version>20260415-123606</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -23407,6 +23407,12 @@
 		<description>Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="8cfe1cdb" md5="20c65af50092fb7419b6784df63846f6" sha1="efd62af3b01f35a3a6037d0a53f63001900061c4" serial="BRLX"/>
 	</game>
+	<game name="Rio (USA) (Beta) (2010-07-09)" id="z668" cloneofid="5655">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rio (USA) (Beta) (2010-07-09)</description>
+		<rom name="Rio (USA) (Beta) (2010-07-09).nds" size="3625984" crc="34545eed" md5="2bd987c27af06f3d812cda0a314cae7a" sha1="2ae12da883eaf9e370a0692a90458c6261ea92a4" sha256="09bc26991760813679c859f29c07523f6269beece4fb41132457eb8d9f6d536a" serial="NTRJ"/>
+	</game>
 	<game name="Rio (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="5655">
 		<description>Rio (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
 		<rom name="Rio (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="33554432" crc="55baff67" md5="ab06522404dacc27cad17374854f4c2c" sha1="5bafaa532e13590107952c2cbf678e529d712f63" serial="VRIV"/>
@@ -23423,14 +23429,14 @@
 		<description>Rise of the Guardians (USA) (En,Fr,Es)</description>
 		<rom name="Rise of the Guardians (USA) (En,Fr,Es).nds" size="33554432" crc="6279698a" md5="acf04dd4b2a4f2957e15f55dfa9f4329" sha1="5607142765f8bb1ffd659c86e4564731e63be898" serial="TRYE"/>
 	</game>
-	<game name="Rittai Picross (Japan)" id="3499" cloneofid="4753">
-		<description>Rittai Picross (Japan)</description>
-		<rom name="Rittai Picross (Japan).nds" size="33554432" crc="04cd8df2" md5="bc80a30162892f2bfbe3327d8cae3f32" sha1="2bb15024606179e96596f17a95469af06a09b3bf" sha256="bda07e8af3a2822bc34287e23188eaaf796c488ca683f40b498a44e76cbb7351" status="verified" serial="C6PJ"/>
-	</game>
 	<game name="Rittai Picross (Japan) (Wii U Virtual Console)" id="z513" cloneofid="4753">
 		<category>Games</category>
 		<description>Rittai Picross (Japan) (Wii U Virtual Console)</description>
 		<rom name="Rittai Picross (Japan) (Wii U Virtual Console).nds" size="33554432" crc="e30458e6" md5="57426e266d3c86eeee6e33a3d0f62439" sha1="787dec6f631e419cce2ed7fcee700c52ddbb9aeb" serial="WUP-N-DA8J"/>
+	</game>
+	<game name="Rittai Picross (Japan)" id="3499" cloneofid="4753">
+		<description>Rittai Picross (Japan)</description>
+		<rom name="Rittai Picross (Japan).nds" size="33554432" crc="04cd8df2" md5="bc80a30162892f2bfbe3327d8cae3f32" sha1="2bb15024606179e96596f17a95469af06a09b3bf" sha256="bda07e8af3a2822bc34287e23188eaaf796c488ca683f40b498a44e76cbb7351" status="verified" serial="C6PJ"/>
 	</game>
 	<game name="River City - Soccer Hooligans (USA)" id="5010">
 		<description>River City - Soccer Hooligans (USA)</description>
@@ -23452,6 +23458,10 @@
 		<description>Road to Vegas (Europe)</description>
 		<rom name="Road to Vegas (Europe).nds" size="33554432" crc="804cd016" md5="bb26995161c2b51d966d0c7a0e05731f" sha1="a768b260ee43844ec2a7d02111165a57c404b25d" serial="CRVP"/>
 	</game>
+	<game name="Roary the Racing Car (United Kingdom) (Rev 1)" id="z184" cloneofid="4214">
+		<description>Roary the Racing Car (United Kingdom) (Rev 1)</description>
+		<rom name="Roary the Racing Car (United Kingdom) (Rev 1).nds" size="8388608" crc="01d6d1f5" md5="c6bcadbe0a48f3c5a0976967bfc0081e" sha1="abb5e1579db6a132184d8a6c108acac97fbd135e" serial="C7RP"/>
+	</game>
 	<game name="Roary the Racing Car (Europe) (En,Fr)" id="5928" cloneofid="4214">
 		<description>Roary the Racing Car (Europe) (En,Fr)</description>
 		<rom name="Roary the Racing Car (Europe) (En,Fr).nds" size="8388608" crc="6746dd3e" md5="a3554bd713df9476f27c7803ca35b071" sha1="f5ed9f4c913feef502b0ae3e95fd245a6b38e955" serial="C7RX"/>
@@ -23459,10 +23469,6 @@
 	<game name="Roary the Racing Car (United Kingdom)" id="4214">
 		<description>Roary the Racing Car (United Kingdom)</description>
 		<rom name="Roary the Racing Car (United Kingdom).nds" size="8388608" crc="9748881c" md5="5e42af531107c190213cf9375fc37824" sha1="471941759c41730cb38582ed4a07d7c5b061113d" serial="C7RP"/>
-	</game>
-	<game name="Roary the Racing Car (United Kingdom) (Rev 1)" id="z184" cloneofid="4214">
-		<description>Roary the Racing Car (United Kingdom) (Rev 1)</description>
-		<rom name="Roary the Racing Car (United Kingdom) (Rev 1).nds" size="8388608" crc="01d6d1f5" md5="c6bcadbe0a48f3c5a0976967bfc0081e" sha1="abb5e1579db6a132184d8a6c108acac97fbd135e" serial="C7RP"/>
 	</game>
 	<game name="Robbie Konijn - Leer Lezen en Schrijven (Netherlands)" id="2984" cloneofid="2413">
 		<description>Robbie Konijn - Leer Lezen en Schrijven (Netherlands)</description>
@@ -23617,13 +23623,13 @@
 		<description>Runaway - A Twist of Fate (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Runaway - A Twist of Fate (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="4c6809ea" md5="cc737b402b563988003282cc390950af" sha1="b6bec9888992aadf9b9e610995873dec0c4976ef" serial="BR4P"/>
 	</game>
-	<game name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1)" id="4405">
-		<description>Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="134217728" crc="79640dde" md5="c4c48e082bb5f375a9f1f15afc9aaf04" sha1="fef2a49830789ff69b96df3cfe24466d8a493e18" status="verified" serial="YR2P"/>
-	</game>
 	<game name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De)" id="1719" cloneofid="4405">
 		<description>Runaway - The Dream of the Turtle (Europe) (En,Fr,De)</description>
 		<rom name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De).nds" size="134217728" crc="ebdd3f2c" md5="1578a81796c6f9fb0662d35e4cc75aaa" sha1="031e07a07aa356338a71c14f9a25f13495cd178f" serial="YR2P"/>
+	</game>
+	<game name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1)" id="4405">
+		<description>Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="134217728" crc="79640dde" md5="c4c48e082bb5f375a9f1f15afc9aaf04" sha1="fef2a49830789ff69b96df3cfe24466d8a493e18" status="verified" serial="YR2P"/>
 	</game>
 	<game name="Rune Factory - A Fantasy Harvest Moon (USA)" id="1330" cloneofid="3443">
 		<description>Rune Factory - A Fantasy Harvest Moon (USA)</description>

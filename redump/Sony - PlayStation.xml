@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10906) (2026-04-14 01-58-01)</description>
-		<version>2026-04-14 01-58-01</version>
-		<date>2026-04-14 01-58-01</date>
+		<description>Sony - PlayStation - Discs (10907) (2026-04-16 20-15-30)</description>
+		<version>2026-04-16 20-15-30</version>
+		<date>2026-04-16 20-15-30</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103776,5 +103776,12 @@
 		<description>Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)</description>
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).cue" size="135" crc="76b54cf3" md5="08955e3755cd5d461d432925d34fd72a" sha1="4e98318d846a3ea9c01fa713ab7a2bb82baa9e26"/>
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin" size="271665408" crc="5b2dac31" md5="fae6eaf333ffa0e229d722c6353b8722" sha1="e941ca9e471a87a25e9b93e86cd56d7aa99d858a"/>
+	</game>
+	<game name="MiruMiru PlayStation Vol. 44 (Japan)">
+		<category>Demos</category>
+		<description>MiruMiru PlayStation Vol. 44 (Japan)</description>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan).cue" size="242" crc="779af888" md5="01b8428f118de59777b72559d72f61ee" sha1="0f79b8acd286cee354ab77c96b3d39d04242ef80"/>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan) (Track 1).bin" size="198675792" crc="6edea91c" md5="aa8312de4d051d4589c27c70535d6441" sha1="edc5e506705e311d5d77fa93c5ce1502b18f0be4"/>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan) (Track 2).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a"/>
 	</game>
 </datafile>

@@ -4,8 +4,8 @@
 		<id>143</id>
 		<name>Sony - PlayStation Vita (PSN) (Updates)</name>
 		<description>Sony - PlayStation Vita (PSN) (Updates)</description>
-		<version>20260411-120905</version>
-		<author>[mRg], baldjared, buckwheat, Landcross, norkmetnoil577, root, UnlockerPT</author>
+		<version>20260415-165728</version>
+		<author>[mRg], baldjared, buckwheat, C. V. Reynolds, Landcross, norkmetnoil577, root, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -7902,8 +7902,8 @@
 		<game_id>JP0700-PCSG00738_00-VSTA000000000000</game_id>
 		<rom name="JP0700-PCSG00738_00-VSTA000000000000-A0104-V0100-80e9232393d19d404d4ee30f2d39665215e98b44-PE.pkg" size="474138160" crc="5454b53d" md5="f3721f583ada99e254b4289b1da3869e" sha1="32e59bf9bc53247efacaa7e064ffd9fa51965754"/>
 	</game>
-	<game name="Kidou Senshi Gundam Seed - Battle Destiny (Japan) (v1.01) (Update)" id="00515">
-		<description>Kidou Senshi Gundam Seed - Battle Destiny (Japan) (v1.01) (Update)</description>
+	<game name="Kidou Senshi Gundam SEED - Battle Destiny (Japan) (v1.01) (Update)" id="00515">
+		<description>Kidou Senshi Gundam SEED - Battle Destiny (Japan) (v1.01) (Update)</description>
 		<game_id>JP0700-PCSG00040_00-GUDAMSEEDBDDLG01</game_id>
 		<rom name="JP0700-PCSG00040_00-GUDAMSEEDBDDLG01-A0101-V0100-651695cb5fe919cb080695dd6097dd86dc226cb9-PE.pkg" size="3198368" crc="c4a78408" md5="d2e1df59bfa640afb4236f53cdee278a" sha1="e44019d0ffd21f7b6e5eb59779fd23399002c1ab"/>
 	</game>

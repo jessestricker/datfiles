@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260413-125232</version>
+		<version>20260415-162620</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6463,13 +6463,13 @@
 		<description>Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan)</description>
 		<rom name="Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan).gba" size="8388608" crc="a7825224" md5="ea29cc92d44b5217b9810a77eccada2d" sha1="3507a5c4df0290b1d1935e47c2ee342d07c3dbdc" serial="BH6J"/>
 	</game>
-	<game name="Kidou Senshi Gundam - Seed Destiny (Japan)" id="1777">
-		<description>Kidou Senshi Gundam - Seed Destiny (Japan)</description>
-		<rom name="Kidou Senshi Gundam - Seed Destiny (Japan).gba" size="8388608" crc="aa250cca" md5="fa72eb309a2c87d0cc50a00d0775950c" sha1="64eea52cd909669a972c091869c5f47865863bc0" serial="B42J"/>
+	<game name="Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)" id="1462">
+		<description>Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)</description>
+		<rom name="Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan).gba" size="8388608" crc="73bf384b" md5="449832ada23c6bc79d1cd3978c5d9420" sha1="9f6b694a159a3d4e3defaaa17e58410d4228cb26" serial="BGNJ"/>
 	</game>
-	<game name="Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)" id="1462">
-		<description>Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)</description>
-		<rom name="Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan).gba" size="8388608" crc="73bf384b" md5="449832ada23c6bc79d1cd3978c5d9420" sha1="9f6b694a159a3d4e3defaaa17e58410d4228cb26" serial="BGNJ"/>
+	<game name="Kidou Senshi Gundam SEED Destiny (Japan)" id="1777">
+		<description>Kidou Senshi Gundam SEED Destiny (Japan)</description>
+		<rom name="Kidou Senshi Gundam SEED Destiny (Japan).gba" size="8388608" crc="aa250cca" md5="fa72eb309a2c87d0cc50a00d0775950c" sha1="64eea52cd909669a972c091869c5f47865863bc0" serial="B42J"/>
 	</game>
 	<game name="Kidou Tenshi Angelic Layer - Misaki to Yume no Tenshi-tachi (Japan)" id="0259">
 		<description>Kidou Tenshi Angelic Layer - Misaki to Yume no Tenshi-tachi (Japan)</description>
@@ -8430,9 +8430,9 @@
 		<description>Mobile Pro Yakyuu - Kantoku no Saihai (Japan)</description>
 		<rom name="Mobile Pro Yakyuu - Kantoku no Saihai (Japan).gba" size="8388608" crc="8df8a0c0" md5="85fa9b30552bcf2b5cffa86f669da0a1" sha1="9766af7b47e5b63c922304d46362d1b374bdf0a0" sha256="184ce017a6e62989cbf7a68b25c5da3b564e543db61a3f24876a86c1b7068aaf" status="verified" serial="AMBJ"/>
 	</game>
-	<game name="Mobile Suit Gundam Seed - Battle Assault (USA)" id="1592">
-		<description>Mobile Suit Gundam Seed - Battle Assault (USA)</description>
-		<rom name="Mobile Suit Gundam Seed - Battle Assault (USA).gba" size="4194304" crc="180d1491" md5="20bb7717258c3bd2e87b9b7617e95df2" sha1="8287d3d336d94a85c5cb22da0fd84918199197e1" serial="BGNE"/>
+	<game name="Mobile Suit Gundam SEED - Battle Assault (USA)" id="1592">
+		<description>Mobile Suit Gundam SEED - Battle Assault (USA)</description>
+		<rom name="Mobile Suit Gundam SEED - Battle Assault (USA).gba" size="4194304" crc="180d1491" md5="20bb7717258c3bd2e87b9b7617e95df2" sha1="8287d3d336d94a85c5cb22da0fd84918199197e1" serial="BGNE"/>
 	</game>
 	<game name="Moero!! Jaleco Collection (Japan)" id="1785">
 		<description>Moero!! Jaleco Collection (Japan)</description>
