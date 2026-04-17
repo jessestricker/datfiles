@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3472) (2026-04-16 22-51-10)</description>
-		<version>2026-04-16 22-51-10</version>
-		<date>2026-04-16 22-51-10</date>
+		<description>Sony - PlayStation Portable - Discs (3475) (2026-04-17 14-52-55)</description>
+		<version>2026-04-17 14-52-55</version>
+		<date>2026-04-17 14-52-55</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -865,15 +865,15 @@
 		<description>LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da)</description>
 		<rom name="LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da).iso" size="1312817152" crc="938650f8" md5="db59ff05d883d704805b75f1874ea84f" sha1="e98c1957a548eb6aa9b440841ab6fdf75e40440c"/>
 	</game>
-	<game name="Minna no Golf-jou Vol. 3 (Japan) (Disc 1)">
+	<game name="Minna no Golf-jou Vol. 3 (Japan) (Disc 1) (Doukonban)">
 		<category>Games</category>
-		<description>Minna no Golf-jou Vol. 3 (Japan) (Disc 1)</description>
-		<rom name="Minna no Golf-jou Vol. 3 (Japan) (Disc 1).iso" size="1632370688" crc="9c927aba" md5="4243dd29b45559a13dda3136f0ecdd79" sha1="e900cc79df8cc52f19cac996450104df8c35f07a"/>
+		<description>Minna no Golf-jou Vol. 3 (Japan) (Disc 1) (Doukonban)</description>
+		<rom name="Minna no Golf-jou Vol. 3 (Japan) (Disc 1) (Doukonban).iso" size="1632370688" crc="9c927aba" md5="4243dd29b45559a13dda3136f0ecdd79" sha1="e900cc79df8cc52f19cac996450104df8c35f07a"/>
 	</game>
-	<game name="Minna no Golf-jou Vol. 3 (Japan) (Disc 2)">
+	<game name="Minna no Golf-jou Vol. 3 (Japan) (Disc 2) (Doukonban)">
 		<category>Games</category>
-		<description>Minna no Golf-jou Vol. 3 (Japan) (Disc 2)</description>
-		<rom name="Minna no Golf-jou Vol. 3 (Japan) (Disc 2).iso" size="1591836672" crc="d79afdee" md5="4fd90072b5de00bad7e4b710c9948d83" sha1="27bea291a8df473b8b580a2978e11d9e0a791ce2"/>
+		<description>Minna no Golf-jou Vol. 3 (Japan) (Disc 2) (Doukonban)</description>
+		<rom name="Minna no Golf-jou Vol. 3 (Japan) (Disc 2) (Doukonban).iso" size="1591836672" crc="d79afdee" md5="4fd90072b5de00bad7e4b710c9948d83" sha1="27bea291a8df473b8b580a2978e11d9e0a791ce2"/>
 	</game>
 	<game name="Derby Time 2006 (Japan)">
 		<category>Games</category>
@@ -17369,5 +17369,20 @@
 		<category>Games</category>
 		<description>Entaku no Seito - The Eternal Legend (Japan)</description>
 		<rom name="Entaku no Seito - The Eternal Legend (Japan).iso" size="506855424" crc="1246b861" md5="ff12b79d6d07f376763bedc1cc20a959" sha1="06b30a3a68081786529a39a1e2506c113efef3e0"/>
+	</game>
+	<game name="Minna no Golf-jou Vol. 1 (Japan) (Disc 1) (Doukonban)">
+		<category>Games</category>
+		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 1) (Doukonban)</description>
+		<rom name="Minna no Golf-jou Vol. 1 (Japan) (Disc 1) (Doukonban).iso" size="1619001344" crc="7bff3a29" md5="892e65b62050a4c419eaa2f9ae22c732" sha1="60035dd25ffb74281678a977e20db9b80c4a65f1"/>
+	</game>
+	<game name="Minna no Golf-jou Vol. 2 (Japan) (Disc 1) (Doukonban)">
+		<category>Games</category>
+		<description>Minna no Golf-jou Vol. 2 (Japan) (Disc 1) (Doukonban)</description>
+		<rom name="Minna no Golf-jou Vol. 2 (Japan) (Disc 1) (Doukonban).iso" size="1738833920" crc="e2f17d51" md5="9e7ed996b523b966a48b938c1d5f3362" sha1="de064ccbc465c7d74cb9cb2e5a6e5ca563975e5c"/>
+	</game>
+	<game name="Minna no Golf-jou Vol. 2 (Japan) (Disc 2) (Doukonban)">
+		<category>Games</category>
+		<description>Minna no Golf-jou Vol. 2 (Japan) (Disc 2) (Doukonban)</description>
+		<rom name="Minna no Golf-jou Vol. 2 (Japan) (Disc 2) (Doukonban).iso" size="1530200064" crc="9697ef41" md5="c8865fe2d4ec32198a039fc5de13af89" sha1="20d9c60844d55d122b75ae23f7b6886715e4ef08"/>
 	</game>
 </datafile>

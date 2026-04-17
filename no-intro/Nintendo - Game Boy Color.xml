@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260415-130209</version>
+		<version>20260416-141525</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7935,6 +7935,21 @@
 		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (Ja) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (Ja) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="9187f577" md5="f83db6033b248b047f255230ccbe27d6" sha1="1c1f34307873b2214eceaf9698b685fbf9c098f1" sha256="e8c9b02ded2ed40e5333cab4d3b6bd22663f25e56f489125b12f12eb3217f8ce"/>
 	</game>
+	<game name="Yu-Gi-Oh! - Monster Capsule GB (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2817" cloneofid="1347">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="c9e2b613" md5="f487d6784a5b3981f24b333915e3b7ba" sha1="c0c15f21204d4e4cd359ded498cb66d8fdd292cb" sha256="cf6d0e549cd4ecbc396cd98d39366157c835effbfdaa4b924fc1b2e1652a2062"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Monster Capsule GB (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2818" cloneofid="1347">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="8ef209b9" md5="dfdc8523939095adf28f4e72d13ff9be" sha1="5517157d4ff86bb370aad292cc8369d29bf64568" sha256="1400f07dfcc3acc39048d6f182b9933b357df356c252f61ef91c57e598a2849a"/>
+	</game>
+	<game name="Yu-Gi-Oh! - Monster Capsule GB (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)" id="2819" cloneofid="1347">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! - Monster Capsule GB (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Yu-Gi-Oh! - Monster Capsule GB (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="975d1612" md5="1ec852688eeb29f14802826e9990de80" sha1="22414be3d2ea7433495b8c769a62beed62d5df97" sha256="034f2391833f66a2ddef15192408d943967103f3aeb4e8b8f3255eed5f0f87e3"/>
+	</game>
 	<game name="Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)" id="1347">
 		<description>Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="1371e872" md5="b980da92693762bd3a7a4791fe08766e" sha1="4ed5607dd83ebe7975c492b08d36870f8dd6e302" sha256="daf4055a1e873944130b0e3e4a61ed9991831fb66a7c91ae52fca7da0e2d61db" status="verified"/>
@@ -7983,6 +7998,31 @@
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Ja) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="7c3d2b6e" md5="1a6a93843aac109b11a0eadcaf3d0b0e" sha1="8887515741720c1af759ab3ef6346a0fed2d39a5" sha256="0d0831b75c38986fd0050cb500f6e720d9e962c9614d1af1acd296fcb5d8cb4e"/>
 	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (De) (v1.1) (Early Days Collection)" id="2802" cloneofid="1349">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (De) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (De) (v1.1) (Early Days Collection).gbc" size="4194304" crc="997e4860" md5="ab07c5bc4e95338a130b64c39505a3fb" sha1="10e00a0e85b480b69beeda865f665bfd190bca42" sha256="24e8ca6874ac98055df69a650e9bfc7eb2da5666cd9722f6052c728086bf5fcd"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Es) (v1.1) (Early Days Collection)" id="2803" cloneofid="1349">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Es) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Es) (v1.1) (Early Days Collection).gbc" size="4194304" crc="4d825f68" md5="e4c2f4212e285a49083e860e38cfffcf" sha1="3e47b9acd3edc799562d5d26cb452841b10eb6dd" sha256="e68dd513f0b2bee59ee3856f1bb706f4e94116c355c8d3e23a34421681b8a794"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Fr) (v1.1) (Early Days Collection)" id="2804" cloneofid="1349">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Fr) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Fr) (v1.1) (Early Days Collection).gbc" size="4194304" crc="72a68eee" md5="acdc1e4ea90d13f055dfca2dab986e5a" sha1="4d039ddcfff3ac3ca51ae9e357a224b3b2fba82d" sha256="69d7db6b6e3d1a8d0d1cf2c77521aab04bd229ad97a62f6910b05caa40759e6b"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (It) (v1.1) (Early Days Collection)" id="2805" cloneofid="1349">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (It) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (It) (v1.1) (Early Days Collection).gbc" size="4194304" crc="ffd35e8b" md5="ac56166a141560aaedf3a71e50a655d4" sha1="b02a06e85c4997a8ede73890b6c98056d7df51d2" sha256="03bd021d1330b5ec005ffacdec9035ea4e750ceb5450e946395be723383bbd35"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Ja) (v1.1) (Early Days Collection)" id="2806" cloneofid="1349">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Ja) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (World) (Ja) (v1.1) (Early Days Collection).gbc" size="4194304" crc="e3febb5b" md5="9739607fde8b4d223a410665d9c421f6" sha1="2e64cc9197c651d1570920c1196959119cbc65fe" sha256="2c9bd2b5c44250d190302e0fd0f9db67cf9ae27ea2443d375fc91d1a2438c7b6"/>
+	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)" id="1349">
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan).gbc" size="4194304" crc="298bd054" md5="f84f21fd860d1d9cfb8ca6ea62a0da8f" sha1="2fdf56c2b52ba83fee778f3c2961a90ab69ea899" sha256="734b915b1d408d7e647757ccfcc019295e1280e7d5d77e1764b6a9c7ca334670" status="verified" serial="BY6J"/>
@@ -8021,6 +8061,31 @@
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Ja) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="38c11949" md5="2b1da77b7c41afab3558cf364cfeb8b3" sha1="e7e11a03917670e4ebfc9e13cf1e2665ad9f9ea6" sha256="ba580f02245b354134b2e6c6f9920ed55c8412d50f984f9ec5690273134682bc"/>
 	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (De) (v1.1) (Early Days Collection)" id="2807" cloneofid="1350">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (De) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (De) (v1.1) (Early Days Collection).gbc" size="4194304" crc="eec7efb9" md5="4bcbc2d3b173c5f53fba3a6c4c2b9920" sha1="a7827a3d22145630278775b94fdcfa3de8a352d5" sha256="8d774cf5bf49841385e3bf1fd7fab988708b32ee13e8998449359ea230d9bb71"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Es) (v1.1) (Early Days Collection)" id="2808" cloneofid="1350">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Es) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Es) (v1.1) (Early Days Collection).gbc" size="4194304" crc="af367799" md5="bd7ff710b645110cfda420694019ec71" sha1="828b392b95a7970f863943d0ca816c7be07c4f0b" sha256="b59f5dd88fa9210aeb0fc29b61f5c931f2ee4b9e52bf0522fbdc3cbcc0e67019"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Fr) (v1.1) (Early Days Collection)" id="2809" cloneofid="1350">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Fr) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Fr) (v1.1) (Early Days Collection).gbc" size="4194304" crc="44fcdab6" md5="2c00464dcac758c6428cf5f61717c51e" sha1="db2909cbb749469c0a23d657ed78010aa7b3b788" sha256="1f3d7be1c5e4a5348432e3d66d24af56868826da2351b8dbf877ee941ae49ca6"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (It) (v1.1) (Early Days Collection)" id="2810" cloneofid="1350">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (It) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (It) (v1.1) (Early Days Collection).gbc" size="4194304" crc="51e31889" md5="97f6e15e24d95dbd17ba6c924ec2a6c1" sha1="2a7035eea32250f3e30596e77667a3fb08ceaa0e" sha256="4045ced3c8ff3ef6c9c0f2ea84eac3f1b42d2aad0916e0147cf54661622b499b"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Ja) (v1.1) (Early Days Collection)" id="2811" cloneofid="1350">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Ja) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (World) (Ja) (v1.1) (Early Days Collection).gbc" size="4194304" crc="a702897c" md5="4e292b8341a2548e9355201fcd67d68c" sha1="d21401330a051e71ef17f7f11b4ded708255a7ec" sha256="8821da25f153f6f24841289d807db7135d049d5cf73bc9ca77b6723f18bd8c8f"/>
+	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (De) (Early Days Collection)" id="2771" cloneofid="1351">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (De) (Early Days Collection)</description>
@@ -8050,6 +8115,30 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Ja) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="b5abda21" md5="97819d8701876ae3d3deee8b98749e8a" sha1="70a93988e65c4ade6c6472df03f3b585de9acd79" sha256="16c985a97dbbbc966b63be66372d52918557704fd09e9b91be0d3f4a8743084e"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (De) (v1.1) (Early Days Collection)" id="2812" cloneofid="1351">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (De) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (De) (v1.1) (Early Days Collection).gbc" size="4194304" crc="cd6b782d" md5="54a5f9b4bae5ebd452e56277f5ee82df" sha1="fc439a06eaf3dcba0b87dcb69d94897948b0086f" sha256="efc2666d3f80a2219099555ef46dfe8f728386723e5a1a17a0e6a42907ecbf4a"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Es) (v1.1) (Early Days Collection)" id="2813" cloneofid="1351">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Es) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Es) (v1.1) (Early Days Collection).gbc" size="4194304" crc="7fb85bc0" md5="1dcb73c62167339df4c848ba466547db" sha1="8fa7d7a560143fd8350d1ca25887542959f4fd25" sha256="4b3ab4bad6344df567ff9480cb57dce8748ab0464d245b62d4839856e7b9b3ed"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Fr) (v1.1) (Early Days Collection)" id="2814" cloneofid="1351">
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Fr) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Fr) (v1.1) (Early Days Collection).gbc" size="4194304" crc="d45cca53" md5="0b7253cff85faac4dd2b9fc441f52feb" sha1="e29555c244e5fa3ca833af072f337269c6a7e243" sha256="791df5bd965e95ae7f8e0db7a6cfc1e7eb203ba35b0882fd7d7921254b184d1a"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (It) (v1.1) (Early Days Collection)" id="2815" cloneofid="1351">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (It) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (It) (v1.1) (Early Days Collection).gbc" size="4194304" crc="d1ba23f1" md5="a47e4e4e97d8c78448af704df7db689f" sha1="2f3a5b70bd7e7293eea17bcb798e4644c7b9c7cd" sha256="fae6c544d841fca6630db395d11ea6d2eb9c6813c40256da79aeae66a87dc97b"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Ja) (v1.1) (Early Days Collection)" id="2816" cloneofid="1351">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Ja) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (World) (Ja) (v1.1) (Early Days Collection).gbc" size="4194304" crc="2a684a14" md5="b62f1dc7ef389d6b93cae45e5f9e4ba4" sha1="df67f5222732bf5b51a9d3c2e716e24201864b6f" sha256="c9659df3e38f89531969f4ce2214c734eabd717a2cfd71ea6d926ef759510107"/>
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)" id="1351">
 		<description>Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)</description>
@@ -8097,6 +8186,11 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (Early Days Collection).gbc" size="4194304" crc="09d03ee2" md5="e32f8091f32772b4132710c96c69351b" sha1="31ac45e866b015450d6d5ac50a83e5772a883e65" sha256="8ec7beb4cca3ee56933132eb957d50f8f2e4908594e14c3c48db5141bdc23798"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection)" id="2801" cloneofid="1342">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advent (World) (Ja) (v1.1) (Early Days Collection).gbc" size="4194304" crc="3199f6f4" md5="5e61452a77ed6008068e7fb6fa1a5c99" sha1="3e04677ea5287b665250c3e1adae52ff936080e8" sha256="2cb999f7de02401d8bb0c01a61c37f53bbe920da05a5a73b63e0a681588737a6"/>
 	</game>
 	<game name="Yuenan Zhanyi - Chong Jian Tian Ri (Taiwan) (Unl)" id="1792" cloneofid="1777">
 		<description>Yuenan Zhanyi - Chong Jian Tian Ri (Taiwan) (Unl)</description>

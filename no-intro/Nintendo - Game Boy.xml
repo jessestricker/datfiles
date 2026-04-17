@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260414-084400</version>
+		<version>20260416-143302</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8154,6 +8154,31 @@
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters (World) (Ja) (Early Days Collection) (SGB Enhanced)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Ja) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" sha256="eac15c09679bcb0b3dca4e0bd6748cbcfa1012b0bec4805cd991f983b1d8f67c"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2564" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (De) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="75f446d7" md5="27bf95d71d71306655f27f99124ca63e" sha1="3f63b3db4e27fcfc33bf16406f29e19b8ca8af88" sha256="d3a782dee83d393c257d2eaf1d528a948c229ab0a60ff68bddecb6316c921feb"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2565" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="1722e5b2" md5="87104dfa7a2e3321d35fdb3424f06afc" sha1="e9bda18d44d030572d7bcb2f936b9dcf8d7f5abf" sha256="20dc0dab8d389cf6e38c4386f843969130960f49be9f2660b62fb5ab17ee5ea2"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Es) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2566" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Es) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Es) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="37850654" md5="f54dd57ac384d2c40f0a10d3f03afb7a" sha1="d8ebe97879fcc195efc78ad92e9d46deff46a03a" sha256="39e612c227a2f71f589a7538ea0809fe6990bd9c45abe6e0bff417c948f5fdfa"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2567" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (Fr) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="1ab75448" md5="ab1533963ba92a56ff7277fe4f2f8dad" sha1="c0140d3ddb00203615b1f179b419b7f55c7753a2" sha256="0cfff39766d1958e7d8b19048c873efb79d7a494228a5db176bf30a9505d4df5"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced)" id="2568" cloneofid="1538">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced)</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (World) (It) (v1.1) (Early Days Collection) (SGB Enhanced).gb" size="2097152" crc="3fd4ec42" md5="05938e3676385d45f12f3f1a221cb9f7" sha1="6e0568072b47d95b73236b52245945cc26f9ef06" sha256="ef04ba00d2818b6ada2a5453cc7bd5468d477e61e2e56706c812997e80437f1d"/>
 	</game>
 	<game name="ZAS (Europe) (Proto)" id="1715" cloneofid="1543">
 		<description>ZAS (Europe) (Proto)</description>

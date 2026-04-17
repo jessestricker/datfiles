@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260415-215234</version>
+		<version>20260416-221055</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4955,15 +4955,15 @@
 		<description>Granada (Japan, USA) (En) (Rev A)</description>
 		<rom name="Granada (Japan, USA) (En) (Rev A).md" size="524288" crc="e89d1e66" md5="93a809c145d5dacc8d8e33a27fdcfb9a" sha1="4eb8bbdb9ee8adcefaa202281cb88c19970437f7" sha256="75d47feae6e52ca4d64eb78bb4be0f2b53f9be7c1d64e83dddc8654762217d37" status="verified" serial="T-32023-01"/>
 	</game>
-	<game name="Granada (World) (Evercade)" id="3341" cloneofid="0564">
-		<category>Games</category>
-		<description>Granada (World) (Evercade)</description>
-		<rom name="Granada (World) (Evercade).md" size="524288" crc="60e03261" md5="fafbe5ae128ab3e28d1269993656a035" sha1="c182c94120dbbdc11521488a5322d5c3b01bc95c" sha256="397889806791825d857bc39e15508c7affbdc7c15ea1556f68465564e4a5405c" serial="T-32023-01"/>
-	</game>
 	<game name="Granada (Japan, USA) (En) (Rev A) (Beta)" id="2432" cloneofid="0564">
 		<category>Games</category>
 		<description>Granada (Japan, USA) (En) (Rev A) (Beta)</description>
 		<rom name="Granada (Japan, USA) (En) (Rev A) (Beta).md" size="524288" crc="129a37dd" md5="76d4181f42a549c23ac854050d50c2cf" sha1="ae23265cdc4907bae676101d3086929425ef641a" sha256="e8f41974d35ad859b26fe5b2608d6fdee37f8dd74b1e6962455e3e0916a65ebd" serial="T-32023-01"/>
+	</game>
+	<game name="Granada (World) (Evercade)" id="3341" cloneofid="0564">
+		<category>Games</category>
+		<description>Granada (World) (Evercade)</description>
+		<rom name="Granada (World) (Evercade).md" size="524288" crc="60e03261" md5="fafbe5ae128ab3e28d1269993656a035" sha1="c182c94120dbbdc11521488a5322d5c3b01bc95c" sha256="397889806791825d857bc39e15508c7affbdc7c15ea1556f68465564e4a5405c" serial="T-32023-01"/>
 	</game>
 	<game name="GrandSlam (China) (Ja) (Pirate)" id="2984" cloneofid="0566">
 		<category>Games</category>
@@ -5129,16 +5129,16 @@
 		<description>Hardwired (USA, Europe) (Beta)</description>
 		<rom name="Hardwired (USA, Europe) (Beta).md" size="1982464" crc="2bff8b7c" md5="5ea2dc80c196d0e406a2daabc3043e3b" sha1="7ca30b5a82389d52800bd551adf6e58cf345d5ad" sha256="f7f78d78ceb90d5a93ca1f2191625d5655163d7a6e462ed92ef2b0781d1ddbd9"/>
 	</game>
-	<game name="Haunting Starring Polterguy (USA, Europe)" id="0587">
-		<category>Games</category>
-		<description>Haunting Starring Polterguy (USA, Europe)</description>
-		<rom name="Haunting Starring Polterguy (USA, Europe).md" size="2097152" crc="c9fc876d" md5="3f18b4cfc9d286df11db970f2e894392" sha1="d6227ef00fdded9184676edf5dd2f6cae9b244a5" sha256="1d375fd50c7670852aa87c92881edddf5d9fa8ba61ca5296c36410d26771d404" status="verified" serial="T-50616-00"/>
-	</game>
 	<game name="Haunting Starring Polterguy (USA, Europe) (Beta)" id="3526" cloneofid="0587">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Haunting Starring Polterguy (USA, Europe) (Beta)</description>
 		<rom name="Haunting Starring Polterguy (USA, Europe) (Beta).md" size="2097152" crc="46277cd7" md5="5a9af7b967a5d1b2b695e8a694513e4b" sha1="b35840f7255f9c055a3e81856c4f56bbfeb4526e" sha256="93804c378ac915e09c4f883fa68956eaea4e9142c2a826ac6dd25f9add28a2c1" serial="T-50616-00"/>
+	</game>
+	<game name="Haunting Starring Polterguy (USA, Europe)" id="0587">
+		<category>Games</category>
+		<description>Haunting Starring Polterguy (USA, Europe)</description>
+		<rom name="Haunting Starring Polterguy (USA, Europe).md" size="2097152" crc="c9fc876d" md5="3f18b4cfc9d286df11db970f2e894392" sha1="d6227ef00fdded9184676edf5dd2f6cae9b244a5" sha256="1d375fd50c7670852aa87c92881edddf5d9fa8ba61ca5296c36410d26771d404" status="verified" serial="T-50616-00"/>
 	</game>
 	<game name="Havoc (Europe)" id="0588">
 		<category>Games</category>
@@ -7398,15 +7398,15 @@
 		<description>Monster World IV (Japan)</description>
 		<rom name="Monster World IV (Japan).md" size="2097152" crc="36a3aaa4" md5="4bbdae4e4c1e0ae2de3c49dc34f61d5c" sha1="46ba5e8775a2223fe5056f54555d9caa7d04f4e1" sha256="3796f407ae0bf3b74bbe53335adf57f295f0bf53ef7d82b603ac73350eac8cae" status="verified" serial="G-5519-00"/>
 	</game>
-	<game name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)" id="2447" cloneofid="0860">
-		<category>Games</category>
-		<description>Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)</description>
-		<rom name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec" serial="G-9999-00"/>
-	</game>
 	<game name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console)" id="1673" cloneofid="0860">
 		<category>Games</category>
 		<description>Monster World IV (USA, Europe) (En,Ja) (Virtual Console)</description>
 		<rom name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md" size="2097152" crc="af050c46" md5="2640c0b879dd52db3e328c14c36095f0" sha1="6c90e14b6dd1ce6fc33f74dc624edc2e00fc5038" sha256="6ed8588492f963015ba173cd4fc0cb6a2680bb6374fd930fcad757605dcfd70d" status="verified" serial="G-9999-00"/>
+	</game>
+	<game name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)" id="2447" cloneofid="0860">
+		<category>Games</category>
+		<description>Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)</description>
+		<rom name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec" serial="G-9999-00"/>
 	</game>
 	<game name="Mortal Kombat (World) (Beta)" id="2619" cloneofid="0861">
 		<category>Games</category>
@@ -7557,6 +7557,12 @@
 		<description>Mutant League Hockey (USA, Europe)</description>
 		<rom name="Mutant League Hockey (USA, Europe).md" size="2097152" crc="3529180f" md5="6a685a81ae70e8724c376779e3a812e4" sha1="84e203c5226bc1913a485804e59c6418e939bd3d" sha256="527ac0b1010ab500ee0b9dc6035b0a5c3a66fff189c4308ce1e64e18e886772a" serial="T-50766-00"/>
 	</game>
+	<game name="Mystic Defender (USA, Europe) (En,Ja) (Beta)" id="2076" cloneofid="0879">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mystic Defender (USA, Europe) (En,Ja) (Beta)</description>
+		<rom name="Mystic Defender (USA, Europe) (En,Ja) (Beta).md" size="524288" crc="5ac0d238" md5="47fb52e6716557cab025fa2456c0c01b" sha1="1f8eacb1269c22909feb4da187fde67918440b50" sha256="540bf47d64a7f0c2bfa2d6e936630943d8cda4ba16e3f50141efdd8093c17382" serial="00001011-00"/>
+	</game>
 	<game name="Mystic Defender (USA, Europe) (En,Ja)" id="0878" cloneofid="0879">
 		<category>Games</category>
 		<description>Mystic Defender (USA, Europe) (En,Ja)</description>
@@ -7566,12 +7572,6 @@
 		<category>Games</category>
 		<description>Mystic Defender (USA, Europe) (En,Ja) (Rev A)</description>
 		<rom name="Mystic Defender (USA, Europe) (En,Ja) (Rev A).md" size="524288" crc="50fd5d93" md5="780baa7dd2f030f0b1c64897b5d4cc10" sha1="aec8aefa11233699eacefdf2cf17d62f68cbdd98" sha256="e33e792dd981a173796d59ceaecbe845859e11632cd3e7ff23e3c23e2ee821ea" status="verified" serial="00001011-01"/>
-	</game>
-	<game name="Mystic Defender (USA, Europe) (En,Ja) (Beta)" id="2076" cloneofid="0879">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Mystic Defender (USA, Europe) (En,Ja) (Beta)</description>
-		<rom name="Mystic Defender (USA, Europe) (En,Ja) (Beta).md" size="524288" crc="5ac0d238" md5="47fb52e6716557cab025fa2456c0c01b" sha1="1f8eacb1269c22909feb4da187fde67918440b50" sha256="540bf47d64a7f0c2bfa2d6e936630943d8cda4ba16e3f50141efdd8093c17382" serial="00001011-00"/>
 	</game>
 	<game name="Mystical Fighter (USA)" id="0880">
 		<category>Games</category>
@@ -8099,15 +8099,15 @@
 		<description>NHK Taiga Drama - Taiheiki (Japan)</description>
 		<rom name="NHK Taiga Drama - Taiheiki (Japan).md" size="1048576" crc="09fbb30e" md5="ce9185671cd9a03b712ed152010d2cf2" sha1="67358048fc9bc93d8835af852bc437124e015a61" sha256="46f4167f33e9513dcaaaaaac138177d3864533d5e41e9459073272bd9b6195ae" status="verified" serial="G-1D5511-00"/>
 	</game>
-	<game name="NHL '94 (USA, Europe)" id="0919">
-		<category>Games</category>
-		<description>NHL '94 (USA, Europe)</description>
-		<rom name="NHL '94 (USA, Europe).md" size="1048576" crc="9438f5dd" md5="8356b3f0d091b9cc441e2ff8721ad063" sha1="7b1489ab501258133bf03e5f0892b77d04312580" sha256="ccc0298c118d580863c877abd470c71186ef0a1b60f1e7c6ff1e5a38f48fd053" status="verified" serial="T-50656-00"/>
-	</game>
 	<game name="NHL '94 (USA, Europe) (NHL 06)" id="2495" cloneofid="0919">
 		<category>Games</category>
 		<description>NHL '94 (USA, Europe) (NHL 06)</description>
 		<rom name="NHL '94 (USA, Europe) (NHL 06).md" size="2097152" crc="7b344d0c" md5="a1dd079f6b1ae80e90dc08839de4d3d4" sha1="103eb567a145544d9f5d7dd0bdbb87205cb58cea" sha256="5864d88422048f94ab365ef4b22338dc502c8d1ee0d6102ba25852707db59697" serial="T-50656-00"/>
+	</game>
+	<game name="NHL '94 (USA, Europe)" id="0919">
+		<category>Games</category>
+		<description>NHL '94 (USA, Europe)</description>
+		<rom name="NHL '94 (USA, Europe).md" size="1048576" crc="9438f5dd" md5="8356b3f0d091b9cc441e2ff8721ad063" sha1="7b1489ab501258133bf03e5f0892b77d04312580" sha256="ccc0298c118d580863c877abd470c71186ef0a1b60f1e7c6ff1e5a38f48fd053" status="verified" serial="T-50656-00"/>
 	</game>
 	<game name="NHL 95 (USA, Europe)" id="0920">
 		<category>Games</category>
@@ -8230,16 +8230,16 @@
 		<description>NHL All-Star Hockey 95 (USA) (Beta 16)</description>
 		<rom name="NHL All-Star Hockey 95 (USA) (Beta 16).md" size="2097146" crc="01d6a6c7" md5="e29406f3a2008556fb612faca3b42da5" sha1="130f95bccd159234c117890b0412b415b43161a9" sha256="bc7943ae751ebfa6fd0401c1f7f39ae014a1fe8316edb7425e8f702ff9b32d39" serial="MK-1230-00"/>
 	</game>
-	<game name="NHL Hockey (USA)" id="0925">
-		<category>Games</category>
-		<description>NHL Hockey (USA)</description>
-		<rom name="NHL Hockey (USA).md" size="524288" crc="2641653f" md5="1eb65c531d702935d7d70e070ad2df18" sha1="2337ad3c065f46edccf19007d7a5be80a97520d5" sha256="6ca62e176425cf27ed4b4b0dcfe0a8813fe994120c88ca803fc8be061e0505ba" serial="T-50236-00"/>
-	</game>
 	<game name="NHL Hockey (USA) (Rev 1) (Beta)" id="3437" cloneofid="0925">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>NHL Hockey (USA) (Rev 1) (Beta)</description>
 		<rom name="NHL Hockey (USA) (Rev 1) (Beta).md" size="523942" crc="010d8735" md5="7edad7ed16cdda15ed02047b6791bdbd" sha1="cfaf9e405ff76727358a34e8e524d644f1b7d1d7" sha256="9d8795515284cb2ccd8813b84534414cae46eedeac506d8fa715743df87676ef" serial="T-50236-00"/>
+	</game>
+	<game name="NHL Hockey (USA)" id="0925">
+		<category>Games</category>
+		<description>NHL Hockey (USA)</description>
+		<rom name="NHL Hockey (USA).md" size="524288" crc="2641653f" md5="1eb65c531d702935d7d70e070ad2df18" sha1="2337ad3c065f46edccf19007d7a5be80a97520d5" sha256="6ca62e176425cf27ed4b4b0dcfe0a8813fe994120c88ca803fc8be061e0505ba" serial="T-50236-00"/>
 	</game>
 	<game name="NHLPA Hockey (USA) (Proto) (HeartBeat Catalyst)" id="2962">
 		<category>Games</category>
@@ -8253,11 +8253,6 @@
 		<description>NHLPA Hockey 93 (USA, Europe) (Rev 1) (Sample)</description>
 		<rom name="NHLPA Hockey 93 (USA, Europe) (Rev 1) (Sample).md" size="524288" crc="93e509ea" md5="2bada9c8bd631e30a10f50e958638d7a" sha1="af5dbf3e70417753164ceeb76be63f51e492626f" sha256="91200a8e3658af9609b9fd1cfd6771ff655d5b34ec2ac4d2e8afdad593d6b5e2" serial="T-50236-00"/>
 	</game>
-	<game name="NHLPA Hockey 93 (USA, Europe) (Rev 2)" id="3115">
-		<category>Games</category>
-		<description>NHLPA Hockey 93 (USA, Europe) (Rev 2)</description>
-		<rom name="NHLPA Hockey 93 (USA, Europe) (Rev 2).md" size="524288" crc="efa0d2cb" md5="d49eba72cb0fffcf33469c23bfb713e4" sha1="76c0f3d4665ffcd53adfffaa27fc4dded694f8f7" sha256="1254e059331dbe8104a91898c276d5f38cbe0944e4d296dd7209942fc3e68fed" serial="T-50396-00"/>
-	</game>
 	<game name="NHLPA Hockey 93 (USA, Europe)" id="0926" cloneofid="3115">
 		<category>Games</category>
 		<description>NHLPA Hockey 93 (USA, Europe)</description>
@@ -8267,6 +8262,11 @@
 		<category>Games</category>
 		<description>NHLPA Hockey 93 (USA, Europe) (Rev 1)</description>
 		<rom name="NHLPA Hockey 93 (USA, Europe) (Rev 1).md" size="524288" crc="f361d0bf" md5="b6fb2ce20122b319631af6b697e64082" sha1="2ab048fc7209df28b00ef47f2f686f5b7208466e" sha256="69a05a0f73bc6b3f5b5c7aff53bb0a1db8fab4af8eee0c84d92e503214a156a1" status="verified" serial="T-50396-01"/>
+	</game>
+	<game name="NHLPA Hockey 93 (USA, Europe) (Rev 2)" id="3115">
+		<category>Games</category>
+		<description>NHLPA Hockey 93 (USA, Europe) (Rev 2)</description>
+		<rom name="NHLPA Hockey 93 (USA, Europe) (Rev 2).md" size="524288" crc="efa0d2cb" md5="d49eba72cb0fffcf33469c23bfb713e4" sha1="76c0f3d4665ffcd53adfffaa27fc4dded694f8f7" sha256="1254e059331dbe8104a91898c276d5f38cbe0944e4d296dd7209942fc3e68fed" serial="T-50396-00"/>
 	</game>
 	<game name="Nick Faldo's Championship Golf (Europe) (Proto)" id="3670">
 		<category>Games</category>
@@ -9262,12 +9262,6 @@
 		<description>Premier Manager 97 (World) (Evercade)</description>
 		<rom name="Premier Manager 97 (World) (Evercade).md" size="1048576" crc="d14d79e6" md5="2dd93baecc45de3bfb9d8f43efb8101b" sha1="22b3c08644077a4ecfba2c679cf0200ef727d113" sha256="7e94e79c8f0b805bd5447bebcb953162c4a31a132d570dd35c05deb0b6ed48b1" serial="MK-1280-00"/>
 	</game>
-	<game name="Primal Rage (USA, Europe) (Beta)" id="2743" cloneofid="1035">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Primal Rage (USA, Europe) (Beta)</description>
-		<rom name="Primal Rage (USA, Europe) (Beta).md" size="4194304" crc="843479a1" md5="03d2bc53190b75bd0d6fd754002be288" sha1="51f0051aeaea8a8e0138b11754083d74d413b849" sha256="a1a4783c02c832227fe84c019e2ef8576aa56b1559e1b58dad26b01dfbc2170a" serial="T-81186-01"/>
-	</game>
 	<game name="Primal Rage (USA, Europe)" id="1035">
 		<category>Games</category>
 		<description>Primal Rage (USA, Europe)</description>
@@ -9290,6 +9284,12 @@
 		<category>Games</category>
 		<description>Primal Rage (USA) (Demo 1) (Test Drive) (Sega Channel)</description>
 		<rom name="Primal Rage (USA) (Demo 1) (Test Drive) (Sega Channel).md" size="3145728" crc="9789ea79" md5="2aed6bc896ef959030381eb8b33e8d87" sha1="139bf74156ed4b8b6f161fe444081e93bb9e04a5" sha256="17d82391ad3fd923d1e35eda94cedfa052cd27abd3a9030ccacdca0d4235bb11" serial="T-148096-00"/>
+	</game>
+	<game name="Primal Rage (USA, Europe) (Beta)" id="2743" cloneofid="1035">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Primal Rage (USA, Europe) (Beta)</description>
+		<rom name="Primal Rage (USA, Europe) (Beta).md" size="4194304" crc="843479a1" md5="03d2bc53190b75bd0d6fd754002be288" sha1="51f0051aeaea8a8e0138b11754083d74d413b849" sha256="a1a4783c02c832227fe84c019e2ef8576aa56b1559e1b58dad26b01dfbc2170a" serial="T-81186-01"/>
 	</game>
 	<game name="Prime Time NFL Starring Deion Sanders (USA)" id="1036">
 		<category>Games</category>
