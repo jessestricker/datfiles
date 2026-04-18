@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3680) (2026-04-17 21-31-56)</description>
-		<version>2026-04-17 21-31-56</version>
-		<date>2026-04-17 21-31-56</date>
+		<description>Microsoft - Xbox 360 - Discs (3683) (2026-04-18 03-58-35)</description>
+		<version>2026-04-18 03-58-35</version>
+		<date>2026-04-18 03-58-35</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18418,5 +18418,20 @@
 		<category>Games</category>
 		<description>Fight Night Round 4 (Japan)</description>
 		<rom name="Fight Night Round 4 (Japan).iso" size="7838695424" crc="640c686e" md5="3410bff3536fe01ac7ffa8a316c45d25" sha1="6255012d0f44ad71ea0ff5792ad57134b9036a32"/>
+	</game>
+	<game name="UEFA Champions League 2006-2007 (Asia)">
+		<category>Games</category>
+		<description>UEFA Champions League 2006-2007 (Asia)</description>
+		<rom name="UEFA Champions League 2006-2007 (Asia).iso" size="7835492352" crc="f7177d05" md5="bd44af76dfa292c9c002e0e8f85c079c" sha1="2bf99f522e521aa383defc97fae9fe2586eeccba"/>
+	</game>
+	<game name="Grand Theft Auto V (Japan) (En,Ja) (Disc 1) (Install) (Rev 1)">
+		<category>Games</category>
+		<description>Grand Theft Auto V (Japan) (En,Ja) (Disc 1) (Install) (Rev 1)</description>
+		<rom name="Grand Theft Auto V (Japan) (En,Ja) (Disc 1) (Install) (Rev 1).iso" size="8738846720" crc="039d062b" md5="ea01f074c6ab3dc7e0311ac8c5bf1226" sha1="9a5bbf08657c214f6b79afd75d7f441dae486469"/>
+	</game>
+	<game name="Grand Theft Auto V (Japan) (En,Ja) (Disc 2) (Play) (Rev 1)">
+		<category>Games</category>
+		<description>Grand Theft Auto V (Japan) (En,Ja) (Disc 2) (Play) (Rev 1)</description>
+		<rom name="Grand Theft Auto V (Japan) (En,Ja) (Disc 2) (Play) (Rev 1).iso" size="8738846720" crc="7afce240" md5="fde27cef32e1c962e552e07931f404ad" sha1="25b36804a40f29bc423d60930e1c443581abef14"/>
 	</game>
 </datafile>
