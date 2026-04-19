@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260417-180445</version>
+		<version>20260418-083740</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1752,17 +1752,17 @@
 		<description>Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt)</description>
 		<rom name="Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible) (Alt).gbc" size="2097152" crc="66b83e3a" md5="1ee701313c509947d7e9ce0e54a85cb3" sha1="378794e041f2eb286f2d5243a3cada2faf265bb5" sha256="2d9e926850d145c67e39524e646120ed95942bcd73449b35c1ca792e95ccbd0a"/>
 	</game>
-	<game name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)" id="0299" cloneofid="0308">
-		<description>Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="68ba18d7" md5="f47edc51d53ae8f416898b80bd3022a1" sha1="9193778b28e2e4a6303e09cb4170ca00d0058ae5" sha256="1916208828ce85763d7ca03821eb17cec1a51d55cd80a36bd30a3ea653396a39" status="verified"/>
+	<game name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)" id="0299" cloneofid="0308">
+		<description>Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="68ba18d7" md5="f47edc51d53ae8f416898b80bd3022a1" sha1="9193778b28e2e4a6303e09cb4170ca00d0058ae5" sha256="1916208828ce85763d7ca03821eb17cec1a51d55cd80a36bd30a3ea653396a39" status="verified"/>
 	</game>
-	<game name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)" id="0300" cloneofid="0307">
-		<description>Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="2c428a87" md5="979eb4fd473c344cb2cfc6ea4211ca5a" sha1="5d2daec53938805236328a0f8a614debffa34048" status="verified"/>
+	<game name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)" id="0300" cloneofid="0307">
+		<description>Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="2c428a87" md5="979eb4fd473c344cb2cfc6ea4211ca5a" sha1="5d2daec53938805236328a0f8a614debffa34048" status="verified"/>
 	</game>
-	<game name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1468" cloneofid="0307">
-		<description>Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="649e8d97" md5="b863839c61e45db5c6c6492d24688032" sha1="217faaf8e7d60545bd07f818a3b3373843e6318d" status="verified"/>
+	<game name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1468" cloneofid="0307">
+		<description>Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="649e8d97" md5="b863839c61e45db5c6c6492d24688032" sha1="217faaf8e7d60545bd07f818a3b3373843e6318d" status="verified"/>
 	</game>
 	<game name="Dragon Tales - Dragon Adventures (USA)" id="0301">
 		<description>Dragon Tales - Dragon Adventures (USA)</description>
@@ -6453,9 +6453,9 @@
 		<description>Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan)</description>
 		<rom name="Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan).gbc" size="1048576" crc="c9a25b0c" md5="f09214d17150911af6aacbe5d89bc00f" sha1="e3e4d1e2d1fe6d0683db9d17356080542e1a6905" status="verified"/>
 	</game>
-	<game name="Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)" id="1105">
-		<description>Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="a80eeead" md5="28b5114313b8abc43a31ea40aa91cf52" sha1="fe75b7b7a904ce76130d65b67d24e291ba3c2693"/>
+	<game name="Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)" id="1105">
+		<description>Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="a80eeead" md5="28b5114313b8abc43a31ea40aa91cf52" sha1="fe75b7b7a904ce76130d65b67d24e291ba3c2693"/>
 	</game>
 	<game name="Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced) (GB Compatible)" id="1106">
 		<description>Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced) (GB Compatible)</description>

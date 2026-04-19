@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260415-093854</version>
+		<version>20260418-063424</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2903,7 +2903,7 @@
 	</game>
 	<game name="Star Raiders (Europe)" id="0928" cloneofid="0447">
 		<description>Star Raiders (Europe)</description>
-		<rom name="Star Raiders (Europe).a26" size="8192" crc="ba8a07e2" md5="cab2bb580e19923bdcc6f1c5629f0832" sha1="67230ac76e9ea23df12e4212f7e8ed47f1dfd5e1" sha256="4e92bc19682d79e3172d8a57c65bb633b7eb82795a09d59bdc621aa7a77ed515" status="verified"/>
+		<rom name="Star Raiders (Europe).a26" size="8192" crc="ba8a07e2" md5="cab2bb580e19923bdcc6f1c5629f0832" sha1="67230ac76e9ea23df12e4212f7e8ed47f1dfd5e1" sha256="4e92bc19682d79e3172d8a57c65bb633b7eb82795a09d59bdc621aa7a77ed515" status="verified" mia="yes"/>
 	</game>
 	<game name="Star Ship ~ Outer Space (USA)" id="0448">
 		<description>Star Ship ~ Outer Space (USA)</description>

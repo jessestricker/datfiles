@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260416-143302</version>
+		<version>20260418-083549</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2172,13 +2172,13 @@
 		<description>Funny Field (Japan) (En)</description>
 		<rom name="Funny Field (Japan) (En).gb" size="65536" crc="bfd87aa4" md5="87f730d486bdc4685bcc6e91a7124c35" sha1="0b74e84ce50454057f78e4178be2599e57c91855" sha256="2912647e2a1265a51a6c0f98c7e300aee6e211260a67b13fbf4aac446c1c7322"/>
 	</game>
-	<game name="Fushigi na Blobby - Princess Blob o Sukue! (Japan)" id="0410" cloneofid="0168">
-		<description>Fushigi na Blobby - Princess Blob o Sukue! (Japan)</description>
-		<rom name="Fushigi na Blobby - Princess Blob o Sukue! (Japan).gb" size="65536" crc="3d0bac10" md5="8a7aaf3afcd00348730c86ddc926e30a" sha1="fcd6ac8a0ad6eb1f5d9e00c877747521541204de" sha256="cf1b438ba6417be89a0ad5a0af02128d1d089fecda038aaf05be911bd970d038"/>
-	</game>
 	<game name="Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)" id="0411">
 		<description>Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)</description>
 		<rom name="Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced).gb" size="524288" crc="2962afb4" md5="754398219a3ab38394cdac543d8deb47" sha1="920ef94c05ac741047a266cb1668c881eab2937c" sha256="e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2" status="verified"/>
+	</game>
+	<game name="Fushigina Blobby - Princess Blob o Sukue! (Japan)" id="0410" cloneofid="0168">
+		<description>Fushigina Blobby - Princess Blob o Sukue! (Japan)</description>
+		<rom name="Fushigina Blobby - Princess Blob o Sukue! (Japan).gb" size="65536" crc="3d0bac10" md5="8a7aaf3afcd00348730c86ddc926e30a" sha1="fcd6ac8a0ad6eb1f5d9e00c877747521541204de" sha256="cf1b438ba6417be89a0ad5a0af02128d1d089fecda038aaf05be911bd970d038"/>
 	</game>
 	<game name="G Arms - Operation Gundam (Japan)" id="1172">
 		<description>G Arms - Operation Gundam (Japan)</description>
