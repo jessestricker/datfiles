@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260418-063424</version>
+		<version>20260419-090902</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -926,7 +926,7 @@
 	</game>
 	<game name="Crystal Castles (USA)" id="0105">
 		<description>Crystal Castles (USA)</description>
-		<rom name="Crystal Castles (USA).a26" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb"/>
+		<rom name="Crystal Castles (USA).a26" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb" sha256="87c2d9f621a734031ebdb7ec5886c4d3f8e038525354c057573aee662a19eefa"/>
 	</game>
 	<game name="Crystal Castles (Europe)" id="0778">
 		<description>Crystal Castles (Europe)</description>
