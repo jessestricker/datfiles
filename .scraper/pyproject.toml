@@ -5,7 +5,7 @@ requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "html5lib>=1.1",
-    "lxml>=6.0.2",
+    "lxml>=6.1.0",
     "pathvalidate>=3.3.1",
     "requests>=2.32.5",
 ]
