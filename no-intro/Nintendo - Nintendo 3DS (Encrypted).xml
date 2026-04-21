@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260418-063512</version>
+		<version>20260420-100326</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10227,7 +10227,7 @@
 	<game name="WarioWare Gold (USA)" id="1831" cloneofid="z084">
 		<description>WarioWare Gold (USA)</description>
 		<game_id>00040000001D1C00</game_id>
-		<rom name="WarioWare Gold (USA).3ds" size="2147483648" crc="352409f0" md5="011cce66a6c433ae896f9aaa6b6a41eb" sha1="2a101197096877a45b49d7ead6e5d3418c0efa3e" sha256="eb7174d0aa24d807d14f1ccedc0fdbabc5a4a896dfc91d5cfb5b904627bb9679" serial="CTR-P-AWXA"/>
+		<rom name="WarioWare Gold (USA).3ds" size="2147483648" crc="352409f0" md5="011cce66a6c433ae896f9aaa6b6a41eb" sha1="2a101197096877a45b49d7ead6e5d3418c0efa3e" sha256="eb7174d0aa24d807d14f1ccedc0fdbabc5a4a896dfc91d5cfb5b904627bb9679" status="verified" serial="CTR-P-AWXA"/>
 	</game>
 	<game name="WarioWare Gold (USA) (Rev 1)" id="z084">
 		<description>WarioWare Gold (USA) (Rev 1)</description>

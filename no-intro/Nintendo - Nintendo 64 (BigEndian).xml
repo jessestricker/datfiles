@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260408-130838</version>
+		<version>20260420-142125</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1755,6 +1755,7 @@
 		<rom name="Hydro Thunder (France).z64" size="33554432" crc="010f6242" md5="4b4c85d9dd2d460adafabae8db48b4fa" sha1="03fa91aec0819654f1ad0d12bb81ce3f5d7d08ae" sha256="ba0bd67caa0968b70f18ca0e62fc2c41efd484d906df29d5d296302fe12c6d6f" status="verified" serial="NHTF"/>
 	</game>
 	<game name="Hydro Thunder (USA)" id="0301" cloneofid="0299">
+		<category>Games</category>
 		<description>Hydro Thunder (USA)</description>
 		<rom name="Hydro Thunder (USA).z64" size="33554432" crc="e744456f" md5="54f43e6b68782e98caabea5e7976b2be" sha1="f5d5054f97da0d68857f9824130147ec38ee7a76" sha256="41703c97b3045ab9bd414a3c36e97617c3309a7695233eddf3e5c252936bc20e" serial="NHTE"/>
 	</game>
@@ -1780,6 +1781,7 @@
 		<rom name="Iggy's Reckin' Balls (Europe).z64" size="4194304" crc="9bf26065" md5="25b297143e9e5ccbb4b80a7fb6af399b" sha1="da3c5ba5849e104383ea4c3df1fbdb8253f184c9" sha256="d4cb09595833b42ae9c8c4ceb3df5c35e0b013409cd57b11bac955e7b42dc5b1" status="verified" serial="NWBP"/>
 	</game>
 	<game name="Iggy's Reckin' Balls (USA)" id="0305" cloneofid="0304">
+		<category>Games</category>
 		<description>Iggy's Reckin' Balls (USA)</description>
 		<rom name="Iggy's Reckin' Balls (USA).z64" size="4194304" crc="6a6fbd5d" md5="464211abb602ee1005974d2d835a3bcf" sha1="1a32230e0ef147b3c8c07ece5aec96458286b4af" serial="NWBE"/>
 	</game>
@@ -1794,10 +1796,12 @@
 		<rom name="In-Fisherman - Bass Hunter 64 (Europe).z64" size="8388608" crc="00da3704" md5="bf3e84cdd01cac05987fd8da5191534b" sha1="d36374be227e972b1c0b6f2cfbb8fdd724aa1074" sha256="ef0be65a822e0cd2c55cac4616e515a4c6bda3ee31b87ada2bf4e0b77a758af1" status="verified" serial="NFHP"/>
 	</game>
 	<game name="In-Fisherman - Bass Hunter 64 (USA)" id="0308" cloneofid="0307">
+		<category>Games</category>
 		<description>In-Fisherman - Bass Hunter 64 (USA)</description>
 		<rom name="In-Fisherman - Bass Hunter 64 (USA).z64" size="8388608" crc="d8eb5e6e" md5="c605f40bf669e00a5e51baf0d00621ea" sha1="4aa373e23876c89a549c98036f456b564d779217" serial="NFHE"/>
 	</game>
 	<game name="Indiana Jones and the Infernal Machine (USA)" id="0309">
+		<category>Games</category>
 		<description>Indiana Jones and the Infernal Machine (USA)</description>
 		<rom name="Indiana Jones and the Infernal Machine (USA).z64" size="33554432" crc="4978eb57" md5="70de1eab508596b6bbefd168b5d07194" sha1="93300d63412d6c7432109b5ad2e4a8b9348e9538" serial="NIJE"/>
 	</game>
@@ -1806,14 +1810,17 @@
 		<rom name="Indiana Jones and the Infernal Machine (Australia) (Proto).z64" size="33554432" crc="337219be" md5="63d7ab29ba3dfc5d5b12c1d9c5832355" sha1="8465af5538c4b636834a8b2cd5a7decadf0e8841" serial="NIJP"/>
 	</game>
 	<game name="Indy Racing 2000 (USA)" id="0310">
+		<category>Games</category>
 		<description>Indy Racing 2000 (USA)</description>
 		<rom name="Indy Racing 2000 (USA).z64" size="16777216" crc="a5163f29" md5="a7781d441af55c4ff8afc68ab3a59313" sha1="015bf0e0bc700a80a2606d3578e4a9b7645e99ec" sha256="1a4672323200183efef8df6e9f4ec6bab230f76731407386a72dbebf6d984d08" status="verified" serial="NICE"/>
 	</game>
 	<game name="International Superstar Soccer '98 (Europe)" id="0311">
+		<category>Games</category>
 		<description>International Superstar Soccer '98 (Europe)</description>
 		<rom name="International Superstar Soccer '98 (Europe).z64" size="12582912" crc="bf23945d" md5="34489365b550f32c97337d86d52d8c84" sha1="ccaffee3a793a0c3a5e7c48fbc4a4759ef29153f" sha256="1825595b2b42a01c0cb83a00d71313695d83f705a0afc1deb9b6a6f097b02c0f" status="verified" serial="NWSP"/>
 	</game>
 	<game name="International Superstar Soccer '98 (USA)" id="0312" cloneofid="0311">
+		<category>Games</category>
 		<description>International Superstar Soccer '98 (USA)</description>
 		<rom name="International Superstar Soccer '98 (USA).z64" size="12582912" crc="b85fa721" md5="7dcc05b98e2fa690b478808ebbad5d1a" sha1="053735184d414e0a1bbd888f3c931252ea1b92fd" serial="NWSE"/>
 	</game>
@@ -1838,10 +1845,12 @@
 		<rom name="International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).z64" size="16777216" crc="4c433fdd" md5="de9498be76134bd066aa714ce2c71a16" sha1="47a993fe1316dfd9e208603370d3dddae05f1d1b" serial="NISE"/>
 	</game>
 	<game name="International Superstar Soccer 64 (Europe)" id="0316">
+		<category>Games</category>
 		<description>International Superstar Soccer 64 (Europe)</description>
 		<rom name="International Superstar Soccer 64 (Europe).z64" size="8388608" crc="8c839268" md5="376803f28ca8b2133671783419933ca2" sha1="3b53fd76bb37b923b0fe61e50057ae773a25170a" sha256="87cad89c16530762708eefa49e2c69d5690a406eab8d39554aaceca9efcc4574" status="verified" serial="NJPP"/>
 	</game>
 	<game name="International Superstar Soccer 64 (USA)" id="0317" cloneofid="0316">
+		<category>Games</category>
 		<description>International Superstar Soccer 64 (USA)</description>
 		<rom name="International Superstar Soccer 64 (USA).z64" size="8388608" crc="0ea249b9" md5="6a345402ae1db5ce1041365e36126bce" sha1="d2c258ee3844be77049e4af5208f8f2bb073a86e" serial="NJPE"/>
 	</game>
@@ -1990,10 +1999,12 @@
 		<rom name="Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).z64" size="16777216" crc="68dbcc04" md5="538b54c2aaea73faa3a021d42a3225be" sha1="e9ed8a0ed5b7b20b80f0e140cc4b7261a89143bb" serial="NWSJ"/>
 	</game>
 	<game name="Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)" id="0345" cloneofid="0311">
+		<category>Games</category>
 		<description>Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)</description>
 		<rom name="Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).z64" size="16777216" crc="f63f9a5e" md5="2e5fd9303138e8f558bf67bb9e799960" sha1="8ea26072dd7da07c567ebca7c25071739ec563fb" serial="NWSJ"/>
 	</game>
 	<game name="Jikkyou World Soccer 3 (Japan)" id="0346" cloneofid="0316">
+		<category>Games</category>
 		<description>Jikkyou World Soccer 3 (Japan)</description>
 		<rom name="Jikkyou World Soccer 3 (Japan).z64" size="8388608" crc="3ba9e644" md5="ef0f425689586850a6f5796124b0c85b" sha1="a06528ce7a1c007f3e8dfae199b6e65b3dbc034d" serial="NJ3J"/>
 	</game>

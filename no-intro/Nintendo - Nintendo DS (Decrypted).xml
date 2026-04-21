@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260419-120145</version>
+		<version>20260420-125123</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -984,7 +984,7 @@
 	</game>
 	<game name="Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It)" id="1785">
 		<description>Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c1fd7d52" md5="90ce3d001fb553b3aeff513c5c151990" sha1="2dd78d9cfc2d76a6d1614d292864d2c6c737c186" serial="YAIP"/>
+		<rom name="Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c1fd7d52" md5="90ce3d001fb553b3aeff513c5c151990" sha1="2dd78d9cfc2d76a6d1614d292864d2c6c737c186" sha256="9133d5e28bd598e75caa5606fb84f320d73ae419ce8d99bf3e1140803f7f5cfd" serial="YAIP"/>
 	</game>
 	<game name="Alvin and the Chipmunks (USA) (En,Fr)" id="1833" cloneofid="1785">
 		<description>Alvin and the Chipmunks (USA) (En,Fr)</description>
@@ -3488,7 +3488,7 @@
 	</game>
 	<game name="Busy Scissors (Europe) (En,Fr,De,Es,It)" id="5702">
 		<description>Busy Scissors (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Busy Scissors (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="24f85531" md5="ed0ee9af0820527d8ada68ea16dbb31d" sha1="d7610c7a9b373f5919f82b639b791ac7fc4977da" serial="BBMP"/>
+		<rom name="Busy Scissors (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="24f85531" md5="ed0ee9af0820527d8ada68ea16dbb31d" sha1="d7610c7a9b373f5919f82b639b791ac7fc4977da" sha256="774e4405ba075cc73060f9a1b9f93a8a22d73b13c8dc026cd378eb3f35404bba" serial="BBMP"/>
 	</game>
 	<game name="Busy Scissors (USA) (Beta)" id="z419" cloneofid="5702">
 		<category>Games</category>
@@ -4621,7 +4621,7 @@
 	</game>
 	<game name="Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It)" id="4303" cloneofid="4484">
 		<description>Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d8b8971a" md5="9a122c9e5c24d79f254a52fd0357703a" sha1="c1f26b204cc1eaeca976f64a09469587b1371097" serial="CZAX"/>
+		<rom name="Cloudy with a Chance of Meatballs (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d8b8971a" md5="9a122c9e5c24d79f254a52fd0357703a" sha1="c1f26b204cc1eaeca976f64a09469587b1371097" sha256="b04027ad300cda6c75ae0d0881ac3d8964d0f25d4cb900e146e7acc70546aca0" status="verified" serial="CZAX"/>
 	</game>
 	<game name="Cloudy with a Chance of Meatballs (United Kingdom)" id="4484">
 		<description>Cloudy with a Chance of Meatballs (United Kingdom)</description>
@@ -5535,7 +5535,7 @@
 	</game>
 	<game name="Deal or No Deal (Germany)" id="1962" cloneofid="1622">
 		<description>Deal or No Deal (Germany)</description>
-		<rom name="Deal or No Deal (Germany).nds" size="8388608" crc="0ef26d15" md5="11e8baf650ac39a3c3bfeb61c82e9f49" sha1="0fdb6d3914ada9b09917cb41c3403a45654c54d4" serial="YLAD"/>
+		<rom name="Deal or No Deal (Germany).nds" size="8388608" crc="0ef26d15" md5="11e8baf650ac39a3c3bfeb61c82e9f49" sha1="0fdb6d3914ada9b09917cb41c3403a45654c54d4" sha256="db3adb921b6f224d931a3d198b53db28f621f8fba87ea258f32c7d1b281a1d13" serial="YLAD"/>
 	</game>
 	<game name="Deal or No Deal - Der Banker Schlaegt Zurueck (Germany)" id="3307" cloneofid="2988">
 		<description>Deal or No Deal - Der Banker Schlaegt Zurueck (Germany)</description>
@@ -7756,7 +7756,7 @@
 	</game>
 	<game name="Emma at the Farm (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="1699">
 		<description>Emma at the Farm (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
-		<rom name="Emma at the Farm (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="a85ce613" md5="852bb00b96c1d2780ad19c02d52d5704" sha1="9b4ccf98d4ce439c6c5c6cab8f1a2a38f64cfa5a" serial="YM9P"/>
+		<rom name="Emma at the Farm (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="a85ce613" md5="852bb00b96c1d2780ad19c02d52d5704" sha1="9b4ccf98d4ce439c6c5c6cab8f1a2a38f64cfa5a" sha256="b91b6f1c7ae17c2b387d529304376862a44cb71dfc08e9580592aceb05584fea" serial="YM9P"/>
 	</game>
 	<game name="Emma in the Mountains (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="2336">
 		<description>Emma in the Mountains (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
@@ -10182,7 +10182,7 @@
 	</game>
 	<game name="Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It)" id="3166">
 		<description>Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="72906404" md5="34996ac687914e8a6783e8e0c2e1eb54" sha1="1d3afa3bb17e3dbf0c1a2726aa0a29d4fc7301a9" serial="ABJP"/>
+		<rom name="Harvest Moon DS - Island of Happiness (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="72906404" md5="34996ac687914e8a6783e8e0c2e1eb54" sha1="1d3afa3bb17e3dbf0c1a2726aa0a29d4fc7301a9" sha256="e5f0974ad32c29907288eed632c179c095677d20c1942a72e9e4c77334da4b4c" status="verified" serial="ABJP"/>
 	</game>
 	<game name="Harvest Moon DS - Island of Happiness (USA)" id="2609" cloneofid="3166">
 		<description>Harvest Moon DS - Island of Happiness (USA)</description>
@@ -10714,7 +10714,7 @@
 	</game>
 	<game name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)" id="3869">
 		<description>Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="78a2a298" md5="098f5e0e0a753e833081725adecadb17" sha1="0fccde1d52305780b3f5e7e8fac46f7baa97c8e0" serial="C65P"/>
+		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="78a2a298" md5="098f5e0e0a753e833081725adecadb17" sha1="0fccde1d52305780b3f5e7e8fac46f7baa97c8e0" sha256="51923fc4b085d87e7914e996d19d768294ec114f8da67964aec2012b3c96ef8d" status="verified" serial="C65P"/>
 	</game>
 	<game name="Horrid Henry - Missions of Mischief (Europe) (En,Fr,De,Es,It)" id="4530" cloneofid="z037">
 		<description>Horrid Henry - Missions of Mischief (Europe) (En,Fr,De,Es,It)</description>
@@ -11493,7 +11493,7 @@
 	</game>
 	<game name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)" id="4210">
 		<description>Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f7a53a4e" md5="5ea21fdf40a6ca339aef733298542baa" sha1="7f295388d35cd4d30fbae33d83408f061e5236f1" serial="BPMP"/>
+		<rom name="Imagine - Party Planner (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f7a53a4e" md5="5ea21fdf40a6ca339aef733298542baa" sha1="7f295388d35cd4d30fbae33d83408f061e5236f1" sha256="fb92f491dccfe8ff9458b61c1a6a042c647d19c12eb568b4c821d86a8db239e1" status="verified" serial="BPMP"/>
 	</game>
 	<game name="Imagine - Pet Vet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="1495">
 		<description>Imagine - Pet Vet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -11505,7 +11505,7 @@
 	</game>
 	<game name="Imagine - Rescue Vet (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="4357">
 		<description>Imagine - Rescue Vet (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="Imagine - Rescue Vet (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="67108864" crc="d508eff5" md5="36f449db10c9959735235e7a8d914092" sha1="ed20972c5b8b15df73622175762807539b2491db" serial="VPVV"/>
+		<rom name="Imagine - Rescue Vet (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="67108864" crc="d508eff5" md5="36f449db10c9959735235e7a8d914092" sha1="ed20972c5b8b15df73622175762807539b2491db" sha256="be02983f052c0e4abe07747d4cfe71c6a737068fe0fdee21752bf57784f23b2d" status="verified" serial="VPVV"/>
 	</game>
 	<game name="Imagine - Resort Owner (USA) (En,Fr,Es) (NDSi Enhanced)" id="5759" cloneofid="5225">
 		<description>Imagine - Resort Owner (USA) (En,Fr,Es) (NDSi Enhanced)</description>
@@ -12216,7 +12216,7 @@
 	</game>
 	<game name="Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl)" id="6000">
 		<description>Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="8c49bd03" md5="b976bd64dabb5afc43d80119df4c0397" sha1="c1420d5c53ac758548de6363cab515c2c0431438" serial="B6JP"/>
+		<rom name="Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="8c49bd03" md5="b976bd64dabb5afc43d80119df4c0397" sha1="c1420d5c53ac758548de6363cab515c2c0431438" sha256="6bc74b5f799165ef0605d44a8392f39330874e72c727ad77adf2c85f1542c544" serial="B6JP"/>
 	</game>
 	<game name="Jewel Master - Cradle of Rome 2 (USA) (En,Fr,Es)" id="6122" cloneofid="6000">
 		<description>Jewel Master - Cradle of Rome 2 (USA) (En,Fr,Es)</description>
@@ -12261,7 +12261,7 @@
 	</game>
 	<game name="Jewel Quest - Expeditions (Germany)" id="3395" cloneofid="3480">
 		<description>Jewel Quest - Expeditions (Germany)</description>
-		<rom name="Jewel Quest - Expeditions (Germany).nds" size="16777216" crc="caa37aa6" md5="d52e4e5b56e444a44ea17ae61ed5370f" sha1="3c1edbbfd71bc8a197c6361fd0c9d24d2031a701" serial="YJQD"/>
+		<rom name="Jewel Quest - Expeditions (Germany).nds" size="16777216" crc="caa37aa6" md5="d52e4e5b56e444a44ea17ae61ed5370f" sha1="3c1edbbfd71bc8a197c6361fd0c9d24d2031a701" sha256="7f7bd8fd1a417ba5f19cc326ef62a2e4b6c15f609d12898154a2a1ad724c3f84" serial="YJQD"/>
 	</game>
 	<game name="Jewel Quest - Expeditions (Europe) (En,Fr,Nl)" id="3447" cloneofid="3480">
 		<description>Jewel Quest - Expeditions (Europe) (En,Fr,Nl)</description>
@@ -12357,7 +12357,7 @@
 	</game>
 	<game name="Jewels of the Ages (Europe) (En,Fr,De,Es,It,Nl)" id="5805">
 		<description>Jewels of the Ages (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jewels of the Ages (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="1a08173a" md5="2044ecedf2e636637e95f7202b4e140a" sha1="8d2e427761c73c7f0ad092cc9c93d31dabd53c77" status="verified" serial="B86P"/>
+		<rom name="Jewels of the Ages (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="1a08173a" md5="2044ecedf2e636637e95f7202b4e140a" sha1="8d2e427761c73c7f0ad092cc9c93d31dabd53c77" sha256="0d3d3e6a6077d85ab8808d0d1f3ecb174e1faaff84e8f6b8ece4e36cccf268ef" status="verified" serial="B86P"/>
 	</game>
 	<game name="Jewels of the Tropical Lost Island (Europe) (En,Fr,De,Es,It,Nl)" id="5321">
 		<description>Jewels of the Tropical Lost Island (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -14294,7 +14294,7 @@
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1)" id="6744" cloneofid="6745">
 		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1)</description>
-		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1).nds" size="134217728" crc="8cc841b3" md5="0ded018360c33e2115b38a0631eb3f45" sha1="45b56dd251f5c31c1ba5e7299067949f20c6ff86" serial="B6FY"/>
+		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1).nds" size="134217728" crc="8cc841b3" md5="0ded018360c33e2115b38a0631eb3f45" sha1="45b56dd251f5c31c1ba5e7299067949f20c6ff86" sha256="a268ce02f7a7f7b9bc768561dbfb5f64975559d55213b0a3a71afa2da8c3ec58" serial="B6FY"/>
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="6745">
 		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)</description>
@@ -14576,7 +14576,7 @@
 	</game>
 	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr)" id="4793" cloneofid="5983">
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr)</description>
-		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr).nds" size="67108864" crc="68770e68" md5="31ab8664eca162df565d68a8d016609a" sha1="cb4a565f3d6be5fc9f0e8806355681136f059194" serial="C7DX"/>
+		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1-4 (Europe) (De,Tr).nds" size="67108864" crc="68770e68" md5="31ab8664eca162df565d68a8d016609a" sha1="cb4a565f3d6be5fc9f0e8806355681136f059194" sha256="85e9f1bf4de05764f62b35b065667968ae19cbc32d2ee98abe78e0906fcdb1c5" serial="C7DX"/>
 	</game>
 	<game name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)" id="6238">
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)</description>
@@ -14668,7 +14668,7 @@
 	</game>
 	<game name="Let's Play Flight Attendant (Europe) (En,Fr,De,Es,It)" id="4373">
 		<description>Let's Play Flight Attendant (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Let's Play Flight Attendant (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="c0c7e20f" md5="f359b169dcc0282e63267381c870bad1" sha1="89ea4e44875d50ec273fbd0d0a566a7fa30baadc" serial="BCFP"/>
+		<rom name="Let's Play Flight Attendant (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="c0c7e20f" md5="f359b169dcc0282e63267381c870bad1" sha1="89ea4e44875d50ec273fbd0d0a566a7fa30baadc" sha256="03690acc70f9cb02958b3df323187f14491b873b9830f720c37b46ec9a7c15ec" serial="BCFP"/>
 	</game>
 	<game name="Let's Play Garden (USA) (En,Fr,Es)" id="5071" cloneofid="4811">
 		<description>Let's Play Garden (USA) (En,Fr,Es)</description>
@@ -15032,7 +15032,7 @@
 	</game>
 	<game name="Looney Tunes - Duck Amuck (Germany)" id="1840" cloneofid="1749">
 		<description>Looney Tunes - Duck Amuck (Germany)</description>
-		<rom name="Looney Tunes - Duck Amuck (Germany).nds" size="67108864" crc="3b692027" md5="b8a3682cb8f948b64e06c73626f08658" sha1="d3dfed222378420d1945844f87577e0aeb450f6f" serial="ALYD"/>
+		<rom name="Looney Tunes - Duck Amuck (Germany).nds" size="67108864" crc="3b692027" md5="b8a3682cb8f948b64e06c73626f08658" sha1="d3dfed222378420d1945844f87577e0aeb450f6f" sha256="0acff6dc741061b2e1b025a39d629070dea48c66ee043267b0c1946dcd2254d3" serial="ALYD"/>
 	</game>
 	<game name="Looney Tunes - Duck Amuck (France)" id="1876" cloneofid="1749">
 		<description>Looney Tunes - Duck Amuck (France)</description>
@@ -15317,7 +15317,7 @@
 	</game>
 	<game name="Madagascar (Germany)" id="0187" cloneofid="0133">
 		<description>Madagascar (Germany)</description>
-		<rom name="Madagascar (Germany).nds" size="16777216" crc="5f25cc1e" md5="a5ab16c489062496b533c036e766dd30" sha1="3ec7ca4caba31a51adcab0907b8a3ff6135e0793" serial="AMGD"/>
+		<rom name="Madagascar (Germany).nds" size="16777216" crc="5f25cc1e" md5="a5ab16c489062496b533c036e766dd30" sha1="3ec7ca4caba31a51adcab0907b8a3ff6135e0793" sha256="ce483b8d0556f53ed0e52040ba01402cb0e5ed3fa838a326f0bceab6e548cfe4" serial="AMGD"/>
 	</game>
 	<game name="Madagascar (France)" id="0370" cloneofid="0133">
 		<description>Madagascar (France)</description>
@@ -16691,7 +16691,7 @@
 	</game>
 	<game name="Meine Tierschule (Germany) (En,De)" id="1370" cloneofid="3179">
 		<description>Meine Tierschule (Germany) (En,De)</description>
-		<rom name="Meine Tierschule (Germany) (En,De).nds" size="33554432" crc="1046520b" md5="e34b4013e03d0ae1bc2dcb361a0ab828" sha1="320512dfa9852935e7edb102ba3958beb49a079f" serial="YMTP"/>
+		<rom name="Meine Tierschule (Germany) (En,De).nds" size="33554432" crc="1046520b" md5="e34b4013e03d0ae1bc2dcb361a0ab828" sha1="320512dfa9852935e7edb102ba3958beb49a079f" sha256="8af285e83843f327036c79a47b80ed8e96d5e15a393e04520e636b327987bc49" serial="YMTP"/>
 	</game>
 	<game name="Meitantei Conan - Aoki Houseki no Rondo (Japan)" id="5726">
 		<description>Meitantei Conan - Aoki Houseki no Rondo (Japan)</description>
@@ -17031,7 +17031,7 @@
 	</game>
 	<game name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)" id="4638">
 		<description>Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="f0e68923" md5="0687be54d2a086bb7eb33daf901a8a63" sha1="7ad26d2180c45d5e6d7113f73c4d479d1795d94c" status="verified" serial="CHNP"/>
+		<rom name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="f0e68923" md5="0687be54d2a086bb7eb33daf901a8a63" sha1="7ad26d2180c45d5e6d7113f73c4d479d1795d94c" sha256="eedf8f22af1185a3b9adb8f7c9169eb10e3ac8c34f9e83aa0ed73369e6e57a7c" status="verified" serial="CHNP"/>
 	</game>
 	<game name="Migungui Gunju (Korea)" id="3235" cloneofid="3562">
 		<description>Migungui Gunju (Korea)</description>
@@ -17595,7 +17595,7 @@
 	</game>
 	<game name="Moon (Europe) (En,Fr,De,Es,It)" id="3979">
 		<description>Moon (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Moon (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="e84b85bf" md5="5503f15576c724673757125871a19215" sha1="b9157b930d993db1e1cba24118516958328b7c4d" serial="COOP"/>
+		<rom name="Moon (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="e84b85bf" md5="5503f15576c724673757125871a19215" sha1="b9157b930d993db1e1cba24118516958328b7c4d" sha256="4bcc8f28f60aa0abd645e74e12ddcc126c1aa04f951c4c25849e5457b09ae62c" status="verified" serial="COOP"/>
 	</game>
 	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
 		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
@@ -18908,7 +18908,7 @@
 	</game>
 	<game name="Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It)" id="1708" cloneofid="6540">
 		<description>Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="6841ada8" md5="f4c44ceb5674b2291f490040f79b1004" sha1="afae412221f2df0cd6133a274f5892b805a62434" status="verified" serial="YNPP"/>
+		<rom name="Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="6841ada8" md5="f4c44ceb5674b2291f490040f79b1004" sha1="afae412221f2df0cd6133a274f5892b805a62434" sha256="c4920f55157fe79271b40d6ab03c1f80f869f023c2d493c4010d282785dc01bc" status="verified" serial="YNPP"/>
 	</game>
 	<game name="Need for Speed - ProStreet (Korea)" id="2053" cloneofid="6540">
 		<description>Need for Speed - ProStreet (Korea)</description>
@@ -18936,7 +18936,7 @@
 	</game>
 	<game name="Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)" id="0641">
 		<description>Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d0517323" md5="9513e22ffab30cdb1d360ae867b4ed2d" sha1="43ec23fb2e817b5f99efadf21a7031f5d53115d5" serial="AN7P"/>
+		<rom name="Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d0517323" md5="9513e22ffab30cdb1d360ae867b4ed2d" sha1="43ec23fb2e817b5f99efadf21a7031f5d53115d5" sha256="adf25c30fd096a7b027a6dbd991d44090cc1c6c2ace8b0b950707d6ee32e62ec" status="verified" serial="AN7P"/>
 	</game>
 	<game name="Need for Speed Carbon - Own the City (USA) (En,Fr,De,Es,It)" id="0647" cloneofid="0641">
 		<description>Need for Speed Carbon - Own the City (USA) (En,Fr,De,Es,It)</description>
@@ -19931,7 +19931,7 @@
 	</game>
 	<game name="Orcs &amp; Elves (Europe) (En,Fr,De,Es,It)" id="1677">
 		<description>Orcs &amp; Elves (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Orcs &amp; Elves (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="f39ecb46" md5="7c915c69a706bd61103b37ccbabafc9a" sha1="a104e2df01d6c2f87fd6818ec0da79639d37f1ea" status="verified" serial="YOEP"/>
+		<rom name="Orcs &amp; Elves (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="f39ecb46" md5="7c915c69a706bd61103b37ccbabafc9a" sha1="a104e2df01d6c2f87fd6818ec0da79639d37f1ea" sha256="debfd061d62e3695450dece6be9a39cb696eae5f60051e0762a3b30fce94aedf" status="verified" serial="YOEP"/>
 	</game>
 	<game name="Ore ga Omae o Mamoru (Japan)" id="3789">
 		<description>Ore ga Omae o Mamoru (Japan)</description>
@@ -20743,7 +20743,7 @@
 	</game>
 	<game name="Pferd &amp; Pony - Best Friends - Mein Pferd (Germany)" id="1908" cloneofid="4487">
 		<description>Pferd &amp; Pony - Best Friends - Mein Pferd (Germany)</description>
-		<rom name="Pferd &amp; Pony - Best Friends - Mein Pferd (Germany).nds" size="33554432" crc="937c6b9b" md5="ca6c00d2d0ba24cd78236132a293d38b" sha1="6ec9e52f7431d514d934c1dc6a5f58fcfba9d61b" serial="YB5D"/>
+		<rom name="Pferd &amp; Pony - Best Friends - Mein Pferd (Germany).nds" size="33554432" crc="937c6b9b" md5="ca6c00d2d0ba24cd78236132a293d38b" sha1="6ec9e52f7431d514d934c1dc6a5f58fcfba9d61b" sha256="068d8d04caedfeadd6a0623987d323a0dbd1597ee2257c1d1fa16d96377514d1" status="verified" serial="YB5D"/>
 	</game>
 	<game name="Pferd &amp; Pony - Die Reitakademie (Europe) (En,De)" id="3042">
 		<description>Pferd &amp; Pony - Die Reitakademie (Europe) (En,De)</description>
@@ -20783,7 +20783,7 @@
 	</game>
 	<game name="Phantasy Star 0 (Europe)" id="4708">
 		<description>Phantasy Star 0 (Europe)</description>
-		<rom name="Phantasy Star 0 (Europe).nds" size="134217728" crc="b9027c0c" md5="7b13926d3b02a730588537e0577a2dbd" sha1="2aec29f7fbd29580a51325c4026c6e35699afe63" status="verified" serial="C24P"/>
+		<rom name="Phantasy Star 0 (Europe).nds" size="134217728" crc="b9027c0c" md5="7b13926d3b02a730588537e0577a2dbd" sha1="2aec29f7fbd29580a51325c4026c6e35699afe63" sha256="ac2c4a7458d1f67edc2bf446eef2bb67ed02a76857f0694affc8ae431bf10c4f" status="verified" serial="C24P"/>
 	</game>
 	<game name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program)" id="z661">
 		<category>Applications</category>
@@ -22054,7 +22054,7 @@
 	</game>
 	<game name="Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)" id="5936">
 		<description>Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Power Rangers - Samurai (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="20e18ad3" md5="840a57125c4eac4d36bdebed78f299f5" sha1="78bb871b112ca2dcc70793420d5e5f70c52c7e70" sha256="2cd541f11365b1287dda77f8e6bf3e5231b068e71987a317564b57ee5e8cdcd7" serial="B3NP"/>
+		<rom name="Power Rangers - Samurai (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="20e18ad3" md5="840a57125c4eac4d36bdebed78f299f5" sha1="78bb871b112ca2dcc70793420d5e5f70c52c7e70" sha256="2cd541f11365b1287dda77f8e6bf3e5231b068e71987a317564b57ee5e8cdcd7" status="verified" serial="B3NP"/>
 	</game>
 	<game name="Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)" id="z319" cloneofid="5936">
 		<description>Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)</description>
@@ -22278,7 +22278,7 @@
 	</game>
 	<game name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="4734">
 		<description>Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="445c8c78" md5="13cd06b2a5518bc359da9e9ddcb485b9" sha1="e90eda0fb78d8023e0d26637a3aedba4d1db0b11" serial="BZLP"/>
+		<rom name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="445c8c78" md5="13cd06b2a5518bc359da9e9ddcb485b9" sha1="e90eda0fb78d8023e0d26637a3aedba4d1db0b11" sha256="2c081a65479812987bc733c0bc3a309b071e6e978586623dc71122664c8f349e" serial="BZLP"/>
 	</game>
 	<game name="Prism - Light the Way (Europe) (En,Fr,De,Es,It)" id="1425">
 		<description>Prism - Light the Way (Europe) (En,Fr,De,Es,It)</description>
@@ -22494,7 +22494,7 @@
 	</game>
 	<game name="Professor Layton und der Ruf des Phantoms (Germany)" id="5901" cloneofid="5953">
 		<description>Professor Layton und der Ruf des Phantoms (Germany)</description>
-		<rom name="Professor Layton und der Ruf des Phantoms (Germany).nds" size="268435456" crc="12e582a0" md5="11f6ba602dd9d9a58818b4df189d33a4" sha1="ea453c8f4bc997c37d702e15dfa65475687a2d97" serial="BLFD"/>
+		<rom name="Professor Layton und der Ruf des Phantoms (Germany).nds" size="268435456" crc="12e582a0" md5="11f6ba602dd9d9a58818b4df189d33a4" sha1="ea453c8f4bc997c37d702e15dfa65475687a2d97" sha256="f26b840d79ca67f9d7621c5bfbd30bb7db2f20a773b75360d81537bbdfdf35d2" serial="BLFD"/>
 	</game>
 	<game name="Professor Layton und die Schatulle der Pandora (Germany)" id="4224" cloneofid="4213">
 		<description>Professor Layton und die Schatulle der Pandora (Germany)</description>
@@ -24660,7 +24660,7 @@
 	</game>
 	<game name="Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It)" id="0902">
 		<description>Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c0062448" md5="c22ca7ac6789e4cd06a541dc20a845b8" sha1="e2e05054cb0f67224dc550e086f29358caaeacab" sha256="f247effb7b2db7de56affb6f5624025cc9f19823051bd61a7b02fe324a4241a7" serial="A4IP"/>
+		<rom name="Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c0062448" md5="c22ca7ac6789e4cd06a541dc20a845b8" sha1="e2e05054cb0f67224dc550e086f29358caaeacab" sha256="f247effb7b2db7de56affb6f5624025cc9f19823051bd61a7b02fe324a4241a7" status="verified" serial="A4IP"/>
 	</game>
 	<game name="Shrek - Super Slam (USA)" id="0141" cloneofid="0181">
 		<description>Shrek - Super Slam (USA)</description>
@@ -25510,7 +25510,7 @@
 	</game>
 	<game name="Space Camp (Europe) (En,Fr,De,Es,It)" id="3977">
 		<description>Space Camp (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Space Camp (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="85baea42" md5="f5ed50f197cb7e65f826ea277782213a" sha1="04315bd65953aa3b56a12f13cd8271e5523fcc7d" serial="C5AP"/>
+		<rom name="Space Camp (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="85baea42" md5="f5ed50f197cb7e65f826ea277782213a" sha1="04315bd65953aa3b56a12f13cd8271e5523fcc7d" sha256="d3c814689740c4b752f4475d308e57bc5e8be3b2ec2725a07221da6ccabe1605" status="verified" serial="C5AP"/>
 	</game>
 	<game name="Space Chimps (USA) (En,Fr)" id="2471" cloneofid="2662">
 		<description>Space Chimps (USA) (En,Fr)</description>
@@ -25646,7 +25646,7 @@
 	</game>
 	<game name="Spider-Man - Battle for New York (Germany)" id="0714" cloneofid="1069">
 		<description>Spider-Man - Battle for New York (Germany)</description>
-		<rom name="Spider-Man - Battle for New York (Germany).nds" size="67108864" crc="abdfd260" md5="ec5580cd57bcc1a1f6bf183d469e2c2f" sha1="fa1c7543982244186d1b28bcf1201de69d89d3c8" serial="AC9D"/>
+		<rom name="Spider-Man - Battle for New York (Germany).nds" size="67108864" crc="abdfd260" md5="ec5580cd57bcc1a1f6bf183d469e2c2f" sha1="fa1c7543982244186d1b28bcf1201de69d89d3c8" sha256="67a0b130c2dfeaae18c96f034542e2b40cf499b03a99ca0505bb0d08cca81d65" serial="AC9D"/>
 	</game>
 	<game name="Spider-Man - Battle for New York (Europe)" id="1069">
 		<description>Spider-Man - Battle for New York (Europe)</description>
@@ -26880,7 +26880,7 @@
 	</game>
 	<game name="Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl)" id="0331" cloneofid="3320">
 		<description>Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="db679a58" md5="b11b6718ba530c8c226fc2f0f3a80673" sha1="cdd8faf812f7eef44b205966f042dcd8a15fa438" serial="A3TX"/>
+		<rom name="Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="db679a58" md5="b11b6718ba530c8c226fc2f0f3a80673" sha1="cdd8faf812f7eef44b205966f042dcd8a15fa438" sha256="e4623c32988090f0bd0f0a77587a65657bdfcb51d115bc0f0474ec34909725ee" status="verified" serial="A3TX"/>
 	</game>
 	<game name="Tak - The Great Juju Challenge (Europe)" id="3320">
 		<description>Tak - The Great Juju Challenge (Europe)</description>
@@ -27524,7 +27524,7 @@
 	</game>
 	<game name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3696">
 		<description>Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="6654c4a1" md5="70e44f7a36da7b5b3a7ab2dad2050c45" sha1="c8c323b62d41d28431c81293972965444a5823c7" serial="C72P"/>
+		<rom name="Tierbabys Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="6654c4a1" md5="70e44f7a36da7b5b3a7ab2dad2050c45" sha1="c8c323b62d41d28431c81293972965444a5823c7" sha256="66370f4fb786ba8c85802f6450aa19ba3ed954353abc98d01c36048297526d1d" serial="C72P"/>
 	</game>
 	<game name="Tierliebe Gross Geschrieben (Europe) (De,Es,It)" id="3205">
 		<description>Tierliebe Gross Geschrieben (Europe) (De,Es,It)</description>
@@ -28851,7 +28851,7 @@
 	</game>
 	<game name="Treasures of Montezuma, The (Europe) (En,Fr,De,Es,It,Nl)" id="5107">
 		<description>Treasures of Montezuma, The (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Treasures of Montezuma, The (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="6b6dcdac" md5="89708ddebf2e12e8108b27226615ad6c" sha1="eff00638359ed8482a327b8fdeff0081cc1de19b" serial="BTQP"/>
+		<rom name="Treasures of Montezuma, The (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="6b6dcdac" md5="89708ddebf2e12e8108b27226615ad6c" sha1="eff00638359ed8482a327b8fdeff0081cc1de19b" sha256="d8324491f303300cbe8b094e26c99f66b4d94cfee8c7c0436d7ae75d433468d9" status="verified" serial="BTQP"/>
 	</game>
 	<game name="Treasures of Montezuma, The (USA)" id="5710" cloneofid="5107">
 		<description>Treasures of Montezuma, The (USA)</description>
@@ -29040,7 +29040,7 @@
 	</game>
 	<game name="Ultimate Spider-Man (Germany)" id="0188" cloneofid="0135">
 		<description>Ultimate Spider-Man (Germany)</description>
-		<rom name="Ultimate Spider-Man (Germany).nds" size="67108864" crc="91b2c574" md5="9e60cbfbe051cb9324cafca0a58e1e49" sha1="5c975bae19aeb1eb6c84e10b00b6625d31db78de" serial="AUSD"/>
+		<rom name="Ultimate Spider-Man (Germany).nds" size="67108864" crc="91b2c574" md5="9e60cbfbe051cb9324cafca0a58e1e49" sha1="5c975bae19aeb1eb6c84e10b00b6625d31db78de" sha256="084cc8281ef8e8940d940e8cb9c40a4d32790856708cb47aa2968eeac68fd605" serial="AUSD"/>
 	</game>
 	<game name="Ultimate Spider-Man (Italy)" id="0349" cloneofid="0135">
 		<description>Ultimate Spider-Man (Italy)</description>
@@ -29156,7 +29156,7 @@
 	</game>
 	<game name="Up (Europe) (Fr,De,Nl)" id="4035" cloneofid="4126">
 		<description>Up (Europe) (Fr,De,Nl)</description>
-		<rom name="Up (Europe) (Fr,De,Nl).nds" size="33554432" crc="dcd56d67" md5="b6ff8e35ab1e8023400bacdbe75cc305" sha1="c93804ff81850fce9b908c154f2351983f972b19" serial="CUYX"/>
+		<rom name="Up (Europe) (Fr,De,Nl).nds" size="33554432" crc="dcd56d67" md5="b6ff8e35ab1e8023400bacdbe75cc305" sha1="c93804ff81850fce9b908c154f2351983f972b19" sha256="df4345848feb08c8bbc5f0023c87dcae7857d003b12bd37aaa925701b3fb840d" serial="CUYX"/>
 	</game>
 	<game name="Up (Korea)" id="4087" cloneofid="4126">
 		<description>Up (Korea)</description>
