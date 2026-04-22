@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3684) (2026-04-21 19-22-28)</description>
-		<version>2026-04-21 19-22-28</version>
-		<date>2026-04-21 19-22-28</date>
+		<description>Microsoft - Xbox 360 - Discs (3684) (2026-04-22 13-18-34)</description>
+		<version>2026-04-22 13-18-34</version>
+		<date>2026-04-22 13-18-34</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3818,10 +3818,10 @@
 		<description>Battlefield 4 (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs) (Disc 1)</description>
 		<rom name="Battlefield 4 (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs) (Disc 1).iso" size="8738846720" crc="33237217" md5="0b37e7206a8dd675a6faf45497300286" sha1="871085e43f8c84c2721d7942d9f3c6a8e54d85d9"/>
 	</game>
-	<game name="Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It)">
+	<game name="Aliens vs. Predator (World) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Aliens vs. Predator (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="c341c1f4" md5="b7378acb3b38d4c2eca41040502fd96b" sha1="9367aa16bc7657ef81eb4d49918ec178aa680770"/>
+		<description>Aliens vs. Predator (World) (En,Fr,De,Es,It)</description>
+		<rom name="Aliens vs. Predator (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="c341c1f4" md5="b7378acb3b38d4c2eca41040502fd96b" sha1="9367aa16bc7657ef81eb4d49918ec178aa680770"/>
 	</game>
 	<game name="Saints Row IV (World) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -15235,10 +15235,10 @@
 		<description>Skylanders - Trap Team (Europe) (En,De)</description>
 		<rom name="Skylanders - Trap Team (Europe) (En,De).iso" size="8738846720" crc="1a2f0d56" md5="747d960d9e52b70ffb6d94dabbe821ec" sha1="c50324b4f1527899e6f531548345dfa9d1d8544b"/>
 	</game>
-	<game name="Memories Off - Yubikiri no Kioku (Taiwan) (Ja,Zh)">
+	<game name="Qiuzhi Huiyi 7 - Da Gougou de Jiyi (Taiwan)">
 		<category>Games</category>
-		<description>Memories Off - Yubikiri no Kioku (Taiwan) (Ja,Zh)</description>
-		<rom name="Memories Off - Yubikiri no Kioku (Taiwan) (Ja,Zh).iso" size="7838695424" crc="2019dee9" md5="a121eab525d6c84854bc014678f9ee3e" sha1="126e0b8926e205ffe9f4456ade92c821d72cfa1c"/>
+		<description>Qiuzhi Huiyi 7 - Da Gougou de Jiyi (Taiwan)</description>
+		<rom name="Qiuzhi Huiyi 7 - Da Gougou de Jiyi (Taiwan).iso" size="7838695424" crc="2019dee9" md5="a121eab525d6c84854bc014678f9ee3e" sha1="126e0b8926e205ffe9f4456ade92c821d72cfa1c"/>
 	</game>
 	<game name="Asterix at the Olympic Games (Europe, Canada)">
 		<category>Games</category>
@@ -15550,25 +15550,25 @@
 		<description>History - Great Battles Medieval (USA)</description>
 		<rom name="History - Great Battles Medieval (USA).iso" size="7838695424" crc="4b216f00" md5="3e0838d3e26943f1acaad0a5f87b492a" sha1="ce4e1ad90c07456f10a369d4576be00311814ff3"/>
 	</game>
-	<game name="Fable III (France)">
+	<game name="Fable III (Europe, Canada)">
 		<category>Games</category>
-		<description>Fable III (France)</description>
-		<rom name="Fable III (France).iso" size="7838695424" crc="6400649a" md5="9f3b2e21768f7c1a50ef660635fee328" sha1="c6fec45827d55501d7202cf1138aa1f314f2317a"/>
+		<description>Fable III (Europe, Canada)</description>
+		<rom name="Fable III (Europe, Canada).iso" size="7838695424" crc="6400649a" md5="9f3b2e21768f7c1a50ef660635fee328" sha1="c6fec45827d55501d7202cf1138aa1f314f2317a"/>
 	</game>
 	<game name="Ben 10 - Omniverse (USA, Europe)">
 		<category>Games</category>
 		<description>Ben 10 - Omniverse (USA, Europe)</description>
 		<rom name="Ben 10 - Omniverse (USA, Europe).iso" size="7838695424" crc="895fdc00" md5="4b7b27d39a1cfe064cef9d421a546082" sha1="f4461b432d6e17a1882b92d864b2c74f5623ac9e"/>
 	</game>
-	<game name="Call of Duty - Advanced Warfare (France) (Disque de Jeu)">
+	<game name="Call of Duty - Advanced Warfare (Europe, Canada) (Disque de Jeu)">
 		<category>Games</category>
-		<description>Call of Duty - Advanced Warfare (France) (Disque de Jeu)</description>
-		<rom name="Call of Duty - Advanced Warfare (France) (Disque de Jeu).iso" size="8738846720" crc="10a6d51d" md5="5b384eba6d9abf31cea0d32ed043d8c8" sha1="c1cc66ffcc98478cef034aa64b4c141dd78b6fe0"/>
+		<description>Call of Duty - Advanced Warfare (Europe, Canada) (Disque de Jeu)</description>
+		<rom name="Call of Duty - Advanced Warfare (Europe, Canada) (Disque de Jeu).iso" size="8738846720" crc="10a6d51d" md5="5b384eba6d9abf31cea0d32ed043d8c8" sha1="c1cc66ffcc98478cef034aa64b4c141dd78b6fe0"/>
 	</game>
-	<game name="Call of Duty - Modern Warfare 3 (France)">
+	<game name="Call of Duty - Modern Warfare 3 (Europe, Canada)">
 		<category>Games</category>
-		<description>Call of Duty - Modern Warfare 3 (France)</description>
-		<rom name="Call of Duty - Modern Warfare 3 (France).iso" size="8738846720" crc="6108a502" md5="de4b00fce086d52e7fcecd873aa63dfa" sha1="976ad73f27ab5f4db5f843caea3bb1ca7f3b08e1"/>
+		<description>Call of Duty - Modern Warfare 3 (Europe, Canada)</description>
+		<rom name="Call of Duty - Modern Warfare 3 (Europe, Canada).iso" size="8738846720" crc="6108a502" md5="de4b00fce086d52e7fcecd873aa63dfa" sha1="976ad73f27ab5f4db5f843caea3bb1ca7f3b08e1"/>
 	</game>
 	<game name="Disney Infinity (Europe) (Fr,De,It,Nl)">
 		<category>Games</category>
@@ -16951,10 +16951,10 @@
 		<description>Tom Clancy's Splinter Cell - Conviction (UK)</description>
 		<rom name="Tom Clancy's Splinter Cell - Conviction (UK).iso" size="7838695424" crc="83f7270d" md5="d838fa622ffe72d890069d030115325b" sha1="894594b59707f3a093e4fb29395c221a11fae05d"/>
 	</game>
-	<game name="Deus Ex - Human Revolution (France)">
+	<game name="Deus Ex - Human Revolution (Europe, Canada)">
 		<category>Games</category>
-		<description>Deus Ex - Human Revolution (France)</description>
-		<rom name="Deus Ex - Human Revolution (France).iso" size="7838695424" crc="df17ad5f" md5="10583f577278b196fa3975ddf750d3c3" sha1="b94c25d64810f84bce4acbc858e47499cfec5e99"/>
+		<description>Deus Ex - Human Revolution (Europe, Canada)</description>
+		<rom name="Deus Ex - Human Revolution (Europe, Canada).iso" size="7838695424" crc="df17ad5f" md5="10583f577278b196fa3975ddf750d3c3" sha1="b94c25d64810f84bce4acbc858e47499cfec5e99"/>
 	</game>
 	<game name="Need for Speed - Carbon (France)">
 		<category>Games</category>
@@ -17672,10 +17672,10 @@
 		<description>Command &amp; Conquer 3 - Les Guerres du Tiberium (France)</description>
 		<rom name="Command &amp; Conquer 3 - Les Guerres du Tiberium (France).iso" size="7835492352" crc="630c1766" md5="cce3a5e1fd45319d1eabd3b262b90eb5" sha1="ff879aec693da3b4d62ee9a990024af51c57ef77"/>
 	</game>
-	<game name="Call of Duty - Black Ops II (France)">
+	<game name="Call of Duty - Black Ops II (Europe, Canada)">
 		<category>Games</category>
-		<description>Call of Duty - Black Ops II (France)</description>
-		<rom name="Call of Duty - Black Ops II (France).iso" size="8738846720" crc="e89fec28" md5="30703bad1d885de54923df4ac8d0ab1a" sha1="907062b087d848d2a9b1b4e9167db6f7a8349349"/>
+		<description>Call of Duty - Black Ops II (Europe, Canada)</description>
+		<rom name="Call of Duty - Black Ops II (Europe, Canada).iso" size="8738846720" crc="e89fec28" md5="30703bad1d885de54923df4ac8d0ab1a" sha1="907062b087d848d2a9b1b4e9167db6f7a8349349"/>
 	</game>
 	<game name="Call of Duty - Black Ops (Europe, Canada)">
 		<category>Games</category>

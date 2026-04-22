@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260420-142125</version>
+		<version>20260421-140217</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1891,6 +1891,7 @@
 		<rom name="Jangou Simulation Mahjong Dou 64 (Japan).v64" size="8388608" crc="27e9853c" md5="21755b140310e9e062adddfa51ab4475" sha1="d969105f2ec0d1116e35b66410acac4b207aaf3d" serial="NMAJ"/>
 	</game>
 	<game name="Jeopardy! (USA)" id="0327">
+		<category>Games</category>
 		<description>Jeopardy! (USA)</description>
 		<rom name="Jeopardy! (USA).v64" size="4194304" crc="82b2ab69" md5="bd65646119cf596491406e59ee60fed8" sha1="6f22227ea9a64f16f4b8a5a8b84a30fac55fd84c" serial="NJOE"/>
 	</game>
@@ -1899,6 +1900,7 @@
 		<rom name="Jeremy McGrath Supercross 2000 (Europe).v64" size="16777216" crc="efe0b465" md5="d4c85f5dacecf2787edd4a387be0ab01" sha1="3e61ce15a20be752240c889c37be82270bdd423e" status="verified" serial="NCOP"/>
 	</game>
 	<game name="Jeremy McGrath Supercross 2000 (USA)" id="0329" cloneofid="0328">
+		<category>Games</category>
 		<description>Jeremy McGrath Supercross 2000 (USA)</description>
 		<rom name="Jeremy McGrath Supercross 2000 (USA).v64" size="16777216" crc="67bf293b" md5="bed43c3e682f5450cd35c346cb230532" sha1="1c0352bad4f56f1cf5d892e85f2d04d956edb49e" serial="NCOE"/>
 	</game>
@@ -1911,6 +1913,7 @@
 		<rom name="Jet Force Gemini (Europe) (En,Fr,De,Es).v64" size="33554432" crc="fec297ef" md5="761a047404c6460a077ff858e0244a8f" sha1="3085a20258f3a554839d0007cb231bc9b96875bc" status="verified" serial="NJFP"/>
 	</game>
 	<game name="Jet Force Gemini (USA)" id="0331" cloneofid="0330">
+		<category>Games</category>
 		<description>Jet Force Gemini (USA)</description>
 		<rom name="Jet Force Gemini (USA).v64" size="33554432" crc="b5932174" md5="0ef01afde32e40228c03904e3d884add" sha1="aa7edc75952104f0b52bf1300df427835a128b01" sha256="774614a2cfe5d3efbe444adf92f236b977098b6caf40cd6140a94cbdd1b93890" status="verified" serial="NJFE"/>
 	</game>
@@ -3921,6 +3924,7 @@
 		<rom name="Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10).v64" size="12582912" crc="ee371c06" md5="768d4859f0394fc2ea41d0eeb2a93361" sha1="b034183b9d31520da8884e9f791bc99b0a9970d9" sha256="f3732fec5b2855ce9ab69e51fdd6d94a77a21f3e8e526a7c74e09dc3f2087f43" serial="!none"/>
 	</game>
 	<game name="Star Twins (Japan)" id="0690" cloneofid="0330">
+		<category>Games</category>
 		<description>Star Twins (Japan)</description>
 		<rom name="Star Twins (Japan).v64" size="33554432" crc="c7bfb542" md5="28bd618b8e7cb56789626b758745467d" sha1="8f1a670d89c1252326d0979126deff532452f333" sha256="aef2b531777b0baeaaa31c1c9f6fa90c343f3fbc172da010c89fd3eca19d0105" status="verified" serial="NJFJ"/>
 	</game>

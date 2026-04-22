@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3475) (2026-04-18 22-08-54)</description>
-		<version>2026-04-18 22-08-54</version>
-		<date>2026-04-18 22-08-54</date>
+		<description>Sony - PlayStation Portable - Discs (3478) (2026-04-22 04-59-12)</description>
+		<version>2026-04-22 04-59-12</version>
+		<date>2026-04-22 04-59-12</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17384,5 +17384,20 @@
 		<category>Games</category>
 		<description>Minna no Golf-jou Vol. 2 (Japan) (Disc 2) (Doukonban)</description>
 		<rom name="Minna no Golf-jou Vol. 2 (Japan) (Disc 2) (Doukonban).iso" size="1530200064" crc="9697ef41" md5="c8865fe2d4ec32198a039fc5de13af89" sha1="20d9c60844d55d122b75ae23f7b6886715e4ef08"/>
+	</game>
+	<game name="NBA Street Showdown (Japan)">
+		<category>Games</category>
+		<description>NBA Street Showdown (Japan)</description>
+		<rom name="NBA Street Showdown (Japan).iso" size="1192165376" crc="be72af10" md5="c711be60e8f0833e8a2f1b4295cf4646" sha1="56679db60f99b1b3e1e400d431f174e8e2828c80"/>
+	</game>
+	<game name="Shougi World Champion - Gekisashi Portable (Japan)">
+		<category>Games</category>
+		<description>Shougi World Champion - Gekisashi Portable (Japan)</description>
+		<rom name="Shougi World Champion - Gekisashi Portable (Japan).iso" size="205455360" crc="f2c85412" md5="ffe7d25fca3ab7ca8034323f06293fa8" sha1="d8fc303a89adac52d541f7fec307dc177da9c39d"/>
+	</game>
+	<game name="Takuyo Mix Box - First Anniversary (Japan)">
+		<category>Games</category>
+		<description>Takuyo Mix Box - First Anniversary (Japan)</description>
+		<rom name="Takuyo Mix Box - First Anniversary (Japan).iso" size="1294434304" crc="caec2013" md5="76ce1ba66eae6754037f54b7808285ad" sha1="9cc00cd679dd376fc3bd8941b6477c39f9376ebb"/>
 	</game>
 </datafile>

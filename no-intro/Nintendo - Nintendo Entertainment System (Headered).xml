@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260419-114840</version>
+		<version>20260421-122918</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -13351,7 +13351,8 @@
 		<description>Yoshi's Cookie (USA) (Virtual Console)</description>
 		<rom name="Yoshi's Cookie (USA) (Virtual Console).nes" size="196624" crc="1bfb9151" md5="61b974035e6ba064f4dfc98760a769c6" sha1="8e1172b933acab32a141e17a7267ac55da6c8bcf" sha256="b08db35fc5926caf8b1f565954f2b7dbbd6cdabb93f7dce64c1f9e7514fa7472" status="verified" header="4E 45 53 1A 08 08 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Youkai Club (Japan)" id="2538">
+	<game name="Youkai Club (Japan)" id="2538" cloneofid="8498">
+		<category>Games</category>
 		<description>Youkai Club (Japan)</description>
 		<rom name="Youkai Club (Japan).nes" size="163856" crc="76f1cf54" md5="6d7ec74552dda3f59926a0586136fd67" sha1="52acff881dc8b305dec29eb8f9ccfb179b542806" sha256="8b40a27c499216f874bbce9b7b8e693c38600f33e9f5614da599d9d21b39bae4" status="verified" header="4E 45 53 1A 08 04 C1 88 00 00 00 00 00 00 00 01"/>
 	</game>
@@ -21202,6 +21203,11 @@
 		<category>Games</category>
 		<description>Yan Shan Cup, The (China) (Pirate)</description>
 		<rom name="Yan Shan Cup, The (China) (Pirate).nes" size="65552" crc="e980e4d5" md5="5da4d72ebc6ceacbe2ce77663dfd2458" sha1="d95a5c4096c052ccacf3b08786afda8e2043605e" sha256="fbfaa7eeede3674c510820135ab057345dad2adfd27c414d1bf077201f3b90f1" header="4E 45 53 1A 02 04 30 08 20 00 05 00 03 00 00 01"/>
+	</game>
+	<game name="Youkai Club (Japan) (Rev 1)" id="8498">
+		<category>Games</category>
+		<description>Youkai Club (Japan) (Rev 1)</description>
+		<rom name="Youkai Club (Japan) (Rev 1).nes" size="163856" crc="5aa28163" md5="c74e4fbbf711df878a195544022ee14e" sha1="cee03bc9ae548c59183421aa918c0ef14c50191b" sha256="2f64a083a888523d417ac781d6903d5854361691f78657571cd7c823710813ef" status="verified"/>
 	</game>
 	<game name="Zhili Pintu - Play Toy Pictures (China) (Pirate)" id="8012" cloneofid="5322">
 		<category>Games</category>
