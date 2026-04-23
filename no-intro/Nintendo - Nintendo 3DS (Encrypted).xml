@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260421-081054</version>
+		<version>20260422-113106</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -108,7 +108,7 @@
 	<game name="50 Classic Games 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0342" cloneofid="0197">
 		<description>50 Classic Games 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000084100</game_id>
-		<rom name="50 Classic Games 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="f244da08" md5="e61cdad73987b1fdbdaac039c362a326" sha1="e54bd65df47b1b4d9ce5f3a804565c5f6d1c5ce2" serial="CTR-P-AF6Z"/>
+		<rom name="50 Classic Games 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="f244da08" md5="e61cdad73987b1fdbdaac039c362a326" sha1="e54bd65df47b1b4d9ce5f3a804565c5f6d1c5ce2" sha256="0e6091fb4b65939f86b5f87feb9c7a355a3bcbfbf61c9f030a984c66e9a02d37" status="verified" serial="CTR-P-AF6Z"/>
 	</game>
 	<game name="50 Classic Games 3D (USA) (En,Fr,Es)" id="0484" cloneofid="0197">
 		<description>50 Classic Games 3D (USA) (En,Fr,Es)</description>
@@ -371,7 +371,7 @@
 	<game name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)" id="1265">
 		<description>Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000000AF400</game_id>
-		<rom name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="4b8a8d5b" md5="972c00084e3e1224ac939255df6e03a5" sha1="91efccbf7eaa7f74eff2e743be0427cda279124f" serial="CTR-P-ANGP"/>
+		<rom name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="4b8a8d5b" md5="972c00084e3e1224ac939255df6e03a5" sha1="91efccbf7eaa7f74eff2e743be0427cda279124f" sha256="17f55e11caf93b228272cf22b1f56ef9b6390cafe636e9ea45a043de1e5b1571" status="verified" serial="CTR-P-ANGP"/>
 	</game>
 	<game name="Animal Crossing - Happy Home Designer (USA) (En,Fr,Es)" id="1348" cloneofid="z166">
 		<description>Animal Crossing - Happy Home Designer (USA) (En,Fr,Es)</description>
@@ -706,7 +706,7 @@
 	<game name="Big Hero 6 - Battle in the Bay (Europe) (En,Fr,De,Es,It,Nl)" id="1157" cloneofid="1183">
 		<description>Big Hero 6 - Battle in the Bay (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000147500</game_id>
-		<rom name="Big Hero 6 - Battle in the Bay (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a7db9791" md5="b0f9597a4044e66107e9ff2a4a8a6966" sha1="4422da5ee6ac7cf987040954e1d5ff2c7d135626" serial="CTR-P-BH6Z"/>
+		<rom name="Big Hero 6 - Battle in the Bay (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a7db9791" md5="b0f9597a4044e66107e9ff2a4a8a6966" sha1="4422da5ee6ac7cf987040954e1d5ff2c7d135626" sha256="51473d3f7aba2eda08a207e1698e23442b991a431fbf49341ad24c6b5434e89d" status="verified" serial="CTR-P-BH6Z"/>
 	</game>
 	<game name="Big Hero 6 - Battle in the Bay (Europe)" id="1183">
 		<description>Big Hero 6 - Battle in the Bay (Europe)</description>
@@ -1039,7 +1039,7 @@
 	<game name="Cars 2 (Europe) (En,Sv,No,Da,Fi)" id="0660" cloneofid="0167">
 		<description>Cars 2 (Europe) (En,Sv,No,Da,Fi)</description>
 		<game_id>000400000006D600</game_id>
-		<rom name="Cars 2 (Europe) (En,Sv,No,Da,Fi).3ds" size="268435456" crc="92eea299" md5="3d1caba465d5f30da4ee8a2390af0889" sha1="a79893d0535690a68e3bb316c6753225b72f597f" serial="CTR-P-AAZZ"/>
+		<rom name="Cars 2 (Europe) (En,Sv,No,Da,Fi).3ds" size="268435456" crc="92eea299" md5="3d1caba465d5f30da4ee8a2390af0889" sha1="a79893d0535690a68e3bb316c6753225b72f597f" sha256="3f5a85baf8a01192e72ea481cc115279b57eb61c8df4ade5e6e22e8e77703360" status="verified" serial="CTR-P-AAZZ"/>
 	</game>
 	<game name="Cartoon Network - Battle Crashers (USA)" id="1607" cloneofid="1596">
 		<description>Cartoon Network - Battle Crashers (USA)</description>
@@ -1988,7 +1988,7 @@
 	<game name="Disney Princess - My Fairytale Adventure (Europe) (Sv,No,Da)" id="0862" cloneofid="0954">
 		<description>Disney Princess - My Fairytale Adventure (Europe) (Sv,No,Da)</description>
 		<game_id>00040000000A5200</game_id>
-		<rom name="Disney Princess - My Fairytale Adventure (Europe) (Sv,No,Da).3ds" size="536870912" crc="424c2d1c" md5="473901526c720ee90eb5003d21775080" sha1="dbf7a9e64febaddc69e5000b71fe6ba1af0a2d1a" serial="CTR-P-ADPX"/>
+		<rom name="Disney Princess - My Fairytale Adventure (Europe) (Sv,No,Da).3ds" size="536870912" crc="424c2d1c" md5="473901526c720ee90eb5003d21775080" sha1="dbf7a9e64febaddc69e5000b71fe6ba1af0a2d1a" sha256="cf7f2aa4d1c1815320eaa110f9062129788d04bdd061ed2053e34eb11b02ecd0" serial="CTR-P-ADPX"/>
 	</game>
 	<game name="Disney Princess - My Fairytale Adventure (Europe) (En,Fr,Nl)" id="0954">
 		<description>Disney Princess - My Fairytale Adventure (Europe) (En,Fr,Nl)</description>
@@ -2008,7 +2008,7 @@
 	<game name="Doctor Lautrec and the Forgotten Knights (Europe) (En,Fr,De,Es,It)" id="0015">
 		<description>Doctor Lautrec and the Forgotten Knights (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000056200</game_id>
-		<rom name="Doctor Lautrec and the Forgotten Knights (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="6ad0826e" md5="f4b92fb58ade9c599249dff1ccfcad92" sha1="444728abcd357c12222d1736b40638ed5d105f3d" serial="CTR-P-ADLP"/>
+		<rom name="Doctor Lautrec and the Forgotten Knights (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="6ad0826e" md5="f4b92fb58ade9c599249dff1ccfcad92" sha1="444728abcd357c12222d1736b40638ed5d105f3d" sha256="d2933a2e055d2d176b3fafd34091ce8cdd4cde28c7e6fca55d254ca291be744c" status="verified" serial="CTR-P-ADLP"/>
 	</game>
 	<game name="Doctor Lautrec and the Forgotten Knights (USA) (En,Fr,Es)" id="0122" cloneofid="0015">
 		<description>Doctor Lautrec and the Forgotten Knights (USA) (En,Fr,Es)</description>
@@ -2554,7 +2554,7 @@
 	<game name="FIFA 12 (Europe) (En,Fr,Nl) (Rev 1)" id="1637" cloneofid="0077">
 		<description>FIFA 12 (Europe) (En,Fr,Nl) (Rev 1)</description>
 		<game_id>0004000000044700</game_id>
-		<rom name="FIFA 12 (Europe) (En,Fr,Nl) (Rev 1).3ds" size="2147483648" crc="4598a03c" md5="5981669856bb0b0a15bb2b0551f46bf0" sha1="10d0bbae19eaa5a0da0d8751fcbfa30fe1c68058" serial="CTR-P-AF2P"/>
+		<rom name="FIFA 12 (Europe) (En,Fr,Nl) (Rev 1).3ds" size="2147483648" crc="4598a03c" md5="5981669856bb0b0a15bb2b0551f46bf0" sha1="10d0bbae19eaa5a0da0d8751fcbfa30fe1c68058" sha256="3b3080a5776c2347c60d4601364b47b05590b96337e495a3576cc996902c4b1a" status="verified" serial="CTR-P-AF2P"/>
 	</game>
 	<game name="FIFA 12 (Europe) (En,Fr,Nl)" id="0077">
 		<description>FIFA 12 (Europe) (En,Fr,Nl)</description>
@@ -2774,7 +2774,7 @@
 	<game name="Fossil Fighters - Frontier (Europe) (En,Fr,De,Es,It)" id="1267">
 		<description>Fossil Fighters - Frontier (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000145400</game_id>
-		<rom name="Fossil Fighters - Frontier (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="3e8185e2" md5="d2d95bf3afa6a7ccfedf19a436768356" sha1="9e52681148ddb7d7094766109bcbd74c976db580" serial="CTR-P-AHRD"/>
+		<rom name="Fossil Fighters - Frontier (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="3e8185e2" md5="d2d95bf3afa6a7ccfedf19a436768356" sha1="9e52681148ddb7d7094766109bcbd74c976db580" sha256="e7af8e362f918d275b2fb59821af37b2b0f04cbc0890e68d525b3d787e4e50bb" status="verified" serial="CTR-P-AHRD"/>
 	</game>
 	<game name="Fragrant Story (USA)" id="z074">
 		<description>Fragrant Story (USA)</description>
@@ -4531,7 +4531,7 @@
 	<game name="LEGO Batman 3 - Gotham e Oltre (Italy) (En,Fr,De,Es,It,Nl,Da)" id="1326" cloneofid="1109">
 		<description>LEGO Batman 3 - Gotham e Oltre (Italy) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>0004000000140100</game_id>
-		<rom name="LEGO Batman 3 - Gotham e Oltre (Italy) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="bbe1fae3" md5="a7e576759cee70b5f84fc1d0f14dc8a9" sha1="b023dbf6a76b9c2dd402e91252f6b641440e850e" serial="CTR-P-BTMV"/>
+		<rom name="LEGO Batman 3 - Gotham e Oltre (Italy) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="bbe1fae3" md5="a7e576759cee70b5f84fc1d0f14dc8a9" sha1="b023dbf6a76b9c2dd402e91252f6b641440e850e" sha256="f31cae696dd1c087ae9c9ce4f144547b3898860d4ccc0ce2acf88888ac22a4de" status="verified" serial="CTR-P-BTMV"/>
 	</game>
 	<game name="LEGO Batman 3 - Jenseits von Gotham (Germany) (En,Fr,De,Es,It,Nl,Da)" id="1105" cloneofid="1109">
 		<description>LEGO Batman 3 - Jenseits von Gotham (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -4621,7 +4621,7 @@
 	<game name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)" id="1282">
 		<description>LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>0004000000159900</game_id>
-		<rom name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="fcff0aac" md5="123aa078877eff17de27c2169a528c8f" sha1="595835de3233f5b01d76a00bc5a925d27b27021b" serial="CTR-P-BLJP"/>
+		<rom name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="fcff0aac" md5="123aa078877eff17de27c2169a528c8f" sha1="595835de3233f5b01d76a00bc5a925d27b27021b" sha256="3d660aa9269eb34da1336f4e443dbc1184883bbbd9adbce803a2be581e307965" status="verified" serial="CTR-P-BLJP"/>
 	</game>
 	<game name="LEGO Jurassic World (France) (En,Fr,De,Es,It,Nl,Da)" id="1287" cloneofid="1282">
 		<description>LEGO Jurassic World (France) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -4917,7 +4917,7 @@
 	<game name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)" id="1537">
 		<description>LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>000400000017ED00</game_id>
-		<rom name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="47d0f8a8" md5="4db6bf63c49153976152fa607722cb2a" sha1="7f5b5d9daa0b98d9bb0f2c8731a8405932ff5f59" serial="CTR-P-BLWP"/>
+		<rom name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="47d0f8a8" md5="4db6bf63c49153976152fa607722cb2a" sha1="7f5b5d9daa0b98d9bb0f2c8731a8405932ff5f59" sha256="a6af2dfb240a43d5549fc6fefdf6bfb5b231a432fa76e905cd2396c144443597" status="verified" serial="CTR-P-BLWP"/>
 	</game>
 	<game name="LEGO Star Wars - The Force Awakens (USA)" id="1539" cloneofid="1537">
 		<description>LEGO Star Wars - The Force Awakens (USA)</description>
@@ -5108,7 +5108,7 @@
 	<game name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es)" id="0168">
 		<description>Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es)</description>
 		<game_id>0004000000064F00</game_id>
-		<rom name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es).3ds" size="134217728" crc="a1967fa4" md5="77ca4cbbe1d1c4a3de3187dfc092c4c4" sha1="0c62504e9819fa19c115162fff3012e3b0588b74" serial="CTR-P-AMZP"/>
+		<rom name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es).3ds" size="134217728" crc="a1967fa4" md5="77ca4cbbe1d1c4a3de3187dfc092c4c4" sha1="0c62504e9819fa19c115162fff3012e3b0588b74" sha256="92a64826c33500eef34514da6e33fe91b8f3a1d0157b806bf5b9a84fd331bb98" status="verified" serial="CTR-P-AMZP"/>
 	</game>
 	<game name="Mahjong 3D - Warriors of the Emperor (USA)" id="0635" cloneofid="0168">
 		<description>Mahjong 3D - Warriors of the Emperor (USA)</description>
@@ -5836,7 +5836,7 @@
 	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)" id="1341" cloneofid="0306">
 		<description>Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)</description>
 		<game_id>00040000000C8D00</game_id>
-		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1).3ds" size="134217728" crc="59f044b8" md5="c410fa09ce6b9302bee1dde126220566" sha1="93b5fef7f608c94d4521a53262311ce34b0f56e4" serial="CTR-P-AH5P"/>
+		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1).3ds" size="134217728" crc="59f044b8" md5="c410fa09ce6b9302bee1dde126220566" sha1="93b5fef7f608c94d4521a53262311ce34b0f56e4" sha256="3f06475f09221edcb2926f07521f7dcf05f4653ebef1c02fa9446b9cbb67c042" status="verified" serial="CTR-P-AH5P"/>
 	</game>
 	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1)" id="z014" cloneofid="0306">
 		<description>Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1)</description>
@@ -5846,7 +5846,7 @@
 	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0306">
 		<description>Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<game_id>00040000000C8D00</game_id>
-		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="134217728" crc="68b254e6" md5="f5236e235a7643fdc40071dd2effacea" sha1="69059df0b436bd3082dd525ac3f280687452266b" serial="CTR-P-AH5P"/>
+		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="134217728" crc="68b254e6" md5="f5236e235a7643fdc40071dd2effacea" sha1="69059df0b436bd3082dd525ac3f280687452266b" sha256="bab4f1448f9f85f506ed7c0869b937963a9591eb8533aee84b9891485c90c65c" status="verified" serial="CTR-P-AH5P"/>
 	</game>
 	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)" id="0629" cloneofid="0306">
 		<description>Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)</description>
@@ -6750,7 +6750,7 @@
 	<game name="Outback Pet Rescue 3D (Europe) (En,Fr,De,Es,It)" id="1036">
 		<description>Outback Pet Rescue 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000140D00</game_id>
-		<rom name="Outback Pet Rescue 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="4242a77b" md5="53d0462c57c3cb21e3ffe4d3c3e38ff5" sha1="0ae1fb21112d0c1351a33f3f887dfd76aac3b7c2" serial="CTR-P-BM4P"/>
+		<rom name="Outback Pet Rescue 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="4242a77b" md5="53d0462c57c3cb21e3ffe4d3c3e38ff5" sha1="0ae1fb21112d0c1351a33f3f887dfd76aac3b7c2" sha256="814db59bc38cfd9886bd24af5d1af4e6a305b4a21f34997b73336dd53f7c4011" status="verified" serial="CTR-P-BM4P"/>
 	</game>
 	<game name="Outdoors Unleashed - Africa 3D (Europe) (En,Fr,De,Es,It)" id="0547">
 		<description>Outdoors Unleashed - Africa 3D (Europe) (En,Fr,De,Es,It)</description>
@@ -6845,7 +6845,7 @@
 	<game name="Paddington - Adventures in London (Europe) (En,Fr,De,Es,It)" id="1291">
 		<description>Paddington - Adventures in London (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000168E00</game_id>
-		<rom name="Paddington - Adventures in London (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="754e728c" md5="64369c1fa7eb894def6df43e02d337fe" sha1="a162e0286394bfce95125daeb02c1d72faf4fca5" serial="CTR-P-BPLP"/>
+		<rom name="Paddington - Adventures in London (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="754e728c" md5="64369c1fa7eb894def6df43e02d337fe" sha1="a162e0286394bfce95125daeb02c1d72faf4fca5" sha256="89cf0993b070b4898938f282e0f680c8dc8203d3325a53e3dcfd774f4239a78a" status="verified" serial="CTR-P-BPLP"/>
 	</game>
 	<game name="Paddington - Adventures in London (USA)" id="1323" cloneofid="1291">
 		<description>Paddington - Adventures in London (USA)</description>
@@ -8280,7 +8280,7 @@
 	<game name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)" id="0605">
 		<description>Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)</description>
 		<game_id>00040000000A5B00</game_id>
-		<rom name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).3ds" size="536870912" crc="59359717" md5="7275382b5b6b36f2adba17cec229642a" sha1="65db5c49e94031e7f9c4f64cb59d44498dabb7a1" serial="CTR-P-ASLP"/>
+		<rom name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).3ds" size="536870912" crc="59359717" md5="7275382b5b6b36f2adba17cec229642a" sha1="65db5c49e94031e7f9c4f64cb59d44498dabb7a1" sha256="e3755752ae6683d88a25e9113596be573af66ae64038ceeee6c099719932b777" status="verified" serial="CTR-P-ASLP"/>
 	</game>
 	<game name="Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)" id="0461" cloneofid="1057">
 		<description>Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)</description>
@@ -8460,7 +8460,7 @@
 	<game name="Sherlock Holmes - The Mystery of the Frozen City (Europe) (En,Fr,De,Es,It,Nl)" id="0268">
 		<description>Sherlock Holmes - The Mystery of the Frozen City (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000007C000</game_id>
-		<rom name="Sherlock Holmes - The Mystery of the Frozen City (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="e07cf468" md5="1229b6615bbe4440dfc3e80089b324c7" sha1="76a2ba0f820f552a3667e6c658c12c416ed3a450" serial="CTR-P-AHAP"/>
+		<rom name="Sherlock Holmes - The Mystery of the Frozen City (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="e07cf468" md5="1229b6615bbe4440dfc3e80089b324c7" sha1="76a2ba0f820f552a3667e6c658c12c416ed3a450" sha256="402257562a94d87aec242643287498eee5bd18406ded9deb06b3becc2a5d8add" status="verified" serial="CTR-P-AHAP"/>
 	</game>
 	<game name="Sherlock Holmes Puzzle City (Japan)" id="0695" cloneofid="0268">
 		<description>Sherlock Holmes Puzzle City (Japan)</description>
@@ -8752,7 +8752,7 @@
 	<game name="Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0544">
 		<description>Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<game_id>000400000004C000</game_id>
-		<rom name="Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="536870912" crc="d4e736a0" md5="cb690bf175d3963a9373add4d648140e" sha1="a289f123e71dde7ebe39be02d94111bea00af3f0" status="verified" serial="CTR-P-ASPP"/>
+		<rom name="Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="536870912" crc="d4e736a0" md5="cb690bf175d3963a9373add4d648140e" sha1="a289f123e71dde7ebe39be02d94111bea00af3f0" sha256="a72c795d5cded3606f1551367c82f30bffc15e870e46cf02517375b4af1d83ee" status="verified" serial="CTR-P-ASPP"/>
 	</game>
 	<game name="Skylanders Giants (USA) (En,Fr,Es)" id="0419" cloneofid="0586">
 		<description>Skylanders Giants (USA) (En,Fr,Es)</description>

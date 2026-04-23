@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260421-113513</version>
+		<version>20260422-001833</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2386,7 +2386,7 @@
 	</game>
 	<game name="Beetle Junior DS (Europe) (En,Fr,De)" id="2071">
 		<description>Beetle Junior DS (Europe) (En,Fr,De)</description>
-		<rom name="Beetle Junior DS (Europe) (En,Fr,De).nds" size="8388608" crc="b4301ee2" md5="eddbedec69ddc11866fe2079ed8dbcc3" sha1="d90739eb7ec1e0da7b2b23d89812341f6f73d9dd" sha256="1083dbfae603b9abcadde3282b7f5baf79da6f8367be986546d07cbf76f87a76" mia="yes" serial="YBJP"/>
+		<rom name="Beetle Junior DS (Europe) (En,Fr,De).nds" size="8388608" crc="b4301ee2" md5="eddbedec69ddc11866fe2079ed8dbcc3" sha1="d90739eb7ec1e0da7b2b23d89812341f6f73d9dd" sha256="1083dbfae603b9abcadde3282b7f5baf79da6f8367be986546d07cbf76f87a76" serial="YBJP"/>
 	</game>
 	<game name="Beetle King (Europe)" id="1910">
 		<description>Beetle King (Europe)</description>
@@ -11085,7 +11085,7 @@
 	</game>
 	<game name="i-Cheat Games (World) (Unl) [b]" id="z669">
 		<description>i-Cheat Games (World) (Unl) [b]</description>
-		<rom name="i-Cheat Games (World) (Unl) [b].nds" size="2097152" crc="461bc940" md5="0859ccc3428e1ee0c0ee5897d02fd56e" sha1="92e18ccf20f3e5f4cef5b43e1cdb958ae8c79ce8" sha256="50be2cd3ba19ecaea386090e5927ebb7dcee278e8e7e1b7195858559d95c3b46" status="baddump" mia="yes" serial="CBDS"/>
+		<rom name="i-Cheat Games (World) (Unl) [b].nds" size="2097152" crc="461bc940" md5="0859ccc3428e1ee0c0ee5897d02fd56e" sha1="92e18ccf20f3e5f4cef5b43e1cdb958ae8c79ce8" sha256="50be2cd3ba19ecaea386090e5927ebb7dcee278e8e7e1b7195858559d95c3b46" status="baddump" serial="CBDS"/>
 	</game>
 	<game name="I'm a Celebrity - Get Me Out of Here! (Europe)" id="4888">
 		<description>I'm a Celebrity - Get Me Out of Here! (Europe)</description>
@@ -17567,7 +17567,7 @@
 	</game>
 	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
 		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
-		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="ea1ea1f2" md5="5d78d7bf08d544ffb8c0f96bbc902e3c" sha1="edbf17cfb3245acba381e2a4dc8e223d23a172a0" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f" mia="yes" serial="YJWP"/>
+		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="ea1ea1f2" md5="5d78d7bf08d544ffb8c0f96bbc902e3c" sha1="edbf17cfb3245acba381e2a4dc8e223d23a172a0" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f" serial="YJWP"/>
 	</game>
 	<game name="Moorhuhn - Star Karts (Europe) (En,Fr,De,Es,It)" id="3277">
 		<description>Moorhuhn - Star Karts (Europe) (En,Fr,De,Es,It)</description>
@@ -21937,7 +21937,7 @@
 	</game>
 	<game name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="2195">
 		<description>Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="7d47fd93" md5="7fb8c9424e6c0706c936969e58e8fa53" sha1="eb545cb0c127a63318dffed0142ce1efee76872d" sha256="c97c8e39b3acc3c15dc6f5e34238a32e611c88a0b2515fdce0d316764a6fa5df" mia="yes" serial="YP6P"/>
+		<rom name="Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="7d47fd93" md5="7fb8c9424e6c0706c936969e58e8fa53" sha1="eb545cb0c127a63318dffed0142ce1efee76872d" sha256="c97c8e39b3acc3c15dc6f5e34238a32e611c88a0b2515fdce0d316764a6fa5df" serial="YP6P"/>
 	</game>
 	<game name="Postman Pat - Special Delivery Service (Europe)" id="5930">
 		<description>Postman Pat - Special Delivery Service (Europe)</description>

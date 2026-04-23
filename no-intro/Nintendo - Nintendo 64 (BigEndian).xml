@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260421-140217</version>
+		<version>20260422-130742</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2056,6 +2056,7 @@
 		<rom name="Killer Instinct Gold (USA) (Rev 1).z64" size="12582912" crc="49ef8f2b" md5="4c9b419dc583c0df4ab908adf83bfc65" sha1="bcc599ed0f0b8b75a8068269958a2230ec7cb34c" serial="NKIE"/>
 	</game>
 	<game name="Killer Instinct Gold (USA) (Rev 2)" id="0357" cloneofid="0354">
+		<category>Games</category>
 		<description>Killer Instinct Gold (USA) (Rev 2)</description>
 		<rom name="Killer Instinct Gold (USA) (Rev 2).z64" size="12582912" crc="0b5b5df8" md5="dd0a82fcc10397afb37f12bb7f94e67a" sha1="aaeb492b1e538af65a3544a97240675ef438a04f" sha256="f80cae340efadf5725cd0f75441addb9186be9860267595be2b4a2d317b05f8a" serial="NKIE"/>
 	</game>
@@ -2089,6 +2090,7 @@
 		<rom name="Knife Edge - Nose Gunner (Japan).z64" size="8388608" crc="3bc93017" md5="436ba873e9466aab237d9429348a5f70" sha1="b3242226237a401436d9d7a8d533296333e64240" serial="NKEJ"/>
 	</game>
 	<game name="Knife Edge - Nose Gunner (USA)" id="0364" cloneofid="0362">
+		<category>Games</category>
 		<description>Knife Edge - Nose Gunner (USA)</description>
 		<rom name="Knife Edge - Nose Gunner (USA).z64" size="8388608" crc="255ee1dd" md5="8043d829fcd4f8f72dd81e5c6dde916f" sha1="b247167e37e7f62924be6b0d2362a091fd2352ac" serial="NKEE"/>
 	</game>
@@ -2105,6 +2107,7 @@
 		<rom name="Kobe Bryant in NBA Courtside (Europe).z64" size="12582912" crc="1355a826" md5="c6b01c020fdfd2e5c037c5a330b161ad" sha1="6390dc1cd4600ca57069d92f39f108a4cc1b62f1" sha256="260f1a046ba71e42555bdb8a698a437d4a42acce09c10f1c03731c383f890381" status="verified" serial="NNBP"/>
 	</game>
 	<game name="Kobe Bryant in NBA Courtside (USA)" id="0368" cloneofid="0367">
+		<category>Games</category>
 		<description>Kobe Bryant in NBA Courtside (USA)</description>
 		<rom name="Kobe Bryant in NBA Courtside (USA).z64" size="12582912" crc="86360bfb" md5="d37c79e4e4eabcb5dc6a07bd76688223" sha1="49346b3124750c14dddf56b9bb2fe38b618f28f2" sha256="7b4970b3e94877b347722bb919ec5b7855bc819a91090388ffd5b62697229a26" status="verified" serial="NNBE"/>
 	</game>
