@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1509) (2026-04-23 20-07-18)</description>
-		<version>2026-04-23 20-07-18</version>
-		<date>2026-04-23 20-07-18</date>
+		<description>Sega - Dreamcast - Discs (1514) (2026-04-24 22-33-31)</description>
+		<version>2026-04-24 22-33-31</version>
+		<date>2026-04-24 22-33-31</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -4125,15 +4125,15 @@
 		<rom name="Tee Off (USA) (Track 2).bin" size="1589952" crc="a0642833" md5="a5958859c1e0fc3a61edfb3d3245d890" sha1="cf5d80a70009fd6502857f12bee0690619f121ab"/>
 		<rom name="Tee Off (USA) (Track 3).bin" size="1185760800" crc="3967dace" md5="4b2d952b3ac82e26b25430e3dee38908" sha1="4ec5eb9dd700ad942db4332b28229a8bfbbf38c1"/>
 	</game>
-	<game name="NHL 2K (USA)">
+	<game name="NHL 2K (USA, Canada)">
 		<category>Games</category>
-		<description>NHL 2K (USA)</description>
-		<rom name="NHL 2K (USA).cue" size="547" crc="c62c8ddc" md5="467815316f390bf9ced2fa688534284d" sha1="c4f3538fd5050d8b8b5dbeda3dcf6927f8435d89"/>
-		<rom name="NHL 2K (USA) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
-		<rom name="NHL 2K (USA) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
-		<rom name="NHL 2K (USA) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
-		<rom name="NHL 2K (USA) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
-		<rom name="NHL 2K (USA) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
+		<description>NHL 2K (USA, Canada)</description>
+		<rom name="NHL 2K (USA, Canada).cue" size="587" crc="fbc26a7e" md5="865ed2d14ab8dcb284f96cd344982e33" sha1="053f7498ebca70b9c417b6e88076de1b72f15fbe"/>
+		<rom name="NHL 2K (USA, Canada) (Track 1).bin" size="13227648" crc="60e36ada" md5="6fac529b6661a366245ea182c641485b" sha1="ccb643b14ff1576587e15781950ba5402968ae7d"/>
+		<rom name="NHL 2K (USA, Canada) (Track 2).bin" size="2951760" crc="d0a4000a" md5="4220f56eb5c18ba2a097e25c460872bd" sha1="6783a551214e2311739d2240e5a02fb05941cb35"/>
+		<rom name="NHL 2K (USA, Canada) (Track 3).bin" size="418514880" crc="434d7d01" md5="4e2fe1504d437c81f64a4cbe94584d66" sha1="1f472295e2cd23e954887f867c9c96d544378052"/>
+		<rom name="NHL 2K (USA, Canada) (Track 4).bin" size="16873248" crc="de0656c1" md5="174e44dddf9ac5051320efc9a16eed73" sha1="c9820f6dfcf343b682abf2f5fb16c823c8743c1b"/>
+		<rom name="NHL 2K (USA, Canada) (Track 5).bin" size="750372672" crc="64616b68" md5="8645bcc77e7bc3b0815418c88e449c02" sha1="fcde9a45514aeef34fca54124bcd71129708745b"/>
 	</game>
 	<game name="Prince of Persia - Arabian Nights (USA)">
 		<category>Games</category>
@@ -7740,13 +7740,13 @@
 		<rom name="Coaster Works (Europe) (En,Fr,De,Es) (Track 16).bin" size="11082624" crc="3653aa62" md5="39cd91673555e7e71bf43ff7391d5bf6" sha1="c7f3b3ae6b9a62abb1d3b7ca2f1643b02b3d0edd"/>
 		<rom name="Coaster Works (Europe) (En,Fr,De,Es) (Track 17).bin" size="34750800" crc="614f40f7" md5="8fbe0758062f8c1616a1c142cd890681" sha1="7783943552548779c7d8a1894903d3831ae3ce51"/>
 	</game>
-	<game name="Comic Party (Japan) (Disc 1)">
+	<game name="Comic Party (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
-		<description>Comic Party (Japan) (Disc 1)</description>
-		<rom name="Comic Party (Japan) (Disc 1).cue" size="378" crc="683e3b88" md5="622e0e7a99ff9c59886b3ea8ba0a400b" sha1="a3b87117a68a36c633ef98d5c044a0bcc51d45d9"/>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 1).bin" size="13138272" crc="6c2874a1" md5="75b491d8a00ed9570caba9db5c6a3ccb" sha1="f82fa58738f96c510e40c5eb2ce9ee0d45bea31d"/>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 2).bin" size="8121456" crc="11ce3433" md5="d53ad11fdd92769f452a0107e9ec7092" sha1="03a2c90482fc2082a0bf9134185dc15c887315dd"/>
-		<rom name="Comic Party (Japan) (Disc 1) (Track 3).bin" size="1185760800" crc="626baa53" md5="0f2ce110d13704485290d0b05a623be0" sha1="1a7a3f85e7960a2a942b17cdca031e75446b9b16"/>
+		<description>Comic Party (Japan) (Disc 1) (Rev A)</description>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev A).cue" size="402" crc="10a21bfe" md5="ba7390438d0703e62026ce332b034212" sha1="4fbca1c35dacf404bcec82014f2c089a493ae564"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev A) (Track 1).bin" size="13138272" crc="6c2874a1" md5="75b491d8a00ed9570caba9db5c6a3ccb" sha1="f82fa58738f96c510e40c5eb2ce9ee0d45bea31d"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev A) (Track 2).bin" size="8121456" crc="11ce3433" md5="d53ad11fdd92769f452a0107e9ec7092" sha1="03a2c90482fc2082a0bf9134185dc15c887315dd"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev A) (Track 3).bin" size="1185760800" crc="626baa53" md5="0f2ce110d13704485290d0b05a623be0" sha1="1a7a3f85e7960a2a942b17cdca031e75446b9b16"/>
 	</game>
 	<game name="Sister Princess - Premium Edition (Japan) (Disc 1)">
 		<category>Games</category>
@@ -18623,5 +18623,45 @@
 		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 3).bin" size="952750512" crc="e5c60786" md5="2870b1cc2040276610ffa7515748aa92" sha1="adea651a0165d73e936955f56239d8cb96103699"/>
 		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 4).bin" size="13994400" crc="2d9c8342" md5="e2427674658e068c5cc4bde0542e334b" sha1="1953372e0e2c90d4e92b1dc69a2426e439806262"/>
 		<rom name="Giant Killers (Europe) (Beta) (2001-01-31) (Track 5).bin" size="219015888" crc="aa9ab7c8" md5="11a2e828caee02bd6b21605525b4d7ec" sha1="f099c308cfac0dcb17e26f79395ecea02ee577f5"/>
+	</game>
+	<game name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban)">
+		<category>Demos</category>
+		<description>Choukou Senki Kikaioh (Japan) (Tentou Taikenban)</description>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban).cue" size="438" crc="c1e7a7d2" md5="a44d4fe6e921889737f05f1d1c02d3b9" sha1="1086e0e89dccfd00ee6c867717317d271e052d50"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 1).bin" size="1058400" crc="45afbb08" md5="d60928ee4d26f7a075a04d39e4e100ac" sha1="17c187453c869c7cf1171aa01f0ec5b1f773268f"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 2).bin" size="3328080" crc="f80ca83b" md5="6586be243f0377bf335542f85b0ad600" sha1="01b9a6f268309254ca14d468a7a412ce9bd0de5a"/>
+		<rom name="Choukou Senki Kikaioh (Japan) (Tentou Taikenban) (Track 3).bin" size="1185760800" crc="8bf1f5c6" md5="5a6653bdc0d35a844b4b34db6b86a12f" sha1="db3bfb10f5d53b9d3c642ebfd78c39b94b6eda5d"/>
+	</game>
+	<game name="ISAO Promotion Disc by Seaman (Japan)">
+		<category>Demos</category>
+		<description>ISAO Promotion Disc by Seaman (Japan)</description>
+		<rom name="ISAO Promotion Disc by Seaman (Japan).cue" size="405" crc="0e7ed5b1" md5="168d941347a5c99c5f2573690c9c362d" sha1="159321ace2e168eced0548697bd6370050470e8a"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 1).bin" size="1058400" crc="ac3f1d97" md5="d0989470a5080d06cfcba0e1ab5c050f" sha1="d60b34f394115c2b76c30dc943fb83b1c5ed1c95"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="ISAO Promotion Disc by Seaman (Japan) (Track 3).bin" size="1185760800" crc="26ffa943" md5="43c5002ae725462900f7a3b8011cc9d3" sha1="b18c9e68b7c05a5499d7fddb450120190b4908da"/>
+	</game>
+	<game name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban)">
+		<category>Demos</category>
+		<description>King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban)</description>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban).cue" size="498" crc="51054e40" md5="63be82cc851b033bb48d5058bf3e341d" sha1="8f7324ca63d2f83e08b706cddc0e6c63ada3f62f"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 1).bin" size="1481760" crc="4cf71560" md5="d0ba09a0ca020fe6505410071236d20a" sha1="0ff26e57a4a95289953f65825a377995926208ee"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 2).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
+		<rom name="King of Fighters '99, The - Evolution (Japan) (Tentou-you Taikenban) (Track 3).bin" size="1185760800" crc="db40300f" md5="eafb00cfa02092300f2a460b463b51ce" sha1="38070102faeb8c5e5f77cb0ec828b4aa6268bfc3"/>
+	</game>
+	<game name="Comic Party (Japan) (Disc 1) (Rev B)">
+		<category>Games</category>
+		<description>Comic Party (Japan) (Disc 1) (Rev B)</description>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B).cue" size="402" crc="8d814679" md5="59b78ad715bdf16315277a0f446b7497" sha1="2cbc4cef12118c4cbea1b26717167dd1cb13aa46"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 1).bin" size="13138272" crc="648509b7" md5="1a379434bf6cf0cd1c6e5e362081f095" sha1="f2d61909105b9830b168b53076d28507ee76870c"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 2).bin" size="8121456" crc="11ce3433" md5="d53ad11fdd92769f452a0107e9ec7092" sha1="03a2c90482fc2082a0bf9134185dc15c887315dd"/>
+		<rom name="Comic Party (Japan) (Disc 1) (Rev B) (Track 3).bin" size="1185760800" crc="54051e1e" md5="7609a5145ec2b1d53e3dacb3e3291473" sha1="d62079f7e4b2492c97fe62c8478460354b9725d3"/>
+	</game>
+	<game name="Comic Party (Japan) (Disc 2) (Rev B)">
+		<category>Games</category>
+		<description>Comic Party (Japan) (Disc 2) (Rev B)</description>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B).cue" size="402" crc="3ed3d6f4" md5="4a6b1141683fbcc09044a6abb845c533" sha1="ef9053efbf7417ad361b9382e6d3fba150f4d7fb"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 1).bin" size="13138272" crc="20fad070" md5="a4f19d2e56f1db8e30f1b476c31cbd6f" sha1="7e505ae2b5563cc7040f3d3734aef99c79305f88"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 2).bin" size="10729824" crc="7a877b36" md5="3ce58d7c16d95dbac6aca732ac006eb1" sha1="43e03f1ca8cb46d2fbb35d47094f6cb038ae7d5f"/>
+		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 3).bin" size="1185760800" crc="1e88092b" md5="b9a223fdfc64191c12419b9f38b0937b" sha1="df0e43ced2a6916fff90b3b5dad38d5281805f5a"/>
 	</game>
 </datafile>

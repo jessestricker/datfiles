@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260422-130742</version>
+		<version>20260423-081700</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -391,6 +391,11 @@
 		<category>Games</category>
 		<description>BattleTanx (USA)</description>
 		<rom name="BattleTanx (USA).v64" size="8388608" crc="66123c8b" md5="e4f24ef9b43259bad0a1bf235745d81e" sha1="1daced29439e8f2605349e9f453e90155fea46f4" sha256="a87d0c2a29b0c2672762e96bd4255e23722e17730647057231ff45de4b0f305c" status="verified" serial="NBXE"/>
+	</game>
+	<game name="BattleTanx - Global Assault (USA) (Limited Run Games)" id="1308">
+		<category>Games</category>
+		<description>BattleTanx - Global Assault (USA) (Limited Run Games)</description>
+		<rom name="BattleTanx - Global Assault (USA) (Limited Run Games).v64" size="8388608" crc="ceed119c" md5="2586543b27778b47d842d9ab30f9bc4d" sha1="36ec1fe3177a0705de0d9853e9ef9c4117ff58fb" sha256="4c5860d2ad1c3b884ede198b9cd4b617048dcad340a2ac70fe73a44e9d9d088f" status="verified"/>
 	</game>
 	<game name="BattleTanx - Global Assault (Europe) (En,Fr,De)" id="0068">
 		<category>Games</category>
