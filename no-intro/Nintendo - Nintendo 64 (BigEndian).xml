@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260423-081700</version>
+		<version>20260424-080603</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2222,6 +2222,7 @@
 		<rom name="LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64" size="16777216" crc="c7d9b21c" md5="6310c7173385ed2b06020f3b90158e9e" sha1="6e9c4b097628f0147e9e79393dba6d7b4e59986f" sha256="4709368b2f11fb724e91eaefe3aebc97b04e9c5d664f476d18cb5e48352c4af3" status="verified" serial="NLGP"/>
 	</game>
 	<game name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0381" cloneofid="0380">
+		<category>Games</category>
 		<description>LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<rom name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64" size="16777216" crc="4d1e1897" md5="26b5eaa13dc5b5e35307fe8c0cf5b6ba" sha1="8decc41869926e20da2eb3da526e6395aa33cece" sha256="dbbfdfde4abf4b0bec60470fe8ed412f2b0a360b9237066b952ef8d53f74c0ce" status="verified" serial="NLGE"/>
 	</game>
@@ -2733,6 +2734,7 @@
 		<rom name="NASCAR 99 (USA).z64" size="12582912" crc="3d8eb950" md5="dc5f1a814c8423b4b43f71c229d65a84" sha1="0fbbaeb4c286d45d27c977d5722e38415efd1a74" sha256="800aa25d7b0275db5214bf81c6a537aa45f3ea7e01872fdf515c32cfbb6413bd" status="verified" serial="N9CE"/>
 	</game>
 	<game name="NBA Courtside 2 featuring Kobe Bryant (USA)" id="0474">
+		<category>Games</category>
 		<description>NBA Courtside 2 featuring Kobe Bryant (USA)</description>
 		<rom name="NBA Courtside 2 featuring Kobe Bryant (USA).z64" size="16777216" crc="a7cc4ce2" md5="73bb54ffd3c0fc71f941d9a8cc57e2a1" sha1="8c27333189fc19570bc494bc3ed9e3879d6e54be" sha256="11967ed55a7369170d62910bc9b8df2a65ae6a9bd96983dee91cd5f005ca47d3" status="verified" serial="NCKE"/>
 	</game>

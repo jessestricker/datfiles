@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260422-113106</version>
+		<version>20260424-122951</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -576,7 +576,7 @@
 	<game name="Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0795">
 		<description>Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<game_id>00040000000ED800</game_id>
-		<rom name="Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="134217728" crc="72bcd5fe" md5="57a06710a9731457c7ccb4de9bc1b051" sha1="f1f78eea7bdee8d33799a41861c33771e8a20546" status="verified" serial="CTR-P-AAVP"/>
+		<rom name="Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="134217728" crc="72bcd5fe" md5="57a06710a9731457c7ccb4de9bc1b051" sha1="f1f78eea7bdee8d33799a41861c33771e8a20546" sha256="f5abf450ca719cbc9e167e4b436fb484ee9eedde0b228c92b7c94952d9c41795" status="verified" serial="CTR-P-AAVP"/>
 	</game>
 	<game name="Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It)" id="0468">
 		<description>Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It)</description>
@@ -691,7 +691,7 @@
 	<game name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany) (Rev 1)" id="1367" cloneofid="0644">
 		<description>Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany) (Rev 1)</description>
 		<game_id>0004000000116000</game_id>
-		<rom name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany) (Rev 1).3ds" size="134217728" crc="0b0a0a18" md5="c3bc96e542cb98d9763587ebaeabbf4f" sha1="1059605bfcd9c852a2b8a7383a55605e6184b2d6" status="verified" serial="CTR-P-BBTD"/>
+		<rom name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany) (Rev 1).3ds" size="134217728" crc="0b0a0a18" md5="c3bc96e542cb98d9763587ebaeabbf4f" sha1="1059605bfcd9c852a2b8a7383a55605e6184b2d6" sha256="7fff2a352e3a041b6bbf7321e196a7981f21accbebcb26774761129e0a673314" status="verified" serial="CTR-P-BBTD"/>
 	</game>
 	<game name="Bibi Blocksberg - Das grosse Hexenbesen-Rennen 2 (Germany)" id="0567">
 		<description>Bibi Blocksberg - Das grosse Hexenbesen-Rennen 2 (Germany)</description>
@@ -1069,7 +1069,7 @@
 	<game name="Castlevania - Lords of Shadow - Mirror of Fate (Europe) (En,Fr,De,Es,It)" id="0261">
 		<description>Castlevania - Lords of Shadow - Mirror of Fate (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000009E500</game_id>
-		<rom name="Castlevania - Lords of Shadow - Mirror of Fate (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="52aa7502" md5="ffa6f295deeb5e8bdb61b658b7d11a41" sha1="2051c4510c2b48b8d57a8f5de74094ecbc84364e" serial="CTR-P-ACFP"/>
+		<rom name="Castlevania - Lords of Shadow - Mirror of Fate (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="52aa7502" md5="ffa6f295deeb5e8bdb61b658b7d11a41" sha1="2051c4510c2b48b8d57a8f5de74094ecbc84364e" sha256="f988de018704d0c1503c5326a8ea8d2335b6c81a10013a591cca4604a3244d2b" status="verified" serial="CTR-P-ACFP"/>
 	</game>
 	<game name="Castlevania - Lords of Shadow - Sadame no Makyou (Japan)" id="0358" cloneofid="0261">
 		<description>Castlevania - Lords of Shadow - Sadame no Makyou (Japan)</description>
@@ -2867,7 +2867,7 @@
 	</game>
 	<game name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="z080">
 		<description>Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="268435456" crc="3173e9ed" md5="5f958d8e96a4833acfa145ed46f8621a" sha1="69388e3ddef8ccfa19505cd2c2ebf941c5e5268c" status="verified" serial="CTR-P-AG3P"/>
+		<rom name="Gabrielle's Ghostly Groove 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="268435456" crc="3173e9ed" md5="5f958d8e96a4833acfa145ed46f8621a" sha1="69388e3ddef8ccfa19505cd2c2ebf941c5e5268c" sha256="5e6cbde9a5e9a32375bd7565204148a3ddbde5a8ba2a3a2789fbaf78c131ef78" status="verified" serial="CTR-P-AG3P"/>
 	</game>
 	<game name="Gaist Crusher (Japan)" id="0734">
 		<description>Gaist Crusher (Japan)</description>
@@ -3514,7 +3514,7 @@
 	<game name="Hotel Transylvania (Europe) (En,Fr,Nl)" id="1640" cloneofid="0305">
 		<description>Hotel Transylvania (Europe) (En,Fr,Nl)</description>
 		<game_id>00040000000BF600</game_id>
-		<rom name="Hotel Transylvania (Europe) (En,Fr,Nl).3ds" size="134217728" crc="d4a6fcde" md5="cea503f8c1523c076d2d31a09126e424" sha1="45da5db424665380fcb2964cf0c7d046b7a81235" serial="CTR-P-AH8F"/>
+		<rom name="Hotel Transylvania (Europe) (En,Fr,Nl).3ds" size="134217728" crc="d4a6fcde" md5="cea503f8c1523c076d2d31a09126e424" sha1="45da5db424665380fcb2964cf0c7d046b7a81235" sha256="281d68ffb6d3f71f03d6300b741850f267e56daa056278ad1f54869b1b2e37ab" status="verified" serial="CTR-P-AH8F"/>
 	</game>
 	<game name="Hotel Transylvania (USA)" id="1674" cloneofid="0305">
 		<description>Hotel Transylvania (USA)</description>
@@ -3594,7 +3594,7 @@
 	<game name="I Love My Pony (Europe) (En,Fr,De,Es,It,Nl)" id="1404">
 		<description>I Love My Pony (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000178B00</game_id>
-		<rom name="I Love My Pony (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="17eb258d" md5="2bd72f9b82ed9fc1e0f0fdc08e7dfaca" sha1="3b113894c8fc0760546ad427bf63ba86f41e7687" serial="CTR-P-ALNP"/>
+		<rom name="I Love My Pony (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="17eb258d" md5="2bd72f9b82ed9fc1e0f0fdc08e7dfaca" sha1="3b113894c8fc0760546ad427bf63ba86f41e7687" sha256="7d530d228d6e037cd8edb0979e66e7a847bdcf3560601200bcafe63c0de84205" status="verified" serial="CTR-P-ALNP"/>
 	</game>
 	<game name="Ice Age - Continental Drift - Arctic Games (USA) (En,Fr)" id="0467" cloneofid="0308">
 		<description>Ice Age - Continental Drift - Arctic Games (USA) (En,Fr)</description>
@@ -5459,7 +5459,7 @@
 	<game name="Mario Sports Superstars (Europe) (En,Fr,De,Es,It,Nl)" id="1661">
 		<description>Mario Sports Superstars (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000188D00</game_id>
-		<rom name="Mario Sports Superstars (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="6fcbb8a6" md5="c2ecd33d518732bc919af8821898e41b" sha1="e7ef7d2cef0c53b5cb6b448da8f883ef1a7adaca" status="verified" serial="CTR-P-AUNP"/>
+		<rom name="Mario Sports Superstars (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="6fcbb8a6" md5="c2ecd33d518732bc919af8821898e41b" sha1="e7ef7d2cef0c53b5cb6b448da8f883ef1a7adaca" sha256="4334d7ed18f72a8361c00f593fd476d0b4770a13ac72ed5c1e8d239994d00c18" status="verified" serial="CTR-P-AUNP"/>
 	</game>
 	<game name="Mario Sports Superstars (USA)" id="1680" cloneofid="1661">
 		<description>Mario Sports Superstars (USA)</description>
@@ -7005,7 +7005,7 @@
 	<game name="Petz Fantasy 3D (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)" id="1439" cloneofid="0327">
 		<description>Petz Fantasy 3D (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)</description>
 		<game_id>000400000004A300</game_id>
-		<rom name="Petz Fantasy 3D (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1).3ds" size="134217728" crc="6a2ef0f9" md5="14e543293c4c9cbd2c21ba4c32c3870d" sha1="2e9735b3fb540e55465dbe50f6c68229ea9726db" serial="CTR-P-APFP"/>
+		<rom name="Petz Fantasy 3D (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1).3ds" size="134217728" crc="6a2ef0f9" md5="14e543293c4c9cbd2c21ba4c32c3870d" sha1="2e9735b3fb540e55465dbe50f6c68229ea9726db" sha256="e2ac8fc765974a3e10cd83d8fc91a4206d1bbe9ee2e988c448c6a7c5911e28e4" status="verified" serial="CTR-P-APFP"/>
 	</game>
 	<game name="Petz Fantasy 3D (USA) (En,Fr,Es)" id="0129" cloneofid="0327">
 		<description>Petz Fantasy 3D (USA) (En,Fr,Es)</description>
@@ -7109,7 +7109,7 @@
 	<game name="Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)" id="0307">
 		<description>Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)</description>
 		<game_id>0004000000095600</game_id>
-		<rom name="Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).3ds" size="268435456" crc="d2cf8b25" md5="6027445e3b99a0138e365c7bbec1bc02" sha1="c59270d939c042db30631db483c47bde03f9ecfc" serial="CTR-P-APEP"/>
+		<rom name="Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi).3ds" size="268435456" crc="d2cf8b25" md5="6027445e3b99a0138e365c7bbec1bc02" sha1="c59270d939c042db30631db483c47bde03f9ecfc" sha256="c7e27ac801421de9dca37a52d6073c6864dddd526872d3e3f7e35337fa2a48cb" status="verified" serial="CTR-P-APEP"/>
 	</game>
 	<game name="Pocket Monsters Moon (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)" id="1604" cloneofid="1605">
 		<description>Pocket Monsters Moon (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)</description>
