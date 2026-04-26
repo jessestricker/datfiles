@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD32</name>
-		<description>Commodore - Amiga CD32 - Discs (206) (2026-04-03 19-35-02)</description>
-		<version>2026-04-03 19-35-02</version>
-		<date>2026-04-03 19-35-02</date>
+		<description>Commodore - Amiga CD32 - Discs (207) (2026-04-26 11-50-29)</description>
+		<version>2026-04-26 11-50-29</version>
+		<date>2026-04-26 11-50-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2585,5 +2585,11 @@
 		<rom name="Sleepwalker &amp; Pinball Fantasies (Europe) (Track 09).bin" size="46491984" crc="d91edb83" md5="7fad42eff8bd17f26b545232e214ead3" sha1="b9ba9fdacf8b0f1fd3fe66b0ef373470ab889dde"/>
 		<rom name="Sleepwalker &amp; Pinball Fantasies (Europe) (Track 10).bin" size="13909728" crc="a20de39b" md5="5a40b29718577f386486ee78168e4951" sha1="bc54ad96b935ba62e4f56cff4c9e49b3f98ef726"/>
 		<rom name="Sleepwalker &amp; Pinball Fantasies (Europe) (Track 11).bin" size="22964928" crc="f0dc0a32" md5="16a7e1f70837e18d68b4babd1c277bd4" sha1="276daf8ca295a66c58f80a720e390ffaef1ba299"/>
+	</game>
+	<game name="CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 17 (UK)">
+		<category>Coverdiscs</category>
+		<description>CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 17 (UK)</description>
+		<rom name="CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 17 (UK).cue" size="169" crc="e5f37417" md5="95042a73ab7dd6171f9a984e971dd4e1" sha1="a3dd16128f37ad964d4a64ff5136c898f1ed286d"/>
+		<rom name="CD32 Gamer - Playable Game Demos, Demos, Multimedia &amp; Shareware - Volume 17 (UK).bin" size="14097888" crc="2d2e027f" md5="24950f3833128f328d664ce7df2aaa42" sha1="71545e3bef81cd186ea3f2d8d52b5b529260824b"/>
 	</game>
 </datafile>

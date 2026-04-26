@@ -4,7 +4,7 @@
 		<id>57</id>
 		<name>Microsoft - Xbox 360 (Digital)</name>
 		<description>Microsoft - Xbox 360 (Digital)</description>
-		<version>20260415-053318</version>
+		<version>20260425-214551</version>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1204,6 +1204,11 @@
 		<description>Academy Trivia (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\52B8DAB67EC4DA029CD95F72EFAD0D88E352843758" size="21233664" crc="707167fb" md5="2c839538de2af34da7965fd30ac01b0d" sha1="0a3d9f615090329a1d32b569f54f7ba9e0b4cb16"/>
 	</game>
+	<game name="Ace Combat - Assault Horizon (World) (v5) (Title Update)" id="05715">
+		<description>Ace Combat - Assault Horizon (World) (v5) (Title Update)</description>
+		<game_id>3D527684</game_id>
+		<rom name="Cache\TU_174Q20S_000001S000000.000000000018F" size="1077248" crc="4d8292ed" md5="dcb2fed2849096952cecb8397135564f" sha1="e8198270a292cbfa7128f719c32a39c82423be24" sha256="a437a4ba10ccb25323f98167fa69a6c34a852d933ac22b14a11cbe317273b8fd"/>
+	</game>
 	<game name="Ace Combat - Assault Horizon - Downloadable Content 1 (World) (Addon)" id="03535">
 		<description>Ace Combat - Assault Horizon - Downloadable Content 1 (World) (Addon)</description>
 		<rom name="4E4D081C\00000002\861C3DD4E601E221864FBC736553CEDF0E2E16214E" size="2224128" crc="3172dfea" md5="5356364411f7c05739039feec9fcd849" sha1="91c6fb07a1d64ef76738ab328964c1b8edc5a94a"/>
@@ -1235,11 +1240,6 @@
 	<game name="Ace Combat - Assault Horizon - Downloadable Content 8 (World) (Addon)" id="03670">
 		<description>Ace Combat - Assault Horizon - Downloadable Content 8 (World) (Addon)</description>
 		<rom name="4E4D081C\00000002\4E9ADDE08BD287A22512BB7A58CFA43E41DEE1574E" size="44679168" crc="2bb29396" md5="fa5cc452f76aab8f7fcab3cc0571dcbc" sha1="8019ad72dabc56c61df3df766d8b3127e0476bac"/>
-	</game>
-	<game name="Ace Combat - Assault Horizon - TU 5 (World) (Addon)" id="05715">
-		<description>Ace Combat - Assault Horizon - TU 5 (World) (Addon)</description>
-		<game_id>3D527684</game_id>
-		<rom name="Cache\TU_174Q20S_000001S000000.000000000018F" size="1077248" crc="4d8292ed" md5="dcb2fed2849096952cecb8397135564f" sha1="e8198270a292cbfa7128f719c32a39c82423be24" sha256="a437a4ba10ccb25323f98167fa69a6c34a852d933ac22b14a11cbe317273b8fd"/>
 	</game>
 	<game name="Ace Combat 6 - Fires of Liberation - Ace of Aces Mission 01 Data (World) (Addon)" id="05683">
 		<description>Ace Combat 6 - Fires of Liberation - Ace of Aces Mission 01 Data (World) (Addon)</description>
@@ -2511,14 +2511,14 @@
 		<description>After Dusk (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\8D7B5333C19C24C794448F696E0F24878DDC2D4258" size="22011904" crc="f8c42664" md5="394b89bbe1101e1b3f9867a1af713a34" sha1="1895595f613c8cf967c658f3045d9ed317dd7f06"/>
 	</game>
+	<game name="Age of Booty (World) (v2) (Title Update)" id="05718">
+		<description>Age of Booty (World) (v2) (Title Update)</description>
+		<game_id>3DFF9E2C</game_id>
+		<rom name="Cache\TU_1C4227G_000010C000000.00000000000G3" size="2433024" crc="375d56f4" md5="d0ba0e09db0a8ed012cd7d258e28be86" sha1="3ee97a3b78aeb18d1543b3fb483ef8cbb1a3d8f6" sha256="d6b56cdfcb7ffd5300cd4ae3b99978f35f91cd80226a215661a64f6802479c25"/>
+	</game>
 	<game name="Age of Booty (World) (XBLA)" id="00049">
 		<description>Age of Booty (World) (XBLA)</description>
 		<rom name="584108F0\000D0000\0535080DABC965F769B2A3D192EDACE552CFF03B58" size="80666624" crc="d576b60b" md5="d51cda89101476672c51de937e8e81ae" sha1="4abe23dc16e323317fe30f003caa71dc41b08526"/>
-	</game>
-	<game name="Age of Booty - TU 2 (World) (Addon)" id="05718">
-		<description>Age of Booty - TU 2 (World) (Addon)</description>
-		<game_id>3DFF9E2C</game_id>
-		<rom name="Cache\TU_1C4227G_000010C000000.00000000000G3" size="2433024" crc="375d56f4" md5="d0ba0e09db0a8ed012cd7d258e28be86" sha1="3ee97a3b78aeb18d1543b3fb483ef8cbb1a3d8f6" sha256="d6b56cdfcb7ffd5300cd4ae3b99978f35f91cd80226a215661a64f6802479c25"/>
 	</game>
 	<game name="Age of Empires Online (World) (585808AB) (Addon)" id="06331">
 		<description>Age of Empires Online (World) (585808AB) (Addon)</description>
@@ -2560,13 +2560,13 @@
 		<description>Air Combat - Desert Aces (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\6572D645846B4372C884FA4B2D09A6F0B5C8856858" size="70950912" crc="fad4d2d9" md5="75c84f56f8eb7e81cce4227e8af724f1" sha1="1aa25067db1e878f13abf8f631cee747bc601ae2"/>
 	</game>
-	<game name="Air Conflicts - Pacific Carriers - TU 1 (World) (Addon)" id="05719">
-		<description>Air Conflicts - Pacific Carriers - TU 1 (World) (Addon)</description>
+	<game name="Air Conflicts - Pacific Carriers (World) (Title Update)" id="05719">
+		<description>Air Conflicts - Pacific Carriers (World) (Title Update)</description>
 		<game_id>480C18C4</game_id>
 		<rom name="Cache\TU_10J61UM_000000C000000.0000000000083" size="200704" crc="267c404b" md5="e6105707868a3aff836fbe7aa07f23f6" sha1="33ca377f9e9baeea30177a8392d9a640c79adeaa" sha256="97bb51a9002207ad3de5f064397e6e3e595d6b965636f7bb164c500c8e4589ac"/>
 	</game>
-	<game name="Air Conflicts - Vietnam - TU 1 (World) (Addon)" id="05720">
-		<description>Air Conflicts - Vietnam - TU 1 (World) (Addon)</description>
+	<game name="Air Conflicts - Vietnam (World) (Title Update)" id="05720">
+		<description>Air Conflicts - Vietnam (World) (Title Update)</description>
 		<game_id>23A274D0</game_id>
 		<rom name="Cache\TU_10J61UP_0000004000000.0000000000081" size="3514368" crc="eb237c12" md5="92808bd3b57f1c0530bb355cb3059657" sha1="f81cddd78e711ebfdb6e7bf14b7c06359f5fff65" sha256="03ee9838f30d71b059c6387feed504657caf66e68aaf6cb5737f3107087405d7"/>
 	</game>
@@ -2594,14 +2594,14 @@
 		<description>Aircraft RC (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\34F82B213FBEA8F81966FCCDE46FA36B1B69258E58" size="173600768" crc="47317d2c" md5="1adcbab02981202ba18b37a6d84ee314" sha1="1eafb45c691046b2a4627a1dcf7f4cc6d54fa2c5"/>
 	</game>
+	<game name="AirMech Arena (World) (Title Update)" id="05721">
+		<description>AirMech Arena (World) (Title Update)</description>
+		<game_id>74882678</game_id>
+		<rom name="58411426\000B0000\tu00000001_00000000" size="173613056" crc="a9ec7e3e" md5="06bb0d002660e9e9a3090e197f6bba7b" sha1="b8488e3e6429885bd2187df033fc70b858aea132" sha256="f119eb48c6eb068fe70c47c6a0af3f4d57d5a43ed8d9b6b60978cadd47ba5099"/>
+	</game>
 	<game name="AirMech Arena (World) (XBLA)" id="04621">
 		<description>AirMech Arena (World) (XBLA)</description>
 		<rom name="58411426\000D0000\6543C4543ED987F54DB0C2F59AFDD3F39FD7493E58" size="256053248" crc="402fee6d" md5="888e01084af2e5d3fd14609ee6adfd17" sha1="3bc78e4abb4a594849ded5afb4de01b882e02025"/>
-	</game>
-	<game name="AirMech Arena - TU 1 (World) (Addon)" id="05721">
-		<description>AirMech Arena - TU 1 (World) (Addon)</description>
-		<game_id>74882678</game_id>
-		<rom name="58411426\000B0000\tu00000001_00000000" size="173613056" crc="a9ec7e3e" md5="06bb0d002660e9e9a3090e197f6bba7b" sha1="b8488e3e6429885bd2187df033fc70b858aea132" sha256="f119eb48c6eb068fe70c47c6a0af3f4d57d5a43ed8d9b6b60978cadd47ba5099"/>
 	</game>
 	<game name="Airport Anarchy (World) (XBLIG)" id="11908">
 		<description>Airport Anarchy (World) (XBLIG)</description>
@@ -2881,6 +2881,11 @@
 		<rom name="5858086E\00009000\00000FFC8C075231CDE8791A5858086E" size="217088" crc="ab764410" md5="0201e01721722cb3617eec931575b3ed" sha1="3d814cd1c33928f04585bc81aff7edf6d992e62c"/>
 		<rom name="5858086E\00009000\00001000850CA2F3C58C85CD5858086E" size="221184" crc="e75afb58" md5="367beb5157e5b923d039ba9b325fcf41" sha1="6d310a4ddb256d2fb09d986043cbbc94bc6f44dc"/>
 	</game>
+	<game name="Aliens - Colonial Marines (World) (v6) (Title Update)" id="05723">
+		<description>Aliens - Colonial Marines (World) (v6) (Title Update)</description>
+		<game_id>4FB3C8B1</game_id>
+		<rom name="Cache\TU_19KA20C_000000C000000.00000000001G3" size="4632576" crc="426980e7" md5="f45bc6ecf6c500ad4648abb9515ccd25" sha1="9c3558d39a1c7b81815325b9fba86f269083b65b" sha256="319440e709daec0a75a9eba250131f12ad9a184615896e428120f368bfc7894b"/>
+	</game>
 	<game name="Aliens - Colonial Marines - Bug Hunt Mode (World) (Addon)" id="05668">
 		<description>Aliens - Colonial Marines - Bug Hunt Mode (World) (Addon)</description>
 		<rom name="5345080C\00000002\D8FD1C6B44D1796E049BC7B08C8429FF4B20977B53" size="188276736" crc="a509b153" md5="d75f71d1f0ca5eb799bf3e34620f59a7" sha1="284d9ff9abe78e37d05754d126cb21464c2978ab" sha256="0626385d85063b8ab1586f8b7d0ad2de8ea4d6d3e7e693208d1d3fcdc8158724"/>
@@ -2916,11 +2921,6 @@
 	<game name="Aliens - Colonial Marines - Stasis Interrupted (World) (Addon)" id="05666">
 		<description>Aliens - Colonial Marines - Stasis Interrupted (World) (Addon)</description>
 		<rom name="5345080C\00000002\A557497838BE82D0C9D2D782AD573BEF7CF8018653" size="2165297152" crc="f6ad9808" md5="3ec23f17cf18519379c054f1e2328427" sha1="ff3a56947cdeb4d2be679ace769d6e6745fdabf4" sha256="f2b44b8b8ad9c87420755f96852f7d8c81de2126d99ba23d586bc75c61c71b38"/>
-	</game>
-	<game name="Aliens - Colonial Marines - TU 6 (World) (Addon)" id="05723">
-		<description>Aliens - Colonial Marines - TU 6 (World) (Addon)</description>
-		<game_id>4FB3C8B1</game_id>
-		<rom name="Cache\TU_19KA20C_000000C000000.00000000001G3" size="4632576" crc="426980e7" md5="f45bc6ecf6c500ad4648abb9515ccd25" sha1="9c3558d39a1c7b81815325b9fba86f269083b65b" sha256="319440e709daec0a75a9eba250131f12ad9a184615896e428120f368bfc7894b"/>
 	</game>
 	<game name="Aliens Colonial Marines (World) (5345080C) (Addon)" id="06340">
 		<description>Aliens Colonial Marines (World) (5345080C) (Addon)</description>
@@ -3255,14 +3255,14 @@
 		<description>Amoeba Generator (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\972B5F46A99E7F69CC5EFD3206D9B52E8A794A8458" size="42332160" crc="5c5c69a0" md5="d6fad2574c1d09df608f98ede786f843" sha1="b4b9484f3f38c19ec63705255afe9dfcb9cf052e"/>
 	</game>
+	<game name="AMY (World) (Title Update)" id="05726">
+		<description>AMY (World) (Title Update)</description>
+		<game_id>33A2FFAC</game_id>
+		<rom name="Cache\TU_1C424H0_000000C000000.0000000000083" size="3551232" crc="e5bb5462" md5="70762c3cc284494b93d7d35132082b21" sha1="57d04d11e9c0f212c2e43a02023183ad7f97e278" sha256="1d9388d230691cfca512170ecf48b8fbc6f9463eb6734d177afcde2cef2a6d66"/>
+	</game>
 	<game name="Amy (World) (XBLA)" id="03621">
 		<description>Amy (World) (XBLA)</description>
 		<rom name="58411220\000D0000\07B787B427014AD62EEC51CDCFF1C38E7313D08158" size="1667481600" crc="c3e28e48" md5="428f7bc113cdd918b26736611090ccfe" sha1="16167774bf7d850d08091001ad716719936a94ac"/>
-	</game>
-	<game name="AMY - TU 1 (World) (Addon)" id="05726">
-		<description>AMY - TU 1 (World) (Addon)</description>
-		<game_id>33A2FFAC</game_id>
-		<rom name="Cache\TU_1C424H0_000000C000000.0000000000083" size="3551232" crc="e5bb5462" md5="70762c3cc284494b93d7d35132082b21" sha1="57d04d11e9c0f212c2e43a02023183ad7f97e278" sha256="1d9388d230691cfca512170ecf48b8fbc6f9463eb6734d177afcde2cef2a6d66"/>
 	</game>
 	<game name="Anarchy Reigns - Bayonetta Pack (World) (Addon)" id="05642">
 		<description>Anarchy Reigns - Bayonetta Pack (World) (Addon)</description>
@@ -3310,6 +3310,11 @@
 		<description>Ancient Trader (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\0658DB7098C58C5F62DBCE7975B605D340D628A958" size="101085184" crc="66788acf" md5="a5b7780fdd9e54c021dea2c165c76337" sha1="09413ee6cde07f0243ad2d9d9eee416f4e059c39"/>
 	</game>
+	<game name="Ancients of Ooga (World) (v2) (Title Update)" id="05727">
+		<description>Ancients of Ooga (World) (v2) (Title Update)</description>
+		<game_id>23844CDF</game_id>
+		<rom name="Cache\TU_1C422AU_0000104000000.00000000000G1" size="528384" crc="696daba1" md5="12cd4b172ed0a8f27ff0e34ffb4e2909" sha1="281188f688060776c0fa6c65ae6f2cce16060ccd" sha256="3164ad6d792b60cf5bad3e0cf8343e6bd66b4549fdfcbb671b1104242e75b49d"/>
+	</game>
 	<game name="Ancients of Ooga (World) (XBLA)" id="01161">
 		<description>Ancients of Ooga (World) (XBLA)</description>
 		<rom name="5841095E\000D0000\F4CDF5AAEC321884B39C59A778CF959ECCC45F8158" size="66412544" crc="3f87d3e8" md5="3778db80ae17498ca0b9b412e35e5d21" sha1="72ce0115d420a22d3d3c4b6e851af77cbf5703c6"/>
@@ -3317,11 +3322,6 @@
 	<game name="Ancients of Ooga - The Forgotten Chapters (World) (Addon)" id="04925">
 		<description>Ancients of Ooga - The Forgotten Chapters (World) (Addon)</description>
 		<rom name="5841095E\00000002\A24CA35E6CD35D7E8C9239685B229E60273FB67258" size="1261568" crc="dcf139e2" md5="df87d3835bf828c0744ca66e80ad4303" sha1="52a50f9ee95bfdc4cbc5f321b9c42ef537aa8e76"/>
-	</game>
-	<game name="Ancients of Ooga - TU 2 (World) (Addon)" id="05727">
-		<description>Ancients of Ooga - TU 2 (World) (Addon)</description>
-		<game_id>23844CDF</game_id>
-		<rom name="Cache\TU_1C422AU_0000104000000.00000000000G1" size="528384" crc="696daba1" md5="12cd4b172ed0a8f27ff0e34ffb4e2909" sha1="281188f688060776c0fa6c65ae6f2cce16060ccd" sha256="3164ad6d792b60cf5bad3e0cf8343e6bd66b4549fdfcbb671b1104242e75b49d"/>
 	</game>
 	<game name="Andromium (World) (XBLIG)" id="11960">
 		<description>Andromium (World) (XBLIG)</description>
@@ -3355,6 +3355,11 @@
 		<description>Angry Barry (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\BF49C07387FDE7BDD95A97AF9D1652188A04C4D058" size="110247936" crc="d97efabd" md5="bb237220441a34f9e9980feed572f803" sha1="49b041e022d77a7a13a76cd7e76b5f4336a0e01f"/>
 	</game>
+	<game name="Angry Birds Trilogy (World) (v2) (Title Update)" id="05728">
+		<description>Angry Birds Trilogy (World) (v2) (Title Update)</description>
+		<game_id>1A15DA04</game_id>
+		<rom name="Cache\TU_10LC274_0000008000000.00000000000G2" size="4104192" crc="9f0a705a" md5="2c57a8cf684bc0a23840fbd74e2e0155" sha1="20e00e11e8894a981f752aa10b331f4f106b9397" sha256="3fbe6b0fe89459708f55c0743ea5d3cc7cd1be73635bc94c0e41612ba9b59382"/>
+	</game>
 	<game name="Angry Birds Trilogy - Anger Management (World) (Addon)" id="04140">
 		<description>Angry Birds Trilogy - Anger Management (World) (Addon)</description>
 		<rom name="415608E4\00000002\C2182949630398901A867FF2368C26EAB40FB82341" size="40407040" crc="f6ad849d" md5="63a2db8c9cbf78116ee6638fdf853229" sha1="da7193e4f9e71cb8445a1684f4bad487e4394c40"/>
@@ -3362,11 +3367,6 @@
 	<game name="Angry Birds Trilogy - Fowl Tempered Pack (World) (Addon)" id="05598">
 		<description>Angry Birds Trilogy - Fowl Tempered Pack (World) (Addon)</description>
 		<rom name="415608E4\00000002\90055EFF8E23C2089DC82F835C46985B9ADCE86441" size="41357312" crc="2cc16b82" md5="cd2c2539b2db77f611d10e5a2a3c5178" sha1="02a45e290e113e1d99d6d2e2672404d01cb62c56" sha256="1dba242ec511ca7c39c70f6b3a5d75a41a38280480c892e463bb0aa45c761f25"/>
-	</game>
-	<game name="Angry Birds Trilogy - TU 2 (World) (Addon)" id="05728">
-		<description>Angry Birds Trilogy - TU 2 (World) (Addon)</description>
-		<game_id>1A15DA04</game_id>
-		<rom name="Cache\TU_10LC274_0000008000000.00000000000G2" size="4104192" crc="9f0a705a" md5="2c57a8cf684bc0a23840fbd74e2e0155" sha1="20e00e11e8894a981f752aa10b331f4f106b9397" sha256="3fbe6b0fe89459708f55c0743ea5d3cc7cd1be73635bc94c0e41612ba9b59382"/>
 	</game>
 	<game name="Angry Blocks (World) (XBLIG)" id="11967">
 		<description>Angry Blocks (World) (XBLIG)</description>
@@ -3857,14 +3857,14 @@
 		<description>AppPack 3 (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\1B33440D2852EE1A8A93DDBA83DE224C175C9F3B58" size="89878528" crc="db9989d8" md5="c602f34751f1867102589559abbb98d4" sha1="1c4a0e95d517e65819ce49b5f7624480d186358d"/>
 	</game>
+	<game name="Aqua (World) (v2) (Title Update)" id="05729">
+		<description>Aqua (World) (v2) (Title Update)</description>
+		<game_id>0BC346A4</game_id>
+		<rom name="Cache\TU_1C422E5_0000104000000.00000000000G1" size="1060864" crc="31a33083" md5="9d758edf9dd76e4d54eff418dc3b43f6" sha1="39e58fd3f193e951913ecd093d6487786e7455a0" sha256="6aec1081fe64922a644f2deabb39db357a5fa61f09b9e64b6a0d52f77cee00b6"/>
+	</game>
 	<game name="Aqua (World) (XBLA)" id="01078">
 		<description>Aqua (World) (XBLA)</description>
 		<rom name="584109C5\000D0000\DC36B9F394F2C376D519233C7E2EFE88B3E141E158" size="396267520" crc="cc22d004" md5="0e85397d77e1de5ce2c28b685d03e6e5" sha1="ed0093c357d34f28d0b4efa24c6c289191a13e23"/>
-	</game>
-	<game name="Aqua - TU 2 (World) (Addon)" id="05729">
-		<description>Aqua - TU 2 (World) (Addon)</description>
-		<game_id>0BC346A4</game_id>
-		<rom name="Cache\TU_1C422E5_0000104000000.00000000000G1" size="1060864" crc="31a33083" md5="9d758edf9dd76e4d54eff418dc3b43f6" sha1="39e58fd3f193e951913ecd093d6487786e7455a0" sha256="6aec1081fe64922a644f2deabb39db357a5fa61f09b9e64b6a0d52f77cee00b6"/>
 	</game>
 	<game name="Aqua Kitty (World) (XBLIG)" id="12000">
 		<description>Aqua Kitty (World) (XBLIG)</description>
@@ -4084,6 +4084,11 @@
 		<description>Armored Core - For Answer - Regulations Data v1.40 (World) (Addon)</description>
 		<rom name="465307DA\00000001\REGULAT0000" size="307200" crc="cbc2697a" md5="54ac53fc97db02a81e22804338137374" sha1="db57c5d3410bd02395dfb67f37aee20d055e5976" sha256="63819966748ef31cf7872b7d2cdde19340776670c315db474cbe4abf03f0c902"/>
 	</game>
+	<game name="Armored Core - Verdict Day (World) (Title Update)" id="05731">
+		<description>Armored Core - Verdict Day (World) (Title Update)</description>
+		<game_id>1307F51A</game_id>
+		<rom name="4E4D0864\000B0000\tu00000001_00000000" size="5136384" crc="4bebdfa2" md5="0d4ce6f05a6c78768619efe6128e1ee8" sha1="45ca8b0ae08cb5ed000dfa77a7c3e9b11c1f86db" sha256="b22edd548ae8e402012525a9b2c2b88901d83c3d61f7804e14d7fb9c709960b2"/>
+	</game>
 	<game name="Armored Core - Verdict Day - Alternate Music Set (World) (Addon)" id="05609">
 		<description>Armored Core - Verdict Day - Alternate Music Set (World) (Addon)</description>
 		<rom name="4E4D0864\00000002\FD8A103A1CE608395ECC7B7CB82A3D3CFB5DCA254E" size="229109760" crc="69028aac" md5="45cd52ccaf9581be25e17df39ba24204" sha1="d2ac66db861cb68b7284264a5ea51687b6400424" sha256="bd3868f04ba911fb9376ac2840a997d377c8079d463ac8d8347d25e864e95070"/>
@@ -4096,19 +4101,14 @@
 		<description>Armored Core - Verdict Day - Repainted Parts Complete Set (World) (Addon)</description>
 		<rom name="4E4D0864\00000002\2BA636B25C1CEBA3727795A27A6CDD11061FE2764E" size="114688" crc="5d8468e7" md5="0e583eb229c6c12e6efa7b40bc5b4f84" sha1="869d1bbe4573885cd37dbf5c4d3cab656cb2c21e" sha256="9031794a6f3aa0419145c727f1620bfa5a2fbb06364b18701594fbd551958de4"/>
 	</game>
-	<game name="Armored Core - Verdict Day - TU 1 (World) (Addon)" id="05731">
-		<description>Armored Core - Verdict Day - TU 1 (World) (Addon)</description>
-		<game_id>1307F51A</game_id>
-		<rom name="4E4D0864\000B0000\tu00000001_00000000" size="5136384" crc="4bebdfa2" md5="0d4ce6f05a6c78768619efe6128e1ee8" sha1="45ca8b0ae08cb5ed000dfa77a7c3e9b11c1f86db" sha256="b22edd548ae8e402012525a9b2c2b88901d83c3d61f7804e14d7fb9c709960b2"/>
+	<game name="Armored Core V (World) (Title Update)" id="05730">
+		<description>Armored Core V (World) (Title Update)</description>
+		<game_id>42AE64E3</game_id>
+		<rom name="Cache\TU_174Q22J_000000C000000.0000000000083" size="2371584" crc="c9608375" md5="26c1316ecfa83d7b0f55e7b133f3696c" sha1="dada557a668ea315dbfa9d695411d74d23d93605" sha256="80d236d81cb5c2b1677bc876794379f4503a56c6f7451eb0dbe6391c65dfa390"/>
 	</game>
 	<game name="Armored Core V - Compatibility Pack (World) (Addon)" id="05606">
 		<description>Armored Core V - Compatibility Pack (World) (Addon)</description>
 		<rom name="4E4D0853\00000002\93BFC785ABE584A79E01967695FC56FC995788C44E" size="717402112" crc="0822fe92" md5="a235fc0691c57394693a6168e2c7ed38" sha1="0f4913b6656c1a5b497186a6270e8412c0f53ca1" sha256="aa9bafae689e0a41eb7568d3a70bc95b1132f97c49344f9bdaea1d2f8a86e467"/>
-	</game>
-	<game name="Armored Core V - TU 1 (World) (Addon)" id="05730">
-		<description>Armored Core V - TU 1 (World) (Addon)</description>
-		<game_id>42AE64E3</game_id>
-		<rom name="Cache\TU_174Q22J_000000C000000.0000000000083" size="2371584" crc="c9608375" md5="26c1316ecfa83d7b0f55e7b133f3696c" sha1="dada557a668ea315dbfa9d695411d74d23d93605" sha256="80d236d81cb5c2b1677bc876794379f4503a56c6f7451eb0dbe6391c65dfa390"/>
 	</game>
 	<game name="Armoured Tank (World) (5858089F) (Addon)" id="06465">
 		<description>Armoured Tank (World) (5858089F) (Addon)</description>
@@ -4126,6 +4126,11 @@
 		<description>Army of Two - 40th Day - Chapters of Deceit (World) (Addon)</description>
 		<rom name="454108D8\00000002\A7BCA783A617B312AE4752355B17C31A047B023A45" size="518672384" crc="5de6168e" md5="5292a2e2bc433b6d529e798327471eb1" sha1="5d3ff958205c9834fa5a87739627f621b5a91920"/>
 	</game>
+	<game name="Army of Two - The Devil's Cartel (World) (Title Update)" id="05732">
+		<description>Army of Two - The Devil's Cartel (World) (Title Update)</description>
+		<game_id>60F8EF51</game_id>
+		<rom name="Cache\TU_12K22DB_000001C000000.000000000008B" size="3170304" crc="1748bc1e" md5="2447217a9f3bac4db0da5aaca1771475" sha1="0deff4a96c60e1f17be415eb0f80fc5f210025a1" sha256="9e9541f5bcd4af0b247266ba1deb5620290dcf4d5fedf7c27513df41fd2457ca"/>
+	</game>
 	<game name="Army of Two - The Devil's Cartel - (World) (Addon)" id="05635">
 		<description>Army of Two - The Devil's Cartel - (World) (Addon)</description>
 		<rom name="454109AB\00000002\8BBB0270061C248F30443C9885CB502300E2C03D45" size="57344" crc="5c974ecc" md5="1f0481bb459e99e8f332213f90e78d3f" sha1="23d0f725504c7ea1365a7ee45c8f94bbaa6e6a9c" sha256="010be4d4f75594994d975a33b823fdf339de26f60b8a2eba1d8eb67c3970264b"/>
@@ -4133,11 +4138,6 @@
 	<game name="Army of Two - The Devil's Cartel - Online Pass &amp; Overkill Edition (World) (Addon)" id="05636">
 		<description>Army of Two - The Devil's Cartel - Online Pass &amp; Overkill Edition (World) (Addon)</description>
 		<rom name="454109AB\00000002\9DDFDADC8879D83BEE746E3C54945866E095576745" size="57344" crc="93a1a28d" md5="ecc760d9d82492f181b5ad81f785b78d" sha1="46e973421ccefe7ef99a37e7f92ec3fa1350d166" sha256="e3e245cc21ea4afe2b87cc47fe455846e01ebfcf11032bb5a8cac578cc061e69"/>
-	</game>
-	<game name="Army of Two - The Devil's Cartel - TU 1 (World) (Addon)" id="05732">
-		<description>Army of Two - The Devil's Cartel - TU 1 (World) (Addon)</description>
-		<game_id>60F8EF51</game_id>
-		<rom name="Cache\TU_12K22DB_000001C000000.000000000008B" size="3170304" crc="1748bc1e" md5="2447217a9f3bac4db0da5aaca1771475" sha1="0deff4a96c60e1f17be415eb0f80fc5f210025a1" sha256="9e9541f5bcd4af0b247266ba1deb5620290dcf4d5fedf7c27513df41fd2457ca"/>
 	</game>
 	<game name="Army of Two - Versus Mode Pack 1 (World) (Addon)" id="05634">
 		<description>Army of Two - Versus Mode Pack 1 (World) (Addon)</description>
@@ -4268,14 +4268,14 @@
 		<description>As Easy as 123 BlackJack (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\976F56EC90B7A391961FF0936ADFD593D8BECD4558" size="5697536" crc="7bb533de" md5="6b45c8d1cc756aaa038d0f918fff0221" sha1="3cc57d954fe4419f779b8818f30ef34be835608a"/>
 	</game>
+	<game name="Ascend - Hand of Kul (World) (v5) (Title Update)" id="05733">
+		<description>Ascend - Hand of Kul (World) (v5) (Title Update)</description>
+		<game_id>40899432</game_id>
+		<rom name="58410B65\000B0000\tu00000001_00000000" size="143802368" crc="19fdd6c1" md5="323ec8f2f2feaf609ed41b82ffd3b742" sha1="0604b3f27e8dd0f3d3475dc36319454ddcc313dc" sha256="e1be3934ec195866aeed0c18025356e492c27096e8c1d57d3df3660fbc99b33a"/>
+	</game>
 	<game name="Ascend - Hand of Kul (World) (XBLA)" id="04643">
 		<description>Ascend - Hand of Kul (World) (XBLA)</description>
 		<rom name="58410B65\000D0000\D2937757467F0ADB5B621BB6AD84B589891782A558" size="2179022848" crc="6621d673" md5="845bc9dd51f58e0cd2b82841495a2633" sha1="db8f3923b671e9c3e6d8b0456defec3abe37f9f3"/>
-	</game>
-	<game name="Ascend - Hand of Kul - TU 5 (World) (Addon)" id="05733">
-		<description>Ascend - Hand of Kul - TU 5 (World) (Addon)</description>
-		<game_id>40899432</game_id>
-		<rom name="58410B65\000B0000\tu00000001_00000000" size="143802368" crc="19fdd6c1" md5="323ec8f2f2feaf609ed41b82ffd3b742" sha1="0604b3f27e8dd0f3d3475dc36319454ddcc313dc" sha256="e1be3934ec195866aeed0c18025356e492c27096e8c1d57d3df3660fbc99b33a"/>
 	</game>
 	<game name="Ascension (World) (XBLIG)" id="12034">
 		<description>Ascension (World) (XBLIG)</description>
@@ -4341,6 +4341,11 @@
 		<description>Assassin's Creed - Liberation HD (World) (XBLA)</description>
 		<rom name="584113FC\000D0000\F6C1A31CC8D967315ECC5DD93D965252552CFDA858" size="1882390528" crc="6794f601" md5="1f13ddd2a8a9451312a90dcdb53ab288" sha1="35c9a30417c44301ef1dc169c905a07d211440e4"/>
 	</game>
+	<game name="Assassin's Creed - Revelations (World) (v5) (Title Update)" id="05737">
+		<description>Assassin's Creed - Revelations (World) (v5) (Title Update)</description>
+		<game_id>52F94282</game_id>
+		<rom name="55530879\000B0000\tu00000002_00000000" size="12333056" crc="8f80b5bc" md5="eac29c4ec6960f5bac5d43534b73406e" sha1="1f19737d493014fc2f503ec16ab62168c056a384" sha256="d6e8a7b6b4694f872bbfbb28cb121408da445a5e9ccf705ad1713be834faacba"/>
+	</game>
 	<game name="Assassin's Creed - Revelations - Mediterranean Traveler Map Pack (World) (Addon)" id="05707">
 		<description>Assassin's Creed - Revelations - Mediterranean Traveler Map Pack (World) (Addon)</description>
 		<rom name="55530879\00000002\ED17012638113A3DBD5DA2EB0700DB8F364BA4D855" size="608657408" crc="1a982b52" md5="41e9a1334c133250f4b7626d766ddead" sha1="caf02b037a70d4b16eb6751fa5a07ad67127092a" sha256="937a248528e8eea914df3c0033718d03befc326f20a1520dd6d59ab40ec9e9ec"/>
@@ -4352,11 +4357,6 @@
 	<game name="Assassin's Creed - Revelations - The Lost Archive (World) (Addon)" id="03660">
 		<description>Assassin's Creed - Revelations - The Lost Archive (World) (Addon)</description>
 		<rom name="55530879\00000002\6837A849D739033C24022C40D2CDEE8F5E51B7A955" size="607768576" crc="57cc9934" md5="2fa2f80bdfc5b51103e7afc601c93099" sha1="d7bdc1bbf3318aca422385a40ab82deb87b6d95e"/>
-	</game>
-	<game name="Assassin's Creed - Revelations - TU 5 (World) (Addon)" id="05737">
-		<description>Assassin's Creed - Revelations - TU 5 (World) (Addon)</description>
-		<game_id>52F94282</game_id>
-		<rom name="55530879\000B0000\tu00000002_00000000" size="12333056" crc="8f80b5bc" md5="eac29c4ec6960f5bac5d43534b73406e" sha1="1f19737d493014fc2f503ec16ab62168c056a384" sha256="d6e8a7b6b4694f872bbfbb28cb121408da445a5e9ccf705ad1713be834faacba"/>
 	</game>
 	<game name="Assassin's Creed - Revelations - Uplay Rewards (World) (Addon)" id="05705">
 		<description>Assassin's Creed - Revelations - Uplay Rewards (World) (Addon)</description>
@@ -4451,6 +4451,11 @@
 		<description>Assassin's Creed II - Uplay Rewards (World) (Addon)</description>
 		<rom name="5553083B.gpd" size="611443" crc="6240f8cd" md5="b8eeb244181c7032242d4708494bf6c0" sha1="8a8bc672b4c3af5b0abf31dcafdc8c24576c9c2d" sha256="50d091640f607d0026be0ff238cd6c0218bb83744f349a5b4015a212d007df23"/>
 	</game>
+	<game name="Assassin's Creed III (World) (v8) (Title Update)" id="05734">
+		<description>Assassin's Creed III (World) (v8) (Title Update)</description>
+		<game_id>3E4B911D</game_id>
+		<rom name="555308AE\000B0000\tu00000001_00000000" size="10993664" crc="fa1b74dd" md5="7fdc86ab1a1016ad013b07cce1f50dde" sha1="7cef5cbf13239426fb023e4661171db48c691d2c" sha256="a4929023ea17b4e47cb886cb4b2cddb55a0c0bf017bc83e278caa02a70916c0d"/>
+	</game>
 	<game name="Assassin's Creed III (World) (555308AE) (Addon)" id="06483">
 		<description>Assassin's Creed III (World) (555308AE) (Addon)</description>
 		<rom name="555308AE\00009000\00000008CADA32E2C1206088555308AE" size="98304" crc="4328fedf" md5="266ea83ceb2304af63d01a02778a1e27" sha1="cd3148bbb8370e103c9b1c2d5c3cef58fda167c5"/>
@@ -4498,11 +4503,6 @@
 		<description>Assassin's Creed III - The Tyranny of King Washington - The Redemption (World) (Addon)</description>
 		<rom name="555308AE\00000002\9269191258FB54973EEAAA2422D9E27E1E356CE955" size="1570992128" crc="dae31a4d" md5="a095e0248ce6b046f5864072e02801c0" sha1="86f3b307ee65a893287eacc69f63991893e3ca36" sha256="2fae3101cc4ecc71227a3308347bf3c271205529bf15e64654fd9f1b7525f4ea"/>
 	</game>
-	<game name="Assassin's Creed III - TU 8 (World) (Addon)" id="05734">
-		<description>Assassin's Creed III - TU 8 (World) (Addon)</description>
-		<game_id>3E4B911D</game_id>
-		<rom name="555308AE\000B0000\tu00000001_00000000" size="10993664" crc="fa1b74dd" md5="7fdc86ab1a1016ad013b07cce1f50dde" sha1="7cef5cbf13239426fb023e4661171db48c691d2c" sha256="a4929023ea17b4e47cb886cb4b2cddb55a0c0bf017bc83e278caa02a70916c0d"/>
-	</game>
 	<game name="Assassin's Creed III - Uplay Passport (World) (Addon)" id="05646">
 		<description>Assassin's Creed III - Uplay Passport (World) (Addon)</description>
 		<rom name="555308AE\00000002\08FB5E614B6BB60A625B13D2712D4307DF32A5D855" size="57344" crc="219b3b65" md5="e2db011a7287d06ddd33a08974b269eb" sha1="0237b52c4876ac993c7cb352d1cf1497a15969ba" sha256="d637e80738eafa177bc82af34b5400e7f919685582e2654cbe8dcf31e8c11cc7"/>
@@ -4510,6 +4510,11 @@
 	<game name="Assassin's Creed III - Uplay Rewards (World) (Addon)" id="05648">
 		<description>Assassin's Creed III - Uplay Rewards (World) (Addon)</description>
 		<rom name="555308AE.gpd" size="86740" crc="b24e356a" md5="c297cd1687e61d2970a45f63af3bf69b" sha1="548a764a4cb3e2692cb4a051c55256eb9a628f0d" sha256="db1ecd2fc6b4053d967d20187869089a851724f141b348aaa4e6466dca8b267d"/>
+	</game>
+	<game name="Assassin's Creed IV - Black Flag (World) (v4) (Title Update)" id="05735">
+		<description>Assassin's Creed IV - Black Flag (World) (v4) (Title Update)</description>
+		<game_id>68EC85BF</game_id>
+		<rom name="555308C2\000B0000\tu00000001_00000000" size="15691776" crc="e1cca021" md5="ab3727dc9ac040e364e413c87b5a15e2" sha1="6baa55ac828079bbdd5dc271d260db363f638dad" sha256="1c100e50030472b2ce9e83648253f40f664bf4c1ac2b2257a41f2846c6de4bda"/>
 	</game>
 	<game name="Assassin's Creed IV - Black Flag - Activities Pack (World) (Addon)" id="05671">
 		<description>Assassin's Creed IV - Black Flag - Activities Pack (World) (Addon)</description>
@@ -4562,11 +4567,6 @@
 	<game name="Assassin's Creed IV - Black Flag - Technology Pack (World) (Addon)" id="05676">
 		<description>Assassin's Creed IV - Black Flag - Technology Pack (World) (Addon)</description>
 		<rom name="555308C2\00000002\66ED1BD47BFBE9C5C951C25BA6CBB7B95FBD5F8E55" size="2031616" crc="1536bb10" md5="d0166e7a6f95d6291e99791c8b185def" sha1="80ebf804b94c711b62c2fb74abebe80a9cbf3e83" sha256="105e078c838e6158ae282d71e4511cd79b8fb61cd5c54f10d0bd324968f79107"/>
-	</game>
-	<game name="Assassin's Creed IV - Black Flag - TU 4 (World) (Addon)" id="05735">
-		<description>Assassin's Creed IV - Black Flag - TU 4 (World) (Addon)</description>
-		<game_id>68EC85BF</game_id>
-		<rom name="555308C2\000B0000\tu00000001_00000000" size="15691776" crc="e1cca021" md5="ab3727dc9ac040e364e413c87b5a15e2" sha1="6baa55ac828079bbdd5dc271d260db363f638dad" sha256="1c100e50030472b2ce9e83648253f40f664bf4c1ac2b2257a41f2846c6de4bda"/>
 	</game>
 	<game name="Assassin's Creed IV - Black Flag - Uplay Passport (World) (Addon)" id="05678">
 		<description>Assassin's Creed IV - Black Flag - Uplay Passport (World) (Addon)</description>
@@ -4635,6 +4635,11 @@
 		<rom name="55530879\00009000\00001000DBA8F2A3C8D1D42455530879" size="237568" crc="8a7c42dc" md5="66f4445b4a476701fdc9182d512a4a60" sha1="4d2a2761b01b55ac71a1927eaa11265306471375"/>
 		<rom name="55530879\00009000\00001000DCC1A2F3C45799CE55530879" size="270336" crc="a0ad1e28" md5="1f780679d951e147874da403f9fe90fb" sha1="bd1bf7a2d26bbd1670953fe7eaa5969050cfe083"/>
 	</game>
+	<game name="Assassin's Creed Rogue (World) (Title Update)" id="05736">
+		<description>Assassin's Creed Rogue (World) (Title Update)</description>
+		<game_id>08BFBC34</game_id>
+		<rom name="555308CE\000B0000\tu00000001_00000000" size="6991872" crc="debd6863" md5="97e9f6aefdae8da2dc516b6c5ebd564b" sha1="534a9b2f33c064fc476e63b77aaf02758396837c" sha256="de8b4d8f87bd0ffaba7844096a73c4df4708625a1c25eade63092b5bc0c6b5ca"/>
+	</game>
 	<game name="Assassin's Creed Rogue - Activities Pack (World) (Addon)" id="05622">
 		<description>Assassin's Creed Rogue - Activities Pack (World) (Addon)</description>
 		<rom name="555308CE\00000002\6961A3FFD030CB236896D4F39EC2C1FBCE6123EE55" size="2031616" crc="afe0fdfa" md5="7964bde7d17093c65b12ea8d4e6fb032" sha1="7a6d71812e1fa3f6e7bee514f3670cce5923cf8c"/>
@@ -4674,11 +4679,6 @@
 	<game name="Assassin's Creed Rogue - The Templar Legacy Pack (World) (Addon)" id="05627">
 		<description>Assassin's Creed Rogue - The Templar Legacy Pack (World) (Addon)</description>
 		<rom name="555308CE\00000002\BF1B17B33ABCD019CB0CBE5AEED4BB2AFC6B96C555" size="2031616" crc="cb2a84ab" md5="c8a6ea26f4188be92e3b469659f4578a" sha1="0c9fcf1359b37a40f824287102b90469add05295"/>
-	</game>
-	<game name="Assassin's Creed Rogue - TU 1 (World) (Addon)" id="05736">
-		<description>Assassin's Creed Rogue - TU 1 (World) (Addon)</description>
-		<game_id>08BFBC34</game_id>
-		<rom name="555308CE\000B0000\tu00000001_00000000" size="6991872" crc="debd6863" md5="97e9f6aefdae8da2dc516b6c5ebd564b" sha1="534a9b2f33c064fc476e63b77aaf02758396837c" sha256="de8b4d8f87bd0ffaba7844096a73c4df4708625a1c25eade63092b5bc0c6b5ca"/>
 	</game>
 	<game name="Assassin's Creed Rogue - ULC Pack (World) (Addon)" id="05626">
 		<description>Assassin's Creed Rogue - ULC Pack (World) (Addon)</description>
@@ -4811,6 +4811,11 @@
 		<description>AstroPuzz (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\5D738818ABE4C0ABBC0C91DA01E692FD36F68A6858" size="7606272" crc="3f0d9c94" md5="9cba01e38ed96126f9fc9cf320c66f6b" sha1="d5e83ee255001cdde8b3095b991bd6ee691c0964"/>
 	</game>
+	<game name="Asura's Wrath (World) (Title Update)" id="05738">
+		<description>Asura's Wrath (World) (Title Update)</description>
+		<game_id>11DFADD6</game_id>
+		<rom name="Cache\TU_11K620N_000000K000000.0000000000085" size="626688" crc="ad753460" md5="f2b761e5eca86a0fe192ace09ee0774b" sha1="032264ca39461877dfeecc15bccfa33678c1a18a" sha256="b918efcd51ffc39b73233896dbb7cb6a67f4290a80985901bd5471196f2585f5"/>
+	</game>
 	<game name="Asura's Wrath - Episode 11.5 (World) (Addon)" id="05709">
 		<description>Asura's Wrath - Episode 11.5 (World) (Addon)</description>
 		<rom name="43430817\00000002\8A6811EC2255FE171FAF9E4372B23B1B0581E4CA43" size="1163853824" crc="2793a9b9" md5="c0e7f31101a5d7e8345fd5266ec66ce3" sha1="bc45a04b8c39cdfa217714bc0ddaa7e7ae1ada04" sha256="bcc723c932d8fdb5e2ec601f00cc480955297d91fb643d75092cf1a702e30346"/>
@@ -4830,11 +4835,6 @@
 	<game name="Asura's Wrath - Lost Episode 2 (World) (Addon)" id="04349">
 		<description>Asura's Wrath - Lost Episode 2 (World) (Addon)</description>
 		<rom name="43430817\00000002\F56F8734F04D89EAB07E9003A7F48DE046DA57B743" size="251736064" crc="e4045033" md5="196e3d53677f951e4f37dd36968be52b" sha1="fff1003e272700ebb2d18c8e370cda612d6ff6ee"/>
-	</game>
-	<game name="Asura's Wrath - TU 1 (World) (Addon)" id="05738">
-		<description>Asura's Wrath - TU 1 (World) (Addon)</description>
-		<game_id>11DFADD6</game_id>
-		<rom name="Cache\TU_11K620N_000000K000000.0000000000085" size="626688" crc="ad753460" md5="f2b761e5eca86a0fe192ace09ee0774b" sha1="032264ca39461877dfeecc15bccfa33678c1a18a" sha256="b918efcd51ffc39b73233896dbb7cb6a67f4290a80985901bd5471196f2585f5"/>
 	</game>
 	<game name="Asylum (World) (XBLIG)" id="12062">
 		<description>Asylum (World) (XBLIG)</description>
@@ -6513,13 +6513,13 @@
 		<description>Awesome Tank (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\9DBD76DEE5BB09DD6D6F526FF34A26F1E699913058" size="46727168" crc="fda74c85" md5="c6aa7861f771b9bb229305cbca24df27" sha1="90ec21e2c0c45163c5ce89666742aec7bbe7c4bf"/>
 	</game>
-	<game name="Awesomenauts (World) (XBLA)" id="03708">
-		<description>Awesomenauts (World) (XBLA)</description>
-		<rom name="58410B5A\000D0000\BDFC6EB6DBD43F1D5EB9564520C044B971DCB7AB58" size="566284288" crc="176c0eff" md5="9ae9ee17b2a6e663282ccc64420513a6" sha1="f926eaceda8fa3534c93202f8e603ebe2dcfa388"/>
-	</game>
 	<game name="Awesomenauts (World) (v1) (Title Update)" id="05333">
 		<description>Awesomenauts (World) (v1) (Title Update)</description>
 		<rom name="58410B5A\000B0000\55CD8167D6D2E31B142A27796F451E86D5F9285B58" size="3907584" crc="a44cd7dd" md5="fdcaa5920d7f4fd508284138c89da4db" sha1="7eebf823eed50c32f15ba5515fb4b29f1e7b7aa6"/>
+	</game>
+	<game name="Awesomenauts (World) (XBLA)" id="03708">
+		<description>Awesomenauts (World) (XBLA)</description>
+		<rom name="58410B5A\000D0000\BDFC6EB6DBD43F1D5EB9564520C044B971DCB7AB58" size="566284288" crc="176c0eff" md5="9ae9ee17b2a6e663282ccc64420513a6" sha1="f926eaceda8fa3534c93202f8e603ebe2dcfa388"/>
 	</game>
 	<game name="AXBY (World) (XBLIG)" id="12254">
 		<description>AXBY (World) (XBLIG)</description>
@@ -6786,6 +6786,11 @@
 		<description>Band of Bugs (World) (XBLA)</description>
 		<rom name="5841082F\000D0000\D2FB9623314B3C4BA577BF8244FAB6436691E3E158" size="35442688" crc="28de2723" md5="750bf708df5ebc6fd5d7bf0f2a38b530" sha1="b4478abc11bb636c3ecdf7566ce8097fa7ffda26"/>
 	</game>
+	<game name="Band of Bugs (World) (v3) (Title Update)" id="05740">
+		<description>Band of Bugs (World) (v3) (Title Update)</description>
+		<game_id>793BB661</game_id>
+		<rom name="Cache\TU_1C4221F_000010G000000.00000000000O4" size="4042752" crc="bd829f56" md5="b30ea33f6aa8addefbd4bc0493131a05" sha1="5895ef6ded91c25abb6a97db3d8bdf0a02491e26" sha256="94a727f0f4efbc631b30915ae809d7ad9dd6618ffe370f78cdc30b3363b6f204"/>
+	</game>
 	<game name="Band of Bugs - Map Pack 1 (World) (Addon)" id="04929">
 		<description>Band of Bugs - Map Pack 1 (World) (Addon)</description>
 		<rom name="5841082F\00000002\8D0E1782949BC44BA1FC311A13391DCB264CDC0358" size="167936" crc="f35c5157" md5="27e42b98dd8f4e4d1e655d97fcca784e" sha1="4165eb83da2ce6f939ca6f5c9dd74312c2dc153d"/>
@@ -6810,14 +6815,14 @@
 		<description>Band of Bugs - Tales of Kaloki (World) (Addon)</description>
 		<rom name="5841082F\00000002\1BFA4FD1FBBD9881DFDBC4085C9B0F101998DCE358" size="24592384" crc="3e147c0d" md5="cca2744873d6d384c408fd34c783b1ea" sha1="d11ba250b941aff5fc04726b5333c564e6738758"/>
 	</game>
-	<game name="Band of Bugs - TU 3 (World) (Addon)" id="05740">
-		<description>Band of Bugs - TU 3 (World) (Addon)</description>
-		<game_id>793BB661</game_id>
-		<rom name="Cache\TU_1C4221F_000010G000000.00000000000O4" size="4042752" crc="bd829f56" md5="b30ea33f6aa8addefbd4bc0493131a05" sha1="5895ef6ded91c25abb6a97db3d8bdf0a02491e26" sha256="94a727f0f4efbc631b30915ae809d7ad9dd6618ffe370f78cdc30b3363b6f204"/>
-	</game>
 	<game name="Bandana Fro (World) (413607F6) (Addon)" id="06531">
 		<description>Bandana Fro (World) (413607F6) (Addon)</description>
 		<rom name="413607F6\00009000\00000544E3CDE2B3CD00157C413607F6" size="122880" crc="be217b1a" md5="345f321202b3c20c8e28c67ae80f0c4d" sha1="4b011b83305be9cb3e6130af34319a6b5694e87a"/>
+	</game>
+	<game name="Bandfuse - Rock Legends (World) (Title Update)" id="05950">
+		<description>Bandfuse - Rock Legends (World) (Title Update)</description>
+		<game_id>3BB01027</game_id>
+		<rom name="4D4607D3\000B0000\tu00000001_00000000" size="19984384" crc="40f77e9c" md5="e22a782aeed080bab3d1373d309da899" sha1="edbd90ec2ae7f3720cb5d0229420e325c5546ffa" sha256="c22827bf86e5615775e4f31937590706dc94b33be63f063dd49a15106418c0e2"/>
 	</game>
 	<game name="Bandfuse - Rock Legends - All I Want - The Offspring (World) (Addon)" id="05943">
 		<description>Bandfuse - Rock Legends - All I Want - The Offspring (World) (Addon)</description>
@@ -6899,11 +6904,6 @@
 		<description>Bandfuse - Rock Legends - The Downfall Of Us All - A Day To Remember (World) (Addon)</description>
 		<rom name="4D4607D3\00000002\46AFF42A97C446D345E20DBAE09DACBC106FFBAE4D" size="57892864" crc="681b2bc4" md5="559b3d55bd62926d8d7e9b528e28ccd5" sha1="5762a487fb8d9e07d67439493b3ce08b8e0b50b1" sha256="9bf24777b1e900533c43c5a9a00552b3430e4bfc57a939f0e3690eeceb584f02"/>
 	</game>
-	<game name="Bandfuse - Rock Legends - TU 1 (World) (Addon)" id="05950">
-		<description>Bandfuse - Rock Legends - TU 1 (World) (Addon)</description>
-		<game_id>3BB01027</game_id>
-		<rom name="4D4607D3\000B0000\tu00000001_00000000" size="19984384" crc="40f77e9c" md5="e22a782aeed080bab3d1373d309da899" sha1="edbd90ec2ae7f3720cb5d0229420e325c5546ffa" sha256="c22827bf86e5615775e4f31937590706dc94b33be63f063dd49a15106418c0e2"/>
-	</game>
 	<game name="Bang Bang Racing (World) (XBLA)" id="03741">
 		<description>Bang Bang Racing (World) (XBLA)</description>
 		<rom name="58410B4A\000D0000\1408B773FBCBD2B548C72C686990DEDBAC073A1258" size="197062656" crc="4d9317d3" md5="17070e6c75693b7ace0b9d55ad5704df" sha1="d65fe4b23ac205e141e9544180ff42299f629a3b"/>
@@ -6912,10 +6912,15 @@
 		<description>Bangai-O HD - Missile Fury (World) (XBLA)</description>
 		<rom name="58410AF2\000D0000\A571FFD0422582FAE5818EB7A74559ADCD89492F58" size="271978496" crc="7654bcf7" md5="b8630a452b10d96c6fc848d8d983b824" sha1="2e9b2a8656c99a53ce508276f6313dee193506f8"/>
 	</game>
-	<game name="Bangai-O HD - Missile Fury - TU 1 (World) (Addon)" id="05741">
-		<description>Bangai-O HD - Missile Fury - TU 1 (World) (Addon)</description>
+	<game name="Bangai-O HD - Missile Fury (World) (Title Update)" id="05741">
+		<description>Bangai-O HD - Missile Fury (World) (Title Update)</description>
 		<game_id>4DECB77F</game_id>
 		<rom name="Cache\TU_1C422NI_0000008000000.0000000000082" size="348160" crc="880a37c2" md5="de43781f2119ece6b698e9cf9f9cb980" sha1="ef2ff439ec7a83eed82f1c97c31c4de0aa78ba27" sha256="916871be67fac06ac2930c9efe4aa95d1cb6bcfaaf3ca78880a49704b8742e5b"/>
+	</game>
+	<game name="Banjo-Kazooie (World) (v3) (Title Update)" id="05742">
+		<description>Banjo-Kazooie (World) (v3) (Title Update)</description>
+		<game_id>69C685B7</game_id>
+		<rom name="Cache\TU_1C422AK_0000108000000.00000000000O2" size="274432" crc="979a00cb" md5="0c801e27a8310e5f2968b34e104e8d36" sha1="606b2fda62d2bc2d72764a2dc0ed44afb7b2180d" sha256="3b90700ff655ea33a58a22d5a803b79e0e405f318e0311bf8150c8f55d4ce69b"/>
 	</game>
 	<game name="Banjo-Kazooie (World) (XBLA)" id="00060">
 		<description>Banjo-Kazooie (World) (XBLA)</description>
@@ -6924,11 +6929,6 @@
 	<game name="Banjo-Kazooie - Nuts &amp; Bolts - L.O.G.'s Lost Challenges (World) (Addon)" id="05811">
 		<description>Banjo-Kazooie - Nuts &amp; Bolts - L.O.G.'s Lost Challenges (World) (Addon)</description>
 		<rom name="4D5307ED\00000002\E41F20AAF7094B9AFCA8CC90489D689D72A5062B4D" size="84738048" crc="345b2d63" md5="8e2f86ade45702522462ad474df73a39" sha1="9558b89524698bec17aa878655d66d901a5656a9" sha256="4ad64c50fa5c26219322c0f47f450670a53252476ad7358727a97e5522038c99"/>
-	</game>
-	<game name="Banjo-Kazooie - TU 3 (World) (Addon)" id="05742">
-		<description>Banjo-Kazooie - TU 3 (World) (Addon)</description>
-		<game_id>69C685B7</game_id>
-		<rom name="Cache\TU_1C422AK_0000108000000.00000000000O2" size="274432" crc="979a00cb" md5="0c801e27a8310e5f2968b34e104e8d36" sha1="606b2fda62d2bc2d72764a2dc0ed44afb7b2180d" sha256="3b90700ff655ea33a58a22d5a803b79e0e405f318e0311bf8150c8f55d4ce69b"/>
 	</game>
 	<game name="Banjo-Tooie (World) (XBLA)" id="00061">
 		<description>Banjo-Tooie (World) (XBLA)</description>
@@ -6984,14 +6984,14 @@
 		<description>Bastion (World) (XBLA)</description>
 		<rom name="58410B66\000D0000\702733695366A32A0BD9F70F392B204F79BEFB1D58" size="585543680" crc="2bbda709" md5="a55a7be248cbfc84c6026a4351345479" sha1="b61a658733fec4a9223b54cb298b6bb37ae719b2"/>
 	</game>
+	<game name="Bastion (World) (v2) (Title Update)" id="05743">
+		<description>Bastion (World) (v2) (Title Update)</description>
+		<game_id>60485604</game_id>
+		<rom name="Cache\TU_1C422R6_000000C000000.00000000000G3" size="3825664" crc="c94f6899" md5="18758eb7fe73a4c9b00afb30e261ff98" sha1="3bb653be1acc16adf8a5477177e27e6187a728eb" sha256="5b0fd6ff22e63456a57bf1fe54d04af95e1dc8d09b496a6c922ee4054f96b3a6"/>
+	</game>
 	<game name="Bastion - Stranger's Dream (World) (Addon)" id="04934">
 		<description>Bastion - Stranger's Dream (World) (Addon)</description>
 		<rom name="58410B66\00000002\51DD22FD8D0EC4DB4640CFDE7C42881F3707A31258" size="34238464" crc="02e345b1" md5="f6576c82fe8c07d6be452fb1b06c2967" sha1="84277ab41d648deed2ca96ccacfbc286887da372"/>
-	</game>
-	<game name="Bastion - TU 2 (World) (Addon)" id="05743">
-		<description>Bastion - TU 2 (World) (Addon)</description>
-		<game_id>60485604</game_id>
-		<rom name="Cache\TU_1C422R6_000000C000000.00000000000G3" size="3825664" crc="c94f6899" md5="18758eb7fe73a4c9b00afb30e261ff98" sha1="3bb653be1acc16adf8a5477177e27e6187a728eb" sha256="5b0fd6ff22e63456a57bf1fe54d04af95e1dc8d09b496a6c922ee4054f96b3a6"/>
 	</game>
 	<game name="Bat Swarm Summon (World) (5858086A) (Addon)" id="06536">
 		<description>Bat Swarm Summon (World) (5858086A) (Addon)</description>
@@ -7085,6 +7085,11 @@
 		<description>Batman - Arkham City - Year One Batman Skin (World) (Addon)</description>
 		<rom name="57520802\00000002\B16E3F51E3995DDB2F35D354D629D74536BDC4C157" size="22605824" crc="be057257" md5="09d762d34caa9b5b6156008d6f1170a4" sha1="f5ba6699b18eafc82d4257e647fcac4783c643f0" sha256="b5e2e8b560db2ea7099b620f895f06b88ceb57741d7a9caa1397a4bb2cc2ecd9"/>
 	</game>
+	<game name="Batman - Arkham Origins (World) (v4) (Title Update)" id="05872">
+		<description>Batman - Arkham Origins (World) (v4) (Title Update)</description>
+		<game_id>1E1F12E7</game_id>
+		<rom name="57520828\000B0000\tu00000001_00000000" size="16052224" crc="7ce16e46" md5="5ca573436583dc14b3dc77097bda5e01" sha1="c691249c75719473b7c5e7ff9fcf4eb16a7f6a9d" sha256="a9d5fb05ad35103ffbf8af969aba0491ebe234f08d437ef7e9409cccdc556210"/>
+	</game>
 	<game name="Batman - Arkham Origins - 1st Appearance Batman (World) (Addon)" id="05865">
 		<description>Batman - Arkham Origins - 1st Appearance Batman (World) (Addon)</description>
 		<rom name="57520828\00000002\54F3147DF68DC9BDB11C32B50C80972DA03D1DB957" size="61440" crc="cfe5d846" md5="166d9d40934bbf1b1c1c0ea928c28d90" sha1="482e49acc0deddec5825715e89f99b0699b05079" sha256="07a751d6a3fc81cd11b10803462859a25596e73f8967669829e628e59302dd12"/>
@@ -7152,11 +7157,6 @@
 	<game name="Batman - Arkham Origins - Spanish Language Data (World) (Addon)" id="05868">
 		<description>Batman - Arkham Origins - Spanish Language Data (World) (Addon)</description>
 		<rom name="57520828\00000002\B0D6960F0D9A8A927362F1FBD379812D47B1AECC57" size="1025474560" crc="0d904070" md5="9e6343bb343642c63c2bb0bb0764b56c" sha1="a62d2c99e73f735caa312b3917552c047db6d6bc" sha256="c21614f58cae34b107475d2cbbf0ab78f886fe559faaa757543834eadf2ee8e6"/>
-	</game>
-	<game name="Batman - Arkham Origins - TU 4 (World) (Addon)" id="05872">
-		<description>Batman - Arkham Origins - TU 4 (World) (Addon)</description>
-		<game_id>1E1F12E7</game_id>
-		<rom name="57520828\000B0000\tu00000001_00000000" size="16052224" crc="7ce16e46" md5="5ca573436583dc14b3dc77097bda5e01" sha1="c691249c75719473b7c5e7ff9fcf4eb16a7f6a9d" sha256="a9d5fb05ad35103ffbf8af969aba0491ebe234f08d437ef7e9409cccdc556210"/>
 	</game>
 	<game name="Batman - The Telltale Series (World) (v1) (Title Update)" id="05328">
 		<description>Batman - The Telltale Series (World) (v1) (Title Update)</description>
@@ -7304,8 +7304,8 @@
 		<description>Battle Academy (World) (XBLA)</description>
 		<rom name="58411434\000D0000\FBBEFCC61A9487B48BEAA20C6A16C4D9CB735C7558" size="261521408" crc="70186c12" md5="9d40b9db4dccfa13720e77cae1209d54" sha1="5850d9b49e8e6a7680f272a53e4e11370aea4404"/>
 	</game>
-	<game name="Battle Academy - TU 2 (World) (Addon)" id="05746">
-		<description>Battle Academy - TU 2 (World) (Addon)</description>
+	<game name="Battle Academy (World) (v2) (Title Update)" id="05746">
+		<description>Battle Academy (World) (v2) (Title Update)</description>
 		<game_id>6F762AEE</game_id>
 		<rom name="Cache\TU_1C4251K_000000G000000.00000000000G4" size="270336" crc="9dbd8c82" md5="be65ea5627137ff11239a6de0a749a8e" sha1="6c0cca919b51d92371cf06ee7142ac3b4a258e00" sha256="19050ffa2fd981e89cbe26573217c223babc2754f4dd7955dffda6d01ca57c6d"/>
 	</game>
@@ -7439,8 +7439,8 @@
 		<description>BattleBlock Theater (World) (XBLA)</description>
 		<rom name="58410A30\000D0000\5EF9276B18FB36E08D49DAD9E1F2A83113DBA53258" size="1248096256" crc="69a5b3fe" md5="6dafb5a6c501f43617f404376fdd4f91" sha1="0e0fc66f913cee51af5dec59c8e0d6dff46ce760"/>
 	</game>
-	<game name="BattleBlock Theater - TU 1 (World) (Addon)" id="05747">
-		<description>BattleBlock Theater - TU 1 (World) (Addon)</description>
+	<game name="BattleBlock Theater (World) (Title Update)" id="05747">
+		<description>BattleBlock Theater (World) (Title Update)</description>
 		<rom name="Cache\TU_1C422HG_000000K000000.0000000000085" size="335872" crc="d3ad7a28" md5="5d10bdacf6f523f5a2d758906fec850b" sha1="14b632c0b34ed409c3c14b7d4fccf1a45396d52a" sha256="586329e09e2b3c726e5072d6d9cc750e38a0776a2ae0a47635779d1475e151cf"/>
 	</game>
 	<game name="Battlefield - Bad Company - Conquest Pack (World) (Addon)" id="02584">
@@ -7523,6 +7523,11 @@
 		<rom name="45410950\00009000\00001000E32802A3C28B332F45410950" size="225280" crc="1e740fa9" md5="fff035390929db605d1b45791e886281" sha1="50db40edb3455dc47c2519b15fdc5bc6a9c96833"/>
 		<rom name="45410950\00009000\00001000E3603223C73878E945410950" size="163840" crc="982e2489" md5="6b5f5c2a1924dd5f56f55ca65cb30c05" sha1="e11aaa9eee8b2b6641605f7683e42cbd8fbeaee5"/>
 	</game>
+	<game name="Battlefield 3 (World) (v5) (Title Update)" id="05929">
+		<description>Battlefield 3 (World) (v5) (Title Update)</description>
+		<game_id>61C746D7</game_id>
+		<rom name="45410950\000B0000\tu00000001_00000000" size="210432000" crc="6d21b899" md5="eda1c1bb696a31ba43cb3951884739e0" sha1="a134f47c5968cea1c2a12b355c5ce33af10bc25a" sha256="e893c0c12e7571d8beab4aa431ba0e5909aaac469b77b438610dd1fc1edb7fed"/>
+	</game>
 	<game name="Battlefield 3 - Act of Valor Dog Tag Bundle (World) (Addon)" id="05925">
 		<description>Battlefield 3 - Act of Valor Dog Tag Bundle (World) (Addon)</description>
 		<rom name="45410950\00000002\B5B8610DFFFA891410B1C64EF8BB8E23F9F8B0F245" size="57344" crc="40550d71" md5="dc0e6026868149b07ab3b1b0cdefd2b5" sha1="565b24798c3ce820aabb195f6f304d3c84c48a97" sha256="4c3cdd1c30be588b5974a80e66db60b5bbf7033674204cf06c857d4d1fa3e635"/>
@@ -7591,14 +7596,14 @@
 		<description>Battlefield 3 - SPECACT Kit And Dogtags Bundle (World) (Addon)</description>
 		<rom name="45410950\00000002\159407B8E8CA79A66DEE31834EC035E66955FCA045" size="57344" crc="23e224b7" md5="a673c849d7875b686406afc0d827274e" sha1="47aec113586deb7088d2ec4f3d80659a788d9991" sha256="65af51eafa6648a7ecd60a53e12fbe9685cff2eb28403ee8f9881cf003cd62ff"/>
 	</game>
-	<game name="Battlefield 3 - TU 5 (World) (Addon)" id="05929">
-		<description>Battlefield 3 - TU 5 (World) (Addon)</description>
-		<game_id>61C746D7</game_id>
-		<rom name="45410950\000B0000\tu00000001_00000000" size="210432000" crc="6d21b899" md5="eda1c1bb696a31ba43cb3951884739e0" sha1="a134f47c5968cea1c2a12b355c5ce33af10bc25a" sha256="e893c0c12e7571d8beab4aa431ba0e5909aaac469b77b438610dd1fc1edb7fed"/>
-	</game>
 	<game name="Battlefield 3 - Ultimate Shortcut (World) (Addon)" id="05920">
 		<description>Battlefield 3 - Ultimate Shortcut (World) (Addon)</description>
 		<rom name="45410950\00000002\72706D499685C2B0D3ED66A27736A5F749860BD145" size="57344" crc="0124f846" md5="c904f1e2101e03f24e82908df66b29f5" sha1="4d31bcb2216205b89403601c38f66331cbe020ff" sha256="82d47d7c4448f68bfdfc97e315577ee736d695faeb83257f53423fad937937b4"/>
+	</game>
+	<game name="Battlefield 4 (World) (v4) (Title Update)" id="05899">
+		<description>Battlefield 4 (World) (v4) (Title Update)</description>
+		<game_id>5B5505FA</game_id>
+		<rom name="454109BA\000B0000\tu00000001_00000000" size="8413184" crc="d5ab8d57" md5="ce09f390aad549bd6e16cd1962239e5d" sha1="481ee7b7ff638f23eb615138968f50a90dad4d06" sha256="51869f90303444643a6918895f19000c26342ea412e3c46e645b8671fdc30379"/>
 	</game>
 	<game name="Battlefield 4 - China Rising (World) (Addon)" id="05892">
 		<description>Battlefield 4 - China Rising (World) (Addon)</description>
@@ -7636,14 +7641,14 @@
 		<description>Battlefield 4 - Second Assault (World) (Addon)</description>
 		<rom name="454109BA\00000002\EC23A294FC0D98B0E9DAF0C41ED94A56965C293B45" size="1441636352" crc="ce19d870" md5="7c7ff7376df7c634c51debeb005dc7fb" sha1="c539f8a4a84a898625c74d0876aafdc2aafb5137" sha256="0b769bdc2c8baa7fd6f1ee440a47aa4b60a6d9b0fd457ca0e7af18957af0e556"/>
 	</game>
-	<game name="Battlefield 4 - TU 4 (World) (Addon)" id="05899">
-		<description>Battlefield 4 - TU 4 (World) (Addon)</description>
-		<game_id>5B5505FA</game_id>
-		<rom name="454109BA\000B0000\tu00000001_00000000" size="8413184" crc="d5ab8d57" md5="ce09f390aad549bd6e16cd1962239e5d" sha1="481ee7b7ff638f23eb615138968f50a90dad4d06" sha256="51869f90303444643a6918895f19000c26342ea412e3c46e645b8671fdc30379"/>
-	</game>
 	<game name="Battlefield Cross (World) (58580850) (Addon)" id="06555">
 		<description>Battlefield Cross (World) (58580850) (Addon)</description>
 		<rom name="58580850\00009000\000010008C43F203C616E79458580850" size="266240" crc="11193f63" md5="f87ef1bf742d5fa3485b2c4b0b5e8bdd" sha1="204caa15655e1e24ed88363f1c0b32bb6d1d2c43"/>
+	</game>
+	<game name="Battlefield Hardline (World) (v2) (Title Update)" id="05911">
+		<description>Battlefield Hardline (World) (v2) (Title Update)</description>
+		<game_id>2B4E0DEA</game_id>
+		<rom name="454109E0\000B0000\tu00000001_00000000" size="17928192" crc="ca06b203" md5="51a658d5c416509bbdebfbaedfc46a3b" sha1="015a2a214a7a231715b43df1b2804d00aa192add" sha256="a99356448a90c6ba58f0b538c63bbd091bbb3814035e25894cbcddb73d473061"/>
 	</game>
 	<game name="Battlefield Hardline - Betrayal (World) (Addon)" id="04578">
 		<description>Battlefield Hardline - Betrayal (World) (Addon)</description>
@@ -7685,11 +7690,6 @@
 		<description>Battlefield Hardline - Suppression Battlepack (World) (Addon)</description>
 		<rom name="454109E0\00000002\032E804516AF949683C482D1D38DE40E49920DAB45" size="57344" crc="67a1ae34" md5="b85f2663f2c3635ddaff1c807535c4cc" sha1="dd650e93c2062697ecfed43363569a533734cf7c" sha256="486bb01a4241cf4a48a71151b90fbb41e4925bfa1ba4d0f7ec120e29ab1dda60"/>
 	</game>
-	<game name="Battlefield Hardline - TU 2 (World) (Addon)" id="05911">
-		<description>Battlefield Hardline - TU 2 (World) (Addon)</description>
-		<game_id>2B4E0DEA</game_id>
-		<rom name="454109E0\000B0000\tu00000001_00000000" size="17928192" crc="ca06b203" md5="51a658d5c416509bbdebfbaedfc46a3b" sha1="015a2a214a7a231715b43df1b2804d00aa192add" sha256="a99356448a90c6ba58f0b538c63bbd091bbb3814035e25894cbcddb73d473061"/>
-	</game>
 	<game name="Battlefield Hardline - Ultimate Shortcut Bundle (World) (Addon)" id="05907">
 		<description>Battlefield Hardline - Ultimate Shortcut Bundle (World) (Addon)</description>
 		<rom name="454109E0\00000002\AA6DF21D64BAC709BBB721DB134E2C658143F32A45" size="57344" crc="6ea5bf0c" md5="36d9ff5139da643ff09abfc43e31459e" sha1="7a02cc31116e7878eb74e2656978bdce06d7e636" sha256="8dac8cb741ed604fd2a0aa6f669137b829e6446449d95ae8033ae2a1667e9f1d"/>
@@ -7714,10 +7714,6 @@
 	<game name="BattleShip Arcade (World) (XBLIG)" id="12307">
 		<description>BattleShip Arcade (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\C88AF170B81E803A94C632A8263D7FC59F30826458" size="83255296" crc="da8c19ee" md5="74d15a9dff9a40d78b372a6414c35822" sha1="8c4c1e4891953b46baba0416ab8e62c8a1a4d3bc"/>
-	</game>
-	<game name="Battlestar Galactica (World) (XBLA)" id="00063">
-		<description>Battlestar Galactica (World) (XBLA)</description>
-		<rom name="58410861\000D0000\A2EC9C1967B4017A59F193BFFE9BD8DA36325F0F58" size="64348160" crc="91d72646" md5="8eea17b1df6ae2cf9c076ab42634ff07" sha1="7ea4c4319ad75bfb2f64d4be4069ca9d81bf9f35"/>
 	</game>
 	<game name="Battlestar Galactica (World) (413607D2) (Addon)" id="06558">
 		<description>Battlestar Galactica (World) (413607D2) (Addon)</description>
@@ -7746,6 +7742,10 @@
 		<rom name="413607D2\00009000\00000FFCD21202E2C384FB87413607D2" size="253952" crc="c184c0f3" md5="fdcbb26dcb472d494186e11ce33c7aee" sha1="b6de7d71bb818c494a9d331c69909639bb435081"/>
 		<rom name="413607D2\00009000\00000FFCFA3BD201CF31D8F6413607D2" size="253952" crc="62d7c3ff" md5="6221538e6a43b73276c2b5c13ff7ea71" sha1="24f4d5c05a6df39a77f8fd957ab8ef7d85045630"/>
 		<rom name="413607D2\00009000\00001000D25AC293C6E4960D413607D2" size="253952" crc="05604e51" md5="cdb0fc09117a41502c9826117c1f87e3" sha1="c2a6e496fa0f68dff9c0cf7077f3e8873c81611f"/>
+	</game>
+	<game name="Battlestar Galactica (World) (XBLA)" id="00063">
+		<description>Battlestar Galactica (World) (XBLA)</description>
+		<rom name="58410861\000D0000\A2EC9C1967B4017A59F193BFFE9BD8DA36325F0F58" size="64348160" crc="91d72646" md5="8eea17b1df6ae2cf9c076ab42634ff07" sha1="7ea4c4319ad75bfb2f64d4be4069ca9d81bf9f35"/>
 	</game>
 	<game name="Battlestations - Midway - Iowa Mission Pack (World) (Addon)" id="05805">
 		<description>Battlestations - Midway - Iowa Mission Pack (World) (Addon)</description>
@@ -8049,6 +8049,11 @@
 		<rom name="58410A57\00009000\00000FFCD644E281CEEC9E8F58410A57" size="225280" crc="3e111a3a" md5="d8d21e907a5c0d223b451e5a2a31c328" sha1="45132806ffbb567731e1db12f7af78b361ac61ca"/>
 		<rom name="58410A57\00009000\00001000D644D223C775322F58410A57" size="274432" crc="f0d8fcb3" md5="48b7dd15c0c8d060b7cd81f1a55d4825" sha1="c64ccb235af12f05ddab969c58e4ff91f04e66d5"/>
 	</game>
+	<game name="Bellator - MMA Onslaught (World) (v2) (Title Update)" id="05816">
+		<description>Bellator - MMA Onslaught (World) (v2) (Title Update)</description>
+		<game_id>3F2FE772</game_id>
+		<rom name="58411203\000B0000\tu00000001_00000000" size="27951104" crc="95ec3ce9" md5="81c10de5939b5f5b2615e86b25b51ec4" sha1="5d6f3b2f417e031cbcc7713864b6a0929f00638c" sha256="21646a447779b55759a946e46f18fd83f1ede88fbf4d222ea22d94c1c60a2f72"/>
+	</game>
 	<game name="Bellator - MMA Onslaught (World) (XBLA)" id="03850">
 		<description>Bellator - MMA Onslaught (World) (XBLA)</description>
 		<rom name="58411203\000D0000\8839F50602E5E6B519557DAD8D6DD5A032E3F46558" size="2053148672" crc="9b13f512" md5="e4656234d06aca5963bfe7a3386991ed" sha1="bdb97051da89a99f012895efcc8b9a65fc9b2797"/>
@@ -8060,11 +8065,6 @@
 	<game name="Bellator - MMA Onslaught - Scouting Report (World) (Addon)" id="04821">
 		<description>Bellator - MMA Onslaught - Scouting Report (World) (Addon)</description>
 		<rom name="58411203\00000002\B39EB4DFC6248357332979200FDCBED52E05053D58" size="61440" crc="ca92946f" md5="b75c1de878cfcd95521ac6ad17a6305f" sha1="d3d483ea8519749ce888d9be8debbeaa26d733e8"/>
-	</game>
-	<game name="Bellator - MMA Onslaught - TU 2 (World) (Addon)" id="05816">
-		<description>Bellator - MMA Onslaught - TU 2 (World) (Addon)</description>
-		<game_id>3F2FE772</game_id>
-		<rom name="58411203\000B0000\tu00000001_00000000" size="27951104" crc="95ec3ce9" md5="81c10de5939b5f5b2615e86b25b51ec4" sha1="5d6f3b2f417e031cbcc7713864b6a0929f00638c" sha256="21646a447779b55759a946e46f18fd83f1ede88fbf4d222ea22d94c1c60a2f72"/>
 	</game>
 	<game name="Bellator MMA Onslaught (World) (58411203) (Addon)" id="06580">
 		<description>Bellator MMA Onslaught (World) (58411203) (Addon)</description>
@@ -8213,14 +8213,14 @@
 		<description>Biggest Loser - Ultimate Workout, The - Pilates Exercises (World) (Addon)</description>
 		<rom name="54510859\00000002\BD47F582F91ABF1A369C22C70E00BD3209C6CC1454" size="75882496" crc="4df419ca" md5="1f9165bdb64f0ff7bb3bbaf49b7814b3" sha1="586d7971c05c5481e2115f88b6f91d3da39a240c" sha256="9fb6baf5da909c871201112e9523b7149794491f6b5f883025d68c45924b1c61"/>
 	</game>
-	<game name="Biggest Loser - Ultimate Workout, The - TU 1 (World) (Addon)" id="05836">
-		<description>Biggest Loser - Ultimate Workout, The - TU 1 (World) (Addon)</description>
-		<game_id>5F80306C</game_id>
-		<rom name="Cache\TU_1A5222P_0000008000000.0000000000082" size="1310720" crc="28618718" md5="c3b7b6659fddbe91156e6801d6310ee5" sha1="1f5f96b8ea9fc721cf8a4ba746c1ad1e021abe1e" sha256="03a137934e213906edc51d33a8ce53cc14fc5fbb9c028a088ae421dd9a989d0b"/>
-	</game>
 	<game name="Biggest Loser - Ultimate Workout, The - TV Show Challenge (World) (Addon)" id="05834">
 		<description>Biggest Loser - Ultimate Workout, The - TV Show Challenge (World) (Addon)</description>
 		<rom name="54510859\00000002\A8382885E3069D443AE730F2CBF69DE0277E39CD54" size="22052864" crc="251fa3d1" md5="70c4507c6ecac31463b9fe6f0167781c" sha1="3201b110d34d53690801cb39c073b396f4d7842c" sha256="21cf478da9be370792fe0e5b04dc86747430fedcb5c1f0dac62ca5096eb824a2"/>
+	</game>
+	<game name="Biggest Loser, The - Ultimate Workout (World) (Title Update)" id="05836">
+		<description>Biggest Loser, The - Ultimate Workout (World) (Title Update)</description>
+		<game_id>5F80306C</game_id>
+		<rom name="Cache\TU_1A5222P_0000008000000.0000000000082" size="1310720" crc="28618718" md5="c3b7b6659fddbe91156e6801d6310ee5" sha1="1f5f96b8ea9fc721cf8a4ba746c1ad1e021abe1e" sha256="03a137934e213906edc51d33a8ce53cc14fc5fbb9c028a088ae421dd9a989d0b"/>
 	</game>
 	<game name="Biker's Collection (World) (484907D2) (Addon)" id="06599">
 		<description>Biker's Collection (World) (484907D2) (Addon)</description>
@@ -8357,6 +8357,11 @@
 		<description>Billy's Job (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\FE0224DFA8A2DDFE459A1D82E7BD4FE2E4C2056558" size="5353472" crc="ba2e1b84" md5="076e8589830b8cf82e502cab39d3f0b8" sha1="ae4d392812fdd28861d43423f7da5daded642985"/>
 	</game>
+	<game name="Binary Domain (World) (Title Update)" id="05824">
+		<description>Binary Domain (World) (Title Update)</description>
+		<game_id>02A14CF3</game_id>
+		<rom name="Cache\TU_19KA22S_000000S000000.0000000000087" size="1269760" crc="6fde972e" md5="801d98daed074110c54da543d37782a8" sha1="96138ef4ace4fdfa22e9f5d2e58a4e1688361d82" sha256="088c97cbaefd1e3d85276f1c59d6ca71c632354ecae8338154078d237119e6f8"/>
+	</game>
 	<game name="Binary Domain - Dan Marshall Pack (World) (Addon)" id="05823">
 		<description>Binary Domain - Dan Marshall Pack (World) (Addon)</description>
 		<rom name="5345085C\00000002\92D1880C9FF2BA2B7826B9391B2EAFE6DFEC9CCD53" size="61440" crc="a987c450" md5="f9c5db0fe3a88b7774dbc792a47b4c94" sha1="f1bd9c943996d3631d38421460bcc9e12411cc5b" sha256="5b5d4c5a7082e0f74b9d43daa43fbe913ad100be878484e735401bcfa37bc710"/>
@@ -8364,11 +8369,6 @@
 	<game name="Binary Domain - The Multiplayer Pack (World) (Addon)" id="05822">
 		<description>Binary Domain - The Multiplayer Pack (World) (Addon)</description>
 		<rom name="5345085C\00000002\55538345C1A23951197EE6F830BC407B19ED04E953" size="65536" crc="db9bb8cd" md5="063f517ed1ac8e04c02cf0362c3ef903" sha1="6edf000e7e855b11a4ee99d8667f92a8419a7152" sha256="4cc99ef3408571ec4df1b90cee1a6a9f8db568396ed22d2df0f7f425b30a8d31"/>
-	</game>
-	<game name="Binary Domain - TU 1 (World) (Addon)" id="05824">
-		<description>Binary Domain - TU 1 (World) (Addon)</description>
-		<game_id>02A14CF3</game_id>
-		<rom name="Cache\TU_19KA22S_000000S000000.0000000000087" size="1269760" crc="6fde972e" md5="801d98daed074110c54da543d37782a8" sha1="96138ef4ace4fdfa22e9f5d2e58a4e1688361d82" sha256="088c97cbaefd1e3d85276f1c59d6ca71c632354ecae8338154078d237119e6f8"/>
 	</game>
 	<game name="Bingo (World) (XBLIG)" id="12337">
 		<description>Bingo (World) (XBLIG)</description>
@@ -8394,17 +8394,17 @@
 		<description>Bionic Arm (World) (5858086A) (Addon)</description>
 		<rom name="5858086A\00009000\00001000AA41A203CF3A2C285858086A" size="249856" crc="1c837fc7" md5="2e2cdbbe66704f0b8ac1ddc882b0febe" sha1="82b3b51847da87bdfda4c4282be2db8aa41f0b9d"/>
 	</game>
-	<game name="Bionic Commando - Rearmed (World) (XBLA)" id="00067">
-		<description>Bionic Commando - Rearmed (World) (XBLA)</description>
-		<rom name="584108F1\000D0000\15E5ACDFE8CD19D92CC652A1943A10300BAC211A58" size="223723520" crc="fea959a9" md5="bd927e68c8ca611c4c922d132d2c1074" sha1="cee12468a01604ed6b7a38dc8940270e26d0a91c"/>
-	</game>
 	<game name="Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)" id="01115">
 		<description>Bionic Commando - Rearmed (Japan) (En) (Stackable) (XBLA)</description>
 		<rom name="58410937\000D0000\0F453B07F171BD8B63031D0B64461819B5CCB47058" size="223428608" crc="4cbf0cd4" md5="144030d1c0f76d978208395acf21dc40" sha1="1beb637cdf6e7bf07dd36ce0a6106504858d602c"/>
 	</game>
-	<game name="Bionic Commando - Rearmed - TU 2 (World) (Addon)" id="05818">
-		<description>Bionic Commando - Rearmed - TU 2 (World) (Addon)</description>
+	<game name="Bionic Commando - Rearmed (World) (v2) (Title Update)" id="05818">
+		<description>Bionic Commando - Rearmed (World) (v2) (Title Update)</description>
 		<rom name="Cache\TU_1C4227H_000010G000000.00000000000G4" size="3837952" crc="c738a488" md5="80d7e265d85e35e3751d8a0021c32425" sha1="fdb81c9faee64a525c8d69f1b84e6e2be12b220f" sha256="f0a4e5fb2c34c96515e4fdb895f19d902a28fbc07e5a5ee967dcc912838c2095"/>
+	</game>
+	<game name="Bionic Commando - Rearmed (World) (XBLA)" id="00067">
+		<description>Bionic Commando - Rearmed (World) (XBLA)</description>
+		<rom name="584108F1\000D0000\15E5ACDFE8CD19D92CC652A1943A10300BAC211A58" size="223723520" crc="fea959a9" md5="bd927e68c8ca611c4c922d132d2c1074" sha1="cee12468a01604ed6b7a38dc8940270e26d0a91c"/>
 	</game>
 	<game name="Bionic Commando - Rearmed 2 (World) (XBLA)" id="02768">
 		<description>Bionic Commando - Rearmed 2 (World) (XBLA)</description>
@@ -8418,13 +8418,13 @@
 		<description>Bionic Wings Gold (World) (5858089F) (Addon)</description>
 		<rom name="5858089F\00009000\00001000F94BD233C78015245858089F" size="253952" crc="a9222206" md5="ac16a9ee401e60839562055002d07c4f" sha1="6b71d0b035df902a667a6fc278e2501576bd61e5"/>
 	</game>
+	<game name="BioShock (World) (v4) (Title Update)" id="05814">
+		<description>BioShock (World) (v4) (Title Update)</description>
+		<rom name="Cache\TU_1A581UO_0000004000000.0000000000101" size="1146880" crc="7092e52a" md5="718e952d4f6109a5fbf61eea617e6a4b" sha1="8702003e1408e02cb696be5b8c5d848af333aa4f" sha256="bcc35fc98a308f875f9a8ee56d601ce8f82451f64334c084a323304fc5ae8797"/>
+	</game>
 	<game name="Bioshock - Genetic Enhancements (World) (Addon)" id="00283">
 		<description>Bioshock - Genetic Enhancements (World) (Addon)</description>
 		<rom name="545407D8\00000002\95608CB9D73116706CC849A974A80BEC5812874C54" size="20664320" crc="48326a7b" md5="ebae3bd43c3cbdd4ab96aad2c7903b49" sha1="f3cd4e42a21c21399f5be71818724bc6bb22da7e"/>
-	</game>
-	<game name="BioShock - TU 4 (World) (Addon)" id="05814">
-		<description>BioShock - TU 4 (World) (Addon)</description>
-		<rom name="Cache\TU_1A581UO_0000004000000.0000000000101" size="1146880" crc="7092e52a" md5="718e952d4f6109a5fbf61eea617e6a4b" sha1="8702003e1408e02cb696be5b8c5d848af333aa4f" sha256="bcc35fc98a308f875f9a8ee56d601ce8f82451f64334c084a323304fc5ae8797"/>
 	</game>
 	<game name="BioShock - Ultimate Rapture Edition (World) (Addon)" id="05813">
 		<description>BioShock - Ultimate Rapture Edition (World) (Addon)</description>
@@ -10342,17 +10342,22 @@
 		<rom name="545407E7\00009000\000010001488B213CEBD36F9545407E7" size="241664" crc="b4813a77" md5="0e6ff5b18586e1e1085474c67fe4ca2a" sha1="2b5044227af3af0805ce88852e4c69f4253af300"/>
 		<rom name="545407E7\00009000\00001000435EE2C3CC0369C0545407E7" size="233472" crc="eb5ae73e" md5="8e57014cc631b2eb0c8572d77299423c" sha1="bd52026a3390752b5b4b0cad865d90b016853302"/>
 	</game>
+	<game name="Borderlands - Claptrap's New Robot Revolution (World) (DLC)" id="01370">
+		<description>Borderlands - Claptrap's New Robot Revolution (World) (DLC)</description>
+		<rom name="545407E7\00000002\4A4EA7F81C5512D861AC8F5FCDA542DA3036D6A854" size="1451888640" crc="255bd697" md5="9fc375156bd2d10f6d5ff26018c18d70" sha1="e686399817368b124d474e8363b1af7f124f7d52"/>
+	</game>
 	<game name="Borderlands - Gearbox Mercenary Gun Pack (World) (Addon)" id="05787">
 		<description>Borderlands - Gearbox Mercenary Gun Pack (World) (Addon)</description>
 		<rom name="545407E7\00000002\27442B35C29AF5A9071D9C4D3F7DF29F432DD52054" size="57344" crc="d89bf82f" md5="028a6c914e6038b117745c254acb217c" sha1="036cc450d6394bddb95676747e9518330a8b178d" sha256="f52ce482d66d63dc0fdf09c8dcef743dae9e3331032533110b33c3d0fbefd352"/>
 	</game>
-	<game name="Borderlands - Mad Moxxis Underdome Riot (World) (Addon)" id="00284">
-		<description>Borderlands - Mad Moxxis Underdome Riot (World) (Addon)</description>
+	<game name="Borderlands - Mad Moxxi's Underdome Riot (World) (Addon)" id="00284">
+		<description>Borderlands - Mad Moxxi's Underdome Riot (World) (Addon)</description>
 		<rom name="545407E7\00000002\123A3176EDC2DEE4DC6D52A50733DF93ED0AC58654" size="536547328" crc="73553dd0" md5="90e3f791790467da6fba88a273185d86" sha1="6cf36a513f97e58a7f341262e7e9c57ec81879b0"/>
 	</game>
-	<game name="Borderlands - New Revolution (World) (Addon)" id="01370">
-		<description>Borderlands - New Revolution (World) (Addon)</description>
-		<rom name="545407E7\00000002\4A4EA7F81C5512D861AC8F5FCDA542DA3036D6A854" size="1451888640" crc="255bd697" md5="9fc375156bd2d10f6d5ff26018c18d70" sha1="e686399817368b124d474e8363b1af7f124f7d52"/>
+	<game name="Borderlands - The Pre-Sequel (World) (v9) (Title Update)" id="05963">
+		<description>Borderlands - The Pre-Sequel (World) (v9) (Title Update)</description>
+		<game_id>3B9FF6CD</game_id>
+		<rom name="Cache\tu00000003_00000000" size="3997696" crc="cceaefb7" md5="6d52c113d3325e91767a8564fb31a49a" sha1="1bec7aadd067c547cb93f9133e157c6b4dcf3b5a" sha256="0aee654574cda04b3dc5bcbc5787dead838741341929e63ec133aee712d2671f"/>
 	</game>
 	<game name="Borderlands - The Pre-Sequel - Claptastic Voyage (Part 1 of 2) (World) (Addon)" id="05951">
 		<description>Borderlands - The Pre-Sequel - Claptastic Voyage (Part 1 of 2) (World) (Addon)</description>
@@ -10374,8 +10379,8 @@
 		<description>Borderlands - The Pre-Sequel - Handsome Jack Doppelganger Pack (World) (Addon)</description>
 		<rom name="545408B4\00000002\7B01893ACB32320A28C92CAF755A28956762BC4754" size="178176000" crc="0b21b056" md5="65f37b4dbb2702b8bd46e064deee0281" sha1="0b6c00ee37c6450d41168ff9c97f3aa418ccb54f" sha256="f362468e6277e8a6ae857e17d8d60c5958dd4fdb1404afcee4677b8ea06b6060"/>
 	</game>
-	<game name="Borderlands - The Pre-Sequel - Lady Hammerlock The Baroness Pack (World) (Addon)" id="05960">
-		<description>Borderlands - The Pre-Sequel - Lady Hammerlock The Baroness Pack (World) (Addon)</description>
+	<game name="Borderlands - The Pre-Sequel - Lady Hammerlock the Baroness Pack (World) (Addon)" id="05960">
+		<description>Borderlands - The Pre-Sequel - Lady Hammerlock the Baroness Pack (World) (Addon)</description>
 		<rom name="545408B4\00000002\C1289319AB431D42E00100D8CF4E37C5CB023AAD54" size="393555968" crc="36388701" md5="d0ef3b595f3bc6ff878370d27f1908f3" sha1="c74fc11e3e1847ae8537658a22fd17980dded148" sha256="c9747d8b07aaf93533cf0d9f79e7c7c0de5735606b9fdb5b93f80fb487d29d0d"/>
 	</game>
 	<game name="Borderlands - The Pre-Sequel - Pre-Order Bonus (World) (Addon)" id="05953">
@@ -10394,11 +10399,6 @@
 		<description>Borderlands - The Pre-Sequel - Third Person (World) (Addon)</description>
 		<rom name="545408B4\00000002\D1B432979EF4D518266890F62219D906B67E816654" size="69632" crc="08f8788f" md5="41acec9126c5d182045e3a293d2154a1" sha1="15b06087ea27589f2f62b74acc6aaf7dcec392ec" sha256="8647a2e36c0b36606250c228c405f14bca4d7b973440da51e3147599774c6b06"/>
 	</game>
-	<game name="Borderlands - The Pre-Sequel - TU 9 (World) (Addon)" id="05963">
-		<description>Borderlands - The Pre-Sequel - TU 9 (World) (Addon)</description>
-		<game_id>3B9FF6CD</game_id>
-		<rom name="Cache\tu00000003_00000000" size="3997696" crc="cceaefb7" md5="6d52c113d3325e91767a8564fb31a49a" sha1="1bec7aadd067c547cb93f9133e157c6b4dcf3b5a" sha256="0aee654574cda04b3dc5bcbc5787dead838741341929e63ec133aee712d2671f"/>
-	</game>
 	<game name="Borderlands - The Pre-Sequel - UVHUP - The Holodome Onslaught (World) (Addon)" id="05955">
 		<description>Borderlands - The Pre-Sequel - UVHUP - The Holodome Onslaught (World) (Addon)</description>
 		<rom name="545408B4\00000002\6E8A7AD9A8C6092C721A1DFC39949D16F256553B54" size="396533760" crc="eb3d602d" md5="a5fa56460bcae642a4a54f2226802150" sha1="549b0a4afd513561f14f223c1f12c2c32aa4217f" sha256="3cdb535af9932e32d49a9301ee92778f7a8ac3257e34b72b1bf2660722d7e589"/>
@@ -10411,9 +10411,14 @@
 		<description>Borderlands - The Secret Armory of General Knox (World) (Addon)</description>
 		<rom name="545407E7\00000002\C1C17CFE9B32CBC3C3ABD998623045EF7863485254" size="1782550528" crc="0a432392" md5="5ddab54b8bb7f406d148383860a93af0" sha1="01f44393f34efb9ed638a686795cabd91985bce8"/>
 	</game>
-	<game name="Borderlands - Zombie Island of Dr Ned (World) (Addon)" id="00503">
-		<description>Borderlands - Zombie Island of Dr Ned (World) (Addon)</description>
+	<game name="Borderlands - The Zombie Island of Dr. Ned (World) (DLC)" id="00503">
+		<description>Borderlands - The Zombie Island of Dr. Ned (World) (DLC)</description>
 		<rom name="545407E7\00000002\973C3A9C8408F8EA98F4AC2F4D985D16B1099A2654" size="1062838272" crc="bd28c107" md5="ffc277b7d6661241a0010e2a4082a5e0" sha1="7344adcbd0d28d18b5657bef0b528bfed4888721"/>
+	</game>
+	<game name="Borderlands 2 (World) (v14) (Title Update)" id="05795">
+		<description>Borderlands 2 (World) (v14) (Title Update)</description>
+		<game_id>00A8D174</game_id>
+		<rom name="5454087C\000B0000\tu00000001_00000000" size="7696384" crc="8d3fe331" md5="94490c18383376b80cd70dd2f4330054" sha1="913c0e01aad3aef75cc40a75c6267ab6c36a06bb" sha256="1c0c84845b27cf7dd88448afa7d322d18ef21cd0436fe9b15eca7cfd7cf1209f"/>
 	</game>
 	<game name="Borderlands 2 (World) (5454087C) (Addon)" id="06845">
 		<description>Borderlands 2 (World) (5454087C) (Addon)</description>
@@ -10449,41 +10454,17 @@
 		<rom name="5454087C\00009000\00001000EAB38283C04B95405454087C" size="241664" crc="23a1231d" md5="b86b796938a08d05189ee0d4bed90c22" sha1="d2f2148b40a9082673480a10a64e57d1cd9d1fda"/>
 		<rom name="5454087C\00009000\00001000FB15A2F3CFFDD4415454087C" size="245760" crc="d891d3da" md5="01cd8d070837eec97369ba4b04382526" sha1="9da25f8bdb7b3d64a136b5f8f23c5bf36801427e"/>
 	</game>
-	<game name="Borderlands 2 - Captain Scarlett and her Pirate's Booty (World) (Addon)" id="04004">
-		<description>Borderlands 2 - Captain Scarlett and her Pirate's Booty (World) (Addon)</description>
+	<game name="Borderlands 2 - Captain Scarlett and Her Pirate's Booty (World) (Addon)" id="04004">
+		<description>Borderlands 2 - Captain Scarlett and Her Pirate's Booty (World) (Addon)</description>
 		<rom name="5454087C\00000002\0AD1749799DE8FD78C209C76B5AC739BE790147154" size="1380208640" crc="f94f6934" md5="ce6994bd67044bd84eac002b0958104e" sha1="69abdba7722692c4e1415dd8ee205b9dd62818c1"/>
 	</game>
-	<game name="Borderlands 2 - Collector's Edition (World) (Addon)" id="05794">
-		<description>Borderlands 2 - Collector's Edition (World) (Addon)</description>
+	<game name="Borderlands 2 - Collector's Edition Pack (World) (DLC)" id="05794">
+		<description>Borderlands 2 - Collector's Edition Pack (World) (DLC)</description>
 		<rom name="5454087C\00000002\F75332EF2D03BF6D16C6FDE6FDE530A507E6420B54" size="61440" crc="d14acaf5" md5="5a8366311e8fed0dc7feb1ceeb37e1e5" sha1="4e6357877e453bbdec98b49d24e38efbc2732876" sha256="1888e8149cd04ab6d46622c8a8ff473e6fce2220b1078f4a412c6f7519ce1762"/>
 	</game>
 	<game name="Borderlands 2 - Compatibility Pack (World) (Addon)" id="05789">
 		<description>Borderlands 2 - Compatibility Pack (World) (Addon)</description>
 		<rom name="5454087C\00000002\1F7F6F5C78E21C5FE068A2739AA032E2767BFC9654" size="207134720" crc="4e012139" md5="507386224caea8a4ffc49c4cd954e2fd" sha1="6f419c9781c1419ebfc23a3dd04b4936aa8cce66" sha256="4a755a1efcd9af0f5c328eb6626a3c5ecc76223d21572cde8a2af07052dd9241"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt)" id="04091">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt)</description>
-		<rom name="5454087C\00000002\D02723DF4BCEEEDE997D07366118507C658F4EBA54" size="229457920" crc="7536dcbe" md5="16cddc78672054c15646d4945e52dbf7" sha1="b77b2d1269b33c71fa30ee019d97f3201309fe32"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 2)" id="04261">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 2)</description>
-		<rom name="5454087C\00000002\0C7C3029A7DD4C13636AA7327E90F4E5563439F854" size="270639104" crc="d9ecf579" md5="d5a99d861b08213768f911140892259b" sha1="90a3fa4c4ddd0a8c1c3b64d55f17553b90515869"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 3)" id="04444">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 3)</description>
-		<rom name="5454087C\00000002\F9B5B194AFAB220A950ED559FE796BF114BC3DB154" size="462741504" crc="987d80e1" md5="645309871f1e0736a6a782815ab19077" sha1="0c2696f5459967c59f1527aedb7a3f0336e5d5a2"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 4)" id="04470">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 4)</description>
-		<rom name="5454087C\00000002\1B2981E8EE8CFFA85A25888EC97CEC782D4A79D254" size="515284992" crc="9a055e75" md5="5cf7d41e36ab36a150a85c9281ffa653" sha1="e809309c0b264bff30819c56e1ed9eaed19f0fcd"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 5)" id="04473">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 5)</description>
-		<rom name="5454087C\00000002\7F44BE4A7755A24B1F1854A46C19CC3BAAC0ACE254" size="536281088" crc="192f875d" md5="b7fab78980aaa0c704d4dbea3ae174ee" sha1="1d8795e5eba7bbb3020aa0e2d96c671a66250e18"/>
-	</game>
-	<game name="Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 6)" id="04491">
-		<description>Borderlands 2 - Compatibility Pack (World) (Addon) (Alt 6)</description>
-		<rom name="5454087C\00000002\F54FC6EAD09F766B5AF6305BA62A7EDC22F4196D54" size="563671040" crc="a1396ba2" md5="3d03c8fdc83ff7d31091ae47a3ba739d" sha1="305ec892d00616835db6d7b3ec557054c3fda393"/>
 	</game>
 	<game name="Borderlands 2 - Costume Pack (World) (Addon)" id="05791">
 		<description>Borderlands 2 - Costume Pack (World) (Addon)</description>
@@ -10497,9 +10478,17 @@
 		<description>Borderlands 2 - Headhunter 1 - T.K. Baha's Bloody Harvest (World) (Addon)</description>
 		<rom name="5454087C\00000002\2C43443E7296F833AF2236A1B5724346DC164B0C54" size="563851264" crc="ee129e68" md5="74a8c083df9a1c57b7e615e0c807211a" sha1="83f7864561cd71297b23b073a9afb060beb2167f"/>
 	</game>
+	<game name="Borderlands 2 - Headhunter 1 - T.K. Baha's Bloody Harvest - Compatibility Pack (World) (DLC)" id="04470">
+		<description>Borderlands 2 - Headhunter 1 - T.K. Baha's Bloody Harvest - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\1B2981E8EE8CFFA85A25888EC97CEC782D4A79D254" size="515284992" crc="9a055e75" md5="5cf7d41e36ab36a150a85c9281ffa653" sha1="e809309c0b264bff30819c56e1ed9eaed19f0fcd"/>
+	</game>
 	<game name="Borderlands 2 - Headhunter 2 - Wattle Gobbler (World) (Addon)" id="04472">
 		<description>Borderlands 2 - Headhunter 2 - Wattle Gobbler (World) (Addon)</description>
 		<rom name="5454087C\00000002\E6C8FE3EF56D053CB188375051ACEA15CF5ECDD254" size="1071460352" crc="56c8ed31" md5="069e61a35fbee7263fbed21f8ffee029" sha1="b11a38329fae2c14caa41038c98ae2b7489f9994"/>
+	</game>
+	<game name="Borderlands 2 - Headhunter 2 - Wattle Gobbler - Compatibility Pack (World) (DLC)" id="04473">
+		<description>Borderlands 2 - Headhunter 2 - Wattle Gobbler - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\7F44BE4A7755A24B1F1854A46C19CC3BAAC0ACE254" size="536281088" crc="192f875d" md5="b7fab78980aaa0c704d4dbea3ae174ee" sha1="1d8795e5eba7bbb3020aa0e2d96c671a66250e18"/>
 	</game>
 	<game name="Borderlands 2 - Headhunter 3 - Mercenary Day (World) (Addon)" id="04483">
 		<description>Borderlands 2 - Headhunter 3 - Mercenary Day (World) (Addon)</description>
@@ -10509,13 +10498,21 @@
 		<description>Borderlands 2 - Headhunter 4 - Wedding Day Massacre (World) (Addon)</description>
 		<rom name="5454087C\00000002\E05F423C312DAFDAA5D92B5ED612227CD54B918954" size="1052643328" crc="49323d69" md5="194c1d4f305a1f4c86d8c3b70ce0e2df" sha1="3ff1b533551e35ea772d0471cb8952ca027022f7"/>
 	</game>
-	<game name="Borderlands 2 - Mechromancer (World) (Addon for XBLA)" id="03984">
-		<description>Borderlands 2 - Mechromancer (World) (Addon for XBLA)</description>
+	<game name="Borderlands 2 - Headhunter 4 - Wedding Day Massacre - Compatibility Pack (World) (DLC)" id="04491">
+		<description>Borderlands 2 - Headhunter 4 - Wedding Day Massacre - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\F54FC6EAD09F766B5AF6305BA62A7EDC22F4196D54" size="563671040" crc="a1396ba2" md5="3d03c8fdc83ff7d31091ae47a3ba739d" sha1="305ec892d00616835db6d7b3ec557054c3fda393"/>
+	</game>
+	<game name="Borderlands 2 - Mechromancer Pack (World) (DLC)" id="03984">
+		<description>Borderlands 2 - Mechromancer Pack (World) (DLC)</description>
 		<rom name="5454087C\00000002\DD296EF2E13B096016AB528013D0A280EEB4FC7654" size="89837568" crc="58ea1984" md5="8281f0acfbfdb2f63f56733f76db237f" sha1="8576115f2a8f609ed8fe555d92c3949b88ae6a55"/>
 	</game>
 	<game name="Borderlands 2 - Mr. Torgue's Campaign of Carnage (World) (Addon)" id="04090">
 		<description>Borderlands 2 - Mr. Torgue's Campaign of Carnage (World) (Addon)</description>
 		<rom name="5454087C\00000002\707230339232F6EABC58A9A5E74772D6AFF6C90754" size="1655975936" crc="5a12fc21" md5="3c6c53c0f32313e6b55f1a7b9cb85575" sha1="a2224e73a3f23fd7cd0ce5d839fc20c504410351"/>
+	</game>
+	<game name="Borderlands 2 - Mr. Torgue's Campaign of Carnage - Compatibility Pack (World) (DLC)" id="04091">
+		<description>Borderlands 2 - Mr. Torgue's Campaign of Carnage - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\D02723DF4BCEEEDE997D07366118507C658F4EBA54" size="229457920" crc="7536dcbe" md5="16cddc78672054c15646d4945e52dbf7" sha1="b77b2d1269b33c71fa30ee019d97f3201309fe32"/>
 	</game>
 	<game name="Borderlands 2 - Premiere Club (World) (Addon)" id="03985">
 		<description>Borderlands 2 - Premiere Club (World) (Addon)</description>
@@ -10533,10 +10530,9 @@
 		<description>Borderlands 2 - Sir Hammerlock's Big Game Hunt (World) (Addon)</description>
 		<rom name="5454087C\00000002\09E681C8467F0BD2B41BE2316DC289EA779771E254" size="1049903104" crc="0da7fa82" md5="b92ede2ca65285afe7a7874f78905768" sha1="eca040e65e0ffd82b89d73c69b9bb27389f322d1"/>
 	</game>
-	<game name="Borderlands 2 - TU 14 (World) (Addon)" id="05795">
-		<description>Borderlands 2 - TU 14 (World) (Addon)</description>
-		<game_id>00A8D174</game_id>
-		<rom name="5454087C\000B0000\tu00000001_00000000" size="7696384" crc="8d3fe331" md5="94490c18383376b80cd70dd2f4330054" sha1="913c0e01aad3aef75cc40a75c6267ab6c36a06bb" sha256="1c0c84845b27cf7dd88448afa7d322d18ef21cd0436fe9b15eca7cfd7cf1209f"/>
+	<game name="Borderlands 2 - Sir Hammerlock's Big Game Hunt - Compatibility Pack (World) (DLC)" id="04261">
+		<description>Borderlands 2 - Sir Hammerlock's Big Game Hunt - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\0C7C3029A7DD4C13636AA7327E90F4E5563439F854" size="270639104" crc="d9ecf579" md5="d5a99d861b08213768f911140892259b" sha1="90a3fa4c4ddd0a8c1c3b64d55f17553b90515869"/>
 	</game>
 	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (World) (Addon)" id="05790">
 		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (World) (Addon)</description>
@@ -10545,6 +10541,10 @@
 	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (World) (Addon)" id="04443">
 		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (World) (Addon)</description>
 		<rom name="5454087C\00000002\CF58F776C4642040CD1DE4A6FF5F7E21B15CFBFF54" size="683782144" crc="b7d35d14" md5="db3724162105fbe523932cd0404bb888" sha1="91101ac51d0f9aba70718e26e4fa53431a6a1e11"/>
+	</game>
+	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 - Compatibility Pack (World) (DLC)" id="04444">
+		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 - Compatibility Pack (World) (DLC)</description>
+		<rom name="5454087C\00000002\F9B5B194AFAB220A950ED559FE796BF114BC3DB154" size="462741504" crc="987d80e1" md5="645309871f1e0736a6a782815ab19077" sha1="0c2696f5459967c59f1527aedb7a3f0336e5d5a2"/>
 	</game>
 	<game name="Bored Meeting (World) (XBLIG)" id="12440">
 		<description>Bored Meeting (World) (XBLIG)</description>
@@ -11859,13 +11859,13 @@
 		<game_id>33B8D0AD</game_id>
 		<rom name="4156091D\000B0000\tu00000001_00000000" size="116740096" crc="624b343a" md5="e8b38e3b6b0de3eb892c47dec36f1b71" sha1="5a0dae7c141baba68cb3bde8a93cd3ee4c7300f6" sha256="0f4b163309fb912b2acf24246d96e88eddd2420cbbcc6f23c7dee56dfc9938ba"/>
 	</game>
-	<game name="Call of Duty - Classic (World) (XBLA)" id="00012">
-		<description>Call of Duty - Classic (World) (XBLA)</description>
-		<rom name="58410957\000D0000\88D8768FF916BFCF74BEA6C26A694CC57CE80D3F58" size="1327714304" crc="8747db94" md5="0a81641945d095d6d44ddd6c1d03765b" sha1="d12f601c68a35b9a9617cf395dfceb2cf992a8c0"/>
-	</game>
 	<game name="Call of Duty - Classic (Germany) (En) (Stackable) (XBLA)" id="01117">
 		<description>Call of Duty - Classic (Germany) (En) (Stackable) (XBLA)</description>
 		<rom name="584109CA\000D0000\237F10F8101081CE7F7B254415D0CCAAF598671758" size="834146304" crc="435058f4" md5="4db9abfc1c317ce3a834f8cda07747d6" sha1="95983e4e3419e13fc5c1ee4f1126c0b867ada6c3"/>
+	</game>
+	<game name="Call of Duty - Classic (World) (XBLA)" id="00012">
+		<description>Call of Duty - Classic (World) (XBLA)</description>
+		<rom name="58410957\000D0000\88D8768FF916BFCF74BEA6C26A694CC57CE80D3F58" size="1327714304" crc="8747db94" md5="0a81641945d095d6d44ddd6c1d03765b" sha1="d12f601c68a35b9a9617cf395dfceb2cf992a8c0"/>
 	</game>
 	<game name="Call of Duty - Ghosts - Compatibility Pack (World) (Addon)" id="06024">
 		<description>Call of Duty - Ghosts - Compatibility Pack (World) (Addon)</description>
@@ -12955,13 +12955,13 @@
 		<game_id>2996007C</game_id>
 		<rom name="Cache\TU_15KS22D_000000G000000.0000000000084" size="1265664" crc="74b7708a" md5="27820dd8f9445fdd9c62bf7fd95e23f6" sha1="07400ce401deaa2fe44519515827a5d66d9c4e30" sha256="567b9c623e93680ed8f2b22aa2724361175273af0a0165670874de7df3a018a0"/>
 	</game>
-	<game name="Castlevania - Symphony of the Night (Japan) (En) (Stackable) (XBLA)" id="01116">
-		<description>Castlevania - Symphony of the Night (Japan) (En) (Stackable) (XBLA)</description>
-		<rom name="5841089D\000D0000\EB9399B31E4A9181AA7F8F6B7F6ABD3263DDA24058" size="134127616" crc="cce30712" md5="bf35e0f0a7a18c9d3a5632db66532b00" sha1="100d461afed414d34c476da72c4989da1a1d2f07"/>
-	</game>
 	<game name="Castlevania - Symphony of the Night (World) (XBLA)" id="00017">
 		<description>Castlevania - Symphony of the Night (World) (XBLA)</description>
 		<rom name="58410847\000D0000\9F2DAA064D494AA82B43B65362C59E9B89A88F8F58" size="99901440" crc="15a4b979" md5="2c130d6192b3e700ed43c69ca4527f88" sha1="83147d917009fc52e9df7fe368e0e9f14820236f"/>
+	</game>
+	<game name="Castlevania - Symphony of the Night (Japan) (En) (Stackable) (XBLA)" id="01116">
+		<description>Castlevania - Symphony of the Night (Japan) (En) (Stackable) (XBLA)</description>
+		<rom name="5841089D\000D0000\EB9399B31E4A9181AA7F8F6B7F6ABD3263DDA24058" size="134127616" crc="cce30712" md5="bf35e0f0a7a18c9d3a5632db66532b00" sha1="100d461afed414d34c476da72c4989da1a1d2f07"/>
 	</game>
 	<game name="Castlevania - Symphony of the Night - TU 2 (World) (Addon)" id="06042">
 		<description>Castlevania - Symphony of the Night - TU 2 (World) (Addon)</description>
@@ -18485,10 +18485,6 @@
 		<rom name="434307EC\00009000\0000075C4CF80271C0D7B49C434307EC" size="147456" crc="fd520ae1" md5="46b8bd6390101bfdd97b87d95ae58289" sha1="5be272c050de45aa4642dd3960ff2830d588cfd0"/>
 		<rom name="434307EC\00009000\0000075C650612B2C6BB853C434307EC" size="151552" crc="9c94c0b0" md5="c9425c5118d8261738bf09e860375772" sha1="ed4f2bd6592aed940b4babc224fb1d7a1aa4e401"/>
 	</game>
-	<game name="Dead Rising 2 - Case West (World) (XBLA)" id="02724">
-		<description>Dead Rising 2 - Case West (World) (XBLA)</description>
-		<rom name="58410B00\000D0000\D01128ABB9C7F9694DAE26AC591A269F8480E85A58" size="1224163328" crc="6c8ae11e" md5="779a892bccf606fe9622466c1d5ef03a" sha1="115b80e11d86143fb89d2a6ca2df4baa4277d931"/>
-	</game>
 	<game name="Dead Rising 2 - Case West (Korea) (En) (Stackable) (XBLA)" id="04638">
 		<description>Dead Rising 2 - Case West (Korea) (En) (Stackable) (XBLA)</description>
 		<rom name="58410B2E\000D0000\E39B2624063BDDD0BEE501734F9E835EAF57617D58" size="1224171520" crc="b8f8ad89" md5="e7bee8d7555bddd53198fde893280ad6" sha1="e4b3375b5c9cfcab0a88aa19e31f7b3476165ada"/>
@@ -18497,6 +18493,14 @@
 		<description>Dead Rising 2 - Case West (Japan) (En) (Stackable) (XBLA)</description>
 		<rom name="58410B2D\000D0000\0231FD05F90AB9827546F1D7703BE49C94AF47A358" size="1224167424" crc="119bc358" md5="0fd5ea98978e2c4689bff1fd6a253878" sha1="7d2352e0292edc08f881b86775e79febff012b56"/>
 	</game>
+	<game name="Dead Rising 2 - Case West (World) (XBLA)" id="02724">
+		<description>Dead Rising 2 - Case West (World) (XBLA)</description>
+		<rom name="58410B00\000D0000\D01128ABB9C7F9694DAE26AC591A269F8480E85A58" size="1224163328" crc="6c8ae11e" md5="779a892bccf606fe9622466c1d5ef03a" sha1="115b80e11d86143fb89d2a6ca2df4baa4277d931"/>
+	</game>
+	<game name="Dead Rising 2 - Case Zero (World) (En,Ja,Fr,Es,It,Ko) (XBLA)" id="01271">
+		<description>Dead Rising 2 - Case Zero (World) (En,Ja,Fr,Es,It,Ko) (XBLA)</description>
+		<rom name="58410A8D\000D0000\3A98C69EE94FD53A3D592BBAC2236F2247A2957158" size="864768000" crc="5432768d" md5="3255ad5626f4beb7791d1098020a3bfb" sha1="5ec5a4670de6db4537d3310c9ec73c8397fa0922"/>
+	</game>
 	<game name="Dead Rising 2 - Case Zero (Korea) (En) (Stackable) (XBLA)" id="04636">
 		<description>Dead Rising 2 - Case Zero (Korea) (En) (Stackable) (XBLA)</description>
 		<rom name="58410B20\000D0000\AC3CFFB21D574C960F8C2CDCE29C1919E732144B58" size="864890880" crc="53b40ea9" md5="5d4f408b84c54f6c82e96f39df02a92b" sha1="9b1f039e84fbea08a4038633e12406db695dc0bc"/>
@@ -18504,10 +18508,6 @@
 	<game name="Dead Rising 2 - Case Zero (Japan) (En) (Stackable) (XBLA)" id="04637">
 		<description>Dead Rising 2 - Case Zero (Japan) (En) (Stackable) (XBLA)</description>
 		<rom name="58410ABD\000D0000\522811988F0D7B209E471E6FD781FACC24C4C4C958" size="864903168" crc="dede22c3" md5="2b0c727814b7b83cc617a42f49148942" sha1="51e45bf928614674df29f9514a79adc2c6baeca0"/>
-	</game>
-	<game name="Dead Rising 2 - Case Zero (World) (En,Ja,Fr,Es,It,Ko) (XBLA)" id="01271">
-		<description>Dead Rising 2 - Case Zero (World) (En,Ja,Fr,Es,It,Ko) (XBLA)</description>
-		<rom name="58410A8D\000D0000\3A98C69EE94FD53A3D592BBAC2236F2247A2957158" size="864768000" crc="5432768d" md5="3255ad5626f4beb7791d1098020a3bfb" sha1="5ec5a4670de6db4537d3310c9ec73c8397fa0922"/>
 	</game>
 	<game name="Dead Rising 2 - Ninja Clothes (World) (DLC)" id="09591">
 		<description>Dead Rising 2 - Ninja Clothes (World) (DLC)</description>
@@ -20625,10 +20625,6 @@
 		<description>Doodleman (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\C9A9AEAC1A5BA973AD4C4DB43F4EF0A32A90CFDC58" size="20905984" crc="56d80068" md5="a01dd748e87377b756c3e26520f1709c" sha1="6858abaf3de4b0f78cecee5c504750308e441a30"/>
 	</game>
-	<game name="Doom (World) (XBLA)" id="00096">
-		<description>Doom (World) (XBLA)</description>
-		<rom name="58410824\000D0000\94AE22B56DF675AB857BD1CAE8B605A0917F52CD58" size="23465984" crc="f1850c2b" md5="ed2272c7179a707cf93e0bc55b3a5a8a" sha1="c20d341e8cbad285faa83f23ad34f5fa63d24d82"/>
-	</game>
 	<game name="DOOM (World) (58410824) (Addon)" id="07302">
 		<description>DOOM (World) (58410824) (Addon)</description>
 		<rom name="58410824\00009000\000000083B4232A2CD00A3DC58410824" size="114688" crc="7f01e138" md5="23441aeeb3d2afec3086a0f99c03a3e0" sha1="710df6dc5768bae529fa98e029c68f8fc2c67aed"/>
@@ -20640,6 +20636,10 @@
 		<rom name="58410824\00009000\00001000144022E3C09D6CE458410824" size="290816" crc="729cc3f5" md5="8070ac6d4ba95410b1be2fd1ad7bcf49" sha1="ebe54491bbc9b51764ba81297c1d78fb41b43327"/>
 		<rom name="58410824\00009000\00001000564992E3CBFCE8AA58410824" size="294912" crc="a98f1808" md5="d0892cfe47e4472a48a9660cda580346" sha1="344997f4ed5215339f98649ed6b6afea31319e63"/>
 		<rom name="58410824\00009000\00001000FB4B1283C64E8B3958410824" size="278528" crc="7a261fed" md5="6e6411bcb8d450557c37971ebd0fb35e" sha1="0abc903eeccf1b6d871b205438c5ffccb99206eb"/>
+	</game>
+	<game name="Doom (World) (XBLA)" id="00096">
+		<description>Doom (World) (XBLA)</description>
+		<rom name="58410824\000D0000\94AE22B56DF675AB857BD1CAE8B605A0917F52CD58" size="23465984" crc="f1850c2b" md5="ed2272c7179a707cf93e0bc55b3a5a8a" sha1="c20d341e8cbad285faa83f23ad34f5fa63d24d82"/>
 	</game>
 	<game name="Doom &amp; Destiny (World) (XBLIG)" id="12842">
 		<description>Doom &amp; Destiny (World) (XBLIG)</description>
@@ -21168,10 +21168,6 @@
 		<description>Dragon's Dogma - Unlock Inventory + Bonus Rift Crystals (World) (DLC)</description>
 		<rom name="43430814\00000002\DB342F9ABB1474B5C80B7EAD743887EEC3A1964243" size="57344" crc="ac0fb3c5" md5="039070b8bcda3a0e42f51151a02d6350" sha1="6be6c39bc875ca02f0d88ae370bdbbfa2d98a280"/>
 	</game>
-	<game name="Dragon's Lair (World) (XBLA)" id="03725">
-		<description>Dragon's Lair (World) (XBLA)</description>
-		<rom name="58410B8A\000D0000\53F926E6D533367CB747BF53137F7BD908A5D42F58" size="1036578816" crc="35e23cf3" md5="d464892c100737cfe21bc1266c273d8c" sha1="b118eb00d47269fc42f53825f322ec586e6da9e4"/>
-	</game>
 	<game name="Dragon's Lair (World) (58410B8A) (Addon)" id="07316">
 		<description>Dragon's Lair (World) (58410B8A) (Addon)</description>
 		<rom name="58410B8A\00009000\00000008215CC2C2C2863DB758410B8A" size="131072" crc="e742220c" md5="bd4bc5f4bb3a4c77b0334e81d08587f7" sha1="796bd90b6ded368ac92da3c28d82924d7bc96eed"/>
@@ -21187,6 +21183,10 @@
 		<rom name="58410B8A\00009000\000010002A15C2E3C732B42858410B8A" size="217088" crc="bf50e031" md5="25b3dc5925ebea110a013e0ada87b81d" sha1="dd5fc71860f25178fbf4d12f1ea0f57f86fa3fe0"/>
 		<rom name="58410B8A\00009000\0000100083C53203CD9EA0E858410B8A" size="282624" crc="8dd47846" md5="3730d908270816771de7c0776444b0d8" sha1="ba353902e39bd7a2d421310832200d65bc439d36"/>
 		<rom name="58410B8A\00009000\000010008C002263CF69709258410B8A" size="282624" crc="85966f0a" md5="4bc48c07c44a65301b3775c1ec70e0a7" sha1="38a1ff415963824245d1011a04b4811f76c49c86"/>
+	</game>
+	<game name="Dragon's Lair (World) (XBLA)" id="03725">
+		<description>Dragon's Lair (World) (XBLA)</description>
+		<rom name="58410B8A\000D0000\53F926E6D533367CB747BF53137F7BD908A5D42F58" size="1036578816" crc="35e23cf3" md5="d464892c100737cfe21bc1266c273d8c" sha1="b118eb00d47269fc42f53825f322ec586e6da9e4"/>
 	</game>
 	<game name="Dragons Breath Blue (World) (5858086A) (Addon)" id="07312">
 		<description>Dragons Breath Blue (World) (5858086A) (Addon)</description>
@@ -25095,13 +25095,13 @@
 		<description>Fever Dance with Disco Ball, A (World) (373907D1) (Addon)</description>
 		<rom name="373907D1\00009000\000010005A67F233CF027707373907D1" size="225280" crc="b7ba3ea8" md5="1aca874c843a162684152538bf822f81" sha1="cf0b1442684359befa5c9110b83f81590284aa36"/>
 	</game>
-	<game name="Fez (World) (XBLA)" id="03699">
-		<description>Fez (World) (XBLA)</description>
-		<rom name="584109C0\000D0000\8DB5D1E0841CDAC614A2806A43606EAB2AD54EB358" size="286687232" crc="78c019d8" md5="5ee2ab84378b19fc250c8544a409d680" sha1="2985f8baa8d0ba2131bfdd9b111f627f9e693479"/>
-	</game>
 	<game name="Fez (World) (484907E1) (Addon)" id="07631">
 		<description>Fez (World) (484907E1) (Addon)</description>
 		<rom name="484907E1\00009000\00000040C79E3263C7A3D1ED484907E1" size="81920" crc="df0a72dd" md5="9a527fb91ce995118ce1cf5e3526aad3" sha1="10f42a3e3d7b7d84643f318203ffff5d519daeb0"/>
+	</game>
+	<game name="Fez (World) (XBLA)" id="03699">
+		<description>Fez (World) (XBLA)</description>
+		<rom name="584109C0\000D0000\8DB5D1E0841CDAC614A2806A43606EAB2AD54EB358" size="286687232" crc="78c019d8" md5="5ee2ab84378b19fc250c8544a409d680" sha1="2985f8baa8d0ba2131bfdd9b111f627f9e693479"/>
 	</game>
 	<game name="FFFE07D1 (World) (00009000) (Addon)" id="07632">
 		<description>FFFE07D1 (World) (00009000) (Addon)</description>
@@ -28525,13 +28525,13 @@
 		<description>Goals (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\2D09F5EF756C408D5EE92928E641BC7743B01B6458" size="16379904" crc="78da29a4" md5="3849c5a48a47e42607f222570a63326b" sha1="8cc220108e7f80ca658aaa13825ef04073d5fbcf"/>
 	</game>
-	<game name="Goat Simulator (World) (XBLA)" id="04537">
-		<description>Goat Simulator (World) (XBLA)</description>
-		<rom name="58411498\000D0000\82C39FBF2C7B1799F1B44718D027A6B11BADA41858" size="197271552" crc="6a9ade23" md5="ce2685226c24ff6217ce047bcc8b1dfd" sha1="5efd20a00202ee8c949551a61d218a78ef1a08ed"/>
-	</game>
 	<game name="Goat Simulator (World) (v3) (Title Update)" id="05367">
 		<description>Goat Simulator (World) (v3) (Title Update)</description>
 		<rom name="58411498\000B0000\D98FCD207757E418E1ACC6AD0047F7AF70022A7358" size="307544064" crc="5cb69bd9" md5="7cc5449256ec9ebb0a21bd30fdf64a8b" sha1="610cc24b6613287d3a994bdd7f25274af2da831c"/>
+	</game>
+	<game name="Goat Simulator (World) (XBLA)" id="04537">
+		<description>Goat Simulator (World) (XBLA)</description>
+		<rom name="58411498\000D0000\82C39FBF2C7B1799F1B44718D027A6B11BADA41858" size="197271552" crc="6a9ade23" md5="ce2685226c24ff6217ce047bcc8b1dfd" sha1="5efd20a00202ee8c949551a61d218a78ef1a08ed"/>
 	</game>
 	<game name="Goat Simulator - Goat MMO Simulator (World) (Addon)" id="04679">
 		<description>Goat Simulator - Goat MMO Simulator (World) (Addon)</description>
@@ -32739,10 +32739,6 @@
 		<description>How to Get a Girlfriend (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\1D5B4E86498D0CEC420B45233497849A96C48CBC58" size="5242880" crc="7465482f" md5="e548f452bf26a5acf530d8a203d98843" sha1="40e9f657220392fe1b9e3572419a6d85b308a307"/>
 	</game>
-	<game name="How to Survive (World) (XBLA)" id="04463">
-		<description>How to Survive (World) (XBLA)</description>
-		<rom name="584113E8\000D0000\8EF7F17B76E93B78ADBB1C110EA1244C783EC38F58" size="1505943552" crc="1c6c5db2" md5="2774633185944bfeaae9b565555ff7b3" sha1="766d3e5a2229d9b0f81c000bbef8cd6de3a21293"/>
-	</game>
 	<game name="How to Survive (World) (584113E8) (Addon)" id="07994">
 		<description>How to Survive (World) (584113E8) (Addon)</description>
 		<rom name="584113E8\00009000\0000000840603212C00BD967584113E8" size="110592" crc="c74d647c" md5="d7552610c4cfab5812329a2a2bf2c4a2" sha1="14d39430b9eeac55ba04869af3ef408e9632e09c"/>
@@ -32752,6 +32748,10 @@
 		<rom name="584113E8\00009000\000005440CD722C3C66F6D0C584113E8" size="106496" crc="98729007" md5="e3dc49e806fa53bbed86bae15d3d78ac" sha1="1796238e3af853bf1fb3eebfed8e186c9ed6b1ab"/>
 		<rom name="584113E8\00009000\00000AF8CE7222C2CB4E52DF584113E8" size="200704" crc="3607c38b" md5="ffb7637c821d3e89a6a542684dc4909a" sha1="072df31890a20104147017dad19f2de517f96b4c"/>
 		<rom name="584113E8\00009000\00000FFCCE7202E1CB9F310A584113E8" size="274432" crc="f046dc62" md5="9c53b4f214fb2478560a81448381b39a" sha1="3c875022d1633525688577f824d1b2164c6ab22f"/>
+	</game>
+	<game name="How to Survive (World) (XBLA)" id="04463">
+		<description>How to Survive (World) (XBLA)</description>
+		<rom name="584113E8\000D0000\8EF7F17B76E93B78ADBB1C110EA1244C783EC38F58" size="1505943552" crc="1c6c5db2" md5="2774633185944bfeaae9b565555ff7b3" sha1="766d3e5a2229d9b0f81c000bbef8cd6de3a21293"/>
 	</game>
 	<game name="How to Survive (World) (v1) (Title Update)" id="05337">
 		<description>How to Survive (World) (v1) (Title Update)</description>
@@ -51807,6 +51807,10 @@
 		<description>Peg Solitaire (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\5CFA559C6288757F099A5EAECAC219C2E240023D58" size="598016" crc="b4164e91" md5="e4f4d923c83b6d65244427b4c70857a6" sha1="9ff4b12208fc686d77a4e512ad3435b7681a2a7d"/>
 	</game>
+	<game name="Peggle (World) (XBLA)" id="00040">
+		<description>Peggle (World) (XBLA)</description>
+		<rom name="58410889\000D0000\87D0A5D366F24C8FF8BEE120E5F72D78F100E18958" size="107302912" crc="ac82b645" md5="b0af4134938e0d9ea73b9c91d9a3e283" sha1="9a0ff6911bbd00cef504cfa5f0a35ec91a6e25ca"/>
+	</game>
 	<game name="Peggle (World) (58410889) (Addon)" id="08521">
 		<description>Peggle (World) (58410889) (Addon)</description>
 		<rom name="58410889\00009000\00000040D6448253C6531C5758410889" size="90112" crc="d586eea1" md5="19804126d76d9df9cbb9be955581c918" sha1="95db51b337334947a162793df01eb73d07ec0479"/>
@@ -51821,10 +51825,6 @@
 		<rom name="58410889\00009000\00000FFCD644A2A2CDCEBD1C58410889" size="258048" crc="dbdce343" md5="d120fd88a980b298725bc7e6bae708c0" sha1="c0d2b930da7550e88e981dcc6516bd141ab840fb"/>
 		<rom name="58410889\00009000\00000FFCD644E281CEEC9E8F58410889" size="241664" crc="f0b56b12" md5="701a457101d60e0f1a2a3c850024f72f" sha1="df3362d25acebea241dab034ea2bd7d6cecaecb5"/>
 		<rom name="58410889\00009000\00001000D644D223C775322F58410889" size="286720" crc="4e6bc542" md5="c1d0ea538038c2e2f030bc7efa5fa849" sha1="eb6566665b95a95cb660c77e95cc6ac221d37f93"/>
-	</game>
-	<game name="Peggle (World) (XBLA)" id="00040">
-		<description>Peggle (World) (XBLA)</description>
-		<rom name="58410889\000D0000\87D0A5D366F24C8FF8BEE120E5F72D78F100E18958" size="107302912" crc="ac82b645" md5="b0af4134938e0d9ea73b9c91d9a3e283" sha1="9a0ff6911bbd00cef504cfa5f0a35ec91a6e25ca"/>
 	</game>
 	<game name="Peggle (World) (v2) (Title Update)" id="05317">
 		<description>Peggle (World) (v2) (Title Update)</description>
@@ -69406,13 +69406,13 @@
 		<description>Straight Talk Avatar Prop (World) (354E0852) (Addon)</description>
 		<rom name="354E0852\00009000\00001000E2699283C2794AA7354E0852" size="245760" crc="9fa07b1f" md5="39d7f9133e2127d8b99b5b0468cf07eb" sha1="e9cee113857239c642e102d86f80eb22e20864a3"/>
 	</game>
-	<game name="Strania - The Stella Machina (World) (v1) (Title Update)" id="05330">
-		<description>Strania - The Stella Machina (World) (v1) (Title Update)</description>
-		<rom name="58410AA5\000B0000\3F6A7617F3D1F7EB83F8F4A337C88693A66BB90358" size="421888" crc="91527a9c" md5="cf7be5e93958d2c829d393ab6931d1dc" sha1="b2e5eacc8bf3a7c2d3ca3e9758d780df7e2b9447"/>
-	</game>
 	<game name="Strania - The Stella Machina (World) (XBLA)" id="03123">
 		<description>Strania - The Stella Machina (World) (XBLA)</description>
 		<rom name="58410AA5\000D0000\12F39C7E661AC02E0E8A92A9487A7C5D8A67207F58" size="216850432" crc="6114a89f" md5="7f4e8cfa379ac019637c7fc599a783dd" sha1="7b142c637cc8171985b2cdb2ece09fab3813c80a"/>
+	</game>
+	<game name="Strania - The Stella Machina (World) (v1) (Title Update)" id="05330">
+		<description>Strania - The Stella Machina (World) (v1) (Title Update)</description>
+		<rom name="58410AA5\000B0000\3F6A7617F3D1F7EB83F8F4A337C88693A66BB90358" size="421888" crc="91527a9c" md5="cf7be5e93958d2c829d393ab6931d1dc" sha1="b2e5eacc8bf3a7c2d3ca3e9758d780df7e2b9447"/>
 	</game>
 	<game name="Strania - The Stella Machina - Add-on Gamemode Side VOWER (World) (Addon)" id="03202">
 		<description>Strania - The Stella Machina - Add-on Gamemode Side VOWER (World) (Addon)</description>
@@ -73906,13 +73906,13 @@
 		<description>Widows Peak Hair (World) (444D07D9) (Addon)</description>
 		<rom name="444D07D9\00009000\00000544704F62C3CE09F8D1444D07D9" size="81920" crc="b7c7e68e" md5="9348381eb0230b49cf1a821c430ea350" sha1="791d784fe7beb19745d4570d474d8f4ca91fac0f"/>
 	</game>
-	<game name="Wik and the Fable of Souls (World) (v2) (Title Update)" id="05352">
-		<description>Wik and the Fable of Souls (World) (v2) (Title Update)</description>
-		<rom name="584107DD\000B0000\AABF904176BD4939A2FA7F6889AA1BBF66297F6F58" size="3235840" crc="9e59e1b8" md5="70183e9bad2602f922efc6f09bd4cafd" sha1="4125f7d98a53ecbd24082df8cf982ec8bb43b867"/>
-	</game>
 	<game name="Wik and the Fable of Souls (World) (XBLA)" id="00223">
 		<description>Wik and the Fable of Souls (World) (XBLA)</description>
 		<rom name="584107DD\000D0000\648945D83E85F7A2EDAAEC857E71FE039FBC9E4058" size="23621632" crc="9e5c92b4" md5="8b2f0ee810d1b287db4157cc703e60f8" sha1="ed531545e9d6628442ffb1e136a090ecc6cef90d"/>
+	</game>
+	<game name="Wik and the Fable of Souls (World) (v2) (Title Update)" id="05352">
+		<description>Wik and the Fable of Souls (World) (v2) (Title Update)</description>
+		<rom name="584107DD\000B0000\AABF904176BD4939A2FA7F6889AA1BBF66297F6F58" size="3235840" crc="9e59e1b8" md5="70183e9bad2602f922efc6f09bd4cafd" sha1="4125f7d98a53ecbd24082df8cf982ec8bb43b867"/>
 	</game>
 	<game name="Wild 2018 Jersey (World) (5858087F) (Addon)" id="09364">
 		<description>Wild 2018 Jersey (World) (5858087F) (Addon)</description>

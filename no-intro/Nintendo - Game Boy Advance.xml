@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260424-121228</version>
+		<version>20260425-201346</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9294,9 +9294,10 @@
 		<description>Penny Racers (Europe)</description>
 		<rom name="Penny Racers (Europe).gba" size="4194304" crc="8fddd48b" md5="b48f441dc1d55a69a325ad812aef764f" sha1="7c097634fadc6270873a4a5cf2eb0a8beb3c9e6e" serial="AQAP"/>
 	</game>
-	<game name="Perplexus Diodomin (World) (Proto)" id="2910">
-		<description>Perplexus Diodomin (World) (Proto)</description>
-		<rom name="Perplexus Diodomin (World) (Proto).gba" size="1681812" crc="3442f9cf" md5="7a91b281a98eabf2150c0cee965a3066" sha1="f3c7093e9770632de618c7931f287ebc7b5e0aa2" sha256="1dc629a8bdd8cb994f1c233677be05b29f29f079b0c0210664783a92e76eeb9c"/>
+	<game name="Perplexus Diodomin (Europe) (Proto)" id="2910">
+		<category>Games</category>
+		<description>Perplexus Diodomin (Europe) (Proto)</description>
+		<rom name="Perplexus Diodomin (Europe) (Proto).gba" size="1681812" crc="3442f9cf" md5="7a91b281a98eabf2150c0cee965a3066" sha1="f3c7093e9770632de618c7931f287ebc7b5e0aa2" sha256="1dc629a8bdd8cb994f1c233677be05b29f29f079b0c0210664783a92e76eeb9c"/>
 	</game>
 	<game name="Peter Pan - Return to Neverland (USA) (Rev 1)" id="2847" cloneofid="2833">
 		<description>Peter Pan - Return to Neverland (USA) (Rev 1)</description>
@@ -9743,7 +9744,7 @@
 	</game>
 	<game name="Pokemon - Saphir-Edition (Germany)" id="1075" cloneofid="1986">
 		<description>Pokemon - Saphir-Edition (Germany)</description>
-		<rom name="Pokemon - Saphir-Edition (Germany).gba" size="16777216" crc="6fcd7a98" md5="43906c58afaf0760f62ec698ef10eafc" sha1="5a087835009d552d4c5c1f96be3be3206e378153" status="verified" serial="AXPD"/>
+		<rom name="Pokemon - Saphir-Edition (Germany).gba" size="16777216" crc="6fcd7a98" md5="43906c58afaf0760f62ec698ef10eafc" sha1="5a087835009d552d4c5c1f96be3be3206e378153" sha256="93273046f4a89990bfb162ce1c3661982e3d9e6b8e677b6b31c44353207ea13d" status="verified" serial="AXPD"/>
 	</game>
 	<game name="Pokemon - Saphir-Edition (Germany) (Rev 1)" id="1960" cloneofid="1986">
 		<description>Pokemon - Saphir-Edition (Germany) (Rev 1)</description>

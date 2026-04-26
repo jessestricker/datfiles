@@ -4,8 +4,8 @@
 		<id>82</id>
 		<name>Nintendo - New Nintendo 3DS (Digital) (Deprecated)</name>
 		<description>Nintendo - New Nintendo 3DS (Digital) (Deprecated)</description>
-		<version>20211118-112910</version>
-		<author>aci68, C. V. Reynolds, Hiccup, jimmsu, MeguCocoa, SonGoku, xuom2</author>
+		<version>20260425-042910</version>
+		<author>aci68, bikerspade, C. V. Reynolds, Hiccup, jimmsu, MeguCocoa, root, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -60,7 +60,7 @@
 	</game>
 	<game name="Binding of Isaac - Rebirth, The (Japan) [b]" id="0004">
 		<description>Binding of Isaac - Rebirth, The (Japan) [b]</description>
-		<rom name="Binding of Isaac - Rebirth, The (Japan) [b]." size="536870912" crc="7b768407" md5="1130597bf659e48fc35545079b70656d" sha1="a3568ed30c0856daa4a11fe641d2fa495f465035" status="baddump" serial="KTR-N-CBRJ"/>
+		<rom name="Binding of Isaac - Rebirth, The (Japan) [b].3ds" size="536870912" crc="7b768407" md5="1130597bf659e48fc35545079b70656d" sha1="a3568ed30c0856daa4a11fe641d2fa495f465035" status="baddump" serial="KTR-N-CBRJ"/>
 	</game>
 	<game name="Binding of Isaac, The - Rebirth (Korea)" id="z047">
 		<description>Binding of Isaac, The - Rebirth (Korea)</description>

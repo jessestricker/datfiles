@@ -4,8 +4,8 @@
 		<id>144</id>
 		<name>Nintendo - Misc</name>
 		<description>Nintendo - Misc</description>
-		<version>20260116-154229</version>
-		<author>ajshell1, Arctic Circle System, Hiccup, Larsenv, MeguCocoa, NovaAurora, PPLToast, rarenight, relax, SonGoku, www2, xprism</author>
+		<version>20260425-042521</version>
+		<author>ajshell1, Arctic Circle System, bikerspade, Hiccup, Larsenv, MeguCocoa, NovaAurora, PPLToast, rarenight, relax, SonGoku, www2, xprism</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -1847,7 +1847,7 @@
 	</game>
 	<game name="IS-CTR-BOX - FX2 firmware EEPROM (Unknown)" id="0491">
 		<description>IS-CTR-BOX - FX2 firmware EEPROM (Unknown)</description>
-		<rom name="IS-CTR-BOX - FX2 firmware EEPROM (Unknown)." size="8192" crc="96027f6d" md5="47e402692139c69e5dbfaa0901a76c82" sha1="4afb2173b1a0338901c8c0b454ac43bf361a21b6" sha256="e69e990aa4bbf7bb64ca26c43b5ed522593fb960252b2235423975f43703eaf9"/>
+		<rom name="IS-CTR-BOX - FX2 firmware EEPROM (Unknown).bin" size="8192" crc="96027f6d" md5="47e402692139c69e5dbfaa0901a76c82" sha1="4afb2173b1a0338901c8c0b454ac43bf361a21b6" sha256="e69e990aa4bbf7bb64ca26c43b5ed522593fb960252b2235423975f43703eaf9"/>
 	</game>
 	<game name="IS-CTR-BOX - NOR flash (Unknown)" id="0490">
 		<description>IS-CTR-BOX - NOR flash (Unknown)</description>
