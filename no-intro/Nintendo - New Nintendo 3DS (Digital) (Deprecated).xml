@@ -4,7 +4,7 @@
 		<id>82</id>
 		<name>Nintendo - New Nintendo 3DS (Digital) (Deprecated)</name>
 		<description>Nintendo - New Nintendo 3DS (Digital) (Deprecated)</description>
-		<version>20260425-042910</version>
+		<version>20260426-070149</version>
 		<author>aci68, bikerspade, C. V. Reynolds, Hiccup, jimmsu, MeguCocoa, root, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -214,7 +214,7 @@
 	</game>
 	<game name="Dragon Fang (Japan) [b]" id="0005">
 		<description>Dragon Fang (Japan) [b]</description>
-		<rom name="Dragon Fang (Japan) [b]." size="536870912" crc="1b241b78" md5="3eecd009e0a7f36a380ceb083871d717" sha1="5e340100bb96fa6b7c4e3e241c3af2e3d30270d8" status="baddump" serial="KTR-N-CDFJ"/>
+		<rom name="Dragon Fang (Japan) [b].3ds" size="536870912" crc="1b241b78" md5="3eecd009e0a7f36a380ceb083871d717" sha1="5e340100bb96fa6b7c4e3e241c3af2e3d30270d8" status="baddump" serial="KTR-N-CDFJ"/>
 	</game>
 	<game name="DragonFang - The Doran and Dungeon of Time (Japan)" id="z062">
 		<description>DragonFang - The Doran and Dungeon of Time (Japan)</description>

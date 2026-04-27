@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV</name>
-		<description>Commodore - Amiga CDTV - Discs (60) (2026-04-02 02-15-42)</description>
-		<version>2026-04-02 02-15-42</version>
-		<date>2026-04-02 02-15-42</date>
+		<description>Commodore - Amiga CDTV - Discs (61) (2026-04-27 20-40-31)</description>
+		<version>2026-04-27 20-40-31</version>
+		<date>2026-04-27 20-40-31</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -551,5 +551,11 @@
 		<description>Fractal Universe (Europe)</description>
 		<rom name="Fractal Universe (Europe).cue" size="91" crc="66204205" md5="24fe428c63b8e5142b8800831c67731b" sha1="3bfe225816b75885f6d63d6c209b26eb257fdd23"/>
 		<rom name="Fractal Universe (Europe).bin" size="128948400" crc="88facd9f" md5="798f75337c5e0d9a4039a79ac566cbe6" sha1="f848ce3fffc199f684c125c5c71997dfb7c6998c"/>
+	</game>
+	<game name="All Dogs Go to Heaven - Talking Electric Crayon (USA)">
+		<category>Educational</category>
+		<description>All Dogs Go to Heaven - Talking Electric Crayon (USA)</description>
+		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).cue" size="119" crc="669a7878" md5="d452d5f001ba2d720491b3b42ef27eb5" sha1="486f9e0fbf3e78909a68b45779a4a94d7b7bf138"/>
+		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc"/>
 	</game>
 </datafile>
