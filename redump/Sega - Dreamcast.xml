@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1514) (2026-04-27 20-31-11)</description>
-		<version>2026-04-27 20-31-11</version>
-		<date>2026-04-27 20-31-11</date>
+		<description>Sega - Dreamcast - Discs (1515) (2026-04-28 18-09-02)</description>
+		<version>2026-04-28 18-09-02</version>
+		<date>2026-04-28 18-09-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18663,5 +18663,13 @@
 		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 1).bin" size="13138272" crc="20fad070" md5="a4f19d2e56f1db8e30f1b476c31cbd6f" sha1="7e505ae2b5563cc7040f3d3734aef99c79305f88"/>
 		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 2).bin" size="10729824" crc="7a877b36" md5="3ce58d7c16d95dbac6aca732ac006eb1" sha1="43e03f1ca8cb46d2fbb35d47094f6cb038ae7d5f"/>
 		<rom name="Comic Party (Japan) (Disc 2) (Rev B) (Track 3).bin" size="1185760800" crc="1e88092b" md5="b9a223fdfc64191c12419b9f38b0937b" sha1="df0e43ced2a6916fff90b3b5dad38d5281805f5a"/>
+	</game>
+	<game name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan)">
+		<category>Games</category>
+		<description>Neppachi - 10-renchan de Las Vegas Ryokou (Japan)</description>
+		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan).cue" size="441" crc="8cfe7d75" md5="17f8c1f4cf1071e1795c37ad67eea137" sha1="16253b4949c694cb72332c723e8e8a83075de390"/>
+		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 1).bin" size="1992144" crc="8c987832" md5="87eea713edec9b1169d0e03f573067af" sha1="069b34758a6f2dcae2224fc434c7c2177e5c1c43"/>
+		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 3).bin" size="1185760800" crc="8543708d" md5="c3e46def4b87fe50bcc0bf58e0d8cd63" sha1="289c060021ad4fb12bc9886f06563b084e5d0331"/>
 	</game>
 </datafile>

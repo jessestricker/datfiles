@@ -4,8 +4,8 @@
 		<id>57</id>
 		<name>Microsoft - Xbox 360 (Digital)</name>
 		<description>Microsoft - Xbox 360 (Digital)</description>
-		<version>20260426-234309</version>
-		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
+		<version>20260428-111030</version>
+		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, quig, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -68,8 +68,8 @@
 		<description>007 Legends - Patrice Character Skin (World) (Addon)</description>
 		<rom name="415608D8\00000002\0B2C1B4D2FCBD3650011FFD35A639B8C69F1E85641" size="61440" crc="e90ea13c" md5="af723f9fede0d8b515559d3305d2d70d" sha1="f6c8cc9dcd7de3abcf6739ca64602c1bb5728b16" sha256="4465a96ad55ab85b2c8a2ddb4a791722bcd204d2aa5bfd50eab74d50b3491aa8"/>
 	</game>
-	<game name="007 Legends - SKYFALL Content Pack (World) (Addon)" id="05605">
-		<description>007 Legends - SKYFALL Content Pack (World) (Addon)</description>
+	<game name="007 Legends - Skyfall Content Pack (World) (DLC)" id="05605">
+		<description>007 Legends - Skyfall Content Pack (World) (DLC)</description>
 		<rom name="415608D8\00000002\DE5B2D9D60BDAA4584F67F5A27E1130D47DA7AA441" size="61440" crc="47ac6126" md5="f5323eef1912a66053113337fa14a35f" sha1="f876164813025d1d64953f2f5b3cfe92934efff7" sha256="b233940e95392fb68d7f566862a3ed5de0fc1732c1726b31dfe14be79ac2f2ff"/>
 	</game>
 	<game name="1 Can Gold Gas Mask (World) (373907D1) (Addon)" id="06158">
@@ -144,8 +144,8 @@
 		<description>2 JAWSOME (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\980D608E823FBD1FCBF1C1E930AF0B1489A461A558" size="48758784" crc="7512197f" md5="40df6986b2d82ac859d764216ed34c5f" sha1="7bc89bf8e7c6176cda08097c75dcb26c78e16f2a"/>
 	</game>
-	<game name="20 Games to Play With Your Mates (World) (XBLIG)" id="11801">
-		<description>20 Games to Play With Your Mates (World) (XBLIG)</description>
+	<game name="20 Games to Play with Your Mates (World) (XBLIG)" id="11801">
+		<description>20 Games to Play with Your Mates (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\9FBA48DAD2A251798651D1B4AD970ECE378EC2C658" size="42409984" crc="a99d0770" md5="df4bf6944115d7f683d1a47e30d4d9d5" sha1="aceffb7e9fa2b758132757a5276b514b862cf8cc"/>
 	</game>
 	<game name="2010 - A New Threat (World) (XBLIG)" id="11802">
@@ -218,46 +218,6 @@
 		<description>2015 Nissan GT R Nismo White Rear (World) (373907D3) (Addon)</description>
 		<rom name="373907D3\00009000\00000008034572B2C8F03B6A373907D3" size="106496" crc="269650f3" md5="819b04e7119b1c3eea73b5d0d9e18451" sha1="98cb933d14a46fe4e9e2f39e27410d32c5e60daa"/>
 		<rom name="373907D3\00009000\00000008C97912E1C26B4065373907D3" size="110592" crc="85c367c1" md5="eaa11407e262531b79080715cef1d31b" sha1="80f6c5e8cde429fcd1ed1dbd5d08b7d199c8373f"/>
-	</game>
-	<game name="2015 Year of Gaming Blue Tee (World) (373907D1) (Addon)" id="06170">
-		<description>2015 Year of Gaming Blue Tee (World) (373907D1) (Addon)</description>
-		<rom name="373907D1\00009000\00000008319E1271C11937AF373907D1" size="126976" crc="53bc919b" md5="02f5e283ed660fff83a027f8da4fd625" sha1="0d3648abf1a7296631ec876cf2051f6b3fcdf58e"/>
-	</game>
-	<game name="2015 Year of Gaming Green Tee (World) (373907D1) (Addon)" id="06171">
-		<description>2015 Year of Gaming Green Tee (World) (373907D1) (Addon)</description>
-		<rom name="373907D1\00009000\000000081D91B201C56EA0B7373907D1" size="122880" crc="e96b967e" md5="cf85ca79b4f984263cf9b4e85eabd8a1" sha1="867f11aec869ab307161572d54a94535cde0918d"/>
-	</game>
-	<game name="2015 Year of Gaming Purple Tee (World) (373907D1) (Addon)" id="06172">
-		<description>2015 Year of Gaming Purple Tee (World) (373907D1) (Addon)</description>
-		<rom name="373907D1\00009000\00000008F5E6F221C2E7D1F3373907D1" size="122880" crc="31f5f6ec" md5="9a6172b9c0fb61d5d533adc26e1ac98b" sha1="0288e4608a760778d0ceba4eff02f1dcb5a0d5ec"/>
-	</game>
-	<game name="2015 Year of Gaming Red Tee (World) (373907D1) (Addon)" id="06173">
-		<description>2015 Year of Gaming Red Tee (World) (373907D1) (Addon)</description>
-		<rom name="373907D1\00009000\000000084EF22231C7CE84BF373907D1" size="122880" crc="bd5978c0" md5="b63be8086ca660d1b9053047ed9afd0d" sha1="b9eecb0acdd5d6fd5044b8e13150a2af6344c531"/>
-	</game>
-	<game name="2016 C7R Edition Corvette Black Tee 1 (World) (373907D4) (Addon)" id="06174">
-		<description>2016 C7R Edition Corvette Black Tee 1 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008848CA211CBC68073373907D4" size="106496" crc="3fa0a250" md5="22110f11cfdd479723a5af5d9183c8ba" sha1="65502dcf64fd8c3b6fc264a00f5f9ed0241ac29a"/>
-	</game>
-	<game name="2016 C7R Edition Corvette Black Tee 2 (World) (373907D4) (Addon)" id="06175">
-		<description>2016 C7R Edition Corvette Black Tee 2 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\000000085D61C2D1CEA31A8C373907D4" size="106496" crc="4c971450" md5="75230bd5077035b46c8312685ee747e7" sha1="51d3d2b64acce8a29662731c1e95a121e49e66a9"/>
-	</game>
-	<game name="2016 C7R Edition Corvette Black Tee 3 (World) (373907D4) (Addon)" id="06176">
-		<description>2016 C7R Edition Corvette Black Tee 3 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008E00DE241CB58F4D5373907D4" size="106496" crc="d73722f3" md5="f185eaf828e5091eb9c4ca780ebda720" sha1="fc594a7b478eca1350bd30be4b2df65cf6962e09"/>
-	</game>
-	<game name="2016 C7R Edition Corvette White Tee 1 (World) (373907D4) (Addon)" id="06177">
-		<description>2016 C7R Edition Corvette White Tee 1 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008D8A7C241C345AA2B373907D4" size="110592" crc="f11b2557" md5="bd5a6e3d6288bbc344c0cba7b72b187b" sha1="d775356dc852ea819c839259e37759d11f022dc5"/>
-	</game>
-	<game name="2016 C7R Edition Corvette White Tee 2 (World) (373907D4) (Addon)" id="06178">
-		<description>2016 C7R Edition Corvette White Tee 2 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\0000000841C3F291C4D39F95373907D4" size="110592" crc="18e8cc1f" md5="dcabdf45feb4ce4c632586f4509eb8b7" sha1="5a798d8a020426fbd0f305574b4ae80bb0610eec"/>
-	</game>
-	<game name="2016 C7R Edition Corvette White Tee 3 (World) (373907D4) (Addon)" id="06179">
-		<description>2016 C7R Edition Corvette White Tee 3 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\000000084534F2A1CE1DA869373907D4" size="110592" crc="0c17a9ea" md5="71ef319b6ee96dcbc55458eeadbd6c8b" sha1="def8e7c93d985b5197ec2a1caaf927e7a87d6174"/>
 	</game>
 	<game name="2016 Cavaliers Champions Tee (World) (58580848) (Addon)" id="06180">
 		<description>2016 Cavaliers Champions Tee (World) (58580848) (Addon)</description>
@@ -364,38 +324,6 @@
 		<description>2017 California Tee (World) (444D07D1) (Addon)</description>
 		<rom name="444D07D1\00009000\00000008C24042D2C161FBFE444D07D1" size="114688" crc="6507329a" md5="4702690414ea64d84af5c9b6eb285819" sha1="722381a0daeebfc329509ddb2d0f5e8df8927964"/>
 		<rom name="444D07D1\00009000\00000008E341E2A1CFED1BFC444D07D1" size="114688" crc="543bdcc5" md5="e1ebf2afc045f46230287432f376e08a" sha1="f1e3234343b35d1b60fc38667ef24480994a2359"/>
-	</game>
-	<game name="2017 Camaro LT 1LE Black Tee (World) (373907D4) (Addon)" id="06204">
-		<description>2017 Camaro LT 1LE Black Tee (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008CF8C8291CE15D605373907D4" size="106496" crc="bbcfd2fe" md5="a9584483b4553e4f06292dc0c8b5dcab" sha1="f3be31975bbbc1dd795c142f9e132d03ccd91d8b"/>
-	</game>
-	<game name="2017 Camaro LT 1LE White Tee (World) (373907D4) (Addon)" id="06205">
-		<description>2017 Camaro LT 1LE White Tee (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008679CA2F1CEFB7341373907D4" size="110592" crc="846a4cc1" md5="76a9c1537aa78e5cc6201a97dd704d07" sha1="fa11df0d3e7ae42703403d6b17590cecd5984f11"/>
-	</game>
-	<game name="2017 Camaro SS Black Tee (World) (373907D4) (Addon)" id="06206">
-		<description>2017 Camaro SS Black Tee (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\0000000873DB2231CC1592B0373907D4" size="106496" crc="8edd0774" md5="3265235e26d4c2e0f40d34c33f1f72cf" sha1="47d5ce68e2fb740f696dfc1e49f0cc10f63f066b"/>
-	</game>
-	<game name="2017 Camaro SS White Tee (World) (373907D4) (Addon)" id="06207">
-		<description>2017 Camaro SS White Tee (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\000000082871F251C25D7EEF373907D4" size="110592" crc="65388708" md5="6ca2ada9af379ac01f4f3d687ab4f62c" sha1="2e7188fb33431311fe0634a41d6b63f5cd137876"/>
-	</game>
-	<game name="2017 Camaro ZL1 Black Tee 1 (World) (373907D4) (Addon)" id="06208">
-		<description>2017 Camaro ZL1 Black Tee 1 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\0000000844AF8211C8C90A62373907D4" size="106496" crc="fa84f86d" md5="11361e25f5be3ff5fb5439d281a8945f" sha1="dd443a34ede6e7b41d04a3f3712d103b0516da0c"/>
-	</game>
-	<game name="2017 Camaro ZL1 Black Tee 2 (World) (373907D4) (Addon)" id="06209">
-		<description>2017 Camaro ZL1 Black Tee 2 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\0000000875C51221C1FB621F373907D4" size="110592" crc="e5635065" md5="2ae39934169af297515567157bcfd2e5" sha1="382f77436dd07996cf64ef88440e25dc931b56c7"/>
-	</game>
-	<game name="2017 Camaro ZL1 White Tee 1 (World) (373907D4) (Addon)" id="06210">
-		<description>2017 Camaro ZL1 White Tee 1 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008F8C2B2A1CA96DACB373907D4" size="110592" crc="bea96b53" md5="88a8cb588aeac30b5c0a88b2ad5c7caa" sha1="2be7dac53f72b756474ea3e5bb3fc5ea731b18a6"/>
-	</game>
-	<game name="2017 Camaro ZL1 White Tee 2 (World) (373907D4) (Addon)" id="06211">
-		<description>2017 Camaro ZL1 White Tee 2 (World) (373907D4) (Addon)</description>
-		<rom name="373907D4\00009000\00000008E2330291C2BCDD91373907D4" size="110592" crc="333a857f" md5="84f986924564e516aeb7e7e18813e7db" sha1="edd8b5a7b32bd40be7986c69b7efb605134d5104"/>
 	</game>
 	<game name="2017 Colorado Cap (World) (444D07D1) (Addon)" id="06212">
 		<description>2017 Colorado Cap (World) (444D07D1) (Addon)</description>
@@ -536,171 +464,10 @@
 		<description>2017 Year of Gaming Red Tee (World) (373907D1) (Addon)</description>
 		<rom name="373907D1\00009000\000000087293D291C3EA7379373907D1" size="110592" crc="722b5893" md5="8c61eb960e8b1a2636f79395900c5b24" sha1="727df0e3040075f9acd52be09cd30594feb5cbae"/>
 	</game>
-	<game name="2018 76ers Redick Jersey (World) (58580848) (Addon)" id="06245">
-		<description>2018 76ers Redick Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208E042A2F1CF371E9F58580848" size="122880" crc="4f1cea0b" md5="02ff831cbae7253d9ebaa77d587f4b2a" sha1="d93fb82ec3533193c8832967385250cf50d32d6f"/>
-	</game>
-	<game name="2018 Bucks Antetokounmpo Jersey (World) (58580848) (Addon)" id="06246">
-		<description>2018 Bucks Antetokounmpo Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002084242C221C6AF71FF58580848" size="118784" crc="918e6ee1" md5="94b07e70c472b901de98bbc298cd4ba1" sha1="afa5afc0d2b2ada9ce09384b0b290162ab15d7a9"/>
-	</game>
-	<game name="2018 Bulls Lopez Jersey (World) (58580848) (Addon)" id="06247">
-		<description>2018 Bulls Lopez Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208914C0231C8A9239B58580848" size="118784" crc="d9e0d57f" md5="8e45c3ad269989da2bc8d8864b62f090" sha1="dc3d134247076bacbbdb54c4eca30be89ff77568"/>
-	</game>
-	<game name="2018 Cavaliers James Jersey (World) (58580848) (Addon)" id="06248">
-		<description>2018 Cavaliers James Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002086B4432F1C5BD3E8858580848" size="122880" crc="2e04b3aa" md5="1462ec8b681394853e8b4b04e7d7dbed" sha1="b865c70f04879d2f2fe8713b8a2abadeaa1184f5"/>
-	</game>
-	<game name="2018 Celtics Hayward Jersey (World) (58580848) (Addon)" id="06249">
-		<description>2018 Celtics Hayward Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208854822A1C2D6130D58580848" size="118784" crc="bdb2f180" md5="5832bf503dd420fd12b1440c14ee5751" sha1="58e97c3a33ee857ba415d0f796099d7cf10d5089"/>
-	</game>
-	<game name="2018 Celtics Horford Jersey (World) (58580848) (Addon)" id="06250">
-		<description>2018 Celtics Horford Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208284CB201C27EAAF158580848" size="118784" crc="18c4ab49" md5="d7fccab0b536a0d668550752ec9825d2" sha1="045e04f897cef1ef54bff2fb2ca40d47e236d55f"/>
-	</game>
-	<game name="2018 Celtics Irving Jersey (World) (58580848) (Addon)" id="06251">
-		<description>2018 Celtics Irving Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208884C82A1C8FA0C8958580848" size="118784" crc="795cd7a4" md5="46cf8c83e8fad62730e6572752d720f8" sha1="407e29b61a85d02cfa95f0c5ee70f93903c30205"/>
-	</game>
-	<game name="2018 Clippers Griffin Jersey (World) (58580848) (Addon)" id="06252">
-		<description>2018 Clippers Griffin Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002084346C291CCD1883F58580848" size="118784" crc="78c35c92" md5="972e7e2a8769ebe3ce5f4ac18834767d" sha1="2918c55b625a72add73493467da3553550764991"/>
-	</game>
-	<game name="2018 Grizzlies Conley Jersey (World) (58580848) (Addon)" id="06253">
-		<description>2018 Grizzlies Conley Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002080E4CA231C08A7CCF58580848" size="118784" crc="e0dc0878" md5="e794e3f59fdf82e41c55307bec9a33e7" sha1="9c850e326bcb6c3024c845fb0b4d5d1450e1fcb5"/>
-	</game>
-	<game name="2018 Hawks Bazemore Jersey (World) (58580848) (Addon)" id="06254">
-		<description>2018 Hawks Bazemore Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208834EF211C4B3D35058580848" size="135168" crc="a41d6d2e" md5="05fe39f29d191fb7dc4b107f2e17e1cf" sha1="5637e2aff194d6c7025400ca4eea689689ef2b93"/>
-	</game>
-	<game name="2018 Heat Whiteside Jersey (World) (58580848) (Addon)" id="06255">
-		<description>2018 Heat Whiteside Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208F44682C1C9BF84B958580848" size="114688" crc="d1ae8ec2" md5="c3107eb172a786bdd6edb79cbc4532cd" sha1="018dfa23f8b46a6ed79a9b5a750c107ddf01e212"/>
-	</game>
-	<game name="2018 Hornets Howard Jersey (World) (58580848) (Addon)" id="06256">
-		<description>2018 Hornets Howard Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208BD4652C1C32B3BED58580848" size="118784" crc="54ecdff4" md5="d8fd05cdb059013d34bc2d8f812f80da" sha1="240ef229c2fc1daa60e7296f752509448742c89a"/>
-	</game>
-	<game name="2018 Jazz Gobert Jersey (World) (58580848) (Addon)" id="06257">
-		<description>2018 Jazz Gobert Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002082C4C0231C0A3150A58580848" size="118784" crc="923084d2" md5="54c4c38718496765cec2f46c232587e4" sha1="45f3b278d13fcf21b268e56bd2e082e9c5e6fd86"/>
-	</game>
-	<game name="2018 Kings Hill Jersey (World) (58580848) (Addon)" id="06258">
-		<description>2018 Kings Hill Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208AB467231CE3C220C58580848" size="118784" crc="55a431f8" md5="81e6ed8383fe1b271e194af5073ab468" sha1="324e6eb4740a385bdba0ea8cfdc57b9e863627b6"/>
-	</game>
-	<game name="2018 Knicks Porzingis Jersey (World) (58580848) (Addon)" id="06259">
-		<description>2018 Knicks Porzingis Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208584EB241C3035E7558580848" size="122880" crc="db04d5ba" md5="dfbe4533f47a832587520e56aa9c2ad7" sha1="76dbbb84baa58a154fec3bbc308de098cc87b24e"/>
-	</game>
-	<game name="2018 Lakers Lopez Jersey (World) (58580848) (Addon)" id="06260">
-		<description>2018 Lakers Lopez Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\0000020837475271C1FF165758580848" size="118784" crc="34ceeb34" md5="76fa962e21bb46db920a97360dbedd70" sha1="a4e0e1d2ff7697446af791afdac75ef474187985"/>
-	</game>
-	<game name="2018 Mavericks Barnes Jersey (World) (58580848) (Addon)" id="06261">
-		<description>2018 Mavericks Barnes Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208254DA211CE74BE8958580848" size="118784" crc="02268fd1" md5="1650d99888878d19fa4b315c6308ed8f" sha1="e45803995293cb3a1e8c4fdd78072ecef52fa296"/>
-	</game>
-	<game name="2018 NBA All Star Game Hat Black (World) (58580848) (Addon)" id="06262">
-		<description>2018 NBA All Star Game Hat Black (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000040E74772B3C31493BD58580848" size="86016" crc="2ddb4bde" md5="8d6dc8a2c14c7fe59bb8bd9f1e002bb7" sha1="862b4fa41690c479c9f0a48cd5916d59b975e724"/>
-	</game>
-	<game name="2018 NBA All Star Game Hat White (World) (58580848) (Addon)" id="06263">
-		<description>2018 NBA All Star Game Hat White (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000000409C46B233C2B67EB958580848" size="90112" crc="6a18e641" md5="7e0c6c733d8a1b63e75946786565e7cd" sha1="4ca9e4ceff4eb7ab86a10f559a3451a9b5859c54"/>
-	</game>
 	<game name="2018 NBA All Star Game Tee Black (World) (58580848) (Addon)" id="06264">
 		<description>2018 NBA All Star Game Tee Black (World) (58580848) (Addon)</description>
 		<rom name="58580848\00009000\00000008004BF231CFA8A22C58580848" size="118784" crc="cc2e450f" md5="6a48c0f98b87859fed2b5a24c3fa41fc" sha1="fc82c9e72ef775de5fd2f679c19df2a629c70fa0"/>
 		<rom name="58580848\00009000\000000084D4E5242C43C944F58580848" size="118784" crc="3786743a" md5="6dde90b0ce1ba02e116d61dfcbdff779" sha1="174374aa3a359759c99d4f96dcc432a26e197109"/>
-	</game>
-	<game name="2018 NBA All Star Game Tee White (World) (58580848) (Addon)" id="06265">
-		<description>2018 NBA All Star Game Tee White (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000000082E4FB2F1C52F568C58580848" size="122880" crc="670c0d18" md5="33fb6b8948ad80f7e0a486133049a324" sha1="7b35668ceca1a384f5a9ced47204e5a285760b7a"/>
-		<rom name="58580848\00009000\00000008B94712A2C1103CF358580848" size="118784" crc="12ad8cc0" md5="ce70b9b6a12d408893d0cb098a766148" sha1="7f871611bcf2d7e82a0e40922ad77311908a03e2"/>
-	</game>
-	<game name="2018 Nets Crabbe Jersey (World) (58580848) (Addon)" id="06266">
-		<description>2018 Nets Crabbe Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002081842C231C868BDDB58580848" size="114688" crc="6a16e1da" md5="2c7ed4e74aaae175e00c7c9ab9344a8f" sha1="6387394512c0fbe18a6e127997c575d45c84ae39"/>
-	</game>
-	<game name="2018 New Year Shades Gold (World) (58580828) (Addon)" id="06267">
-		<description>2018 New Year Shades Gold (World) (58580828) (Addon)</description>
-		<rom name="58580828\00009000\000001006F432263C0F9DF3258580828" size="81920" crc="4785f5eb" md5="82bb8e7b8b3cacfcc6954db1425c8b4d" sha1="3f1b7f07a31ef18a022e513d937c12270f123b65"/>
-	</game>
-	<game name="2018 New Year Shades Green (World) (58580828) (Addon)" id="06268">
-		<description>2018 New Year Shades Green (World) (58580828) (Addon)</description>
-		<rom name="58580828\00009000\000001004448A263C99BD5F158580828" size="81920" crc="7ff5db27" md5="f3e594fa3f9ce60b46db3b99a77ee138" sha1="b68680eee85c155d32ac23b4a8a41639e64b6886"/>
-	</game>
-	<game name="2018 New Year Shades Rainbow (World) (58580828) (Addon)" id="06269">
-		<description>2018 New Year Shades Rainbow (World) (58580828) (Addon)</description>
-		<rom name="58580828\00009000\00000100184722D3C66F259958580828" size="81920" crc="6e1ffed0" md5="4bea60990f33597e93e66a3af69f634b" sha1="68a3708bdd5367e8c3a9f9a92f5166be26c91161"/>
-	</game>
-	<game name="2018 Nuggets Millsap Jersey (World) (58580848) (Addon)" id="06270">
-		<description>2018 Nuggets Millsap Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002089C4E42F1CFCFD9C458580848" size="118784" crc="beefc7d8" md5="bfcd97ff3ffa51db132209aeb62e8755" sha1="1939f164fdfefee0539abc57f5fd47c5aa8ab9ee"/>
-	</game>
-	<game name="2018 Pacers Oladipo Jersey (World) (58580848) (Addon)" id="06271">
-		<description>2018 Pacers Oladipo Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208B4471231CAFDF07958580848" size="118784" crc="cbb94dfc" md5="0eb5bc5cbda47fcbe811ae34828ed460" sha1="cb2a3ff72d7c0e568bf07301df7be9bee0142e37"/>
-	</game>
-	<game name="2018 Pelicans Holiday Jersey (World) (58580848) (Addon)" id="06272">
-		<description>2018 Pelicans Holiday Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208D24862D1CD48926658580848" size="118784" crc="1915b59c" md5="7860c626a75c68243b1dde484458c182" sha1="3138b2f7b847c54eb4fbc888836d3f7b0dad97c8"/>
-	</game>
-	<game name="2018 Pistons Drummond Jersey (World) (58580848) (Addon)" id="06273">
-		<description>2018 Pistons Drummond Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002082F41D291C84A98DF58580848" size="118784" crc="414f58c9" md5="1ba0f9b1d0095037e4aabbc2e6e5b56e" sha1="d3662dd91feaff28d393575ada5257cdaa650b48"/>
-	</game>
-	<game name="2018 Raptors DeRozan Jersey (World) (58580848) (Addon)" id="06274">
-		<description>2018 Raptors DeRozan Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002085F4D6281C4C03AAD58580848" size="118784" crc="51b24c68" md5="87e3888003f0a84dd679a0ca840cafee" sha1="23dd6d5c828ced8b8210c82398011e719cd7d2fa"/>
-	</game>
-	<game name="2018 Raptors Ibaka Jersey (World) (58580848) (Addon)" id="06275">
-		<description>2018 Raptors Ibaka Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208CB42F251C145FC9758580848" size="118784" crc="d1743ece" md5="1b84686bfdf59718f351569a4b9d48f7" sha1="e309091767af88cbf81934c49fea5179aa1661e1"/>
-	</game>
-	<game name="2018 Raptors Lowry Jersey (World) (58580848) (Addon)" id="06276">
-		<description>2018 Raptors Lowry Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208934E9271C8D2DF4F58580848" size="118784" crc="f376f801" md5="daa3130cd2c7b05a8f9704c731c8dba0" sha1="f7a306fc1df100be25583ad2144cca852e058e2c"/>
-	</game>
-	<game name="2018 Rockets Harden Jersey (World) (58580848) (Addon)" id="06277">
-		<description>2018 Rockets Harden Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208FE480281C561238B58580848" size="118784" crc="2ff2d0e2" md5="bf7b8cf76e55495932de75e45ff559c9" sha1="a3615234ae7a0fffed14e57367847d62fd7c1c3f"/>
-	</game>
-	<game name="2018 Spurs Aldridge Jersey (World) (58580848) (Addon)" id="06278">
-		<description>2018 Spurs Aldridge Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208674B4291C37317BD58580848" size="114688" crc="50aef83e" md5="8d8e5895a9138bde434aa07559d7fc82" sha1="981b7621d3b7a02dcac4b52ed320198cbb5bc34b"/>
-	</game>
-	<game name="2018 Suns Blesdoe Jersey (World) (58580848) (Addon)" id="06279">
-		<description>2018 Suns Blesdoe Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208644E0241C5BD6BED58580848" size="114688" crc="d9e65e9e" md5="83552935e3205e0539ac9fbecae0984e" sha1="6b363fafa26f010c110e363db2f77deebb504da3"/>
-	</game>
-	<game name="2018 Thunder Westbrook Jersey (World) (58580848) (Addon)" id="06280">
-		<description>2018 Thunder Westbrook Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002080D4FB281C0A89E9058580848" size="118784" crc="cfa50f26" md5="b595aa8314f085cf8a113b2973c6921e" sha1="86b480d6683335e097a775f796ee63c0438f0b3b"/>
-	</game>
-	<game name="2018 Timberwolves Butler Jersey (World) (58580848) (Addon)" id="06281">
-		<description>2018 Timberwolves Butler Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208D349A2F1C9FB309B58580848" size="114688" crc="28c9c483" md5="8394cebb37f5e5bb4b62875c03e8442c" sha1="22527556b2c11c1bd8a7e4bfa9c0c78ed43cda4e"/>
-	</game>
-	<game name="2018 Trail Blazers Lillard Jersey (World) (58580848) (Addon)" id="06282">
-		<description>2018 Trail Blazers Lillard Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002087C4242F1C83E3FDD58580848" size="114688" crc="6a60cd85" md5="62e08044fea8dcd5cf83cb2452c53ec9" sha1="1dd8da3be2af03d2bb44ee6e02b01be337a7d85b"/>
-	</game>
-	<game name="2018 Warriors Curry Jersey (World) (58580848) (Addon)" id="06283">
-		<description>2018 Warriors Curry Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208FC4CF2E1C2F5DBD858580848" size="122880" crc="b79709bd" md5="daaaf65a12d141979503366a14afd93d" sha1="a537266d8ba102c468ee100aa92956d9297353ee"/>
-	</game>
-	<game name="2018 Warriors Durant Jersey (World) (58580848) (Addon)" id="06284">
-		<description>2018 Warriors Durant Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208354552A1C8DC952C58580848" size="122880" crc="b711f5d9" md5="fd577a62b6b1c06d638de41dbc928d87" sha1="7b0913555d76023b98d87c93fb06944093d13286"/>
-	</game>
-	<game name="2018 Wizards Porter Jersey (World) (58580848) (Addon)" id="06285">
-		<description>2018 Wizards Porter Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208DC4082A1C97878F458580848" size="118784" crc="52e0353d" md5="0b34819979cdfeff21f177e8e8edb677" sha1="8a48fc3e693a80496266f1486863f7c734a5415c"/>
 	</game>
 	<game name="2048 - Xbox 360 Edition (World) (XBLIG)" id="11805">
 		<description>2048 - Xbox 360 Edition (World) (XBLIG)</description>
@@ -758,13 +525,13 @@
 		<description>3 Days of Nurse Fanny (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\05EFC5CCEC83296E5231015C2CEB57FA0E1E9F8158" size="90492928" crc="2e0cd3a5" md5="d0e11588fcbeaaba8fa3baeed3789637" sha1="c73c5ee8fea2130f33eb509a88adc5f41155928b"/>
 	</game>
-	<game name="3 in 1 - game compilation (World) (XBLIG)" id="11819">
-		<description>3 in 1 - game compilation (World) (XBLIG)</description>
-		<rom name="584E07D2\00000002\B81BBADCE0B6345BE88D3588BB33FCD010DA125158" size="2793472" crc="2e8de98c" md5="68e5b10436187be2414cd7e33e45a719" sha1="f01821b957625bf4b048f084c4f149566921c92f"/>
-	</game>
 	<game name="3 on 3 NHL Arcade (World) (XBLA)" id="00046">
 		<description>3 on 3 NHL Arcade (World) (XBLA)</description>
 		<rom name="58410975\000D0000\B33BCD40B743939135673278470A8DD80BC6458758" size="189460480" crc="cc2b7502" md5="ceb9aff26e1f55013f963bc02dbdaf5f" sha1="d384e1ee945a4f63a8aa3d4dfc9c8e062a809d5e"/>
+	</game>
+	<game name="3-in-1 Game Compilation (World) (XBLIG)" id="11819">
+		<description>3-in-1 Game Compilation (World) (XBLIG)</description>
+		<rom name="584E07D2\00000002\B81BBADCE0B6345BE88D3588BB33FCD010DA125158" size="2793472" crc="2e8de98c" md5="68e5b10436187be2414cd7e33e45a719" sha1="f01821b957625bf4b048f084c4f149566921c92f"/>
 	</game>
 	<game name="360 Lines (World) (XBLIG)" id="11820">
 		<description>360 Lines (World) (XBLIG)</description>
@@ -871,34 +638,6 @@
 		<description>48 Chambers (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\079442F68DD1C088DA24982EC966B3F91945F8A758" size="15568896" crc="e28d648d" md5="4f8b2e914408129be236cd677257478e" sha1="57ca4dc399415049d5db21093073d21b73d761d1"/>
 	</game>
-	<game name="49ers 2017 Jersey (World) (444D07D5) (Addon)" id="06293">
-		<description>49ers 2017 Jersey (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\000002089B4DF211CDCA92F3444D07D5" size="122880" crc="a5fe16e6" md5="da3b04ae9b6b2e6c05d15206c71e7aa2" sha1="b61ee641bc55dde95a69983dae068b1537c2c329"/>
-	</game>
-	<game name="49ers Fan Jersey (World) (444D07D5) (Addon)" id="06294">
-		<description>49ers Fan Jersey (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\000002088F466291C47D7AF1444D07D5" size="126976" crc="731e9de2" md5="c0d1199b209b2f6145a644766c75daae" sha1="5cf12e2ab80657014636d48fd0e84a5079c2a880"/>
-	</game>
-	<game name="49ers Gold Shield Cap (World) (444D07D5) (Addon)" id="06295">
-		<description>49ers Gold Shield Cap (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\00000040CA411223C2D4B577444D07D5" size="81920" crc="a3ab9c4e" md5="06033e5484fd78bdcf3b98b6bc009585" sha1="4549c6bce8f460aa2468d0dec6eaefc0003776b3"/>
-	</game>
-	<game name="49ers Gold Trim Cap (World) (444D07D5) (Addon)" id="06296">
-		<description>49ers Gold Trim Cap (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\000000401549C273C5D212AA444D07D5" size="86016" crc="302cad99" md5="e211bb1382a1de9cc60df5370c2e78ba" sha1="0669c55b7a9acc8291508cc6babeab37687f2894"/>
-	</game>
-	<game name="49ers Gold Trim Tee (World) (444D07D5) (Addon)" id="06297">
-		<description>49ers Gold Trim Tee (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\00000008F1448241C444D971444D07D5" size="114688" crc="008f356a" md5="e788809e898fd701cc5a86e36030578a" sha1="44e4ae0dedac87075d58920f688d1bae80ca1765"/>
-	</game>
-	<game name="49ers Tailgate Party (World) (444D07D5) (Addon)" id="06298">
-		<description>49ers Tailgate Party (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\00001000754222B3C5833C34444D07D5" size="245760" crc="0c1e92d7" md5="b52f28912236fd7a64e59d541b2a0102" sha1="d9ac0d61d089b8e77a167cc0f24c4cefbcd81fba"/>
-	</game>
-	<game name="49ers Winning Splash (World) (444D07D5) (Addon)" id="06299">
-		<description>49ers Winning Splash (World) (444D07D5) (Addon)</description>
-		<rom name="444D07D5\00009000\00001000F8413283CB3CDA20444D07D5" size="266240" crc="5a16c9ed" md5="edb568ae98ab7e303677d65ad659bb03" sha1="0b2c3a390b1805f2ee7debc3efcadb27e0b540ca"/>
-	</game>
 	<game name="4P Ping-Pong (World) (XBLIG)" id="11832">
 		<description>4P Ping-Pong (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\82F624C91FA9FE8C2DA5C95062DE9DBCD878E36958" size="1437696" crc="afabf38d" md5="4ede41e4db2e59f42fa35057e31bbb7d" sha1="c8314e1c51e80be35a7c97df94366a944871ef20"/>
@@ -927,51 +666,6 @@
 		<description>7 Strains - The Infectious (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\9008363EA3D650AAA08197971EE358BE226BC1CE58" size="17530880" crc="8be511f6" md5="0806d4d67ca08f456538e12ff30dc851" sha1="c71169ecdecda0d583627fe24e562597a71484c5"/>
 	</game>
-	<game name="76ers 2016 Alternate Jersey (World) (58580848) (Addon)" id="06300">
-		<description>76ers 2016 Alternate Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000000082C452281C0DD9F9758580848" size="122880" crc="e007a7cb" md5="ad0e1ad1891cf16632066c0dbc07ecf1" sha1="7c118121b22be60b2eafbd4f7506058ee9614327"/>
-	</game>
-	<game name="76ers 2016 Alternate Shorts (World) (58580848) (Addon)" id="06301">
-		<description>76ers 2016 Alternate Shorts (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000010684782D1C6DB30E958580848" size="98304" crc="c5287139" md5="47df0fa3e1cb10667da298958d101967" sha1="62e6c297d95cc428cb832bda149a49a482b5b1ca"/>
-	</game>
-	<game name="76ers Bayless Jersey (World) (58580848) (Addon)" id="06302">
-		<description>76ers Bayless Jersey (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000208A64D6211CE95848D58580848" size="118784" crc="69f2b399" md5="8a75f3101d7c08fdb32b61c6fbf695ff" sha1="231896a97b325bdb93afb8b9fba34a992d72c039"/>
-	</game>
-	<game name="76ers Bling Hat (World) (58580848) (Addon)" id="06303">
-		<description>76ers Bling Hat (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000005442F44E213C745761558580848" size="126976" crc="1e406294" md5="63ab7e06f6ed94f0dc4a14cb3adbc420" sha1="d7218c68f455851a64ec5e82c208f7ea5dea34f0"/>
-	</game>
-	<game name="76ers Bling Hat SE (World) (58580848) (Addon)" id="06304">
-		<description>76ers Bling Hat SE (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000005447D4BF2C3C1B1CE6358580848" size="131072" crc="91f71eff" md5="682fba6de52d5c2f2553f10b072e3c74" sha1="669ffe78901d27182a24bc305205877ea16ed68d"/>
-	</game>
-	<game name="76ers Cap (World) (58580848) (Addon)" id="06305">
-		<description>76ers Cap (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000040BA4FA283C02F390D58580848" size="90112" crc="e067a771" md5="312ada3dc1e011d0eaed14c4715d0021" sha1="5a0de66983b22cd3855e5142a3d0dfe31bd25e38"/>
-	</game>
-	<game name="76ers Fitted Cap (World) (58580848) (Addon)" id="06306">
-		<description>76ers Fitted Cap (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000000405242C243CDCC7A6B58580848" size="90112" crc="13e14ac1" md5="290a7b382cec4c8e42c8bb640084c8d7" sha1="ddffda30b411bb28c781a503f3cbe45aecc40121"/>
-	</game>
-	<game name="76ers Hoodie (World) (58580848) (Addon)" id="06307">
-		<description>76ers Hoodie (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\000002082C465281C2850CB158580848" size="147456" crc="122250fa" md5="d0fabb8579b3c1c3d71dea2706e31734" sha1="9628f88aafb38f54d0c3e0e72a289a54af74e3e0"/>
-	</game>
-	<game name="76ers On Court Tee (World) (58580848) (Addon)" id="06308">
-		<description>76ers On Court Tee (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000008414852C1CD50386658580848" size="122880" crc="1eae356e" md5="04f4ca2f8c10886f68dd6912e87c59b9" sha1="9289e82a35be57611a7699d5bd66a9aa74a33256"/>
-	</game>
-	<game name="76ers Playoffs Tee (World) (58580848) (Addon)" id="06309">
-		<description>76ers Playoffs Tee (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000008334232E1CF0F9F5858580848" size="118784" crc="ddc5b7c9" md5="ba4c2d3d0230ab6671e8fecaa2213ecb" sha1="da1d8e1dc9e132ea2541101f6edba90d4c93465c"/>
-		<rom name="58580848\00009000\000000085C41E232CC11CBF858580848" size="118784" crc="1d6462f1" md5="fa26a5a88b4cffd810b81707429059a1" sha1="1d081989402643645cce209f76aacfb36ee28c12"/>
-	</game>
-	<game name="76ers Tee (World) (58580848) (Addon)" id="06310">
-		<description>76ers Tee (World) (58580848) (Addon)</description>
-		<rom name="58580848\00009000\00000008D44372E1C2027B9E58580848" size="126976" crc="03ce6510" md5="8239601cfe5f2acc644a74aa2977636c" sha1="9b514c0d0d39ffc806c90f3d227c05bcd3e049ba"/>
-	</game>
 	<game name="8 Ball (World) (XBLIG)" id="11839">
 		<description>8 Ball (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\3AE5E85CE0CEA1BAD6B2F542DD72EFD1EDCAA1A058" size="17387520" crc="4cf76ed7" md5="89a1a371212ff5c74c0e3c765083267b" sha1="b22b0a6e80e1a65b24724e4bb41486c0914b61a8"/>
@@ -988,8 +682,8 @@
 		<description>8-Bit Defense (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\48EA3A5E429D4E5FF0F48E044B91D14218CA73F158" size="315392" crc="cbb964cf" md5="5702bfcfe24d89a7f6528528ba67100c" sha1="99b7591403e9d59657f273ee64406d073ebf86bf"/>
 	</game>
-	<game name="8-bit Girlfriend (World) (XBLIG)" id="11843">
-		<description>8-bit Girlfriend (World) (XBLIG)</description>
+	<game name="8-Bit Girlfriend (World) (XBLIG)" id="11843">
+		<description>8-Bit Girlfriend (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\EE9DEA6C337B7688834C1EF2254A64EC843FE10A58" size="24477696" crc="d0c81d3b" md5="561ba8e5de5a5f6a332b6690b2444406" sha1="b7c291dad63c55a623749d6f705d1524b636daa2"/>
 	</game>
 	<game name="80's Modern (World) (58580819) (Addon)" id="06313">
@@ -1024,10 +718,6 @@
 		<rom name="58580819\00009000\00000A80D6C2B2B2CD21384758580819" size="98304" crc="240c6e02" md5="4806035f2677928f755fc4c7d8097984" sha1="c84ae69d8e7ab1b248f9e224b97130edfe94f11f"/>
 		<rom name="58580819\00009000\00000A88F7D59232C298C6CA58580819" size="147456" crc="b7df5722" md5="45370e651ff37a95f2e6d08e04270e2b" sha1="54995d49fa75c60a3cc3e2acaa77a248f74a190f"/>
 	</game>
-	<game name="80s Action Star (World) (444D07D9) (Addon)" id="06312">
-		<description>80s Action Star (World) (444D07D9) (Addon)</description>
-		<rom name="444D07D9\00009000\00000FFC2B471281C86AC360444D07D9" size="253952" crc="1d0a89fa" md5="11bbff1aa41ca81632c8c23b6dab7e2e" sha1="8cf142dccf87d9ca263191480b127132917cb212"/>
-	</game>
 	<game name="8BitsRetroZSurvivals (World) (XBLIG)" id="11844">
 		<description>8BitsRetroZSurvivals (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\90074672375F819709E8329F65F6843415F46B1258" size="96432128" crc="c292f3a3" md5="643600bfc3ce3971d0a6307fd4ba872c" sha1="00713c5d98b242e1cf0cc76fd37f386ed91e3ac6"/>
@@ -1039,45 +729,6 @@
 	<game name="9 Ball Pool Champion (World) (XBLIG)" id="11846">
 		<description>9 Ball Pool Champion (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\CB256BB65D64EE30E34809D493DFDD8AD543AEB658" size="48320512" crc="0d862cf6" md5="15e0786e6bfb937ebb81a8ff01709e34" sha1="5f0b30e238469d7ee9cecf240cc09b477f4bc57e"/>
-	</game>
-	<game name="a Voxel Action (World) (XBLIG)" id="11847">
-		<description>a Voxel Action (World) (XBLIG)</description>
-		<rom name="584E07D2\00000002\4C64BD82B89AC067247AB47B6DEA16D519DE199658" size="26800128" crc="d7d881b5" md5="f1a509ac16404d40bf261341c3afa030" sha1="83664ca9b7675480e3bfc242d0eeeef61dc639e0"/>
-	</game>
-	<game name="A World of Keflings (World) (584109DB) (Addon)" id="06315">
-		<description>A World of Keflings (World) (584109DB) (Addon)</description>
-		<rom name="584109DB\00009000\00000008427982F1C2017A6D584109DB" size="114688" crc="38001a4e" md5="b1c797a7fbd9132da2aed0534ad44b61" sha1="30c2ef07ba3d15215f223b04d5554ddb20c2b57c"/>
-		<rom name="584109DB\00009000\00000008459C3271C04C36B3584109DB" size="114688" crc="ed3407a1" md5="b90d06ddb6516048d03b2fd2cfda966a" sha1="9e8561b01f519fd8c450909191e07dc0dd83d58d"/>
-		<rom name="584109DB\00009000\0000000849DC8291C99BD571584109DB" size="110592" crc="554759ec" md5="597835b4488f1f2d5c60d8d73bdf452d" sha1="6f4a48d542df89ec51dfe8bcee0b8f866295be29"/>
-		<rom name="584109DB\00009000\00000008502B22D2CA43195F584109DB" size="114688" crc="eb831699" md5="0304815adbe01f8bd6a918f3d7b0735c" sha1="24d7d3f5d1ddd4d785e505fe3f5d367cdcc4c890"/>
-		<rom name="584109DB\00009000\0000000852952291CEB27326584109DB" size="110592" crc="c969b368" md5="01de813b7a73466aeef84222f39925a0" sha1="1d1a65a86fd0cde6c757bcdc17a4dfa897a51cdb"/>
-		<rom name="584109DB\00009000\0000000855A45281CAC2D885584109DB" size="110592" crc="1b47ec36" md5="5c5dd6eb56b1f89f70eb52a239c3697e" sha1="14f31e2cddd47e5dded5a762dae98be76a43fb06"/>
-		<rom name="584109DB\00009000\000000085DBAE272C20A0E47584109DB" size="114688" crc="1af50387" md5="61f722afd9e8744189c971b551128640" sha1="428f86897f05fa38a6a2f868545c0ef4ce6c7665"/>
-		<rom name="584109DB\00009000\000000086EB372D1C61B38EB584109DB" size="114688" crc="aeb2ed25" md5="7b64d3aaddd3b526dab1b8e596602793" sha1="a5a5e360a56359c89a661a5f5425480c1b2ca42a"/>
-		<rom name="584109DB\00009000\0000000889B2C202C2376C0C584109DB" size="114688" crc="2735a843" md5="9b15c72960bfbaf050bd3052cb671c6b" sha1="c06e02f192ef1086f46f30556e6d5a62971a9953"/>
-		<rom name="584109DB\00009000\00000008916F42F2C6AD77F9584109DB" size="122880" crc="26e193d6" md5="0757f9ba05f5d2187f412492bf2cacf5" sha1="74a2120e3252f5e192bdeddcfe669cc81157d418"/>
-		<rom name="584109DB\00009000\00000008BC572241C705489F584109DB" size="110592" crc="b7bcc9ee" md5="16046bc3a14ad714b2a9c4d67b647332" sha1="661db60ccce71eb37ad6c56f2a09ce1e87545359"/>
-		<rom name="584109DB\00009000\00000008D6953262C0C362F3584109DB" size="110592" crc="37c6b024" md5="3f4d7cabf72c23502723f55f1a134aa0" sha1="f8af87eb8d2b41686de495d458425736d364ab31"/>
-		<rom name="584109DB\00009000\00000008E5DBB2C1C1473199584109DB" size="114688" crc="9474c9fb" md5="3da79ed087c72a4452b81404e1f17977" sha1="c06e4199890351095a307aa10701747c716aa061"/>
-		<rom name="584109DB\00009000\00000008EFED3282C2803580584109DB" size="118784" crc="4d58f3fc" md5="4cd6ffeded681fde12a2e29b784e847c" sha1="710d980fbed5c2438d8d7604e2f1faa4b8312a74"/>
-		<rom name="584109DB\00009000\00000010005C2291C3B4F23C584109DB" size="102400" crc="85718ccc" md5="2dbcceee0f36415bec0f3270e0daa023" sha1="bf779d94a8b8f84bb2ecec834610ad3f25325e3b"/>
-		<rom name="584109DB\00009000\000000101BFA12B2C805D5EB584109DB" size="110592" crc="b88e19f9" md5="b1a4f7e49633dce321317c6b7dc6cfa9" sha1="169560ac75afbe3029d2c6acfaf914f68e8eb24a"/>
-		<rom name="584109DB\00009000\00000010496D42F1C693E7C6584109DB" size="106496" crc="40681820" md5="5464566cbb9e999d4225b4c2234f5480" sha1="bd5b04e1696ffb611f63a42123e9ea49bde5fe27"/>
-		<rom name="584109DB\00009000\0000001093D1A2C2CC2ABD68584109DB" size="114688" crc="9133cb20" md5="dcf13b52bd2cfc5a4267492963d5ed6d" sha1="090bdc746ec35c25d04bb9f564a424917ab9aa60"/>
-		<rom name="584109DB\00009000\00000010D14A8201CBAFBA83584109DB" size="102400" crc="2a0d5dd1" md5="26f0d7ab6aa10ea45b4b6e457c8c7baa" sha1="9b059e72463e76ee94f3a5f3027a9fe4c0b71dd0"/>
-		<rom name="584109DB\00009000\00000010D55C1242CC163C03584109DB" size="110592" crc="5a5db5b2" md5="547c92a71c50a7d0d0b19c6e94bf9968" sha1="1a99c62c3b65b58a3bd0ea760d4f2c57923edd3a"/>
-		<rom name="584109DB\00009000\000000404A2A92B3CDF330D8584109DB" size="90112" crc="eb7771cd" md5="2da0b961e665f08164a5c5f6bcd25fbb" sha1="1ddafafa2d552ec4d86119585659340b086dbecb"/>
-		<rom name="584109DB\00009000\000000405AF0D2A3CE3140DD584109DB" size="86016" crc="d0fd9eb9" md5="63a568c9bee7d19ccfbb3e06ae8d6b68" sha1="f02baea61a016544e55daeb4c1631df1bd74d769"/>
-		<rom name="584109DB\00009000\000000407673C2F3C55C1749584109DB" size="98304" crc="bd817828" md5="3408d9b3708fc27c5df79cd6d57eeacb" sha1="86a783b79c2f4eaed0dfd3cc8ab962d1c97d867a"/>
-		<rom name="584109DB\00009000\00000040D5DEC293CD7CBA8D584109DB" size="90112" crc="0f4b2437" md5="d85fd8ec18945e8fe9139d29e76968f6" sha1="d96826f17dbd3b3cfaafb6b5caf5aec46a764820"/>
-		<rom name="584109DB\00009000\00000278559992E1C71E4C3C584109DB" size="126976" crc="473c636f" md5="22c4779e2fdf758673dd174e1ee39201" sha1="3c35e4d9cc5e1c2d0626b203f685995e87ccee5f"/>
-		<rom name="584109DB\00009000\000005444DC152A3C674FA8A584109DB" size="102400" crc="df2c76eb" md5="fb7366929183ee7806091aec756e9b96" sha1="ff3b27971b3f1ff6723d3d3f49f48365fc594844"/>
-		<rom name="584109DB\00009000\000005444FBB8263C7D725E1584109DB" size="106496" crc="dcb1ac80" md5="67e0332c5367e12e2d3423a825de7160" sha1="492a9ad99e02d8b5ad457b1dfea0589c7f0b33da"/>
-		<rom name="584109DB\00009000\00000638725142F2CEC71838584109DB" size="122880" crc="dd8be213" md5="dea1e637b63219334b335319d427545c" sha1="ba5137d5fe9fa1962896e30305698b168e882db5"/>
-		<rom name="584109DB\00009000\00000AF816F78251C1F2D770584109DB" size="131072" crc="174308f1" md5="fc4dac94800ea0e569c4206a87ebd9a4" sha1="8a9f236b4c882a66b493809416be5a22536168d6"/>
-		<rom name="584109DB\00009000\00000FB8D2AE12B2CC5C773B584109DB" size="126976" crc="8f84b0af" md5="37d61cb97c0149ada42cfd673c41a9c1" sha1="4f10165cc193d6424006e7f2c9d16b5c38d687ba"/>
-		<rom name="584109DB\00009000\00000FFCCA1D12C1C654FB40584109DB" size="192512" crc="83297133" md5="ad76641b8c8cd6cbc6e1e52551788ec0" sha1="d734729a1bbc0f42d53debcca2f99b5f8b46f328"/>
-		<rom name="584109DB\00009000\00000FFCE2718292C63D324A584109DB" size="192512" crc="77164e64" md5="db16a31cdb5ae3da635ab348bfe6c8b5" sha1="7d4d4b9fd4b1581ee174b738aec9f7371e559d00"/>
 	</game>
 	<game name="A-Band (World) (XBLIG)" id="11860">
 		<description>A-Band (World) (XBLIG)</description>
@@ -1156,10 +807,6 @@
 		<description>Abduction Action! Plus (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\9D939E2ED1545D7D1904B0D65A44D63DD48E832058" size="57053184" crc="44a5e52a" md5="2ba604746c7ce821dcd503049d4f28b6" sha1="db39676a586fde86f56e5e0055960cd368537738"/>
 	</game>
-	<game name="Abe Beard (World) (444D07D9) (Addon)" id="06316">
-		<description>Abe Beard (World) (444D07D9) (Addon)</description>
-		<rom name="444D07D9\00009000\0000054454425283CB56594C444D07D9" size="106496" crc="e12199b0" md5="8d1fa3d1b6aecec66fb4d6593d2fd381" sha1="075a4c0349029dd6089bf2383a70a09acde026a1"/>
-	</game>
 	<game name="Abmastrophy (World) (XBLIG)" id="11863">
 		<description>Abmastrophy (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\3152CEE377F4C6C6375216349EC7B64AB326C3BB58" size="18042880" crc="5c78a2a9" md5="2e8443f04a53bef5c250c8796e7daa70" sha1="1f3bae1787be1ade3cb25703503abf6286f8e513"/>
@@ -1168,8 +815,9 @@
 		<description>About to Blow Up Part 1 (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\FC4DF1B899DB81F6799FB43F00C6A8A4DAEADD2558" size="71811072" crc="c1de74ac" md5="b9abd9f0a1132dec8cda4b382d8b8f39" sha1="943dd376630caade5be22244b5228f12d16259b3"/>
 	</game>
-	<game name="Abraham Lincoln Vampire Hunter (World) (58570A0E) (Addon)" id="06317">
-		<description>Abraham Lincoln Vampire Hunter (World) (58570A0E) (Addon)</description>
+	<game name="Abraham Lincoln Vampire Hunter (World) (Avatar Item)" id="06317">
+		<description>Abraham Lincoln Vampire Hunter (World) (Avatar Item)</description>
+		<game_id>58570A0E</game_id>
 		<rom name="58570A0E\00009000\000005446C1EC203C5C257C058570A0E" size="110592" crc="77dc0988" md5="bc34f231021ac67c556599ead5f0f47c" sha1="b1e62c16505be6d625935b77549845bfd8f1ddb5"/>
 	</game>
 	<game name="Abronium Tournament (World) (XBLIG)" id="11865">
@@ -1195,10 +843,6 @@
 	<game name="Abstacked (World) (XBLIG)" id="11870">
 		<description>Abstacked (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\87E01C8BC15CFE3EE2D75E668BFE139548E7E8F358" size="9682944" crc="2f6782c9" md5="740ea1ff9880f27157bb4c992b72f139" sha1="9bcccb05a0095fb34572bdc7c7bf0a5130cbb5a6"/>
-	</game>
-	<game name="Abyss Horror (World) (5858086A) (Addon)" id="06318">
-		<description>Abyss Horror (World) (5858086A) (Addon)</description>
-		<rom name="5858086A\00009000\00000FFCC04A4271CEC2D9E25858086A" size="237568" crc="5fff9dd2" md5="d4916e0577b460c77e23ba6a26e46f1d" sha1="e83e832d28ba774db188a195dc3e9990b336dd37"/>
 	</game>
 	<game name="Abyss Odyssey (World) (XBLA)" id="04512">
 		<description>Abyss Odyssey (World) (XBLA)</description>
@@ -6089,6 +5733,16 @@
 		<description>Avatar Threads - 8 Bit Bling (World) (Avatar Item)</description>
 		<rom name="444D07D9\00009000\00001000A1473263C8C939CE444D07D9" size="253952" crc="ed8b3999" md5="508e6888f5c73b40eee618f0851056d3" sha1="bda4d152b8112f7b5732583909bafb99f9f97128"/>
 	</game>
+	<game name="Avatar Threads - 80s Action Star (World) (Avatar Item)" id="06312">
+		<description>Avatar Threads - 80s Action Star (World) (Avatar Item)</description>
+		<game_id>444D07D9</game_id>
+		<rom name="444D07D9\00009000\00000FFC2B471281C86AC360444D07D9" size="253952" crc="1d0a89fa" md5="11bbff1aa41ca81632c8c23b6dab7e2e" sha1="8cf142dccf87d9ca263191480b127132917cb212"/>
+	</game>
+	<game name="Avatar Threads - Abe Beard (World) (Avatar Item)" id="06316">
+		<description>Avatar Threads - Abe Beard (World) (Avatar Item)</description>
+		<game_id>444D07D9</game_id>
+		<rom name="444D07D9\00009000\0000054454425283CB56594C444D07D9" size="106496" crc="e12199b0" md5="8d1fa3d1b6aecec66fb4d6593d2fd381" sha1="075a4c0349029dd6089bf2383a70a09acde026a1"/>
+	</game>
 	<game name="Avatar Thunder Cars (World) (XBLIG)" id="12219">
 		<description>Avatar Thunder Cars (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\0630ADDA0B773C0AD928D6CEEC7CC275DFD4DA5758" size="52281344" crc="3919799a" md5="ce85323b55e2479ea4bb9c1f37f82843" sha1="05f96d00b49c732f8c0890ae24235cb79f087e25"/>
@@ -6525,8 +6179,8 @@
 		<description>Awesome Tank (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\9DBD76DEE5BB09DD6D6F526FF34A26F1E699913058" size="46727168" crc="fda74c85" md5="c6aa7861f771b9bb229305cbca24df27" sha1="90ec21e2c0c45163c5ce89666742aec7bbe7c4bf"/>
 	</game>
-	<game name="Awesomenauts (World) (v1) (Title Update)" id="05333">
-		<description>Awesomenauts (World) (v1) (Title Update)</description>
+	<game name="Awesomenauts (World) (Title Update)" id="05333">
+		<description>Awesomenauts (World) (Title Update)</description>
 		<rom name="58410B5A\000B0000\55CD8167D6D2E31B142A27796F451E86D5F9285B58" size="3907584" crc="a44cd7dd" md5="fdcaa5920d7f4fd508284138c89da4db" sha1="7eebf823eed50c32f15ba5515fb4b29f1e7b7aa6"/>
 	</game>
 	<game name="Awesomenauts (World) (XBLA)" id="03708">
@@ -7170,8 +6824,8 @@
 		<description>Batman - Arkham Origins - Spanish Language Data (World) (Addon)</description>
 		<rom name="57520828\00000002\B0D6960F0D9A8A927362F1FBD379812D47B1AECC57" size="1025474560" crc="0d904070" md5="9e6343bb343642c63c2bb0bb0764b56c" sha1="a62d2c99e73f735caa312b3917552c047db6d6bc" sha256="c21614f58cae34b107475d2cbbf0ab78f886fe559faaa757543834eadf2ee8e6"/>
 	</game>
-	<game name="Batman - The Telltale Series (World) (v1) (Title Update)" id="05328">
-		<description>Batman - The Telltale Series (World) (v1) (Title Update)</description>
+	<game name="Batman - The Telltale Series (World) (Title Update)" id="05328">
+		<description>Batman - The Telltale Series (World) (Title Update)</description>
 		<rom name="584114BB\000B0000\384FB85C11D6499D982ECADEA39F693830FA052658" size="329949184" crc="c3ba4057" md5="8698f2a39be44acc7874de284cf5021f" sha1="dfa5b56c9897fbb7438587833addb8494285c8fb"/>
 	</game>
 	<game name="Batman - The Telltale Series (World) (v2) (Title Update)" id="05345">
@@ -27309,8 +26963,8 @@
 		<description>Frozen Free Fall - Snowball Fight (World) (XBLA)</description>
 		<rom name="5841149C\000D0000\AF09C59FAC1B77C7F099A83AC65DC26D8412909D58" size="325439488" crc="6a4f186f" md5="53ff9239ae59d5b5287ca9d877b0068e" sha1="0feeb690146aa0e053a7cf601f44e38438c5cc2b"/>
 	</game>
-	<game name="Frozen Free Fall - Snowball Fight (World) (v1) (Title Update)" id="05341">
-		<description>Frozen Free Fall - Snowball Fight (World) (v1) (Title Update)</description>
+	<game name="Frozen Free Fall - Snowball Fight (World) (Title Update)" id="05341">
+		<description>Frozen Free Fall - Snowball Fight (World) (Title Update)</description>
 		<rom name="5841149C\000B0000\862884BC7F355E4BFDC19589EC1BBDCAFA6BD24258" size="611401728" crc="10abd84e" md5="d533a0c456ee8893202e1a07e0a2323f" sha1="febd00d5202be8edf29ea72d312025b3da2e0a80"/>
 	</game>
 	<game name="Frozen Free Fall - Snowball Fight (World) (v2) (Title Update)" id="16328">
@@ -28467,6 +28121,76 @@
 	<game name="Gems N Rocks (World) (XBLIG)" id="13181">
 		<description>Gems N Rocks (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\ED8E8BEA8933187C5994246E6B56D2897549339F58" size="24440832" crc="fb474a60" md5="8d4f31d989ab314c7f7d4635f4155f93" sha1="e4e86d67e873b9f5474fa69332e222ddf5fe09a3"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette Black Tee 1 (World) (Avatar Item)" id="06174">
+		<description>General Motors - 2016 C7R Edition Corvette Black Tee 1 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008848CA211CBC68073373907D4" size="106496" crc="3fa0a250" md5="22110f11cfdd479723a5af5d9183c8ba" sha1="65502dcf64fd8c3b6fc264a00f5f9ed0241ac29a"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette Black Tee 2 (World) (Avatar Item)" id="06175">
+		<description>General Motors - 2016 C7R Edition Corvette Black Tee 2 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\000000085D61C2D1CEA31A8C373907D4" size="106496" crc="4c971450" md5="75230bd5077035b46c8312685ee747e7" sha1="51d3d2b64acce8a29662731c1e95a121e49e66a9"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette Black Tee 3 (World) (Avatar Item)" id="06176">
+		<description>General Motors - 2016 C7R Edition Corvette Black Tee 3 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008E00DE241CB58F4D5373907D4" size="106496" crc="d73722f3" md5="f185eaf828e5091eb9c4ca780ebda720" sha1="fc594a7b478eca1350bd30be4b2df65cf6962e09"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette White Tee 1 (World) (Avatar Item)" id="06177">
+		<description>General Motors - 2016 C7R Edition Corvette White Tee 1 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008D8A7C241C345AA2B373907D4" size="110592" crc="f11b2557" md5="bd5a6e3d6288bbc344c0cba7b72b187b" sha1="d775356dc852ea819c839259e37759d11f022dc5"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette White Tee 2 (World) (Avatar Item)" id="06178">
+		<description>General Motors - 2016 C7R Edition Corvette White Tee 2 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\0000000841C3F291C4D39F95373907D4" size="110592" crc="18e8cc1f" md5="dcabdf45feb4ce4c632586f4509eb8b7" sha1="5a798d8a020426fbd0f305574b4ae80bb0610eec"/>
+	</game>
+	<game name="General Motors - 2016 C7R Edition Corvette White Tee 3 (World) (Avatar Item)" id="06179">
+		<description>General Motors - 2016 C7R Edition Corvette White Tee 3 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\000000084534F2A1CE1DA869373907D4" size="110592" crc="0c17a9ea" md5="71ef319b6ee96dcbc55458eeadbd6c8b" sha1="def8e7c93d985b5197ec2a1caaf927e7a87d6174"/>
+	</game>
+	<game name="General Motors - 2017 Camaro LT 1LE Black Tee (World) (Avatar Item)" id="06204">
+		<description>General Motors - 2017 Camaro LT 1LE Black Tee (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008CF8C8291CE15D605373907D4" size="106496" crc="bbcfd2fe" md5="a9584483b4553e4f06292dc0c8b5dcab" sha1="f3be31975bbbc1dd795c142f9e132d03ccd91d8b"/>
+	</game>
+	<game name="General Motors - 2017 Camaro LT 1LE White Tee (World) (Avatar Item)" id="06205">
+		<description>General Motors - 2017 Camaro LT 1LE White Tee (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008679CA2F1CEFB7341373907D4" size="110592" crc="846a4cc1" md5="76a9c1537aa78e5cc6201a97dd704d07" sha1="fa11df0d3e7ae42703403d6b17590cecd5984f11"/>
+	</game>
+	<game name="General Motors - 2017 Camaro SS Black Tee (World) (Avatar Item)" id="06206">
+		<description>General Motors - 2017 Camaro SS Black Tee (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\0000000873DB2231CC1592B0373907D4" size="106496" crc="8edd0774" md5="3265235e26d4c2e0f40d34c33f1f72cf" sha1="47d5ce68e2fb740f696dfc1e49f0cc10f63f066b"/>
+	</game>
+	<game name="General Motors - 2017 Camaro SS White Tee (World) (Avatar Item)" id="06207">
+		<description>General Motors - 2017 Camaro SS White Tee (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\000000082871F251C25D7EEF373907D4" size="110592" crc="65388708" md5="6ca2ada9af379ac01f4f3d687ab4f62c" sha1="2e7188fb33431311fe0634a41d6b63f5cd137876"/>
+	</game>
+	<game name="General Motors - 2017 Camaro ZL1 Black Tee 1 (World) (Avatar Item)" id="06208">
+		<description>General Motors - 2017 Camaro ZL1 Black Tee 1 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\0000000844AF8211C8C90A62373907D4" size="106496" crc="fa84f86d" md5="11361e25f5be3ff5fb5439d281a8945f" sha1="dd443a34ede6e7b41d04a3f3712d103b0516da0c"/>
+	</game>
+	<game name="General Motors - 2017 Camaro ZL1 Black Tee 2 (World) (Avatar Item)" id="06209">
+		<description>General Motors - 2017 Camaro ZL1 Black Tee 2 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\0000000875C51221C1FB621F373907D4" size="110592" crc="e5635065" md5="2ae39934169af297515567157bcfd2e5" sha1="382f77436dd07996cf64ef88440e25dc931b56c7"/>
+	</game>
+	<game name="General Motors - 2017 Camaro ZL1 White Tee 1 (World) (Avatar Item)" id="06210">
+		<description>General Motors - 2017 Camaro ZL1 White Tee 1 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008F8C2B2A1CA96DACB373907D4" size="110592" crc="bea96b53" md5="88a8cb588aeac30b5c0a88b2ad5c7caa" sha1="2be7dac53f72b756474ea3e5bb3fc5ea731b18a6"/>
+	</game>
+	<game name="General Motors - 2017 Camaro ZL1 White Tee 2 (World) (Avatar Item)" id="06211">
+		<description>General Motors - 2017 Camaro ZL1 White Tee 2 (World) (Avatar Item)</description>
+		<game_id>373907D4</game_id>
+		<rom name="373907D4\00009000\00000008E2330291C2BCDD91373907D4" size="110592" crc="333a857f" md5="84f986924564e516aeb7e7e18813e7db" sha1="edd8b5a7b32bd40be7986c69b7efb605134d5104"/>
 	</game>
 	<game name="Generation Toy Claws Epic (World) (5858089F) (Addon)" id="07728">
 		<description>Generation Toy Claws Epic (World) (5858089F) (Addon)</description>
@@ -33223,8 +32947,8 @@
 		<description>How to Survive (World) (XBLA)</description>
 		<rom name="584113E8\000D0000\8EF7F17B76E93B78ADBB1C110EA1244C783EC38F58" size="1505943552" crc="1c6c5db2" md5="2774633185944bfeaae9b565555ff7b3" sha1="766d3e5a2229d9b0f81c000bbef8cd6de3a21293"/>
 	</game>
-	<game name="How to Survive (World) (v1) (Title Update)" id="05337">
-		<description>How to Survive (World) (v1) (Title Update)</description>
+	<game name="How to Survive (World) (Title Update)" id="05337">
+		<description>How to Survive (World) (Title Update)</description>
 		<rom name="584113E8\000B0000\6AC8132453632FA28DB04E1E5EAB195AB746783258" size="1560576" crc="b396a9ac" md5="12a25978852a9e3c276d982218f29570" sha1="e0675c8030ba55db02411c9363adc46f19c3f845"/>
 	</game>
 	<game name="How to Survive - All alternate skin (World) (DLC)" id="10379">
@@ -34386,8 +34110,8 @@
 		<description>Joe Danger - Special Edition - Showtime Pack (World) (Addon)</description>
 		<rom name="584111F5\00000002\2370F6CB7EC339CA0350443CEC2A5F1187AF5D3658" size="44998656" crc="75e32511" md5="066c2cbddde5b9dcf0c313750fbef207" sha1="8c4b8ef835da2538bd27e01e03ec18b80de7922b"/>
 	</game>
-	<game name="Joe Danger 2 - The Movie (World) (v1) (Title Update)" id="05363">
-		<description>Joe Danger 2 - The Movie (World) (v1) (Title Update)</description>
+	<game name="Joe Danger 2 - The Movie (World) (Title Update)" id="05363">
+		<description>Joe Danger 2 - The Movie (World) (Title Update)</description>
 		<rom name="584111F6\000B0000\D40F614F32FC8D178EAE1E08BBB0E1CCF78F779B58" size="3039232" crc="067d896c" md5="f4a79760362b5406f02054baaa311995" sha1="ccb640de724e11f832abc32cfa721f5773b4ccf1"/>
 	</game>
 	<game name="Joe Danger 2 - The Movie (World) (XBLA)" id="03971">
@@ -35334,8 +35058,8 @@
 		<description>Kinect Fun Labs - Avatar Kinect (World) (Addon)</description>
 		<rom name="5848081A\00000002\6FEB76FE44269EC66B0F59DF0C3A49054D0833CC58" size="690532352" crc="2be3204c" md5="566ad3017deb1487f30550610e5c6744" sha1="910c92a05363f50ceff8478463e9cc93972f08e3"/>
 	</game>
-	<game name="Kinect Fun Labs - Avatar Kinect (World) (v1) (Title Update)" id="05351">
-		<description>Kinect Fun Labs - Avatar Kinect (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Avatar Kinect (World) (Title Update)" id="05351">
+		<description>Kinect Fun Labs - Avatar Kinect (World) (Title Update)</description>
 		<rom name="5848081A\000B0000\AA1978A82D40B91EB3489056D833E6C42F4670BA58" size="364544" crc="b1448320" md5="7f03a0f14c4ef97b361b0ee4c95710ba" sha1="04d24e20796511003c6e6216b3988f60de6f3170"/>
 	</game>
 	<game name="Kinect Fun Labs - Battle Stuff (World) (Addon)" id="05130">
@@ -35346,20 +35070,20 @@
 		<description>Kinect Fun Labs - Bobble Head (World) (Addon)</description>
 		<rom name="58480813\00000002\0BFF077ED6480227EDF52A3F276EC4535856FD3758" size="215969792" crc="103d4e69" md5="ce3d88a070e4c6b59e7e1f0b11795319" sha1="5f3fe7cab3dec90d080cf74ac4b93691b548828c"/>
 	</game>
-	<game name="Kinect Fun Labs - Bobble Head (World) (v1) (Title Update)" id="05339">
-		<description>Kinect Fun Labs - Bobble Head (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Bobble Head (World) (Title Update)" id="05339">
+		<description>Kinect Fun Labs - Bobble Head (World) (Title Update)</description>
 		<rom name="58480813\000B0000\81A12E69BB1D1EAA21382C55508981AAFF49FFDC58" size="1646592" crc="457d5169" md5="1b1bc6882bf56d8550dbe2306887152e" sha1="da2f3bdcaa1a03e33e83fe8d33e105aa1e8886ce"/>
 	</game>
 	<game name="Kinect Fun Labs - Build A Buddy (World) (Addon)" id="05132">
 		<description>Kinect Fun Labs - Build A Buddy (World) (Addon)</description>
 		<rom name="58480812\00000002\FB7F5E7CD8F1FE78128F0C98F2348CFE03B3578E58" size="259735552" crc="1751cada" md5="d5563e7f914334bd87b3ac8e8313f0cd" sha1="dbf44a93948d22312279558aab1de8a3d0633f2e"/>
 	</game>
-	<game name="Kinect Fun Labs - Build a Buddy (World) (v1) (Title Update)" id="05350">
-		<description>Kinect Fun Labs - Build a Buddy (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Build a Buddy (World) (Title Update)" id="05350">
+		<description>Kinect Fun Labs - Build a Buddy (World) (Title Update)</description>
 		<rom name="58480812\000B0000\A9027D374C2F158C3C7752789E4D8AEEBAFC9A7F58" size="1703936" crc="6bc2140f" md5="d07c718ea9d9be0f0d907fa90dd85eb8" sha1="f220af0ce2b7870ebc4cc188dfcd6a86b7130be0"/>
 	</game>
-	<game name="Kinect Fun Labs - Googly Eyes (World) (v1) (Title Update)" id="05329">
-		<description>Kinect Fun Labs - Googly Eyes (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Googly Eyes (World) (Title Update)" id="05329">
+		<description>Kinect Fun Labs - Googly Eyes (World) (Title Update)</description>
 		<rom name="58480817\000B0000\3E2FF0F517823B8F980328DE5C1EA15C36E51DFB58" size="1826816" crc="489107b7" md5="64316460e3ccd6b521b664973d5d0168" sha1="41cfd5c87eb52bf924770574c3b80a1f12016730"/>
 	</game>
 	<game name="Kinect Fun Labs - I Am Super! (World) (Addon)" id="05133">
@@ -35370,8 +35094,8 @@
 		<description>Kinect Fun Labs - Junk Fu (World) (Addon)</description>
 		<rom name="5848081F\00000002\84F6243B8D9D67A7BE820EA6D574334F835C3BC758" size="162439168" crc="74558b2f" md5="42c10be0215cd901e5a50525b6953695" sha1="a8184c7d4edeed2b423e2930a16c595c0f8ed2d2"/>
 	</game>
-	<game name="Kinect Fun Labs - Kinect Me (World) (v1) (Title Update)" id="05325">
-		<description>Kinect Fun Labs - Kinect Me (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Kinect Me (World) (Title Update)" id="05325">
+		<description>Kinect Fun Labs - Kinect Me (World) (Title Update)</description>
 		<rom name="58480814\000B0000\3469AE808636486EDC44D2D8C8EDD94DEDB68FE758" size="2113536" crc="474a1d1e" md5="40fd12cdb9319d3ddc1ce29aa3c5578b" sha1="725dded682e2f6bd27dc45417f2f105f91c6d475"/>
 	</game>
 	<game name="Kinect Fun Labs - Kinect Rush - Snapshot (World) (Addon)" id="05134">
@@ -35386,8 +35110,8 @@
 		<description>Kinect Fun Labs - Musical Feet (World) (Addon)</description>
 		<rom name="5848081E\00000002\8B2711283258B24124127EED6D0DA12668E48EBE58" size="214958080" crc="108a222a" md5="d056947c7d93d419fcc60af1061b04c6" sha1="354d48221541849319aec44d281511be4b73ebe4"/>
 	</game>
-	<game name="Kinect Fun Labs - Mutation Station (World) (v1) (Title Update)" id="05338">
-		<description>Kinect Fun Labs - Mutation Station (World) (v1) (Title Update)</description>
+	<game name="Kinect Fun Labs - Mutation Station (World) (Title Update)" id="05338">
+		<description>Kinect Fun Labs - Mutation Station (World) (Title Update)</description>
 		<rom name="5848081D\000B0000\7FEBBA3F0C024C8828761DBDA5F838CA10342D8758" size="1404928" crc="763940ec" md5="e988c4d7b6d0be1d198da1a5ee229c26" sha1="b0858efcea6ba84ab42012b70995f11cac6e30bf"/>
 	</game>
 	<game name="Kinect Fun Labs - Mutation Station (World) (Addon)" id="03559">
@@ -37133,8 +36857,8 @@
 		<rom name="354807DD\00007000\13DE4AB27FEF46DA8A51.data\Data0015" size="170459136" crc="ece14e98" md5="eed1dc5e93c924d62f139902e683dd81" sha1="40ec213d32a64d5e414fe79e8ebcab2dba03495b"/>
 		<rom name="354807DD\00007000\13DE4AB27FEF46DA8A51.data\Data0016" size="139821056" crc="38082257" md5="1994729a2ed7c597603213f54ac15ffc" sha1="2999c542398f43d403058779c5c7b096662ec0fc"/>
 	</game>
-	<game name="Legend of Kay - Anniversary (World) (v1) (Title Update)" id="05374">
-		<description>Legend of Kay - Anniversary (World) (v1) (Title Update)</description>
+	<game name="Legend of Kay - Anniversary (World) (Title Update)" id="05374">
+		<description>Legend of Kay - Anniversary (World) (Title Update)</description>
 		<rom name="354807DD\000B0000\F19BEF2F989E553D05D4E8E76B2764453CC30FA435" size="221184" crc="a643d0f7" md5="70c4acf5b8d8880ba0ce42549634a3dc" sha1="2cbae33363f8ffe586c022d6370e85cf61e20258"/>
 	</game>
 	<game name="Legend of Korra, The (World) (XBLA)" id="04648">
@@ -37206,6 +36930,11 @@
 		<rom name="5858086A\00009000\0000100096420263CB9CB48B5858086A" size="266240" crc="39703118" md5="2edd3e1234625f861c8a77ce7744e0c4" sha1="278006d5ae20adfa106ae57bd05168087d99e250"/>
 		<rom name="5858086A\00009000\00001000B04942F3C11E98FE5858086A" size="282624" crc="c90774c2" md5="4a04f506ef6abd3121f6d78027b33aed" sha1="4a6cae3bd6c79f41d3f4e9d010b26a83ad761ce9"/>
 		<rom name="5858086A\00009000\00001000DC46C2E3C626BF765858086A" size="278528" crc="5fb109be" md5="0b6f701188ff64694bbd3311d458b6b7" sha1="1f7fd93b6a21318f746241713b66b15718dc7c5c"/>
+	</game>
+	<game name="Legendary Champions - Abyss Horror (World) (Avatar Item)" id="06318">
+		<description>Legendary Champions - Abyss Horror (World) (Avatar Item)</description>
+		<game_id>5858086A</game_id>
+		<rom name="5858086A\00009000\00000FFCC04A4271CEC2D9E25858086A" size="237568" crc="5fff9dd2" md5="d4916e0577b460c77e23ba6a26e46f1d" sha1="e83e832d28ba774db188a195dc3e9990b336dd37"/>
 	</game>
 	<game name="Legendary Hero of Wilderness (World) (5858086A) (Addon)" id="08168">
 		<description>Legendary Hero of Wilderness (World) (5858086A) (Addon)</description>
@@ -43204,8 +42933,8 @@
 		<description>Might &amp; Magic - Duel of Champions - Forgotten Wars (World) (XBLA)</description>
 		<rom name="58411443\000D0000\BF4B4431C258023E28CFD2E1F511C6AB52DB515958" size="385261568" crc="1367856d" md5="d4ca7cd20d7f2a053ce04b5bf324ce04" sha1="43992c5c2827ab2ef75a609eb343da7553caaff2"/>
 	</game>
-	<game name="Mighty No. 9 (World) (v1) (Title Update)" id="05324">
-		<description>Mighty No. 9 (World) (v1) (Title Update)</description>
+	<game name="Mighty No. 9 (World) (Title Update)" id="05324">
+		<description>Mighty No. 9 (World) (Title Update)</description>
 		<rom name="584114A4\000B0000\3427FF8E4CF9051A659D5B974569059B34711AB758" size="173608960" crc="0bc0478a" md5="2f3a2043b2cf7ce8065252071cab68e8" sha1="e465ffd545ee746edcd7f51768b553b4ad45854b"/>
 	</game>
 	<game name="Mighty No. 9 - Golden Beck (World) (Addon)" id="04893">
@@ -43630,8 +43359,8 @@
 		<description>Minecraft - Story Mode - Season Two (World) (v2) (Title Update)</description>
 		<rom name="584114C6\000B0000\314129F1DF3D393C23C4E51CEC02BBC18B4A14C258" size="1347608576" crc="b77aec8d" md5="11b6befa6cdd8ba17fde0663d22afcfd" sha1="d5529af9aa7a4ec1c80e4684c939bced6ac40173"/>
 	</game>
-	<game name="Minecraft - Story Mode - Season Two (World) (v1) (Title Update)" id="05370">
-		<description>Minecraft - Story Mode - Season Two (World) (v1) (Title Update)</description>
+	<game name="Minecraft - Story Mode - Season Two (World) (Title Update)" id="05370">
+		<description>Minecraft - Story Mode - Season Two (World) (Title Update)</description>
 		<rom name="584114C6\000B0000\E509D0EB643B0A0D5BA3EF3E2C8DE063C04E42F358" size="2043904" crc="c2363996" md5="09db0ba548d27f642e4567f63a10675f" sha1="4d272e390ea37ad15e156e944a7ada2a3134e346"/>
 	</game>
 	<game name="Minecraft - Story Mode - Season Two - Episode 1 - Hero in Residence (World) (XBLA)" id="05107">
@@ -43660,83 +43389,299 @@
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v65) (Title Update)" id="05316">
 		<description>Minecraft - Xbox 360 Edition (World) (v65) (Title Update)</description>
-		<rom name="584111F7\000B0000\03B6ACD2974FCF7A022E9C4867B91859E0213E3558" size="1117777920" crc="2528bce5" md5="6c420461d212facea88b441233785315" sha1="af0800bb059f717adf92d55e151b1e7991fdbebe"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1181003776" crc="a4e54d55" md5="f0714d1b42c75be0c8740af8d10a0d54" sha1="3ae79c9cfd192a2ed5a239da6f05f59f8fc3a6d5"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v36) (Title Update)" id="05318">
-		<description>Minecraft - Xbox 360 Edition (World) (v36) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v31) (Title Update)" id="05318">
+		<description>Minecraft - Xbox 360 Edition (World) (v31) (Title Update)</description>
 		<rom name="584111F7\000B0000\14B5EAE7F77B663F0A0253BC3FC82D99A7B245AA58" size="263159808" crc="175a48d4" md5="fb6fe702396ede1b02e95ac1e68968f7" sha1="e40cf102d5a01e3243f4142bc55744f265179378"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v67) (Title Update)" id="05326">
-		<description>Minecraft - Xbox 360 Edition (World) (v67) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v62) (Title Update)" id="05326">
+		<description>Minecraft - Xbox 360 Edition (World) (v62) (Title Update)</description>
 		<rom name="584111F7\000B0000\347947406924BD15A74865B8FCAA632BE85993C158" size="1118633984" crc="c9ff3559" md5="1d531dfe10b05346c5eed68733c32a43" sha1="b09734bbb1df0feabce690fb979a7dddc4a54117" sha256="5944747dabec1b812c45bb8cc1a1872ece4c217c249bd86f9096637d10ce2533"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v57) (Title Update)" id="05332">
-		<description>Minecraft - Xbox 360 Edition (World) (v57) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v52) (Title Update)" id="05332">
+		<description>Minecraft - Xbox 360 Edition (World) (v52) (Title Update)</description>
 		<rom name="584111F7\000B0000\4B7870B6695E8EA70899DEBF1DD58AABA674D79A58" size="1542483968" crc="b3b916de" md5="241ed79be7b5e1cf28a4478a65949c59" sha1="352f6df28e5427a78f9f75aca7a040c61dde42d1"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v61) (Title Update)" id="05340">
-		<description>Minecraft - Xbox 360 Edition (World) (v61) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v56) (Title Update)" id="05340">
+		<description>Minecraft - Xbox 360 Edition (World) (v56) (Title Update)</description>
 		<rom name="584111F7\000B0000\86201CD87BFCE4F14387FED9BED1278E4550F4D158" size="1637896192" crc="534b454f" md5="cb4caf934822f47920c59deade788efb" sha1="cd298c8d5ed78bab99d9a916c8f40ea2170ab6b8"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v55) (Title Update)" id="05342">
-		<description>Minecraft - Xbox 360 Edition (World) (v55) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v50) (Title Update)" id="05342">
+		<description>Minecraft - Xbox 360 Edition (World) (v50) (Title Update)</description>
 		<rom name="584111F7\000B0000\8709F7D52004BF6FBD1EFAFC19B823715B97B62058" size="1354104832" crc="dbf9cbc2" md5="9cd95de37e8a7355892dbfe9e9355e5c" sha1="10de3184eb97a9d0083a64f1535086f72fe6917d"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v51) (Title Update)" id="05344">
-		<description>Minecraft - Xbox 360 Edition (World) (v51) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v46) (Title Update)" id="05344">
+		<description>Minecraft - Xbox 360 Edition (World) (v46) (Title Update)</description>
 		<rom name="584111F7\000B0000\92D060F073B0A286674CCF1913487E7F98E6BA7758" size="1347706880" crc="71c6232f" md5="0203dcab2d1b9357cfe0a9483022a646" sha1="23831b4a9b557dbbd5b2b0ff545dd97c232c957b"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v59) (Title Update)" id="05346">
-		<description>Minecraft - Xbox 360 Edition (World) (v59) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v54) (Title Update)" id="05346">
+		<description>Minecraft - Xbox 360 Edition (World) (v54) (Title Update)</description>
 		<rom name="584111F7\000B0000\9A9DE0F79C133E77A142D80990AF5541FAC7025B58" size="1622638592" crc="b7e52880" md5="fc95d95dedc51427f889daee0a66a3e5" sha1="a83ea493bfb7eb22f2b741bc84963b513e9f1bfe"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v64) (Title Update)" id="05347">
 		<description>Minecraft - Xbox 360 Edition (World) (v64) (Title Update)</description>
-		<rom name="584111F7\000B0000\9B566F229C39F10CE27A09D4C6D44969C57EF92A58" size="1057079296" crc="aea93d5d" md5="c09c842e530eb02cb4346a4742ba9cd6" sha1="2dbff271b203ad5b4ee7a1464025261edf1d1ed7"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1121787904" crc="c65815cc" md5="ea099f0530763d64ae792e662e1dddf3" sha1="9a1bbcb7ed94bd503422adf721f4aed8b7ebec1f"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v53) (Title Update)" id="05349">
-		<description>Minecraft - Xbox 360 Edition (World) (v53) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v48) (Title Update)" id="05349">
+		<description>Minecraft - Xbox 360 Edition (World) (v48) (Title Update)</description>
 		<rom name="584111F7\000B0000\A413FC6732F9580E6F26203318D83D38B9A3BBD258" size="1348268032" crc="e9b8e5f7" md5="cb7b733f5c55f35cb92cbbac17d3f0e9" sha1="11c045bff5f3b19f9759ddbd62d5248acaea9dbb"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v66) (Title Update)" id="05353">
 		<description>Minecraft - Xbox 360 Edition (World) (v66) (Title Update)</description>
-		<rom name="584111F7\000B0000\AE1929B8C6A886EBAAF991F394033CD6CCD7C6D158" size="1118072832" crc="b4f57101" md5="1d853cc1d03d58dc1eb173bfd1fa2fa5" sha1="40509ac6a3af8cc070c04304a75a6ca407335f9c"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1181495296" crc="cce23cc4" md5="5f4d6712dbc8e7e588e00a05a2b083eb" sha1="981092d26755986cf347cd9823db1fcfc0951186"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v58) (Title Update)" id="05354">
-		<description>Minecraft - Xbox 360 Edition (World) (v58) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v53) (Title Update)" id="05354">
+		<description>Minecraft - Xbox 360 Edition (World) (v53) (Title Update)</description>
 		<rom name="584111F7\000B0000\B46B1C212AEE043146ABEB4C3439CF752A59D79F58" size="1589506048" crc="04373c23" md5="f3c678baa5854f07bfae0759dbe96bc6" sha1="35fbe92b92e4a2486b4904fd854edd878c81c724"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v54) (Title Update)" id="05356">
-		<description>Minecraft - Xbox 360 Edition (World) (v54) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v49) (Title Update)" id="05356">
+		<description>Minecraft - Xbox 360 Edition (World) (v49) (Title Update)</description>
 		<rom name="584111F7\000B0000\C116A8363F468D1F67BC6B2F296B92A285569D7C58" size="1354096640" crc="282b65e8" md5="0006675f1804780189765ce237ac18f9" sha1="d617887e36208cfa3c2f9ee612bdf639129bb293"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v60) (Title Update)" id="05357">
-		<description>Minecraft - Xbox 360 Edition (World) (v60) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v55) (Title Update)" id="05357">
+		<description>Minecraft - Xbox 360 Edition (World) (v55) (Title Update)</description>
 		<rom name="584111F7\000B0000\C2E0FD1C7DE070A8735E71F2830FC409618CAA6058" size="1622622208" crc="b95b6412" md5="13339dd98454bd244fbb80b18e989088" sha1="31888eb6a2fa63a624e368f2b4de0d6534293127"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v52) (Title Update)" id="05358">
-		<description>Minecraft - Xbox 360 Edition (World) (v52) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v47) (Title Update)" id="05358">
+		<description>Minecraft - Xbox 360 Edition (World) (v47) (Title Update)</description>
 		<rom name="584111F7\000B0000\C345889F0B763B9E65305D16BBB420B0ADDA975458" size="1347665920" crc="730931ab" md5="d66abaa5b57e2254e79ca9698b86c606" sha1="484cf39b9c7be2ddd4c1474a681807036b6b7409"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v56) (Title Update)" id="05365">
-		<description>Minecraft - Xbox 360 Edition (World) (v56) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v51) (Title Update)" id="05365">
+		<description>Minecraft - Xbox 360 Edition (World) (v51) (Title Update)</description>
 		<rom name="584111F7\000B0000\D8C62712D2E6B4C1D0B40EFCD123881056872FE258" size="1512280064" crc="1a7ff495" md5="aa4b0c3e963e52cdb1a1c9d03192c5f1" sha1="8b89d96b0831464ddd6ad979cb8217d8a697432e"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v68) (Title Update)" id="05368">
 		<description>Minecraft - Xbox 360 Edition (World) (v68) (Title Update)</description>
 		<rom name="584111F7\000B0000\DB747FDBD6FA520D0320322B18E12CCAE254E30658" size="1118990336" crc="5fd4ff2f" md5="fc0b1e93d0c42936b33c850de965cae3" sha1="fdaaaebd1ab9406825e6005d7a61943e86e8f8ae"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v63) (Title Update)" id="05369">
-		<description>Minecraft - Xbox 360 Edition (World) (v63) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v58) (Title Update)" id="05369">
+		<description>Minecraft - Xbox 360 Edition (World) (v58) (Title Update)</description>
 		<rom name="584111F7\000B0000\DDBD656D3E93EA7B0DE0C8D1F9A13E96E49F16AE58" size="1056849920" crc="8d3fa8db" md5="125937862a0510e552e16f2549550214" sha1="75607c8ae08541b380bfec1b980ce0a378929e7e"/>
 	</game>
-	<game name="Minecraft - Xbox 360 Edition (World) (v62) (Title Update)" id="05375">
-		<description>Minecraft - Xbox 360 Edition (World) (v62) (Title Update)</description>
+	<game name="Minecraft - Xbox 360 Edition (World) (v57) (Title Update)" id="05375">
+		<description>Minecraft - Xbox 360 Edition (World) (v57) (Title Update)</description>
 		<rom name="584111F7\000B0000\F73EF9689729FFDACA1C66C9232F36B7E0D35B3558" size="1054769152" crc="0c5a5879" md5="a190a2d5bf1ec391494cd645cb423f4c" sha1="0767ba1107ccc05ec5e9c66576ab5bf01c8df659"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (XBLA)" id="03722">
 		<description>Minecraft - Xbox 360 Edition (World) (XBLA)</description>
 		<rom name="584111F7\000D0000\49AAD81B9FCDA45E4A03D71BFCB353F8FADB236C58" size="118661120" crc="6698a274" md5="bfeea951fe38bfed18646a94046811cf" sha1="2c45fb51f3770d1fe600e7737f34943f7d3c3333"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (Title Update)" id="17408">
+		<description>Minecraft - Xbox 360 Edition (World) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="3096576" crc="1494be83" md5="e0214ac6843645120eeaf0b989ef32a4" sha1="eb3645ad9f833c1121129e1cee732d9e0bd2ebdc"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v2) (Title Update)" id="17409">
+		<description>Minecraft - Xbox 360 Edition (World) (v2) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="3014656" crc="374b2879" md5="24424bd23c2cecfb2d9500f508e6b8b6" sha1="e83476c1b19d7e45812c580f002c98eca48a5c9a"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v3) (Title Update)" id="17410">
+		<description>Minecraft - Xbox 360 Edition (World) (v3) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="3125248" crc="5b746417" md5="18a09696b916de3292f009ead7580a42" sha1="97fc496851d25e3e9722addb914344237a092c7d"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v4) (Title Update)" id="17411">
+		<description>Minecraft - Xbox 360 Edition (World) (v4) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="3117056" crc="c46615b6" md5="4ac78b068c9c882bd3239548c915e640" sha1="fa99189366ae65aa559f4710f4792ce3f6589343"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v5) (Title Update)" id="17412">
+		<description>Minecraft - Xbox 360 Edition (World) (v5) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="2822144" crc="c7e96b34" md5="aff1ec252c518faf0860d7384ac83857" sha1="ffbc9446ed70430cbc2ec2c9f9c5800aedb95016"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v6) (Title Update)" id="17413">
+		<description>Minecraft - Xbox 360 Edition (World) (v6) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="2830336" crc="3.15E+06" md5="177f5657da28a516295ed706badca293" sha1="8d8f9105885cc4c24863e750ab852d1b2f1e4ca2"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v7) (Title Update)" id="17414">
+		<description>Minecraft - Xbox 360 Edition (World) (v7) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="7131136" crc="cb686c6b" md5="123c448ff67ade844eb5859c47b81db6" sha1="9d44fc06b68a3b8dafafa8737b836bacb4a32d97"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v8) (Title Update)" id="17415">
+		<description>Minecraft - Xbox 360 Edition (World) (v8) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="7110656" crc="8a148fbb" md5="c13707ffa252d25396e8277fa2490477" sha1="faaae2bc6aff12901b132d4764fe5b068a821f60"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v9) (Title Update)" id="17416">
+		<description>Minecraft - Xbox 360 Edition (World) (v9) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="30453760" crc="46b2fc49" md5="013905adeea68ba6b6484fba388c1ebe" sha1="60d24089214ed4a2f23a02b8945324919d103b63"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v10) (Title Update)" id="17417">
+		<description>Minecraft - Xbox 360 Edition (World) (v10) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="30478336" crc="c09242fa" md5="40b1c542a30dc6dcf5ca822712c3bc3c" sha1="b89d8beaf2b0d54d6cee48d407b19d8db977b582"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v11) (Title Update)" id="17418">
+		<description>Minecraft - Xbox 360 Edition (World) (v11) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="30683136" crc="c581f116" md5="c295595602938b43b907b3aa2e389063" sha1="09a5dc30fc43548fce6af642f770e0c1fae1c0fd"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v12) (Title Update)" id="17419">
+		<description>Minecraft - Xbox 360 Edition (World) (v12) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="42749952" crc="d364d503" md5="83760b78347c35296fc723d16afa881c" sha1="ee8ba7b620b79a2773cb7a2f9c65574cf9f01294"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v13) (Title Update)" id="17420">
+		<description>Minecraft - Xbox 360 Edition (World) (v13) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="42754048" crc="2cc1ba0d" md5="ac1f9f682d14af147d552553f5988018" sha1="61d87d4902f05291d5f10f1fd704b496dab89b4a"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v14) (Title Update)" id="17421">
+		<description>Minecraft - Xbox 360 Edition (World) (v14) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="82563072" crc="b9961945" md5="71e7d72a342252ca127c9a2049a4afba" sha1="464074db40e912260ca257196902b7598681d0ee"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v15) (Title Update)" id="17422">
+		<description>Minecraft - Xbox 360 Edition (World) (v15) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="82563072" crc="0fcbc90a" md5="32b6b12c21fa019c6d290c46269f4700" sha1="64ddeb39cf385760f0da3860aaacae2bfe4fdb2d"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v16) (Title Update)" id="17423">
+		<description>Minecraft - Xbox 360 Edition (World) (v16) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="82870272" crc="d7fec95c" md5="c3f2c436af8e9dad39a24bca879d8bb8" sha1="78f40365fd9390992a43a725c385e5929a678fb4"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v17) (Title Update)" id="17424">
+		<description>Minecraft - Xbox 360 Edition (World) (v17) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="91688960" crc="02eac841" md5="407803f141c80f99a3a576612d78aacb" sha1="481ddb03034d96352e11eecc6e7da32c907e70d5"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v18) (Title Update)" id="17425">
+		<description>Minecraft - Xbox 360 Edition (World) (v18) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="91693056" crc="26554172" md5="96b5dd2e9976b19c17f88e4d68253c0f" sha1="9205e6c9017b86a80b8ad548e91afe69da391882"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v19) (Title Update)" id="17426">
+		<description>Minecraft - Xbox 360 Edition (World) (v19) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="145154048" crc="9106f60e" md5="cd914762480f95291b93d6e96faeccc8" sha1="789643311cc4b0ad642c06ed8e55854d18b40f16"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v20) (Title Update)" id="17427">
+		<description>Minecraft - Xbox 360 Edition (World) (v20) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="144728064" crc="c716cadc" md5="e1bb677b07a0b4a145547c4c41698d14" sha1="4a9a78c8ce1cf908cf7062cda25af3776ff4cd71"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v21) (Title Update)" id="17428">
+		<description>Minecraft - Xbox 360 Edition (World) (v21) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="145010688" crc="51b25855" md5="bf70d1bed5b286cbfbe306a7ac9e80f5" sha1="9c5834f7b529d75e3603332e698bc176e7dc4aaa"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v22) (Title Update)" id="17429">
+		<description>Minecraft - Xbox 360 Edition (World) (v22) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="145199104" crc="454663e5" md5="391dddd5ac03eed426d752ba2bb88db4" sha1="17c4aa07cdea16ebcf6208d2febb4fcc12ae27d9"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v23) (Title Update)" id="17430">
+		<description>Minecraft - Xbox 360 Edition (World) (v23) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="151789568" crc="c011296c" md5="e15cfa2deb6eda4fb5274422ca284878" sha1="3ecdc389599b02ffa9eb8dd06b09826831a8304c"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v24) (Title Update)" id="17431">
+		<description>Minecraft - Xbox 360 Edition (World) (v24) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="225398784" crc="3c5aef5e" md5="143077fa80738b4a5396747fa17ac716" sha1="86721de8136351a010b4425c4bd71c95a58957dc"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v25) (Title Update)" id="17432">
+		<description>Minecraft - Xbox 360 Edition (World) (v25) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="233644032" crc="e1ba29fe" md5="3bb8a17cbb100b8deb8268669c82a80b" sha1="b2b584436f76d592dc84a209126cad460511b649"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v26) (Title Update)" id="17433">
+		<description>Minecraft - Xbox 360 Edition (World) (v26) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="233603072" crc="c0f26063" md5="7efebc9a1a384b8f2d5910d65df58cd7" sha1="e21e496dfb51d0c2e14c6c60a09d13b1cc19aa2e"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v27) (Title Update)" id="17434">
+		<description>Minecraft - Xbox 360 Edition (World) (v27) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="233291776" crc="3a8b1341" md5="6265257e85fded3060604b5a262c4107" sha1="0f787361b95003d0802332c07201bc7fa2909711"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v28) (Title Update)" id="17435">
+		<description>Minecraft - Xbox 360 Edition (World) (v28) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="243752960" crc="707385b2" md5="4a6da8682a59959919aad3f79dfb5f64" sha1="d832247d402c89354c04ab88c325d1eb89508c03"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v29) (Title Update)" id="17436">
+		<description>Minecraft - Xbox 360 Edition (World) (v29) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="243757056" crc="4d2d54ac" md5="55bd725f3e68942cafb10b8e6919ffbb" sha1="3d09e6ffde1d7f14ffad677191f3d901737823ff"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v30) (Title Update)" id="17437">
+		<description>Minecraft - Xbox 360 Edition (World) (v30) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="244256768" crc="bad7a3f6" md5="d08ffdeb6c6d4c75634d8adcd47f69cb" sha1="728fdf82b341d34151c85f8edcf8e19e992b2c47"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v32) (Title Update)" id="17438">
+		<description>Minecraft - Xbox 360 Edition (World) (v32) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="263557120" crc="b631887c" md5="2d5727c8d3a8422cdae945dda2f8f83b" sha1="7161ff6da487f43142bdbbf31f396c9cf836aa69"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v33) (Title Update)" id="17439">
+		<description>Minecraft - Xbox 360 Edition (World) (v33) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="263606272" crc="d7f3b152" md5="3dd2ecd3213f6c7cb46155ad983929f0" sha1="94583faa0341c5e8b5ad51996380d610807d54de"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v34) (Title Update)" id="17440">
+		<description>Minecraft - Xbox 360 Edition (World) (v34) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="265117696" crc="c3f3607a" md5="6915022846867dd3b964b8c989dbfa58" sha1="d7a20cfb16b0e0ac83924958934a34e8e0f8137e"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v35) (Title Update)" id="17441">
+		<description>Minecraft - Xbox 360 Edition (World) (v35) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="265117696" crc="73b900e1" md5="64e9c50e3de7e1992770617c5e5f49c3" sha1="12e4f2020bc0bb792d5654589b9587e5cbd97a72"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v36) (Title Update)" id="17442">
+		<description>Minecraft - Xbox 360 Edition (World) (v36) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="490606592" crc="93cdede5" md5="0a676985c26f211338c486c525ba8149" sha1="9b4ff19f545a71658beae97a010e0b2f4ee472db"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v37) (Title Update)" id="17443">
+		<description>Minecraft - Xbox 360 Edition (World) (v37) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="490627072" crc="df2356cd" md5="f5637b60a0d72f746f1793a88a43e856" sha1="f884caf9f542c7f66f9c6f36642f7b230a403a2a"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v38) (Title Update)" id="17444">
+		<description>Minecraft - Xbox 360 Edition (World) (v38) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="490663936" crc="47697509" md5="500175480fe0b92e6d7a797ce888805b" sha1="6cb37736b7482fdefc13bdcf1531a147633d3c94"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v39) (Title Update)" id="17445">
+		<description>Minecraft - Xbox 360 Edition (World) (v39) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="548282368" crc="7c3ff4ff" md5="cea0b58c3311b5025711b2c3edecc25e" sha1="d7f7e81825c8a0b5ceb3047fc65a7244a3204c36"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v41) (Title Update)" id="17446">
+		<description>Minecraft - Xbox 360 Edition (World) (v41) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="597508096" crc="bf6b349a" md5="cab1a1b45f5a71f84b598a32288dce3d" sha1="4f3bfa29d06cfb590c02be90a0625b13bd6e16a9"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v42) (Title Update)" id="17447">
+		<description>Minecraft - Xbox 360 Edition (World) (v42) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="597491712" crc="5d44d197" md5="bf846fa9c3cf7dcba6969cd2b1885227" sha1="38fd92136e0a435a2e073b4c3002931002e997db"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v43) (Title Update)" id="17448">
+		<description>Minecraft - Xbox 360 Edition (World) (v43) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="709951488" crc="652eb80e" md5="213cb08119d36d05324b60e22239fbb2" sha1="abe4c652c2ef855d46350fb0099f8b30d144e437"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v44) (Title Update)" id="17449">
+		<description>Minecraft - Xbox 360 Edition (World) (v44) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="788672512" crc="15bf0043" md5="fcd22607fdc98d2bf924ba51d30429d8" sha1="9386727b6012dd45652dc5d9559d804db0b2b9d1"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v45) (Title Update)" id="17450">
+		<description>Minecraft - Xbox 360 Edition (World) (v45) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="788672512" crc="700aaeee" md5="787782be7f16333b9591f3eca6c83564" sha1="e7bd223331aec863a28fdb11232f9bfd43bf43b2"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v59) (Title Update)" id="17451">
+		<description>Minecraft - Xbox 360 Edition (World) (v59) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1057079296" crc="a24d3b71" md5="9eb1654d22cf6f9268ed2356f024d157" sha1="35ef00e132fa9b4e8acd3ef24357406a8bc0f741"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v60) (Title Update)" id="17452">
+		<description>Minecraft - Xbox 360 Edition (World) (v60) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1117777920" crc="6e0db340" md5="042cb30974c89e2060abccb9952b981a" sha1="1448b17a43ac87cd7556ce8ff746cea2f7fb48b5"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v61) (Title Update)" id="17453">
+		<description>Minecraft - Xbox 360 Edition (World) (v61) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1118072832" crc="ff98cf45" md5="f595271a5074868de412aa2e726eddeb" sha1="806b52cf33d6864144445ee204b7552804033102"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v63) (Title Update)" id="17454">
+		<description>Minecraft - Xbox 360 Edition (World) (v63) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1118990336" crc="68b1097c" md5="87f323973368dee4214096da60f9b69a" sha1="73618d35ff38cfdc8411d15614bd02ccac4eb255"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v67) (Title Update)" id="17455">
+		<description>Minecraft - Xbox 360 Edition (World) (v67) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1191313408" crc="5430da38" md5="b955de7b23e48e3b45dacf3563fc2232" sha1="779cdc17358e5dad5ee5bb3900997c8024541f27"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v69) (Title Update)" id="17456">
+		<description>Minecraft - Xbox 360 Edition (World) (v69) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1220685824" crc="3dfd7ecb" md5="7db4887a62de1093c0ca9e66ee5351c4" sha1="d1aac3b2db6d028522c06ee82e3e794545e4f701"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v70) (Title Update)" id="17457">
+		<description>Minecraft - Xbox 360 Edition (World) (v70) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1283796992" crc="7ad5e464" md5="2089eadfd374b88c964a91612becc16d" sha1="b0a6fb7c92aa37108492c097d3b2d88796bac30c"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v71) (Title Update)" id="17458">
+		<description>Minecraft - Xbox 360 Edition (World) (v71) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1284829184" crc="0af0bedc" md5="2d87bfed6bee681eb76eabed3521e77e" sha1="57233432cb63d57815ff354476dcb5954859dc6e"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v72) (Title Update)" id="17459">
+		<description>Minecraft - Xbox 360 Edition (World) (v72) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1284825088" crc="231c54f2" md5="03784788c5dd05640599ac84d7b06d05" sha1="22c2ab189eb5ebc3473efba43f7709b65a0116d8"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v73) (Title Update)" id="17460">
+		<description>Minecraft - Xbox 360 Edition (World) (v73) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1351897088" crc="c10d400b" md5="cac5a988c6add5f43fb969f974d1bf71" sha1="6fa1508d5a925333d79343e28d084f144eadc0b7"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v75) (Title Update)" id="17461">
+		<description>Minecraft - Xbox 360 Edition (World) (v75) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1352560640" crc="e6df3be4" md5="761f89c2d4a7c13b240a6d44b8f68034" sha1="2f3248350c606f6fd1f65b168f9faa8f19266538"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition - 1st Birthday Skin Pack (World) (Addon)" id="05149">
 		<description>Minecraft - Xbox 360 Edition - 1st Birthday Skin Pack (World) (Addon)</description>
@@ -47835,6 +47780,263 @@
 		<rom name="58580848\00009000\00001000EE468253CFD13BAF58580848" size="167936" crc="f6416852" md5="87a6ca5d441947ea62805b27fc51785e" sha1="04468001102108cf060ed60bae58200380c292a3"/>
 		<rom name="58580848\00009000\00001000FB4F02D3C186390158580848" size="233472" crc="7109d82b" md5="8e8bb947a747b59424a3d52fdb407d5c" sha1="e20c5c13b0a464dff2bad45f5dd5b44cbbc12607"/>
 	</game>
+	<game name="NBA Collection - 2018 76ers Redick Jersey (World) (Avatar Item)" id="06245">
+		<description>NBA Collection - 2018 76ers Redick Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208E042A2F1CF371E9F58580848" size="122880" crc="4f1cea0b" md5="02ff831cbae7253d9ebaa77d587f4b2a" sha1="d93fb82ec3533193c8832967385250cf50d32d6f"/>
+	</game>
+	<game name="NBA Collection - 2018 Bucks Antetokounmpo Jersey (World) (Avatar Item)" id="06246">
+		<description>NBA Collection - 2018 Bucks Antetokounmpo Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002084242C221C6AF71FF58580848" size="118784" crc="918e6ee1" md5="94b07e70c472b901de98bbc298cd4ba1" sha1="afa5afc0d2b2ada9ce09384b0b290162ab15d7a9"/>
+	</game>
+	<game name="NBA Collection - 2018 Bulls Lopez Jersey (World) (Avatar Item)" id="06247">
+		<description>NBA Collection - 2018 Bulls Lopez Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208914C0231C8A9239B58580848" size="118784" crc="d9e0d57f" md5="8e45c3ad269989da2bc8d8864b62f090" sha1="dc3d134247076bacbbdb54c4eca30be89ff77568"/>
+	</game>
+	<game name="NBA Collection - 2018 Cavaliers James Jersey (World) (Avatar Item)" id="06248">
+		<description>NBA Collection - 2018 Cavaliers James Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002086B4432F1C5BD3E8858580848" size="122880" crc="2e04b3aa" md5="1462ec8b681394853e8b4b04e7d7dbed" sha1="b865c70f04879d2f2fe8713b8a2abadeaa1184f5"/>
+	</game>
+	<game name="NBA Collection - 2018 Celtics Hayward Jersey (World) (Avatar Item)" id="06249">
+		<description>NBA Collection - 2018 Celtics Hayward Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208854822A1C2D6130D58580848" size="118784" crc="bdb2f180" md5="5832bf503dd420fd12b1440c14ee5751" sha1="58e97c3a33ee857ba415d0f796099d7cf10d5089"/>
+	</game>
+	<game name="NBA Collection - 2018 Celtics Horford Jersey (World) (Avatar Item)" id="06250">
+		<description>NBA Collection - 2018 Celtics Horford Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208284CB201C27EAAF158580848" size="118784" crc="18c4ab49" md5="d7fccab0b536a0d668550752ec9825d2" sha1="045e04f897cef1ef54bff2fb2ca40d47e236d55f"/>
+	</game>
+	<game name="NBA Collection - 2018 Celtics Irving Jersey (World) (Avatar Item)" id="06251">
+		<description>NBA Collection - 2018 Celtics Irving Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208884C82A1C8FA0C8958580848" size="118784" crc="795cd7a4" md5="46cf8c83e8fad62730e6572752d720f8" sha1="407e29b61a85d02cfa95f0c5ee70f93903c30205"/>
+	</game>
+	<game name="NBA Collection - 2018 Clippers Griffin Jersey (World) (Avatar Item)" id="06252">
+		<description>NBA Collection - 2018 Clippers Griffin Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002084346C291CCD1883F58580848" size="118784" crc="78c35c92" md5="972e7e2a8769ebe3ce5f4ac18834767d" sha1="2918c55b625a72add73493467da3553550764991"/>
+	</game>
+	<game name="NBA Collection - 2018 Grizzlies Conley Jersey (World) (Avatar Item)" id="06253">
+		<description>NBA Collection - 2018 Grizzlies Conley Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002080E4CA231C08A7CCF58580848" size="118784" crc="e0dc0878" md5="e794e3f59fdf82e41c55307bec9a33e7" sha1="9c850e326bcb6c3024c845fb0b4d5d1450e1fcb5"/>
+	</game>
+	<game name="NBA Collection - 2018 Hawks Bazemore Jersey (World) (Avatar Item)" id="06254">
+		<description>NBA Collection - 2018 Hawks Bazemore Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208834EF211C4B3D35058580848" size="135168" crc="a41d6d2e" md5="05fe39f29d191fb7dc4b107f2e17e1cf" sha1="5637e2aff194d6c7025400ca4eea689689ef2b93"/>
+	</game>
+	<game name="NBA Collection - 2018 Heat Whiteside Jersey (World) (Avatar Item)" id="06255">
+		<description>NBA Collection - 2018 Heat Whiteside Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208F44682C1C9BF84B958580848" size="114688" crc="d1ae8ec2" md5="c3107eb172a786bdd6edb79cbc4532cd" sha1="018dfa23f8b46a6ed79a9b5a750c107ddf01e212"/>
+	</game>
+	<game name="NBA Collection - 2018 Hornets Howard Jersey (World) (Avatar Item)" id="06256">
+		<description>NBA Collection - 2018 Hornets Howard Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208BD4652C1C32B3BED58580848" size="118784" crc="54ecdff4" md5="d8fd05cdb059013d34bc2d8f812f80da" sha1="240ef229c2fc1daa60e7296f752509448742c89a"/>
+	</game>
+	<game name="NBA Collection - 2018 Jazz Gobert Jersey (World) (Avatar Item)" id="06257">
+		<description>NBA Collection - 2018 Jazz Gobert Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002082C4C0231C0A3150A58580848" size="118784" crc="923084d2" md5="54c4c38718496765cec2f46c232587e4" sha1="45f3b278d13fcf21b268e56bd2e082e9c5e6fd86"/>
+	</game>
+	<game name="NBA Collection - 2018 Kings Hill Jersey (World) (Avatar Item)" id="06258">
+		<description>NBA Collection - 2018 Kings Hill Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208AB467231CE3C220C58580848" size="118784" crc="55a431f8" md5="81e6ed8383fe1b271e194af5073ab468" sha1="324e6eb4740a385bdba0ea8cfdc57b9e863627b6"/>
+	</game>
+	<game name="NBA Collection - 2018 Knicks Porzingis Jersey (World) (Avatar Item)" id="06259">
+		<description>NBA Collection - 2018 Knicks Porzingis Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208584EB241C3035E7558580848" size="122880" crc="db04d5ba" md5="dfbe4533f47a832587520e56aa9c2ad7" sha1="76dbbb84baa58a154fec3bbc308de098cc87b24e"/>
+	</game>
+	<game name="NBA Collection - 2018 Lakers Lopez Jersey (World) (Avatar Item)" id="06260">
+		<description>NBA Collection - 2018 Lakers Lopez Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\0000020837475271C1FF165758580848" size="118784" crc="34ceeb34" md5="76fa962e21bb46db920a97360dbedd70" sha1="a4e0e1d2ff7697446af791afdac75ef474187985"/>
+	</game>
+	<game name="NBA Collection - 2018 Mavericks Barnes Jersey (World) (Avatar Item)" id="06261">
+		<description>NBA Collection - 2018 Mavericks Barnes Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208254DA211CE74BE8958580848" size="118784" crc="02268fd1" md5="1650d99888878d19fa4b315c6308ed8f" sha1="e45803995293cb3a1e8c4fdd78072ecef52fa296"/>
+	</game>
+	<game name="NBA Collection - 2018 NBA All Star Game Hat Black (World) (Avatar Item)" id="06262">
+		<description>NBA Collection - 2018 NBA All Star Game Hat Black (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000040E74772B3C31493BD58580848" size="86016" crc="2ddb4bde" md5="8d6dc8a2c14c7fe59bb8bd9f1e002bb7" sha1="862b4fa41690c479c9f0a48cd5916d59b975e724"/>
+	</game>
+	<game name="NBA Collection - 2018 NBA All Star Game Hat White (World) (Avatar Item)" id="06263">
+		<description>NBA Collection - 2018 NBA All Star Game Hat White (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000000409C46B233C2B67EB958580848" size="90112" crc="6a18e641" md5="7e0c6c733d8a1b63e75946786565e7cd" sha1="4ca9e4ceff4eb7ab86a10f559a3451a9b5859c54"/>
+	</game>
+	<game name="NBA Collection - 2018 NBA All Star Game Tee White (World) (Avatar Item)" id="06265">
+		<description>NBA Collection - 2018 NBA All Star Game Tee White (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000000082E4FB2F1C52F568C58580848" size="122880" crc="670c0d18" md5="33fb6b8948ad80f7e0a486133049a324" sha1="7b35668ceca1a384f5a9ced47204e5a285760b7a"/>
+		<rom name="58580848\00009000\00000008B94712A2C1103CF358580848" size="118784" crc="12ad8cc0" md5="ce70b9b6a12d408893d0cb098a766148" sha1="7f871611bcf2d7e82a0e40922ad77311908a03e2"/>
+	</game>
+	<game name="NBA Collection - 2018 Nets Crabbe Jersey (World) (Avatar Item)" id="06266">
+		<description>NBA Collection - 2018 Nets Crabbe Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002081842C231C868BDDB58580848" size="114688" crc="6a16e1da" md5="2c7ed4e74aaae175e00c7c9ab9344a8f" sha1="6387394512c0fbe18a6e127997c575d45c84ae39"/>
+	</game>
+	<game name="NBA Collection - 2018 New Year Shades Gold (World) (Avatar Item)" id="06267">
+		<description>NBA Collection - 2018 New Year Shades Gold (World) (Avatar Item)</description>
+		<game_id>58580828</game_id>
+		<rom name="58580828\00009000\000001006F432263C0F9DF3258580828" size="81920" crc="4785f5eb" md5="82bb8e7b8b3cacfcc6954db1425c8b4d" sha1="3f1b7f07a31ef18a022e513d937c12270f123b65"/>
+	</game>
+	<game name="NBA Collection - 2018 New Year Shades Green (World) (Avatar Item)" id="06268">
+		<description>NBA Collection - 2018 New Year Shades Green (World) (Avatar Item)</description>
+		<game_id>58580828</game_id>
+		<rom name="58580828\00009000\000001004448A263C99BD5F158580828" size="81920" crc="7ff5db27" md5="f3e594fa3f9ce60b46db3b99a77ee138" sha1="b68680eee85c155d32ac23b4a8a41639e64b6886"/>
+	</game>
+	<game name="NBA Collection - 2018 New Year Shades Rainbow (World) (Avatar Item)" id="06269">
+		<description>NBA Collection - 2018 New Year Shades Rainbow (World) (Avatar Item)</description>
+		<game_id>58580828</game_id>
+		<rom name="58580828\00009000\00000100184722D3C66F259958580828" size="81920" crc="6e1ffed0" md5="4bea60990f33597e93e66a3af69f634b" sha1="68a3708bdd5367e8c3a9f9a92f5166be26c91161"/>
+	</game>
+	<game name="NBA Collection - 2018 Nuggets Millsap Jersey (World) (Avatar Item)" id="06270">
+		<description>NBA Collection - 2018 Nuggets Millsap Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002089C4E42F1CFCFD9C458580848" size="118784" crc="beefc7d8" md5="bfcd97ff3ffa51db132209aeb62e8755" sha1="1939f164fdfefee0539abc57f5fd47c5aa8ab9ee"/>
+	</game>
+	<game name="NBA Collection - 2018 Pacers Oladipo Jersey (World) (Avatar Item)" id="06271">
+		<description>NBA Collection - 2018 Pacers Oladipo Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208B4471231CAFDF07958580848" size="118784" crc="cbb94dfc" md5="0eb5bc5cbda47fcbe811ae34828ed460" sha1="cb2a3ff72d7c0e568bf07301df7be9bee0142e37"/>
+	</game>
+	<game name="NBA Collection - 2018 Pelicans Holiday Jersey (World) (Avatar Item)" id="06272">
+		<description>NBA Collection - 2018 Pelicans Holiday Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208D24862D1CD48926658580848" size="118784" crc="1915b59c" md5="7860c626a75c68243b1dde484458c182" sha1="3138b2f7b847c54eb4fbc888836d3f7b0dad97c8"/>
+	</game>
+	<game name="NBA Collection - 2018 Pistons Drummond Jersey (World) (Avatar Item)" id="06273">
+		<description>NBA Collection - 2018 Pistons Drummond Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002082F41D291C84A98DF58580848" size="118784" crc="414f58c9" md5="1ba0f9b1d0095037e4aabbc2e6e5b56e" sha1="d3662dd91feaff28d393575ada5257cdaa650b48"/>
+	</game>
+	<game name="NBA Collection - 2018 Raptors DeRozan Jersey (World) (Avatar Item)" id="06274">
+		<description>NBA Collection - 2018 Raptors DeRozan Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002085F4D6281C4C03AAD58580848" size="118784" crc="51b24c68" md5="87e3888003f0a84dd679a0ca840cafee" sha1="23dd6d5c828ced8b8210c82398011e719cd7d2fa"/>
+	</game>
+	<game name="NBA Collection - 2018 Raptors Ibaka Jersey (World) (Avatar Item)" id="06275">
+		<description>NBA Collection - 2018 Raptors Ibaka Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208CB42F251C145FC9758580848" size="118784" crc="d1743ece" md5="1b84686bfdf59718f351569a4b9d48f7" sha1="e309091767af88cbf81934c49fea5179aa1661e1"/>
+	</game>
+	<game name="NBA Collection - 2018 Raptors Lowry Jersey (World) (Avatar Item)" id="06276">
+		<description>NBA Collection - 2018 Raptors Lowry Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208934E9271C8D2DF4F58580848" size="118784" crc="f376f801" md5="daa3130cd2c7b05a8f9704c731c8dba0" sha1="f7a306fc1df100be25583ad2144cca852e058e2c"/>
+	</game>
+	<game name="NBA Collection - 2018 Rockets Harden Jersey (World) (Avatar Item)" id="06277">
+		<description>NBA Collection - 2018 Rockets Harden Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208FE480281C561238B58580848" size="118784" crc="2ff2d0e2" md5="bf7b8cf76e55495932de75e45ff559c9" sha1="a3615234ae7a0fffed14e57367847d62fd7c1c3f"/>
+	</game>
+	<game name="NBA Collection - 2018 Spurs Aldridge Jersey (World) (Avatar Item)" id="06278">
+		<description>NBA Collection - 2018 Spurs Aldridge Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208674B4291C37317BD58580848" size="114688" crc="50aef83e" md5="8d8e5895a9138bde434aa07559d7fc82" sha1="981b7621d3b7a02dcac4b52ed320198cbb5bc34b"/>
+	</game>
+	<game name="NBA Collection - 2018 Suns Blesdoe Jersey (World) (Avatar Item)" id="06279">
+		<description>NBA Collection - 2018 Suns Blesdoe Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208644E0241C5BD6BED58580848" size="114688" crc="d9e65e9e" md5="83552935e3205e0539ac9fbecae0984e" sha1="6b363fafa26f010c110e363db2f77deebb504da3"/>
+	</game>
+	<game name="NBA Collection - 2018 Thunder Westbrook Jersey (World) (Avatar Item)" id="06280">
+		<description>NBA Collection - 2018 Thunder Westbrook Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002080D4FB281C0A89E9058580848" size="118784" crc="cfa50f26" md5="b595aa8314f085cf8a113b2973c6921e" sha1="86b480d6683335e097a775f796ee63c0438f0b3b"/>
+	</game>
+	<game name="NBA Collection - 2018 Timberwolves Butler Jersey (World) (Avatar Item)" id="06281">
+		<description>NBA Collection - 2018 Timberwolves Butler Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208D349A2F1C9FB309B58580848" size="114688" crc="28c9c483" md5="8394cebb37f5e5bb4b62875c03e8442c" sha1="22527556b2c11c1bd8a7e4bfa9c0c78ed43cda4e"/>
+	</game>
+	<game name="NBA Collection - 2018 Trail Blazers Lillard Jersey (World) (Avatar Item)" id="06282">
+		<description>NBA Collection - 2018 Trail Blazers Lillard Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002087C4242F1C83E3FDD58580848" size="114688" crc="6a60cd85" md5="62e08044fea8dcd5cf83cb2452c53ec9" sha1="1dd8da3be2af03d2bb44ee6e02b01be337a7d85b"/>
+	</game>
+	<game name="NBA Collection - 2018 Warriors Curry Jersey (World) (Avatar Item)" id="06283">
+		<description>NBA Collection - 2018 Warriors Curry Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208FC4CF2E1C2F5DBD858580848" size="122880" crc="b79709bd" md5="daaaf65a12d141979503366a14afd93d" sha1="a537266d8ba102c468ee100aa92956d9297353ee"/>
+	</game>
+	<game name="NBA Collection - 2018 Warriors Durant Jersey (World) (Avatar Item)" id="06284">
+		<description>NBA Collection - 2018 Warriors Durant Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208354552A1C8DC952C58580848" size="122880" crc="b711f5d9" md5="fd577a62b6b1c06d638de41dbc928d87" sha1="7b0913555d76023b98d87c93fb06944093d13286"/>
+	</game>
+	<game name="NBA Collection - 2018 Wizards Porter Jersey (World) (Avatar Item)" id="06285">
+		<description>NBA Collection - 2018 Wizards Porter Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208DC4082A1C97878F458580848" size="118784" crc="52e0353d" md5="0b34819979cdfeff21f177e8e8edb677" sha1="8a48fc3e693a80496266f1486863f7c734a5415c"/>
+	</game>
+	<game name="NBA Collection - 76ers 2016 Alternate Jersey (World) (Avatar Item)" id="06300">
+		<description>NBA Collection - 76ers 2016 Alternate Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000000082C452281C0DD9F9758580848" size="122880" crc="e007a7cb" md5="ad0e1ad1891cf16632066c0dbc07ecf1" sha1="7c118121b22be60b2eafbd4f7506058ee9614327"/>
+	</game>
+	<game name="NBA Collection - 76ers 2016 Alternate Shorts (World) (Avatar Item)" id="06301">
+		<description>NBA Collection - 76ers 2016 Alternate Shorts (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000010684782D1C6DB30E958580848" size="98304" crc="c5287139" md5="47df0fa3e1cb10667da298958d101967" sha1="62e6c297d95cc428cb832bda149a49a482b5b1ca"/>
+	</game>
+	<game name="NBA Collection - 76ers Bayless Jersey (World) (Avatar Item)" id="06302">
+		<description>NBA Collection - 76ers Bayless Jersey (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000208A64D6211CE95848D58580848" size="118784" crc="69f2b399" md5="8a75f3101d7c08fdb32b61c6fbf695ff" sha1="231896a97b325bdb93afb8b9fba34a992d72c039"/>
+	</game>
+	<game name="NBA Collection - 76ers Bling Hat (World) (Avatar Item)" id="06303">
+		<description>NBA Collection - 76ers Bling Hat (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000005442F44E213C745761558580848" size="126976" crc="1e406294" md5="63ab7e06f6ed94f0dc4a14cb3adbc420" sha1="d7218c68f455851a64ec5e82c208f7ea5dea34f0"/>
+	</game>
+	<game name="NBA Collection - 76ers Bling Hat SE (World) (Avatar Item)" id="06304">
+		<description>NBA Collection - 76ers Bling Hat SE (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000005447D4BF2C3C1B1CE6358580848" size="131072" crc="91f71eff" md5="682fba6de52d5c2f2553f10b072e3c74" sha1="669ffe78901d27182a24bc305205877ea16ed68d"/>
+	</game>
+	<game name="NBA Collection - 76ers Cap (World) (Avatar Item)" id="06305">
+		<description>NBA Collection - 76ers Cap (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000040BA4FA283C02F390D58580848" size="90112" crc="e067a771" md5="312ada3dc1e011d0eaed14c4715d0021" sha1="5a0de66983b22cd3855e5142a3d0dfe31bd25e38"/>
+	</game>
+	<game name="NBA Collection - 76ers Fitted Cap (World) (Avatar Item)" id="06306">
+		<description>NBA Collection - 76ers Fitted Cap (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000000405242C243CDCC7A6B58580848" size="90112" crc="13e14ac1" md5="290a7b382cec4c8e42c8bb640084c8d7" sha1="ddffda30b411bb28c781a503f3cbe45aecc40121"/>
+	</game>
+	<game name="NBA Collection - 76ers Hoodie (World) (Avatar Item)" id="06307">
+		<description>NBA Collection - 76ers Hoodie (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\000002082C465281C2850CB158580848" size="147456" crc="122250fa" md5="d0fabb8579b3c1c3d71dea2706e31734" sha1="9628f88aafb38f54d0c3e0e72a289a54af74e3e0"/>
+	</game>
+	<game name="NBA Collection - 76ers On Court Tee (World) (Avatar Item)" id="06308">
+		<description>NBA Collection - 76ers On Court Tee (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000008414852C1CD50386658580848" size="122880" crc="1eae356e" md5="04f4ca2f8c10886f68dd6912e87c59b9" sha1="9289e82a35be57611a7699d5bd66a9aa74a33256"/>
+	</game>
+	<game name="NBA Collection - 76ers Playoffs Tee (World) (Avatar Item)" id="06309">
+		<description>NBA Collection - 76ers Playoffs Tee (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000008334232E1CF0F9F5858580848" size="118784" crc="ddc5b7c9" md5="ba4c2d3d0230ab6671e8fecaa2213ecb" sha1="da1d8e1dc9e132ea2541101f6edba90d4c93465c"/>
+		<rom name="58580848\00009000\000000085C41E232CC11CBF858580848" size="118784" crc="1d6462f1" md5="fa26a5a88b4cffd810b81707429059a1" sha1="1d081989402643645cce209f76aacfb36ee28c12"/>
+	</game>
+	<game name="NBA Collection - 76ers Tee (World) (Avatar Item)" id="06310">
+		<description>NBA Collection - 76ers Tee (World) (Avatar Item)</description>
+		<game_id>58580848</game_id>
+		<rom name="58580848\00009000\00000008D44372E1C2027B9E58580848" size="126976" crc="03ce6510" md5="8239601cfe5f2acc644a74aa2977636c" sha1="9b514c0d0d39ffc806c90f3d227c05bcd3e049ba"/>
+	</game>
 	<game name="NBA JAM (World) (Beta) (XBLA)" id="01356">
 		<description>NBA JAM (World) (Beta) (XBLA)</description>
 		<rom name="58410A7D\000D0000\44D2539A22BAE174B1DD0BE1C75F05B5C7455A5358" size="1084014592" crc="88905b28" md5="d81b7cf19d8fefefb68adc5a3ac63a82" sha1="52306761325097ab09efdd0311b2a318328cb61d"/>
@@ -48856,6 +49058,41 @@
 		<description>Nexus Cyborg (World) (5858089F) (Addon)</description>
 		<rom name="5858089F\00009000\00000FFCCF420252CE1A482B5858089F" size="344064" crc="5ef9cc8d" md5="248e9d22a0e1bd209fd8d67d55669fa6" sha1="2a4970ebcd82f5b863a0515d074ca1a1dd2b7aef"/>
 		<rom name="5858089F\00009000\00000FFCD5439241C224945C5858089F" size="344064" crc="250dfc34" md5="3d52d2939d3beda0f5d5571cee99eb10" sha1="02dd9dbeddd114ff4037584930dcf3b4fe9a9a51"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers 2017 Jersey (World) (Avatar Item)" id="06293">
+		<description>NFL Avatar Shop - 49ers 2017 Jersey (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\000002089B4DF211CDCA92F3444D07D5" size="122880" crc="a5fe16e6" md5="da3b04ae9b6b2e6c05d15206c71e7aa2" sha1="b61ee641bc55dde95a69983dae068b1537c2c329"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Fan Jersey (World) (Avatar Item)" id="06294">
+		<description>NFL Avatar Shop - 49ers Fan Jersey (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\000002088F466291C47D7AF1444D07D5" size="126976" crc="731e9de2" md5="c0d1199b209b2f6145a644766c75daae" sha1="5cf12e2ab80657014636d48fd0e84a5079c2a880"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Gold Shield Cap (World) (Avatar Item)" id="06295">
+		<description>NFL Avatar Shop - 49ers Gold Shield Cap (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\00000040CA411223C2D4B577444D07D5" size="81920" crc="a3ab9c4e" md5="06033e5484fd78bdcf3b98b6bc009585" sha1="4549c6bce8f460aa2468d0dec6eaefc0003776b3"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Gold Trim Cap (World) (Avatar Item)" id="06296">
+		<description>NFL Avatar Shop - 49ers Gold Trim Cap (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\000000401549C273C5D212AA444D07D5" size="86016" crc="302cad99" md5="e211bb1382a1de9cc60df5370c2e78ba" sha1="0669c55b7a9acc8291508cc6babeab37687f2894"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Gold Trim Tee (World) (Avatar Item)" id="06297">
+		<description>NFL Avatar Shop - 49ers Gold Trim Tee (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\00000008F1448241C444D971444D07D5" size="114688" crc="008f356a" md5="e788809e898fd701cc5a86e36030578a" sha1="44e4ae0dedac87075d58920f688d1bae80ca1765"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Tailgate Party (World) (Avatar Item)" id="06298">
+		<description>NFL Avatar Shop - 49ers Tailgate Party (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\00001000754222B3C5833C34444D07D5" size="245760" crc="0c1e92d7" md5="b52f28912236fd7a64e59d541b2a0102" sha1="d9ac0d61d089b8e77a167cc0f24c4cefbcd81fba"/>
+	</game>
+	<game name="NFL Avatar Shop - 49ers Winning Splash (World) (Avatar Item)" id="06299">
+		<description>NFL Avatar Shop - 49ers Winning Splash (World) (Avatar Item)</description>
+		<game_id>444D07D5</game_id>
+		<rom name="444D07D5\00009000\00001000F8413283CB3CDA20444D07D5" size="266240" crc="5a16c9ed" md5="edb568ae98ab7e303677d65ad659bb03" sha1="0b2c3a390b1805f2ee7debc3efcadb27e0b540ca"/>
 	</game>
 	<game name="NFL Avatar Store (World) (444D07D5) (Addon)" id="08411">
 		<description>NFL Avatar Store (World) (444D07D5) (Addon)</description>
@@ -51516,8 +51753,8 @@
 		<description>OTO (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\7E007811CF7E856F79B55850635F63EB895DABA758" size="32894976" crc="2285c503" md5="1f44284e9bc11321c72fa5940e2f1d76" sha1="6d2256defb425ba437945d3055918224eaeae9d0"/>
 	</game>
-	<game name="Otomedius Excellent (USA) (v1) (Title Update)" id="05487">
-		<description>Otomedius Excellent (USA) (v1) (Title Update)</description>
+	<game name="Otomedius Excellent (USA) (Title Update)" id="05487">
+		<description>Otomedius Excellent (USA) (Title Update)</description>
 		<rom name="4B4E083A\000B0000\E160EC6D4635B191DB6B0FF3212EBD2FB1C301154B" size="352256" crc="cea8195b" md5="0ee89b89b3b4964689f5c75b7cb4ef9e" sha1="7b069f20918fc793e9978aeaba756b02279468a4"/>
 	</game>
 	<game name="Otomedius Excellent - Anoa - Eru - Madoka - Library (Japan) (Addon)" id="05415">
@@ -51782,13 +52019,13 @@
 		<description>Outpost Defender Online (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\1F51B7ED9ACECFC8BE73C33ED8393EE7DB2E6A1358" size="51699712" crc="0672cba5" md5="e430a33445a772dc0fa3151566eedcb4" sha1="3908bb898801878678784ebd5ac55152133522c1"/>
 	</game>
-	<game name="Outpost Kaloki X (World) (v2) (Title Update)" id="05361">
-		<description>Outpost Kaloki X (World) (v2) (Title Update)</description>
-		<rom name="584107DB\000B0000\CADEA11928F31F3EA06BFFE8EC3E54B800275EDA58" size="208896" crc="bd239061" md5="07b98ec5b260fc653b640f39aba8c666" sha1="7d2d0b23dbc7772415da0c0d9b77cd2113e01ed3"/>
-	</game>
 	<game name="Outpost Kaloki X (World) (XBLA)" id="00166">
 		<description>Outpost Kaloki X (World) (XBLA)</description>
 		<rom name="584107DB\000D0000\184E782DEB7F52EC476A563C6BB17BC8B451259A58" size="21557248" crc="5875d95e" md5="f2ec9ce09a29060439f30bfcc246401f" sha1="adc98d32346dc02770f80c4f9a69a031903dc220"/>
+	</game>
+	<game name="Outpost Kaloki X (World) (v2) (Title Update)" id="05361">
+		<description>Outpost Kaloki X (World) (v2) (Title Update)</description>
+		<rom name="584107DB\000B0000\CADEA11928F31F3EA06BFFE8EC3E54B800275EDA58" size="208896" crc="bd239061" md5="07b98ec5b260fc653b640f39aba8c666" sha1="7d2d0b23dbc7772415da0c0d9b77cd2113e01ed3"/>
 	</game>
 	<game name="Outpost Kaloki X - Bounty Hunter Scenario (World) (Addon)" id="00904">
 		<description>Outpost Kaloki X - Bounty Hunter Scenario (World) (Addon)</description>
@@ -67356,13 +67593,13 @@
 		<description>Rock Band Network - Gwar - Let Us Slay (World) (Addon)</description>
 		<rom name="45410869\00000002\DF540AD6871C9D9234257AECE70CB4C25578BEBD45" size="22007808" crc="927a91de" md5="bdd01dfea8237748311b74252880f664" sha1="aa285b56cec9de4ff3ec23e45859652da2fcf860"/>
 	</game>
-	<game name="Rock Band Network - Halcyon Way - On Black Wings (World) (Addon)" id="03907">
-		<description>Rock Band Network - Halcyon Way - On Black Wings (World) (Addon)</description>
-		<rom name="45410914\00000002\C64D628900A0C397B456525BD013B93E53FAE38D45" size="38543360" crc="6aab415b" md5="2026db3e52ce6679a4e76f1c57c66947" sha1="76e4d2e04f5422632f1f92992a95d33eab0e3925"/>
-	</game>
 	<game name="Rock Band Network - Halcyon Way - On Black Wings (World) (Addon) (Alt)" id="04238">
 		<description>Rock Band Network - Halcyon Way - On Black Wings (World) (Addon) (Alt)</description>
 		<rom name="45410914\00000002\C64D628900A0C397B456525BD013B93E53FAE38D45" size="38543360" crc="69aabffa" md5="62e480b3af4b2c7be851b5cd000d55a9" sha1="f95fa6f6e871e339d987fc4cdadea6605108d365"/>
+	</game>
+	<game name="Rock Band Network - Halcyon Way - On Black Wings (World) (Addon)" id="03907">
+		<description>Rock Band Network - Halcyon Way - On Black Wings (World) (Addon)</description>
+		<rom name="45410914\00000002\C64D628900A0C397B456525BD013B93E53FAE38D45" size="38543360" crc="6aab415b" md5="2026db3e52ce6679a4e76f1c57c66947" sha1="76e4d2e04f5422632f1f92992a95d33eab0e3925"/>
 	</game>
 	<game name="Rock Band Network - Halcyon Way - On Black Wings (2x Bass Pedal) (World) (Addon)" id="04218">
 		<description>Rock Band Network - Halcyon Way - On Black Wings (2x Bass Pedal) (World) (Addon)</description>
@@ -73040,8 +73277,8 @@
 		<description>San Francisco Alternate Game Pants (World) (444D07D5) (Addon)</description>
 		<rom name="444D07D5\00009000\000000108D446241CC7C268F444D07D5" size="102400" crc="cec27715" md5="7930ca84d439d45ded727ed6c0224897" sha1="a909fcb89a0ff2bc8a7b2f7b5ae907d428b6e507"/>
 	</game>
-	<game name="Sanctum 2 (World) (v1) (Title Update)" id="05335">
-		<description>Sanctum 2 (World) (v1) (Title Update)</description>
+	<game name="Sanctum 2 (World) (Title Update)" id="05335">
+		<description>Sanctum 2 (World) (Title Update)</description>
 		<rom name="58411329\000B0000\5DB16A13056D18ECDE826BF3D489AD361FB6A10F58" size="830046208" crc="23805d0c" md5="c8f4a019c86cb31f5fb11ae660fcb491" sha1="aaeaa92a7e20707ce317b3f22591d7efe6993a7f"/>
 	</game>
 	<game name="Sanctum 2 (World) (XBLA)" id="04393">
@@ -76923,13 +77160,13 @@
 		<rom name="58570A55\00009000\000000081EEAC201C09E4CB958570A55" size="114688" crc="e5430fa5" md5="97c45ee09260ec1007d9cdd146e98177" sha1="945f05cc8fdc6308dac6ad805e71bfef1d74618c"/>
 		<rom name="58570A55\00009000\00000008D5713252C6F21E1A58570A55" size="118784" crc="90eccf6a" md5="4659990b29d4f8c4c2fa96850e3bf201" sha1="9b8fbf307afef44308d2549fa29a9bec87091b66"/>
 	</game>
-	<game name="State of Decay (World) (v7) (Title Update)" id="05323">
-		<description>State of Decay (World) (v7) (Title Update)</description>
-		<rom name="584111E8\000B0000\33E87EA0EA249E87D79145D041742B9B09B30E6058" size="284446720" crc="ab692fab" md5="486118792d82726c0b7707ccaab0d8f2" sha1="1ae8758e0becf1261828f713c8f4aaa149d012a7"/>
-	</game>
 	<game name="State of Decay (World) (XBLA)" id="04396">
 		<description>State of Decay (World) (XBLA)</description>
 		<rom name="584111E8\000D0000\575B340E3A01D77D7C71736AC3B63886D02F23D958" size="1945509888" crc="2ac71dfc" md5="43ffcf0091ec8b666bad8c948ca4b7b6" sha1="701e827a05b693e93c352e3c5f8acb22721d2da3"/>
+	</game>
+	<game name="State of Decay (World) (v7) (Title Update)" id="05323">
+		<description>State of Decay (World) (v7) (Title Update)</description>
+		<rom name="584111E8\000B0000\33E87EA0EA249E87D79145D041742B9B09B30E6058" size="284446720" crc="ab692fab" md5="486118792d82726c0b7707ccaab0d8f2" sha1="1ae8758e0becf1261828f713c8f4aaa149d012a7"/>
 	</game>
 	<game name="State of Decay - Breakdown (World) (Addon)" id="04919">
 		<description>State of Decay - Breakdown (World) (Addon)</description>
@@ -77223,8 +77460,8 @@
 		<description>Stranglehold - Stranglehold Map Pack (World) (DLC)</description>
 		<rom name="4D5707D2\00000002\9CC94AD1023C575306FB7341F1F54CEEB3CAB2D64D" size="631418880" crc="0f97576e" md5="9d060030c877a595ae06ca03d8d7a12f" sha1="8d062024b23336f3eebeaa50e751de7d208c7e80" sha256="43938d89f49570e99f480b4220c3d06a8ae8022eea11a1c87653935ca779c062"/>
 	</game>
-	<game name="Strania - The Stella Machina (World) (v1) (Title Update)" id="05330">
-		<description>Strania - The Stella Machina (World) (v1) (Title Update)</description>
+	<game name="Strania - The Stella Machina (World) (Title Update)" id="05330">
+		<description>Strania - The Stella Machina (World) (Title Update)</description>
 		<rom name="58410AA5\000B0000\3F6A7617F3D1F7EB83F8F4A337C88693A66BB90358" size="421888" crc="91527a9c" md5="cf7be5e93958d2c829d393ab6931d1dc" sha1="b2e5eacc8bf3a7c2d3ca3e9758d780df7e2b9447"/>
 	</game>
 	<game name="Strania - The Stella Machina (World) (XBLA)" id="03123">
@@ -77291,13 +77528,13 @@
 		<rom name="444D0801\00009000\000010008A498233CDF06413444D0801" size="278528" crc="7d85b1d2" md5="467d83025876d8864ade1f192789b1fe" sha1="6d41e7bebb081e0e71a6c5fb33b3857077b26e68"/>
 		<rom name="444D0801\00009000\00001000EC489223C7CB3149444D0801" size="266240" crc="5d56abc7" md5="7c25b9483ddb21d43c4aa8352c608d0e" sha1="b394d93b3afe0e8d2728925e94aa8938228f5c13"/>
 	</game>
-	<game name="Street Fighter II - Hyper Fighting (World) (XBLA)" id="00195">
-		<description>Street Fighter II - Hyper Fighting (World) (XBLA)</description>
-		<rom name="584107F4\000D0000\38AD647E68F9542F2F78C4EC1FEED0B5588DB87558" size="51093504" crc="8794ba2f" md5="96ac536f74a1b2860f7c152ca736d0d4" sha1="a6bb879da4230f0daa45c7b5becff24e1dd2b3ce"/>
-	</game>
 	<game name="Street Fighter II - Hyper Fighting (World) (v2) (Title Update)" id="05320">
 		<description>Street Fighter II - Hyper Fighting (World) (v2) (Title Update)</description>
 		<rom name="584107F4\000B0000\2EE2B00EC70E000FD04DE9E05E4C9C145BB2F86058" size="237568" crc="18a7f53e" md5="68a8f13a99aabe397ad279850a328c9e" sha1="573431dc17a3c2864694495cd3c230fb1d4e7763"/>
+	</game>
+	<game name="Street Fighter II - Hyper Fighting (World) (XBLA)" id="00195">
+		<description>Street Fighter II - Hyper Fighting (World) (XBLA)</description>
+		<rom name="584107F4\000D0000\38AD647E68F9542F2F78C4EC1FEED0B5588DB87558" size="51093504" crc="8794ba2f" md5="96ac536f74a1b2860f7c152ca736d0d4" sha1="a6bb879da4230f0daa45c7b5becff24e1dd2b3ce"/>
 	</game>
 	<game name="Street Fighter III - Third Strike - Online Edition (World) (XBLA)" id="03534">
 		<description>Street Fighter III - Third Strike - Online Edition (World) (XBLA)</description>
@@ -78705,6 +78942,26 @@
 	<game name="Team Chess (World) (XBLIG)" id="15316">
 		<description>Team Chess (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\367D9A17FC6B35422839935DFB69705F3186E48F58" size="145940480" crc="9fa8b0fb" md5="fb1cf0938298354821083151f91db2b7" sha1="5cec3bd927fddce35d87e0a3a237520ddd955dda" sha256="4e2a4d340e5f2559a516e109d8f8031b52a8ada35974f0c794ce84717a834af7"/>
+	</game>
+	<game name="Team DZN Avatars - 2015 Year of Gaming Blue Tee (World) (Avatar Item)" id="06170">
+		<description>Team DZN Avatars - 2015 Year of Gaming Blue Tee (World) (Avatar Item)</description>
+		<game_id>373907D1</game_id>
+		<rom name="373907D1\00009000\00000008319E1271C11937AF373907D1" size="126976" crc="53bc919b" md5="02f5e283ed660fff83a027f8da4fd625" sha1="0d3648abf1a7296631ec876cf2051f6b3fcdf58e"/>
+	</game>
+	<game name="Team DZN Avatars - 2015 Year of Gaming Green Tee (World) (Avatar Item)" id="06171">
+		<description>Team DZN Avatars - 2015 Year of Gaming Green Tee (World) (Avatar Item)</description>
+		<game_id>373907D1</game_id>
+		<rom name="373907D1\00009000\000000081D91B201C56EA0B7373907D1" size="122880" crc="e96b967e" md5="cf85ca79b4f984263cf9b4e85eabd8a1" sha1="867f11aec869ab307161572d54a94535cde0918d"/>
+	</game>
+	<game name="Team DZN Avatars - 2015 Year of Gaming Purple Tee (World) (Avatar Item)" id="06172">
+		<description>Team DZN Avatars - 2015 Year of Gaming Purple Tee (World) (Avatar Item)</description>
+		<game_id>373907D1</game_id>
+		<rom name="373907D1\00009000\00000008F5E6F221C2E7D1F3373907D1" size="122880" crc="31f5f6ec" md5="9a6172b9c0fb61d5d533adc26e1ac98b" sha1="0288e4608a760778d0ceba4eff02f1dcb5a0d5ec"/>
+	</game>
+	<game name="Team DZN Avatars - 2015 Year of Gaming Red Tee (World) (Avatar Item)" id="06173">
+		<description>Team DZN Avatars - 2015 Year of Gaming Red Tee (World) (Avatar Item)</description>
+		<game_id>373907D1</game_id>
+		<rom name="373907D1\00009000\000000084EF22231C7CE84BF373907D1" size="122880" crc="bd5978c0" md5="b63be8086ca660d1b9053047ed9afd0d" sha1="b9eecb0acdd5d6fd5044b8e13150a2af6344c531"/>
 	</game>
 	<game name="Team On My Back (World) (58580898) (Addon)" id="09086">
 		<description>Team On My Back (World) (58580898) (Addon)</description>
@@ -80706,6 +80963,10 @@
 		<description>Torchlight (World) (v3) (Title Update)</description>
 		<rom name="Cache\TU_1C422JU_000000C000000.00000000000O3" size="2101248" crc="0f32d94a" md5="f348f767b483a73cd21f4726cdd24e1c" sha1="8c13cf320a0226108110a5d359166b28ff0302c1" sha256="16be6ca7ee56faf71bae9c84a75c03b56810dc1cd9d3124f3c227ef30da57438"/>
 	</game>
+	<game name="Torchlight (World) (XBLA)" id="03050">
+		<description>Torchlight (World) (XBLA)</description>
+		<rom name="58410A7E\000D0000\35F62CE3FE43845B1625A000921D5A6C48CCC7C058" size="206135296" crc="906bf4e2" md5="a8361830c42c27f108fc64415395c571" sha1="3c4d21acdbb95008646bc5977663bd2508292ab7"/>
+	</game>
 	<game name="Torchlight (World) (58410A7E) (Addon)" id="09172">
 		<description>Torchlight (World) (58410A7E) (Addon)</description>
 		<rom name="58410A7E\00009000\0000000823E31231C0C97A7A58410A7E" size="102400" crc="f1333cac" md5="7a7b462d78c2c6376f5ec59742c52fd3" sha1="03a378d11a19ddff880b571ecfdaa7fee38d386a"/>
@@ -80717,10 +80978,6 @@
 		<rom name="58410A7E\00009000\00000AB8011AE222CA489F3058410A7E" size="225280" crc="a62a87a0" md5="da90e0364fce3e43e0390347ed8787e6" sha1="b02c1fa1d90d1b251243cbc383574aa8c3cdda45"/>
 		<rom name="58410A7E\00009000\00000BB87E8912D1C3BC0AEC58410A7E" size="237568" crc="c1b317c5" md5="0a24f576f7190f799578f063d6e5cfd5" sha1="980fd5e020d372bef4b3f347b9de9f26e2ea7d0f"/>
 		<rom name="58410A7E\00009000\00000FFC5943F2D1C61FFF8B58410A7E" size="208896" crc="342ae8e4" md5="3b921e5f9e916c3f5e60fe025fdad8c6" sha1="93b94900de3c1e272f9a24e919bf3d589fa08530"/>
-	</game>
-	<game name="Torchlight (World) (XBLA)" id="03050">
-		<description>Torchlight (World) (XBLA)</description>
-		<rom name="58410A7E\000D0000\35F62CE3FE43845B1625A000921D5A6C48CCC7C058" size="206135296" crc="906bf4e2" md5="a8361830c42c27f108fc64415395c571" sha1="3c4d21acdbb95008646bc5977663bd2508292ab7"/>
 	</game>
 	<game name="Torino-X (World) (XBLIG)" id="15484">
 		<description>Torino-X (World) (XBLIG)</description>
@@ -83270,6 +83527,10 @@
 		<description>Virtua Fighter 5 - Final Showdown - Customisation Pack Bundle (World) (Addon)</description>
 		<rom name="584111FE\00000002\408E3ECB28995A39BDE17B9A51EFE5A273B5825158" size="2075852800" crc="9f0b560e" md5="d252d22015a894af64be30305b61b148" sha1="a29d81d59d9be76907cc71f09b45e35e71685b45"/>
 	</game>
+	<game name="Virtua Fighter 5 Final Showdown (World) (Title Update)" id="15696">
+		<description>Virtua Fighter 5 Final Showdown (World) (Title Update)</description>
+		<rom name="Cache\TU_1C424FU_0000004000000.0000000000081" size="729088" crc="95e7563a" md5="ec781bd9fcfd435cfd84c14d28957138" sha1="7e0c7507dcd2aa550a5fb04d6291d5a520d7a8b2" sha256="d361715b39aa7029310518b979f1ccbc22dc1f5092e59f2723524f3e90fef10d"/>
+	</game>
 	<game name="Virtua Fighter 5 Final Showdown (World) (584111FE) (Addon)" id="09316">
 		<description>Virtua Fighter 5 Final Showdown (World) (584111FE) (Addon)</description>
 		<rom name="584111FE\00009000\000000086B4852B2C3D01772584111FE" size="126976" crc="84e0318e" md5="7396125517e8cc8c175f9e5c06c5c95c" sha1="06cdb96efef6e39313466c8f116fb1a559ca6c55"/>
@@ -83284,10 +83545,6 @@
 		<rom name="584111FE\00009000\00000FFC6846A281C060D09A584111FE" size="299008" crc="27b87c65" md5="eafa5121acda0203f7acb636afa3f219" sha1="4103d4a48683066b966a408e6e24765b6c994dc3"/>
 		<rom name="584111FE\00009000\00001000554052E3CAE7E76D584111FE" size="208896" crc="ca8de121" md5="d6c206328ccb2d256af7df5aa122d8be" sha1="74dc0b658d81216922c818a26554d99c7068b71b"/>
 		<rom name="584111FE\00009000\00001000F842E263C4B5077B584111FE" size="204800" crc="8b3ee05f" md5="3fe8ec157baf6dafe21d0351418ee048" sha1="78b90c810d28135c90ebaf3c2e025d4fc5a587e0"/>
-	</game>
-	<game name="Virtua Fighter 5 Final Showdown (World) (Title Update)" id="15696">
-		<description>Virtua Fighter 5 Final Showdown (World) (Title Update)</description>
-		<rom name="Cache\TU_1C424FU_0000004000000.0000000000081" size="729088" crc="95e7563a" md5="ec781bd9fcfd435cfd84c14d28957138" sha1="7e0c7507dcd2aa550a5fb04d6291d5a520d7a8b2" sha256="d361715b39aa7029310518b979f1ccbc22dc1f5092e59f2723524f3e90fef10d"/>
 	</game>
 	<game name="Virtua Fighter 5 Online - Item Pack 1 (World) (DLC)" id="15697">
 		<description>Virtua Fighter 5 Online - Item Pack 1 (World) (DLC)</description>
@@ -83451,6 +83708,10 @@
 	<game name="Vox Studios - Raid (World) (XBLIG)" id="15714">
 		<description>Vox Studios - Raid (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\95A3C17E47D038BC8E732C1D4A1A6E0B26D6D86258" size="19075072" crc="4a432443" md5="9b6a68115a2c2630d6cd565ed6e0b60e" sha1="9c59756a159e2d2164c442c89e61b3d7c7c8093e" sha256="a7c44ea120b881ee91672393647ecbac8b2a70f302129adf38faca6d4f33588c"/>
+	</game>
+	<game name="Voxel Action, A (World) (XBLIG)" id="11847">
+		<description>Voxel Action, A (World) (XBLIG)</description>
+		<rom name="584E07D2\00000002\4C64BD82B89AC067247AB47B6DEA16D519DE199658" size="26800128" crc="d7d881b5" md5="f1a509ac16404d40bf261341c3afa030" sha1="83664ca9b7675480e3bfc242d0eeeef61dc639e0"/>
 	</game>
 	<game name="Voxel Costume (World) (444D07D9) (Addon)" id="09319">
 		<description>Voxel Costume (World) (444D07D9) (Addon)</description>
@@ -84284,13 +84545,13 @@
 		<description>Widows Peak Hair (World) (444D07D9) (Addon)</description>
 		<rom name="444D07D9\00009000\00000544704F62C3CE09F8D1444D07D9" size="81920" crc="b7c7e68e" md5="9348381eb0230b49cf1a821c430ea350" sha1="791d784fe7beb19745d4570d474d8f4ca91fac0f"/>
 	</game>
-	<game name="Wik and the Fable of Souls (World) (XBLA)" id="00223">
-		<description>Wik and the Fable of Souls (World) (XBLA)</description>
-		<rom name="584107DD\000D0000\648945D83E85F7A2EDAAEC857E71FE039FBC9E4058" size="23621632" crc="9e5c92b4" md5="8b2f0ee810d1b287db4157cc703e60f8" sha1="ed531545e9d6628442ffb1e136a090ecc6cef90d"/>
-	</game>
 	<game name="Wik and the Fable of Souls (World) (v2) (Title Update)" id="05352">
 		<description>Wik and the Fable of Souls (World) (v2) (Title Update)</description>
 		<rom name="584107DD\000B0000\AABF904176BD4939A2FA7F6889AA1BBF66297F6F58" size="3235840" crc="9e59e1b8" md5="70183e9bad2602f922efc6f09bd4cafd" sha1="4125f7d98a53ecbd24082df8cf982ec8bb43b867"/>
+	</game>
+	<game name="Wik and the Fable of Souls (World) (XBLA)" id="00223">
+		<description>Wik and the Fable of Souls (World) (XBLA)</description>
+		<rom name="584107DD\000D0000\648945D83E85F7A2EDAAEC857E71FE039FBC9E4058" size="23621632" crc="9e5c92b4" md5="8b2f0ee810d1b287db4157cc703e60f8" sha1="ed531545e9d6628442ffb1e136a090ecc6cef90d"/>
 	</game>
 	<game name="Wiki Read - Wikipedia for Xbox (World) (XBLIG)" id="15823">
 		<description>Wiki Read - Wikipedia for Xbox (World) (XBLIG)</description>
@@ -84715,6 +84976,42 @@
 	<game name="World of Keflings, A (World) (XBLA)" id="02512">
 		<description>World of Keflings, A (World) (XBLA)</description>
 		<rom name="584109DB\000D0000\4BBD6849436DC10A219802FE6A796B3B89FB721958" size="167952384" crc="2931dbc8" md5="cb144162c9f8b26c31686849a02deaac" sha1="6c4cad6dba7f8ba7e620d6d0b16dd13f39bc70db"/>
+	</game>
+	<game name="World of Keflings, A (World) (Addon)" id="06315">
+		<description>World of Keflings, A (World) (Addon)</description>
+		<game_id>584109DB</game_id>
+		<rom name="584109DB\00009000\00000008427982F1C2017A6D584109DB" size="114688" crc="38001a4e" md5="b1c797a7fbd9132da2aed0534ad44b61" sha1="30c2ef07ba3d15215f223b04d5554ddb20c2b57c"/>
+		<rom name="584109DB\00009000\00000008459C3271C04C36B3584109DB" size="114688" crc="ed3407a1" md5="b90d06ddb6516048d03b2fd2cfda966a" sha1="9e8561b01f519fd8c450909191e07dc0dd83d58d"/>
+		<rom name="584109DB\00009000\0000000849DC8291C99BD571584109DB" size="110592" crc="554759ec" md5="597835b4488f1f2d5c60d8d73bdf452d" sha1="6f4a48d542df89ec51dfe8bcee0b8f866295be29"/>
+		<rom name="584109DB\00009000\00000008502B22D2CA43195F584109DB" size="114688" crc="eb831699" md5="0304815adbe01f8bd6a918f3d7b0735c" sha1="24d7d3f5d1ddd4d785e505fe3f5d367cdcc4c890"/>
+		<rom name="584109DB\00009000\0000000852952291CEB27326584109DB" size="110592" crc="c969b368" md5="01de813b7a73466aeef84222f39925a0" sha1="1d1a65a86fd0cde6c757bcdc17a4dfa897a51cdb"/>
+		<rom name="584109DB\00009000\0000000855A45281CAC2D885584109DB" size="110592" crc="1b47ec36" md5="5c5dd6eb56b1f89f70eb52a239c3697e" sha1="14f31e2cddd47e5dded5a762dae98be76a43fb06"/>
+		<rom name="584109DB\00009000\000000085DBAE272C20A0E47584109DB" size="114688" crc="1af50387" md5="61f722afd9e8744189c971b551128640" sha1="428f86897f05fa38a6a2f868545c0ef4ce6c7665"/>
+		<rom name="584109DB\00009000\000000086EB372D1C61B38EB584109DB" size="114688" crc="aeb2ed25" md5="7b64d3aaddd3b526dab1b8e596602793" sha1="a5a5e360a56359c89a661a5f5425480c1b2ca42a"/>
+		<rom name="584109DB\00009000\0000000889B2C202C2376C0C584109DB" size="114688" crc="2735a843" md5="9b15c72960bfbaf050bd3052cb671c6b" sha1="c06e02f192ef1086f46f30556e6d5a62971a9953"/>
+		<rom name="584109DB\00009000\00000008916F42F2C6AD77F9584109DB" size="122880" crc="26e193d6" md5="0757f9ba05f5d2187f412492bf2cacf5" sha1="74a2120e3252f5e192bdeddcfe669cc81157d418"/>
+		<rom name="584109DB\00009000\00000008BC572241C705489F584109DB" size="110592" crc="b7bcc9ee" md5="16046bc3a14ad714b2a9c4d67b647332" sha1="661db60ccce71eb37ad6c56f2a09ce1e87545359"/>
+		<rom name="584109DB\00009000\00000008D6953262C0C362F3584109DB" size="110592" crc="37c6b024" md5="3f4d7cabf72c23502723f55f1a134aa0" sha1="f8af87eb8d2b41686de495d458425736d364ab31"/>
+		<rom name="584109DB\00009000\00000008E5DBB2C1C1473199584109DB" size="114688" crc="9474c9fb" md5="3da79ed087c72a4452b81404e1f17977" sha1="c06e4199890351095a307aa10701747c716aa061"/>
+		<rom name="584109DB\00009000\00000008EFED3282C2803580584109DB" size="118784" crc="4d58f3fc" md5="4cd6ffeded681fde12a2e29b784e847c" sha1="710d980fbed5c2438d8d7604e2f1faa4b8312a74"/>
+		<rom name="584109DB\00009000\00000010005C2291C3B4F23C584109DB" size="102400" crc="85718ccc" md5="2dbcceee0f36415bec0f3270e0daa023" sha1="bf779d94a8b8f84bb2ecec834610ad3f25325e3b"/>
+		<rom name="584109DB\00009000\000000101BFA12B2C805D5EB584109DB" size="110592" crc="b88e19f9" md5="b1a4f7e49633dce321317c6b7dc6cfa9" sha1="169560ac75afbe3029d2c6acfaf914f68e8eb24a"/>
+		<rom name="584109DB\00009000\00000010496D42F1C693E7C6584109DB" size="106496" crc="40681820" md5="5464566cbb9e999d4225b4c2234f5480" sha1="bd5b04e1696ffb611f63a42123e9ea49bde5fe27"/>
+		<rom name="584109DB\00009000\0000001093D1A2C2CC2ABD68584109DB" size="114688" crc="9133cb20" md5="dcf13b52bd2cfc5a4267492963d5ed6d" sha1="090bdc746ec35c25d04bb9f564a424917ab9aa60"/>
+		<rom name="584109DB\00009000\00000010D14A8201CBAFBA83584109DB" size="102400" crc="2a0d5dd1" md5="26f0d7ab6aa10ea45b4b6e457c8c7baa" sha1="9b059e72463e76ee94f3a5f3027a9fe4c0b71dd0"/>
+		<rom name="584109DB\00009000\00000010D55C1242CC163C03584109DB" size="110592" crc="5a5db5b2" md5="547c92a71c50a7d0d0b19c6e94bf9968" sha1="1a99c62c3b65b58a3bd0ea760d4f2c57923edd3a"/>
+		<rom name="584109DB\00009000\000000404A2A92B3CDF330D8584109DB" size="90112" crc="eb7771cd" md5="2da0b961e665f08164a5c5f6bcd25fbb" sha1="1ddafafa2d552ec4d86119585659340b086dbecb"/>
+		<rom name="584109DB\00009000\000000405AF0D2A3CE3140DD584109DB" size="86016" crc="d0fd9eb9" md5="63a568c9bee7d19ccfbb3e06ae8d6b68" sha1="f02baea61a016544e55daeb4c1631df1bd74d769"/>
+		<rom name="584109DB\00009000\000000407673C2F3C55C1749584109DB" size="98304" crc="bd817828" md5="3408d9b3708fc27c5df79cd6d57eeacb" sha1="86a783b79c2f4eaed0dfd3cc8ab962d1c97d867a"/>
+		<rom name="584109DB\00009000\00000040D5DEC293CD7CBA8D584109DB" size="90112" crc="0f4b2437" md5="d85fd8ec18945e8fe9139d29e76968f6" sha1="d96826f17dbd3b3cfaafb6b5caf5aec46a764820"/>
+		<rom name="584109DB\00009000\00000278559992E1C71E4C3C584109DB" size="126976" crc="473c636f" md5="22c4779e2fdf758673dd174e1ee39201" sha1="3c35e4d9cc5e1c2d0626b203f685995e87ccee5f"/>
+		<rom name="584109DB\00009000\000005444DC152A3C674FA8A584109DB" size="102400" crc="df2c76eb" md5="fb7366929183ee7806091aec756e9b96" sha1="ff3b27971b3f1ff6723d3d3f49f48365fc594844"/>
+		<rom name="584109DB\00009000\000005444FBB8263C7D725E1584109DB" size="106496" crc="dcb1ac80" md5="67e0332c5367e12e2d3423a825de7160" sha1="492a9ad99e02d8b5ad457b1dfea0589c7f0b33da"/>
+		<rom name="584109DB\00009000\00000638725142F2CEC71838584109DB" size="122880" crc="dd8be213" md5="dea1e637b63219334b335319d427545c" sha1="ba5137d5fe9fa1962896e30305698b168e882db5"/>
+		<rom name="584109DB\00009000\00000AF816F78251C1F2D770584109DB" size="131072" crc="174308f1" md5="fc4dac94800ea0e569c4206a87ebd9a4" sha1="8a9f236b4c882a66b493809416be5a22536168d6"/>
+		<rom name="584109DB\00009000\00000FB8D2AE12B2CC5C773B584109DB" size="126976" crc="8f84b0af" md5="37d61cb97c0149ada42cfd673c41a9c1" sha1="4f10165cc193d6424006e7f2c9d16b5c38d687ba"/>
+		<rom name="584109DB\00009000\00000FFCCA1D12C1C654FB40584109DB" size="192512" crc="83297133" md5="ad76641b8c8cd6cbc6e1e52551788ec0" sha1="d734729a1bbc0f42d53debcca2f99b5f8b46f328"/>
+		<rom name="584109DB\00009000\00000FFCE2718292C63D324A584109DB" size="192512" crc="77164e64" md5="db16a31cdb5ae3da635ab348bfe6c8b5" sha1="7d4d4b9fd4b1581ee174b738aec9f7371e559d00"/>
 	</game>
 	<game name="World of Keflings, A - It Came from Outer Space (World) (Addon)" id="05067">
 		<description>World of Keflings, A - It Came from Outer Space (World) (Addon)</description>

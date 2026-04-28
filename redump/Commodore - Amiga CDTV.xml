@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV</name>
-		<description>Commodore - Amiga CDTV - Discs (61) (2026-04-27 20-40-31)</description>
-		<version>2026-04-27 20-40-31</version>
-		<date>2026-04-27 20-40-31</date>
+		<description>Commodore - Amiga CDTV - Discs (61) (2026-04-28 18-18-41)</description>
+		<version>2026-04-28 18-18-41</version>
+		<date>2026-04-28 18-18-41</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -16,11 +16,11 @@
 		<rom name="Log!cal (Europe).cue" size="82" crc="fad771da" md5="ffde14e09e6466114b3b0f15f9a2e145" sha1="f7ec454633127a2547f4fd9017cfc29cc6c0b08c"/>
 		<rom name="Log!cal (Europe).bin" size="20815200" crc="9005c890" md5="cbe25fd3c5bcf9e6edcff7c9e940b864" sha1="200f812cb38236840c3189c71108c63d8bc41d24"/>
 	</game>
-	<game name="Curse of RA, The (Germany)">
+	<game name="Curse of Ra, The (Germany)">
 		<category>Games</category>
-		<description>Curse of RA, The (Germany)</description>
-		<rom name="Curse of RA, The (Germany).cue" size="92" crc="968378d1" md5="aee161bbc24073b3336e77fc0539cde5" sha1="0892756ed637fa6a5f4f43fa31b21d5b88dc0075"/>
-		<rom name="Curse of RA, The (Germany).bin" size="20815200" crc="2ad9b4db" md5="cc713d8f30095f05172c5c4c19ac43fa" sha1="17cf59f01ee8a58a165498674b76dad13d6b265c"/>
+		<description>Curse of Ra, The (Germany)</description>
+		<rom name="Curse of Ra, The (Germany).cue" size="92" crc="5fde03ca" md5="26bdb3655f98128d195438ba3a65a12a" sha1="487c681c332aa8383cda0b9934b135f54a21f7a0"/>
+		<rom name="Curse of Ra, The (Germany).bin" size="20815200" crc="2ad9b4db" md5="cc713d8f30095f05172c5c4c19ac43fa" sha1="17cf59f01ee8a58a165498674b76dad13d6b265c"/>
 	</game>
 	<game name="Raffles (Sweden)">
 		<category>Games</category>
@@ -552,10 +552,10 @@
 		<rom name="Fractal Universe (Europe).cue" size="91" crc="66204205" md5="24fe428c63b8e5142b8800831c67731b" sha1="3bfe225816b75885f6d63d6c209b26eb257fdd23"/>
 		<rom name="Fractal Universe (Europe).bin" size="128948400" crc="88facd9f" md5="798f75337c5e0d9a4039a79ac566cbe6" sha1="f848ce3fffc199f684c125c5c71997dfb7c6998c"/>
 	</game>
-	<game name="All Dogs Go to Heaven - Talking Electric Crayon (USA)">
-		<category>Educational</category>
-		<description>All Dogs Go to Heaven - Talking Electric Crayon (USA)</description>
-		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).cue" size="119" crc="669a7878" md5="d452d5f001ba2d720491b3b42ef27eb5" sha1="486f9e0fbf3e78909a68b45779a4a94d7b7bf138"/>
-		<rom name="All Dogs Go to Heaven - Talking Electric Crayon (USA).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc"/>
+	<game name="Electric Crayon - All Dogs Go to Heaven (USA)">
+		<category>Multimedia</category>
+		<description>Electric Crayon - All Dogs Go to Heaven (USA)</description>
+		<rom name="Electric Crayon - All Dogs Go to Heaven (USA).cue" size="111" crc="99ef4af9" md5="5c54c9fa5e25f530d42a0855db1d2862" sha1="a43d618b579441e5bed87407ac8ca87024d9af70"/>
+		<rom name="Electric Crayon - All Dogs Go to Heaven (USA).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc"/>
 	</game>
 </datafile>
