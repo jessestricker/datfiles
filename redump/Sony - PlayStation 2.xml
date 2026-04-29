@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11764) (2026-04-28 09-27-01)</description>
-		<version>2026-04-28 09-27-01</version>
-		<date>2026-04-28 09-27-01</date>
+		<description>Sony - PlayStation 2 - Discs (11766) (2026-04-29 09-35-06)</description>
+		<version>2026-04-29 09-35-06</version>
+		<date>2026-04-29 09-35-06</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -62033,5 +62033,15 @@
 		<category>Games</category>
 		<description>EyeToy - Play (Korea) (v2.01)</description>
 		<rom name="EyeToy - Play (Korea) (v2.01).iso" size="1235714048" crc="e3286678" md5="7c6ddfebc353eadfe57891e07a0ec023" sha1="096010a4ea2af3140b6f7cb07495f87a281d1855"/>
+	</game>
+	<game name="MiruMiru 2000-nen 10-gatsudo Juchuugou (Japan)">
+		<category>Demos</category>
+		<description>MiruMiru 2000-nen 10-gatsudo Juchuugou (Japan)</description>
+		<rom name="MiruMiru 2000-nen 10-gatsudo Juchuugou (Japan).iso" size="1822326784" crc="41d83528" md5="c1cfd87120fcf457159ffe83f66a3a1c" sha1="5e6a34e3b36882d2257a8818561da243efb80897"/>
+	</game>
+	<game name="Naruto - Narutimate Hero (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Naruto - Narutimate Hero (Japan) (Taikenban)</description>
+		<rom name="Naruto - Narutimate Hero (Japan) (Taikenban).iso" size="1675624448" crc="33eadf31" md5="48f7a368871bd4c523f3a06aabcbd024" sha1="593779d84cbd4dea313f0063204d0a3d56d0b01f"/>
 	</game>
 </datafile>
