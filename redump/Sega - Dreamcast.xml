@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1515) (2026-04-28 18-09-02)</description>
-		<version>2026-04-28 18-09-02</version>
-		<date>2026-04-28 18-09-02</date>
+		<description>Sega - Dreamcast - Discs (1515) (2026-04-30 09-58-00)</description>
+		<version>2026-04-30 09-58-00</version>
+		<date>2026-04-30 09-58-00</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -14220,13 +14220,13 @@
 		<rom name="Sega Bass Fishing 2 (USA) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Sega Bass Fishing 2 (USA) (Track 3).bin" size="1185760800" crc="2f276189" md5="e40ea6ec8220e894013bed490b05fef9" sha1="f87bb1abd950db95c740524492b7e17d8794343e"/>
 	</game>
-	<game name="Confidential Mission (USA)">
+	<game name="Confidential Mission (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Confidential Mission (USA)</description>
-		<rom name="Confidential Mission (USA).cue" size="372" crc="f626e7b5" md5="9edf771cd69a2602e118efe066780e0f" sha1="52af83adadaab524ca0b65981db215eeb39cea5c"/>
-		<rom name="Confidential Mission (USA) (Track 1).bin" size="705600" crc="30350152" md5="a10e3355bb10fff098774eaf639a0448" sha1="31dde1acc65779f81184ee3787f7be5b03dd497d"/>
-		<rom name="Confidential Mission (USA) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
-		<rom name="Confidential Mission (USA) (Track 3).bin" size="1185760800" crc="3832f191" md5="c9251f74a7c5460c12b7e5d998695bda" sha1="32e0340e59b302424660ec992531d24c5c0c2645"/>
+		<description>Confidential Mission (USA) (En,Ja,Fr,De,Es)</description>
+		<rom name="Confidential Mission (USA) (En,Ja,Fr,De,Es).cue" size="423" crc="82939d0d" md5="d57edc6400486913e4de4bc79b080fbc" sha1="946075abc75994aef5808aabb9ded4be72af0f8a"/>
+		<rom name="Confidential Mission (USA) (En,Ja,Fr,De,Es) (Track 1).bin" size="705600" crc="30350152" md5="a10e3355bb10fff098774eaf639a0448" sha1="31dde1acc65779f81184ee3787f7be5b03dd497d"/>
+		<rom name="Confidential Mission (USA) (En,Ja,Fr,De,Es) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
+		<rom name="Confidential Mission (USA) (En,Ja,Fr,De,Es) (Track 3).bin" size="1185760800" crc="3832f191" md5="c9251f74a7c5460c12b7e5d998695bda" sha1="32e0340e59b302424660ec992531d24c5c0c2645"/>
 	</game>
 	<game name="Illbleed (USA)">
 		<category>Games</category>
