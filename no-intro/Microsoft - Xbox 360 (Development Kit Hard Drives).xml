@@ -4,7 +4,7 @@
 		<id>280</id>
 		<name>Microsoft - Xbox 360 (Development Kit Hard Drives)</name>
 		<description>Microsoft - Xbox 360 (Development Kit Hard Drives)</description>
-		<version>20230411-073408</version>
+		<version>20260430-141345</version>
 		<author>FakeShemp, Hiccup, Seventy7, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -38,6 +38,10 @@
 		<description>Chucky - Wanna Play (Unknown)</description>
 		<rom name="Chucky - Wanna Play (Unknown).rar" size="140495523" crc="43e5d951" md5="2bb43b8b96f120666933aea23ca7b4bb" sha1="85b1aefe6e5f1d787020e0b7964e31fd063236b2" sha256="58c49915c22b8d409dfea7a0205584c839ecb8d23ff1f9d39590070bddeb84e2"/>
 	</game>
+	<game name="comped xenon 009 (Unknown)" id="00127">
+		<description>comped xenon 009 (Unknown)</description>
+		<rom name="comped xenon 009 (Unknown).imgc" size="7031329657" crc="20b9e20b" md5="1366988094db6c3babd9c3a428177f80" sha1="e4cda3408040b0ffcedf2092a60c1cbe8574dc1c" sha256="7c25db536e5636d30a6bda9ca8821eb792b99a316e77885c1f896c5fc3444b3c"/>
+	</game>
 	<game name="Compressed001 (Unknown)" id="00091">
 		<description>Compressed001 (Unknown)</description>
 		<rom name="Compressed001 (Unknown).img" size="20003880960" crc="f8b74321" md5="9b9736e836138fc1ad214ead0978724a" sha1="19a2414d1b16d94ec4a898bbc81e93c588530e24"/>
@@ -54,6 +58,10 @@
 		<description>dtwentygb_QXsYBa (Unknown)</description>
 		<rom name="dtwentygb_QXsYBa (Unknown).img" size="20060135424" crc="e3c39a21" md5="9fde91deb17774669a765981bcb4ae81" sha1="2431f4ca5d631f439561006707dff473aebfdf5f" sha256="10fe1671bc95b048e46ac7d8e30860ac56f27fa6a5cb90c504d8bc9c60a0be54"/>
 	</game>
+	<game name="Dump Beta1 Feb 2019 (Unknown)" id="00128">
+		<description>Dump Beta1 Feb 2019 (Unknown)</description>
+		<rom name="Dump Beta1 Feb 2019 (Unknown).img" size="347154191" crc="11b5f862" md5="4836bd10e8b12f70877ba6ee5ba73cca" sha1="f64b3263edc4d3304f88113ba4f0ee86238370c8" sha256="a50d39ff4cd9ea6415f8ecc9aff5111c524506cfe159a8852c78dbf07e397d86"/>
+	</game>
 	<game name="EA Canada 1009765 (Unknown)" id="00076">
 		<description>EA Canada 1009765 (Unknown)</description>
 		<rom name="EA Canada 1009765 (Unknown).img" size="120034123776" crc="556bf3d5" md5="38171fb080e7e5d6c4a05fd8f7efe783" sha1="df18b7c54f57ac93c597cd40cd6ce42b32c5375d"/>
@@ -61,6 +69,10 @@
 	<game name="EA Canada 1022548 (Unknown)" id="00077">
 		<description>EA Canada 1022548 (Unknown)</description>
 		<rom name="EA Canada 1022548 (Unknown).img" size="120034123776" crc="a5dc4720" md5="80d2474f1f6b1ce12ff18f5b181604c3" sha1="fa727fe7a7e6f13a0580f3f920ff387f05b2802c"/>
+	</game>
+	<game name="EA Pandemic injustice-brink-sims3 - dump white xenon from ebay (Unknown)" id="00126">
+		<description>EA Pandemic injustice-brink-sims3 - dump white xenon from ebay (Unknown)</description>
+		<rom name="EA Pandemic injustice-brink-sims3 - dump white xenon from ebay (Unknown).img" size="120034123776" crc="28d14c06" md5="0fafdd93b39e7506480d96138aa4ff55" sha1="621b70f3ec964272149bdad106e27616c5ecc657" sha256="f1a78e3a49e66fdde6a4692a8dea60eebb11efe780ea312381d4a7e9fe6fd5c6"/>
 	</game>
 	<game name="Eurocom 103 (Unknown) [b]" id="00007">
 		<description>Eurocom 103 (Unknown) [b]</description>

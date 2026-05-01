@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260415-130609</version>
+		<version>20260430-091928</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20652,10 +20652,11 @@
 		<description>Sleep (Japan) (En) (Proto)</description>
 		<rom name="Sleep (Japan) (En) (Proto).sfc" size="1048576" crc="d294bb47" md5="5718ea0c2d8a057ee3cda70b5883f9b7" sha1="1dc7706266b321bbcd58997944af9d00e6307172" sha256="4f3f9fecd2409c50a07b276c678c2bbf13425581ec781fc5c657c01471e67f2f"/>
 	</game>
-	<game name="Snake Blaster (World) (Proto) (Unl)" id="4319">
+	<game name="Snake Blasters (World) (Proto) (Unl)" id="4319">
 		<category>Games</category>
-		<description>Snake Blaster (World) (Proto) (Unl)</description>
-		<rom name="Snake Blaster (World) (Proto) (Unl).sfc" size="98304" crc="e57a7819" md5="5b48a492e50c1e21125b3aa44c9bf4e5" sha1="5a6856c6e34c39a63f99559c575ce91cda56c990" sha256="d36f503b2aa81be2274a2a3e595c8512b47de993bfed06e4fc9246dc18b71fd6"/>
+		<category>Preproduction</category>
+		<description>Snake Blasters (World) (Proto) (Unl)</description>
+		<rom name="Snake Blasters (World) (Proto) (Unl).sfc" size="98304" crc="e57a7819" md5="5b48a492e50c1e21125b3aa44c9bf4e5" sha1="5a6856c6e34c39a63f99559c575ce91cda56c990" sha256="d36f503b2aa81be2274a2a3e595c8512b47de993bfed06e4fc9246dc18b71fd6"/>
 	</game>
 	<game name="Snoopy Concert (Japan) (Beta)" id="4064" cloneofid="2392">
 		<category>Games</category>

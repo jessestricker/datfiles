@@ -4,8 +4,8 @@
 		<id>43</id>
 		<name>Commodore - Commodore 64 (PP)</name>
 		<description>Commodore - Commodore 64 (PP)</description>
-		<version>20230414-015239</version>
-		<author>C. V. Reynolds, EggmanPEI, xuom2</author>
+		<version>20260430-075802</version>
+		<author>C. V. Reynolds, EggmanPEI, nnssxx, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -3777,6 +3777,7 @@
 		<rom name="Mancopter (USA, Europe).nib" size="327936" crc="5ba6bf09" md5="b216d4030d2cee4e92482274384e61e5" sha1="f5ac8393ac6dc369fdae8b6a94933fb2d34288ae"/>
 	</game>
 	<game name="Mandragore (USA) (Fr)" id="0986">
+		<category>Games</category>
 		<description>Mandragore (USA) (Fr)</description>
 		<rom name="Mandragore (USA) (Fr).nib" size="336128" crc="b276182c" md5="03554910023095e4ef4a707acae7e429" sha1="ef6738b8495a532da95b9186de20894531d6a8b0"/>
 	</game>

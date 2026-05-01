@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260429-223453</version>
+		<version>20260430-220359</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12516,6 +12516,12 @@
 		<description>Super Street Fighter II X - Revival (Japan) (Virtual Console)</description>
 		<rom name="Super Street Fighter II X - Revival (Japan) (Virtual Console).gba" size="8388608" crc="660c5754" md5="441b09d96ad9daec72086c99639df063" sha1="84dfd5f0f2ac3adc5d3818e2a9bdb1696f3a25e4" sha256="a364cbeaa8d2709fea62332febe025d896e271c354f02d6d5897be6c9095e7b2" serial="AXRJ"/>
 	</game>
+	<game name="Super Tux (World) (Demo) (Unl)" id="3320">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Super Tux (World) (Demo) (Unl)</description>
+		<rom name="Super Tux (World) (Demo) (Unl).gba" size="276276" crc="5f87099f" md5="02437ac1f7a9795a286dd628b40bded1" sha1="70f2f645688b1518b9d0a25837e3024ef2c04782" sha256="78f8d90e23f84c2e08dd46d2648b46e839fb5ff007dbbc478d34644699a24980"/>
+	</game>
 	<game name="Superman - Countdown to Apokolips (USA)" id="0910" cloneofid="0961">
 		<description>Superman - Countdown to Apokolips (USA)</description>
 		<rom name="Superman - Countdown to Apokolips (USA).gba" size="8388608" crc="43017d47" md5="f74b2b6665c687f5ec1ef2ed21120ee2" sha1="d10c346f4a818443454e565752a9165822160936" serial="ASUE"/>
@@ -12533,10 +12539,6 @@
 		<category>Preproduction</category>
 		<description>Superman Returns - Fortress of Solitude (USA, Europe) (Beta)</description>
 		<rom name="Superman Returns - Fortress of Solitude (USA, Europe) (Beta).gba" size="16777216" crc="a0fb8e93" md5="3a7afb15fc88683bbe93b9486abdeb21" sha1="fd4585fc39ef54e1eb901e463d8e6d45ab40fccf" sha256="c3aa015c7033e09b0884318dcbcc22be8489d88b3cca7ce655544b20a6deadf4"/>
-	</game>
-	<game name="SuperTux (World) (Proto) (Unl)" id="3320">
-		<description>SuperTux (World) (Proto) (Unl)</description>
-		<rom name="SuperTux (World) (Proto) (Unl).gba" size="276276" crc="5f87099f" md5="02437ac1f7a9795a286dd628b40bded1" sha1="70f2f645688b1518b9d0a25837e3024ef2c04782" sha256="78f8d90e23f84c2e08dd46d2648b46e839fb5ff007dbbc478d34644699a24980"/>
 	</game>
 	<game name="Surf's Up (USA) (En,Fr,Es)" id="2717" cloneofid="2753">
 		<description>Surf's Up (USA) (En,Fr,Es)</description>
@@ -14233,7 +14235,7 @@
 		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan).gba" size="16777216" crc="b9be9b91" md5="38be3f2ff554732e3b84003abe79e2bf" sha1="c28f5c0103e3d0e5919c2023044199409375e0cd" serial="AY7J"/>
 	</game>
-	<game name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)" id="3307" cloneofid="0479">
+	<game name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)" id="3307" cloneofid="1345">
 		<category>Games</category>
 		<description>Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection)</description>
 		<rom name="Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan) (Early Days Collection).gba" size="16777216" crc="e96149f8" md5="e93b0f1cce9695701a28ab8e1fd3331b" sha1="9de3c09baa32d59c68c402692413eb60a1d0a9c3" sha256="6ada5b6227cd65bb78d2ae6cd7b602bad0f8ef92e023660b2669b0d24f50fb52"/>

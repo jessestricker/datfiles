@@ -4,7 +4,7 @@
 		<id>57</id>
 		<name>Microsoft - Xbox 360 (Digital)</name>
 		<description>Microsoft - Xbox 360 (Digital)</description>
-		<version>20260429-214025</version>
+		<version>20260430-133756</version>
 		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, quig, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -43397,7 +43397,7 @@
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v62) (Title Update)" id="05326">
 		<description>Minecraft - Xbox 360 Edition (World) (v62) (Title Update)</description>
-		<rom name="584111F7\000B0000\347947406924BD15A74865B8FCAA632BE85993C158" size="1118633984" crc="c9ff3559" md5="1d531dfe10b05346c5eed68733c32a43" sha1="b09734bbb1df0feabce690fb979a7dddc4a54117" sha256="5944747dabec1b812c45bb8cc1a1872ece4c217c249bd86f9096637d10ce2533"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1118633984" crc="c9ff3559" md5="1d531dfe10b05346c5eed68733c32a43" sha1="b09734bbb1df0feabce690fb979a7dddc4a54117" sha256="5944747dabec1b812c45bb8cc1a1872ece4c217c249bd86f9096637d10ce2533"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v52) (Title Update)" id="05332">
 		<description>Minecraft - Xbox 360 Edition (World) (v52) (Title Update)</description>
@@ -43453,15 +43453,15 @@
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v68) (Title Update)" id="05368">
 		<description>Minecraft - Xbox 360 Edition (World) (v68) (Title Update)</description>
-		<rom name="584111F7\000B0000\DB747FDBD6FA520D0320322B18E12CCAE254E30658" size="1118990336" crc="5fd4ff2f" md5="fc0b1e93d0c42936b33c850de965cae3" sha1="fdaaaebd1ab9406825e6005d7a61943e86e8f8ae"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1118990336" crc="5fd4ff2f" md5="fc0b1e93d0c42936b33c850de965cae3" sha1="fdaaaebd1ab9406825e6005d7a61943e86e8f8ae"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v58) (Title Update)" id="05369">
 		<description>Minecraft - Xbox 360 Edition (World) (v58) (Title Update)</description>
-		<rom name="584111F7\000B0000\DDBD656D3E93EA7B0DE0C8D1F9A13E96E49F16AE58" size="1056849920" crc="8d3fa8db" md5="125937862a0510e552e16f2549550214" sha1="75607c8ae08541b380bfec1b980ce0a378929e7e"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1056849920" crc="8d3fa8db" md5="125937862a0510e552e16f2549550214" sha1="75607c8ae08541b380bfec1b980ce0a378929e7e"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (v57) (Title Update)" id="05375">
 		<description>Minecraft - Xbox 360 Edition (World) (v57) (Title Update)</description>
-		<rom name="584111F7\000B0000\F73EF9689729FFDACA1C66C9232F36B7E0D35B3558" size="1054769152" crc="0c5a5879" md5="a190a2d5bf1ec391494cd645cb423f4c" sha1="0767ba1107ccc05ec5e9c66576ab5bf01c8df659"/>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1054769152" crc="0c5a5879" md5="a190a2d5bf1ec391494cd645cb423f4c" sha1="0767ba1107ccc05ec5e9c66576ab5bf01c8df659"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition (World) (XBLA)" id="03722">
 		<description>Minecraft - Xbox 360 Edition (World) (XBLA)</description>
@@ -43682,6 +43682,10 @@
 	<game name="Minecraft - Xbox 360 Edition (World) (v75) (Title Update)" id="17461">
 		<description>Minecraft - Xbox 360 Edition (World) (v75) (Title Update)</description>
 		<rom name="584111F7\000B0000\tu00000001_00000000" size="1352560640" crc="e6df3be4" md5="761f89c2d4a7c13b240a6d44b8f68034" sha1="2f3248350c606f6fd1f65b168f9faa8f19266538"/>
+	</game>
+	<game name="Minecraft - Xbox 360 Edition (World) (v74) (Title Update)" id="17462">
+		<description>Minecraft - Xbox 360 Edition (World) (v74) (Title Update)</description>
+		<rom name="584111F7\000B0000\tu00000001_00000000" size="1351892992" crc="e07fa0f1" md5="48bff70dcb119e3658356d269dca14c9" sha1="0f063aa3e2ded1e067bab33fb5e1ab03eebf0ec3"/>
 	</game>
 	<game name="Minecraft - Xbox 360 Edition - 1st Birthday Skin Pack (World) (Addon)" id="05149">
 		<description>Minecraft - Xbox 360 Edition - 1st Birthday Skin Pack (World) (Addon)</description>

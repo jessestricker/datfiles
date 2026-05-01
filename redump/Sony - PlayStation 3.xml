@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4489) (2026-04-30 07-09-46)</description>
-		<version>2026-04-30 07-09-46</version>
-		<date>2026-04-30 07-09-46</date>
+		<description>Sony - PlayStation 3 - Discs (4492) (2026-05-01 16-10-48)</description>
+		<version>2026-05-01 16-10-48</version>
+		<date>2026-05-01 16-10-48</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -590,10 +590,10 @@
 		<description>Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru)</description>
 		<rom name="Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).iso" size="12372606976" crc="2611e4a1" md5="eaf5965be1b71b9f24a38a375e408d7e" sha1="ad1ab94e269427517e8e5a47e62e413efa3d8500"/>
 	</game>
-	<game name="Street Fighter IV (USA, Korea) (En,Ja,Fr,De,Es,It,Ko)">
+	<game name="Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Street Fighter IV (USA, Korea) (En,Ja,Fr,De,Es,It,Ko)</description>
-		<rom name="Street Fighter IV (USA, Korea) (En,Ja,Fr,De,Es,It,Ko).iso" size="11387011072" crc="3fb42283" md5="2e8aa3895be39f9dde75c1a4ffa99f4f" sha1="e785eb5fb81490a9b11866f69a2a145b48d1b348"/>
+		<description>Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko).iso" size="11387011072" crc="3fb42283" md5="2e8aa3895be39f9dde75c1a4ffa99f4f" sha1="e785eb5fb81490a9b11866f69a2a145b48d1b348"/>
 	</game>
 	<game name="Marvel - Ultimate Alliance 2 (USA)">
 		<category>Games</category>
@@ -875,10 +875,10 @@
 		<description>Red Dead Redemption (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Red Dead Redemption (Europe) (En,Fr,De,Es,It).iso" size="8242921472" crc="9cc17ba5" md5="a22a1232de27edb331636903eea61011" sha1="05861d12d499cab0f44e42266ee8143f5958bcc4"/>
 	</game>
-	<game name="Biohazard - Revival Selection (Japan)">
+	<game name="Biohazard - Revival Selection (Japan, Asia)">
 		<category>Games</category>
-		<description>Biohazard - Revival Selection (Japan)</description>
-		<rom name="Biohazard - Revival Selection (Japan).iso" size="6323503104" crc="a27dcf2e" md5="44f63c2659f8d520d946a0c4a665abb9" sha1="15a349dab7f6c4f11add5e1388b9f9525cc0870e"/>
+		<description>Biohazard - Revival Selection (Japan, Asia)</description>
+		<rom name="Biohazard - Revival Selection (Japan, Asia).iso" size="6323503104" crc="a27dcf2e" md5="44f63c2659f8d520d946a0c4a665abb9" sha1="15a349dab7f6c4f11add5e1388b9f9525cc0870e"/>
 	</game>
 	<game name="PlayStation Move Heroes (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -22466,5 +22466,20 @@
 		<category>Games</category>
 		<description>Sly Cooper Collection (Korea)</description>
 		<rom name="Sly Cooper Collection (Korea).iso" size="21377581056" crc="220cec06" md5="e9a7c0f4db163ebe504e2618a338657c" sha1="bf4b6e54223d0ea09e3031d4e45e3d365ff321a5"/>
+	</game>
+	<game name="Assassin's Creed - Heritage Collection (Asia)">
+		<category>Games</category>
+		<description>Assassin's Creed - Heritage Collection (Asia)</description>
+		<rom name="Assassin's Creed - Heritage Collection (Asia).iso" size="49715937280" crc="d57b6494" md5="2975691f14a6a2fcc7dc2fb7d5678992" sha1="9a16ff1295d3fa270ff145e9461a3cf332b4cd53"/>
+	</game>
+	<game name="One Piece - Kaizoku Musou 3 (Asia)">
+		<category>Games</category>
+		<description>One Piece - Kaizoku Musou 3 (Asia)</description>
+		<rom name="One Piece - Kaizoku Musou 3 (Asia).iso" size="15279390720" crc="0ced38b5" md5="196250aeb5fe9192f3d856c2715c7150" sha1="50b2dce9a4ec8d27b0d836fe856a9fc9fda6ddb0"/>
+	</game>
+	<game name="EyePet - Move Edition (Asia)">
+		<category>Games</category>
+		<description>EyePet - Move Edition (Asia)</description>
+		<rom name="EyePet - Move Edition (Asia).iso" size="4598661120" crc="7161782f" md5="1fa58057aabf19c0bc87a35f0d175590" sha1="7d30b913d4098d5f4170134549d2582ca3f6ec90"/>
 	</game>
 </datafile>

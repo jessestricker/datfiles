@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260428-135230</version>
+		<version>20260430-231337</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3959,7 +3959,7 @@
 	</game>
 	<game name="Mario Golf (USA)" id="0681" cloneofid="0680">
 		<description>Mario Golf (USA)</description>
-		<rom name="Mario Golf (USA).gbc" size="2097152" crc="905ad0cb" md5="83f791645ce282093a9d59c121ffc49d" sha1="7f2062e51b4fc87378c1d5e6b9578c9277b94e0b" sha256="3b6938db5bb58350957cd0dd79daa8c15ab3560913e548588bd6382d2f556b9a" serial="AWXE"/>
+		<rom name="Mario Golf (USA).gbc" size="2097152" crc="905ad0cb" md5="83f791645ce282093a9d59c121ffc49d" sha1="7f2062e51b4fc87378c1d5e6b9578c9277b94e0b" sha256="3b6938db5bb58350957cd0dd79daa8c15ab3560913e548588bd6382d2f556b9a" status="verified" serial="AWXE"/>
 	</game>
 	<game name="Mario Golf GB (Japan)" id="0682" cloneofid="0680">
 		<description>Mario Golf GB (Japan)</description>
