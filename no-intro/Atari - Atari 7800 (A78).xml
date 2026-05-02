@@ -4,12 +4,24 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (A78)</name>
 		<description>Atari - Atari 7800 (A78)</description>
-		<version>20260305-142854</version>
+		<version>20260501-050713</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-09) [b]" id="0263" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Desert Falcon (USA) (Beta) (1987-03-09) [b]</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-09) [b].a78" size="49280" crc="3718ffca" md5="208f1380b6518a8bb725c9454ca8be29" sha1="e3486d9422f9cc6d61fcfade553f2e73b0eadaa4" sha256="155d16619a8d80891c41ec1fceff1b487ad645aa7f844326527ba6e97b5eb8c6" status="baddump"/>
+	</game>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-25)" id="0264" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Desert Falcon (USA) (Beta) (1987-03-25)</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-25).a78" size="49280" crc="c5a9c969" md5="27dbbf61c82f90570b26441b32d1c91d" sha1="7c677b7812880e6871882e3e32966fb1ae23db5f" sha256="b88ee40819ce1ec99a7d38424ba391fde59429ff427bdf606eec6f8463fcafc0"/>
+	</game>
 	<game name="Hat Trick (USA) (Beta) (1987-05-01)" id="0261" cloneofid="0046">
 		<category>Games</category>
 		<category>Preproduction</category>

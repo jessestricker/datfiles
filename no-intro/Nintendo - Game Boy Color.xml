@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260430-231337</version>
+		<version>20260501-112837</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2394,7 +2394,7 @@
 	</game>
 	<game name="Gex - Enter the Gecko (USA, Europe) (GB Compatible)" id="0399">
 		<description>Gex - Enter the Gecko (USA, Europe) (GB Compatible)</description>
-		<rom name="Gex - Enter the Gecko (USA, Europe) (GB Compatible).gbc" size="1048576" crc="dccc7514" md5="f0462eba75d879c40668e20d1dbdb612" sha1="a05a530b3272634c8d3fedb6fd6eaf8b00b5cf9c"/>
+		<rom name="Gex - Enter the Gecko (USA, Europe) (GB Compatible).gbc" size="1048576" crc="dccc7514" md5="f0462eba75d879c40668e20d1dbdb612" sha1="a05a530b3272634c8d3fedb6fd6eaf8b00b5cf9c" sha256="ca9d168e068492644cf054a2e35f0bccc31af5899e54c05a2cbc740247014a51" status="verified"/>
 	</game>
 	<game name="Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)" id="0400">
 		<description>Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)</description>
@@ -7297,7 +7297,7 @@
 	</game>
 	<game name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)" id="1246">
 		<description>Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="47aecb95" md5="ef032b6f603b3a290a91d40cb9c4b3e6" sha1="0c8506de2349ecf5241692da2aff239a0c40d862"/>
+		<rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="47aecb95" md5="ef032b6f603b3a290a91d40cb9c4b3e6" sha1="0c8506de2349ecf5241692da2aff239a0c40d862" sha256="d1d87a478143bc157242d78f27c9563c5a9c0932608e020b2a26f0fe780842c2" status="verified"/>
 	</game>
 	<game name="Toy Story Racer (Europe) (En,Fr,De)" id="1247" cloneofid="1248">
 		<description>Toy Story Racer (Europe) (En,Fr,De)</description>

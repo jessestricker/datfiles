@@ -4,7 +4,7 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (BIN)</name>
 		<description>Atari - Atari 7800 (BIN)</description>
-		<version>20260305-142854</version>
+		<version>20260501-050713</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -133,6 +133,18 @@
 	<game name="Desert Falcon (USA)" id="0027" cloneofid="0026">
 		<description>Desert Falcon (USA)</description>
 		<rom name="Desert Falcon (USA).bin" size="49152" crc="a1dc0899" md5="95ac811c7d27af0032ba090f28c107bd" sha1="725f893f9a98926c627ef37eacc3f241620c3ffc" sha256="68510ce22fdb13ddad0fc9dccc0935d6dfc1b20f8611d1d6e2632d820bfb81fa" status="verified"/>
+	</game>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-09) [b]" id="0263" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Desert Falcon (USA) (Beta) (1987-03-09) [b]</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-09) [b].bin" size="49152" crc="70451fc5" md5="fc81d3a35cecae454629d3fe93b88133" sha1="502b2aad951361d2762f67129c57b623983d8b65" sha256="b4338dd3c6735406d0038680420b51a635a434cc05759d2d62fc70f9c3f3fe07" status="baddump"/>
+	</game>
+	<game name="Desert Falcon (USA) (Beta) (1987-03-25)" id="0264" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Desert Falcon (USA) (Beta) (1987-03-25)</description>
+		<rom name="Desert Falcon (USA) (Beta) (1987-03-25).bin" size="49152" crc="63887912" md5="f4ed29662536267db967182b6ba8d40e" sha1="1bc856c38e299980c66bfa23c283c06ba17e29a1" sha256="0358ba88207382ac5beefe6f3a5ca36d6dcbaaa4b3574bdcd27a79dbe65ecbd6"/>
 	</game>
 	<game name="Diagnostic Test Cartridge (USA)" id="0119">
 		<description>Diagnostic Test Cartridge (USA)</description>

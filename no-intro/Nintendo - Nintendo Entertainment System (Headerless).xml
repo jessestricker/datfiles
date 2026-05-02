@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260430-022850</version>
+		<version>20260501-132243</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21173,7 +21173,7 @@
 		<description>Tiaowu Tianshi (China) (Pirate)</description>
 		<rom name="Tiaowu Tianshi (China) (Pirate).unh" size="262144" crc="dc019f2c" md5="e1e264c792592a5b699c2bca5435e2f7" sha1="4e3ea6662374e15c830453723aa3f301e1087f3e" sha256="c37218b9bb8daa991593038da27a5a112396e747e073570a60032c0d565fc35a"/>
 	</game>
-	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484">
+	<game name="Tiger-Heli (USA) (Toaplan Arcade Garage)" id="8484" cloneofid="2720">
 		<category>Games</category>
 		<description>Tiger-Heli (USA) (Toaplan Arcade Garage)</description>
 		<rom name="Tiger-Heli (USA) (Toaplan Arcade Garage).unh" size="65536" crc="c83c57d5" md5="b4b20522172211f104d47bc94447297e" sha1="2cfe3af739596321e9750ff33716e28e5d88df64" sha256="52a77737150d8dcc217ddc7f0962309dcb6fa3036b3ae641aef72e7200b621cc"/>

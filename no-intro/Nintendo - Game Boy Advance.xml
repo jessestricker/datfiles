@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260430-220359</version>
+		<version>20260501-204610</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7516,14 +7516,6 @@
 		<description>Mario Kart - Super Circuit (USA) (Proto) (Netcard)</description>
 		<rom name="Mario Kart - Super Circuit (USA) (Proto) (Netcard).gba" size="16777216" crc="31ac3bd3" md5="d838c57b19062d67a408244b33e1cfa9" sha1="d02282021df90037f3d9858202c1b59011b4101e" sha256="40e3155bee348a49e605ba404a1cd8ebd4ffe9308b645208049986bad9ad6d36" serial="AMKE"/>
 	</game>
-	<game name="Mario Kart - Super Circuit (USA)" id="0085" cloneofid="0104">
-		<description>Mario Kart - Super Circuit (USA)</description>
-		<rom name="Mario Kart - Super Circuit (USA).gba" size="4194304" crc="ed316e37" md5="784a036ff1aae709e90167186639b75e" sha1="9d327c030c3e2d9007990518594f70c3340ac56f" sha256="aadc8b9f3c947ff6f610b6c8d7fddaaa9bea98b4bd43576df84f26c457ae1f90" status="verified" serial="AMKE"/>
-	</game>
-	<game name="Mario Kart - Super Circuit (Europe)" id="0104">
-		<description>Mario Kart - Super Circuit (Europe)</description>
-		<rom name="Mario Kart - Super Circuit (Europe).gba" size="4194304" crc="20025842" md5="f99fb545ac65126e9956a7718c30d6a3" sha1="2cdfc94cbe7a7f4efe00d98dd33ebb5f50cf91f0" sha256="8f942be288124bb909559356c462460132b0ccbc6397db402aeabea60c4597bb" status="verified" serial="AMKP"/>
-	</game>
 	<game name="Mario Kart - Super Circuit (USA) (Virtual Console)" id="x143" cloneofid="0104">
 		<description>Mario Kart - Super Circuit (USA) (Virtual Console)</description>
 		<rom name="Mario Kart - Super Circuit (USA) (Virtual Console).gba" size="4194304" crc="c0e1cf38" md5="534033fe98697b1cfb9336d718bc7421" sha1="ba53c107fe4f39018cff94c0d532314facc9aef0" serial="AMKE"/>
@@ -7532,17 +7524,25 @@
 		<description>Mario Kart - Super Circuit (Europe) (Virtual Console)</description>
 		<rom name="Mario Kart - Super Circuit (Europe) (Virtual Console).gba" size="4194304" crc="0dd2f94d" md5="dad3fd70cc43107e381285dcb5313d1b" sha1="e1dc3a1aa9a6a0fdf1726bb2728279a728101013" serial="AMKP"/>
 	</game>
-	<game name="Mario Kart Advance (Japan) (Virtual Console)" id="x164" cloneofid="0104">
-		<description>Mario Kart Advance (Japan) (Virtual Console)</description>
-		<rom name="Mario Kart Advance (Japan) (Virtual Console).gba" size="4194304" crc="3bd8a4f0" md5="ffb9c2fe3dc23fd7796f71f7d54fe447" sha1="7061696811f424f875af5af837dc49eff802a63a" serial="AMKJ"/>
+	<game name="Mario Kart - Super Circuit (USA)" id="0085" cloneofid="0104">
+		<description>Mario Kart - Super Circuit (USA)</description>
+		<rom name="Mario Kart - Super Circuit (USA).gba" size="4194304" crc="ed316e37" md5="784a036ff1aae709e90167186639b75e" sha1="9d327c030c3e2d9007990518594f70c3340ac56f" sha256="aadc8b9f3c947ff6f610b6c8d7fddaaa9bea98b4bd43576df84f26c457ae1f90" status="verified" serial="AMKE"/>
+	</game>
+	<game name="Mario Kart - Super Circuit (Europe)" id="0104">
+		<description>Mario Kart - Super Circuit (Europe)</description>
+		<rom name="Mario Kart - Super Circuit (Europe).gba" size="4194304" crc="20025842" md5="f99fb545ac65126e9956a7718c30d6a3" sha1="2cdfc94cbe7a7f4efe00d98dd33ebb5f50cf91f0" sha256="8f942be288124bb909559356c462460132b0ccbc6397db402aeabea60c4597bb" status="verified" serial="AMKP"/>
+	</game>
+	<game name="Mario Kart Advance (Japan)" id="0070" cloneofid="0104">
+		<description>Mario Kart Advance (Japan)</description>
+		<rom name="Mario Kart Advance (Japan).gba" size="4194304" crc="30e99fcd" md5="f35d2f567edd9c04e7f9647edb206995" sha1="88ffde363b05264a99a4d5ada0c80a00196a94d7" status="verified" serial="AMKJ"/>
 	</game>
 	<game name="Mario Kart Advance (Japan) (3DS Virtual Console)" id="x255" cloneofid="0104">
 		<description>Mario Kart Advance (Japan) (3DS Virtual Console)</description>
 		<rom name="Mario Kart Advance (Japan) (3DS Virtual Console).gba" size="4194304" crc="85493f2c" md5="b354078c54b943bdc6d2227e4686ea0f" sha1="d740f9e662c6cb372eb141bd50160b6ab19fd1db" sha256="8c06dc43c6f918a018b8d6098a17863158e618fbe38edd2e8ee7a4e6af09d127"/>
 	</game>
-	<game name="Mario Kart Advance (Japan)" id="0070" cloneofid="0104">
-		<description>Mario Kart Advance (Japan)</description>
-		<rom name="Mario Kart Advance (Japan).gba" size="4194304" crc="30e99fcd" md5="f35d2f567edd9c04e7f9647edb206995" sha1="88ffde363b05264a99a4d5ada0c80a00196a94d7" status="verified" serial="AMKJ"/>
+	<game name="Mario Kart Advance (Japan) (Virtual Console)" id="x164" cloneofid="0104">
+		<description>Mario Kart Advance (Japan) (Virtual Console)</description>
+		<rom name="Mario Kart Advance (Japan) (Virtual Console).gba" size="4194304" crc="3bd8a4f0" md5="ffb9c2fe3dc23fd7796f71f7d54fe447" sha1="7061696811f424f875af5af837dc49eff802a63a" serial="AMKJ"/>
 	</game>
 	<game name="Mario Kart XXL (Europe) (Demo)" id="2978">
 		<category>Demos</category>
@@ -7553,14 +7553,6 @@
 	<game name="Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)" id="x340" cloneofid="1989">
 		<description>Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)</description>
 		<rom name="Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="46c66f40" md5="af4d91a53dd51e98e6c5249502897904" sha1="34d13fd8cca31a77eeebf9c864a4388969f975c4" sha256="3ad9bd530ff8d549c6523c818ffcf5aaf6addbb4b19d24036e4a91ea4f00c0c1" serial="B8MP"/>
-	</game>
-	<game name="Mario Party Advance (USA) (Virtual Console)" id="x144" cloneofid="1989">
-		<description>Mario Party Advance (USA) (Virtual Console)</description>
-		<rom name="Mario Party Advance (USA) (Virtual Console).gba" size="8388608" crc="1d910a62" md5="179ebcf3fa5934d89bdad8f970a391c9" sha1="f23b5792d5ecfce966e83f7fcc7c330542da888d" serial="B8ME"/>
-	</game>
-	<game name="Mario Party Advance (Japan) (Virtual Console)" id="x165" cloneofid="1989">
-		<description>Mario Party Advance (Japan) (Virtual Console)</description>
-		<rom name="Mario Party Advance (Japan) (Virtual Console).gba" size="8388608" crc="9cd07025" md5="5e7f2849199ea37e6629b35948757d02" sha1="d09c3db0cf4a4a0fa5cad3ae00ad3b4ec8603207" serial="B8MJ"/>
 	</game>
 	<game name="Mario Party Advance (Japan)" id="1842" cloneofid="1989">
 		<description>Mario Party Advance (Japan)</description>
@@ -7574,9 +7566,13 @@
 		<description>Mario Party Advance (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mario Party Advance (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="c8c889e2" md5="0acbc949fc02ec0abd9e1825c03b8973" sha1="5d67695c08afce4098264bd986a55739cb6636cb" serial="B8MP"/>
 	</game>
-	<game name="Mario Pinball Land (USA, Australia)" id="1671" cloneofid="1776">
-		<description>Mario Pinball Land (USA, Australia)</description>
-		<rom name="Mario Pinball Land (USA, Australia).gba" size="8388608" crc="70a6d2c1" md5="08c41541eb69a1d652937ed3f88824be" sha1="3fdcd3bb30d61b4dd6829dbdc1a0ac116618b87d" status="verified" serial="BMVE"/>
+	<game name="Mario Party Advance (USA) (Virtual Console)" id="x144" cloneofid="1989">
+		<description>Mario Party Advance (USA) (Virtual Console)</description>
+		<rom name="Mario Party Advance (USA) (Virtual Console).gba" size="8388608" crc="1d910a62" md5="179ebcf3fa5934d89bdad8f970a391c9" sha1="f23b5792d5ecfce966e83f7fcc7c330542da888d" serial="B8ME"/>
+	</game>
+	<game name="Mario Party Advance (Japan) (Virtual Console)" id="x165" cloneofid="1989">
+		<description>Mario Party Advance (Japan) (Virtual Console)</description>
+		<rom name="Mario Party Advance (Japan) (Virtual Console).gba" size="8388608" crc="9cd07025" md5="5e7f2849199ea37e6629b35948757d02" sha1="d09c3db0cf4a4a0fa5cad3ae00ad3b4ec8603207" serial="B8MJ"/>
 	</game>
 	<game name="Mario Pinball Land (USA) (Kiosk, GameCube)" id="2898" cloneofid="1776">
 		<description>Mario Pinball Land (USA) (Kiosk, GameCube)</description>
@@ -7587,13 +7583,17 @@
 		<description>Mario Pinball Land (USA) (Virtual Console)</description>
 		<rom name="Mario Pinball Land (USA) (Virtual Console).gba" size="8388608" crc="a0d418a4" md5="0966c86597b2644a5e7c66ec59e9edb8" sha1="60a3d35e0202a537ccf4284dd57db250d29fd379" sha256="a94facb71b091966c97d38c90d11e2e2381bb680bc58ccd6da53c37327aca7f3" serial="BMVE"/>
 	</game>
-	<game name="Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)" id="x342" cloneofid="2212">
-		<description>Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)</description>
-		<rom name="Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="851a44cb" md5="c414d73f6e76645aa202b5f5e516e494" sha1="24087080476ce04853455fd82f09c4d8c65604d1" sha256="879746aed414b34b5b253c098181f63e18b533827b6f4f15ef830962687ddf84" serial="BTMP"/>
+	<game name="Mario Pinball Land (USA, Australia)" id="1671" cloneofid="1776">
+		<description>Mario Pinball Land (USA, Australia)</description>
+		<rom name="Mario Pinball Land (USA, Australia).gba" size="8388608" crc="70a6d2c1" md5="08c41541eb69a1d652937ed3f88824be" sha1="3fdcd3bb30d61b4dd6829dbdc1a0ac116618b87d" status="verified" serial="BMVE"/>
 	</game>
 	<game name="Mario Power Tennis (Europe) (En,Fr,De,Es,It)" id="2212">
 		<description>Mario Power Tennis (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mario Power Tennis (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="c8db4f60" md5="f6c0a645317d6ed90abc4e04f7b33b46" sha1="d61990974040d405b5bf8436ac8e1e0beb0f7964" status="verified" serial="BTMP"/>
+	</game>
+	<game name="Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)" id="x342" cloneofid="2212">
+		<description>Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)</description>
+		<rom name="Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="16777216" crc="851a44cb" md5="c414d73f6e76645aa202b5f5e516e494" sha1="24087080476ce04853455fd82f09c4d8c65604d1" sha256="879746aed414b34b5b253c098181f63e18b533827b6f4f15ef830962687ddf84" serial="BTMP"/>
 	</game>
 	<game name="Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)" id="2244" cloneofid="2212">
 		<description>Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)</description>
@@ -7615,10 +7615,6 @@
 		<description>Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube)</description>
 		<rom name="Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube).gba" size="16777216" crc="b3642431" md5="b5728a9493040c1d3697096c13ba1d13" sha1="e7389b36573f7e32d53ae9acfdba744389c2f6c2" sha256="d9c5181e54685cee8d5cbdf85e8c678d991eee9a71cdf31565feb11390ad4aa4" status="verified" serial="BM5J"/>
 	</game>
-	<game name="Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)" id="x114" cloneofid="1753">
-		<description>Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)</description>
-		<rom name="Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube).gba" size="16777216" crc="25505164" md5="cc77b8efa679cb57c129831fa6770ad7" sha1="68eebe6dbcf8973ed7426a793185db202a01288f" status="verified" serial="MRDK01"/>
-	</game>
 	<game name="Mario vs. Donkey Kong (USA, Australia)" id="1469" cloneofid="1753">
 		<description>Mario vs. Donkey Kong (USA, Australia)</description>
 		<rom name="Mario vs. Donkey Kong (USA, Australia).gba" size="16777216" crc="25c394d1" md5="ceda12928a686878795def3b413ccfc2" sha1="da677e595c41a0c72c4e3feb3a7e716f17cacd77" status="verified" serial="BM5E"/>
@@ -7630,6 +7626,10 @@
 	<game name="Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)" id="1753">
 		<description>Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="ca030d61" md5="a3dca1a3167cb855aacdca650c4ce39f" sha1="c645798ea9cf94e2fd8826ea96a5971a7aeb52b7" status="verified" serial="BM5P"/>
+	</game>
+	<game name="Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)" id="x114" cloneofid="1753">
+		<description>Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)</description>
+		<rom name="Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube).gba" size="16777216" crc="25505164" md5="cc77b8efa679cb57c129831fa6770ad7" sha1="68eebe6dbcf8973ed7426a793185db202a01288f" status="verified" serial="MRDK01"/>
 	</game>
 	<game name="Marvel - Ultimate Alliance (USA)" id="2523" cloneofid="2615">
 		<description>Marvel - Ultimate Alliance (USA)</description>
@@ -7726,6 +7726,14 @@
 		<description>Medabots - Metabee (Europe) (Virtual Console)</description>
 		<rom name="Medabots - Metabee (Europe) (Virtual Console).gba" size="8388608" crc="3524f206" md5="5036b4887c2a72fa5632dd4d19621cd3" sha1="5a4d269998829d7e41fdb014ffa11584ea1f8aa6" sha256="e943456f5e7750bdbbb6fbbef2c35f19a9cbeb54ef6c29816ddc0ebda74b2012" serial="A8BP"/>
 	</game>
+	<game name="Medabots - Metabee (Europe)" id="0829">
+		<description>Medabots - Metabee (Europe)</description>
+		<rom name="Medabots - Metabee (Europe).gba" size="8388608" crc="50927f3e" md5="94ce0a59f8a6a0ec40b51ef13cfe0aa0" sha1="cd3d674e88f40a0707b150c4293588a659001d29" sha256="4c64595190db3b4f50062d90a446fcab590f4e31c01830384558deca0691a26d" status="verified" serial="A8BP"/>
+	</game>
+	<game name="Medabots - Metabee (USA)" id="1868" cloneofid="0829">
+		<description>Medabots - Metabee (USA)</description>
+		<rom name="Medabots - Metabee (USA).gba" size="8388608" crc="59f208fc" md5="b186a9ba291a156c45640cb3c6b8a710" sha1="ca185b65ab50ef89a10c8db00d9cd76626b81610" serial="A8BE"/>
+	</game>
 	<game name="Medabots - Metabee (Spain)" id="2794" cloneofid="0829">
 		<description>Medabots - Metabee (Spain)</description>
 		<rom name="Medabots - Metabee (Spain).gba" size="8388608" crc="7e907ec8" md5="89a8ea77fc2169dd5aa0209e4c485b7c" sha1="fee2d1db994e1a13fc2bc9943198136192412185" serial="A8BS"/>
@@ -7734,21 +7742,13 @@
 		<description>Medabots - Metabee (USA) (Virtual Console)</description>
 		<rom name="Medabots - Metabee (USA) (Virtual Console).gba" size="8388608" crc="dff9a0b1" md5="b107d6671edc1721663b451836df0753" sha1="51bba24c752123598f0b194d9d07a640b3318e12" serial="A8BE"/>
 	</game>
-	<game name="Medabots - Metabee (USA)" id="1868" cloneofid="0829">
-		<description>Medabots - Metabee (USA)</description>
-		<rom name="Medabots - Metabee (USA).gba" size="8388608" crc="59f208fc" md5="b186a9ba291a156c45640cb3c6b8a710" sha1="ca185b65ab50ef89a10c8db00d9cd76626b81610" serial="A8BE"/>
-	</game>
-	<game name="Medabots - Metabee (Europe)" id="0829">
-		<description>Medabots - Metabee (Europe)</description>
-		<rom name="Medabots - Metabee (Europe).gba" size="8388608" crc="50927f3e" md5="94ce0a59f8a6a0ec40b51ef13cfe0aa0" sha1="cd3d674e88f40a0707b150c4293588a659001d29" sha256="4c64595190db3b4f50062d90a446fcab590f4e31c01830384558deca0691a26d" status="verified" serial="A8BP"/>
+	<game name="Medabots - Rokusho (Spain)" id="2795" cloneofid="0923">
+		<description>Medabots - Rokusho (Spain)</description>
+		<rom name="Medabots - Rokusho (Spain).gba" size="8388608" crc="046d86c4" md5="f04e0dbf730276bb548498efb2cc6dc5" sha1="90fe7f2927c592aabc9b33d0df00d92046c5cb92" serial="A9BS"/>
 	</game>
 	<game name="Medabots - Rokusho (Europe)" id="0923">
 		<description>Medabots - Rokusho (Europe)</description>
 		<rom name="Medabots - Rokusho (Europe).gba" size="8388608" crc="a519feb5" md5="bb040b4d930c1fc4be1067b9756a7c44" sha1="fc44b80f3e71effc33d8e05a74888cb885c32eb0" status="verified" serial="A9BP"/>
-	</game>
-	<game name="Medabots - Rokusho (Spain)" id="2795" cloneofid="0923">
-		<description>Medabots - Rokusho (Spain)</description>
-		<rom name="Medabots - Rokusho (Spain).gba" size="8388608" crc="046d86c4" md5="f04e0dbf730276bb548498efb2cc6dc5" sha1="90fe7f2927c592aabc9b33d0df00d92046c5cb92" serial="A9BS"/>
 	</game>
 	<game name="Medabots - Rokusho (USA) (Virtual Console)" id="x348" cloneofid="0923">
 		<description>Medabots - Rokusho (USA) (Virtual Console)</description>

@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260430-031925</version>
+		<version>20260501-023727</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -341,7 +341,7 @@
 	</game>
 	<game name="2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)" id="6492">
 		<description>2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)</description>
-		<rom name="2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced).nds" size="67108864" crc="504d4b9b" md5="63f4777f8bacbbd05878666a4c9178a5" sha1="b21bb69385682284ec93c6f68ca03503790b88a9" serial="VEMP"/>
+		<rom name="2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced).nds" size="67108864" crc="504d4b9b" md5="63f4777f8bacbbd05878666a4c9178a5" sha1="b21bb69385682284ec93c6f68ca03503790b88a9" sha256="b4e9b84911051645bb3dafe74f4624bad46c0756c35a4bc7a000eda01e07a58e" status="verified" serial="VEMP"/>
 	</game>
 	<game name="2 in 1 - My Little Baby + My Boyfriend (Europe) (En,Fr,De,Es,It,Sv,No,Da)" id="6357">
 		<description>2 in 1 - My Little Baby + My Boyfriend (Europe) (En,Fr,De,Es,It,Sv,No,Da)</description>
@@ -1146,7 +1146,7 @@
 	</game>
 	<game name="AMF Bowling Pinbusters! (Europe) (En,Fr,De,Es,It)" id="2626">
 		<description>AMF Bowling Pinbusters! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="AMF Bowling Pinbusters! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="498f5882" md5="18ebe3f235d80e9afbae034236f21f46" sha1="200b0c2b00230dc6dd5e05ea42fcf96bfc53a5e7" serial="YAFP"/>
+		<rom name="AMF Bowling Pinbusters! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="498f5882" md5="18ebe3f235d80e9afbae034236f21f46" sha1="200b0c2b00230dc6dd5e05ea42fcf96bfc53a5e7" sha256="07f6484a02e0b806aeea00c1e54bcbe7809dc7fc21c13464a916315e42584f24" serial="YAFP"/>
 	</game>
 	<game name="Amici (Italy)" id="4098">
 		<description>Amici (Italy)</description>
@@ -10122,7 +10122,7 @@
 	</game>
 	<game name="Harvest Moon - Frantic Farming (Europe) (En,De)" id="5799" cloneofid="5405">
 		<description>Harvest Moon - Frantic Farming (Europe) (En,De)</description>
-		<rom name="Harvest Moon - Frantic Farming (Europe) (En,De).nds" size="16777216" crc="a1114bee" md5="4af506a120c5a6c71034fa913f914c91" sha1="2fec6be62674cab4db2abbe33dc2b70f58073b1b" serial="C5QX"/>
+		<rom name="Harvest Moon - Frantic Farming (Europe) (En,De).nds" size="16777216" crc="a1114bee" md5="4af506a120c5a6c71034fa913f914c91" sha1="2fec6be62674cab4db2abbe33dc2b70f58073b1b" sha256="ae9642c28345e4d7722630f3af04592b93efd0d9663d705b9470b8ea77a3633c" serial="C5QX"/>
 	</game>
 	<game name="Harvest Moon - The Tale of Two Towns (Europe) (En,Fr,De)" id="6070">
 		<description>Harvest Moon - The Tale of Two Towns (Europe) (En,Fr,De)</description>
@@ -11549,7 +11549,7 @@
 	</game>
 	<game name="Inazuma Eleven (Germany)" id="5516" cloneofid="5535">
 		<description>Inazuma Eleven (Germany)</description>
-		<rom name="Inazuma Eleven (Germany).nds" size="268435456" crc="161c07b6" md5="3f0c5c47f9d8754981f8e8ed1774c889" sha1="e4ed030dbeba7e4d50dac49964f31f779aafdbfb" serial="YEED"/>
+		<rom name="Inazuma Eleven (Germany).nds" size="268435456" crc="161c07b6" md5="3f0c5c47f9d8754981f8e8ed1774c889" sha1="e4ed030dbeba7e4d50dac49964f31f779aafdbfb" sha256="c13d425ccce48571efedc066ed38ec5847d28173c57aac24fe867421713d84ee" serial="YEED"/>
 	</game>
 	<game name="Inazuma Eleven (France)" id="5522" cloneofid="5535">
 		<description>Inazuma Eleven (France)</description>
@@ -14270,7 +14270,7 @@
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="6745">
 		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)</description>
-		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).nds" size="134217728" crc="3db719c2" md5="f5f6e8aa7306ae735a40d143307e0031" sha1="bd9321b84c06a9c709e2b559e4cfa86debccab9b" serial="B6FP"/>
+		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).nds" size="134217728" crc="3db719c2" md5="f5f6e8aa7306ae735a40d143307e0031" sha1="bd9321b84c06a9c709e2b559e4cfa86debccab9b" sha256="e12d94749598cf672331b4ca0d1deeceaaf07ff916d31cb7f6cdf893e26babf1" serial="B6FP"/>
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr)" id="z377" cloneofid="6745">
 		<description>LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr)</description>
@@ -16290,7 +16290,7 @@
 	</game>
 	<game name="Master All Classics (Europe) (En,Fr,De,Es,It)" id="4375">
 		<description>Master All Classics (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Master All Classics (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="0a044d0b" md5="199bea8705dfd993f00028187ca6e530" sha1="a7f74dbee71b27fc42a3c7164878acb5a320c115" sha256="c67e8e6ec2cb53707d56b2e70fb4c14e2298f00e749b0148ffb2c8b2c6e4cb63" serial="BOZP"/>
+		<rom name="Master All Classics (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="0a044d0b" md5="199bea8705dfd993f00028187ca6e530" sha1="a7f74dbee71b27fc42a3c7164878acb5a320c115" sha256="c67e8e6ec2cb53707d56b2e70fb4c14e2298f00e749b0148ffb2c8b2c6e4cb63" status="verified" serial="BOZP"/>
 	</game>
 	<game name="Master Jin Jin's IQ Challenge (USA)" id="1728" cloneofid="1083">
 		<description>Master Jin Jin's IQ Challenge (USA)</description>
@@ -16752,7 +16752,7 @@
 	</game>
 	<game name="Metal Slug 7 (Europe) (En,Fr,De,Es,It)" id="3249">
 		<description>Metal Slug 7 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Metal Slug 7 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="5ea4dbb8" md5="fe17801b5d4e58d7abc22bfdfd419ea1" sha1="18f611bae3cebc7562599ee676e5cd455f04d087" status="verified" serial="YM7P"/>
+		<rom name="Metal Slug 7 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="5ea4dbb8" md5="fe17801b5d4e58d7abc22bfdfd419ea1" sha1="18f611bae3cebc7562599ee676e5cd455f04d087" sha256="bfec87e25106e85f201ffdd66564ec1cada8ff9886051a6eb1eef993bac4f5ac" status="verified" serial="YM7P"/>
 	</game>
 	<game name="Metal Slug 7 (Korea)" id="3304" cloneofid="3249">
 		<description>Metal Slug 7 (Korea)</description>
@@ -19915,7 +19915,7 @@
 	</game>
 	<game name="Orient Quest (Germany)" id="6334">
 		<description>Orient Quest (Germany)</description>
-		<rom name="Orient Quest (Germany).nds" size="8388608" crc="f59a141e" md5="5e2b802930a90288a2cbe2f028629e5b" sha1="71f8856429a605ba398ab6788e4f46692944b913" serial="B6UD"/>
+		<rom name="Orient Quest (Germany).nds" size="8388608" crc="f59a141e" md5="5e2b802930a90288a2cbe2f028629e5b" sha1="71f8856429a605ba398ab6788e4f46692944b913" sha256="4c03391b7c84cf88889abd03e0e9fbe016877995ef99c07cee632f7c7c1fee35" serial="B6UD"/>
 	</game>
 	<game name="Original Frisbee Disc Sports - Ultimate &amp; Golf (USA)" id="1579" cloneofid="1730">
 		<description>Original Frisbee Disc Sports - Ultimate &amp; Golf (USA)</description>
@@ -22694,7 +22694,7 @@
 	</game>
 	<game name="Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)" id="5213">
 		<description>Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Puzzle Quest 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="02d74d3b" md5="13785a5fe85d67c9cdb8604688f5bb88" sha1="315ff4cd2ec692862043fd3659b74fdea2802893" serial="BZXP"/>
+		<rom name="Puzzle Quest 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="02d74d3b" md5="13785a5fe85d67c9cdb8604688f5bb88" sha1="315ff4cd2ec692862043fd3659b74fdea2802893" sha256="3b5edaa40a988517ae4187876f6d11b20fbf9605d82ded753c8934c69455af19" status="verified" serial="BZXP"/>
 	</game>
 	<game name="Puzzle Series - Jigsaw Puzzle - Koinu Mekuri Hen (Japan)" id="0534">
 		<description>Puzzle Series - Jigsaw Puzzle - Koinu Mekuri Hen (Japan)</description>
@@ -29864,7 +29864,7 @@
 	</game>
 	<game name="Winx Club - Your Magic Universe (Europe) (En,Fr,De,Es,It)" id="4222">
 		<description>Winx Club - Your Magic Universe (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Winx Club - Your Magic Universe (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="46b17a09" md5="3c581d8c3b4d1505b4f083774b4a3d0b" sha1="553b2b50481db2c5b8372d913bc9022ab9f759ae" serial="CWYP"/>
+		<rom name="Winx Club - Your Magic Universe (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="46b17a09" md5="3c581d8c3b4d1505b4f083774b4a3d0b" sha1="553b2b50481db2c5b8372d913bc9022ab9f759ae" sha256="cbd52c43e45555ade4e3326f9dc36a26500836fcccf6da7d8fcacb039266de89" status="verified" serial="CWYP"/>
 	</game>
 	<game name="Wipeout - The Game (USA)" id="5008">
 		<description>Wipeout - The Game (USA)</description>
