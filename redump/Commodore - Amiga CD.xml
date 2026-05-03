@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (592) (2026-04-24 11-37-58)</description>
-		<version>2026-04-24 11-37-58</version>
-		<date>2026-04-24 11-37-58</date>
+		<description>Commodore - Amiga CD - Discs (593) (2026-05-03 01-55-56)</description>
+		<version>2026-05-03 01-55-56</version>
+		<date>2026-05-03 01-55-56</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3907,5 +3907,11 @@
 		<description>FishMarket (Canada) (v2.4)</description>
 		<rom name="FishMarket (Canada) (v2.4).cue" size="115" crc="2ca8f33c" md5="b5f714f159263edb78810fc306fb28f6" sha1="e327c5b3a11d9bc1ac2040b0a8b0922799c410ed"/>
 		<rom name="FishMarket (Canada) (v2.4).bin" size="779575104" crc="084a5817" md5="55cc7a885118fcab72ff88dbc5754475" sha1="8b88d43ed78157964bd61a00f4304a4501574791"/>
+	</game>
+	<game name="Enigma Amiga Life CD 117 (Italy)">
+		<category>Coverdiscs</category>
+		<description>Enigma Amiga Life CD 117 (Italy)</description>
+		<rom name="Enigma Amiga Life CD 117 (Italy).cue" size="98" crc="69dcf29d" md5="6909ddd145ce8c402696da751d5f1815" sha1="2cc6604174f573038fe9a1c48840c19127860d71"/>
+		<rom name="Enigma Amiga Life CD 117 (Italy).bin" size="782618592" crc="a1f44e42" md5="665e0008cb94a08545c85d97393981ba" sha1="e5bf68962b505fd949524fb12539a2a3f97eca56"/>
 	</game>
 </datafile>

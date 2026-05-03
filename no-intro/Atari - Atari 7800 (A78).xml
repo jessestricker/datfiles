@@ -4,12 +4,18 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (A78)</name>
 		<description>Atari - Atari 7800 (A78)</description>
-		<version>20260501-050713</version>
+		<version>20260503-010906</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Commando (USA) (Beta) (1988-04-29)" id="0266" cloneofid="0018">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Commando (USA) (Beta) (1988-04-29)</description>
+		<rom name="Commando (USA) (Beta) (1988-04-29).a78" size="16512" crc="048b2bd8" md5="e128ffbbc919959c82164b7e67da9a74" sha1="72f340c9f873ad691982d786c6f258e231eaabb6" sha256="c1bfbbddc8104ba759e1a5c5235cdf14fa08e46a18a9bb4ae1e10dc4918e4af6"/>
+	</game>
 	<game name="Desert Falcon (USA) (Beta) (1987-03-09) [b]" id="0263" cloneofid="0026">
 		<category>Games</category>
 		<category>Preproduction</category>

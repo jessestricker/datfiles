@@ -4,7 +4,7 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (BIN)</name>
 		<description>Atari - Atari 7800 (BIN)</description>
-		<version>20260501-050713</version>
+		<version>20260503-010906</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -86,6 +86,12 @@
 		<description>Centipede (USA)</description>
 		<rom name="Centipede (USA).bin" size="16384" crc="020efe25" md5="5a09946e57dbe30408a8f253a28d07db" sha1="c8377ad7fb6afec5c88c14a23a68e2ecebba4e5a" sha256="0b5d0b156b363d6142ecf4498bc19cc2109534dd901db2eb7f5def26ead66b83" status="verified"/>
 	</game>
+	<game name="Centipede (USA) (Beta) (1984-05-02)" id="0265" cloneofid="0014">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Centipede (USA) (Beta) (1984-05-02)</description>
+		<rom name="Centipede (USA) (Beta) (1984-05-02).bin" size="16384" crc="0b85a1f2" md5="bf7a6103337086840093af257048c834" sha1="2446325f139d8cb93743b6668fee96c4fc99fc48" sha256="1e3378c6e5b2ce94e122ecdba8ed03eed828cdd53c70aa221ab9b6a5b2d9e44f"/>
+	</game>
 	<game name="Choplifter! (Europe)" id="0016">
 		<description>Choplifter! (Europe)</description>
 		<rom name="Choplifter! (Europe).bin" size="49152" crc="12efeb07" md5="59d4edb0230b5acc918b94f6bc94779f" sha1="f2fe1c82e5b333f4c59f76a28a9d379228596d89" sha256="bec17e152b55a32d6801b6bdf6b859f3f1609be37b76e0f6822625ead4bb4af4"/>
@@ -101,6 +107,12 @@
 	<game name="Commando (Europe)" id="0018">
 		<description>Commando (Europe)</description>
 		<rom name="Commando (Europe).bin" size="131072" crc="7c211612" md5="55da6c6c3974d013f517e725aa60f48e" sha1="2bdad24967fe4f5492ae294b1ccf8f148930a419" sha256="b6d6ee0baf5fd7166a037eedddb6350d3865accf3623d2e45eb0b3fa80178f85" status="verified"/>
+	</game>
+	<game name="Commando (USA) (Beta) (1988-04-29)" id="0266" cloneofid="0018">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Commando (USA) (Beta) (1988-04-29)</description>
+		<rom name="Commando (USA) (Beta) (1988-04-29).bin" size="16384" crc="9ef973a9" md5="2a4f20c216e77048449d26205b62c563" sha1="2eacc14a41bb747ec4b431f7d1b092fd2061701e" sha256="b4a1c4d60a2980596abaebd629ec69bf583ba73f644d24b0e42d42cfedbd36d1"/>
 	</game>
 	<game name="Crack'ed (Europe)" id="0020">
 		<description>Crack'ed (Europe)</description>

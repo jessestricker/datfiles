@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260501-204610</version>
+		<version>20260502-210720</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2188,13 +2188,13 @@
 		<description>Cartoon Network Speedway (USA)</description>
 		<rom name="Cartoon Network Speedway (USA).gba" size="4194304" crc="066a2705" md5="b3f65540eea88983c63e454b34d3028e" sha1="26afa157c527dcaa5a4fa0eccc772426156320d8" sha256="d8e48a283fd0a813ecd85ba5992c035b562a256543b1246c7d14560d17270216" status="verified" serial="ANRE"/>
 	</game>
-	<game name="Casper (USA) (En,Fr,Es)" id="2092" cloneofid="0329">
-		<description>Casper (USA) (En,Fr,Es)</description>
-		<rom name="Casper (USA) (En,Fr,Es).gba" size="4194304" crc="9f905e60" md5="a6c803e0887f46db78bdf095628ed7de" sha1="75392d01815d807f8fbd6846469d5d535a6aeeda" serial="ACSE"/>
-	</game>
 	<game name="Casper (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="0329">
 		<description>Casper (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
 		<rom name="Casper (Europe) (En,Fr,De,Es,It,Nl,Pt).gba" size="4194304" crc="ddaf8bac" md5="3bc985416f6229eb8c51457c51a64f6d" sha1="2321b90c04690e8e4973a4495d25c9197ab5bfcc" serial="ACSP"/>
+	</game>
+	<game name="Casper (USA) (En,Fr,Es)" id="2092" cloneofid="0329">
+		<description>Casper (USA) (En,Fr,Es)</description>
+		<rom name="Casper (USA) (En,Fr,Es).gba" size="4194304" crc="9f905e60" md5="a6c803e0887f46db78bdf095628ed7de" sha1="75392d01815d807f8fbd6846469d5d535a6aeeda" serial="ACSE"/>
 	</game>
 	<game name="Castle Master (World) (Unl)" id="3125">
 		<category>Games</category>
