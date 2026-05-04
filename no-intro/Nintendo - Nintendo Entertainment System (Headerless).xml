@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260501-132243</version>
+		<version>20260504-024550</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19959,11 +19959,11 @@
 		<description>Overlord (USA) (Beta)</description>
 		<rom name="Overlord (USA) (Beta).unh" size="262144" crc="f9e25602" md5="c580c9de3c01ad64dd3cbea1167c3bbc" sha1="11da396f2ed4fbdd199af53c2b2c64735fb2b41c" sha256="d0130b7f5a366328625384f3580ba1cf00b22e4ee6abd73c8694a929e4568f8f"/>
 	</game>
-	<game name="Pac-Man (USA) (Beta 1) (Tengen) (Unl)" id="7573" cloneofid="1626">
+	<game name="Pac-Man (USA) (Beta) (Tengen) (Unl)" id="7573" cloneofid="1626">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pac-Man (USA) (Beta 1) (Tengen) (Unl)</description>
-		<rom name="Pac-Man (USA) (Beta 1) (Tengen) (Unl).unh" size="24576" crc="552c7499" md5="2a15c7a561551d554e7857eff4f0ee8f" sha1="63bb344c22c3ed704eafbc8d3c767856dbeb5ffe" sha256="717671d2293bb509f63f7c5ec8171b4d51f523dfff915b8a35b651dbe5a09a6e"/>
+		<description>Pac-Man (USA) (Beta) (Tengen) (Unl)</description>
+		<rom name="Pac-Man (USA) (Beta) (Tengen) (Unl).unh" size="24576" crc="552c7499" md5="2a15c7a561551d554e7857eff4f0ee8f" sha1="63bb344c22c3ed704eafbc8d3c767856dbeb5ffe" sha256="717671d2293bb509f63f7c5ec8171b4d51f523dfff915b8a35b651dbe5a09a6e"/>
 	</game>
 	<game name="Pajama Hero - Nemo (Japan) (Beta)" id="7574" cloneofid="1272">
 		<category>Games</category>
@@ -20871,11 +20871,11 @@
 		<description>Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate)</description>
 		<rom name="Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate).unh" size="1048576" crc="712a02c0" md5="6ac7afcd5dbe6e3e490e0de7ec7c3e29" sha1="856f338fcf81fb4f216c0ccd887537cc3878b1e4" sha256="fd530929308bcff34ce41a7ec1e108f20fa42de8b09db6c4b0723175c77697b5"/>
 	</game>
-	<game name="Pac-Man (USA) (Beta 2) (Unl)" id="8461" cloneofid="1626">
+	<game name="Pac-Man (USA) (Rev 1) (Tengen) (Unl)" id="8461" cloneofid="1626">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pac-Man (USA) (Beta 2) (Unl)</description>
-		<rom name="Pac-Man (USA) (Beta 2) (Unl).unh" size="24576" crc="fe3aff0a" md5="59221f53347191de8e45afd098b92a7c" sha1="74445fae16b24e691df0d7939ca5f266ff940e2a" sha256="b86255862d6361d7431a334b993cccce51116564c2084c8a6c751abbff5a7cd7"/>
+		<description>Pac-Man (USA) (Rev 1) (Tengen) (Unl)</description>
+		<rom name="Pac-Man (USA) (Rev 1) (Tengen) (Unl).unh" size="24576" crc="fe3aff0a" md5="59221f53347191de8e45afd098b92a7c" sha1="74445fae16b24e691df0d7939ca5f266ff940e2a" sha256="b86255862d6361d7431a334b993cccce51116564c2084c8a6c751abbff5a7cd7"/>
 	</game>
 	<game name="Pikachu (Asia) (En) (Pirate)" id="8048" cloneofid="2310">
 		<category>Games</category>

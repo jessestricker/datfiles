@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260430-091928</version>
+		<version>20260503-123459</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -20973,6 +20973,11 @@
 	<game name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary)" id="4575" cloneofid="2753">
 		<description>Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary)</description>
 		<rom name="Super Mario All-Stars (Europe) (Super Mario All-Stars - 25th Anniversary).sfc" size="2097152" crc="24dd9cf6" md5="58fd166362624edcfe48635e37549f82" sha1="157e10291b8b190eec5f985e62c56e5d4728a578" sha256="8808a75efda1dafbf62f0851d4ce444a36a8a60e20f84048ac6bbf0cd416fbcf"/>
+	</game>
+	<game name="Super Mario All-Stars (USA, Europe) (Wii U)" id="4590" cloneofid="2753">
+		<category>Games</category>
+		<description>Super Mario All-Stars (USA, Europe) (Wii U)</description>
+		<rom name="Super Mario All-Stars (USA, Europe) (Wii U).sfc" size="2097152" crc="b385345e" md5="d2e8f0db7a1cbaaca702e715ca8668f7" sha1="f2f2dbefb06498823fd1a5e9f6d3e1d2e84d15d9" sha256="27797301348ce19f8b755a3e2b6269b6189e17e340d8b6e228ff3ab8e34b39ed"/>
 	</game>
 	<game name="Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)" id="4576" cloneofid="2753">
 		<description>Super Mario Collection (Japan) (Super Mario Collection - 25th Anniversary)</description>

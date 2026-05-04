@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-03 02-55-15)</description>
-		<version>2026-05-03 02-55-15</version>
-		<date>2026-05-03 02-55-15</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-04 14-22-27)</description>
+		<version>2026-05-04 14-22-27</version>
+		<date>2026-05-04 14-22-27</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -12345,11 +12345,11 @@
 		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (USA).cue" size="119" crc="e97d3a60" md5="f819f9aa92e03642cbd659c005424093" sha1="48e8f7d7720324917c7fa041f51532dd0f4f0e01"/>
 		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (USA).bin" size="176414112" crc="4ae56e1b" md5="c1d3ffc8372f4c0b23375c14a29e03b1" sha1="bdee4197a1eebfc3d3978e7b599bd18aa0222f54"/>
 	</game>
-	<game name="Zero Divide 2 - The Secret Wish (Japan)">
+	<game name="Zero Divide 2 - The Secret Wish (Japan, Asia)">
 		<category>Games</category>
-		<description>Zero Divide 2 - The Secret Wish (Japan)</description>
-		<rom name="Zero Divide 2 - The Secret Wish (Japan).cue" size="105" crc="177c14aa" md5="a46200f237786868d8c7d7a49c4264c9" sha1="f4b0bb15afbe1b91e957cf1afb2ccccb4143462b"/>
-		<rom name="Zero Divide 2 - The Secret Wish (Japan).bin" size="503709024" crc="62b17692" md5="4e83b177ea1469fb4fc10f05395fd337" sha1="ce682dfb8787b08bb501cd770ce4d2de2019b69e"/>
+		<description>Zero Divide 2 - The Secret Wish (Japan, Asia)</description>
+		<rom name="Zero Divide 2 - The Secret Wish (Japan, Asia).cue" size="111" crc="a453e544" md5="ee1bbdad87c568ea3035a6ab898b61c4" sha1="86fe89c5b22ee06eaa1dda2c220d79a0262abf80"/>
+		<rom name="Zero Divide 2 - The Secret Wish (Japan, Asia).bin" size="503709024" crc="62b17692" md5="4e83b177ea1469fb4fc10f05395fd337" sha1="ce682dfb8787b08bb501cd770ce4d2de2019b69e"/>
 	</game>
 	<game name="Arkanoid Returns (Japan)">
 		<category>Games</category>
@@ -18291,11 +18291,11 @@
 		<rom name="Kaze no Klonoa - Door to Phantomile (Japan).cue" size="109" crc="5fd40b8e" md5="bb0e4db74210eb6e0ddf4b6ce020b687" sha1="33458cc5c37e9aa6e8a09db86634ddd968c23668"/>
 		<rom name="Kaze no Klonoa - Door to Phantomile (Japan).bin" size="736415904" crc="cacaee37" md5="3fd85b2406a5f51dfc0974b8c2ce43f1" sha1="f0c9daab35fb8f5e01198269a8eacfbb851d88f0"/>
 	</game>
-	<game name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)">
+	<game name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia)">
 		<category>Games</category>
-		<description>Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)</description>
-		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).cue" size="119" crc="2a50d2a4" md5="eb89a07ebf0b56494d61b2c2fbbd423b" sha1="cb7d69cd6df228b246052cd4228dc05b20ee5ff2"/>
-		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).bin" size="661575264" crc="9034da3c" md5="d53b245a3638341779578dee5a73e335" sha1="4cd2c71da49e9ae82be3ee41056280134b45c22c"/>
+		<description>Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia)</description>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).cue" size="125" crc="3e5bff0a" md5="e98683dade49eeaa8ccb13d880f48cbc" sha1="fe55589474f45663b32c1f74b02da7c759c3a550"/>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).bin" size="661575264" crc="9034da3c" md5="d53b245a3638341779578dee5a73e335" sha1="4cd2c71da49e9ae82be3ee41056280134b45c22c"/>
 	</game>
 	<game name="Vampire Savior - EX Edition (Japan)">
 		<category>Games</category>
@@ -39518,19 +39518,19 @@
 		<rom name="X Games Pro Boarder (USA) (Track 12).bin" size="20913984" crc="36a55964" md5="6259027f0856d0dce3012d74aef9629e" sha1="ca97ce48b3e49007d05c13ec40e86055fc959adb"/>
 		<rom name="X Games Pro Boarder (USA) (Track 13).bin" size="16689792" crc="65cd76d7" md5="4f818a86bd6f49484d1c90ddd3c66500" sha1="9dbd29b4a4cf36a2cb22cfe6f4fe4dc95f80458b"/>
 	</game>
-	<game name="Enigma (Japan) (Disc 1)">
+	<game name="Enigma (Japan, Asia) (Disc 1)">
 		<category>Games</category>
-		<description>Enigma (Japan) (Disc 1)</description>
-		<rom name="Enigma (Japan) (Disc 1).cue" size="216" crc="9013f54a" md5="0d682489806170a68190e041b6a5896e" sha1="c12dbdd34c07b1b9915422126088555620a49223"/>
-		<rom name="Enigma (Japan) (Disc 1) (Track 1).bin" size="621494832" crc="fe1e8e10" md5="aa7c758b7595e7f5e01e073ae0699a2b" sha1="1d5ae5e1fc60b9a817442b235b2ab460709fd7e0"/>
-		<rom name="Enigma (Japan) (Disc 1) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
+		<description>Enigma (Japan, Asia) (Disc 1)</description>
+		<rom name="Enigma (Japan, Asia) (Disc 1).cue" size="228" crc="ad979894" md5="0bff68a7674f6c7c2a9fbae75b7e9b37" sha1="7b69c17af09adbf7c0551b777bfe146c6e242210"/>
+		<rom name="Enigma (Japan, Asia) (Disc 1) (Track 1).bin" size="621494832" crc="fe1e8e10" md5="aa7c758b7595e7f5e01e073ae0699a2b" sha1="1d5ae5e1fc60b9a817442b235b2ab460709fd7e0"/>
+		<rom name="Enigma (Japan, Asia) (Disc 1) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
 	</game>
-	<game name="Enigma (Japan) (Disc 2)">
+	<game name="Enigma (Japan, Asia) (Disc 2)">
 		<category>Games</category>
-		<description>Enigma (Japan) (Disc 2)</description>
-		<rom name="Enigma (Japan) (Disc 2).cue" size="216" crc="449046a5" md5="71ef74c9fdaf4d4ced6c42694923b020" sha1="b47f9bf70e69c3abfa99aa4f30dc8023cdf4c741"/>
-		<rom name="Enigma (Japan) (Disc 2) (Track 1).bin" size="718837056" crc="26bb6a10" md5="92adb5247ffb4e40ce05758ce9192903" sha1="e2be11e788bc741ac4e12deeba6150b244615345"/>
-		<rom name="Enigma (Japan) (Disc 2) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
+		<description>Enigma (Japan, Asia) (Disc 2)</description>
+		<rom name="Enigma (Japan, Asia) (Disc 2).cue" size="228" crc="2c8c08f9" md5="c47d1ec328ac98d7e3efbc33882ff054" sha1="1f44d01f63ac3c958d39acd6977cd4ac4c1a275e"/>
+		<rom name="Enigma (Japan, Asia) (Disc 2) (Track 1).bin" size="718837056" crc="26bb6a10" md5="92adb5247ffb4e40ce05758ce9192903" sha1="e2be11e788bc741ac4e12deeba6150b244615345"/>
+		<rom name="Enigma (Japan, Asia) (Disc 2) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
 	</game>
 	<game name="PlayStation Demo Disc Version 1.5 (USA)">
 		<category>Demos</category>

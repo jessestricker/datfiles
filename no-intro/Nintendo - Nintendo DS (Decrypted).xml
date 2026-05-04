@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260502-233501</version>
+		<version>20260504-004312</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2919,6 +2919,12 @@
 	<game name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3693">
 		<description>Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="cae09803" md5="5f2c60b08181b442090e4118de495883" sha1="a38da729214dd4914befb6df2a4fead9cac034c9" serial="C73P"/>
+	</game>
+	<game name="Blur (Europe) (En,Fr,De,Es,It) (Proto)" id="z670">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Blur (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="Blur (Europe) (En,Fr,De,Es,It) (Proto).nds" size="67108864" crc="2494e90f" md5="7e959f16a70b60b241d095a20d0e3c2a" sha1="bec09a75dcabc8fa00e1243b74e3bdc27e967a32" sha256="dbffdf0d4a1484f4d84e4856242e2208a4c60d0fb2f4add92b8d8aa1b2fd274c" serial="BBRP"/>
 	</game>
 	<game name="Board Checker RVL (World) (V7.2) (2007-06-29) (Program)" id="z235" cloneofid="z237">
 		<category>Applications</category>
@@ -6490,7 +6496,7 @@
 	</game>
 	<game name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It)" id="2124">
 		<description>Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="53c12411" md5="963bf092f2a6db672286263f36f8c952" sha1="36c8ed10f9366482063c2e222377090006678ab8" sha256="6b7121b3f2fb2e586fad6bb0e08a69545668a2c26a1afbd5e26b583264426449" serial="YSQP"/>
+		<rom name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="53c12411" md5="963bf092f2a6db672286263f36f8c952" sha1="36c8ed10f9366482063c2e222377090006678ab8" sha256="6b7121b3f2fb2e586fad6bb0e08a69545668a2c26a1afbd5e26b583264426449" mia="yes" serial="YSQP"/>
 	</game>
 	<game name="Dr. Jekyll &amp; Mr. Hyde - Enigmes &amp; Objets Caches (France)" id="5199" cloneofid="6768">
 		<description>Dr. Jekyll &amp; Mr. Hyde - Enigmes &amp; Objets Caches (France)</description>
@@ -9260,7 +9266,7 @@
 	</game>
 	<game name="Ghostbusters - The Video Game (USA) (En,Fr,Es)" id="3868" cloneofid="4451">
 		<description>Ghostbusters - The Video Game (USA) (En,Fr,Es)</description>
-		<rom name="Ghostbusters - The Video Game (USA) (En,Fr,Es).nds" size="67108864" crc="89c6f92e" md5="dd1b54131db884893f7d838f1eea8c7e" sha1="29645e44b0f2ab2cd89ce9a99c4a50d95c35d223" serial="YGQE"/>
+		<rom name="Ghostbusters - The Video Game (USA) (En,Fr,Es).nds" size="67108864" crc="89c6f92e" md5="dd1b54131db884893f7d838f1eea8c7e" sha1="29645e44b0f2ab2cd89ce9a99c4a50d95c35d223" sha256="af0a53b96204126b72e6cabeca8ccb9d24ab874f6b4bf5d63dd37f01349debc2" status="verified" serial="YGQE"/>
 	</game>
 	<game name="Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)" id="4451">
 		<description>Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)</description>

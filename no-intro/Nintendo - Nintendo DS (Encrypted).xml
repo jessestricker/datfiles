@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260502-095053</version>
+		<version>20260504-004312</version>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2919,6 +2919,12 @@
 	<game name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3693">
 		<description>Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="55eeb283" md5="f8c89b191f99ceb4814e89061ce7ea9d" sha1="f7797b6d0ee1a3170d238bbe68c32b3120b81052" serial="C73P"/>
+	</game>
+	<game name="Blur (Europe) (En,Fr,De,Es,It) (Proto)" id="z670">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Blur (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="Blur (Europe) (En,Fr,De,Es,It) (Proto).nds" size="67108864" crc="20cfb460" md5="b8d258ed8f761d08c1de857ccbb27402" sha1="b18398acd82111e28302e8cc3bfcb604c8c48de7" sha256="9619f7c1e27bc771d38ce9f4d3c63dedc945a7080753f0e5afee5197f5ae0104" serial="BBRP"/>
 	</game>
 	<game name="Board Checker RVL (World) (V7.2) (2007-06-29) (Program)" id="z235" cloneofid="z237">
 		<category>Applications</category>
@@ -6482,7 +6488,7 @@
 	</game>
 	<game name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It)" id="2124">
 		<description>Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="53c12411" md5="963bf092f2a6db672286263f36f8c952" sha1="36c8ed10f9366482063c2e222377090006678ab8" sha256="6b7121b3f2fb2e586fad6bb0e08a69545668a2c26a1afbd5e26b583264426449" serial="YSQP"/>
+		<rom name="Dr Reiner Knizia's Brainbenders (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="53c12411" md5="963bf092f2a6db672286263f36f8c952" sha1="36c8ed10f9366482063c2e222377090006678ab8" sha256="6b7121b3f2fb2e586fad6bb0e08a69545668a2c26a1afbd5e26b583264426449" mia="yes" serial="YSQP"/>
 	</game>
 	<game name="Dr. Jekyll &amp; Mr. Hyde - Enigmes &amp; Objets Caches (France)" id="5199" cloneofid="6768">
 		<description>Dr. Jekyll &amp; Mr. Hyde - Enigmes &amp; Objets Caches (France)</description>
@@ -9232,7 +9238,7 @@
 	</game>
 	<game name="Ghostbusters - The Video Game (USA) (En,Fr,Es)" id="3868" cloneofid="4451">
 		<description>Ghostbusters - The Video Game (USA) (En,Fr,Es)</description>
-		<rom name="Ghostbusters - The Video Game (USA) (En,Fr,Es).nds" size="67108864" crc="8878eca2" md5="256850b9942c8b9af069bda30a60e9a2" sha1="d1950d8676cff0b3dbc353e3bed85ca21f4e4abe" serial="YGQE"/>
+		<rom name="Ghostbusters - The Video Game (USA) (En,Fr,Es).nds" size="67108864" crc="8878eca2" md5="256850b9942c8b9af069bda30a60e9a2" sha1="d1950d8676cff0b3dbc353e3bed85ca21f4e4abe" sha256="3b431c9e416fca1030a99f3743e3c9bda9c98424a5e0045428b8fd91c753dd9e" status="verified" serial="YGQE"/>
 	</game>
 	<game name="Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)" id="4451">
 		<description>Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -14416,7 +14422,7 @@
 	</game>
 	<game name="LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es)" id="5711" cloneofid="5687">
 		<description>LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es)</description>
-		<rom name="LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).nds" size="134217728" crc="32f6fb87" md5="feba07d022ef8bb74ed850a2979ee5b3" sha1="37453dd002eb9c2ce18849ef5e2d5331048517fd" serial="BZDE"/>
+		<rom name="LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).nds" size="134217728" crc="32f6fb87" md5="feba07d022ef8bb74ed850a2979ee5b3" sha1="37453dd002eb9c2ce18849ef5e2d5331048517fd" sha256="e035099083525777ce158e6e11ddcf06413c94e3677be30479e66edd2c1634a2" serial="BZDE"/>
 	</game>
 	<game name="LEGO Racers - The Video Game (Europe) (Proto) (2008-07-25)" id="z601" cloneofid="z596">
 		<category>Games</category>
