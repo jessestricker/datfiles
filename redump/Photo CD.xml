@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (258) (2026-04-03 21-52-06)</description>
-		<version>2026-04-03 21-52-06</version>
-		<date>2026-04-03 21-52-06</date>
+		<description>Photo CD - Discs (259) (2026-05-05 10-11-01)</description>
+		<version>2026-05-05 10-11-01</version>
+		<date>2026-05-05 10-11-01</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3200,5 +3200,15 @@
 		<description>Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany)</description>
 		<rom name="Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany).cue" size="126" crc="abb71d13" md5="defce71564f3c5213fe3b9a71c7d40ef" sha1="d6afe3e453235d45d278ae67fb8ec66dc570f03c"/>
 		<rom name="Aktuelles Berlin - Sightseeing - Kultur - Erlebnis (Germany).bin" size="703944192" crc="0b9a86ac" md5="4c39e2f86071055e9dddf268383fa093" sha1="a0052790d98c07e7c633bb8e53300b50acd46cb8"/>
+	</game>
+	<game name="Reserva Natural do Estuario do Tejo (Portugal)">
+		<category>Multimedia</category>
+		<description>Reserva Natural do Estuario do Tejo (Portugal)</description>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal).cue" size="710" crc="6080fa89" md5="9186237501ee47a3f1035b1b8a8c7e48" sha1="a360bb96e963d3dfac679379c7d1545e812968bc"/>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 1).bin" size="710304" crc="6177d2a7" md5="d62bdac64e7540d33f499a8e291da057" sha1="61dfe4e03eec431ac3c8366f19b9c9dc56e78419"/>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 2).bin" size="303622032" crc="4241c674" md5="4eafb65a90f23fd362de8cf367979bd1" sha1="bfc6d21193e84d686d1bd21d13324fb5cbebfaea"/>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 3).bin" size="35959728" crc="10f9749d" md5="c910e94383faf6194dd0345e48a1cec3" sha1="ee66778b904840d0055cf8fd70e180b7c75dca6e"/>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 4).bin" size="184768416" crc="91f7d8c6" md5="4c692506e6601048048fa3126fbebaa8" sha1="a424edcdd84ae0a4f52c5c37a477b8947140ffc3"/>
+		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 5).bin" size="159435024" crc="2d64f462" md5="39b2cb1b214da45af7330f779dc38f2f" sha1="7c3619b3e09d76f4390c2963dc8ba977ee4d5bcf"/>
 	</game>
 </datafile>

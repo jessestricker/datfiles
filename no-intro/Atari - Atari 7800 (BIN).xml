@@ -4,7 +4,7 @@
 		<id>74</id>
 		<name>Atari - Atari 7800 (BIN)</name>
 		<description>Atari - Atari 7800 (BIN)</description>
-		<version>20260503-010906</version>
+		<version>20260504-112425</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -489,6 +489,24 @@
 	<game name="Super Skateboardin' (Europe)" id="0101">
 		<description>Super Skateboardin' (Europe)</description>
 		<rom name="Super Skateboardin' (Europe).bin" size="32768" crc="8f167ba9" md5="95d7c321dce8f57623a9c5b4947bb375" sha1="fab349584af7b6b3f9b034af3034f43257e2c25f" sha256="3e0c05c2c1c54a9e6c3f1fe631a25a0d5a55e69537ab3d832346dee168d7e4bb"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-05-26)" id="0267">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Stunt Cycle (USA) (Proto) (1989-05-26)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-05-26).bin" size="65536" crc="3f4da5c3" md5="2e0b41aa4a8989f4e599ebe8d5c661d7" sha1="eedfb030e50cf762695199ffed3efa1a56eb91e4" sha256="8ba5ef902f71ce2c620c56febf8269ade8e7c855534078d234ddea777a3e58b7"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1989-04-14)" id="0268" cloneofid="0267">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Stunt Cycle (USA) (Proto) (1989-04-14)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1989-04-14).bin" size="65536" crc="cb3dff09" md5="914a4598882d232af7ac992d594c6896" sha1="94b283ca311639371e72b758948c71f19198daca" sha256="fee5e8efaa3f042556cc4165b35f1fad7532b9cad6b86b9454e14361a1a60576"/>
+	</game>
+	<game name="Super Stunt Cycle (USA) (Proto) (1988-11-03)" id="0269" cloneofid="0267">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Stunt Cycle (USA) (Proto) (1988-11-03)</description>
+		<rom name="Super Stunt Cycle (USA) (Proto) (1988-11-03).bin" size="65536" crc="60d253e2" md5="2ba7ffb58607d52a5bda7b259d4c6a9c" sha1="c03f030e92b7049a20b0517f68ea2dd02c300efc" sha256="753405a3fed424e8a4045a525b03b229add42ca28a93675ec5b353d218ef87b4"/>
 	</game>
 	<game name="Tank Command (USA)" id="0103">
 		<description>Tank Command (USA)</description>

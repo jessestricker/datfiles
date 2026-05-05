@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260417-195047</version>
+		<version>20260504-203329</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -670,15 +670,15 @@
 		<description>Alisia Dragoon (USA)</description>
 		<rom name="Alisia Dragoon (USA).md" size="1048576" crc="d28d5c40" md5="77be06102101759f30b416d80872c8da" sha1="69bf7a9ebcb851e0d571f93b26d785ca87621b01" sha256="cb4e9c98de5a048ccdddf03bcfa5d8aad678c2399f4c5651075009c59836ffd2" status="verified" serial="T-45033-00"/>
 	</game>
-	<game name="Alisia Dragoon (USA) (Genesis Mini)" id="2564" cloneofid="0100">
+	<game name="Alisia Dragoon (USA) (Mega Drive Mini, Genesis Mini)" id="2564" cloneofid="0100">
 		<category>Games</category>
-		<description>Alisia Dragoon (USA) (Genesis Mini)</description>
-		<rom name="Alisia Dragoon (USA) (Genesis Mini).md" size="1048576" crc="4bfdfe9c" md5="651ba2f3cd428a9797da8314bdb5949b" sha1="f70985959d9d2cbcdae54f7e8260d3ffc9fefaa1" sha256="0fad6ed1eb698d50c2b8b72a86066d4c719e37d53cff3c09523eb463b8f292b0" serial="T-45033-00"/>
+		<description>Alisia Dragoon (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Alisia Dragoon (USA) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="4bfdfe9c" md5="651ba2f3cd428a9797da8314bdb5949b" sha1="f70985959d9d2cbcdae54f7e8260d3ffc9fefaa1" sha256="0fad6ed1eb698d50c2b8b72a86066d4c719e37d53cff3c09523eb463b8f292b0" serial="T-45033-00"/>
 	</game>
-	<game name="Alisia Dragoon (Japan) (Mega Drive Mini)" id="2565" cloneofid="0100">
+	<game name="Alisia Dragoon (Japan) (Mega Drive Mini, Genesis Mini)" id="2565" cloneofid="0100">
 		<category>Games</category>
-		<description>Alisia Dragoon (Japan) (Mega Drive Mini)</description>
-		<rom name="Alisia Dragoon (Japan) (Mega Drive Mini).md" size="1048576" crc="3a6bf605" md5="18465670f6aee7a63344410c31ca0cc4" sha1="6cdbaafbc6095f17a79fd78a57d6189c779c3c3f" sha256="a46db20aa49256ded03ebabb318ca2dc3d63e123a8ce33d7bd72eca10ef37c02" serial="T-45033-00"/>
+		<description>Alisia Dragoon (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Alisia Dragoon (Japan) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="3a6bf605" md5="18465670f6aee7a63344410c31ca0cc4" sha1="6cdbaafbc6095f17a79fd78a57d6189c779c3c3f" sha256="a46db20aa49256ded03ebabb318ca2dc3d63e123a8ce33d7bd72eca10ef37c02" serial="T-45033-00"/>
 	</game>
 	<game name="Altered Beast (USA, Europe) (Sega 3D Classics)" id="3001" cloneofid="0103">
 		<category>Games</category>
@@ -1871,12 +1871,6 @@
 		<description>Bug's Life, A - Chong Chong Weiji (Taiwan) (En) (Unl)</description>
 		<rom name="Bug's Life, A - Chong Chong Weiji (Taiwan) (En) (Unl).md" size="1048576" crc="10458e09" md5="fff8006af9f09aae3f9b8570944ca1a7" sha1="b620c2bebd5bab39bc9258a925169b4c93614599" sha256="bfaaa7399cf4a35719f1063cc656f20752476cfd000e3f68be039d20443d460d"/>
 	</game>
-	<game name="Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel)" id="3480" cloneofid="1755">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel)</description>
-		<rom name="Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel).md" size="3145728" crc="3db3d8e9" md5="40f72c7e48dfd952011fca8d89d055cb" sha1="c3fc073fa74007d72c93cce0b0b7091c6c7a362c" sha256="c28eec754e86ff3874e22ca57941787b9f03eca8b745dc6b7766fd24e771cb32" serial="MK-1840-00"/>
-	</game>
 	<game name="Bugs Bunny in Double Trouble (USA)" id="0234" cloneofid="1755">
 		<category>Games</category>
 		<description>Bugs Bunny in Double Trouble (USA)</description>
@@ -1886,6 +1880,12 @@
 		<category>Games</category>
 		<description>Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It).md" size="2097152" crc="cec0a0bb" md5="e8336804126e38e118be63262c6aa763" sha1="ee079f3cbb168bab62d5f0643709d840a9b5d2d5" sha256="0bd034cc4c5af389e210cd87bd65c33b0c8f83c1d5ff1ce8097c7f3e5fb51db7" serial="MK-1840-00"/>
+	</game>
+	<game name="Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel)" id="3480" cloneofid="1755">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel)</description>
+		<rom name="Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel).md" size="3145728" crc="3db3d8e9" md5="40f72c7e48dfd952011fca8d89d055cb" sha1="c3fc073fa74007d72c93cce0b0b7091c6c7a362c" sha256="c28eec754e86ff3874e22ca57941787b9f03eca8b745dc6b7766fd24e771cb32" serial="MK-1840-00"/>
 	</game>
 	<game name="Bulls versus Blazers and the NBA Playoffs (USA, Europe)" id="0235">
 		<category>Games</category>
@@ -1902,6 +1902,11 @@
 		<description>Bulls vs Lakers and the NBA Playoffs (USA, Europe)</description>
 		<rom name="Bulls vs Lakers and the NBA Playoffs (USA, Europe).md" size="1048576" crc="e56023a0" md5="db1441972367b4cb708351fcb0736887" sha1="102652dcd218e3420ea9c4116231fa62f8fcd770" sha256="56bb728ba3bbe68a87b35b02dee441ca9b1b7689d7cd38fa647243c659c36af8" serial="T-50366-00"/>
 	</game>
+	<game name="Burning Force (World) (Evercade)" id="3331" cloneofid="0237">
+		<category>Games</category>
+		<description>Burning Force (World) (Evercade)</description>
+		<rom name="Burning Force (World) (Evercade).md" size="561120" crc="0c8581f7" md5="95b9bfe4bd860f67897078672c558f3e" sha1="92cc7f21a76ea4e6894dc2e1395798f24182249e" sha256="597bd77b816bd32afcd2b0ea1dd4684da223523d64046d3beace476b7b494a4e" serial="T-14026-00"/>
+	</game>
 	<game name="Burning Force (Europe)" id="0237">
 		<category>Games</category>
 		<description>Burning Force (Europe)</description>
@@ -1916,11 +1921,6 @@
 		<category>Games</category>
 		<description>Burning Force (USA)</description>
 		<rom name="Burning Force (USA).md" size="524288" crc="bdc8f02c" md5="da536d20ac0f0e3a62d9709078690032" sha1="28fcb1c9b5c72255443ab5bb950a52030baaf409" sha256="dad854a5e2dc5ae9f74038cbb250ec6ca346adc61ca5c635459f5ce48e9197d0" status="verified" serial="T-14026-00"/>
-	</game>
-	<game name="Burning Force (World) (Evercade)" id="3331" cloneofid="0237">
-		<category>Games</category>
-		<description>Burning Force (World) (Evercade)</description>
-		<rom name="Burning Force (World) (Evercade).md" size="561120" crc="0c8581f7" md5="95b9bfe4bd860f67897078672c558f3e" sha1="92cc7f21a76ea4e6894dc2e1395798f24182249e" sha256="597bd77b816bd32afcd2b0ea1dd4684da223523d64046d3beace476b7b494a4e" serial="T-14026-00"/>
 	</game>
 	<game name="Cadash (USA, Korea) (En)" id="0240">
 		<category>Games</category>
@@ -2057,10 +2057,10 @@
 		<description>Castlevania - The New Generation (Europe) (Beta)</description>
 		<rom name="Castlevania - The New Generation (Europe) (Beta).md" size="1048576" crc="bed7a379" md5="7d54c9d48d5c72213fc63eb6eab34581" sha1="edc0c7ab27d99b29e40897ab35483e86b84cf0c5" sha256="820788e6f7dfb4d6c5d88637496b91858c18a112f76a615926a8aef79c94ba52" serial="T-95076-00"/>
 	</game>
-	<game name="Castlevania - The New Generation (Europe) (Mega Drive Mini)" id="2555" cloneofid="0256">
+	<game name="Castlevania - The New Generation (Europe) (Mega Drive Mini, Genesis Mini)" id="2555" cloneofid="0256">
 		<category>Games</category>
-		<description>Castlevania - The New Generation (Europe) (Mega Drive Mini)</description>
-		<rom name="Castlevania - The New Generation (Europe) (Mega Drive Mini).md" size="1048576" crc="6a5e58cd" md5="d6f1bdb9ca9a4137bcdb31611fb35bee" sha1="2572d121758ce2ecb89f8ee7e3de3e9503cd1b9f" sha256="dcf505b0593c1f3e3b4471352f7a325195fc3fa1c97ee2ea33654f6433495160" serial="T-95076-00"/>
+		<description>Castlevania - The New Generation (Europe) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Castlevania - The New Generation (Europe) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="6a5e58cd" md5="d6f1bdb9ca9a4137bcdb31611fb35bee" sha1="2572d121758ce2ecb89f8ee7e3de3e9503cd1b9f" sha256="dcf505b0593c1f3e3b4471352f7a325195fc3fa1c97ee2ea33654f6433495160" serial="T-95076-00"/>
 	</game>
 	<game name="Cavalos &amp; Peoes (Brazil) (Mega Drive 4)" id="2957">
 		<category>Games</category>
@@ -2595,20 +2595,20 @@
 		<description>Contra - Hard Corps (USA, Korea) (En)</description>
 		<rom name="Contra - Hard Corps (USA, Korea) (En).md" size="2097152" crc="c579f45e" md5="2bd30479556da5c310d8f2a1fe66e8fa" sha1="68ea84146105bda91f6056932ff4fb42aa3eb4a7" sha256="f8feee8e3f2768bec97419c3b278a87827e248fa4d5ae35a1af46a14366c6856" status="verified" serial="T-95106-00"/>
 	</game>
-	<game name="Contra - Hard Corps (USA) (Genesis Mini)" id="2558" cloneofid="1045">
+	<game name="Contra - Hard Corps (USA) (Mega Drive Mini, Genesis Mini)" id="2558" cloneofid="1045">
 		<category>Games</category>
-		<description>Contra - Hard Corps (USA) (Genesis Mini)</description>
-		<rom name="Contra - Hard Corps (USA) (Genesis Mini).md" size="2097152" crc="042a81b0" md5="b552ccce25afbafe61c4a9026e6b1190" sha1="f9aa7a0e7ec07e0f1512b582c279e378eee7c902" sha256="b00aa28dbb291cddc847ad2f4dd13ea2672fa1daa67a40c911d95115c776e4b1" serial="T-95106-00"/>
+		<description>Contra - Hard Corps (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Contra - Hard Corps (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="042a81b0" md5="b552ccce25afbafe61c4a9026e6b1190" sha1="f9aa7a0e7ec07e0f1512b582c279e378eee7c902" sha256="b00aa28dbb291cddc847ad2f4dd13ea2672fa1daa67a40c911d95115c776e4b1" serial="T-95106-00"/>
 	</game>
 	<game name="Contra - Hard Corps (USA) (Contra Anniversary Collection)" id="2612" cloneofid="1045">
 		<category>Games</category>
 		<description>Contra - Hard Corps (USA) (Contra Anniversary Collection)</description>
 		<rom name="Contra - Hard Corps (USA) (Contra Anniversary Collection).md" size="2097152" crc="74dded00" md5="04e4543a7c1d00fbba8d8365cbd18fa2" sha1="a2b264df56b2e024ccbb90d28b29b01d0f94acc1" sha256="9e478ceb8f22a62194d4792b4febc80c644e7afe1a533b5d346f9868bbfa6353" status="verified" serial="T-95106-00"/>
 	</game>
-	<game name="Contra - The Hard Corps (Japan) (Mega Drive Mini)" id="2559" cloneofid="1045">
+	<game name="Contra - The Hard Corps (Japan) (Mega Drive Mini, Genesis Mini)" id="2559" cloneofid="1045">
 		<category>Games</category>
-		<description>Contra - The Hard Corps (Japan) (Mega Drive Mini)</description>
-		<rom name="Contra - The Hard Corps (Japan) (Mega Drive Mini).md" size="2097152" crc="76c211cb" md5="18f0bcad4268865b67a4a907e68ab71a" sha1="cabe533d9a3ff14ca4bea80794d6b21a114608d2" sha256="c3e9d92c4ff08076dc6aafb7b53f742a2f50a524159e4504c3929c41f2d786b7" serial="T-95093-00"/>
+		<description>Contra - The Hard Corps (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Contra - The Hard Corps (Japan) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="76c211cb" md5="18f0bcad4268865b67a4a907e68ab71a" sha1="cabe533d9a3ff14ca4bea80794d6b21a114608d2" sha256="c3e9d92c4ff08076dc6aafb7b53f742a2f50a524159e4504c3929c41f2d786b7" serial="T-95093-00"/>
 	</game>
 	<game name="Contra - The Hard Corps (Japan) (Contra Anniversary Collection)" id="2611" cloneofid="1045">
 		<category>Games</category>
@@ -2948,10 +2948,10 @@
 		<description>Danny Sullivan's Indy Heat (USA) (Proto)</description>
 		<rom name="Danny Sullivan's Indy Heat (USA) (Proto).md" size="2097152" crc="0e356a3c" md5="bf9d1470f6e70c0885592b7bef25b3f8" sha1="6e76ff6a74374cd9170a902c250a1674ef69fd56" sha256="08b5f3b8217b76b4c5d68aeecf4c915cd4f1294a8e960fe57ae639cf9585d4b5" serial="****???-00"/>
 	</game>
-	<game name="Darius (World) (Genesis Mini, Mega Drive Mini)" id="2414">
+	<game name="Darius (World) (Mega Drive Mini, Genesis Mini)" id="2414">
 		<category>Games</category>
-		<description>Darius (World) (Genesis Mini, Mega Drive Mini)</description>
-		<rom name="Darius (World) (Genesis Mini, Mega Drive Mini).md" size="4194304" crc="26ca4234" md5="05dac074b9f194d74c44848eb15ad53f" sha1="4841d8f05a73cb7c5f98b710f14ebd72be1a6504" sha256="8ef415064b7970e639e9ff7e0d9d8b9e3b353933972ebd70fadc4b4ea6c04dcf" serial="00000000-00"/>
+		<description>Darius (World) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Darius (World) (Mega Drive Mini, Genesis Mini).md" size="4194304" crc="26ca4234" md5="05dac074b9f194d74c44848eb15ad53f" sha1="4841d8f05a73cb7c5f98b710f14ebd72be1a6504" sha256="8ef415064b7970e639e9ff7e0d9d8b9e3b353933972ebd70fadc4b4ea6c04dcf" serial="00000000-00"/>
 	</game>
 	<game name="Darius - Extra Version (USA, Europe) (Strictly Limited Games)" id="2674">
 		<category>Games</category>
@@ -3183,10 +3183,10 @@
 		<description>Desert Strike - Wangan Sakusen (Japan, Korea) (Ja)</description>
 		<rom name="Desert Strike - Wangan Sakusen (Japan, Korea) (Ja).md" size="1048576" crc="1e740145" md5="414a548a2ab68a8e4840359c08b24ab9" sha1="9e01c6c45670e2950242facfba6c5b79052550ed" sha256="408412a4eb180554dd6f90e30ef2d3cd3be00acb1d01b5448362eb10e18bbf2b" status="verified" serial="T-106093-00"/>
 	</game>
-	<game name="Devi to Pii (Japan) (Mega Drive Mini 2)" id="3173">
+	<game name="Devi to Pii (Japan) (Mega Drive Mini 2, Genesis Mini 2)" id="3173">
 		<category>Games</category>
-		<description>Devi to Pii (Japan) (Mega Drive Mini 2)</description>
-		<rom name="Devi to Pii (Japan) (Mega Drive Mini 2).md" size="524288" crc="ed17976c" md5="e6e9936f4f2214d28ab03a877608026a" sha1="ed7d02a892cee4ae4aa5c9dd5c214d520bc84b93" sha256="4067c07e7fa0f9e8b4701df8a9ca33dcc2f2003994b79f1df5645820cfae65ff" serial="00054503-00"/>
+		<description>Devi to Pii (Japan) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Devi to Pii (Japan) (Mega Drive Mini 2, Genesis Mini 2).md" size="524288" crc="ed17976c" md5="e6e9936f4f2214d28ab03a877608026a" sha1="ed7d02a892cee4ae4aa5c9dd5c214d520bc84b93" sha256="4067c07e7fa0f9e8b4701df8a9ca33dcc2f2003994b79f1df5645820cfae65ff" serial="00054503-00"/>
 	</game>
 	<game name="Devil Crash MD (Japan) (En)" id="0361" cloneofid="0396">
 		<category>Games</category>
@@ -4571,10 +4571,10 @@
 		<description>Fushigi no Umi no Nadia (Japan)</description>
 		<rom name="Fushigi no Umi no Nadia (Japan).md" size="1048576" crc="4762062a" md5="72a68c9a735ce36a83a74e5b3c33554c" sha1="bbcd26d5d1f1422051467aacaa835e1f38383f64" sha256="8281500efdb93ce6168e37921f774327bda0ea55e8682a5f7c123d72d59e6f9a" status="verified" serial="T-14083-00"/>
 	</game>
-	<game name="Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2)" id="3180" cloneofid="3179">
+	<game name="Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2, Genesis Mini 2)" id="3180" cloneofid="3179">
 		<category>Games</category>
-		<description>Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2)</description>
-		<rom name="Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2).md" size="4194304" crc="dfecfdac" md5="29c74c127244f951f4c9c4e1a25bebc1" sha1="17794fa74dc4bf7648f569426f8f759a0e797008" sha256="6f94bb4ee022f4dba613878b31d01d07c6a8d6f18e510ce778ca4103400a5822" serial="XXXXXXXX-XX"/>
+		<description>Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2, Genesis Mini 2).md" size="4194304" crc="dfecfdac" md5="29c74c127244f951f4c9c4e1a25bebc1" sha1="17794fa74dc4bf7648f569426f8f759a0e797008" sha256="6f94bb4ee022f4dba613878b31d01d07c6a8d6f18e510ce778ca4103400a5822" serial="XXXXXXXX-XX"/>
 	</game>
 	<game name="Futbol Argentino 96 (Argentina) (Pirate)" id="2576" cloneofid="0634">
 		<category>Games</category>
@@ -6224,15 +6224,15 @@
 		<description>Landstalker (USA) (Beta)</description>
 		<rom name="Landstalker (USA) (Beta).md" size="2097152" crc="70483d03" md5="8411ed74c77f2282bb0cd9398027cdee" sha1="dfca19397479852584d4ac6fcbe27412f9bc1af0" sha256="64f4d40a45356107f00ad819e4fde792b1a413c6a22672a57ab8b4caf3c12a56" serial="MK-1353"/>
 	</game>
-	<game name="Landstalker (USA) (Genesis Mini)" id="2543" cloneofid="0725">
+	<game name="Landstalker (USA) (Mega Drive Mini, Genesis Mini)" id="2543" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker (USA) (Genesis Mini)</description>
-		<rom name="Landstalker (USA) (Genesis Mini).md" size="2097152" crc="f2d14a6a" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" sha256="7e1700c782e5fdd8e3a2f2d8207d58a722c7968d2d765d57da8dddf8d8837fa8" serial="MK-1353-00"/>
+		<description>Landstalker (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="f2d14a6a" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" sha256="7e1700c782e5fdd8e3a2f2d8207d58a722c7968d2d765d57da8dddf8d8837fa8" serial="MK-1353-00"/>
 	</game>
-	<game name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)" id="2544" cloneofid="0725">
+	<game name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)" id="2544" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)</description>
-		<rom name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc" serial="MK-1353-00"/>
+		<description>Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc" serial="MK-1353-00"/>
 	</game>
 	<game name="Landstalker - Die Schatze von Konig Nolo (Germany)" id="0722" cloneofid="0725">
 		<category>Games</category>
@@ -6244,15 +6244,15 @@
 		<description>Landstalker - Koutei no Zaihou (Japan)</description>
 		<rom name="Landstalker - Koutei no Zaihou (Japan).md" size="2097152" crc="60d4cedb" md5="d9a7922681a126653dc16a0d907d7f32" sha1="cdbc7cd9ceb181cad9e49b641ff717072546f0d9" sha256="d0c2080a7890bd908dcb698173266d2326e7bba8f701afba1104c9e67d6c116a" serial="00005517-005"/>
 	</game>
-	<game name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)" id="2545" cloneofid="0725">
+	<game name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini)" id="2545" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)</description>
-		<rom name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini).md" size="2097152" crc="b0afa45a" md5="dcc153ec3ca6b4e84f987782038c82c0" sha1="6aca4adeeca0bb1b97bc7e1c2b48d432feb35267" sha256="f819716aced157441e22d31fe4684993e5d037de35b1b6a5a526310dacb1ed0e" serial="00005517-00"/>
+		<description>Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="b0afa45a" md5="dcc153ec3ca6b4e84f987782038c82c0" sha1="6aca4adeeca0bb1b97bc7e1c2b48d432feb35267" sha256="f819716aced157441e22d31fe4684993e5d037de35b1b6a5a526310dacb1ed0e" serial="00005517-00"/>
 	</game>
-	<game name="Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)" id="2546" cloneofid="0725">
+	<game name="Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini)" id="2546" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)</description>
-		<rom name="Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini).md" size="2097152" crc="365d282a" md5="a8e797ebaae6dc09020074b03b57ed75" sha1="ca034cc0e0fa2cbcef8bbe2bd0e066a719ac158f" sha256="ddc5756732e693f377a9c44b62f0060b4ad4169f28dee7dcc96d1bbc670a06c1" serial="MK-1353-00"/>
+		<description>Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="365d282a" md5="a8e797ebaae6dc09020074b03b57ed75" sha1="ca034cc0e0fa2cbcef8bbe2bd0e066a719ac158f" sha256="ddc5756732e693f377a9c44b62f0060b4ad4169f28dee7dcc96d1bbc670a06c1" serial="MK-1353-00"/>
 	</game>
 	<game name="Landstalker - Le Tresor du Roi Nole (France)" id="0724" cloneofid="0725">
 		<category>Games</category>
@@ -6264,10 +6264,10 @@
 		<description>Landstalker - The Treasures of King Nole (Europe)</description>
 		<rom name="Landstalker - The Treasures of King Nole (Europe).md" size="2097152" crc="e3c65277" md5="6397f7029f90f59881bdc4174eafb52f" sha1="9fbadc86319936855831ecd096d82d716b304215" sha256="1db4914301afc14beb1f66090cda12be943355d5083d61056492aeb18e8d581f" serial="MK-1353-00"/>
 	</game>
-	<game name="Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)" id="2547" cloneofid="0725">
+	<game name="Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini)" id="2547" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)</description>
-		<rom name="Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini).md" size="2097152" crc="1ec0ec97" md5="4feae5987b0c552b84620f3d48bd8c4b" sha1="3717be2ce3015ba3fb79f57ddafa69201615df63" sha256="669dd5a9b494b9cb70f2963ab6e06767cdc06dbb3b874c8b90d2db401975b747" serial="MK-1353-00"/>
+		<description>Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="1ec0ec97" md5="4feae5987b0c552b84620f3d48bd8c4b" sha1="3717be2ce3015ba3fb79f57ddafa69201615df63" sha256="669dd5a9b494b9cb70f2963ab6e06767cdc06dbb3b874c8b90d2db401975b747" serial="MK-1353-00"/>
 	</game>
 	<game name="Landstalker - The Treasures of King Nole (Europe) (SEGA Classic Collection)" id="2932" cloneofid="0725">
 		<category>Games</category>
@@ -6330,10 +6330,10 @@
 		<description>Legende de Thor, La (France)</description>
 		<rom name="Legende de Thor, La (France).md" size="3145728" crc="b97cca1c" md5="05ce3b075003e47b9f63b8435dec09a8" sha1="677e1fbf2f6f90dd5a016f3bd5f305547249205a" sha256="71099dbe752c10836faf1032a4bd4f116da6cca89a6a2bcabf3df2d7bea64b0b" status="verified" serial="MK-1354-00"/>
 	</game>
-	<game name="Legende de Thor, La (France) (Mega Drive Mini)" id="2548" cloneofid="1287">
+	<game name="Legende de Thor, La (France) (Mega Drive Mini, Genesis Mini)" id="2548" cloneofid="1287">
 		<category>Games</category>
-		<description>Legende de Thor, La (France) (Mega Drive Mini)</description>
-		<rom name="Legende de Thor, La (France) (Mega Drive Mini).md" size="3145728" crc="a9359029" md5="56364f465806b255777d545884568aff" sha1="c0b4ce1b6c17b5ba8240027e73bda44bd090faa3" sha256="f9c8d741413bb0379c355f11ec4b8951c3cfe2964bcd4c3cd6f2bd8b575bd282" serial="MK-1354-00"/>
+		<description>Legende de Thor, La (France) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Legende de Thor, La (France) (Mega Drive Mini, Genesis Mini).md" size="3145728" crc="a9359029" md5="56364f465806b255777d545884568aff" sha1="c0b4ce1b6c17b5ba8240027e73bda44bd090faa3" sha256="f9c8d741413bb0379c355f11ec4b8951c3cfe2964bcd4c3cd6f2bd8b575bd282" serial="MK-1354-00"/>
 	</game>
 	<game name="Leidian Chuanshuo II (Thunderbolt II) (Taiwan) (En) (Unl)" id="1815" cloneofid="2967">
 		<category>Games</category>
@@ -6417,20 +6417,20 @@
 		<description>Light Crusader (USA) (Beta 2)</description>
 		<rom name="Light Crusader (USA) (Beta 2).md" size="2097152" crc="e350ccfa" md5="07f0620dd8ad5d278b7981607da9f504" sha1="0bf26dba5324471532db776da1ee4c0c06add1e5" sha256="b1b812dee316c925652fe06f0f37ac4237e6838c6bdb1872c06912edf57158c2" serial="MK-01187-00"/>
 	</game>
-	<game name="Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini)" id="2552" cloneofid="0749">
+	<game name="Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini, Genesis Mini)" id="2552" cloneofid="0749">
 		<category>Games</category>
-		<description>Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini)</description>
-		<rom name="Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini).md" size="2097152" crc="600e5709" md5="4d33352309f278d46e967174490e61b4" sha1="a249d61a0002d34686110fd4cd9ff574cc0d5822" sha256="36da46ae7c735be29f6a515ae044c7a40de0692d5a45531f546f36c73f96102c" serial="MK-01187-00"/>
+		<description>Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="600e5709" md5="4d33352309f278d46e967174490e61b4" sha1="a249d61a0002d34686110fd4cd9ff574cc0d5822" sha256="36da46ae7c735be29f6a515ae044c7a40de0692d5a45531f546f36c73f96102c" serial="MK-01187-00"/>
 	</game>
-	<game name="Light Crusader (USA) (Genesis Mini)" id="2553" cloneofid="0749">
+	<game name="Light Crusader (USA) (Mega Drive Mini, Genesis Mini)" id="2553" cloneofid="0749">
 		<category>Games</category>
-		<description>Light Crusader (USA) (Genesis Mini)</description>
-		<rom name="Light Crusader (USA) (Genesis Mini).md" size="2097152" crc="84390291" md5="5c9a2a51cb754884b78b5bc9bb554131" sha1="8dd26603a26fd6177d97845748e66fbabf93353f" sha256="6238ace8e0d2d3089aa1f4de65fd893d60d9a124bc02b7c3b7e73d9533212a2d" serial="MK-01187-00"/>
+		<description>Light Crusader (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Light Crusader (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="84390291" md5="5c9a2a51cb754884b78b5bc9bb554131" sha1="8dd26603a26fd6177d97845748e66fbabf93353f" sha256="6238ace8e0d2d3089aa1f4de65fd893d60d9a124bc02b7c3b7e73d9533212a2d" serial="MK-01187-00"/>
 	</game>
-	<game name="Light Crusader (Japan) (En,Ja) (Mega Drive Mini)" id="2554" cloneofid="0749">
+	<game name="Light Crusader (Japan) (En,Ja) (Mega Drive Mini, Genesis Mini)" id="2554" cloneofid="0749">
 		<category>Games</category>
-		<description>Light Crusader (Japan) (En,Ja) (Mega Drive Mini)</description>
-		<rom name="Light Crusader (Japan) (En,Ja) (Mega Drive Mini).md" size="2097152" crc="f6550938" md5="7e3b7318db56ffd148cb35f031baa968" sha1="8e283b602ac5215f507b80ef5cab7638ceff58a9" sha256="f87595a51c7ab669f4e4f74413c3da0bf8f8d9ed75185f2a0be4be990ff808e5" serial="G-005545-00"/>
+		<description>Light Crusader (Japan) (En,Ja) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Light Crusader (Japan) (En,Ja) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="f6550938" md5="7e3b7318db56ffd148cb35f031baa968" sha1="8e283b602ac5215f507b80ef5cab7638ceff58a9" sha256="f87595a51c7ab669f4e4f74413c3da0bf8f8d9ed75185f2a0be4be990ff808e5" serial="G-005545-00"/>
 	</game>
 	<game name="Light Crusader (USA) (Beta 1)" id="3669" cloneofid="0749">
 		<category>Games</category>
@@ -6973,10 +6973,10 @@
 		<description>Mega lo Mania (Japan)</description>
 		<rom name="Mega lo Mania (Japan).md" size="1048576" crc="a60d8619" md5="6d294b1a2c901ae61774754f6f533a34" sha1="66e391c69dfbe7329654550ebf4464b4f426c5a0" sha256="d95a4a99592ef527e9175ee3f8eaefdb936635f9395738a6755df571b0bbe9df" serial="T-68053-00"/>
 	</game>
-	<game name="Mega Man - The Wily Wars (USA) (Genesis Mini)" id="2406" cloneofid="0818">
+	<game name="Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini)" id="2406" cloneofid="0818">
 		<category>Games</category>
-		<description>Mega Man - The Wily Wars (USA) (Genesis Mini)</description>
-		<rom name="Mega Man - The Wily Wars (USA) (Genesis Mini).md" size="2097152" crc="0cd405db" md5="8e860e4f7c7ee5febad9134a56766112" sha1="26ad72719991e94dbe477c78e65d68f4a4fe51e6" sha256="c3e5e56c1252de5a1ff3bb68b47366120f2c85d333a9ca0eb6df3dab1b03e583" serial="T-12053-00"/>
+		<description>Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="0cd405db" md5="8e860e4f7c7ee5febad9134a56766112" sha1="26ad72719991e94dbe477c78e65d68f4a4fe51e6" sha256="c3e5e56c1252de5a1ff3bb68b47366120f2c85d333a9ca0eb6df3dab1b03e583" serial="T-12053-00"/>
 	</game>
 	<game name="Mega Man - The Wily Wars (World) (Retro-Bit)" id="2675" cloneofid="0818">
 		<category>Games</category>
@@ -7403,10 +7403,10 @@
 		<description>Monster World IV (USA, Europe) (En,Ja) (Virtual Console)</description>
 		<rom name="Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md" size="2097152" crc="af050c46" md5="2640c0b879dd52db3e328c14c36095f0" sha1="6c90e14b6dd1ce6fc33f74dc624edc2e00fc5038" sha256="6ed8588492f963015ba173cd4fc0cb6a2680bb6374fd930fcad757605dcfd70d" status="verified" serial="G-9999-00"/>
 	</game>
-	<game name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)" id="2447" cloneofid="0860">
+	<game name="Monster World IV (World) (En,Ja) (Mega Drive Mini, Genesis Mini)" id="2447" cloneofid="0860">
 		<category>Games</category>
-		<description>Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)</description>
-		<rom name="Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec" serial="G-9999-00"/>
+		<description>Monster World IV (World) (En,Ja) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Monster World IV (World) (En,Ja) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" sha256="4a6957d54c6a7175ed3261431fac421ad0026a79fc904885ce9d117ed967d8ec" serial="G-9999-00"/>
 	</game>
 	<game name="Mortal Kombat (World) (Beta)" id="2619" cloneofid="0861">
 		<category>Games</category>
@@ -8843,10 +8843,10 @@
 		<description>Phantasy Star - Sennenki no Owari ni (Japan) (SEGA Classic Collection)</description>
 		<rom name="Phantasy Star - Sennenki no Owari ni (Japan) (SEGA Classic Collection).md" size="3145728" crc="fe45f95d" md5="eca2b3133b23e02f29a484d7ae02177e" sha1="15f9c3e2756eaa0d83d03d7b0024970b45c44d6a" sha256="4a8781e37b6b47ba177dd1fe03fba58a628b94e1f2cffe502c231aa1948a3ac3" status="verified" serial="G-5524-00"/>
 	</game>
-	<game name="Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)" id="2561" cloneofid="1716">
+	<game name="Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini, Genesis Mini)" id="2561" cloneofid="1716">
 		<category>Games</category>
-		<description>Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)</description>
-		<rom name="Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini).md" size="4194304" crc="b23cd7aa" md5="705f36f4f50c49cc3dfa0999cc715cd9" sha1="e0ebd4ed95eeabb47b2c59b8fb779536fc397974" sha256="43a3374478da06843c8b67af6cadfc30794b44fc169e1910043e5c344ce816ca" serial="G-5524-00"/>
+		<description>Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini, Genesis Mini).md" size="4194304" crc="b23cd7aa" md5="705f36f4f50c49cc3dfa0999cc715cd9" sha1="e0ebd4ed95eeabb47b2c59b8fb779536fc397974" sha256="43a3374478da06843c8b67af6cadfc30794b44fc169e1910043e5c344ce816ca" serial="G-5524-00"/>
 	</game>
 	<game name="Phantasy Star Fukkokuban (Japan)" id="1759">
 		<category>Games</category>
@@ -8924,10 +8924,10 @@
 		<description>Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)</description>
 		<rom name="Phantasy Star II - Kaerazaru Toki no Owari ni (Japan).md" size="786432" crc="bec8eb5a" md5="ad692c895d5c2cab7b616df2135ea3b4" sha1="fc186c681e110723b4be5590f242c73d5004c8a7" sha256="e422c8b981cf5213026f87bffec7c7c758fa0a740eccb82563299360f3fb6982" status="verified" serial="00005501-00"/>
 	</game>
-	<game name="Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2)" id="3183" cloneofid="0999">
+	<game name="Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2, Genesis Mini 2)" id="3183" cloneofid="0999">
 		<category>Games</category>
-		<description>Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2)</description>
-		<rom name="Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2).md" size="787456" crc="f85cc51f" md5="6dc451da0f42c6eb5056a9a974348a3f" sha1="ec5a8b1b19b6229f2bc31d2474e7a8709d5f648c" sha256="8ba571b806e5d84d50784d7b35607df9021b94e24aa1d85bfc358bc29bcb5ffe" serial="00005501-00"/>
+		<description>Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2, Genesis Mini 2).md" size="787456" crc="f85cc51f" md5="6dc451da0f42c6eb5056a9a974348a3f" sha1="ec5a8b1b19b6229f2bc31d2474e7a8709d5f648c" sha256="8ba571b806e5d84d50784d7b35607df9021b94e24aa1d85bfc358bc29bcb5ffe" serial="00005501-00"/>
 	</game>
 	<game name="Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)" id="2783" cloneofid="0043">
 		<category>Games</category>
@@ -9003,10 +9003,10 @@
 		<description>Phantasy Star IV (USA) (Beta 5)</description>
 		<rom name="Phantasy Star IV (USA) (Beta 5).md" size="3145728" crc="bda29cdf" md5="7bd2c6584501593d399ce2b943543b54" sha1="e0c3de9991a03fd48dc85caae6415aaac016ab4a" sha256="d9f41e60191976797f555b4a402ccddaf6dfc66fd9e39aca5406dc69a49ff212" serial="MK-1307-00"/>
 	</game>
-	<game name="Phantasy Star IV (USA) (Genesis Mini)" id="2560" cloneofid="1716">
+	<game name="Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)" id="2560" cloneofid="1716">
 		<category>Games</category>
-		<description>Phantasy Star IV (USA) (Genesis Mini)</description>
-		<rom name="Phantasy Star IV (USA) (Genesis Mini).md" size="4194304" crc="2ee18bc3" md5="fb78e5fb68d21e38e5f11fd318db793c" sha1="0a872a253790001972c52bb515f7b209bf0c7bed" sha256="b1ad52b255c0be01685dc6a4cfea574e28efaca2f4f92a52cb9ad07367ce492a" serial="MK-1307-00"/>
+		<description>Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini).md" size="4194304" crc="2ee18bc3" md5="fb78e5fb68d21e38e5f11fd318db793c" sha1="0a872a253790001972c52bb515f7b209bf0c7bed" sha256="b1ad52b255c0be01685dc6a4cfea574e28efaca2f4f92a52cb9ad07367ce492a" serial="MK-1307-00"/>
 	</game>
 	<game name="Phantasy Star IV (Europe)" id="1716">
 		<category>Games</category>
@@ -9380,10 +9380,10 @@
 		<description>Probotector (Europe) (En,Fr,De)</description>
 		<rom name="Probotector (Europe) (En,Fr,De).md" size="2097152" crc="bc597d48" md5="22289fe42b00a5fe5df3299747480fc0" sha1="69d905751ffa6a921586767263e45ddeb73333c2" sha256="4b4a09723b8eab0d7b8ef9ff3f004f125a4a33031beb60ad1e4e5abd881c923f" status="verified" serial="T-95106-00"/>
 	</game>
-	<game name="Probotector (Europe) (En,Fr,De) (Mega Drive Mini)" id="2557" cloneofid="1045">
+	<game name="Probotector (Europe) (En,Fr,De) (Mega Drive Mini, Genesis Mini)" id="2557" cloneofid="1045">
 		<category>Games</category>
-		<description>Probotector (Europe) (En,Fr,De) (Mega Drive Mini)</description>
-		<rom name="Probotector (Europe) (En,Fr,De) (Mega Drive Mini).md" size="2097152" crc="6ed9e471" md5="a46bbf43a8f349cb42eec80199add3fc" sha1="e71fb4c18f6e878f2ce8eb6c26c46523b19dbc0e" sha256="dc55db650ebe355bcb5ef49c9e232e94185787f21580313dce7b0aabeecbc808" serial="T-95106-00"/>
+		<description>Probotector (Europe) (En,Fr,De) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Probotector (Europe) (En,Fr,De) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="6ed9e471" md5="a46bbf43a8f349cb42eec80199add3fc" sha1="e71fb4c18f6e878f2ce8eb6c26c46523b19dbc0e" sha256="dc55db650ebe355bcb5ef49c9e232e94185787f21580313dce7b0aabeecbc808" serial="T-95106-00"/>
 	</game>
 	<game name="Probotector (Europe) (En,Fr,De) (Contra Anniversary Collection)" id="2613" cloneofid="1045">
 		<category>Games</category>
@@ -9923,15 +9923,15 @@
 		<description>Road Rash II (USA, Europe) (Rev 1)</description>
 		<rom name="Road Rash II (USA, Europe) (Rev 1).md" size="1048576" crc="0876e992" md5="062ed2f4e698bd8c61ebb1ee74a08d2b" sha1="9afea43ed627671b50dd4a2abdd043b235414b91" sha256="c7a609019b1f052bcee6204a3a09ea77a5150a748de90b51382fedf4df207848" status="verified" serial="T-50496-02"/>
 	</game>
-	<game name="Road Rash II (USA) (Genesis Mini)" id="2562" cloneofid="1103">
+	<game name="Road Rash II (USA) (Mega Drive Mini, Genesis Mini)" id="2562" cloneofid="1103">
 		<category>Games</category>
-		<description>Road Rash II (USA) (Genesis Mini)</description>
-		<rom name="Road Rash II (USA) (Genesis Mini).md" size="1048576" crc="c25abd9e" md5="b67a30513aa0ba4bc5795815e4df3a7c" sha1="873ed46f53fb70898bfd7bbf3af682762dcb58c1" sha256="834c49b2feae4f8362c8dcb46586cb4b6a3b5ecf9238d2c768d6ee3da4ab5bd2" serial="T-50496-XX"/>
+		<description>Road Rash II (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Road Rash II (USA) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="c25abd9e" md5="b67a30513aa0ba4bc5795815e4df3a7c" sha1="873ed46f53fb70898bfd7bbf3af682762dcb58c1" sha256="834c49b2feae4f8362c8dcb46586cb4b6a3b5ecf9238d2c768d6ee3da4ab5bd2" serial="T-50496-XX"/>
 	</game>
-	<game name="Road Rash II (Japan) (Mega Drive Mini)" id="2563" cloneofid="1103">
+	<game name="Road Rash II (Japan) (Mega Drive Mini, Genesis Mini)" id="2563" cloneofid="1103">
 		<category>Games</category>
-		<description>Road Rash II (Japan) (Mega Drive Mini)</description>
-		<rom name="Road Rash II (Japan) (Mega Drive Mini).md" size="1048576" crc="6cfa9048" md5="d248cf93526141751a08d2b7e1097f0c" sha1="534db7b1bbe571667fd8df575d5cdf3e7fa72ebb" sha256="18efad47f28493b75bff24e3f98803e63568b57d8422cb3ca9539eae887e5101" serial="T-106143-00"/>
+		<description>Road Rash II (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Road Rash II (Japan) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="6cfa9048" md5="d248cf93526141751a08d2b7e1097f0c" sha1="534db7b1bbe571667fd8df575d5cdf3e7fa72ebb" sha256="18efad47f28493b75bff24e3f98803e63568b57d8422cb3ca9539eae887e5101" serial="T-106143-00"/>
 	</game>
 	<game name="Road Riot 4WD (USA) (Proto)" id="2651">
 		<category>Games</category>
@@ -10044,10 +10044,10 @@
 		<description>Rockheaven (Asia) (Ja) (Pirate)</description>
 		<rom name="Rockheaven (Asia) (Ja) (Pirate).md" size="524288" crc="dab4dfdd" md5="e2270de9a25549f5255ede8fcecb24da" sha1="5e5ca20b39122c86b8f662bd8014af674f9dbed7" sha256="d5ea8cfe35c72d9001c6686202ba2ee026ae8296055f4e5b66b5a2f27c4f8152" serial="00054004-00"/>
 	</game>
-	<game name="Rockman - Mega World (Japan) (Mega Drive Mini)" id="2407" cloneofid="0818">
+	<game name="Rockman - Mega World (Japan) (Mega Drive Mini, Genesis Mini)" id="2407" cloneofid="0818">
 		<category>Games</category>
-		<description>Rockman - Mega World (Japan) (Mega Drive Mini)</description>
-		<rom name="Rockman - Mega World (Japan) (Mega Drive Mini).md" size="2097152" crc="e8f5668e" md5="f36771942c483192c6f4c3e1127888b1" sha1="77de1a2bdc359044e8aec5a3bcd6a5d878d23837" sha256="2db2c7f80c9dd9186cb992ca76701e9aac32d832e055d6055395f18c03a573b4" serial="T-12053-00"/>
+		<description>Rockman - Mega World (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Rockman - Mega World (Japan) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="e8f5668e" md5="f36771942c483192c6f4c3e1127888b1" sha1="77de1a2bdc359044e8aec5a3bcd6a5d878d23837" sha256="2db2c7f80c9dd9186cb992ca76701e9aac32d832e055d6055395f18c03a573b4" serial="T-12053-00"/>
 	</game>
 	<game name="Rockman - Mega World (Japan)" id="1117" cloneofid="0818">
 		<category>Games</category>
@@ -10530,15 +10530,15 @@
 		<description>Shining Force (Europe)</description>
 		<rom name="Shining Force (Europe).md" size="2097152" crc="b7278199" md5="7e0258c690ae3f196bd71babc54bd0e9" sha1="fee06e4ea724596ce844140186a765c251f2d626" sha256="f77f8be6a2087f7705b2999db9fee7e4cf1611af3cbfed7090b1015cd2877ec2" status="verified" serial="MK-1312-00"/>
 	</game>
-	<game name="Shining Force (USA) (Genesis Mini)" id="2566" cloneofid="1728">
+	<game name="Shining Force (USA) (Mega Drive Mini, Genesis Mini)" id="2566" cloneofid="1728">
 		<category>Games</category>
-		<description>Shining Force (USA) (Genesis Mini)</description>
-		<rom name="Shining Force (USA) (Genesis Mini).md" size="2097152" crc="4391175e" md5="d5a3f42342db34f29d180d264da5cb66" sha1="1a267c5b2acc6fab0496b880c5c1a62a01420a1d" sha256="fa8e0d33833a2a851e8a57ac1a63cd372bfe49eb5405472bd1f8991035bc5ee0" serial="MK-1312-00"/>
+		<description>Shining Force (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Shining Force (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="4391175e" md5="d5a3f42342db34f29d180d264da5cb66" sha1="1a267c5b2acc6fab0496b880c5c1a62a01420a1d" sha256="fa8e0d33833a2a851e8a57ac1a63cd372bfe49eb5405472bd1f8991035bc5ee0" serial="MK-1312-00"/>
 	</game>
-	<game name="Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)" id="2567" cloneofid="1728">
+	<game name="Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini, Genesis Mini)" id="2567" cloneofid="1728">
 		<category>Games</category>
-		<description>Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)</description>
-		<rom name="Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini).md" size="2097152" crc="45416aa9" md5="1c8b419c9b1b7fa60780ff1873a8a2e2" sha1="bb9498f75b4025a432c1794a88af9d20331771e1" sha256="f0dafe5778279eb59a805cf0aa50ed18b38f2f8e4ebc90d61060db9d91f20405" serial="G-5512-00"/>
+		<description>Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="45416aa9" md5="1c8b419c9b1b7fa60780ff1873a8a2e2" sha1="bb9498f75b4025a432c1794a88af9d20331771e1" sha256="f0dafe5778279eb59a805cf0aa50ed18b38f2f8e4ebc90d61060db9d91f20405" serial="G-5512-00"/>
 	</game>
 	<game name="Shining Force - Kamigami no Isan (Japan)" id="1176" cloneofid="1728">
 		<category>Games</category>
@@ -10609,10 +10609,10 @@
 		<description>Shinobi III - Return of the Ninja Master (USA) (Beta)</description>
 		<rom name="Shinobi III - Return of the Ninja Master (USA) (Beta).md" size="1048576" crc="ed32899a" md5="26e5eab89da62190733ffa83d939f874" sha1="bb504d035612daa91c88d4a876a665ffca56efe3" sha256="45c2abd8179d29a9bb9d2adff9b76fe754b391d8d1dffd783818c5bf411e751f" serial="MK-1136-00"/>
 	</game>
-	<game name="Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)" id="2568" cloneofid="1182">
+	<game name="Shinobi III - Return of the Ninja Master (USA) (Mega Drive Mini, Genesis Mini)" id="2568" cloneofid="1182">
 		<category>Games</category>
-		<description>Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)</description>
-		<rom name="Shinobi III - Return of the Ninja Master (USA) (Genesis Mini).md" size="1048576" crc="c0f1de3c" md5="96ce4719e6525b5411e449ddb38630ff" sha1="a9e23c79662949e465f0ac233203dc6039e54867" sha256="c0e4d7205090c45c639eaaab44de3cc8d0afc3210bd26945692d8e4452d93920" serial="MK-1136"/>
+		<description>Shinobi III - Return of the Ninja Master (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Shinobi III - Return of the Ninja Master (USA) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="c0f1de3c" md5="96ce4719e6525b5411e449ddb38630ff" sha1="a9e23c79662949e465f0ac233203dc6039e54867" sha256="c0e4d7205090c45c639eaaab44de3cc8d0afc3210bd26945692d8e4452d93920" serial="MK-1136"/>
 	</game>
 	<game name="Shinobi III - Return of the Ninja Master (Europe)" id="1182">
 		<category>Games</category>
@@ -11093,10 +11093,10 @@
 		<description>Sonic Spinball (Europe) (Beta)</description>
 		<rom name="Sonic Spinball (Europe) (Beta).md" size="1048576" crc="c203c557" md5="5c8462f885aabd7c7921dc029ee62d49" sha1="1b17e659f8a18656c36b8e26cc997c0d8312761b" sha256="3a60d69ba6c290f553deb893bf29adf63300befc2582756b69b93fe974db51a5" serial="MK-1537-00"/>
 	</game>
-	<game name="Sonic Spinball (Europe) (Mega Drive Mini)" id="2578" cloneofid="1225">
+	<game name="Sonic Spinball (Europe) (Mega Drive Mini, Genesis Mini)" id="2578" cloneofid="1225">
 		<category>Games</category>
-		<description>Sonic Spinball (Europe) (Mega Drive Mini)</description>
-		<rom name="Sonic Spinball (Europe) (Mega Drive Mini).md" size="1048576" crc="2c828e46" md5="81b12228005b3af373574f89ab92fe66" sha1="18efc8ed1b5deac3c9d763242e555f479606839b" sha256="8cc844cd9c1e117f3ad0beb035724d6b5f3762c3cab540347808006996634074" serial="MK-1537-00"/>
+		<description>Sonic Spinball (Europe) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Sonic Spinball (Europe) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="2c828e46" md5="81b12228005b3af373574f89ab92fe66" sha1="18efc8ed1b5deac3c9d763242e555f479606839b" sha256="8cc844cd9c1e117f3ad0beb035724d6b5f3762c3cab540347808006996634074" serial="MK-1537-00"/>
 	</game>
 	<game name="Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)" id="2453" cloneofid="1231">
 		<category>Games</category>
@@ -11511,10 +11511,10 @@
 		<description>Star Mobile (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2)</description>
 		<rom name="Star Mobile (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2).md" size="262144" crc="39466559" md5="b44c1bb75a4bf3d340e2dccf65e91d0e" sha1="b52517cfe78d752b3082c24a31b2b536d4c4acde" sha256="6b75e68d3bd85bff5fbba6298170d8e46a2abd746d8b0dd01460e02d8094e9a8" serial="XXXXXXXX-XX"/>
 	</game>
-	<game name="Star Mobile (Japan) (Mega Drive Mini 2)" id="3177" cloneofid="3176">
+	<game name="Star Mobile (Japan) (Mega Drive Mini 2, Genesis Mini 2)" id="3177" cloneofid="3176">
 		<category>Games</category>
-		<description>Star Mobile (Japan) (Mega Drive Mini 2)</description>
-		<rom name="Star Mobile (Japan) (Mega Drive Mini 2).md" size="262144" crc="e4d0d259" md5="fbb375915dab3fa48c5f2ada7a31588f" sha1="d23335da0988630d38bd4caa44a3fa9fb355277b" sha256="f814c9babf9057dbc0be14fd20190aeb07f48634858abde64e271a759d3f8e32" serial="XXXXXXXX-XX"/>
+		<description>Star Mobile (Japan) (Mega Drive Mini 2, Genesis Mini 2)</description>
+		<rom name="Star Mobile (Japan) (Mega Drive Mini 2, Genesis Mini 2).md" size="262144" crc="e4d0d259" md5="fbb375915dab3fa48c5f2ada7a31588f" sha1="d23335da0988630d38bd4caa44a3fa9fb355277b" sha256="f814c9babf9057dbc0be14fd20190aeb07f48634858abde64e271a759d3f8e32" serial="XXXXXXXX-XX"/>
 	</game>
 	<game name="Star Mobile (Japan) (Proto)" id="3696" cloneofid="3176">
 		<category>Games</category>
@@ -11718,20 +11718,20 @@
 		<description>Story of Thor, The (Europe) (Beta 3)</description>
 		<rom name="Story of Thor, The (Europe) (Beta 3).md" size="3145728" crc="aa43d34a" md5="987df3046f62d9b6c2140b688e3ef559" sha1="e4b25941aefb58073784616acf7ca7458b213bee" sha256="208baeaf25bc2c4a85323f41611f6d8e332e9a65b4d6d933aa8c56fd5c046d38" serial="MK-1354-00"/>
 	</game>
-	<game name="Story of Thor, The (Europe) (Mega Drive Mini)" id="2549" cloneofid="1287">
+	<game name="Story of Thor, The (Europe) (Mega Drive Mini, Genesis Mini)" id="2549" cloneofid="1287">
 		<category>Games</category>
-		<description>Story of Thor, The (Europe) (Mega Drive Mini)</description>
-		<rom name="Story of Thor, The (Europe) (Mega Drive Mini).md" size="3145728" crc="8cd9053f" md5="9b18a3f750cc7000181f864d9898db37" sha1="30f6d0ba72372a09497829b5fdb5a3f27440bcaf" sha256="fd40b7cf38ee213cb9ca121ac438269075e9efa0bd4eacade83f2df268ad0608" serial="MK-1354-00"/>
+		<description>Story of Thor, The (Europe) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Story of Thor, The (Europe) (Mega Drive Mini, Genesis Mini).md" size="3145728" crc="8cd9053f" md5="9b18a3f750cc7000181f864d9898db37" sha1="30f6d0ba72372a09497829b5fdb5a3f27440bcaf" sha256="fd40b7cf38ee213cb9ca121ac438269075e9efa0bd4eacade83f2df268ad0608" serial="MK-1354-00"/>
 	</game>
-	<game name="Story of Thor, The (Germany) (Mega Drive Mini)" id="2550" cloneofid="1287">
+	<game name="Story of Thor, The (Germany) (Mega Drive Mini, Genesis Mini)" id="2550" cloneofid="1287">
 		<category>Games</category>
-		<description>Story of Thor, The (Germany) (Mega Drive Mini)</description>
-		<rom name="Story of Thor, The (Germany) (Mega Drive Mini).md" size="3145728" crc="244d768b" md5="0670b2bcabed94c9848a3390610ee879" sha1="cefcf3b07385062dcc185308249b55a39109d3fe" sha256="a2b90411d98f9691d2e99c521f3df2e4c688df83205561b3d2018c118e33c019" serial="MK-1354-00"/>
+		<description>Story of Thor, The (Germany) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Story of Thor, The (Germany) (Mega Drive Mini, Genesis Mini).md" size="3145728" crc="244d768b" md5="0670b2bcabed94c9848a3390610ee879" sha1="cefcf3b07385062dcc185308249b55a39109d3fe" sha256="a2b90411d98f9691d2e99c521f3df2e4c688df83205561b3d2018c118e33c019" serial="MK-1354-00"/>
 	</game>
-	<game name="Story of Thor, The (Spain) (Mega Drive Mini)" id="2551" cloneofid="1287">
+	<game name="Story of Thor, The (Spain) (Mega Drive Mini, Genesis Mini)" id="2551" cloneofid="1287">
 		<category>Games</category>
-		<description>Story of Thor, The (Spain) (Mega Drive Mini)</description>
-		<rom name="Story of Thor, The (Spain) (Mega Drive Mini).md" size="3145728" crc="dbf84ca5" md5="9188fd192fb9c12d34395521be900aac" sha1="ccc2c530f47f59383d9dc05a0eddb6bc1050d434" sha256="ca40f1ef922c71d37ea0c817d5a17beea322a25462bd5d95b12682e1bd6c1d51" serial="MK-1354-00"/>
+		<description>Story of Thor, The (Spain) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Story of Thor, The (Spain) (Mega Drive Mini, Genesis Mini).md" size="3145728" crc="dbf84ca5" md5="9188fd192fb9c12d34395521be900aac" sha1="ccc2c530f47f59383d9dc05a0eddb6bc1050d434" sha256="ca40f1ef922c71d37ea0c817d5a17beea322a25462bd5d95b12682e1bd6c1d51" serial="MK-1354-00"/>
 	</game>
 	<game name="Story of Thor, The - Hikari o Tsugumono (Japan)" id="1292" cloneofid="1287">
 		<category>Games</category>
@@ -11932,10 +11932,10 @@
 		<description>Streets of Rage 3 (Europe) (Beta 5)</description>
 		<rom name="Streets of Rage 3 (Europe) (Beta 5).md" size="3145728" crc="7033878a" md5="15b4b1ac90295f153e4f5b860c355fa9" sha1="8a8cfc1e75f89cf72d7d783b29238f4a8b3ff568" sha256="e997a9d4f9f2b8ead83d83580a8e5756289fc1f1a9c43a8b2d1080af4ead7e31" serial="MK-1539-00"/>
 	</game>
-	<game name="Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini)" id="2570" cloneofid="0158">
+	<game name="Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini, Genesis Mini)" id="2570" cloneofid="0158">
 		<category>Games</category>
-		<description>Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini)</description>
-		<rom name="Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini).md" size="2097152" crc="c48b3698" md5="f1f726e5aca9bf49df540bf189b75e05" sha1="0073a7e69f95739649a333de7f30d76edf39aabf" sha256="ca2e13037f949c540669048d446452cd54f85a1e8cd5b95997452b1b5cb8b79a" serial="MK-1054-00"/>
+		<description>Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="c48b3698" md5="f1f726e5aca9bf49df540bf189b75e05" sha1="0073a7e69f95739649a333de7f30d76edf39aabf" sha256="ca2e13037f949c540669048d446452cd54f85a1e8cd5b95997452b1b5cb8b79a" serial="MK-1054-00"/>
 	</game>
 	<game name="Streets of Rage II (Japan, Europe) (En,Ja)" id="0158">
 		<category>Games</category>
@@ -11972,10 +11972,10 @@
 		<description>Strider Hiryuu (Japan) (Rev A) (Virtual Console)</description>
 		<rom name="Strider Hiryuu (Japan) (Rev A) (Virtual Console).md" size="1048576" crc="62b2fd97" md5="6607372220b6785dc31c54bbb218ace5" sha1="54a64e1572f539d217ddb15008bf6f94f1b42042" sha256="c3ac3e8be2197a0e45a76d3fe3534f42ded9d42ac5fc4f1e4d9168edabdd99f6" serial="00004037-01"/>
 	</game>
-	<game name="Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)" id="2571" cloneofid="1302">
+	<game name="Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini, Genesis Mini)" id="2571" cloneofid="1302">
 		<category>Games</category>
-		<description>Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)</description>
-		<rom name="Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini).md" size="1048576" crc="f38c0ed3" md5="5e47dc4ed6fbfba39dcc6572ea17b410" sha1="593565c58d13bf68a6a9820214309e43508be2ad" sha256="31f3fb07680335a2458997830fa7304458247a2d7d98d037b029e02c36e966b0" status="verified" serial="00004037-01"/>
+		<description>Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="f38c0ed3" md5="5e47dc4ed6fbfba39dcc6572ea17b410" sha1="593565c58d13bf68a6a9820214309e43508be2ad" sha256="31f3fb07680335a2458997830fa7304458247a2d7d98d037b029e02c36e966b0" status="verified" serial="00004037-01"/>
 	</game>
 	<game name="Strider II (Europe)" id="1304">
 		<category>Games</category>
@@ -12097,10 +12097,10 @@
 		<description>Super Fantasy Zone (Japan) (En,Ja)</description>
 		<rom name="Super Fantasy Zone (Japan) (En,Ja).md" size="1048576" crc="767780d7" md5="f5683f3b2c24cdd7bc6771ea87efeacf" sha1="14dc8568205f3b1b89ce14b9412541ce4ae47f91" sha256="14a25cd6ab568dff92a1d75666ca7d906510d27af2e1824bc8990bbfb523d607" serial="T-15023-00"/>
 	</game>
-	<game name="Super Fantasy Zone (USA) (En,Ja) (Genesis Mini)" id="2448" cloneofid="1322">
+	<game name="Super Fantasy Zone (USA) (En,Ja) (Mega Drive Mini, Genesis Mini)" id="2448" cloneofid="1322">
 		<category>Games</category>
-		<description>Super Fantasy Zone (USA) (En,Ja) (Genesis Mini)</description>
-		<rom name="Super Fantasy Zone (USA) (En,Ja) (Genesis Mini).md" size="1048576" crc="d97d913d" md5="9ab60ccbb50445109f1acba46be14f50" sha1="71d3816e1fd6d49afb64631605dba40cc7f3b5b5" sha256="6cc6a73028bc30799248f7f8c3e9974d58727d61f69c75fe8c1dc35e6571cb28" serial="T-15023-00"/>
+		<description>Super Fantasy Zone (USA) (En,Ja) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Super Fantasy Zone (USA) (En,Ja) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="d97d913d" md5="9ab60ccbb50445109f1acba46be14f50" sha1="71d3816e1fd6d49afb64631605dba40cc7f3b5b5" sha256="6cc6a73028bc30799248f7f8c3e9974d58727d61f69c75fe8c1dc35e6571cb28" serial="T-15023-00"/>
 	</game>
 	<game name="Super H.Q. (Japan)" id="1324" cloneofid="0268">
 		<category>Games</category>
@@ -12800,15 +12800,15 @@
 		<description>Tetris (Japan) (En) (Mega 6)</description>
 		<rom name="Tetris (Japan) (En) (Mega 6).md" size="262144" crc="4ce90db0" md5="ab307f2a1d9f7b42a49f27445f711ba3" sha1="2f2b559c5855e34500e43fb5cc8aff04dd72eb56" sha256="87801f642d9adf00948565a695c4f74f4320f7cb085bd8fcb7667abce59e2979" serial="00004007-00"/>
 	</game>
-	<game name="Tetris (USA) (Genesis Mini)" id="2415">
+	<game name="Tetris (USA) (Mega Drive Mini, Genesis Mini)" id="2415">
 		<category>Games</category>
-		<description>Tetris (USA) (Genesis Mini)</description>
-		<rom name="Tetris (USA) (Genesis Mini).md" size="524288" crc="c8dd8841" md5="9ffa2c2e2f57ed445490306fc367bbe5" sha1="1079fee1fd044f16caf641d6b96f84143a6ceceb" sha256="1c5491fdb44246cdd38874eb305e87255090e8ceb12a04b6a70de793d6701a01" serial="XXXXXXXX-XX"/>
+		<description>Tetris (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Tetris (USA) (Mega Drive Mini, Genesis Mini).md" size="524288" crc="c8dd8841" md5="9ffa2c2e2f57ed445490306fc367bbe5" sha1="1079fee1fd044f16caf641d6b96f84143a6ceceb" sha256="1c5491fdb44246cdd38874eb305e87255090e8ceb12a04b6a70de793d6701a01" serial="XXXXXXXX-XX"/>
 	</game>
-	<game name="Tetris (Japan) (Mega Drive Mini)" id="2573" cloneofid="2415">
+	<game name="Tetris (Japan) (Mega Drive Mini, Genesis Mini)" id="2573" cloneofid="2415">
 		<category>Games</category>
-		<description>Tetris (Japan) (Mega Drive Mini)</description>
-		<rom name="Tetris (Japan) (Mega Drive Mini).md" size="524288" crc="b6fb7a7d" md5="f5f0cf3a6765c50915bbb0af2c02723c" sha1="dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca" sha256="63f668bc16e648450728bf2e8123ef4a1c996395595a013dbb1d9f21bd7db6f8" status="verified" serial="XXXXXXXX-XX"/>
+		<description>Tetris (Japan) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Tetris (Japan) (Mega Drive Mini, Genesis Mini).md" size="524288" crc="b6fb7a7d" md5="f5f0cf3a6765c50915bbb0af2c02723c" sha1="dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca" sha256="63f668bc16e648450728bf2e8123ef4a1c996395595a013dbb1d9f21bd7db6f8" status="verified" serial="XXXXXXXX-XX"/>
 	</game>
 	<game name="Theme Park (USA, Europe) (En,Fr,De,Es)" id="1411">
 		<category>Games</category>
@@ -13078,15 +13078,15 @@
 		<description>Tom Mason's Dinosaurs for Hire (USA) (Beta 1)</description>
 		<rom name="Tom Mason's Dinosaurs for Hire (USA) (Beta 1).md" size="1048576" crc="3a538d98" md5="dfd00ced5a0cf06ad6ce2930707e4b23" sha1="001ea3f0648264ef9e206a1ca85bf7d7ef113517" sha256="2be5d6fd9e6e8b2cb15532ba6403b34e7f61c63d46c943e0143a557918ac6b2b" serial="MK-1035-00"/>
 	</game>
-	<game name="Tommy Lasorda Baseball (USA)" id="2205" cloneofid="1332">
-		<category>Games</category>
-		<description>Tommy Lasorda Baseball (USA)</description>
-		<rom name="Tommy Lasorda Baseball (USA).md" size="524288" crc="aa3965db" md5="1d4e55cb51b89942e12d27f9794122c2" sha1="057004754c9bfd8bbbc107a69681ae0977b664de" sha256="4f26311d801ec41f94074f0212827b5f141ec62ea5c21181dfac02f9e70a284d" serial="00004006-00"/>
-	</game>
 	<game name="Tommy Lasorda Baseball (USA) (Rev A)" id="1443" cloneofid="1332">
 		<category>Games</category>
 		<description>Tommy Lasorda Baseball (USA) (Rev A)</description>
 		<rom name="Tommy Lasorda Baseball (USA) (Rev A).md" size="524288" crc="4fb50304" md5="9edf4e2024d5bba29748b580930a1ea4" sha1="dde1b2465f54f4f6f485c1ba063ff47c5d1baf27" sha256="77ba96b81d2996c9c286615e9d47f1e3b9bf3f9dcf01525497b89fe2a17dd616" status="verified" serial="00004006-00"/>
+	</game>
+	<game name="Tommy Lasorda Baseball (USA)" id="2205" cloneofid="1332">
+		<category>Games</category>
+		<description>Tommy Lasorda Baseball (USA)</description>
+		<rom name="Tommy Lasorda Baseball (USA).md" size="524288" crc="aa3965db" md5="1d4e55cb51b89942e12d27f9794122c2" sha1="057004754c9bfd8bbbc107a69681ae0977b664de" sha256="4f26311d801ec41f94074f0212827b5f141ec62ea5c21181dfac02f9e70a284d" serial="00004006-00"/>
 	</game>
 	<game name="Tony La Russa Baseball (USA, Australia)" id="1444">
 		<category>Games</category>
@@ -13169,16 +13169,16 @@
 		<description>Traysia (USA)</description>
 		<rom name="Traysia (USA).md" size="1048576" crc="96184f4f" md5="98d97dcf65dc2e9489539b9c74ac1af4" sha1="ff0efe6da308919f843a7593e8af7fae82160b0b" sha256="00b4146147fab04c16bb5881f2bd8e5282f67232595163ad3e30a7a95af6afff" serial="T-49166-00"/>
 	</game>
+	<game name="Traysia (World) (Evercade)" id="3362" cloneofid="1456">
+		<category>Games</category>
+		<description>Traysia (World) (Evercade)</description>
+		<rom name="Traysia (World) (Evercade).md" size="1048576" crc="a6353f13" md5="9d833a16ffd5e27fa556f8fb271ddaee" sha1="6528d595ed6dd39922dfd76348166c75f7f7c118" sha256="0adc613db7dc39d9118f03401da00ee66855f2fab25ab4c78ab79f0ba44a786f" serial="T-49166-00"/>
+	</game>
 	<game name="Traysia (USA) (Beta)" id="2206" cloneofid="1456">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Traysia (USA) (Beta)</description>
 		<rom name="Traysia (USA) (Beta).md" size="1048576" crc="daa83cb5" md5="ba86aa750145ca451ed34a8d5a0e284a" sha1="284c7a67843be8b56bba8d9050a6cbaeae3c896b" sha256="f97b65e21611739af0c94395ed6d774c04d3d23b31527bf09a9bfaa7f044c8f7" serial="T-49166-00"/>
-	</game>
-	<game name="Traysia (World) (Evercade)" id="3362" cloneofid="1456">
-		<category>Games</category>
-		<description>Traysia (World) (Evercade)</description>
-		<rom name="Traysia (World) (Evercade).md" size="1048576" crc="a6353f13" md5="9d833a16ffd5e27fa556f8fb271ddaee" sha1="6528d595ed6dd39922dfd76348166c75f7f7c118" sha256="0adc613db7dc39d9118f03401da00ee66855f2fab25ab4c78ab79f0ba44a786f" serial="T-49166-00"/>
 	</game>
 	<game name="Triple Play - Gold Edition (USA)" id="1458">
 		<category>Games</category>
@@ -13195,16 +13195,16 @@
 		<description>Triple Play 96 Special Edition (USA) (Demo) (Sega Channel)</description>
 		<rom name="Triple Play 96 Special Edition (USA) (Demo) (Sega Channel).md" size="3141761" crc="a319dd90" md5="f2e85371597cc7b8b816210ee010e0e7" sha1="b2affbb4245f7c7d0308e723122df9601c963ec4" sha256="a586aa5263aedd03300c386119b944b848063a24fc3bad9e37db9c6b8f516f44" serial="T-xxxxx-00"/>
 	</game>
-	<game name="Trouble Shooter (USA)" id="1459">
-		<category>Games</category>
-		<description>Trouble Shooter (USA)</description>
-		<rom name="Trouble Shooter (USA).md" size="524288" crc="becfc39b" md5="f29c5049a48f37a37b811a22dc731e3c" sha1="3fc9ffa49ece5e9cbba1f2a5ba1dfd068b86c65d" sha256="cc4e6374eb458776a1d184901851d71ecfa26eaa89853fec65cd9a7a533a00a9" status="verified" serial="T-23016"/>
-	</game>
 	<game name="Trouble Shooter (USA) (Beta)" id="2207" cloneofid="1459">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Trouble Shooter (USA) (Beta)</description>
 		<rom name="Trouble Shooter (USA) (Beta).md" size="524288" crc="4ab3033c" md5="a2d9f8c669a59fe39acb8e23d24e6344" sha1="e60aef86ed80283e3f03af581931b57c5487a519" sha256="6cd79af88e497dab213a116969ab0c7720fafe4007ee3a18c3fc9441100779bd" serial="T-23016"/>
+	</game>
+	<game name="Trouble Shooter (USA)" id="1459">
+		<category>Games</category>
+		<description>Trouble Shooter (USA)</description>
+		<rom name="Trouble Shooter (USA).md" size="524288" crc="becfc39b" md5="f29c5049a48f37a37b811a22dc731e3c" sha1="3fc9ffa49ece5e9cbba1f2a5ba1dfd068b86c65d" sha256="cc4e6374eb458776a1d184901851d71ecfa26eaa89853fec65cd9a7a533a00a9" status="verified" serial="T-23016"/>
 	</game>
 	<game name="Troy Aikman NFL Football (USA)" id="1460">
 		<category>Games</category>
@@ -13478,10 +13478,10 @@
 		<description>Vampire Killer (Japan) (En) (Castlevania Anniversary Collection)</description>
 		<rom name="Vampire Killer (Japan) (En) (Castlevania Anniversary Collection).md" size="1048576" crc="238a9b8f" md5="9c7f0f040fec42d7048f6b1842deffb4" sha1="2213b219854890952ba1eb8bf65c0dcf8baa0abf" sha256="8b54eb77b0b56f32b6df458a183b65b4c0bcb8bf48b2f19c43ab805b7e2ab3da" status="verified" serial="T-95043-00"/>
 	</game>
-	<game name="Vampire Killer (Japan) (En) (Mega Drive Mini)" id="2556" cloneofid="0256">
+	<game name="Vampire Killer (Japan) (En) (Mega Drive Mini, Genesis Mini)" id="2556" cloneofid="0256">
 		<category>Games</category>
-		<description>Vampire Killer (Japan) (En) (Mega Drive Mini)</description>
-		<rom name="Vampire Killer (Japan) (En) (Mega Drive Mini).md" size="1048576" crc="db03961b" md5="3fe739c40a79222801fcad6c753e6f11" sha1="aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c" sha256="1c463798e6a1d48c4346483276cda933a341182ccf9801450a6af0bd3e2ceae4" serial="T-95043-00"/>
+		<description>Vampire Killer (Japan) (En) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Vampire Killer (Japan) (En) (Mega Drive Mini, Genesis Mini).md" size="1048576" crc="db03961b" md5="3fe739c40a79222801fcad6c753e6f11" sha1="aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c" sha256="1c463798e6a1d48c4346483276cda933a341182ccf9801450a6af0bd3e2ceae4" serial="T-95043-00"/>
 	</game>
 	<game name="Vampire Killer (Japan) (En)" id="0085" cloneofid="0256">
 		<category>Games</category>
@@ -13505,10 +13505,10 @@
 		<description>Vectorman (USA, Europe) (Beta 1)</description>
 		<rom name="Vectorman (USA, Europe) (Beta 1).md" size="2097152" crc="2084d3da" md5="8c9e5e67cc9a04e328423e71932d6fa7" sha1="e6c0854ff0f5a0b53760677743e9b901b3e5a4b7" sha256="32e573e747f108603d93cadc88b8379bcc01e74ee509f08064dc62245602a754" serial="xx-xxxx-xx"/>
 	</game>
-	<game name="Vectorman (USA) (Genesis Mini)" id="2569" cloneofid="1493">
+	<game name="Vectorman (USA) (Mega Drive Mini, Genesis Mini)" id="2569" cloneofid="1493">
 		<category>Games</category>
-		<description>Vectorman (USA) (Genesis Mini)</description>
-		<rom name="Vectorman (USA) (Genesis Mini).md" size="2097152" crc="b0f8c546" md5="d3aec81b37ec520f37edb910305ff829" sha1="9be6a15c91261e6c77edf6596b53c9bd70394d89" sha256="5cb85a18fa2067575e3ac443295ded92a4fc496f12898d3bbe4ea9a681206af4" serial="MK-1577-00"/>
+		<description>Vectorman (USA) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Vectorman (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="b0f8c546" md5="d3aec81b37ec520f37edb910305ff829" sha1="9be6a15c91261e6c77edf6596b53c9bd70394d89" sha256="5cb85a18fa2067575e3ac443295ded92a4fc496f12898d3bbe4ea9a681206af4" serial="MK-1577-00"/>
 	</game>
 	<game name="Vectorman (USA, Europe) (Beta 2)" id="1492" cloneofid="1493">
 		<category>Games</category>
