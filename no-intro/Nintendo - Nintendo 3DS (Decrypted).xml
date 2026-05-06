@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260504-004344</version>
+		<version>20260505-085920</version>
 		<author>aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1209,7 +1209,7 @@
 	<game name="Code Name - S.T.E.A.M. (USA)" id="1207" cloneofid="1251">
 		<description>Code Name - S.T.E.A.M. (USA)</description>
 		<game_id>0004000000132500</game_id>
-		<rom name="Code Name - S.T.E.A.M. (USA).3ds" size="2147483648" crc="1be4288e" md5="edb61413e0b25ab7f8968665a30dcd72" sha1="25758437274bc209778160d4853131530691d63b" serial="CTR-P-AY6A"/>
+		<rom name="Code Name - S.T.E.A.M. (USA).3ds" size="2147483648" crc="1be4288e" md5="edb61413e0b25ab7f8968665a30dcd72" sha1="25758437274bc209778160d4853131530691d63b" sha256="6501f11c40916ae33b92c1a07d87f41a2d07fdd1c7409f464260afeb0dce44ee" serial="CTR-P-AY6A"/>
 	</game>
 	<game name="Code Name - S.T.E.A.M. (Europe) (En,Fr,De,Es,It)" id="1251">
 		<description>Code Name - S.T.E.A.M. (Europe) (En,Fr,De,Es,It)</description>
@@ -1756,7 +1756,7 @@
 	<game name="Detective Pikachu (USA) (En,Ja,Fr,De,Es,It,Zh)" id="1807" cloneofid="1803">
 		<description>Detective Pikachu (USA) (En,Ja,Fr,De,Es,It,Zh)</description>
 		<game_id>00040000001C1E00</game_id>
-		<rom name="Detective Pikachu (USA) (En,Ja,Fr,De,Es,It,Zh).3ds" size="2147483648" crc="01fb2264" md5="04375b4d9c065459d7c39a79b9e083a5" sha1="a745d6f27f3296fdaf8b51e5fe3fa344185f3125" serial="CTR-P-A98A"/>
+		<rom name="Detective Pikachu (USA) (En,Ja,Fr,De,Es,It,Zh).3ds" size="2147483648" crc="01fb2264" md5="04375b4d9c065459d7c39a79b9e083a5" sha1="a745d6f27f3296fdaf8b51e5fe3fa344185f3125" sha256="90ebf2baf66d1536a9d50893cf3a01bb07857643db147e1cb0bdd1227c2cc35f" status="verified" serial="CTR-P-A98A"/>
 	</game>
 	<game name="Devil Summoner - Soul Hackers (Japan) (Rev 1)" id="1385" cloneofid="0625">
 		<description>Devil Summoner - Soul Hackers (Japan) (Rev 1)</description>
@@ -2174,7 +2174,7 @@
 	<game name="Dragon Ball Fusions (USA)" id="1611" cloneofid="1654">
 		<description>Dragon Ball Fusions (USA)</description>
 		<game_id>00040000001AA900</game_id>
-		<rom name="Dragon Ball Fusions (USA).3ds" size="1073741824" crc="f8262239" md5="9706a6ffd02e1190049287a8c94c8b14" sha1="96884b75be4245319d4ba693170ce14548cf0f61" serial="CTR-P-BDLE"/>
+		<rom name="Dragon Ball Fusions (USA).3ds" size="1073741824" crc="f8262239" md5="9706a6ffd02e1190049287a8c94c8b14" sha1="96884b75be4245319d4ba693170ce14548cf0f61" sha256="3b0fdf5d9062732dbae97ab71c346bd76c77a0ed4d56c68783f18d3c5a7a532d" status="verified" serial="CTR-P-BDLE"/>
 	</game>
 	<game name="Dragon Ball Fusions (Europe) (En,Fr,De,Es,It)" id="1654">
 		<description>Dragon Ball Fusions (Europe) (En,Fr,De,Es,It)</description>
@@ -5410,7 +5410,7 @@
 	<game name="Mario Party - Island Tour (USA) (En,Fr,Es)" id="0492" cloneofid="0581">
 		<description>Mario Party - Island Tour (USA) (En,Fr,Es)</description>
 		<game_id>00040000000F8100</game_id>
-		<rom name="Mario Party - Island Tour (USA) (En,Fr,Es).3ds" size="536870912" crc="01a9b517" md5="9ab1f457cf26cb1ab0754e7dae4b1c8f" sha1="5d80a6b220c88275a3248d34ae4c586babc5398a" serial="CTR-P-ATSE"/>
+		<rom name="Mario Party - Island Tour (USA) (En,Fr,Es).3ds" size="536870912" crc="01a9b517" md5="9ab1f457cf26cb1ab0754e7dae4b1c8f" sha1="5d80a6b220c88275a3248d34ae4c586babc5398a" sha256="768f8d328b5e05d7cae345d69b0eb18a7f1e9651b40ce45edf02954f8ef3d14d" serial="CTR-P-ATSE"/>
 	</game>
 	<game name="Mario Party - Island Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0581">
 		<description>Mario Party - Island Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
@@ -5450,7 +5450,7 @@
 	<game name="Mario Party - The Top 100 (USA)" id="1769" cloneofid="1786">
 		<description>Mario Party - The Top 100 (USA)</description>
 		<game_id>00040000001C4E00</game_id>
-		<rom name="Mario Party - The Top 100 (USA).3ds" size="536870912" crc="e81bbf50" md5="501ffcdbf138d959514dc05aa360be24" sha1="37c8cc3840794ac7fd3517ec2fc0d2ff3b6922bc" serial="CTR-P-BHRE"/>
+		<rom name="Mario Party - The Top 100 (USA).3ds" size="536870912" crc="e81bbf50" md5="501ffcdbf138d959514dc05aa360be24" sha1="37c8cc3840794ac7fd3517ec2fc0d2ff3b6922bc" sha256="070f278c408ebaaadfb278e1b1ed710de3a6acc96a27e9f31c1465acd194b5cf" status="verified" serial="CTR-P-BHRE"/>
 	</game>
 	<game name="Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl)" id="1786">
 		<description>Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -7284,7 +7284,7 @@
 	<game name="Pokemon Rumble World (USA)" id="1490" cloneofid="1438">
 		<description>Pokemon Rumble World (USA)</description>
 		<game_id>0004000000185A00</game_id>
-		<rom name="Pokemon Rumble World (USA).3ds" size="536870912" crc="3d86db16" md5="03a869ec93e9359287663c67d534938c" sha1="4372f05b8d9cb2c01e8870fbe36b92063f09b3e6" sha256="eb0d85b288b647bf696de76effed6db614ea6ee71016bfb52543dcfa2b308daa" serial="CTR-P-ECFA"/>
+		<rom name="Pokemon Rumble World (USA).3ds" size="536870912" crc="3d86db16" md5="03a869ec93e9359287663c67d534938c" sha1="4372f05b8d9cb2c01e8870fbe36b92063f09b3e6" sha256="eb0d85b288b647bf696de76effed6db614ea6ee71016bfb52543dcfa2b308daa" status="verified" serial="CTR-P-ECFA"/>
 	</game>
 	<game name="Pokemon Rumble World (Japan) (Beta) (trunk, 34961M)" id="z043" cloneofid="1438">
 		<description>Pokemon Rumble World (Japan) (Beta) (trunk, 34961M)</description>
@@ -8751,7 +8751,7 @@
 	<game name="Skylanders - Spyro's Adventure (USA) (En,Fr)" id="0101" cloneofid="0544">
 		<description>Skylanders - Spyro's Adventure (USA) (En,Fr)</description>
 		<game_id>0004000000036E00</game_id>
-		<rom name="Skylanders - Spyro's Adventure (USA) (En,Fr).3ds" size="536870912" crc="f04892fd" md5="29a87a7092c28fe2c61aee1697fa4c83" sha1="49ba1f297c529ec8a6f83fb330b5ced5095901f9" serial="CTR-P-ASPE"/>
+		<rom name="Skylanders - Spyro's Adventure (USA) (En,Fr).3ds" size="536870912" crc="f04892fd" md5="29a87a7092c28fe2c61aee1697fa4c83" sha1="49ba1f297c529ec8a6f83fb330b5ced5095901f9" sha256="24554208a56f3ad3540d4114059a218c1218e9e6f12556cbdf4c19d881af5732" status="verified" serial="CTR-P-ASPE"/>
 	</game>
 	<game name="Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0544">
 		<description>Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
@@ -8761,7 +8761,7 @@
 	<game name="Skylanders Giants (USA) (En,Fr,Es)" id="0419" cloneofid="0586">
 		<description>Skylanders Giants (USA) (En,Fr,Es)</description>
 		<game_id>0004000000091D00</game_id>
-		<rom name="Skylanders Giants (USA) (En,Fr,Es).3ds" size="536870912" crc="6fdfb4dc" md5="3a362c47dde3c51da34ef61990cae652" sha1="ff952ed09adaf8ba3601ed32e6732bd039b7f3ad" serial="CTR-P-AG6E"/>
+		<rom name="Skylanders Giants (USA) (En,Fr,Es).3ds" size="536870912" crc="6fdfb4dc" md5="3a362c47dde3c51da34ef61990cae652" sha1="ff952ed09adaf8ba3601ed32e6732bd039b7f3ad" sha256="7af9c751b926e531302cb4e4c3508156b1888434dd75b037081b666ccbade1e4" status="verified" serial="CTR-P-AG6E"/>
 	</game>
 	<game name="Skylanders Giants (Europe) (En,Fr,De,Es,It,Nl)" id="0586">
 		<description>Skylanders Giants (Europe) (En,Fr,De,Es,It,Nl)</description>

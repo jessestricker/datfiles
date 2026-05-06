@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260429-162327</version>
+		<version>20260505-135821</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1112,6 +1112,7 @@
 		<rom name="Dual Heroes (USA).v64" size="12582912" crc="8968d989" md5="4f154f3490d35c0a6d38cb94fd842d0b" sha1="ac48d0a10a26de691976618d1d0caebf402f9123" serial="NDHE"/>
 	</game>
 	<game name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)" id="0189" cloneofid="0154">
+		<category>Games</category>
 		<description>Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)</description>
 		<rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).v64" size="16777216" crc="b67bbc15" md5="fa00dc1372a4c347bbd7b102ce17a835" sha1="40ce11880a5e0603a42ae46b0518b95ae174556c" serial="NDUE"/>
 	</game>
@@ -2255,6 +2256,7 @@
 		<rom name="Mace - The Dark Age (Europe).v64" size="12582912" crc="4bdf2d6c" md5="c325018c2dd647a4761b29dbb87dc03c" sha1="904ae518fd489ef94e0f379a4020d96a1771c2c0" status="verified" serial="NMEP"/>
 	</game>
 	<game name="Mace - The Dark Age (USA)" id="0389" cloneofid="0388">
+		<category>Games</category>
 		<description>Mace - The Dark Age (USA)</description>
 		<rom name="Mace - The Dark Age (USA).v64" size="12582912" crc="e49d603a" md5="f56e658854300db6cedf9b3c41983ced" sha1="55d187b8ae20d2271f96fa9a8fb76fc11301a2eb" serial="NMEE"/>
 	</game>
@@ -2267,18 +2269,22 @@
 		<rom name="Madden Football 64 (Europe).v64" size="12582912" crc="c39f863d" md5="46721ff8604b3f18e3fc2b0c28c5cebd" sha1="711c709393cdc4d76ca9e3cc669504144f554bc5" serial="N8MP"/>
 	</game>
 	<game name="Madden Football 64 (USA)" id="0391" cloneofid="0390">
+		<category>Games</category>
 		<description>Madden Football 64 (USA)</description>
 		<rom name="Madden Football 64 (USA).v64" size="12582912" crc="43b28179" md5="14f3988408e222f8b1a0fc9d8e2c6df6" sha1="65fdc159374e6161a0ce0ba8ed520a669512094f" sha256="bc5c11bf03fcca2831a9f34b3d36d697a372b8a156d9b6d9d7d34ba79825ee4f" status="verified" serial="N8ME"/>
 	</game>
 	<game name="Madden NFL 2000 (USA)" id="0392">
+		<category>Games</category>
 		<description>Madden NFL 2000 (USA)</description>
 		<rom name="Madden NFL 2000 (USA).v64" size="12582912" crc="f41b2332" md5="50e191f2cdc12aaedbd6694c6d6bb431" sha1="a2a09dfde793bd42f5b3c11429628e48794091b1" sha256="25852949f005df801b5ee141bd3060ad338b205e23fd63e208a5b4055257999d" serial="NMDE"/>
 	</game>
 	<game name="Madden NFL 2001 (USA)" id="0393">
+		<category>Games</category>
 		<description>Madden NFL 2001 (USA)</description>
 		<rom name="Madden NFL 2001 (USA).v64" size="12582912" crc="3b49ec33" md5="6b386503e10ca7494c20b6be4fc1eadf" sha1="fba3c676a8acd733f16ddf7ef9bf95811974f9f1" serial="NFLE"/>
 	</game>
 	<game name="Madden NFL 2002 (USA)" id="0394">
+		<category>Games</category>
 		<description>Madden NFL 2002 (USA)</description>
 		<rom name="Madden NFL 2002 (USA).v64" size="12582912" crc="0c711dfe" md5="6d90daa85df1667c3b7cd431af703a3f" sha1="df3f696131141b4e5bc9e71a72a9815fb24c9112" serial="N2ME"/>
 	</game>
@@ -2307,10 +2313,12 @@
 		<rom name="Magical Tetris Challenge (Germany).v64" size="16777216" crc="16995cf8" md5="6dbe632a26b64efe3e6372a14a8304f5" sha1="df058519cce4b5517b10c633f2a2dbd882018f47" serial="NMTD"/>
 	</game>
 	<game name="Magical Tetris Challenge (USA)" id="0399" cloneofid="0397">
+		<category>Games</category>
 		<description>Magical Tetris Challenge (USA)</description>
 		<rom name="Magical Tetris Challenge (USA).v64" size="16777216" crc="167c60e6" md5="25f5f55c6938175f06140099a1ff46a9" sha1="d0cbbe4e61af75b6bc41ae76881f81b499f1ae3e" serial="NMTE"/>
 	</game>
 	<game name="Magical Tetris Challenge featuring Mickey (Japan)" id="0400" cloneofid="0397">
+		<category>Games</category>
 		<description>Magical Tetris Challenge featuring Mickey (Japan)</description>
 		<rom name="Magical Tetris Challenge featuring Mickey (Japan).v64" size="16777216" crc="6d3eba8b" md5="980ce31c0dc220c1da8d73322b70ca88" sha1="43848d4a70a0d33b4c94b340895f0a09561b6bbc" serial="NMTJ"/>
 	</game>
