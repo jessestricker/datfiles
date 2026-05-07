@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260505-135821</version>
+		<version>20260506-104413</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2339,6 +2339,7 @@
 		<rom name="Major League Baseball Featuring Ken Griffey Jr. (Australia).v64" size="16777216" crc="10cc55ba" md5="748c411a056f6811810fcd4817c27a32" sha1="515a3b5c22938642d2929c84c1a62eae1702ad4f" status="verified" serial="NKGP"/>
 	</game>
 	<game name="Major League Baseball Featuring Ken Griffey Jr. (USA)" id="0405">
+		<category>Games</category>
 		<description>Major League Baseball Featuring Ken Griffey Jr. (USA)</description>
 		<rom name="Major League Baseball Featuring Ken Griffey Jr. (USA).v64" size="16777216" crc="7542d45d" md5="3a99f4f24adee8c6e53bcc410fbd35fe" sha1="ee0ab1e8af669712afbaf4b9bbcee62e8eb13a4a" serial="NKGE"/>
 	</game>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1515) (2026-05-06 20-56-53)</description>
-		<version>2026-05-06 20-56-53</version>
-		<date>2026-05-06 20-56-53</date>
+		<description>Sega - Dreamcast - Discs (1515) (2026-05-07 22-42-07)</description>
+		<version>2026-05-07 22-42-07</version>
+		<date>2026-05-07 22-42-07</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1494,13 +1494,13 @@
 		<rom name="Street Fighter Alpha 3 (Europe) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Street Fighter Alpha 3 (Europe) (Track 3).bin" size="1185760800" crc="648ce435" md5="124ed554afc3b498b6b910592f0832da" sha1="999fb2cf445213355506ae864e203e13b9b56fd1"/>
 	</game>
-	<game name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It)">
+	<game name="F355 Challenge - Passione Rossa (Europe)">
 		<category>Games</category>
-		<description>F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It).cue" size="465" crc="a646e344" md5="2ae4b22a939d1504bd9fccffe40f2072" sha1="f4533e9816a5631bf9c93127573fac04e6e569bc"/>
-		<rom name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="705600" crc="98b76a65" md5="e5893bbaef9245f842caf821b3ebfb24" sha1="bddc750814a16ef508d52fab68a3819248d1fe94"/>
-		<rom name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
-		<rom name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It) (Track 3).bin" size="1185760800" crc="656adfbe" md5="b79eddab7ddc489781abff4db0ecb18d" sha1="6db7dea3b2e87e907d26fb249b1b1255af9ef3cc"/>
+		<description>F355 Challenge - Passione Rossa (Europe)</description>
+		<rom name="F355 Challenge - Passione Rossa (Europe).cue" size="414" crc="46780cf4" md5="35a1488379d19a0b018c686b3639edb9" sha1="4b8af107b0cc7d4fcf1bfb1c892841d530af5d9d"/>
+		<rom name="F355 Challenge - Passione Rossa (Europe) (Track 1).bin" size="705600" crc="98b76a65" md5="e5893bbaef9245f842caf821b3ebfb24" sha1="bddc750814a16ef508d52fab68a3819248d1fe94"/>
+		<rom name="F355 Challenge - Passione Rossa (Europe) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="F355 Challenge - Passione Rossa (Europe) (Track 3).bin" size="1185760800" crc="656adfbe" md5="b79eddab7ddc489781abff4db0ecb18d" sha1="6db7dea3b2e87e907d26fb249b1b1255af9ef3cc"/>
 	</game>
 	<game name="ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>

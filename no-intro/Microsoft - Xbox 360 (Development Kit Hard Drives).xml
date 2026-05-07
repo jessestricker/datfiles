@@ -4,7 +4,7 @@
 		<id>280</id>
 		<name>Microsoft - Xbox 360 (Development Kit Hard Drives)</name>
 		<description>Microsoft - Xbox 360 (Development Kit Hard Drives)</description>
-		<version>20260430-141345</version>
+		<version>20260506-120635</version>
 		<author>FakeShemp, Hiccup, Seventy7, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -528,6 +528,12 @@
 	<game name="Ubisoft 4807 (Unknown)" id="00050">
 		<description>Ubisoft 4807 (Unknown)</description>
 		<rom name="Ubisoft 4807 (Unknown).img" size="120034123776" crc="5beb0b2d" md5="35ad00131775972b0c043228b203f3a0" sha1="7d5da7633347b13f712c1cff2dc3603235bc4f3a"/>
+	</game>
+	<game name="Warface (NFS MW 2012 leftovers) (Unknown)" id="00129">
+		<description>Warface (NFS MW 2012 leftovers) (Unknown)</description>
+		<rom name="Warface (NFS MW 2012 leftovers) (Unknown).7z.001" size="5000000000" crc="5e135ff1" md5="340efa64f646e29020e7b4134fb8791d" sha1="0a13afee9a5d264e1b6d38b9c4707da8bd17bfa3" sha256="9d387d03bc01d4b061b926037eb6c37c86c5b1c1154fe2dde614e2cd38ab6617"/>
+		<rom name="Warface (NFS MW 2012 leftovers) (Unknown).7z.002" size="5000000000" crc="8ed69750" md5="13b2bd17573935406fbdb894595932c9" sha1="054ae5e62d608e4647e0b84ebb56ee6ca8605019" sha256="2bc79fd445e88ec37a4def5551a99dc9b4f97d6d8599bf73ea0544c84b70e569"/>
+		<rom name="Warface (NFS MW 2012 leftovers) (Unknown).7z.003" size="1458720463" crc="fba42e36" md5="b6f0670d06adfc3af8370713040aca51" sha1="7beda2c895d0228cec4cc02300948010d6859d47" sha256="d3e34248d5f225152e1131574c329da0ee01e186113215ca2221f5e0149bc11f"/>
 	</game>
 	<game name="weirdpgr3 (Unknown)" id="00122">
 		<description>weirdpgr3 (Unknown)</description>

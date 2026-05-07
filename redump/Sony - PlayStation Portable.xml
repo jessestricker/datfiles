@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3478) (2026-05-06 14-41-31)</description>
-		<version>2026-05-06 14-41-31</version>
-		<date>2026-05-06 14-41-31</date>
+		<description>Sony - PlayStation Portable - Discs (3483) (2026-05-07 06-23-22)</description>
+		<version>2026-05-07 06-23-22</version>
+		<date>2026-05-07 06-23-22</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17399,5 +17399,30 @@
 		<category>Games</category>
 		<description>Takuyo Mix Box - First Anniversary (Japan)</description>
 		<rom name="Takuyo Mix Box - First Anniversary (Japan).iso" size="1294434304" crc="caec2013" md5="76ce1ba66eae6754037f54b7808285ad" sha1="9cc00cd679dd376fc3bd8941b6477c39f9376ebb"/>
+	</game>
+	<game name="Like Life Every Hour (Japan)">
+		<category>Games</category>
+		<description>Like Life Every Hour (Japan)</description>
+		<rom name="Like Life Every Hour (Japan).iso" size="1505951744" crc="39489a9e" md5="7599bce7a99ad32343c966bb6589646f" sha1="7cb23584dc4b1446adfede168d4ec641323a272d"/>
+	</game>
+	<game name="Okashi na Shima no Peter Pan - Sweet Never Land (Japan)">
+		<category>Games</category>
+		<description>Okashi na Shima no Peter Pan - Sweet Never Land (Japan)</description>
+		<rom name="Okashi na Shima no Peter Pan - Sweet Never Land (Japan).iso" size="1020624896" crc="8c86cb62" md5="5e2f75bda6c1282d429dc60e436e4c8a" sha1="dc17daee0aa8bb660d21b96f30b9e74454542cbf"/>
+	</game>
+	<game name="Princess Frontier Portable (Japan)">
+		<category>Games</category>
+		<description>Princess Frontier Portable (Japan)</description>
+		<rom name="Princess Frontier Portable (Japan).iso" size="1350991872" crc="a96258c6" md5="4923136a9895f4795a2e9754d465cdd3" sha1="53d4305774a9b3f3da77405abd429c5b2e33ff38"/>
+	</game>
+	<game name="Slotter Mania P - Mach Go Go Go III (Japan)">
+		<category>Games</category>
+		<description>Slotter Mania P - Mach Go Go Go III (Japan)</description>
+		<rom name="Slotter Mania P - Mach Go Go Go III (Japan).iso" size="1062862848" crc="d36f1578" md5="9ac6d22fc28aebc734e5bc02b5c3ddf7" sha1="df73beb58835b835ad7ed0b2225eb20496dfc1a0"/>
+	</game>
+	<game name="Tama-Run (Japan)">
+		<category>Games</category>
+		<description>Tama-Run (Japan)</description>
+		<rom name="Tama-Run (Japan).iso" size="352419840" crc="47329986" md5="9cf2ff6acc443ec3ec8ddcabf11fa93e" sha1="e37c042aab5ff7f7483c00b1f471ae0a729a5dab"/>
 	</game>
 </datafile>
