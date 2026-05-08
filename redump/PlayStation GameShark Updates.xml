@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>PlayStation GameShark Updates</name>
-		<description>PlayStation GameShark Updates - Discs (33) (2025-10-23 18-11-04)</description>
-		<version>2025-10-23 18-11-04</version>
-		<date>2025-10-23 18-11-04</date>
+		<description>PlayStation GameShark Updates - Discs (34) (2026-05-08 11-58-25)</description>
+		<version>2026-05-08 11-58-25</version>
+		<date>2026-05-08 11-58-25</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1409,5 +1409,24 @@
 		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 27).bin" size="7895664" crc="42e03e96" md5="e6d05d57cb526355906c4aafbf7aa10b" sha1="2feb4cd5e867d4f9e78c239c86a6866ee2959f55"/>
 		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 28).bin" size="7895664" crc="b5e49fc8" md5="b469a185e1f3c53722e307c32d91d040" sha1="a8e184d92dd1ca3a09422cb01ca95e656d10fe74"/>
 		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 29).bin" size="7895664" crc="d7e443dd" md5="4bfb3dd81609bb494300846380fb5c8f" sha1="36ce6ee017c2a770f779ecbb6c396e8cd5213551"/>
+	</game>
+	<game name="Xploder - Universal Upgrade CD (Germany)">
+		<category>Applications</category>
+		<description>Xploder - Universal Upgrade CD (Germany)</description>
+		<rom name="Xploder - Universal Upgrade CD (Germany).cue" size="2067" crc="0cbc153f" md5="117224b40bdb63f41629b19b1c3fe1da" sha1="2f57cae97789cf4de2db0783ace003569d678682"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 01).bin" size="4638144" crc="8f56b4d5" md5="af1ccdd82a727454730911615c63cd43" sha1="1a4297824c6a012824276a96f858d86d8b117273"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 02).bin" size="6383328" crc="8ad07dfa" md5="958e1c74b7f5b30c1801bcc82401f50f" sha1="bc6734f3a37259269683c4ee19bf92bd403bb2ce"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 03).bin" size="4219488" crc="7350ca71" md5="160255b97ad405e896070d81ca6dde0a" sha1="a3667c1f28ac6270049f602fde1dd92d7d02d284"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 04).bin" size="3172848" crc="48f66235" md5="2d58ed7ed7a80d4a578aa805d8f78718" sha1="981a9c2fa60eda0d06264e727f7b8f113d1d9b5b"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 05).bin" size="9593808" crc="cfbf7c89" md5="c30614ce77b1746b2d72d1a3e2d7ee68" sha1="cd7be4109127c4bbaebec24f486db10aa89e67f0"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 06).bin" size="6317472" crc="12c78896" md5="4e5da39771b5d181360e71c1a52b8e33" sha1="afadb35e1c5fcd531ed7c053e83940e6c0a29959"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 07).bin" size="9593808" crc="dbe823ff" md5="1421d5b2b677d7feddb889a778fa6347" sha1="3c3b790b9cd265d894600230b371c48ef9a2a33d"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 08).bin" size="5073264" crc="bf438368" md5="8300f8cabb9ad09f9319e5f3ee8c9dba" sha1="336fb516618eb68abca8bcc9f55e702760199a08"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 09).bin" size="9593808" crc="f2d67a81" md5="a146fa63bcd43aaa0c6faadb8750405e" sha1="08842b15c72d25e967ac71f34be9d99e6539f83f"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 10).bin" size="5073264" crc="dd3443a3" md5="d613f101ae18bc91d4d607855d9b41d7" sha1="8ba49c24639b0a6cedb0adcdcd3da563455ac5df"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 11).bin" size="6973680" crc="a939acfb" md5="763ecf29656b342ebb1ca372b797ce81" sha1="366ce294afec2210e72830705393cd72d6c7daa1"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 12).bin" size="15763104" crc="ee9f15ff" md5="ac35090ef2441b879eac30870c04d7cb" sha1="5b4f684eeb27956b504bddd775946240ed9e4238"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 13).bin" size="22028832" crc="2dcac404" md5="791b7c3bd3c45213582a81b3c6196dc0" sha1="4d04b7ffd56bdb1772ce890923fc3a203eecffbd"/>
+		<rom name="Xploder - Universal Upgrade CD (Germany) (Track 14).bin" size="5792976" crc="865ff396" md5="b3429de94a03320149c2eb90aa6ee834" sha1="e869172d4bf98012a7be66da40b9baf3a6082295"/>
 	</game>
 </datafile>

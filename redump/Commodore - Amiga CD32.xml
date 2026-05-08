@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD32</name>
-		<description>Commodore - Amiga CD32 - Discs (207) (2026-04-26 11-50-29)</description>
-		<version>2026-04-26 11-50-29</version>
-		<date>2026-04-26 11-50-29</date>
+		<description>Commodore - Amiga CD32 - Discs (207) (2026-05-08 20-54-04)</description>
+		<version>2026-05-08 20-54-04</version>
+		<date>2026-05-08 20-54-04</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1992,28 +1992,28 @@
 		<rom name="Projekt - Lila (Germany).cue" size="90" crc="1dc46b51" md5="192d81fd542a41ae2e11660eb01fcb2f" sha1="cc92b9468b469eff7c37aa1e17378712d4eee1dc"/>
 		<rom name="Projekt - Lila (Germany).bin" size="66022992" crc="3bc98394" md5="743eb82fb5447d9e5e80aa9fd0f1a996" sha1="db005a2db7744a646db626a8494f11c91627d93f"/>
 	</game>
-	<game name="Projekt - Lila (Germany) (Rev 1)">
+	<game name="Projekt - Lila (Germany) (Remastered)">
 		<category>Games</category>
-		<description>Projekt - Lila (Germany) (Rev 1)</description>
-		<rom name="Projekt - Lila (Germany) (Rev 1).cue" size="98" crc="051ec84c" md5="52b6f9784b6c3b7bc74465965ccf75f3" sha1="2ad9b20a942258b81b71e3b686857e05ef633844"/>
-		<rom name="Projekt - Lila (Germany) (Rev 1).bin" size="72441600" crc="5c08574c" md5="328a0775d7ec053ae9177f0dedf83599" sha1="7b8a73dcc347becd9c91bb15d39ee33b8b610afe"/>
+		<description>Projekt - Lila (Germany) (Remastered)</description>
+		<rom name="Projekt - Lila (Germany) (Remastered).cue" size="103" crc="d65abcbd" md5="bab17c0a932119db2d5dda8e4268b90c" sha1="aa1b24916ac4aaa4978d30a6fd0ca5cc8792c858"/>
+		<rom name="Projekt - Lila (Germany) (Remastered).bin" size="72441600" crc="5c08574c" md5="328a0775d7ec053ae9177f0dedf83599" sha1="7b8a73dcc347becd9c91bb15d39ee33b8b610afe"/>
 	</game>
-	<game name="Jim Power in Mutant Planet (Europe)">
+	<game name="Jim Power in Mutant Planet (USA)">
 		<category>Games</category>
-		<description>Jim Power in Mutant Planet (Europe)</description>
-		<rom name="Jim Power in Mutant Planet (Europe).cue" size="1289" crc="d383e67e" md5="1b74b4f3c47217eb76f2faf3690b12d4" sha1="25de92d2eda9c71b5b36d388c3b1a960cc6e1dc4"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 01).bin" size="25236960" crc="81c1a9a5" md5="ecd18840953359f7008a9e9a91b05d2d" sha1="4e37ddbb551cc3e744ee5ba509410ad25ef0a5a2"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 02).bin" size="48041952" crc="31082988" md5="4034ee426b910faea2e5ae955bb927b0" sha1="0efc8f8ac1d498b31da8c4a654d583b9c4eb0781"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 03).bin" size="57362928" crc="81812257" md5="4e72055d47526901c9728e0bf80a4368" sha1="7886494ac5b47589a03d172689e60e077330f5a7"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 04).bin" size="58390752" crc="fbfc3703" md5="4b2601cee33f7d0bfe4440a0c75cda5a" sha1="2b825f7f4db56114971a69ca6f3e5b38d985db3a"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 05).bin" size="60691008" crc="e8688015" md5="b958231cbf4a56b39bbe1ae056c20467" sha1="714f01e94a51f06ebbca737d5ef58d5384a5b741"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 06).bin" size="43248576" crc="698c41ac" md5="47a17cfced92a6423ccdc0a4d62810f0" sha1="5093c67bdd0e57b235b9a2189a49cc1e83def265"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 07).bin" size="70741104" crc="ba6f8442" md5="736b12aa5c7c632651326b0c987c9b90" sha1="f5b0fe66bb745dbe9c5bcda66c598f95070e7c04"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 08).bin" size="42143136" crc="6d09f4f6" md5="854b9f4e3e6e5245286cabe09e080a8e" sha1="8882490bbeb25ed3f6e62fe767f63479afd6b206"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 09).bin" size="62386800" crc="ffe78eba" md5="7d2f0c19a2e4a01f77f425ec1f5835fe" sha1="74465f63b4888a3e30b656ca2f83df3e220b83f3"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 10).bin" size="46908288" crc="9d245479" md5="b5c37fa48759b5b04f2194dc7cef94fd" sha1="6d5aa52160f5bdeb99cd5b9c10dfdf6543287e4d"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 11).bin" size="59465616" crc="1f91e877" md5="dda238b0d374750cb1387c463edfcceb" sha1="948c5120339d721e370535db3f16f4143e61a4cd"/>
-		<rom name="Jim Power in Mutant Planet (Europe) (Track 12).bin" size="16268784" crc="e4428ded" md5="d587b751dd2600093622eb3158351b2c" sha1="389ea4752cc54eec9c859bc088e634f08473006a"/>
+		<description>Jim Power in Mutant Planet (USA)</description>
+		<rom name="Jim Power in Mutant Planet (USA).cue" size="1253" crc="cecf4913" md5="80af8186346979af4d49764b28b5bad5" sha1="2e8eede23a5a2c18728e1c0268a44e86c8d81499"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 01).bin" size="25236960" crc="81c1a9a5" md5="ecd18840953359f7008a9e9a91b05d2d" sha1="4e37ddbb551cc3e744ee5ba509410ad25ef0a5a2"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 02).bin" size="48041952" crc="31082988" md5="4034ee426b910faea2e5ae955bb927b0" sha1="0efc8f8ac1d498b31da8c4a654d583b9c4eb0781"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 03).bin" size="57362928" crc="81812257" md5="4e72055d47526901c9728e0bf80a4368" sha1="7886494ac5b47589a03d172689e60e077330f5a7"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 04).bin" size="58390752" crc="fbfc3703" md5="4b2601cee33f7d0bfe4440a0c75cda5a" sha1="2b825f7f4db56114971a69ca6f3e5b38d985db3a"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 05).bin" size="60691008" crc="e8688015" md5="b958231cbf4a56b39bbe1ae056c20467" sha1="714f01e94a51f06ebbca737d5ef58d5384a5b741"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 06).bin" size="43248576" crc="698c41ac" md5="47a17cfced92a6423ccdc0a4d62810f0" sha1="5093c67bdd0e57b235b9a2189a49cc1e83def265"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 07).bin" size="70741104" crc="ba6f8442" md5="736b12aa5c7c632651326b0c987c9b90" sha1="f5b0fe66bb745dbe9c5bcda66c598f95070e7c04"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 08).bin" size="42143136" crc="6d09f4f6" md5="854b9f4e3e6e5245286cabe09e080a8e" sha1="8882490bbeb25ed3f6e62fe767f63479afd6b206"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 09).bin" size="62386800" crc="ffe78eba" md5="7d2f0c19a2e4a01f77f425ec1f5835fe" sha1="74465f63b4888a3e30b656ca2f83df3e220b83f3"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 10).bin" size="46908288" crc="9d245479" md5="b5c37fa48759b5b04f2194dc7cef94fd" sha1="6d5aa52160f5bdeb99cd5b9c10dfdf6543287e4d"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 11).bin" size="59465616" crc="1f91e877" md5="dda238b0d374750cb1387c463edfcceb" sha1="948c5120339d721e370535db3f16f4143e61a4cd"/>
+		<rom name="Jim Power in Mutant Planet (USA) (Track 12).bin" size="16268784" crc="e4428ded" md5="d587b751dd2600093622eb3158351b2c" sha1="389ea4752cc54eec9c859bc088e634f08473006a"/>
 	</game>
 	<game name="ATR - All Terrain Racing (Europe)">
 		<category>Games</category>

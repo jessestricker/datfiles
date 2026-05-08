@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (ByteSwapped)</name>
 		<description>Nintendo - Nintendo 64 (ByteSwapped)</description>
-		<version>20260506-104413</version>
+		<version>20260507-141636</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2358,6 +2358,7 @@
 		<rom name="Mario Golf (Europe).v64" size="33554432" crc="1ca3e8b6" md5="d5033f389476733d5730b112f61c2d47" sha1="b77c8a9f163feb9ae2f2253b6d9ec82d77b7088c" status="verified" serial="NMFP"/>
 	</game>
 	<game name="Mario Golf (USA)" id="0407" cloneofid="0406">
+		<category>Games</category>
 		<description>Mario Golf (USA)</description>
 		<rom name="Mario Golf (USA).v64" size="33554432" crc="ceb5b977" md5="846984c666c35407961c7c069066fc42" sha1="03db12b8a018eb10a31d3edcf693d92ab8676f1b" status="verified" serial="NMFE"/>
 	</game>
@@ -2386,6 +2387,7 @@
 		<rom name="Mario Kart 64 (Japan) (Rev 1).v64" size="12582912" crc="26450aab" md5="7c5002bf20b22caa2226a0c382974d62" sha1="42769bc9467df9a517a88e28f9ce2b6956a7a15f" status="verified" serial="NKTJ"/>
 	</game>
 	<game name="Mario Kart 64 (USA)" id="0413" cloneofid="0410">
+		<category>Games</category>
 		<description>Mario Kart 64 (USA)</description>
 		<rom name="Mario Kart 64 (USA).v64" size="12582912" crc="2bcee11c" md5="e19398a0fd1cc12df64fca7fbcaa82cc" sha1="e72fdcbb4edec32535a62b672c4559b04b07a081" status="verified" serial="NKTE"/>
 	</game>
@@ -2407,6 +2409,7 @@
 		<rom name="Mario Party (Japan).v64" size="33554432" crc="7d387e37" md5="acbd5528540a2ee9de209c2cf92d1b4c" sha1="82d03c229f37b7e8af72f4ee867022e4fa0f1f99" status="verified" serial="CLBJ"/>
 	</game>
 	<game name="Mario Party (USA)" id="0417" cloneofid="0415">
+		<category>Games</category>
 		<description>Mario Party (USA)</description>
 		<rom name="Mario Party (USA).v64" size="33554432" crc="4717cd1b" md5="22d2815355f2be326aa4ab08976ea091" sha1="08390db915dd689191906a13f4f736d419e2aff9" status="verified" serial="CLBE"/>
 	</game>
@@ -2419,6 +2422,7 @@
 		<rom name="Mario Party 2 (Japan).v64" size="33554432" crc="e19bf21c" md5="5af4cad99d4e3aabe119a705f5cc75c0" sha1="fd523dff2f552a766993ebb5f056f15fcf52e17f" status="verified" serial="NMWJ"/>
 	</game>
 	<game name="Mario Party 2 (USA)" id="0420" cloneofid="0418">
+		<category>Games</category>
 		<description>Mario Party 2 (USA)</description>
 		<rom name="Mario Party 2 (USA).v64" size="33554432" crc="3ba5471b" md5="f107f70ee02dced2617a5dedff72869b" sha1="528ecd9e10233ea7ce372559a16196a8e9438763" status="verified" serial="NMWE"/>
 	</game>
@@ -2443,6 +2447,7 @@
 		<rom name="Mario Party 3 (Japan).v64" size="33554432" crc="703586d1" md5="eadbafe27f4982a80aef897019bd7a78" sha1="89b91548c6c5943e95eebfb8a4df84fb98d3d905" status="verified" serial="NMVJ"/>
 	</game>
 	<game name="Mario Party 3 (USA)" id="0423" cloneofid="0421">
+		<category>Games</category>
 		<description>Mario Party 3 (USA)</description>
 		<rom name="Mario Party 3 (USA).v64" size="33554432" crc="a1bee3f8" md5="ac422fb77258336895ee5355f1b2b36d" sha1="58bd552b48bcec6aa39174de9796a7c093d64b67" status="verified" serial="NMVE"/>
 	</game>
