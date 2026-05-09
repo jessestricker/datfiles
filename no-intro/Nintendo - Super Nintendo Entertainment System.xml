@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260507-203844</version>
+		<version>20260508-102451</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8622,11 +8622,11 @@
 		<description>Nigel Mansell's World Championship Racing (USA)</description>
 		<rom name="Nigel Mansell's World Championship Racing (USA).sfc" size="1048576" crc="162252e2" md5="eaeadf3718805132ac2348c6bc093563" sha1="03591006e7296ab3f0608faa97e03ce725eb0f14" sha256="ce9c819d6496e58901b39d9b04558a89e09ccc3aac33690b8d02bb0406682a57" status="verified"/>
 	</game>
-	<game name="Nightmare Busters (Europe) (Proto 2)" id="1819" cloneofid="3691">
+	<game name="Nightmare Busters (Europe) (Proto 3)" id="1819" cloneofid="3691">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Nightmare Busters (Europe) (Proto 2)</description>
-		<rom name="Nightmare Busters (Europe) (Proto 2).sfc" size="1048576" crc="ee7f0f80" md5="4306235aa81667c655b68aefd7af6e9b" sha1="b24768636ed3f45c838520663d902f6a29ec9d00" sha256="0410d59e93df2cdb498a6a5a34f0e47fc3074c34e9fe070091a02d8adac947fb"/>
+		<description>Nightmare Busters (Europe) (Proto 3)</description>
+		<rom name="Nightmare Busters (Europe) (Proto 3).sfc" size="1048576" crc="ee7f0f80" md5="4306235aa81667c655b68aefd7af6e9b" sha1="b24768636ed3f45c838520663d902f6a29ec9d00" sha256="0410d59e93df2cdb498a6a5a34f0e47fc3074c34e9fe070091a02d8adac947fb"/>
 	</game>
 	<game name="Ninja Gaiden Trilogy (USA)" id="1820">
 		<category>Games</category>
@@ -20293,11 +20293,17 @@
 		<description>NHL 96 (Europe) (Sample)</description>
 		<rom name="NHL 96 (Europe) (Sample).sfc" size="1572864" crc="b41fe776" md5="230a14ac538832b685ea7e65a9558b1f" sha1="666a3615d6d028114ace1e7bd290082bb124abb9" sha256="603edda6bfef42b9ae191c88ce93f1c11352905ec10d1eef98715425c4498615"/>
 	</game>
-	<game name="Nightmare Busters (Europe) (Proto 1)" id="4152" cloneofid="3691">
+	<game name="Nightmare Busters (Europe) (Proto 2) (1994-09-04)" id="4152" cloneofid="3691">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Nightmare Busters (Europe) (Proto 1)</description>
-		<rom name="Nightmare Busters (Europe) (Proto 1).sfc" size="1048576" crc="32ea8a0a" md5="0f7b839fe94ec9542b4b3f1b8fb72421" sha1="b146bb6c02bedf733d36be063cbd5ebc221ed776" sha256="7c6863c26ebc16d1b57a1b60ed4d3b3b64e29f267a0937c7a3839921fea7ac16"/>
+		<description>Nightmare Busters (Europe) (Proto 2) (1994-09-04)</description>
+		<rom name="Nightmare Busters (Europe) (Proto 2) (1994-09-04).sfc" size="1048576" crc="32ea8a0a" md5="0f7b839fe94ec9542b4b3f1b8fb72421" sha1="b146bb6c02bedf733d36be063cbd5ebc221ed776" sha256="7c6863c26ebc16d1b57a1b60ed4d3b3b64e29f267a0937c7a3839921fea7ac16"/>
+	</game>
+	<game name="Nightmare Busters (Europe) (Proto 1) (1994-06-21)" id="4596" cloneofid="3691">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Nightmare Busters (Europe) (Proto 1) (1994-06-21)</description>
+		<rom name="Nightmare Busters (Europe) (Proto 1) (1994-06-21).sfc" size="1048576" crc="5505b0fe" md5="2c420376771db1648c7a2e9320248688" sha1="f4de82dbca4656b2834034248ba24cac7e9b0db5" sha256="35cc90ca4187f49669586c5f76afe4b2be7477cc4da72e55e900af2e68626eb2" serial="!none"/>
 	</game>
 	<game name="Nintendo Campus Challenge 1992 (USA, Europe) (Competition Cart)" id="4532">
 		<description>Nintendo Campus Challenge 1992 (USA, Europe) (Competition Cart)</description>

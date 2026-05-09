@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260507-141636</version>
+		<version>20260508-122943</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2522,6 +2522,7 @@
 		<rom name="Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-09-01).z64" size="16777216" crc="ff29150a" md5="e8935a2b31689d4993d5fc4ace7fcfae" sha1="099e80f45569926ac18a20e7b3fddb78239916ed" sha256="fc32849ee03d09e2349088aa3a9cd9643bfe322877062070991772344b2bc20b" serial="NHME"/>
 	</game>
 	<game name="Mia Hamm Soccer 64 (USA) (En,Es)" id="0429" cloneofid="0430">
+		<category>Games</category>
 		<description>Mia Hamm Soccer 64 (USA) (En,Es)</description>
 		<rom name="Mia Hamm Soccer 64 (USA) (En,Es).z64" size="16777216" crc="2db3d3d6" md5="a4039368e0472c68e3072c02c7a80f94" sha1="62ce9d1c1f4cf7beaa1ef7c456c155f63f13f057" serial="NHME"/>
 	</game>
@@ -3613,6 +3614,7 @@
 		<rom name="RR64 - Ridge Racer 64 (USA).z64" size="33554432" crc="3c2c2d1c" md5="990f97d56456fc23e52bd263e709e21e" sha1="5f079cd9827b24d12af4961482a0fcc679e53042" serial="NRZE"/>
 	</game>
 	<game name="RTL World League Soccer 2000 (Germany)" id="0635" cloneofid="0430">
+		<category>Games</category>
 		<description>RTL World League Soccer 2000 (Germany)</description>
 		<rom name="RTL World League Soccer 2000 (Germany).z64" size="16777216" crc="0a17da7b" md5="a1082a6676455c040843fd75e92de1a3" sha1="a68294e47c82639c9bcdae1b7306ac2a2e2f47b5" sha256="caac491eab833b97a5d1432e2670847e69d484eb3708275a59982116494956d1" status="verified" serial="NWKD"/>
 	</game>
@@ -4188,6 +4190,7 @@
 		<rom name="Taz Express (USA) (Proto) (2000-05-15).z64" size="16777216" crc="43fbf0b0" md5="968815d5696961f672e253a34831bfa6" sha1="5fbf677ce97e3dade5c030b13ebdf7dca60ac533" sha256="1025bbcd7ea1ba795eb7a726a74c99ed38fdeed07b124d230d96ba6eca8140a6" serial="NTXE"/>
 	</game>
 	<game name="Telefoot Soccer 2000 (France)" id="0734" cloneofid="0430">
+		<category>Games</category>
 		<description>Telefoot Soccer 2000 (France)</description>
 		<rom name="Telefoot Soccer 2000 (France).z64" size="16777216" crc="7bd20931" md5="7f244aff8d729417e32b6a5b299afda5" sha1="ffc1f3271929b0e7d6467fdcbed9e0ccf2eba0a5" sha256="c2abd9801d992e9470d3a312d9bc9845d18e2e270826bb95c120371632297e1c" serial="NWKF"/>
 	</game>

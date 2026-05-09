@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260504-203329</version>
+		<version>20260508-224000</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3313,10 +3313,10 @@
 		<description>Dominus (USA) (Proto)</description>
 		<rom name="Dominus (USA) (Proto).md" size="1048576" crc="a36166da" md5="0cb74de6e8f79014a23f121894a974ef" sha1="1f63b79169e5d0cea8faaad7ad63e88c2b6f8250" sha256="a8b4508c10bb15ba4925c55938c1596c92fef90cb0aecc4248ad2e9590ae7c40" serial="00000000-01"/>
 	</game>
-	<game name="Donald in Maui Mallard (USA, Brazil) (En)" id="1679" cloneofid="0376">
+	<game name="Donald in Maui Mallard (Brazil) (En)" id="1679" cloneofid="0376">
 		<category>Games</category>
-		<description>Donald in Maui Mallard (USA, Brazil) (En)</description>
-		<rom name="Donald in Maui Mallard (USA, Brazil) (En).md" size="4194304" crc="77772691" md5="f8e870b82457981b9a659792717be43f" sha1="4296e64e7f1c8f9eea7e32acfcb296e8676f6c40" sha256="5ee5cb9dbfdecc1270f254649fe1bdf5205ab3162ea364609bd14ef2723e30d1" serial="T-239016-00"/>
+		<description>Donald in Maui Mallard (Brazil) (En)</description>
+		<rom name="Donald in Maui Mallard (Brazil) (En).md" size="4194304" crc="77772691" md5="f8e870b82457981b9a659792717be43f" sha1="4296e64e7f1c8f9eea7e32acfcb296e8676f6c40" sha256="5ee5cb9dbfdecc1270f254649fe1bdf5205ab3162ea364609bd14ef2723e30d1" serial="T-239016-00"/>
 	</game>
 	<game name="Donald in Maui Mallard (Europe) (Rev A)" id="0376">
 		<category>Games</category>

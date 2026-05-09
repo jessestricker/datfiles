@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Discs (2456) (2026-05-03 21-26-23)</description>
-		<version>2026-05-03 21-26-23</version>
-		<date>2026-05-03 21-26-23</date>
+		<description>Sega - Saturn - Discs (2457) (2026-05-09 15-58-18)</description>
+		<version>2026-05-09 15-58-18</version>
+		<date>2026-05-09 15-58-18</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -40368,5 +40368,49 @@
 		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 09).bin" size="25690896" crc="41757d84" md5="b7aeeda3c34bd133e083a8f00165a0b2" sha1="1d0c2c9128163e9eebfb67be41a17c5003b9612e"/>
 		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 10).bin" size="37476768" crc="37925fcf" md5="4dab036f3fcb1ffeadb889120d848682" sha1="955c1c5b53e3f7a168da64aa1cac4e69c9e8d2b1"/>
 		<rom name="Quake (USA) (Beta) (1997-08-20) (Track 11).bin" size="55603632" crc="dd6eead5" md5="3f58510cd778e803d2f06a59a7c242d2" sha1="510fda4024a5c02f47cd8c9de3735e046669b00e"/>
+	</game>
+	<game name="Virtual Kyoutei 2 (Japan) (1M)">
+		<category>Games</category>
+		<description>Virtual Kyoutei 2 (Japan) (1M)</description>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M).cue" size="4880" crc="fefd26aa" md5="f504761a2617122f6a000576691aa937" sha1="e05d35de93025b02a41874273e341e408d2273a2"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 01).bin" size="16186464" crc="232a1a4d" md5="49da447d8544b6719839c1fd07f1377e" sha1="899efba8ffccc2eb7dbf6fa56a81ab17ff1f7a40"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 02).bin" size="3880800" crc="b1707ecb" md5="31f5be761ff55e1f9de1125908b7ec41" sha1="15ab7a36abc46cb3d7e319239d6282ab9994f2c1"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 03).bin" size="22553328" crc="eeb6554e" md5="5bcd1df4a96ba3b82dd4e02ab95d355b" sha1="a3a9fa079f800fed80ecde6e404a90bfa824f30d"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 04).bin" size="1639344" crc="b3c3dbb0" md5="01a27bc6625409f69bd8195c6c392cc2" sha1="3f79028ec8a2fc0996a2b122f7398f4237b3f636"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 05).bin" size="18691344" crc="9b49cb69" md5="d2b30d787406a740013cedea5e1715dd" sha1="613447ba3e4b811eaae0800acac3e9d722e89d07"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 06).bin" size="20297760" crc="03a6d8fa" md5="4d16ceeeae09851cd12eafd176dfb598" sha1="c2d8bb706cd4115ad9e4e906086f61c53ab9c769"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 07).bin" size="12145728" crc="31ba03c6" md5="ed5dbcabb5563ec509310db492b9cbe0" sha1="901059a995d569b767ddf3caa2035fc0f382f741"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 08).bin" size="1211280" crc="ec7c55b1" md5="6364c1d596a55f38531f975d45b8e929" sha1="a26911970fdbf93055ff2e2a33cd00e2ae41daf6"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 09).bin" size="1366512" crc="8201c68e" md5="4212a445f2b2ef3c422ed5f2b0a74a91" sha1="3f51d2ceec57a89c06169e5eef027a67fef3889a"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 10).bin" size="1345344" crc="a08b711d" md5="a3724ab4801804b912caa00c8a42718c" sha1="0d4d2ed01682f26130d96eeba6c60b81ffd52811"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 11).bin" size="3257520" crc="0f574510" md5="0a88c577f05b812a26d9ebcaadded457" sha1="d280b409496aeb89fb02ec293adccfe06c65ef91"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 12).bin" size="4017216" crc="9e5d597a" md5="a24df1c11dab632c824620a66625697b" sha1="d698e44532ebe5301bab1b1d425255167c619d9a"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 13).bin" size="3321024" crc="693d2f9f" md5="90a54d7449ad0e6bd97bf86d1f0a4884" sha1="44f0e37ad02c69e043d2832a5546a49c5034a7a6"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 14).bin" size="4894512" crc="7243cc54" md5="de96895a039d4157d76874f1d32c8018" sha1="3fbd521291f82862c95fded72a99a56926255498"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 15).bin" size="3814944" crc="746edbc6" md5="3760360af2dfc499ab14b9b465b71edd" sha1="4a027eeade63670d44dc092c6f8bf4eea667275a"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 16).bin" size="3713808" crc="36964ea8" md5="51d033f331e3181ca38b8cd2850b21c7" sha1="ad7936d269f1e61a6fe4972cf6afffa1ccad70c2"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 17).bin" size="70256592" crc="352350ed" md5="ade274b534a1a4ec4ed5cdd5e2116ece" sha1="cbcc6bd31119e4090798920eb590c7158313947e"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 18).bin" size="3739680" crc="588f3aa5" md5="5336c97767450f435a87c67280d9c283" sha1="92b5496a12bef40ae5f1db23240f9290d2a6e92b"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 19).bin" size="3057600" crc="143b4521" md5="97ae1685a7ed4d416742546d10d48384" sha1="49016fa97a22dac3239d08c5d50f1ef4532df392"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 20).bin" size="3238704" crc="c63bad95" md5="e614e8d5cc4c684f4669f7902b73947c" sha1="1bf5365b11c500ecc71f65fc5fe5c8e8dd36ff14"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 21).bin" size="3673824" crc="2ea2daeb" md5="5b61a2567a429ad827c5cfbff819dd0e" sha1="3dfde315f2e2fbb1a671dbe6bedaf019e707e527"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 22).bin" size="6599712" crc="fcf4c4e2" md5="79d661439f201bf4d65192fe0dac6166" sha1="746d6293ba9112abbd78cd3945eed7f8a7ee6838"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 23).bin" size="13865040" crc="9bf52b30" md5="7264ba12cb20252d28d4e979d3c76775" sha1="f6e130ebbb16c31ae274af33ed3a589ae72dbff0"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 24).bin" size="19592160" crc="07179c8b" md5="1c96205152c5c7ca3332d04c3ee87cac" sha1="88f2c68c4f7ba323358603c1d38d6332548b1167"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 25).bin" size="15596112" crc="eccadffc" md5="594150304b4c73088e8bb119962448de" sha1="c4ca386a5b32351a4911bdfd79e8d3dc10475fed"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 26).bin" size="2523696" crc="e70d70d2" md5="dcdc67927c42f57dbd3d5e7568600968" sha1="e6c18d7f716b28cca83f636345a030e4091f7520"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 27).bin" size="7281792" crc="cff2af98" md5="4347325958b8ee542ac2c55de8f7e58e" sha1="4ca142f4d9fbe31b28b4b8936e21b3293d1bb215"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 28).bin" size="16548672" crc="97196a62" md5="9c63409e299b68387788f7763599ce61" sha1="dc9ef804c2212a94007f8fb754b749866c1f31b2"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 29).bin" size="1234800" crc="52159769" md5="45a59e59673bcd4ba9e2aa51b8ac58f8" sha1="0f452ad4ee38d19fded934aa2230937bde1dd1c6"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 30).bin" size="22574496" crc="34b07fb3" md5="02875b57f947e844cf8ffbb0f6e19cc5" sha1="6ad75969c7df3b1a1080a03beeebefd0572f2455"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 31).bin" size="1533504" crc="e92e9658" md5="c2f13d248f204b0a0feca92c3c6eff97" sha1="08e3342f16a4f056f4e2ad557227890eeebe5206"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 32).bin" size="16974384" crc="d54a5405" md5="225d9ef422b7b5c1dee68f85500773f3" sha1="72df9d35f8a7942171347c75e687682796bcfbcd"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 33).bin" size="1272432" crc="6577e509" md5="47798932fa0684e070171994d44d2ac9" sha1="caa9426f1a46599b470c0a442a62d9478191a0ac"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 34).bin" size="14946960" crc="39459d5e" md5="272aada866d1470e688b7bac8a30e226" sha1="e949c61954a905a978ba60313c04ad4998171b2f"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 35).bin" size="17310720" crc="a7c922db" md5="20ecf235d50d2a7c0097a511b0586b00" sha1="861999fc621a105d6bd931ccf1495a666b91f616"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 36).bin" size="5995248" crc="9283d872" md5="61db0b9ed8cddf052ef0e250010fc346" sha1="37245beb15297b09171a41e20f6bbdbc6452a5f7"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 37).bin" size="12804288" crc="13c3cc0f" md5="de88746fe2615009b120c7bad152b596" sha1="b7627b4b9cbc82520debaaa8164cda32698fc6d3"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 38).bin" size="2497824" crc="9e87dedd" md5="f10af690db902895e23ee63f56c8d750" sha1="358625dfd0f3e883eecb63dc020e1284bdc2809b"/>
+		<rom name="Virtual Kyoutei 2 (Japan) (1M) (Track 39).bin" size="58981104" crc="5158ad2e" md5="ad882b52d94085ed3fbf272379dc20e3" sha1="b824561b4308cc8f85a5ec2cbf96e45c6fa161bd"/>
 	</game>
 </datafile>

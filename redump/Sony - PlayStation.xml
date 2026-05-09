@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-08 10-37-09)</description>
-		<version>2026-05-08 10-37-09</version>
-		<date>2026-05-08 10-37-09</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-09 03-29-45)</description>
+		<version>2026-05-09 03-29-45</version>
+		<date>2026-05-09 03-29-45</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -35753,11 +35753,11 @@
 		<rom name="MTV Celebrity Deathmatch (USA).cue" size="96" crc="6fc64cd7" md5="a251ef8f69cb3374be3ee95af015f7cb" sha1="14ea19951ffddb0dfca2f134dbdb40bbf11fa49f"/>
 		<rom name="MTV Celebrity Deathmatch (USA).bin" size="234094560" crc="8a4b630e" md5="4375c25504c0915a43a00f84fd5012bb" sha1="bca3b8a5a394a4d7c34b8c434ea07631316c691a"/>
 	</game>
-	<game name="Madden NFL 2002 (USA)">
+	<game name="Madden NFL 2002 (USA, Canada)">
 		<category>Games</category>
-		<description>Madden NFL 2002 (USA)</description>
-		<rom name="Madden NFL 2002 (USA).cue" size="87" crc="0d397e54" md5="4bfe27448abe6c99f441ba9ae6dbee16" sha1="e2d85ea3d6153ef2e8754e993dfd08c1b9237088"/>
-		<rom name="Madden NFL 2002 (USA).bin" size="404856816" crc="1ad0b3d8" md5="1100b9032fe15433507c5acd5bb9d28a" sha1="199c9440a838bae41c2f2c20c962ab86a2966343"/>
+		<description>Madden NFL 2002 (USA, Canada)</description>
+		<rom name="Madden NFL 2002 (USA, Canada).cue" size="95" crc="06883d4e" md5="417fa7d29170e50e57265904a0ad52de" sha1="c9e82d0ac3adce41663102a6972f13d559bf0e6a"/>
+		<rom name="Madden NFL 2002 (USA, Canada).bin" size="404856816" crc="1ad0b3d8" md5="1100b9032fe15433507c5acd5bb9d28a" sha1="199c9440a838bae41c2f2c20c962ab86a2966343"/>
 	</game>
 	<game name="Action Bass (USA)">
 		<category>Games</category>
@@ -38548,11 +38548,11 @@
 		<rom name="Army Men - World War (USA).cue" size="92" crc="48951088" md5="3637ee4f993d776e6137cd7db1219852" sha1="7fbf0af2cefd841d8d3cf832a0b02d30d71025b5"/>
 		<rom name="Army Men - World War (USA).bin" size="514311840" crc="e0f23e4f" md5="7d08d807318ef89f6241377680cdd38e" sha1="1d3d1cc72f8dca3381072cccc9ab9968d7c83e81"/>
 	</game>
-	<game name="NASCAR Thunder 2002 (USA)">
+	<game name="NASCAR Thunder 2002 (USA, Canada)">
 		<category>Games</category>
-		<description>NASCAR Thunder 2002 (USA)</description>
-		<rom name="NASCAR Thunder 2002 (USA).cue" size="91" crc="8b2bed6f" md5="d431a18be3318fe0e8fac54d7201313a" sha1="2028913cb9f76fb7b906875d8f7e9b13db17e036"/>
-		<rom name="NASCAR Thunder 2002 (USA).bin" size="224552496" crc="9af3e6c5" md5="7dfd96dfe3aedb3fb642642821bf0e81" sha1="916b002042c9841438878062ab600dcbe85381ac"/>
+		<description>NASCAR Thunder 2002 (USA, Canada)</description>
+		<rom name="NASCAR Thunder 2002 (USA, Canada).cue" size="99" crc="70b7f866" md5="9247daa38935233363c5e580fdeadeac" sha1="9bf9d2b47ad6772db79f777d1e6a930f5c163da3"/>
+		<rom name="NASCAR Thunder 2002 (USA, Canada).bin" size="224552496" crc="9af3e6c5" md5="7dfd96dfe3aedb3fb642642821bf0e81" sha1="916b002042c9841438878062ab600dcbe85381ac"/>
 	</game>
 	<game name="Chronicles of the Sword (USA) (Disc 1)">
 		<category>Games</category>
@@ -39276,11 +39276,11 @@
 		<rom name="Disney's Tarzan (USA) (Rerelease) (Track 1).bin" size="515229120" crc="1fa99e39" md5="49f5e22f10b360acdb9473b440abefd0" sha1="d219f57892ad79dd72d70db5b7cb3b57e4abb6a8"/>
 		<rom name="Disney's Tarzan (USA) (Rerelease) (Track 2).bin" size="31752000" crc="464b6ce9" md5="35870f16963a47300468144318039831" sha1="9ec650855235fd5988add51a5f60e3412e76b71b"/>
 	</game>
-	<game name="NBA Live 2002 (USA)">
+	<game name="NBA Live 2002 (USA, Canada)">
 		<category>Games</category>
-		<description>NBA Live 2002 (USA)</description>
-		<rom name="NBA Live 2002 (USA).cue" size="85" crc="88a8e2d0" md5="8cf5a82bbcb303654166a2f445880c13" sha1="ebcf6e3db5d6339b21a32f501bcc528853c15bd3"/>
-		<rom name="NBA Live 2002 (USA).bin" size="553044576" crc="0aa28b8e" md5="bd88c415472bc10b2c64327197c3a343" sha1="486088865a9a7114f8456411d68aad117dead424"/>
+		<description>NBA Live 2002 (USA, Canada)</description>
+		<rom name="NBA Live 2002 (USA, Canada).cue" size="93" crc="56ad5022" md5="20097b82cc9104b5d5a67c10c46bd5b0" sha1="14e38246bd2ad31a4342a77d259c86ad9130f49e"/>
+		<rom name="NBA Live 2002 (USA, Canada).bin" size="553044576" crc="0aa28b8e" md5="bd88c415472bc10b2c64327197c3a343" sha1="486088865a9a7114f8456411d68aad117dead424"/>
 	</game>
 	<game name="Shadow Tower (Japan)">
 		<category>Games</category>

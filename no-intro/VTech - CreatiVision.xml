@@ -4,16 +4,12 @@
 		<id>21</id>
 		<name>VTech - CreatiVision</name>
 		<description>VTech - CreatiVision</description>
-		<version>20240623-224553</version>
-		<author>bikerspade, rarenight</author>
+		<version>20260508-123203</version>
+		<author>bikerspade, Hiccup, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)" id="0001">
-		<description>[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)</description>
-		<rom name="[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia).rom" size="2048" crc="05602697" md5="7194bbc3d4814432c132b1ed9cf1c680" sha1="c280b20c8074ba9abb4be4338b538361dfae517f"/>
-	</game>
 	<game name="[BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia)" id="0024" cloneofid="0001">
 		<description>[BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia)</description>
 		<rom name="[BIOS] CreatiVision - Dick Smith Wizzard (Europe, Asia).rom" size="2048" crc="c3c590c6" md5="3b1ef759d8e3fb4071582efd33dd05f9" sha1="5ac620c529e4965efb5560fe824854a44c983757" sha256="5e3c95e10217007c5159a2ba3a60672888f5f8c87ba375a81ca9013e268b7bc8"/>
@@ -21,6 +17,10 @@
 	<game name="[BIOS] Laser 2001 (Europe, Asia)" id="0036" cloneofid="0001">
 		<description>[BIOS] Laser 2001 (Europe, Asia)</description>
 		<rom name="[BIOS] Laser 2001 (Europe, Asia).rom" size="16384" crc="4dc35c39" md5="4dfadfb1158f84e2df2b85b13f303986" sha1="c12e098c14ac0724869053df2b63277a3e413802" sha256="48a7fda99c1b9c0d90b70de0b4a9431a5a781f94d1874ee6d91830a638c9e5c3"/>
+	</game>
+	<game name="[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)" id="0001">
+		<description>[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia)</description>
+		<rom name="[BIOS] Rameses - Funvision - VZ 2000 (Europe, Asia).rom" size="2048" crc="05602697" md5="7194bbc3d4814432c132b1ed9cf1c680" sha1="c280b20c8074ba9abb4be4338b538361dfae517f"/>
 	</game>
 	<game name="[BIOS] Salora Manager (Finland)" id="0037" cloneofid="0001">
 		<description>[BIOS] Salora Manager (Finland)</description>
