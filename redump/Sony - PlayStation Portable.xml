@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3483) (2026-05-08 11-21-15)</description>
-		<version>2026-05-08 11-21-15</version>
-		<date>2026-05-08 11-21-15</date>
+		<description>Sony - PlayStation Portable - Discs (3484) (2026-05-10 15-44-54)</description>
+		<version>2026-05-10 15-44-54</version>
+		<date>2026-05-10 15-44-54</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17424,5 +17424,10 @@
 		<category>Games</category>
 		<description>Tama-Run (Japan)</description>
 		<rom name="Tama-Run (Japan).iso" size="352419840" crc="47329986" md5="9cf2ff6acc443ec3ec8ddcabf11fa93e" sha1="e37c042aab5ff7f7483c00b1f471ae0a729a5dab"/>
+	</game>
+	<game name="Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban)">
+		<category>Games</category>
+		<description>Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban)</description>
+		<rom name="Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban).iso" size="1811611648" crc="f564c4b3" md5="3e813bf8752502fdf57babab07350535" sha1="92694a26724a6612838408ff1212549ada8ce98d"/>
 	</game>
 </datafile>

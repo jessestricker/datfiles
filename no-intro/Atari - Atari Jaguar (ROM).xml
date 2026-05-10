@@ -4,15 +4,15 @@
 		<id>2</id>
 		<name>Atari - Atari Jaguar (ROM)</name>
 		<description>Atari - Atari Jaguar (ROM)</description>
-		<version>20250208-164242</version>
-		<author>Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
+		<version>20260509-221035</version>
+		<author>1988reload, Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Aircars (USA) (Beta) (1994-11-14)" id="0066" cloneofid="0056">
 		<description>Aircars (USA) (Beta) (1994-11-14)</description>
-		<rom name="Aircars (USA) (Beta) (1994-11-14).rom" size="2088960" crc="cfdb57c6" md5="1d6942892f80f7c369236e96979ca12a" sha1="f5992688c85833fee82e04be274143cf0366f428"/>
+		<rom name="Aircars (USA) (Beta) (1994-11-14).rom" size="2088960" crc="cfdb57c6" md5="1d6942892f80f7c369236e96979ca12a" sha1="f5992688c85833fee82e04be274143cf0366f428" sha256="25d94f904a1c353a1e549aac4ec904eb86435f5a31c4db6d5bab864501913cee"/>
 	</game>
 	<game name="Alien vs Predator (World)" id="0001">
 		<category>Games</category>
@@ -39,15 +39,15 @@
 	</game>
 	<game name="Atari Karts (World)" id="0007">
 		<description>Atari Karts (World)</description>
-		<rom name="Atari Karts (World).rom" size="4186112" crc="f816c3e6" md5="33bb6d4d2aa39989e9aa650e4cbeee88" sha1="5168453c88617a58bc33cf7c18631108d6376a81" status="verified"/>
+		<rom name="Atari Karts (World).rom" size="4186112" crc="f816c3e6" md5="33bb6d4d2aa39989e9aa650e4cbeee88" sha1="5168453c88617a58bc33cf7c18631108d6376a81" sha256="30412846ac2de6dccbff385d9cfd352cece2129c0dc7a5921ecb48c4f9c85562" status="verified"/>
 	</game>
 	<game name="Atari Karts (World) (Beta)" id="0079" cloneofid="0007">
 		<description>Atari Karts (World) (Beta)</description>
-		<rom name="Atari Karts (World) (Beta).rom" size="4186112" crc="2abc6001" md5="deae794870cb3387fe1511799b3a1fcb" sha1="5b61f7cfaf6736ddbd8f6e873d850d96951d34e4"/>
+		<rom name="Atari Karts (World) (Beta).rom" size="4186112" crc="2abc6001" md5="deae794870cb3387fe1511799b3a1fcb" sha1="5b61f7cfaf6736ddbd8f6e873d850d96951d34e4" sha256="3e36df9f7d93911d239e7cce16294c09b4772aa02eb2d6abc72872a7cafc9dbb"/>
 	</game>
 	<game name="Attack of the Mutant Penguins (World)" id="0008">
 		<description>Attack of the Mutant Penguins (World)</description>
-		<rom name="Attack of the Mutant Penguins (World).rom" size="2088960" crc="66a1567c" md5="dbba0926aa87529bd6007fe8b4a7282a" sha1="53f21a5d8b382a9934cb0907a65b28a519de2c55" status="verified"/>
+		<rom name="Attack of the Mutant Penguins (World).rom" size="2088960" crc="66a1567c" md5="dbba0926aa87529bd6007fe8b4a7282a" sha1="53f21a5d8b382a9934cb0907a65b28a519de2c55" sha256="35b9b79fac9556826b13add3669c3d621fcb4b06c31c8471f5bf5aec26db03f3" status="verified"/>
 	</game>
 	<game name="Barkley Shut Up and Jam (USA) (Beta)" id="0072" cloneofid="0071">
 		<category>Games</category>
@@ -124,7 +124,7 @@
 	</game>
 	<game name="Doom (World)" id="0016">
 		<description>Doom (World)</description>
-		<rom name="Doom (World).rom" size="4186112" crc="4ca68830" md5="1e3b7dfe15e4911bb7331f352eed3c33" sha1="42e3db28e5477e0d18b1d390338e8ddb1d667498" status="verified"/>
+		<rom name="Doom (World).rom" size="4186112" crc="4ca68830" md5="1e3b7dfe15e4911bb7331f352eed3c33" sha1="42e3db28e5477e0d18b1d390338e8ddb1d667498" sha256="e5f1f67a7383a3dbc44064e14b1b3c943dbd4778722e2c80887a354eb24add56" status="verified"/>
 	</game>
 	<game name="Double Dragon V - The Shadow Falls (World)" id="0017">
 		<description>Double Dragon V - The Shadow Falls (World)</description>
@@ -181,7 +181,7 @@
 	<game name="I-War (USA, Europe)" id="0026">
 		<category>Games</category>
 		<description>I-War (USA, Europe)</description>
-		<rom name="I-War (USA, Europe).rom" size="2088960" crc="705fa772" md5="a5d13bdbce3097f07121f444c430559b" sha1="6fa40243a9f7de26f10971a51d229a532cda5756" status="verified"/>
+		<rom name="I-War (USA, Europe).rom" size="2088960" crc="705fa772" md5="a5d13bdbce3097f07121f444c430559b" sha1="6fa40243a9f7de26f10971a51d229a532cda5756" sha256="d40113f89c7fff79d282b92b299d8beb3b9594f6bf19c1ffa90e9c0ba26eef17" status="verified"/>
 	</game>
 	<game name="I-War (USA, Europe) (Beta) (1995-10-20)" id="0115" cloneofid="0026">
 		<category>Demos</category>
@@ -397,7 +397,7 @@
 	</game>
 	<game name="Zoop (USA, Europe)" id="0052">
 		<description>Zoop (USA, Europe)</description>
-		<rom name="Zoop (USA, Europe).rom" size="1040384" crc="75679275" md5="b3821b3eba08ae049b6d994b8f0791ad" sha1="52005733b5e06215a9b64407767133d009349b60" status="verified"/>
+		<rom name="Zoop (USA, Europe).rom" size="1040384" crc="75679275" md5="b3821b3eba08ae049b6d994b8f0791ad" sha1="52005733b5e06215a9b64407767133d009349b60" sha256="1458dc0b69a55fb5ca288aee3efb987681539d68698515bc356b8d1c862fb3b2" status="verified"/>
 	</game>
 	<game name="Zzyorxx II (USA) (Demo)" id="0106">
 		<description>Zzyorxx II (USA) (Demo)</description>

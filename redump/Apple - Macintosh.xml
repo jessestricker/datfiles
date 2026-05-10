@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1339) (2026-05-05 19-54-54)</description>
-		<version>2026-05-05 19-54-54</version>
-		<date>2026-05-05 19-54-54</date>
+		<description>Apple - Macintosh - Discs (1339) (2026-05-10 10-53-03)</description>
+		<version>2026-05-10 10-53-03</version>
+		<date>2026-05-10 10-53-03</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -8825,10 +8825,10 @@
 		<rom name="Shadow Wraith (USA).cue" size="108" crc="3d5f585c" md5="7026be82d17bfa3f867ee69d584ddd3a" sha1="d415cbecedadfadd7b0342d4eec9235fcc706029"/>
 		<rom name="Shadow Wraith (USA).bin" size="31497984" crc="fad00b89" md5="b564e09fb4728bad52382af7b1a067f1" sha1="4d9a01988e3b2b118ced70e67505ce96eb990008"/>
 	</game>
-	<game name="LEGO Indiana Jones - The Original Adventures (USA)">
+	<game name="LEGO Indiana Jones - The Original Adventures (USA, Europe) (En,Ja,Fr,De,Es,It,Da,Ru)">
 		<category>Games</category>
-		<description>LEGO Indiana Jones - The Original Adventures (USA)</description>
-		<rom name="LEGO Indiana Jones - The Original Adventures (USA).iso" size="8538030080" crc="023b0aa9" md5="734bf5e5e20fc4e030eddb5c6af7e6a9" sha1="85479aeddaeeece3d6c30104aa9513fa3cd1563a"/>
+		<description>LEGO Indiana Jones - The Original Adventures (USA, Europe) (En,Ja,Fr,De,Es,It,Da,Ru)</description>
+		<rom name="LEGO Indiana Jones - The Original Adventures (USA, Europe) (En,Ja,Fr,De,Es,It,Da,Ru).iso" size="8538030080" crc="023b0aa9" md5="734bf5e5e20fc4e030eddb5c6af7e6a9" sha1="85479aeddaeeece3d6c30104aa9513fa3cd1563a"/>
 	</game>
 	<game name="Braveheart - Packaging + Manual (Europe) (Dev Assets)">
 		<category>Preproduction</category>
