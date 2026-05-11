@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260504-103615</version>
+		<version>20260510-073742</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3169,10 +3169,10 @@
 		<description>Dynowarz - The Destruction of Spondylus (USA)</description>
 		<rom name="Dynowarz - The Destruction of Spondylus (USA).nes" size="262160" crc="4170f21f" md5="c18de1d08066f83a00d6e2f3742746c8" sha1="0de1afef6453bea0f8b69294e1524195d5666758" sha256="6553ca07d273aca1b84c772a5291a4e887e3c8717046051bf24398e63d53756f" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console)" id="0646" cloneofid="1517">
+	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)" id="0646" cloneofid="1517">
 		<category>Games</category>
-		<description>EarthBound Beginnings (USA, Europe) (Virtual Console)</description>
-		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console).nes" size="524304" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757" status="verified" header="4E 45 53 1A 10 20 42 08 00 00 70 00 00 00 00 01"/>
+		<description>EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)</description>
+		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online).nes" size="524304" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757" status="verified" header="4E 45 53 1A 10 20 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Eggerland - Meikyuu no Fukkatsu (Japan)" id="0647">
 		<category>Games</category>
@@ -9793,9 +9793,9 @@
 		<description>Excitebike (Europe) (Virtual Console)</description>
 		<rom name="Excitebike (Europe) (Virtual Console).nes" size="40976" crc="5552bccd" md5="a1ffd12b8b88075eb685344752dd6d3e" sha1="5a52201a7029199d882e0f524086d17b6f987ef2" sha256="7c3c75715f192c2970292dff6856f506b07942c0a5739a1fc375c851c859c0c6" status="verified" header="4E 45 53 1A 02 01 03 08 00 00 70 00 01 00 00 01"/>
 	</game>
-	<game name="Excitebike (Japan, USA) (En) (Virtual Console)" id="2880" cloneofid="0666">
-		<description>Excitebike (Japan, USA) (En) (Virtual Console)</description>
-		<rom name="Excitebike (Japan, USA) (En) (Virtual Console).nes" size="40976" crc="7f6b35c4" md5="70fffbe3cd317a34d46ecb7960b31f82" sha1="963dbca732551244117cac8fc302cfc5a7d9a985" sha256="12dac9385bdae623f87f42ae110576cc926f3d2f8831f11e6041d3b74f487c9d" status="verified" header="4E 45 53 1A 02 01 03 08 00 00 70 00 00 00 00 01"/>
+	<game name="Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini)" id="2880" cloneofid="0666">
+		<description>Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini)</description>
+		<rom name="Excitebike (Japan, USA) (En) (Virtual Console, Classic Mini).nes" size="40976" crc="7f6b35c4" md5="70fffbe3cd317a34d46ecb7960b31f82" sha1="963dbca732551244117cac8fc302cfc5a7d9a985" sha256="12dac9385bdae623f87f42ae110576cc926f3d2f8831f11e6041d3b74f487c9d" status="verified" header="4E 45 53 1A 02 01 03 08 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Exploding Fist (World) (Digital)" id="2644" cloneofid="5662">
 		<category>Games</category>
@@ -11940,10 +11940,10 @@
 		<description>Tecmo Bowl (USA) (Rev 1)</description>
 		<rom name="Tecmo Bowl (USA) (Rev 1).nes" size="262160" crc="793f0b53" md5="fc18c841dc33d4a837779b019c7fe8a6" sha1="22faa1b3cf5cdddfacfbe1a67ebcb91b586d06f8" sha256="b3ff470a057fa4b60bbc50a2f4d857da2f8701235c7283470a242c3ebcb56b9b" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Tecmo Bowl (World) (Rev 1) (Virtual Console, Switch Online)" id="2964" cloneofid="2241">
+	<game name="Tecmo Bowl (World) (Rev 1) (Virtual Console, Classic Mini, Switch Online)" id="2964" cloneofid="2241">
 		<category>Games</category>
-		<description>Tecmo Bowl (World) (Rev 1) (Virtual Console, Switch Online)</description>
-		<rom name="Tecmo Bowl (World) (Rev 1) (Virtual Console, Switch Online).nes" size="262160" crc="5fec5735" md5="e8a226eeb1fdb9b99a9cf73ea4da1cb3" sha1="2a2569cc229b8699441e1e707a54e3fabcbab568" sha256="1e1b5cc05d48b9bc2dbf71ac3843ce473adebd47921d76a32de902bbaa6a36b1" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
+		<description>Tecmo Bowl (World) (Rev 1) (Virtual Console, Classic Mini, Switch Online)</description>
+		<rom name="Tecmo Bowl (World) (Rev 1) (Virtual Console, Classic Mini, Switch Online).nes" size="262160" crc="5fec5735" md5="e8a226eeb1fdb9b99a9cf73ea4da1cb3" sha1="2a2569cc229b8699441e1e707a54e3fabcbab568" sha256="1e1b5cc05d48b9bc2dbf71ac3843ce473adebd47921d76a32de902bbaa6a36b1" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Tecmo Cup - Football Game (Europe)" id="2242">
 		<category>Games</category>

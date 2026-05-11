@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260509-230452</version>
+		<version>20260510-214445</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -329,7 +329,7 @@
 	</game>
 	<game name="2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch (Germany)" id="6404">
 		<description>2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch (Germany)</description>
-		<rom name="2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch (Germany).nds" size="67108864" crc="d4e7a96c" md5="9e0cb243b7dc4a78f6426b460ec49c58" sha1="fcc7e0f26cc5df8ee2f7bba71d5b93f19434fa26" serial="TBDD"/>
+		<rom name="2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch (Germany).nds" size="67108864" crc="d4e7a96c" md5="9e0cb243b7dc4a78f6426b460ec49c58" sha1="fcc7e0f26cc5df8ee2f7bba71d5b93f19434fa26" sha256="78f3955940784c5ffa20cb71e5197a9fab04c0a3c354a0ebf91eb5bd3fda40db" status="verified" serial="TBDD"/>
 	</game>
 	<game name="2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany)" id="6468">
 		<description>2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany)</description>
@@ -1309,7 +1309,7 @@
 	</game>
 	<game name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)" id="0084" cloneofid="5481">
 		<description>Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="34cf0368" md5="a6b1b7e77e36a469ebeb8697e70f0cea" sha1="8fbee32e6c6871369848492c197a9ae2dd6a2f6a" serial="ALCP"/>
+		<rom name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="34cf0368" md5="a6b1b7e77e36a469ebeb8697e70f0cea" sha1="8fbee32e6c6871369848492c197a9ae2dd6a2f6a" sha256="b275896af610bce76947597b7877f05f4df29b7f13b074495b5cf57295629c64" serial="ALCP"/>
 	</game>
 	<game name="Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It) (Rev 1)" id="5481">
 		<description>Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
@@ -1457,7 +1457,7 @@
 	</game>
 	<game name="Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="3650">
 		<description>Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
-		<rom name="Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="e7eca32e" md5="3f63d4ceb24cda29b4748e23d925b521" sha1="5ae92209551d60ef22e5be261f12011935d541a5" serial="CQ8P"/>
+		<rom name="Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="e7eca32e" md5="3f63d4ceb24cda29b4748e23d925b521" sha1="5ae92209551d60ef22e5be261f12011935d541a5" sha256="ce1ac673d6d35d5c3bb3858a476a9e5adefd213a15b24d7d8ec67aff83ab19fd" status="verified" serial="CQ8P"/>
 	</game>
 	<game name="Aqua Panic! (USA) (En,Fr,Es)" id="5454" cloneofid="3650">
 		<description>Aqua Panic! (USA) (En,Fr,Es)</description>
@@ -2250,7 +2250,7 @@
 	</game>
 	<game name="Barnyard Blast - Swine of the Night (Europe) (En,Fr,De,Es,It,Pt)" id="2038">
 		<description>Barnyard Blast - Swine of the Night (Europe) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Barnyard Blast - Swine of the Night (Europe) (En,Fr,De,Es,It,Pt).nds" size="8388608" crc="2995bb0a" md5="fe3b746ec109ccabce1615e4ffdc495a" sha1="cb2765ad5b6bce13905e69551cdf0550c46e1141" serial="YQBP"/>
+		<rom name="Barnyard Blast - Swine of the Night (Europe) (En,Fr,De,Es,It,Pt).nds" size="8388608" crc="2995bb0a" md5="fe3b746ec109ccabce1615e4ffdc495a" sha1="cb2765ad5b6bce13905e69551cdf0550c46e1141" sha256="d73a9e7644cbdf3b875cd34c5399805abe5e1bf703e4a9f792c432fffcb24429" serial="YQBP"/>
 	</game>
 	<game name="Barnyard Blast - Swine of the Night (USA) (En,Fr,Es,Pt)" id="2111" cloneofid="2038">
 		<description>Barnyard Blast - Swine of the Night (USA) (En,Fr,Es,Pt)</description>
@@ -4081,7 +4081,7 @@
 	</game>
 	<game name="Catz 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="1615">
 		<description>Catz 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Catz 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="16777216" crc="f0c34163" md5="57931e3ad11a9d8b03467005b67649da" sha1="67595f0f487d68772a5114f9c5f639572a513b7b" serial="YC8P"/>
+		<rom name="Catz 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="16777216" crc="f0c34163" md5="57931e3ad11a9d8b03467005b67649da" sha1="67595f0f487d68772a5114f9c5f639572a513b7b" sha256="82b1cc2b205cc4d03da3467f3d75edaa4b33151e10f83cda2f6365708ba282e7" status="verified" serial="YC8P"/>
 	</game>
 	<game name="Catz 2 - Daisuki Nyan Nyan Park (Japan)" id="3711" cloneofid="1615">
 		<description>Catz 2 - Daisuki Nyan Nyan Park (Japan)</description>
@@ -6091,7 +6091,7 @@
 	</game>
 	<game name="Disney Friends (Germany)" id="2078" cloneofid="1524">
 		<description>Disney Friends (Germany)</description>
-		<rom name="Disney Friends (Germany).nds" size="67108864" crc="62e407cd" md5="4ba42487053db138601789cd3efdf6c5" sha1="043836a8e74bbb5864764df1b4c917cef9e13ff9" serial="AXVD"/>
+		<rom name="Disney Friends (Germany).nds" size="67108864" crc="62e407cd" md5="4ba42487053db138601789cd3efdf6c5" sha1="043836a8e74bbb5864764df1b4c917cef9e13ff9" sha256="c2b2501a307e8c431f1b603fba7014a16c11e3540e299b29648476bb225b1c53" serial="AXVD"/>
 	</game>
 	<game name="Disney Friends (USA)" id="2080" cloneofid="1524">
 		<description>Disney Friends (USA)</description>
@@ -8380,7 +8380,7 @@
 	</game>
 	<game name="Findet Nemo - Flucht in den Ozean (Germany)" id="0437" cloneofid="0897">
 		<description>Findet Nemo - Flucht in den Ozean (Germany)</description>
-		<rom name="Findet Nemo - Flucht in den Ozean (Germany).nds" size="33554432" crc="64a796ef" md5="04de01aa9d5169cea73d0da02edd5171" sha1="107600b7d5e549aa1f1d78c511d750eefb2bb13d" serial="AFND"/>
+		<rom name="Findet Nemo - Flucht in den Ozean (Germany).nds" size="33554432" crc="64a796ef" md5="04de01aa9d5169cea73d0da02edd5171" sha1="107600b7d5e549aa1f1d78c511d750eefb2bb13d" sha256="be3d03475b41a6b4b043a7c049cdc2d0cc7a43f0f8090df46df3eaac37be96b7" serial="AFND"/>
 	</game>
 	<game name="Finding Nemo - Escape to the Big Blue (USA)" id="0306" cloneofid="0897">
 		<description>Finding Nemo - Escape to the Big Blue (USA)</description>
@@ -11645,7 +11645,7 @@
 	</game>
 	<game name="Inazuma Eleven 2 - Eissturm (Germany)" id="6260" cloneofid="6009">
 		<description>Inazuma Eleven 2 - Eissturm (Germany)</description>
-		<rom name="Inazuma Eleven 2 - Eissturm (Germany).nds" size="268435456" crc="158e954b" md5="229f8498c709a3e1956d2a065440085b" sha1="3f2d1e6001ecdf3698252903a64e50eeffc9dfe2" serial="BEBD"/>
+		<rom name="Inazuma Eleven 2 - Eissturm (Germany).nds" size="268435456" crc="158e954b" md5="229f8498c709a3e1956d2a065440085b" sha1="3f2d1e6001ecdf3698252903a64e50eeffc9dfe2" sha256="f82e3f8986e5b64da2df602f2a5d4d6d3000e9d4d860857193dcd97c3bc2cd67" serial="BEBD"/>
 	</game>
 	<game name="Inazuma Eleven 2 - Feuersturm (Germany)" id="6035" cloneofid="6010">
 		<description>Inazuma Eleven 2 - Feuersturm (Germany)</description>
@@ -12811,7 +12811,7 @@
 	</game>
 	<game name="K11 - Kommissare im Einsatz (Germany)" id="4880">
 		<description>K11 - Kommissare im Einsatz (Germany)</description>
-		<rom name="K11 - Kommissare im Einsatz (Germany).nds" size="67108864" crc="5c52dcc1" md5="d4323522ef766aae12cb857b996643f2" sha1="f8b01cf101f19b127e9983678cc2cb089c95572c" serial="BKFD"/>
+		<rom name="K11 - Kommissare im Einsatz (Germany).nds" size="67108864" crc="5c52dcc1" md5="d4323522ef766aae12cb857b996643f2" sha1="f8b01cf101f19b127e9983678cc2cb089c95572c" sha256="5bf9ce9fc0447f08de16707da20aa51e69b485868ba43a10ed0d7132d676d724" serial="BKFD"/>
 	</game>
 	<game name="K3 en de Vrolijke Noten (Netherlands)" id="6440">
 		<description>K3 en de Vrolijke Noten (Netherlands)</description>
@@ -15461,7 +15461,7 @@
 	</game>
 	<game name="Maeh Jongg DS (Germany)" id="3611">
 		<description>Maeh Jongg DS (Germany)</description>
-		<rom name="Maeh Jongg DS (Germany).nds" size="8388608" crc="c22174ea" md5="68aa26e3e4d4cb4a28a26f7b5b0da9ed" sha1="f1d98b7976c37c85502d245bd4e93a2fcb0b41ca" serial="C4JD"/>
+		<rom name="Maeh Jongg DS (Germany).nds" size="8388608" crc="c22174ea" md5="68aa26e3e4d4cb4a28a26f7b5b0da9ed" sha1="f1d98b7976c37c85502d245bd4e93a2fcb0b41ca" sha256="490b631c8fbde7cb7e27aa370a4cd12745b872b5dfbd3bb28aa40622c7c74190" serial="C4JD"/>
 	</game>
 	<game name="Maeilmaeil - DS Dunoe Training (Korea)" id="0822" cloneofid="0457">
 		<description>Maeilmaeil - DS Dunoe Training (Korea)</description>
@@ -22622,7 +22622,7 @@
 	</game>
 	<game name="Puss in Boots (Europe) (En,Fr,De,Es,It,Nl)" id="5898">
 		<description>Puss in Boots (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Puss in Boots (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="837bc767" md5="0f627ce3b8adc1e3e655025e1401cb42" sha1="40924d9bfc9e9314cd37380355957e7672e69c2d" serial="B6SP"/>
+		<rom name="Puss in Boots (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="837bc767" md5="0f627ce3b8adc1e3e655025e1401cb42" sha1="40924d9bfc9e9314cd37380355957e7672e69c2d" sha256="1ad0925552f2d0621d1bbae76164fa94d1530c356b4ff89476abbdfa34cc31c7" status="verified" serial="B6SP"/>
 	</game>
 	<game name="Puyo Pop Fever (USA) (En,Ja)" id="0072" cloneofid="0508">
 		<description>Puyo Pop Fever (USA) (En,Ja)</description>
@@ -22674,7 +22674,7 @@
 	</game>
 	<game name="Puzzle Bobble Galaxy (Europe) (En,Fr,De,Es,It)" id="4144">
 		<description>Puzzle Bobble Galaxy (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Puzzle Bobble Galaxy (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d7f08957" md5="2b351dc364ede382cb443ac81cdb69a1" sha1="052a62ef320b71fc698dedb8d5a325999f8f5b41" status="verified" serial="CB6P"/>
+		<rom name="Puzzle Bobble Galaxy (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d7f08957" md5="2b351dc364ede382cb443ac81cdb69a1" sha1="052a62ef320b71fc698dedb8d5a325999f8f5b41" sha256="ef56b80b8442f32afd6d4ce20a2d9e497b68523f5502e0c9a9f8e38b12f4e0f3" status="verified" serial="CB6P"/>
 	</game>
 	<game name="Puzzle Chronicles (USA) (En,Fr,Es)" id="4695" cloneofid="4819">
 		<description>Puzzle Chronicles (USA) (En,Fr,Es)</description>
@@ -24608,7 +24608,7 @@
 	</game>
 	<game name="Shrek - Forever After (Europe) (De,Es) (NDSi Enhanced)" id="5234" cloneofid="5015">
 		<description>Shrek - Forever After (Europe) (De,Es) (NDSi Enhanced)</description>
-		<rom name="Shrek - Forever After (Europe) (De,Es) (NDSi Enhanced).nds" size="67108864" crc="bc1d8238" md5="ad73c8ff2b8b436ad1da7583201dc16f" sha1="0ab3ca59a933255d5fa927d91a95ce80f55a76d0" serial="VSKX"/>
+		<rom name="Shrek - Forever After (Europe) (De,Es) (NDSi Enhanced).nds" size="67108864" crc="bc1d8238" md5="ad73c8ff2b8b436ad1da7583201dc16f" sha1="0ab3ca59a933255d5fa927d91a95ce80f55a76d0" sha256="0e03c2e8c4edbb8c5d42a9ba6232c78f121792fa9242400b5f5034e00e32aaae" serial="VSKX"/>
 	</game>
 	<game name="Shrek - Forever After (USA) (En,Fr) (NDSi Enhanced)" id="5271" cloneofid="5015">
 		<description>Shrek - Forever After (USA) (En,Fr) (NDSi Enhanced)</description>
@@ -25602,7 +25602,7 @@
 	</game>
 	<game name="Spectrobes (Europe) (En,Fr,De,Es,It)" id="0875">
 		<description>Spectrobes (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Spectrobes (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="ccec51e0" md5="e7c6d45ad92fafb8e0a5055f84bd3842" sha1="6ba52757715bac8b440378b98732a7c46de35020" status="verified" serial="ASUP"/>
+		<rom name="Spectrobes (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="ccec51e0" md5="e7c6d45ad92fafb8e0a5055f84bd3842" sha1="6ba52757715bac8b440378b98732a7c46de35020" sha256="d092f0584bb16fe9c147baad6fdfd67811291b7f329e82ee3578d29ce13f3d48" status="verified" serial="ASUP"/>
 	</game>
 	<game name="Spectrobes (USA) (En,Fr,De,Es,It)" id="0911" cloneofid="0875">
 		<description>Spectrobes (USA) (En,Fr,De,Es,It)</description>
@@ -25734,7 +25734,7 @@
 	</game>
 	<game name="Spider-Man 3 (Germany)" id="1040" cloneofid="1066">
 		<description>Spider-Man 3 (Germany)</description>
-		<rom name="Spider-Man 3 (Germany).nds" size="67108864" crc="c71f34ce" md5="eef81ceb0e5dd3fcfca3ead374ee98a2" sha1="2f5f946ceb9b91c2d8b66e251f7b796ff473b287" serial="AQ3D"/>
+		<rom name="Spider-Man 3 (Germany).nds" size="67108864" crc="c71f34ce" md5="eef81ceb0e5dd3fcfca3ead374ee98a2" sha1="2f5f946ceb9b91c2d8b66e251f7b796ff473b287" sha256="ad20d62979704f52b6adff948b5b247235cd47cfe6b8232abccf8d4b7cfcfcca" serial="AQ3D"/>
 	</game>
 	<game name="Spider-Man 3 (France)" id="1048" cloneofid="1066">
 		<description>Spider-Man 3 (France)</description>
@@ -26378,7 +26378,7 @@
 	</game>
 	<game name="Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel (Germany)" id="3207">
 		<description>Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel (Germany)</description>
-		<rom name="Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel (Germany).nds" size="16777216" crc="0f18600e" md5="63f3dcd7b02dcb42296a6f63fee334f5" sha1="2855029030bd9ddc5869459b0897d3895faa8638" serial="CKVD"/>
+		<rom name="Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel (Germany).nds" size="16777216" crc="0f18600e" md5="63f3dcd7b02dcb42296a6f63fee334f5" sha1="2855029030bd9ddc5869459b0897d3895faa8638" sha256="56a61ac3d58d64245becb59332130e1547ef37cb84bee9266c23890d6014d237" serial="CKVD"/>
 	</game>
 	<game name="Sugar Bunnies DS - Yume no Sweets Koubou (Japan) (Rev 1)" id="4690">
 		<category>Games</category>
@@ -30520,7 +30520,7 @@
 	</game>
 	<game name="Youda Farmer (Europe) (En,Fr,De) (Rev 1) (NDSi Enhanced)" id="6494">
 		<description>Youda Farmer (Europe) (En,Fr,De) (Rev 1) (NDSi Enhanced)</description>
-		<rom name="Youda Farmer (Europe) (En,Fr,De) (Rev 1) (NDSi Enhanced).nds" size="33554432" crc="f9d703fb" md5="a664151a8dea79fbe1a61349f81473a5" sha1="9be7aaafeb549ce5993fad1ccf586ee248dabe81" serial="VYFP"/>
+		<rom name="Youda Farmer (Europe) (En,Fr,De) (Rev 1) (NDSi Enhanced).nds" size="33554432" crc="f9d703fb" md5="a664151a8dea79fbe1a61349f81473a5" sha1="9be7aaafeb549ce5993fad1ccf586ee248dabe81" sha256="210aca7c829de6fd9266fd4b4c0e0c9d274e04a178d5c7dbe9d5b72c57c0b106" serial="VYFP"/>
 	</game>
 	<game name="Youda Legend - The Curse of the Amsterdam Diamond (Europe) (Fr,Nl) (NDSi Enhanced)" id="5938" cloneofid="6498">
 		<description>Youda Legend - The Curse of the Amsterdam Diamond (Europe) (Fr,Nl) (NDSi Enhanced)</description>

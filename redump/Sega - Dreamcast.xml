@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1515) (2026-05-08 12-00-57)</description>
-		<version>2026-05-08 12-00-57</version>
-		<date>2026-05-08 12-00-57</date>
+		<description>Sega - Dreamcast - Discs (1516) (2026-05-11 17-37-29)</description>
+		<version>2026-05-11 17-37-29</version>
+		<date>2026-05-11 17-37-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18671,5 +18671,13 @@
 		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 1).bin" size="1992144" crc="8c987832" md5="87eea713edec9b1169d0e03f573067af" sha1="069b34758a6f2dcae2224fc434c7c2177e5c1c43"/>
 		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Track 3).bin" size="1185760800" crc="8543708d" md5="c3e46def4b87fe50bcc0bf58e0d8cd63" sha1="289c060021ad4fb12bc9886f06563b084e5d0331"/>
+	</game>
+	<game name="Tee Off (Europe) (Beta) (1999-12-19)">
+		<category>Preproduction</category>
+		<description>Tee Off (Europe) (Beta) (1999-12-19)</description>
+		<rom name="Tee Off (Europe) (Beta) (1999-12-19).cue" size="402" crc="57eb7ef7" md5="4bcf5442fd8d71c0e344f45304c0248e" sha1="753fd0c14d307e5dbe8dd25c85e6d0858702dfc6"/>
+		<rom name="Tee Off (Europe) (Beta) (1999-12-19) (Track 1).bin" size="15262128" crc="d3bea28d" md5="3dda33407840b9517380997e0aa61efb" sha1="37cdafad801e4af82ac8b4da2812682510e52685"/>
+		<rom name="Tee Off (Europe) (Beta) (1999-12-19) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
+		<rom name="Tee Off (Europe) (Beta) (1999-12-19) (Track 3).bin" size="1185760800" crc="199f6c37" md5="27a2d06d365a64e8d8383f63e59ee0ec" sha1="d77a140a46330eff782bca03680e5b309b768a40"/>
 	</game>
 </datafile>

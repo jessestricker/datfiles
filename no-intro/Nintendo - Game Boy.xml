@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260501-055403</version>
+		<version>20260510-044928</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6662,9 +6662,41 @@
 		<description>Splitz (Europe)</description>
 		<rom name="Splitz (Europe).gb" size="65536" crc="112487c9" md5="9ecb13a68c8c58d90dd15157440d5b10" sha1="27a8c04bf7126d2b9f564b5f8f709c08817d9692" sha256="31b92ae1c10e59372e14fe78cda20556d6ceba86930c60cc2a6bab8100f3a4b5"/>
 	</game>
-	<game name="Splitz (Europe) (Beta)" id="1660" cloneofid="1258">
-		<description>Splitz (Europe) (Beta)</description>
-		<rom name="Splitz (Europe) (Beta).gb" size="131072" crc="5e8f955e" md5="6add9bf46fd945f6635419ad60988334" sha1="5f36290557f23c48ca7f2f17a1af9b691ede5bff" sha256="a330a9f8813894b805fd21a909ab6e3451a9c7fbc7a1ffc528d96e1f07742140"/>
+	<game name="Splitz (Europe) (Beta 6)" id="1660" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 6)</description>
+		<rom name="Splitz (Europe) (Beta 6).gb" size="131072" crc="5e8f955e" md5="6add9bf46fd945f6635419ad60988334" sha1="5f36290557f23c48ca7f2f17a1af9b691ede5bff" sha256="a330a9f8813894b805fd21a909ab6e3451a9c7fbc7a1ffc528d96e1f07742140"/>
+	</game>
+	<game name="Splitz (Europe) (Beta 1) (1992-08-11)" id="2575" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 1) (1992-08-11)</description>
+		<rom name="Splitz (Europe) (Beta 1) (1992-08-11).gb" size="32768" crc="42a3ad84" md5="167d89c0c40679a325ac487d5b50a6b9" sha1="eff9d8dd2f227e554f354bb52db8de3463c0bd04" sha256="a61a3aa34053565d382ad6ae373549d19bfa7b6cd29c8b1cf7f75695ed02b9c9"/>
+	</game>
+	<game name="Splitz (Europe) (Beta 2) (1992-09-02)" id="2576" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 2) (1992-09-02)</description>
+		<rom name="Splitz (Europe) (Beta 2) (1992-09-02).gb" size="131072" crc="2982ef38" md5="936f048130da70e2ff6dc6f8f87b1961" sha1="c68fddaa5ec7e4f535258d6ff92640e4ee23eb55" sha256="0527e06dc2db29ddca2516f6dfabf6d3c2007d03c34303fe1e17a97422fed650"/>
+	</game>
+	<game name="Splitz (Europe) (Beta 3) (1992-10-28)" id="2577" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 3) (1992-10-28)</description>
+		<rom name="Splitz (Europe) (Beta 3) (1992-10-28).gb" size="98304" crc="9fdf113c" md5="9aca6d99a37fd0c1b409fbdc2e360464" sha1="eec46d9d1077c1c31ea64e902412be87430d984a" sha256="efaf61bce72803bac234f26c0d2069d463827069c618a5d8980d50ffcdc6aaf2"/>
+	</game>
+	<game name="Splitz (Europe) (Beta 4) (1993-01-19)" id="2578" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 4) (1993-01-19)</description>
+		<rom name="Splitz (Europe) (Beta 4) (1993-01-19).gb" size="65536" crc="6ca9f06e" md5="e7e228238420e585527f7140a1722b96" sha1="4adcb454e7ffb6be06e236a2c73244d668a0994b" sha256="78f5c155203ef48a9c14878139ac34112e1f4e59dbfe5c0a072168804ac64730"/>
+	</game>
+	<game name="Splitz (Europe) (Beta 5) (1993-02-17)" id="2579" cloneofid="1258">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Splitz (Europe) (Beta 5) (1993-02-17)</description>
+		<rom name="Splitz (Europe) (Beta 5) (1993-02-17).gb" size="65536" crc="798468c3" md5="ace0ef8ad2009695c5de359a57c3e21e" sha1="e9fef0ca850c832370b4ef188ff31c5943cdb067" sha256="2a6446df7d7da410b2c94cce3b582ca6961e616306abfe3cf51784c6f360ed8f"/>
 	</game>
 	<game name="Splitz - Nigaoe 15 Game (Japan) (En)" id="1259" cloneofid="1258">
 		<category>Games</category>

@@ -4,7 +4,7 @@
 		<id>2</id>
 		<name>Atari - Atari Jaguar (ROM)</name>
 		<description>Atari - Atari Jaguar (ROM)</description>
-		<version>20260509-221035</version>
+		<version>20260510-125842</version>
 		<author>1988reload, Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -309,11 +309,11 @@
 	</game>
 	<game name="Syndicate (World)" id="0041">
 		<description>Syndicate (World)</description>
-		<rom name="Syndicate (World).rom" size="2088960" crc="e55c67ab" md5="69664d59a1f0ef3aaf924ff6a17e35ab" sha1="ee7f095d79403c569e83234a7b5401610b82f6dc" status="verified"/>
+		<rom name="Syndicate (World).rom" size="2088960" crc="e55c67ab" md5="69664d59a1f0ef3aaf924ff6a17e35ab" sha1="ee7f095d79403c569e83234a7b5401610b82f6dc" sha256="f66835fba7c06f23e76504cf17db4c6eb9cbf69643dff4a4b2958b907cee7951" status="verified"/>
 	</game>
 	<game name="Tempest 2000 (World)" id="0042">
 		<description>Tempest 2000 (World)</description>
-		<rom name="Tempest 2000 (World).rom" size="2088960" crc="f5221fca" md5="59acf9110ba6a047abb872970a33ce68" sha1="563b42d2de68ed02a7e420b957709e56921b5baa" status="verified"/>
+		<rom name="Tempest 2000 (World).rom" size="2088960" crc="f5221fca" md5="59acf9110ba6a047abb872970a33ce68" sha1="563b42d2de68ed02a7e420b957709e56921b5baa" sha256="a1c317b5d66a4e399f90ecf1fe0f18619d37257b430ab5271a7cee61803ba9dc" status="verified"/>
 	</game>
 	<game name="Thea Realm Fighters (USA) (Proto 2)" id="0090">
 		<description>Thea Realm Fighters (USA) (Proto 2)</description>
@@ -325,7 +325,7 @@
 	</game>
 	<game name="Theme Park (World)" id="0043">
 		<description>Theme Park (World)</description>
-		<rom name="Theme Park (World).rom" size="2088960" crc="76c37fc8" md5="b132c2b4e230874788421f8606286ebe" sha1="32f47cd7b261727f88b1b2d2c37e0cf524a6ddb6" status="verified"/>
+		<rom name="Theme Park (World).rom" size="2088960" crc="76c37fc8" md5="b132c2b4e230874788421f8606286ebe" sha1="32f47cd7b261727f88b1b2d2c37e0cf524a6ddb6" sha256="f9b595b0845b538c6145d56350a5034f2086d3488532b09392ea66c4e835c7ab" status="verified"/>
 	</game>
 	<game name="Tiny Toon Adventures (USA) (Proto)" id="0094">
 		<description>Tiny Toon Adventures (USA) (Proto)</description>

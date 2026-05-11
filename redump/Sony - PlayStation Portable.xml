@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3484) (2026-05-10 15-44-54)</description>
-		<version>2026-05-10 15-44-54</version>
-		<date>2026-05-10 15-44-54</date>
+		<description>Sony - PlayStation Portable - Discs (3485) (2026-05-11 16-09-47)</description>
+		<version>2026-05-11 16-09-47</version>
+		<date>2026-05-11 16-09-47</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17429,5 +17429,10 @@
 		<category>Games</category>
 		<description>Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban)</description>
 		<rom name="Tenshin Ranman - Happy Go Lucky!! (Japan) (Genteiban).iso" size="1811611648" crc="f564c4b3" md5="3e813bf8752502fdf57babab07350535" sha1="92694a26724a6612838408ff1212549ada8ce98d"/>
+	</game>
+	<game name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)</description>
+		<rom name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan).iso" size="1285849088" crc="ef71bc2d" md5="3c20445a808330006022a8505a06fd2b" sha1="b1941144ff2492f6a0156355e591fcb64794fffc"/>
 	</game>
 </datafile>
