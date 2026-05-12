@@ -4,7 +4,7 @@
 		<id>2</id>
 		<name>Atari - Atari Jaguar (ROM)</name>
 		<description>Atari - Atari Jaguar (ROM)</description>
-		<version>20260510-125842</version>
+		<version>20260511-190816</version>
 		<author>1988reload, Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -305,7 +305,7 @@
 	</game>
 	<game name="Supercross 3D (USA, Europe)" id="0040">
 		<description>Supercross 3D (USA, Europe)</description>
-		<rom name="Supercross 3D (USA, Europe).rom" size="2088960" crc="e97f8282" md5="bc28c6f5b48607febcfa1737451d2670" sha1="622d8482302e2f758fd316091228d1476b32d1f1" status="verified"/>
+		<rom name="Supercross 3D (USA, Europe).rom" size="2088960" crc="e97f8282" md5="bc28c6f5b48607febcfa1737451d2670" sha1="622d8482302e2f758fd316091228d1476b32d1f1" sha256="6e188551a6f2bcc821ad4955d6f4fdfd3c4b980589c94e91090d730ed5a1d01a" status="verified"/>
 	</game>
 	<game name="Syndicate (World)" id="0041">
 		<description>Syndicate (World)</description>
@@ -338,7 +338,7 @@
 	</game>
 	<game name="Towers II - Plight of the Stargazer (USA, Europe)" id="0065">
 		<description>Towers II - Plight of the Stargazer (USA, Europe)</description>
-		<rom name="Towers II - Plight of the Stargazer (USA, Europe).rom" size="2088960" crc="3241ab6a" md5="e630a0077066b1065aabe357d618629c" sha1="02a7def122325c960761ccf64c43f73d37cee332" status="verified"/>
+		<rom name="Towers II - Plight of the Stargazer (USA, Europe).rom" size="2088960" crc="3241ab6a" md5="e630a0077066b1065aabe357d618629c" sha1="02a7def122325c960761ccf64c43f73d37cee332" sha256="cd7c1a080b0f10e2c25aac97bad1a67097aa4b92f9159b18b21c175dbcff2194" status="verified"/>
 	</game>
 	<game name="Trevor McFur in the Crescent Galaxy (World) (Rev A)" id="0044">
 		<description>Trevor McFur in the Crescent Galaxy (World) (Rev A)</description>
@@ -384,7 +384,7 @@
 	</game>
 	<game name="Wolfenstein 3D (World)" id="0050">
 		<description>Wolfenstein 3D (World)</description>
-		<rom name="Wolfenstein 3D (World).rom" size="2088960" crc="7b52ecd8" md5="e95a5d4d625640c15c1ec376eba2abee" sha1="8f868977af95270f5c9af373034febb544f5bd96" status="verified"/>
+		<rom name="Wolfenstein 3D (World).rom" size="2088960" crc="7b52ecd8" md5="e95a5d4d625640c15c1ec376eba2abee" sha1="8f868977af95270f5c9af373034febb544f5bd96" sha256="1304c4509cd0e70dc1438a4d062f7cc2600b7c02e52a9d410517056091aa0df9" status="verified"/>
 	</game>
 	<game name="Zero 5 (USA) (Beta)" id="0098" cloneofid="0054">
 		<category>Games</category>

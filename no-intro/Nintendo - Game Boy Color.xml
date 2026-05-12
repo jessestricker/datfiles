@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260505-192202</version>
+		<version>20260511-104159</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5765,8 +5765,21 @@
 		<rom name="Road Champs - BXS Stunt Biking (USA, Europe).gbc" size="1048576" crc="98c59706" md5="618be0636a482b1c5e5898e7cb5f1bb3" sha1="15134178346c5209197f4847d7de5ef86be36b85" sha256="c447358cabfb1d72d872732b47684990ba800a4e18d312d82bc70f2b54a83205" status="verified"/>
 	</game>
 	<game name="Road Rash (USA, Europe)" id="1018">
+		<category>Games</category>
 		<description>Road Rash (USA, Europe)</description>
 		<rom name="Road Rash (USA, Europe).gbc" size="1048576" crc="11025eeb" md5="f5767f97f44365b703eae78afb7562e6" sha1="b3329c0f92c1a6a6cfa894f487f68a7fcceb5844"/>
+	</game>
+	<game name="Road Rash (USA, Europe) (Beta) (2000-08-07)" id="2848" cloneofid="1018">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Road Rash (USA, Europe) (Beta) (2000-08-07)</description>
+		<rom name="Road Rash (USA, Europe) (Beta) (2000-08-07).gbc" size="1048576" crc="785ca36c" md5="eb3ab098fbcb54a487e6745ac24547aa" sha1="99d901161a3f6198ff9a20f61dd106afa9a377ee" sha256="794ed4f9d96406c55529e9ca58c0756aae301002e7aea5557fa4a5610ab94e89" serial="BRRE"/>
+	</game>
+	<game name="Road Rash (USA, Europe) (Beta) (2000-08-10)" id="2849" cloneofid="1018">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Road Rash (USA, Europe) (Beta) (2000-08-10)</description>
+		<rom name="Road Rash (USA, Europe) (Beta) (2000-08-10).gbc" size="1048576" crc="b71c04e1" md5="6b419266e1c2527f45ae37ad72289d68" sha1="64ab483f5c4d85cac76de5e708f5b23479bd5b53" sha256="f141cc5329e216f996e964fedd116d533e5ca3ed5b28fae0155c088fb7163e3a" serial="BRRE"/>
 	</game>
 	<game name="Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)" id="1020">
 		<description>Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</description>

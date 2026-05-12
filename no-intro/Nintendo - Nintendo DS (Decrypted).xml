@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260510-214445</version>
+		<version>20260511-203421</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -369,7 +369,7 @@
 	</game>
 	<game name="2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It)" id="6105">
 		<description>2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="84177a46" md5="14c0a9880e325e8253ca8265837c6a8f" sha1="58e0c6ece14e0e56bc04cab31a461f9f975f1bab" serial="TMTP"/>
+		<rom name="2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="84177a46" md5="14c0a9880e325e8253ca8265837c6a8f" sha1="58e0c6ece14e0e56bc04cab31a461f9f975f1bab" sha256="392b06c4378145a9df4c6f5048ad0737b17be87a249d8141abab82dc061c860e" serial="TMTP"/>
 	</game>
 	<game name="2-Pack - Pinkalicious - It's Party Time! &amp; Silverlicious - Sweet Adventure (USA)" id="6366">
 		<description>2-Pack - Pinkalicious - It's Party Time! &amp; Silverlicious - Sweet Adventure (USA)</description>
@@ -1028,7 +1028,7 @@
 	</game>
 	<game name="Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It)" id="6048">
 		<description>Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="456fc615" md5="47afef56558e746dabe814dddde806ae" sha1="eccc9261d812ba83add10ffb34231bde2512ac3e" serial="TAMP"/>
+		<rom name="Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="456fc615" md5="47afef56558e746dabe814dddde806ae" sha1="eccc9261d812ba83add10ffb34231bde2512ac3e" sha256="f63a56143320b7d8eb31293f5d6a3bef20a0093110671749c83da54042da7eae" serial="TAMP"/>
 	</game>
 	<game name="Amazing Spider-Man, The (USA) (En,Fr,Es)" id="6084" cloneofid="6048">
 		<description>Amazing Spider-Man, The (USA) (En,Fr,Es)</description>
@@ -1178,7 +1178,7 @@
 	</game>
 	<game name="Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl)" id="5343">
 		<description>Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="7a13f5bb" md5="e504dfb09b9445264e2e9523059ef7f3" sha1="9e05e3438647a04e303239a0f3aec51cd02f8879" serial="BXCP"/>
+		<rom name="Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="7a13f5bb" md5="e504dfb09b9445264e2e9523059ef7f3" sha1="9e05e3438647a04e303239a0f3aec51cd02f8879" sha256="0a7e8aaa881e8c8bc2212c9b5e6216493d0809df6f1817cbc9d3abad6a424a3f" status="verified" serial="BXCP"/>
 	</game>
 	<game name="Angel Cat Sugar (Europe) (Sv,No,Da,Fi)" id="4178" cloneofid="4332">
 		<category>Games</category>
@@ -2559,7 +2559,7 @@
 	</game>
 	<game name="Best of Tests DS (Europe) (En,Fr,De,Es,It,Pt)" id="1465">
 		<description>Best of Tests DS (Europe) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Best of Tests DS (Europe) (En,Fr,De,Es,It,Pt).nds" size="8388608" crc="b0260e7c" md5="eb53f1f08c677686c5afeb15b7316a36" sha1="49993bd2ab3d4f06832c98e590ad8569af439354" serial="YT2P"/>
+		<rom name="Best of Tests DS (Europe) (En,Fr,De,Es,It,Pt).nds" size="8388608" crc="b0260e7c" md5="eb53f1f08c677686c5afeb15b7316a36" sha1="49993bd2ab3d4f06832c98e590ad8569af439354" sha256="693bbe725d51267ff142956c05f69bd32171b6edeeaff79dbd2dd49c6262b8cd" status="verified" serial="YT2P"/>
 	</game>
 	<game name="Best of Tests DS (USA) (En,Fr,Es)" id="2102" cloneofid="1465">
 		<description>Best of Tests DS (USA) (En,Fr,Es)</description>
@@ -3984,7 +3984,7 @@
 	</game>
 	<game name="Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="3732">
 		<description>Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="16777216" crc="320a20d3" md5="b87077036518b89261376622100fc918" sha1="f607340417b77ef9181d30f3c4c261123e658b07" serial="CC2P"/>
+		<rom name="Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="16777216" crc="320a20d3" md5="b87077036518b89261376622100fc918" sha1="f607340417b77ef9181d30f3c4c261123e658b07" sha256="c4b53e2c27d3e1a0137a82ffa44b25addc3d534a075f6eccff838a7eb7b234cb" status="verified" serial="CC2P"/>
 	</game>
 	<game name="Castlevania - Dawn of Sorrow (USA) (Demo) (Kiosk)" id="x023" cloneofid="0105">
 		<description>Castlevania - Dawn of Sorrow (USA) (Demo) (Kiosk)</description>
@@ -5358,7 +5358,7 @@
 	</game>
 	<game name="CSI - Crime Scene Investigation - Dark Motives (Europe) (En,Fr,De,Es,It)" id="1542">
 		<description>CSI - Crime Scene Investigation - Dark Motives (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="CSI - Crime Scene Investigation - Dark Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="97de4f06" md5="e99794a38e9ffdf166edee82baa1c951" sha1="d888c088c3169463c296f4b219fc0534dd904514" serial="YDMP"/>
+		<rom name="CSI - Crime Scene Investigation - Dark Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="97de4f06" md5="e99794a38e9ffdf166edee82baa1c951" sha1="d888c088c3169463c296f4b219fc0534dd904514" sha256="e560cf85db97a6de01f13ae91c5abc23a07d272063528e0d4e3b0a70c1ec6b19" status="verified" serial="YDMP"/>
 	</game>
 	<game name="CSI - Crime Scene Investigation - Dark Motives (USA) (En,Fr,De,Es,It)" id="1787" cloneofid="1542">
 		<description>CSI - Crime Scene Investigation - Dark Motives (USA) (En,Fr,De,Es,It)</description>
@@ -5474,7 +5474,7 @@
 	</game>
 	<game name="Dance! - It's Your Stage (Europe) (En,De) (NDSi Enhanced)" id="5190">
 		<description>Dance! - It's Your Stage (Europe) (En,De) (NDSi Enhanced)</description>
-		<rom name="Dance! - It's Your Stage (Europe) (En,De) (NDSi Enhanced).nds" size="67108864" crc="8194cff2" md5="96d0e0955eba6b1a334057d2db7b4247" sha1="21e7bcf95d99a83cdfe8dc1d977e3ab46683da75" serial="VD4P"/>
+		<rom name="Dance! - It's Your Stage (Europe) (En,De) (NDSi Enhanced).nds" size="67108864" crc="8194cff2" md5="96d0e0955eba6b1a334057d2db7b4247" sha1="21e7bcf95d99a83cdfe8dc1d977e3ab46683da75" sha256="32ad0cb02fb3761481d5caa3fc760636fdfe7519d5267db71cfc186e08024f5e" serial="VD4P"/>
 	</game>
 	<game name="Dancing on Ice (Europe)" id="5113">
 		<description>Dancing on Ice (Europe)</description>
@@ -7458,7 +7458,7 @@
 	</game>
 	<game name="Ed's Farm (Europe) (En,Fr,De,Es,It)" id="1455">
 		<description>Ed's Farm (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ed's Farm (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="1da93426" md5="e1bed581e320b736f6713f60d9ade0ab" sha1="89a23d86c75b7442ab4b51ca45982af19a7d39f8" serial="AEDP"/>
+		<rom name="Ed's Farm (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="1da93426" md5="e1bed581e320b736f6713f60d9ade0ab" sha1="89a23d86c75b7442ab4b51ca45982af19a7d39f8" sha256="79d6b1af8a718da4bd07c3109c431ecb52bce3ffde0940a28a2d7b6b12d45758" serial="AEDP"/>
 	</game>
 	<game name="Edamoto Naomi no Shiawase Kitchen - Kakushi Aji wa Anata ga Kimete ne (Japan)" id="0649" cloneofid="5579">
 		<description>Edamoto Naomi no Shiawase Kitchen - Kakushi Aji wa Anata ga Kimete ne (Japan)</description>
@@ -8216,7 +8216,7 @@
 	</game>
 	<game name="FIFA 08 (Europe) (En,Fr,De,Es,It)" id="1441" cloneofid="6532">
 		<description>FIFA 08 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="FIFA 08 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="ec8c7c32" md5="23087f5c580a9523ca74d96d67da134f" sha1="e69b8ca514e791872bc902280f422e94c6a1566d" status="verified" serial="YF8P"/>
+		<rom name="FIFA 08 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="ec8c7c32" md5="23087f5c580a9523ca74d96d67da134f" sha1="e69b8ca514e791872bc902280f422e94c6a1566d" sha256="6058aab29d89e0bfe9d5b4f4217bf169165a2ba625828bcb56e191efe4c3ee9d" status="verified" serial="YF8P"/>
 	</game>
 	<game name="FIFA 08 (Korea)" id="1965" cloneofid="6532">
 		<description>FIFA 08 (Korea)</description>
@@ -11281,7 +11281,7 @@
 	</game>
 	<game name="Ice Age 4 - Continental Drift - Arctic Games (Europe) (De,Es)" id="6049" cloneofid="6172">
 		<description>Ice Age 4 - Continental Drift - Arctic Games (Europe) (De,Es)</description>
-		<rom name="Ice Age 4 - Continental Drift - Arctic Games (Europe) (De,Es).nds" size="67108864" crc="5f9f2e0a" md5="b6d201b14d35e5b589bc391112a36585" sha1="5aac723f95d54a14beae9eaeabc6c7f1f395c64c" serial="TCGX"/>
+		<rom name="Ice Age 4 - Continental Drift - Arctic Games (Europe) (De,Es).nds" size="67108864" crc="5f9f2e0a" md5="b6d201b14d35e5b589bc391112a36585" sha1="5aac723f95d54a14beae9eaeabc6c7f1f395c64c" sha256="3818fe0413f391c7b08454b3d6ae7cff76b912bffb16a0cf316278f31fce2dfb" serial="TCGX"/>
 	</game>
 	<game name="Ice Age 4 - Continental Drift - Arctic Games (Europe) (En,Sv)" id="6172">
 		<description>Ice Age 4 - Continental Drift - Arctic Games (Europe) (En,Sv)</description>
@@ -13845,7 +13845,7 @@
 	</game>
 	<game name="Kreuzwortraetsel DS - Welt Edition (Germany)" id="2942" cloneofid="6545">
 		<description>Kreuzwortraetsel DS - Welt Edition (Germany)</description>
-		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany).nds" size="8388608" crc="17266fcb" md5="839abe80173c5203e1e17cabc54eec9a" sha1="609e3f424597f6b62572cddad7cd01970cde3b61" sha256="d80a1002649e3507b9a668194b318d97d5269d5261c13265059346c6711141d7" serial="CL2D"/>
+		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany).nds" size="8388608" crc="17266fcb" md5="839abe80173c5203e1e17cabc54eec9a" sha1="609e3f424597f6b62572cddad7cd01970cde3b61" sha256="d80a1002649e3507b9a668194b318d97d5269d5261c13265059346c6711141d7" mia="yes" serial="CL2D"/>
 	</game>
 	<game name="Kumatanchi (Japan)" id="2695">
 		<description>Kumatanchi (Japan)</description>
@@ -17987,7 +17987,7 @@
 	</game>
 	<game name="My Boyfriend - Verliebt in einen Star (Germany)" id="4775">
 		<description>My Boyfriend - Verliebt in einen Star (Germany)</description>
-		<rom name="My Boyfriend - Verliebt in einen Star (Germany).nds" size="33554432" crc="420830cb" md5="9831606ea145e3db4091805705afe5a2" sha1="cafd9a3eb1633efd01b5e8eda0f99de921f7c014" serial="BVSD"/>
+		<rom name="My Boyfriend - Verliebt in einen Star (Germany).nds" size="33554432" crc="420830cb" md5="9831606ea145e3db4091805705afe5a2" sha1="cafd9a3eb1633efd01b5e8eda0f99de921f7c014" sha256="903d897dab1f376b523439c7f55e9c698cdd48ca6b80023df3bcebddac80a8dd" serial="BVSD"/>
 	</game>
 	<game name="My Boyfriend (Summer of My Life) (USA) (En,Fr,De,Es,It)" id="4441">
 		<description>My Boyfriend (Summer of My Life) (USA) (En,Fr,De,Es,It)</description>
@@ -19912,7 +19912,7 @@
 	</game>
 	<game name="One Piece - Gigant Battle! (Germany)" id="5750" cloneofid="5822">
 		<description>One Piece - Gigant Battle! (Germany)</description>
-		<rom name="One Piece - Gigant Battle! (Germany).nds" size="67108864" crc="9bc69c6a" md5="83ebfc304b581bd800ead5d801310afb" sha1="c1aa2bdabd747c0ad8c2e3b017a4c8051c59103f" serial="BOJD"/>
+		<rom name="One Piece - Gigant Battle! (Germany).nds" size="67108864" crc="9bc69c6a" md5="83ebfc304b581bd800ead5d801310afb" sha1="c1aa2bdabd747c0ad8c2e3b017a4c8051c59103f" sha256="55b7e060a67ed027d6e4abd30b3d4e66b2b51ac95694254bebab858776ae1370" serial="BOJD"/>
 	</game>
 	<game name="One Piece - Gigant Battle! (France)" id="5753" cloneofid="5822">
 		<description>One Piece - Gigant Battle! (France)</description>
@@ -22017,7 +22017,7 @@
 	</game>
 	<game name="Populous DS (Europe) (En,Fr,De,Es,It)" id="3442">
 		<description>Populous DS (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Populous DS (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="408e9d5b" md5="980aa910ee731531e2685139c8c7f89b" sha1="8be03d1fb81578945777547ad523f9cb000f8e19" serial="YPOP"/>
+		<rom name="Populous DS (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="408e9d5b" md5="980aa910ee731531e2685139c8c7f89b" sha1="8be03d1fb81578945777547ad523f9cb000f8e19" sha256="09ee730c379060cc9cb88c3d729784c841f09ccdf34de24f8d5eab0184c6eec6" status="verified" serial="YPOP"/>
 	</game>
 	<game name="Pororon! Docomodake DS (Japan)" id="1803" cloneofid="2725">
 		<description>Pororon! Docomodake DS (Japan)</description>
@@ -23164,7 +23164,7 @@
 	</game>
 	<game name="Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl)" id="1657">
 		<description>Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="b4b41bd8" md5="c092b1b0efde9118533d0ae70fae8bfa" sha1="0d39847ba64e656d158c383cfd404a32f90ea177" serial="YRRP"/>
+		<rom name="Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="b4b41bd8" md5="c092b1b0efde9118533d0ae70fae8bfa" sha1="0d39847ba64e656d158c383cfd404a32f90ea177" sha256="ee14c58719feddb871dd6fa7e5de463b1d7d8b0fce4a50bd791f8edb3355c8b2" status="verified" serial="YRRP"/>
 	</game>
 	<game name="Rayman - Raving Rabbids 2 (USA) (En,Fr,Es)" id="1711" cloneofid="1657">
 		<description>Rayman - Raving Rabbids 2 (USA) (En,Fr,Es)</description>
@@ -23487,7 +23487,7 @@
 	</game>
 	<game name="Rise of the Guardians (Europe) (En,Fr,De,Es,It)" id="6130">
 		<description>Rise of the Guardians (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Rise of the Guardians (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3dfb62c2" md5="91053b482aae91cb8e004fd13efe3f21" sha1="9436dafe7e41d6ad34bc14a9092608b42c1f1c69" serial="TRYP"/>
+		<rom name="Rise of the Guardians (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3dfb62c2" md5="91053b482aae91cb8e004fd13efe3f21" sha1="9436dafe7e41d6ad34bc14a9092608b42c1f1c69" sha256="ac41e64b0a2cd84090e197a16a5b27e5f90edc4575587b17435c4014f0f2e7da" serial="TRYP"/>
 	</game>
 	<game name="Rise of the Guardians (USA) (En,Fr,Es)" id="6131" cloneofid="6130">
 		<description>Rise of the Guardians (USA) (En,Fr,Es)</description>
@@ -26370,7 +26370,7 @@
 	</game>
 	<game name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)" id="6234">
 		<description>Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)</description>
-		<rom name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr).nds" size="16777216" crc="b28a2e38" md5="c8b7973576bf6e7589375a5418c806b0" sha1="50dee69b65593ef5b609a2fbea05c5124d4baad7" serial="TLFP"/>
+		<rom name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr).nds" size="16777216" crc="b28a2e38" md5="c8b7973576bf6e7589375a5418c806b0" sha1="50dee69b65593ef5b609a2fbea05c5124d4baad7" sha256="025bebd4769d2743ac614cd90fa646260d522901078fe1f71336e4abf13fc012" serial="TLFP"/>
 	</game>
 	<game name="Successfully Learning Mathematics - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr)" id="6235">
 		<description>Successfully Learning Mathematics - Year 4+5 (Europe) (En,Fr,De,Es,It,Tr)</description>
@@ -26382,7 +26382,7 @@
 	</game>
 	<game name="Sudoku Ball Detective (Europe) (En,Fr,De,Es,It,Nl)" id="4131">
 		<description>Sudoku Ball Detective (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Sudoku Ball Detective (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="ccfe92eb" md5="cb2eced590459c27f8373f09b3408f1a" sha1="c809d83d6754738ccc509f62b7dc483efd6dd0c7" sha256="385ccf82c58e0f30a4a9fc3ab96c7c54ef9f8f0290d4eb6bbd2e586198b952a8" serial="C3BP"/>
+		<rom name="Sudoku Ball Detective (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="ccfe92eb" md5="cb2eced590459c27f8373f09b3408f1a" sha1="c809d83d6754738ccc509f62b7dc483efd6dd0c7" sha256="385ccf82c58e0f30a4a9fc3ab96c7c54ef9f8f0290d4eb6bbd2e586198b952a8" status="verified" serial="C3BP"/>
 	</game>
 	<game name="Sudoku DS (Korea)" id="2300" cloneofid="0785">
 		<description>Sudoku DS (Korea)</description>
@@ -27472,7 +27472,7 @@
 	</game>
 	<game name="Think - Training fuer den Kopf - Fit fuer den Job! (Germany)" id="4293">
 		<description>Think - Training fuer den Kopf - Fit fuer den Job! (Germany)</description>
-		<rom name="Think - Training fuer den Kopf - Fit fuer den Job! (Germany).nds" size="16777216" crc="2b74dc72" md5="caf5fe6fb0cb6f9a992cc9a8f0aa0c4e" sha1="47c5d8cdd53988cbf71268c431b502e544b8d3b4" serial="BTFD"/>
+		<rom name="Think - Training fuer den Kopf - Fit fuer den Job! (Germany).nds" size="16777216" crc="2b74dc72" md5="caf5fe6fb0cb6f9a992cc9a8f0aa0c4e" sha1="47c5d8cdd53988cbf71268c431b502e544b8d3b4" sha256="8d4bbddceca62faeefc0a2310f48cf000fbe26e00d3cfd8584173a9750c901a5" status="verified" serial="BTFD"/>
 	</game>
 	<game name="Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany)" id="4390" cloneofid="6266">
 		<description>Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany)</description>
