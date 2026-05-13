@@ -4,7 +4,7 @@
 		<id>2</id>
 		<name>Atari - Atari Jaguar (ROM)</name>
 		<description>Atari - Atari Jaguar (ROM)</description>
-		<version>20260511-190816</version>
+		<version>20260512-174528</version>
 		<author>1988reload, Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -17,7 +17,7 @@
 	<game name="Alien vs Predator (World)" id="0001">
 		<category>Games</category>
 		<description>Alien vs Predator (World)</description>
-		<rom name="Alien vs Predator (World).rom" size="4186112" crc="3eaecb25" md5="15d9864ce22a8786151928f5bf613b7b" sha1="86fd0c17c4f115cf19b96f9986446b9fc0e7da60" status="verified"/>
+		<rom name="Alien vs Predator (World).rom" size="4186112" crc="3eaecb25" md5="15d9864ce22a8786151928f5bf613b7b" sha1="86fd0c17c4f115cf19b96f9986446b9fc0e7da60" sha256="18f6e7acf130f01b05037db49a69edb9c00b7a3d1c562827f721f82213ed74fc" status="verified"/>
 	</game>
 	<game name="Alien vs Predator (World) (Beta) (1993-08-18)" id="0067" cloneofid="0001">
 		<category>Games</category>
@@ -116,11 +116,11 @@
 	</game>
 	<game name="Defender 2000 (World)" id="0015">
 		<description>Defender 2000 (World)</description>
-		<rom name="Defender 2000 (World).rom" size="4186112" crc="9cd0650d" md5="673a6f954126b22fd0d9759dd56c6650" sha1="982c2965cecf3a358d03cfe1ca6ae5a90f1c6f7b" status="verified"/>
+		<rom name="Defender 2000 (World).rom" size="4186112" crc="9cd0650d" md5="673a6f954126b22fd0d9759dd56c6650" sha1="982c2965cecf3a358d03cfe1ca6ae5a90f1c6f7b" sha256="2068fa751d540ce3fe48e7300cc8828b8cde76eae6708fb05a0b16ffffca39d3" status="verified"/>
 	</game>
 	<game name="Defender 2000 (World) (Beta)" id="0077" cloneofid="0015">
 		<description>Defender 2000 (World) (Beta)</description>
-		<rom name="Defender 2000 (World) (Beta).rom" size="4186112" crc="ed58f111" md5="e6e1a56794302b4bcd6f1ae77a996531" sha1="2693943111b317a0c56d14752f8b8e801edab167"/>
+		<rom name="Defender 2000 (World) (Beta).rom" size="4186112" crc="ed58f111" md5="e6e1a56794302b4bcd6f1ae77a996531" sha1="2693943111b317a0c56d14752f8b8e801edab167" sha256="2c31555114b84c056f87f500570d3f77053e3546a6d82b4a22234d6a9a91438a"/>
 	</game>
 	<game name="Doom (World)" id="0016">
 		<description>Doom (World)</description>
@@ -218,7 +218,7 @@
 	</game>
 	<game name="Kasumi Ninja (World)" id="0028">
 		<description>Kasumi Ninja (World)</description>
-		<rom name="Kasumi Ninja (World).rom" size="4186112" crc="38cc27d8" md5="079b8059f4fc99a0e7a4c929c13f0f00" sha1="989d6170cd4e7f7d2cbf097e0f531063c6d511a6" status="verified"/>
+		<rom name="Kasumi Ninja (World).rom" size="4186112" crc="38cc27d8" md5="079b8059f4fc99a0e7a4c929c13f0f00" sha1="989d6170cd4e7f7d2cbf097e0f531063c6d511a6" sha256="b900d398902ec7e03e188d3555fc0f4176b2c668b9b1d9ade47693e28d756b05" status="verified"/>
 	</game>
 	<game name="Kasumi Ninja (World) (v0.01) (Beta)" id="0085" cloneofid="0028">
 		<description>Kasumi Ninja (World) (v0.01) (Beta)</description>
@@ -272,7 +272,7 @@
 	</game>
 	<game name="Rayman (World)" id="0035">
 		<description>Rayman (World)</description>
-		<rom name="Rayman (World).rom" size="4186112" crc="bd551765" md5="8dc681817983a3d7bd889e22c40e0278" sha1="f08d137651648cd96dd9b5272eb085d0a796437a" status="verified"/>
+		<rom name="Rayman (World).rom" size="4186112" crc="bd551765" md5="8dc681817983a3d7bd889e22c40e0278" sha1="f08d137651648cd96dd9b5272eb085d0a796437a" sha256="916e3c17a2c142c4fe89da09b1a50507d09b1ac0d62a851348207adff7d49f82" status="verified"/>
 	</game>
 	<game name="Rayman (World) (Beta 2)" id="0088" cloneofid="0035">
 		<description>Rayman (World) (Beta 2)</description>
@@ -317,11 +317,11 @@
 	</game>
 	<game name="Thea Realm Fighters (USA) (Proto 2)" id="0090">
 		<description>Thea Realm Fighters (USA) (Proto 2)</description>
-		<rom name="Thea Realm Fighters (USA) (Proto 2).rom" size="4186112" crc="c3732527" md5="beae3851768ab46d154bd97bf0892cb8" sha1="483cd397d752f97908b4c2e11316ab59461c2ee9"/>
+		<rom name="Thea Realm Fighters (USA) (Proto 2).rom" size="4186112" crc="c3732527" md5="beae3851768ab46d154bd97bf0892cb8" sha1="483cd397d752f97908b4c2e11316ab59461c2ee9" sha256="718a26c168ed40100de79c76229138d087ca900fbb3f7f3be0d0b89ba9387bc2"/>
 	</game>
 	<game name="Thea Realm Fighters (USA) (Proto 1)" id="0091" cloneofid="0090">
 		<description>Thea Realm Fighters (USA) (Proto 1)</description>
-		<rom name="Thea Realm Fighters (USA) (Proto 1).rom" size="4186112" crc="6c391146" md5="bf529c618bed9ff83eded641cd12044f" sha1="aeeefe7187799995c5b46a634313bafa015ed0f6"/>
+		<rom name="Thea Realm Fighters (USA) (Proto 1).rom" size="4186112" crc="6c391146" md5="bf529c618bed9ff83eded641cd12044f" sha1="aeeefe7187799995c5b46a634313bafa015ed0f6" sha256="dd61e3abfc3e11d92c65f6af9f7af27a4bba8ca72e2f7ad6627c09011d9c112f"/>
 	</game>
 	<game name="Theme Park (World)" id="0043">
 		<description>Theme Park (World)</description>
@@ -334,7 +334,7 @@
 	<game name="Total Carnage (USA) (Beta)" id="0095" cloneofid="0063">
 		<category>Games</category>
 		<description>Total Carnage (USA) (Beta)</description>
-		<rom name="Total Carnage (USA) (Beta).rom" size="4186112" crc="f7f51b2e" md5="bcbeb0ca8a295cac5a3afd013b12cf1d" sha1="949a93d364c75ae0b94c8266b7fd0785c995db80"/>
+		<rom name="Total Carnage (USA) (Beta).rom" size="4186112" crc="f7f51b2e" md5="bcbeb0ca8a295cac5a3afd013b12cf1d" sha1="949a93d364c75ae0b94c8266b7fd0785c995db80" sha256="34e37b1288a00f0df5f91b8d14e04361c5add896af28655447e3a691735620b4"/>
 	</game>
 	<game name="Towers II - Plight of the Stargazer (USA, Europe)" id="0065">
 		<description>Towers II - Plight of the Stargazer (USA, Europe)</description>
@@ -364,23 +364,23 @@
 	</game>
 	<game name="Ultra Vortek (World)" id="0047">
 		<description>Ultra Vortek (World)</description>
-		<rom name="Ultra Vortek (World).rom" size="4186112" crc="e7b4f5b9" md5="f9a4fbd00e98543a265d96e338f880ee" sha1="4f9da371ee331aba815d700c4f93687c8571fd46" status="verified"/>
+		<rom name="Ultra Vortek (World).rom" size="4186112" crc="e7b4f5b9" md5="f9a4fbd00e98543a265d96e338f880ee" sha1="4f9da371ee331aba815d700c4f93687c8571fd46" sha256="b5ed633aebcf22c9b4faeaa81c2d921b179f17e5fed39c1cd357b1b81db63d83" status="verified"/>
 	</game>
 	<game name="Ultra Vortex (World) (Beta) (1995-03-20)" id="0046" cloneofid="0047">
 		<description>Ultra Vortex (World) (Beta) (1995-03-20)</description>
-		<rom name="Ultra Vortex (World) (Beta) (1995-03-20).rom" size="4186112" crc="c00c85d1" md5="5930069d4ad566d63a028aa6ebb71435" sha1="9adc8bb00f819fae761d7a38392cedd96a637501" status="verified"/>
+		<rom name="Ultra Vortex (World) (Beta) (1995-03-20).rom" size="4186112" crc="c00c85d1" md5="5930069d4ad566d63a028aa6ebb71435" sha1="9adc8bb00f819fae761d7a38392cedd96a637501" sha256="db5cd76d0e113e9bdbc3275e6f2cdcfbb7148998f9a9fcc025b528d6d2958d6e" status="verified"/>
 	</game>
 	<game name="Val d'Isere Skiing and Snowboarding (World)" id="0048">
 		<description>Val d'Isere Skiing and Snowboarding (World)</description>
-		<rom name="Val d'Isere Skiing and Snowboarding (World).rom" size="2088960" crc="194ae39e" md5="d431e38bfbe341d45a67ac5c28a6edc3" sha1="1e0aca82fe8a41e2444d28cfa2af5cd1d05b1ae4" status="verified"/>
+		<rom name="Val d'Isere Skiing and Snowboarding (World).rom" size="2088960" crc="194ae39e" md5="d431e38bfbe341d45a67ac5c28a6edc3" sha1="1e0aca82fe8a41e2444d28cfa2af5cd1d05b1ae4" sha256="f212ad65a44873bfe7da029903a472edd9f0235dfb0bc6daa512fb1eaff63766" status="verified"/>
 	</game>
 	<game name="Virtual VCS (USA) (Proto)" id="0097">
 		<description>Virtual VCS (USA) (Proto)</description>
-		<rom name="Virtual VCS (USA) (Proto).rom" size="1040384" crc="328f40db" md5="6035c923581671588d37e1fd30ba187c" sha1="51ce2807e92dc8aa35be8ecab40d0df6d57fb608"/>
+		<rom name="Virtual VCS (USA) (Proto).rom" size="1040384" crc="328f40db" md5="6035c923581671588d37e1fd30ba187c" sha1="51ce2807e92dc8aa35be8ecab40d0df6d57fb608" sha256="4bfc8f72476a14f323b9a13f0c979e337114e41d70159063ca15267ee65dbfaf"/>
 	</game>
 	<game name="White Men Can't Jump (USA, Europe)" id="0049">
 		<description>White Men Can't Jump (USA, Europe)</description>
-		<rom name="White Men Can't Jump (USA, Europe).rom" size="4186112" crc="72c77077" md5="40ace17cbaa79d02646c7b575217946c" sha1="ddb0b3022c35283c3640546ebd574f2e15ea99e1" status="verified"/>
+		<rom name="White Men Can't Jump (USA, Europe).rom" size="4186112" crc="72c77077" md5="40ace17cbaa79d02646c7b575217946c" sha1="ddb0b3022c35283c3640546ebd574f2e15ea99e1" sha256="4d907722a957ba8471f260efbe861239dbc5e962c1a33bc7c6fc9b68d0e40489" status="verified"/>
 	</game>
 	<game name="Wolfenstein 3D (World)" id="0050">
 		<description>Wolfenstein 3D (World)</description>
@@ -393,7 +393,7 @@
 	</game>
 	<game name="Zool 2 (World)" id="0051">
 		<description>Zool 2 (World)</description>
-		<rom name="Zool 2 (World).rom" size="2088960" crc="f5b867ac" md5="fbe1cd9391289847c5081193308ff5ac" sha1="f2927c6f69552e01882ab47049e568491af8cd56" status="verified"/>
+		<rom name="Zool 2 (World).rom" size="2088960" crc="f5b867ac" md5="fbe1cd9391289847c5081193308ff5ac" sha1="f2927c6f69552e01882ab47049e568491af8cd56" sha256="3069bf7db356eac6edc3fb19c225ec7de412355d22b5e621c6ea2147d56491bc" status="verified"/>
 	</game>
 	<game name="Zoop (USA, Europe)" id="0052">
 		<description>Zoop (USA, Europe)</description>

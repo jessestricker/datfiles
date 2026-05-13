@@ -4,7 +4,7 @@
 		<id>226</id>
 		<name>Nintendo - Game &amp; Watch</name>
 		<description>Nintendo - Game &amp; Watch</description>
-		<version>20241105-120946</version>
+		<version>20260512-134245</version>
 		<author>relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -39,6 +39,7 @@
 		<description>Boxing (World)</description>
 		<game_id>BX-301</game_id>
 		<rom name="Boxing (World).bin" size="4096" crc="0fdf0303" md5="443ccb49946d1bbd3963642f17b93af1" sha1="0b791c9d4874e9534d0a9b7a8968ce02fe4bee96" sha256="927b582f26ee72230b4448867444bb800b259d1d1f16d7dce19e7adce16bd7a2"/>
+		<rom name="Boxing (World) (Melody).bin" size="256" crc="439d943d" md5="732105ce46290c6a1d9a2507a1892870" sha1="52880df15ec7513f96482f455ef3d9778aa24750" sha256="6e4736ebada050955f2f75ceeff85be744049510623ef6dc4286e37b411499ea"/>
 	</game>
 	<game name="Chef (World)" id="0011">
 		<category>Games</category>

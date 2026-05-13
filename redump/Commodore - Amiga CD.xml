@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (594) (2026-05-07 00-15-22)</description>
-		<version>2026-05-07 00-15-22</version>
-		<date>2026-05-07 00-15-22</date>
+		<description>Commodore - Amiga CD - Discs (595) (2026-05-13 10-06-13)</description>
+		<version>2026-05-13 10-06-13</version>
+		<date>2026-05-13 10-06-13</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3919,5 +3919,11 @@
 		<description>Amiga.it Numero 1 (Italy)</description>
 		<rom name="Amiga.it Numero 1 (Italy).cue" size="91" crc="65e9ea41" md5="6c6c7b9e3d59efaf5f986c2d4eb48f98" sha1="aa016187cff61da81e5f75117812c7e3587c69de"/>
 		<rom name="Amiga.it Numero 1 (Italy).bin" size="734950608" crc="e4c9a70d" md5="51c1dcc785500717472a3e84ef0f4a3d" sha1="66031219f213d252db1b5566bca039e801376ad5"/>
+	</game>
+	<game name="CDPD 4 (Europe)">
+		<category>Games</category>
+		<description>CDPD 4 (Europe)</description>
+		<rom name="CDPD 4 (Europe).cue" size="81" crc="99a9c5a3" md5="4fb929589e0455005b488ba342b70c06" sha1="bc3ac13651f54508483305cc29567064e3999ed1"/>
+		<rom name="CDPD 4 (Europe).bin" size="781240320" crc="186c7966" md5="769a2bd2d4dcf7f6c8dc7553c7da8b92" sha1="6e62b737cb5d698484989a0697b6c0218b3e5a41"/>
 	</game>
 </datafile>
