@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260512-213249</version>
+		<version>20260513-195615</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3926,7 +3926,7 @@
 	</game>
 	<game name="Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced)" id="6484" cloneofid="6516">
 		<description>Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced)</description>
-		<rom name="Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced).nds" size="67108864" crc="0e46e90b" md5="38329b8806978399067a89ac549ee30a" sha1="fbb7ed415ab96b875c2d068f10bafc2c99bc854b" serial="VCAX"/>
+		<rom name="Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced).nds" size="67108864" crc="0e46e90b" md5="38329b8806978399067a89ac549ee30a" sha1="fbb7ed415ab96b875c2d068f10bafc2c99bc854b" sha256="53d7dd8f6d78231252cd0cf3338f8bc1ca615298ffa698fba4c8f183e642c1f4" status="verified" serial="VCAX"/>
 	</game>
 	<game name="Cars 2 (Europe) (Sv,No,Da) (NDSi Enhanced)" id="6515" cloneofid="6516">
 		<description>Cars 2 (Europe) (Sv,No,Da) (NDSi Enhanced)</description>
@@ -4799,7 +4799,7 @@
 	</game>
 	<game name="Code de la Route, Le (France)" id="1123" cloneofid="2465">
 		<description>Code de la Route, Le (France)</description>
-		<rom name="Code de la Route, Le (France).nds" size="33554432" crc="e42ca595" md5="fb3bc47cd4c9a17d74846d64775f6717" sha1="2b670bcd635a659cf2099fb86730a49d5baadc1c" status="verified" serial="YCDF"/>
+		<rom name="Code de la Route, Le (France).nds" size="33554432" crc="e42ca595" md5="fb3bc47cd4c9a17d74846d64775f6717" sha1="2b670bcd635a659cf2099fb86730a49d5baadc1c" sha256="ae34baacda3e443f0244dd9cb452321ad525be1fcb4e420a2ba8f70bd51231b5" status="verified" serial="YCDF"/>
 	</game>
 	<game name="Code de la Route, Le - Moto et BSR (France)" id="1766">
 		<description>Code de la Route, Le - Moto et BSR (France)</description>
@@ -5827,7 +5827,7 @@
 	</game>
 	<game name="Deviens Miss France (France)" id="1888">
 		<description>Deviens Miss France (France)</description>
-		<rom name="Deviens Miss France (France).nds" size="16777216" crc="7d2949dd" md5="1941dc750331623ec4c91c032ad54963" sha1="2cf8d8f58fa88c86ce63714d329b208b6ce94c13" serial="YDFF"/>
+		<rom name="Deviens Miss France (France).nds" size="16777216" crc="7d2949dd" md5="1941dc750331623ec4c91c032ad54963" sha1="2cf8d8f58fa88c86ce63714d329b208b6ce94c13" sha256="bdbc844417c5391cc674380fea304e8b1905b6288dd6859ceed0a1cf5a15659b" status="verified" serial="YDFF"/>
 	</game>
 	<game name="Devil Survivor 2 (Japan)" id="5793" cloneofid="6310">
 		<description>Devil Survivor 2 (Japan)</description>
@@ -7384,7 +7384,7 @@
 	</game>
 	<game name="E=M6 Defi Cerebral (France)" id="2200">
 		<description>E=M6 Defi Cerebral (France)</description>
-		<rom name="E=M6 Defi Cerebral (France).nds" size="8388608" crc="13d87dff" md5="872a27de1fbdbf6fdc53b7c4e8b9400b" sha1="7b4a0fddee82fbd4376b0fbd042cba3d4fd64012" sha256="73d33032854f81cb4d19c56570b4ca24d90311469b652ced43c4d75ac3f31dab" serial="YE7F"/>
+		<rom name="E=M6 Defi Cerebral (France).nds" size="8388608" crc="13d87dff" md5="872a27de1fbdbf6fdc53b7c4e8b9400b" sha1="7b4a0fddee82fbd4376b0fbd042cba3d4fd64012" sha256="73d33032854f81cb4d19c56570b4ca24d90311469b652ced43c4d75ac3f31dab" status="verified" serial="YE7F"/>
 	</game>
 	<game name="EA Create - Snap (USA) (Proto)" id="z640">
 		<category>Games</category>
@@ -8424,7 +8424,7 @@
 	</game>
 	<game name="Finding Nemo - Escape to the Big Blue (Europe) (Fr,Nl)" id="1847" cloneofid="0897">
 		<description>Finding Nemo - Escape to the Big Blue (Europe) (Fr,Nl)</description>
-		<rom name="Finding Nemo - Escape to the Big Blue (Europe) (Fr,Nl).nds" size="33554432" crc="11d657c9" md5="edea9325f7a80afe5ba54345b6d9e218" sha1="b26ac37f6a40e4e26cd1b53a3ed0cc1762074831" serial="AFNX"/>
+		<rom name="Finding Nemo - Escape to the Big Blue (Europe) (Fr,Nl).nds" size="33554432" crc="11d657c9" md5="edea9325f7a80afe5ba54345b6d9e218" sha1="b26ac37f6a40e4e26cd1b53a3ed0cc1762074831" sha256="5afc5aec8d07127f372c9a31060e07812a0e1cb8756094825be17179089911a7" serial="AFNX"/>
 	</game>
 	<game name="Finding Nemo - Escape to the Big Blue - Special Edition (USA) (En,Fr,Es) (Rev 1)" id="z388" cloneofid="6467">
 		<description>Finding Nemo - Escape to the Big Blue - Special Edition (USA) (En,Fr,Es) (Rev 1)</description>
@@ -8632,7 +8632,7 @@
 	</game>
 	<game name="Fort Boyard - Casse-tetes &amp; Enigmes (France)" id="3974">
 		<description>Fort Boyard - Casse-tetes &amp; Enigmes (France)</description>
-		<rom name="Fort Boyard - Casse-tetes &amp; Enigmes (France).nds" size="16777216" crc="23f46403" md5="49c217a0940beec215d7d85b36a28a64" sha1="7700377d92ba7694b690eea246e66fc31121adda" serial="BFYF"/>
+		<rom name="Fort Boyard - Casse-tetes &amp; Enigmes (France).nds" size="16777216" crc="23f46403" md5="49c217a0940beec215d7d85b36a28a64" sha1="7700377d92ba7694b690eea246e66fc31121adda" sha256="7252322a8744516d70819e995ca8abdfe0e77dfd7e12d0ab8f34766e68ce4db5" status="verified" serial="BFYF"/>
 	</game>
 	<game name="Fort Boyard - Le Jeu (France)" id="1373" cloneofid="2490">
 		<description>Fort Boyard - Le Jeu (France)</description>
@@ -10839,7 +10839,7 @@
 	</game>
 	<game name="Hoshigami (France)" id="2095" cloneofid="1523">
 		<description>Hoshigami (France)</description>
-		<rom name="Hoshigami (France).nds" size="67108864" crc="1aebe469" md5="81a992a7c2a189d9f495cf9ecd3e6b5e" sha1="1b702bc1f80a531fcd213fdeabe96265f58ad730" serial="AHKF"/>
+		<rom name="Hoshigami (France).nds" size="67108864" crc="1aebe469" md5="81a992a7c2a189d9f495cf9ecd3e6b5e" sha1="1b702bc1f80a531fcd213fdeabe96265f58ad730" sha256="873a613e5683998672dbbc53426d6f15f89eae28eaf32e3325024438434f27ea" status="verified" serial="AHKF"/>
 	</game>
 	<game name="Hoshigami (Japan)" id="1103" cloneofid="1523">
 		<description>Hoshigami (Japan)</description>
@@ -13845,7 +13845,7 @@
 	</game>
 	<game name="Kreuzwortraetsel DS - Welt Edition (Germany) [b]" id="2942" cloneofid="6545">
 		<description>Kreuzwortraetsel DS - Welt Edition (Germany) [b]</description>
-		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany) [b].nds" size="8388608" crc="362c955f" md5="972467e4e571af8932f6a3c856a5b29b" sha1="3c2a5af95abaa327690141f716ee92bc8e41fc73" status="baddump" serial="CL2D"/>
+		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany) [b].nds" size="8388608" crc="362c955f" md5="972467e4e571af8932f6a3c856a5b29b" sha1="3c2a5af95abaa327690141f716ee92bc8e41fc73" sha256="8915f68e8bee21b993f6e3edc51be16dea2af613b9ec37e3baf88be11558f45f" status="baddump" serial="CL2D"/>
 	</game>
 	<game name="Kumatanchi (Japan)" id="2695">
 		<description>Kumatanchi (Japan)</description>
@@ -14081,7 +14081,7 @@
 	</game>
 	<game name="Lapin Malin - J'Apprends a Lire et a Ecrire (France)" id="2413">
 		<description>Lapin Malin - J'Apprends a Lire et a Ecrire (France)</description>
-		<rom name="Lapin Malin - J'Apprends a Lire et a Ecrire (France).nds" size="33554432" crc="422e9080" md5="d0d168e913526e9ad0e81ffaf6547734" sha1="b73d5c4e52d9464b853a4b8e0e93e132e43a2248" sha256="86b9eccd4d358b4fb0aac558cfecefaec977d1b04d51e5dea0548bdbf8e2fde1" serial="YE4F"/>
+		<rom name="Lapin Malin - J'Apprends a Lire et a Ecrire (France).nds" size="33554432" crc="422e9080" md5="d0d168e913526e9ad0e81ffaf6547734" sha1="b73d5c4e52d9464b853a4b8e0e93e132e43a2248" sha256="86b9eccd4d358b4fb0aac558cfecefaec977d1b04d51e5dea0548bdbf8e2fde1" status="verified" serial="YE4F"/>
 	</game>
 	<game name="Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)" id="0652">
 		<description>Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)</description>
@@ -15381,7 +15381,7 @@
 	</game>
 	<game name="Madagascar (France)" id="0370" cloneofid="0133">
 		<description>Madagascar (France)</description>
-		<rom name="Madagascar (France).nds" size="16777216" crc="4986652f" md5="c663aeccb74a44fa5d2ff58ec6451ef1" sha1="5869afb82594008dc2c9df7f86271b49b126d1e6" serial="AMGF"/>
+		<rom name="Madagascar (France).nds" size="16777216" crc="4986652f" md5="c663aeccb74a44fa5d2ff58ec6451ef1" sha1="5869afb82594008dc2c9df7f86271b49b126d1e6" sha256="c3e4b2305a4d31b0dfca834a4f61707ec32b79e64660874f6d006dd73ee46c88" serial="AMGF"/>
 	</game>
 	<game name="Madagascar (Japan)" id="0381" cloneofid="0133">
 		<description>Madagascar (Japan)</description>
@@ -18884,7 +18884,7 @@
 	</game>
 	<game name="Nathan Entrainement CM2 (France)" id="4592">
 		<description>Nathan Entrainement CM2 (France)</description>
-		<rom name="Nathan Entrainement CM2 (France).nds" size="16777216" crc="d2c6a641" md5="0f299261740f33356f3f8bb992b5ade5" sha1="4195d236e1376dad29bba316143b96e34d1edb2b" serial="BN6F"/>
+		<rom name="Nathan Entrainement CM2 (France).nds" size="16777216" crc="d2c6a641" md5="0f299261740f33356f3f8bb992b5ade5" sha1="4195d236e1376dad29bba316143b96e34d1edb2b" sha256="10d483172bfd827478a81206f29c91c870c4b3ccb2ebcbf49944193b6d897afe" status="verified" serial="BN6F"/>
 	</game>
 	<game name="National Geographic - Panda (USA) (En,Fr) (Beta 1)" id="z262" cloneofid="3417">
 		<description>National Geographic - Panda (USA) (En,Fr) (Beta 1)</description>
@@ -22946,7 +22946,7 @@
 	</game>
 	<game name="Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France)" id="2512">
 		<description>Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France)</description>
-		<rom name="Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France).nds" size="8388608" crc="92ffa02c" md5="feac24cfffdf60a854cdb8970e553560" sha1="182ca25e274793543f69888ed290ad92155c8bc2" sha256="d0e55cfda23928e51e1b548d6000f47a86caa284662071f990790d131b1e95c6" serial="YUYF"/>
+		<rom name="Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France).nds" size="8388608" crc="92ffa02c" md5="feac24cfffdf60a854cdb8970e553560" sha1="182ca25e274793543f69888ed290ad92155c8bc2" sha256="d0e55cfda23928e51e1b548d6000f47a86caa284662071f990790d131b1e95c6" status="verified" serial="YUYF"/>
 	</game>
 	<game name="Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It)" id="2552" cloneofid="2611">
 		<description>Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It)</description>
@@ -23264,7 +23264,7 @@
 	</game>
 	<game name="Real Stories - Fashion Shop (Europe) (En,Fr)" id="3255">
 		<description>Real Stories - Fashion Shop (Europe) (En,Fr)</description>
-		<rom name="Real Stories - Fashion Shop (Europe) (En,Fr).nds" size="33554432" crc="eecaaf59" md5="c65ba673d75020bcb3bf1f8356c872ea" sha1="845a514cb403d9224c35be2ba4f73397726766ed" serial="CFSP"/>
+		<rom name="Real Stories - Fashion Shop (Europe) (En,Fr).nds" size="33554432" crc="eecaaf59" md5="c65ba673d75020bcb3bf1f8356c872ea" sha1="845a514cb403d9224c35be2ba4f73397726766ed" sha256="6ae2bb2caf2e89ec6fd4cf558cc6954c8e7a30fe0899059b247f68e6f0546a73" status="verified" serial="CFSP"/>
 	</game>
 	<game name="Real Stories - Mijn Babycreche (Europe) (En,Nl,Sv,No,Da)" id="3800">
 		<description>Real Stories - Mijn Babycreche (Europe) (En,Nl,Sv,No,Da)</description>
@@ -23276,7 +23276,7 @@
 	</game>
 	<game name="Real Stories - Mon Hotel de Reve (France)" id="4553" cloneofid="3950">
 		<description>Real Stories - Mon Hotel de Reve (France)</description>
-		<rom name="Real Stories - Mon Hotel de Reve (France).nds" size="67108864" crc="e27918c6" md5="94d6885ad30d304281b8bfc56c5d6ba7" sha1="ba8ee231151e9fe6bd219c0bd2b484c4167cd740" sha256="cd9b67d685bd83a8276b7818d374d8ff4846fe13b4b15756483f962c32ea5183" serial="BHLF"/>
+		<rom name="Real Stories - Mon Hotel de Reve (France).nds" size="67108864" crc="e27918c6" md5="94d6885ad30d304281b8bfc56c5d6ba7" sha1="ba8ee231151e9fe6bd219c0bd2b484c4167cd740" sha256="cd9b67d685bd83a8276b7818d374d8ff4846fe13b4b15756483f962c32ea5183" status="verified" serial="BHLF"/>
 	</game>
 	<game name="Real Stories - Passion 4 Fashion (Europe) (En,Nl,Sv,No,Da)" id="3799" cloneofid="3255">
 		<description>Real Stories - Passion 4 Fashion (Europe) (En,Nl,Sv,No,Da)</description>
@@ -29658,7 +29658,7 @@
 	</game>
 	<game name="Warning - Code de la Route (France)" id="2204">
 		<description>Warning - Code de la Route (France)</description>
-		<rom name="Warning - Code de la Route (France).nds" size="33554432" crc="6c2fee2d" md5="7eccb6a45aaf4cfbda556f7f4bd6c9d6" sha1="823d16714ebead23a2413c9dc0a1079950f0e9cc" serial="YWNF"/>
+		<rom name="Warning - Code de la Route (France).nds" size="33554432" crc="6c2fee2d" md5="7eccb6a45aaf4cfbda556f7f4bd6c9d6" sha1="823d16714ebead23a2413c9dc0a1079950f0e9cc" sha256="2b1626f70cb194b1fef3ad7a72a80047886140b03d24dca84aa8dc5cdf7a15c8" status="verified" serial="YWNF"/>
 	</game>
 	<game name="Warrior Training (World) (Datel Games n' Music) (Unl)" id="z632">
 		<description>Warrior Training (World) (Datel Games n' Music) (Unl)</description>

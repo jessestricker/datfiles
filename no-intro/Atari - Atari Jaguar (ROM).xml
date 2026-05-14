@@ -4,7 +4,7 @@
 		<id>2</id>
 		<name>Atari - Atari Jaguar (ROM)</name>
 		<description>Atari - Atari Jaguar (ROM)</description>
-		<version>20260512-174528</version>
+		<version>20260513-082830</version>
 		<author>1988reload, Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, Gefflon, halftheisland, Hiccup, NovaAurora, omonim2007, Psychofox11, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -92,7 +92,7 @@
 	</game>
 	<game name="Checkered Flag (World) (Beta) (CES 1993)" id="0075" cloneofid="0012">
 		<description>Checkered Flag (World) (Beta) (CES 1993)</description>
-		<rom name="Checkered Flag (World) (Beta) (CES 1993).rom" size="1040384" crc="a5b30631" md5="d0a0a6f9c9c2f3023e28645bad8dc74d" sha1="172e4f17d071ded4bb74afd5489ba6145e29e7b4"/>
+		<rom name="Checkered Flag (World) (Beta) (CES 1993).rom" size="1040384" crc="a5b30631" md5="d0a0a6f9c9c2f3023e28645bad8dc74d" sha1="172e4f17d071ded4bb74afd5489ba6145e29e7b4" sha256="8bc2e9deb25debadee91701d9481132b50ca801383d940c4d1dc46c3c7d1a53a"/>
 	</game>
 	<game name="Club Drive (World)" id="0013">
 		<description>Club Drive (World)</description>
@@ -152,15 +152,15 @@
 	</game>
 	<game name="Fight for Life (USA, Europe)" id="0021">
 		<description>Fight for Life (USA, Europe)</description>
-		<rom name="Fight for Life (USA, Europe).rom" size="4186112" crc="521c17ef" md5="a02a1faebc007010764ccda55019d0a4" sha1="9ed55e62dc4d5e1f7763136ea22a10b3e7762ae7" status="verified"/>
+		<rom name="Fight for Life (USA, Europe).rom" size="4186112" crc="521c17ef" md5="a02a1faebc007010764ccda55019d0a4" sha1="9ed55e62dc4d5e1f7763136ea22a10b3e7762ae7" sha256="55b0d6b17cbf353f9a71296dc6ac9d9ab4ce959ec213220691cb5df0dfb1445d" status="verified"/>
 	</game>
 	<game name="Fight for Life (USA, Europe) (Beta) (1995-03-22)" id="0080" cloneofid="0021">
 		<description>Fight for Life (USA, Europe) (Beta) (1995-03-22)</description>
-		<rom name="Fight for Life (USA, Europe) (Beta) (1995-03-22).rom" size="4186112" crc="21307778" md5="d8bc12c215f317f7cd2bfb4ddd9e9744" sha1="c4bd76e54a15544c709faf2edd4743afff93988b"/>
+		<rom name="Fight for Life (USA, Europe) (Beta) (1995-03-22).rom" size="4186112" crc="21307778" md5="d8bc12c215f317f7cd2bfb4ddd9e9744" sha1="c4bd76e54a15544c709faf2edd4743afff93988b" sha256="5ee4f3f87bc814ff948450a2f309570bbabfeba515d10f0988010eb6511a2fc3"/>
 	</game>
 	<game name="Fight for Life (USA, Europe) (Beta) (1995-09-07)" id="0081" cloneofid="0021">
 		<description>Fight for Life (USA, Europe) (Beta) (1995-09-07)</description>
-		<rom name="Fight for Life (USA, Europe) (Beta) (1995-09-07).rom" size="4186112" crc="7b1fd307" md5="2c9bd7e404b1e30f01a8ee9a9fb11e29" sha1="c5dfce9e0ea8d6faa0b9ac21f4d82896bde9d9b3"/>
+		<rom name="Fight for Life (USA, Europe) (Beta) (1995-09-07).rom" size="4186112" crc="7b1fd307" md5="2c9bd7e404b1e30f01a8ee9a9fb11e29" sha1="c5dfce9e0ea8d6faa0b9ac21f4d82896bde9d9b3" sha256="2e2d89788cfa5b097358a7fd8068e3ab15ccc69932d4631d66462c05da539900"/>
 	</game>
 	<game name="Flashback - The Quest for Identity (World) (En,Fr)" id="0023">
 		<description>Flashback - The Quest for Identity (World) (En,Fr)</description>
@@ -239,7 +239,7 @@
 	</game>
 	<game name="NBA Jam - Tournament Edition (USA, Europe)" id="0030">
 		<description>NBA Jam - Tournament Edition (USA, Europe)</description>
-		<rom name="NBA Jam - Tournament Edition (USA, Europe).rom" size="4186112" crc="154827b0" md5="b56b6cab16dc4e70f356dd0e0cb192c7" sha1="115ff2be7dc5b8c853d7dab842e45585f5e09105" status="verified"/>
+		<rom name="NBA Jam - Tournament Edition (USA, Europe).rom" size="4186112" crc="154827b0" md5="b56b6cab16dc4e70f356dd0e0cb192c7" sha1="115ff2be7dc5b8c853d7dab842e45585f5e09105" sha256="fde6841161177b0ac9fc36438ce290c54164d9d135329b166d562c9c2352c6b9" status="verified"/>
 	</game>
 	<game name="Painter (World) (1995-12-29) (Unl)" id="0141">
 		<category>Games</category>

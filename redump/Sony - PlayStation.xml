@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-13 23-22-48)</description>
-		<version>2026-05-13 23-22-48</version>
-		<date>2026-05-13 23-22-48</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-14 17-51-46)</description>
+		<version>2026-05-14 17-51-46</version>
+		<date>2026-05-14 17-51-46</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -98191,13 +98191,13 @@
 		<rom name="Pastel Muses (Japan) (Demo) (Track 1).bin" size="29724576" crc="717d6dc0" md5="f1923a7662488c76fb4f62b85ce66a5d" sha1="0ca53bd050a3ed847162302a5dffc3abde506270"/>
 		<rom name="Pastel Muses (Japan) (Demo) (Track 2).bin" size="35632800" crc="4030a398" md5="8b75d0f2b529a127181146602beec1b5" sha1="b7b4e0d5699994ac2f8d98fb37113c780b811841"/>
 	</game>
-	<game name="Addie no Okurimono - To Moze from Addie (Japan) (Demo)">
+	<game name="Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban)">
 		<category>Demos</category>
-		<description>Addie no Okurimono - To Moze from Addie (Japan) (Demo)</description>
-		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Demo).cue" size="426" crc="791bacb1" md5="85477f96248c686e560877308558efaa" sha1="02bb7da0f48614bf95d1260ab09ca5ae1db9027b"/>
-		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Demo) (Track 1).bin" size="23851632" crc="0276c354" md5="385b234d79d24709a8946d3e3a1e437b" sha1="d010bd1a802cccf3c5c6b26498346afe8f3ab537"/>
-		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Demo) (Track 2).bin" size="24794784" crc="1effbec4" md5="a02a3938e5ef45491b892049868ca401" sha1="bf5bf38e718b615ad3d55ffdd9ffbabdf6884492"/>
-		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Demo) (Track 3).bin" size="28002912" crc="1c4886dd" md5="e6d9c9a3e35905cbafa3408d3a921539" sha1="39f3710fae10cbf1ad38269244b760fed241c896"/>
+		<description>Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban)</description>
+		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban).cue" size="450" crc="62486ec2" md5="c04b63da3949ce45bf7b98aa69aa987d" sha1="271530a45c6788e3ed1a8125b0ae1143c28ecd89"/>
+		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 1).bin" size="23851632" crc="0276c354" md5="385b234d79d24709a8946d3e3a1e437b" sha1="d010bd1a802cccf3c5c6b26498346afe8f3ab537"/>
+		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 2).bin" size="24794784" crc="1effbec4" md5="a02a3938e5ef45491b892049868ca401" sha1="bf5bf38e718b615ad3d55ffdd9ffbabdf6884492"/>
+		<rom name="Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 3).bin" size="28002912" crc="1c4886dd" md5="e6d9c9a3e35905cbafa3408d3a921539" sha1="39f3710fae10cbf1ad38269244b760fed241c896"/>
 	</game>
 	<game name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Demo)">
 		<category>Demos</category>
@@ -101716,20 +101716,20 @@
 		<rom name="Macross Plus - Game Edition (Japan) (Demo).cue" size="108" crc="dcbe2425" md5="847a5ab8137feaa83700ad1e59639ac2" sha1="06fce3b980994ddd94e462210c5980e0ad179528"/>
 		<rom name="Macross Plus - Game Edition (Japan) (Demo).bin" size="239360688" crc="6b27272b" md5="36a69b98d7ca39824aaa28253d627edb" sha1="3c5dcb1a075edda31206adb7a8e636681539e727"/>
 	</game>
-	<game name="Gundam the Battle Master 2 (Japan) (Demo)">
+	<game name="Gundam the Battle Master 2 (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Gundam the Battle Master 2 (Japan) (Demo)</description>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo).cue" size="1342" crc="88ea373f" md5="00d98702ab0349ee1e5c7531d22116ac" sha1="caddd153b1434c9f62a554dd4adeab702017ee75"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 01).bin" size="27664224" crc="f6a75f3a" md5="daed7e5034b134ab0130dcabd8983153" sha1="560a06e9ffbb2c74a24ea706c531bb18a8609a4a"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 02).bin" size="21520800" crc="4f80b511" md5="2b4001cba78f7273bb19b920f34955e4" sha1="e6166fcc9c406c66f222385b9b4ccf4eeedfe506"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 03).bin" size="21520800" crc="110ea915" md5="ab421029849d251981727a921e85e761" sha1="4ff5772a2b109c2c016e1dafe6c77026b97493a6"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 04).bin" size="21520800" crc="c7cccad4" md5="fbaa128673ca2fe50909a030da9c058a" sha1="251ca9597d1879e2b4ce43a42f3dced4fa92a5d5"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 05).bin" size="21520800" crc="41154521" md5="c9f20d820a62533d04dc7b808c7fb5fa" sha1="6ce74ed269b7953bab266a5510b24e14574ce11b"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 06).bin" size="21520800" crc="76c20a79" md5="19cb173913dc01788b33a24431b76e09" sha1="bfbb728aae1710161f23f5aac73a81d6c737f719"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 07).bin" size="21520800" crc="5f768a87" md5="0ccf10b321da5614a2080e54624a743d" sha1="c79164522bff2ddfec15b3aa8dfcdb77e589125a"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 08).bin" size="21520800" crc="74407135" md5="1323eedf3a5ecc6f2796c50e9a4b7f08" sha1="990c6fe9d35f8ea4730cd0d726df4169ef2828f4"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 09).bin" size="9001104" crc="c8588a42" md5="93817481aab80edef185c56b74f9bcf2" sha1="ccc06d8f36d713ac50d46e726ff019e148da1e70"/>
-		<rom name="Gundam the Battle Master 2 (Japan) (Demo) (Track 10).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<description>Gundam the Battle Master 2 (Japan) (Taikenban)</description>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban).cue" size="1392" crc="127139d7" md5="240e33df69c13bd6b954feccc2c5e963" sha1="9597b26b37c0a82aec137745668213bc7217ed23"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 01).bin" size="27664224" crc="f6a75f3a" md5="daed7e5034b134ab0130dcabd8983153" sha1="560a06e9ffbb2c74a24ea706c531bb18a8609a4a"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 02).bin" size="21520800" crc="4f80b511" md5="2b4001cba78f7273bb19b920f34955e4" sha1="e6166fcc9c406c66f222385b9b4ccf4eeedfe506"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 03).bin" size="21520800" crc="110ea915" md5="ab421029849d251981727a921e85e761" sha1="4ff5772a2b109c2c016e1dafe6c77026b97493a6"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 04).bin" size="21520800" crc="c7cccad4" md5="fbaa128673ca2fe50909a030da9c058a" sha1="251ca9597d1879e2b4ce43a42f3dced4fa92a5d5"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 05).bin" size="21520800" crc="41154521" md5="c9f20d820a62533d04dc7b808c7fb5fa" sha1="6ce74ed269b7953bab266a5510b24e14574ce11b"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 06).bin" size="21520800" crc="76c20a79" md5="19cb173913dc01788b33a24431b76e09" sha1="bfbb728aae1710161f23f5aac73a81d6c737f719"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 07).bin" size="21520800" crc="5f768a87" md5="0ccf10b321da5614a2080e54624a743d" sha1="c79164522bff2ddfec15b3aa8dfcdb77e589125a"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 08).bin" size="21520800" crc="74407135" md5="1323eedf3a5ecc6f2796c50e9a4b7f08" sha1="990c6fe9d35f8ea4730cd0d726df4169ef2828f4"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 09).bin" size="9001104" crc="c8588a42" md5="93817481aab80edef185c56b74f9bcf2" sha1="ccc06d8f36d713ac50d46e726ff019e148da1e70"/>
+		<rom name="Gundam the Battle Master 2 (Japan) (Taikenban) (Track 10).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 	</game>
 	<game name="PO'ed (USA) (Beta) (1996-02-02)">
 		<category>Preproduction</category>

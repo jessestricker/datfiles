@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3485) (2026-05-11 16-09-47)</description>
-		<version>2026-05-11 16-09-47</version>
-		<date>2026-05-11 16-09-47</date>
+		<description>Sony - PlayStation Portable - Discs (3489) (2026-05-14 09-06-10)</description>
+		<version>2026-05-14 09-06-10</version>
+		<date>2026-05-14 09-06-10</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17434,5 +17434,25 @@
 		<category>Games</category>
 		<description>Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan)</description>
 		<rom name="Sengoku Hime 4 - Souhahyakkei, Hana Mamoru Chikai (Japan).iso" size="1285849088" crc="ef71bc2d" md5="3c20445a808330006022a8505a06fd2b" sha1="b1941144ff2492f6a0156355e591fcb64794fffc"/>
+	</game>
+	<game name="Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan)">
+		<category>Games</category>
+		<description>Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan)</description>
+		<rom name="Gekiatsu!! Pachige-Damashi Portable Vol. 1 - Evangelion - Shinjitsu no Tsubasa (Japan).iso" size="1812660224" crc="8a84603e" md5="84eeec5443910db9b54b51d4a7163425" sha1="c7ad88fb0e483c1b79d218ab28c0e12a98cc0f76"/>
+	</game>
+	<game name="Gensou Suikoden I &amp; II (Japan) (v1.03)">
+		<category>Games</category>
+		<description>Gensou Suikoden I &amp; II (Japan) (v1.03)</description>
+		<rom name="Gensou Suikoden I &amp; II (Japan) (v1.03).iso" size="849149952" crc="557ea9a6" md5="9ea034e240d2622a626e9eeb6206ef71" sha1="d94ddfa77ab78d42f79d87e1797764038a57a0fd"/>
+	</game>
+	<game name="Minna no Chizu 2 Chiikiban - Nishi Nihon-hen (Japan)">
+		<category>Applications</category>
+		<description>Minna no Chizu 2 Chiikiban - Nishi Nihon-hen (Japan)</description>
+		<rom name="Minna no Chizu 2 Chiikiban - Nishi Nihon-hen (Japan).iso" size="1812692992" crc="9e73691b" md5="95031ae274ac850640cf1ed1058fa889" sha1="14ee369968dce72e0deeb116afcc81778f5ed748"/>
+	</game>
+	<game name="Nikoli no Sudoku Lite Daiyonshuu (Japan)">
+		<category>Games</category>
+		<description>Nikoli no Sudoku Lite Daiyonshuu (Japan)</description>
+		<rom name="Nikoli no Sudoku Lite Daiyonshuu (Japan).iso" size="137887744" crc="88d9148d" md5="cb6e88f5444d3c29ed383092be3b7a1d" sha1="1d87bedb7b4db652279987d980096045af682360"/>
 	</game>
 </datafile>
