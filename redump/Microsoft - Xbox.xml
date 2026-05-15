@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Discs (2680) (2026-05-12 02-52-22)</description>
-		<version>2026-05-12 02-52-22</version>
-		<date>2026-05-12 02-52-22</date>
+		<description>Microsoft - Xbox - Discs (2681) (2026-05-15 05-46-58)</description>
+		<version>2026-05-15 05-46-58</version>
+		<date>2026-05-15 05-46-58</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13415,5 +13415,10 @@
 		<category>Games</category>
 		<description>Taz - Wanted (Korea) (En,Fr,De,Es,It)</description>
 		<rom name="Taz - Wanted (Korea) (En,Fr,De,Es,It).iso" size="7825162240" crc="41e75752" md5="9014bd5bcfccb71a2e631e75fec5217d" sha1="131298f743f8c3ea2c4743981ad60a7a0e84b2fa"/>
+	</game>
+	<game name="Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko) (Beta) (2003-12-09)">
+		<category>Preproduction</category>
+		<description>Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko) (Beta) (2003-12-09)</description>
+		<rom name="Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko) (Beta) (2003-12-09).iso" size="7825162240" crc="2bd9ea7c" md5="66d275b086535343490c92dc9974ec16" sha1="07a20d77677e7406857685e2295faf959a4666c2"/>
 	</game>
 </datafile>

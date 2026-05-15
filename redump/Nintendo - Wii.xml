@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii</name>
-		<description>Nintendo - Wii - Discs (3779) (2026-05-14 06-34-45)</description>
-		<version>2026-05-14 06-34-45</version>
-		<date>2026-05-14 06-34-45</date>
+		<description>Nintendo - Wii - Discs (3779) (2026-05-15 05-10-46)</description>
+		<version>2026-05-15 05-10-46</version>
+		<date>2026-05-15 05-10-46</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -130,10 +130,10 @@
 		<description>Simpsons Game, The (USA)</description>
 		<rom name="Simpsons Game, The (USA).iso" size="4699979776" crc="6cd0e501" md5="4780e6bd68caae9ed0a169b78b0ae1d3" sha1="febbed33ead6e32fd1ba9464d90d0ea4e3f64b3b"/>
 	</game>
-	<game name="Super Mario Galaxy (USA) (En,Fr,Es)">
+	<game name="Super Mario Galaxy (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Super Mario Galaxy (USA) (En,Fr,Es)</description>
-		<rom name="Super Mario Galaxy (USA) (En,Fr,Es).iso" size="4699979776" crc="1047de4c" md5="f99a97f9ae4dccd1db45e9aaab9cebd8" sha1="a36105c9fbfff6041dc5babf4318c6a216ad470a"/>
+		<description>Super Mario Galaxy (USA, Canada) (En,Fr,Es)</description>
+		<rom name="Super Mario Galaxy (USA, Canada) (En,Fr,Es).iso" size="4699979776" crc="1047de4c" md5="f99a97f9ae4dccd1db45e9aaab9cebd8" sha1="a36105c9fbfff6041dc5babf4318c6a216ad470a"/>
 	</game>
 	<game name="Tatsunoko vs. Capcom - Cross Generation of Heroes (Japan) (Rev 1)">
 		<category>Games</category>
@@ -415,10 +415,10 @@
 		<description>NASCAR Kart Racing (USA)</description>
 		<rom name="NASCAR Kart Racing (USA).iso" size="4699979776" crc="898ef9d0" md5="f421a3a1303d9bc672fba503347924d2" sha1="998b8829e421ec33785311bd7932667bcb5dd08e"/>
 	</game>
-	<game name="No More Heroes (USA) (En,Fr,Es)">
+	<game name="No More Heroes (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>No More Heroes (USA) (En,Fr,Es)</description>
-		<rom name="No More Heroes (USA) (En,Fr,Es).iso" size="4699979776" crc="4cf0ebe2" md5="6421acd04a9cb6781b1fd765701b7b20" sha1="a8a193fb32238aa64757b3439de9c8c58467bd48"/>
+		<description>No More Heroes (USA, Canada) (En,Fr,Es)</description>
+		<rom name="No More Heroes (USA, Canada) (En,Fr,Es).iso" size="4699979776" crc="4cf0ebe2" md5="6421acd04a9cb6781b1fd765701b7b20" sha1="a8a193fb32238aa64757b3439de9c8c58467bd48"/>
 	</game>
 	<game name="Boom Blox Bash Party (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -2545,10 +2545,10 @@
 		<description>Dance Dance Revolution - Hottest Party 3 (USA)</description>
 		<rom name="Dance Dance Revolution - Hottest Party 3 (USA).iso" size="4699979776" crc="8138c74a" md5="8fbbb7c068f97362863aafc8eaffa96b" sha1="b9b583d06cef1fcec3f2537cdc3601f653ec3f2f"/>
 	</game>
-	<game name="Wii Play (USA) (Rev 1)">
+	<game name="Wii Play (USA, Canada) (Rev 1)">
 		<category>Games</category>
-		<description>Wii Play (USA) (Rev 1)</description>
-		<rom name="Wii Play (USA) (Rev 1).iso" size="4699979776" crc="c73e458a" md5="cdd4c74ab291c609f431beb5860df0e8" sha1="80c223ea5eaf35f5f7876c9fc5904472b103334e"/>
+		<description>Wii Play (USA, Canada) (Rev 1)</description>
+		<rom name="Wii Play (USA, Canada) (Rev 1).iso" size="4699979776" crc="c73e458a" md5="cdd4c74ab291c609f431beb5860df0e8" sha1="80c223ea5eaf35f5f7876c9fc5904472b103334e"/>
 	</game>
 	<game name="Wii Fit (USA) (En,Fr,Es) (Rev 1)">
 		<category>Games</category>

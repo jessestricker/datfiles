@@ -4,8 +4,8 @@
 		<id>50</id>
 		<name>Bandai - WonderSwan</name>
 		<description>Bandai - WonderSwan</description>
-		<version>20260124-123054</version>
-		<author>C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
+		<version>20260514-074838</version>
+		<author>1988reload, C. V. Reynolds, Gefflon, gigadeath, Hiccup, kazumi213, MeguCocoa, omonim2007, PPLToast, rarenight, relax, RetroUprising, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -592,7 +592,7 @@
 	</game>
 	<game name="Neon Genesis Evangelion - Shito Ikusei (Japan)" id="0062">
 		<description>Neon Genesis Evangelion - Shito Ikusei (Japan)</description>
-		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan).ws" size="2097152" crc="bf8d9212" md5="0215c4b8a395f6fcf8f5b07605eae08b" sha1="ae31488cee1c91f383efbe3083b4abec092dda36" status="verified"/>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan).ws" size="2097152" crc="bf8d9212" md5="0215c4b8a395f6fcf8f5b07605eae08b" sha1="ae31488cee1c91f383efbe3083b4abec092dda36" sha256="f638c48c81400a067697b6e21dfdb4551d2e68ec8a9c0e8d185bb15b024cc892" status="verified"/>
 	</game>
 	<game name="Nice On (Japan) (Rev 1)" id="0063">
 		<description>Nice On (Japan) (Rev 1)</description>
