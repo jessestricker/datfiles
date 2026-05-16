@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1339) (2026-05-10 10-53-03)</description>
-		<version>2026-05-10 10-53-03</version>
-		<date>2026-05-10 10-53-03</date>
+		<description>Apple - Macintosh - Discs (1340) (2026-05-16 22-32-47)</description>
+		<version>2026-05-16 22-32-47</version>
+		<date>2026-05-16 22-32-47</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9503,5 +9503,11 @@
 		<description>L-Zone (Japan) (Rev 1)</description>
 		<rom name="L-Zone (Japan) (Rev 1).cue" size="111" crc="63618b9a" md5="74954fac7d1f58232b6985f6e01e6da6" sha1="029be790a0066650908d5b3ce8d48843c836bfa2"/>
 		<rom name="L-Zone (Japan) (Rev 1).bin" size="588707952" crc="4bacae19" md5="0d526b365de20ccad5fa3b710a134173" sha1="267a3afbcbea521419d7dcc4e434e6d958eaba1c"/>
+	</game>
+	<game name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh)">
+		<category>Applications</category>
+		<description>Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh)</description>
+		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).cue" size="124" crc="cda85a87" md5="38cacd399911269006a52f03fc3c1ec5" sha1="b60b858b054fa540a05f7c220af63ad4283b82ed"/>
+		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).bin" size="739732224" crc="b1a11f01" md5="9429c7e9e6c336c51fb61eaf8cc592a6" sha1="44bc7dc660c621ba9a894de009829376763378f0"/>
 	</game>
 </datafile>

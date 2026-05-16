@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260514-214812</version>
+		<version>20260515-162200</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -13815,9 +13815,9 @@
 		<description>Kousoku Card Battle - Card Hero (Japan)</description>
 		<rom name="Kousoku Card Battle - Card Hero (Japan).nds" size="67108864" crc="44afe084" md5="bb83ad52da6518592166dafbadb54794" sha1="6b75f66d1633b48938024c6b0e7e2ac42ff7b085" sha256="7938697edcf2f9301d6e407b1befcf4fe34469c5fd12df5b053d4d1383d3736a" serial="YCHJ"/>
 	</game>
-	<game name="Kreuzwortraetsel DS - Welt Edition (Germany) [b]" id="2942" cloneofid="6545">
-		<description>Kreuzwortraetsel DS - Welt Edition (Germany) [b]</description>
-		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany) [b].nds" size="8388608" crc="a76032bc" md5="b28d4203c194448d86979d34a678b2c1" sha1="93cc97b161de0dcedd3d90120da9971a1baeb2b0" sha256="f16fef9c4ab057d03419ccf9ef8494cf91caabbb62ae0ce290fbee7485fd8d98" status="baddump" serial="CL2D"/>
+	<game name="Kreuzwortraetsel DS - Welt Edition (Germany)" id="2942" cloneofid="6545">
+		<description>Kreuzwortraetsel DS - Welt Edition (Germany)</description>
+		<rom name="Kreuzwortraetsel DS - Welt Edition (Germany).nds" size="8388608" crc="866ac828" md5="e9e86875f74d80092411870613a87660" sha1="b1f48fc984897f6efdf17f747d5a57d6636ac7c3" sha256="dc22d57575ba87b0a0cc8f0b849c54484941c4c312d9e13d4fe374a8d88314f8" serial="CL2D"/>
 	</game>
 	<game name="Kumatanchi (Japan)" id="2695">
 		<description>Kumatanchi (Japan)</description>
