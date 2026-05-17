@@ -4,7 +4,7 @@
 		<id>203</id>
 		<name>Atari - 8-bit Family</name>
 		<description>Atari - 8-bit Family</description>
-		<version>20260404-070158</version>
+		<version>20260516-045836</version>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -33,6 +33,10 @@
 	<game name="Archon (USA, Europe)" id="0010">
 		<description>Archon (USA, Europe)</description>
 		<rom name="Archon (USA, Europe).bin" size="32768" crc="2636829f" md5="77aba8e96975b4bb7a714591505ce38f" sha1="bfb2782a117cf3efd5b71e225052f737658864c4" sha256="4ef364bd2d9213a0bc5c0960cd1383a93e690175b82ddf886d5b8e3d1dda276e"/>
+	</game>
+	<game name="Ballblazer (USA)" id="0042">
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).bin" size="65536" crc="820e5ce5" md5="06944f52bc52ae8f548be5441dee939e" sha1="16820a57a10fd779ed160e8a25471882e23a719b" sha256="c029ec1e5f510e49e42dcfe48627efeef80c6e7cd254c27b4f399a3d9f9e428b"/>
 	</game>
 	<game name="Barnyard Blaster (USA, Europe)" id="0022">
 		<description>Barnyard Blaster (USA, Europe)</description>

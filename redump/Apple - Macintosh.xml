@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1340) (2026-05-16 22-32-47)</description>
-		<version>2026-05-16 22-32-47</version>
-		<date>2026-05-16 22-32-47</date>
+		<description>Apple - Macintosh - Discs (1341) (2026-05-17 22-42-54)</description>
+		<version>2026-05-17 22-42-54</version>
+		<date>2026-05-17 22-42-54</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -4200,23 +4200,23 @@
 		<rom name="Kyoto Sennen Monogatari - Cosmology of Kyoto (USA, Japan) (En,Ja).cue" size="131" crc="86e024b4" md5="a41027501e12b17e36a8c58ca7f10c04" sha1="7d26bdd39f9a5b28955e64b74b464edd63611b04"/>
 		<rom name="Kyoto Sennen Monogatari - Cosmology of Kyoto (USA, Japan) (En,Ja).bin" size="390954144" crc="77b686e5" md5="ffa3d258578feef069b837f098c6aff5" sha1="e34ac81cf122f4659967be4367dfb949dce6816c"/>
 	</game>
-	<game name="Space Bar, The (USA) (Disc 1)">
+	<game name="Space Bar, The (USA) (Mac Disc 1)">
 		<category>Games</category>
-		<description>Space Bar, The (USA) (Disc 1)</description>
-		<rom name="Space Bar, The (USA) (Disc 1).cue" size="95" crc="b83a8733" md5="c5aecdc2076f638ff36591149851caaf" sha1="1f1c4270be63ca25b3bf5d904f8f3c9a34a2f2b0"/>
-		<rom name="Space Bar, The (USA) (Disc 1).bin" size="772443840" crc="466d5c43" md5="d85743a2d7e9e163cbeb323eada2bf23" sha1="0737ceb15e24c7e473390cb2c450217256b6ecd7"/>
+		<description>Space Bar, The (USA) (Mac Disc 1)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 1).cue" size="99" crc="2d671508" md5="efbdb1d027e569a5f62046d292706856" sha1="f29a4b1c5b6fd96abb749ad89fe8d9efea482ffa"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 1).bin" size="772443840" crc="466d5c43" md5="d85743a2d7e9e163cbeb323eada2bf23" sha1="0737ceb15e24c7e473390cb2c450217256b6ecd7"/>
 	</game>
-	<game name="Space Bar, The (USA) (Disc 2)">
+	<game name="Space Bar, The (USA) (Mac Disc 2)">
 		<category>Games</category>
-		<description>Space Bar, The (USA) (Disc 2)</description>
-		<rom name="Space Bar, The (USA) (Disc 2).cue" size="95" crc="b967a1e2" md5="bf3f399f3693423fd06d7ac748318cd4" sha1="4724db48c8cbfcea2ce8137d3485210b73dce75e"/>
-		<rom name="Space Bar, The (USA) (Disc 2).bin" size="768591264" crc="c56f986f" md5="cbc30d022fc252ce94183a673b9bd61a" sha1="25acfa78d5d61b791ad2814cc3e9f377b3da7cab"/>
+		<description>Space Bar, The (USA) (Mac Disc 2)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 2).cue" size="99" crc="2c3a33d9" md5="ca1398f58bd5cd7b0416cbc632c54e19" sha1="6a55341be36048adaed094840479a00c739ba5a2"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 2).bin" size="768591264" crc="c56f986f" md5="cbc30d022fc252ce94183a673b9bd61a" sha1="25acfa78d5d61b791ad2814cc3e9f377b3da7cab"/>
 	</game>
-	<game name="Space Bar, The (USA) (Disc 3)">
+	<game name="Space Bar, The (USA) (Mac Disc 3)">
 		<category>Games</category>
-		<description>Space Bar, The (USA) (Disc 3)</description>
-		<rom name="Space Bar, The (USA) (Disc 3).cue" size="95" crc="0f7c4192" md5="d155e0ce1cd8503b384bb50cdc5dc700" sha1="8e74c0d81b8d85ad2bb37979e34937ccf0b91064"/>
-		<rom name="Space Bar, The (USA) (Disc 3).bin" size="771498336" crc="bc9f3179" md5="71a3e64412104d217699d12b76e5d62b" sha1="f7273f652e1c738fce0408dff0f927687b051dbb"/>
+		<description>Space Bar, The (USA) (Mac Disc 3)</description>
+		<rom name="Space Bar, The (USA) (Mac Disc 3).cue" size="99" crc="9a21d3a9" md5="e1f3cbde0e0f8095825ed9bc2bfafc11" sha1="372286498ba076c334e8d97237481067233fb2bd"/>
+		<rom name="Space Bar, The (USA) (Mac Disc 3).bin" size="771498336" crc="bc9f3179" md5="71a3e64412104d217699d12b76e5d62b" sha1="f7273f652e1c738fce0408dff0f927687b051dbb"/>
 	</game>
 	<game name="Conveni DX, The - Ano Machi o Dokusen seyo + The Conveni - Power-Up Kit Vol.1 For Macintosh (Japan)">
 		<category>Games</category>
@@ -9509,5 +9509,11 @@
 		<description>Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh)</description>
 		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).cue" size="124" crc="cda85a87" md5="38cacd399911269006a52f03fc3c1ec5" sha1="b60b858b054fa540a05f7c220af63ad4283b82ed"/>
 		<rom name="Tokimeki Factory - Tokimeki Memorial 2 (Japan) (Macintosh).bin" size="739732224" crc="b1a11f01" md5="9429c7e9e6c336c51fb61eaf8cc592a6" sha1="44bc7dc660c621ba9a894de009829376763378f0"/>
+	</game>
+	<game name="Journeyman Project - Pegasus Prime, The (USA) (Disc 1) (Alt)">
+		<category>Games</category>
+		<description>Journeyman Project - Pegasus Prime, The (USA) (Disc 1) (Alt)</description>
+		<rom name="Journeyman Project - Pegasus Prime, The (USA) (Disc 1) (Alt).cue" size="149" crc="e08cbb5a" md5="23213ee971f795c37cfd0dc2400e830a" sha1="793b6fbfe6b7b6117bbc7b023a45428aad1bcda9"/>
+		<rom name="Journeyman Project - Pegasus Prime, The (USA) (Disc 1) (Alt).bin" size="741103440" crc="7c5ecf02" md5="0eb04ff57728e800013d075068aa0398" sha1="41f2c72d7d63004e054c5b34f40b25f9da573e3c"/>
 	</game>
 </datafile>

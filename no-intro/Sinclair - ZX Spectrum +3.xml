@@ -4,8 +4,8 @@
 		<id>73</id>
 		<name>Sinclair - ZX Spectrum +3</name>
 		<description>Sinclair - ZX Spectrum +3</description>
-		<version>20161210-235900</version>
-		<author>C. V. Reynolds, Connie</author>
+		<version>20260516-213859</version>
+		<author>1988reload, C. V. Reynolds, Connie</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<comment>Software Preservation Society (http://www.softpres.org/games)</comment>
@@ -225,7 +225,7 @@
 	</game>
 	<game name="Last Mohican, The (Europe)" id="3584">
 		<description>Last Mohican, The (Europe)</description>
-		<rom name="Last Mohican, The (Europe).ipf" size="236460" crc="ed3f624d" md5="163dea232eb2112c05dc7ec1bcf0e115" sha1="222b93b8e83987c8e5b83f4eb68dee8227bffc64"/>
+		<rom name="Last Mohican, The (Europe).ipf" size="236460" crc="ed3f624d" md5="163dea232eb2112c05dc7ec1bcf0e115" sha1="222b93b8e83987c8e5b83f4eb68dee8227bffc64" sha256="95c2062237ed59a4f063fc7122378a82ea685764a9073d9015b347e8a39f37aa"/>
 	</game>
 	<game name="LED Storm - Lazer Enhanced Destruction (Europe)" id="3585">
 		<description>LED Storm - Lazer Enhanced Destruction (Europe)</description>
