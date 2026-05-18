@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260515-010152</version>
+		<version>20260517-073904</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5594,6 +5594,10 @@
 	<game name="R-Type DX (USA, Europe) (GB Compatible)" id="0986">
 		<description>R-Type DX (USA, Europe) (GB Compatible)</description>
 		<rom name="R-Type DX (USA, Europe) (GB Compatible).gbc" size="1048576" crc="fc1d4089" md5="dae7b7625d41d8a06266b09924154bb2" sha1="e6a5c632b616e520b10b8b7589207c87c0092047" sha256="3d20b3fef48771f0d3ea2cdcf80812b02122a0a04dee0e8c8ae8e3e027f36741" status="verified"/>
+	</game>
+	<game name="R-Type DX - Music Encore (Japan) (City Connection)" id="2853">
+		<description>R-Type DX - Music Encore (Japan) (City Connection)</description>
+		<rom name="R-Type DX - Music Encore (Japan) (City Connection).gbc" size="1048576" crc="0f0001f7" md5="bf77e4f802ac6ed6ca5f89cc2281e3f3" sha1="1ad495182c27f2310efc50478603a8824464bc47" sha256="73743bd5e996bb5ee2e293dbef82b29d52736603544b12960dfe1550fecef4d5"/>
 	</game>
 	<game name="Race Time (Europe) (Unl)" id="0987">
 		<description>Race Time (Europe) (Unl)</description>

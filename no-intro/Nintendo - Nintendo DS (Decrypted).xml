@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260516-114450</version>
+		<version>20260517-205240</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2394,7 +2394,7 @@
 	</game>
 	<game name="Bejeweled 3 (USA)" id="5891" cloneofid="6019">
 		<description>Bejeweled 3 (USA)</description>
-		<rom name="Bejeweled 3 (USA).nds" size="33554432" crc="0052f220" md5="8faae53522ea89c2d4b4bcf57d99e11a" sha1="d80a491bd812fa159e983016722916255066df4e" serial="B2XE"/>
+		<rom name="Bejeweled 3 (USA).nds" size="33554432" crc="0052f220" md5="8faae53522ea89c2d4b4bcf57d99e11a" sha1="d80a491bd812fa159e983016722916255066df4e" sha256="50a156051d81bbf04951a636d90360b72d25c73ba9b7f889d5837585d52e67c0" serial="B2XE"/>
 	</game>
 	<game name="Bejeweled 3 (Europe) (En,Fr,De)" id="6019">
 		<description>Bejeweled 3 (Europe) (En,Fr,De)</description>
@@ -2930,7 +2930,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13)</description>
-		<rom name="Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13).nds" size="67108864" crc="e555e41c" md5="59948b73f305f741453d8987374f933a" sha1="91507b078f4dde9b2ea242d6c52f05010b22cf26" sha256="fa6dc2697c07e1deaeab0974daabece9d5f121db0dc814584a920db8d6c0884d" serial="BBRP"/>
+		<rom name="Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-07-13).nds" size="67108864" crc="e555e41c" md5="59948b73f305f741453d8987374f933a" sha1="91507b078f4dde9b2ea242d6c52f05010b22cf26" sha256="fa6dc2697c07e1deaeab0974daabece9d5f121db0dc814584a920db8d6c0884d" status="verified" serial="BBRP"/>
 	</game>
 	<game name="Blur (Europe) (Proto) (2010-04-23)" id="z672" cloneofid="z671">
 		<category>Games</category>
@@ -2942,13 +2942,13 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Blur (Europe) (Proto) (2010-03-26)</description>
-		<rom name="Blur (Europe) (Proto) (2010-03-26).nds" size="67108864" crc="78f9a22d" md5="ad656ce1585812a3a732d52354242895" sha1="dc6d9cf6eb18b51fff22a934a547e730c7f6bbba" sha256="46b1cc34f44357885ed62866865684ebac1a612d4009ebb2845e98fc5c1ab3c4" serial="BBRP"/>
+		<rom name="Blur (Europe) (Proto) (2010-03-26).nds" size="67108864" crc="78f9a22d" md5="ad656ce1585812a3a732d52354242895" sha1="dc6d9cf6eb18b51fff22a934a547e730c7f6bbba" sha256="46b1cc34f44357885ed62866865684ebac1a612d4009ebb2845e98fc5c1ab3c4" status="verified" serial="BBRP"/>
 	</game>
 	<game name="Blur (Europe) (Proto) (2010-02-26)" id="z674" cloneofid="z671">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Blur (Europe) (Proto) (2010-02-26)</description>
-		<rom name="Blur (Europe) (Proto) (2010-02-26).nds" size="67108864" crc="67f0ff4c" md5="a953e053ec09f8d7118607cc181f90f1" sha1="56afbb1117b108d72c8fb129e1fba2c6a23092bb" sha256="633c349d02eaded051c37305b3dbf82fd713dabf60e636d8f57f9691c8abdc39" serial="BBRP"/>
+		<rom name="Blur (Europe) (Proto) (2010-02-26).nds" size="67108864" crc="67f0ff4c" md5="a953e053ec09f8d7118607cc181f90f1" sha1="56afbb1117b108d72c8fb129e1fba2c6a23092bb" sha256="633c349d02eaded051c37305b3dbf82fd713dabf60e636d8f57f9691c8abdc39" status="verified" serial="BBRP"/>
 	</game>
 	<game name="Blur (Europe) (Proto) (2010-01-29)" id="z675" cloneofid="z671">
 		<category>Games</category>
@@ -11153,9 +11153,9 @@
 		<description>I Spy - Fun House (Europe)</description>
 		<rom name="I Spy - Fun House (Europe).nds" size="16777216" crc="87b70061" md5="e19e1433342df85d8fdea7d6dc6d2bac" sha1="0a57fde6605b56228f10489c952771229c1be357" serial="YP5P"/>
 	</game>
-	<game name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl)" id="1983">
-		<description>I Spy - Fun House (Europe) (En,Fr,De,It,Nl)</description>
-		<rom name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl).nds" size="33554432" crc="ca01dc1b" md5="96b80ca532ea90257b1e3c80455e8df3" sha1="6359ddcb00ec24179aa30d1ec657cec49688dba8" sha256="b6d8bb6f21634e5680311755d21f0303b98ecf4ddede26cf1061ad3e273b5457" serial="YP5X"/>
+	<game name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b]" id="1983">
+		<description>I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b]</description>
+		<rom name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b].nds" size="33554432" crc="81d00ced" md5="273d864fa11dc0e25a7f600724f7e4a2" sha1="6abff751c658c2b41e5f9aa218c219bcbb942841" sha256="6c86a658d649ad16f56888c25e0b3807ec93abf931a8d0dcb5f62769a1bea747" status="baddump" serial="YP5X"/>
 	</game>
 	<game name="I Spy - Fun House (Europe) (En,Ru) (Proto)" id="z056" cloneofid="1983">
 		<category>Games</category>
@@ -14451,7 +14451,7 @@
 	</game>
 	<game name="LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)" id="4491" cloneofid="4445">
 		<description>LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)</description>
-		<rom name="LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).nds" size="67108864" crc="50dc9232" md5="c5dccdd0d4989bdac5584cef619fd925" sha1="4b9a111aedee733b1ffa6d7e44b23f02cb0d730e" serial="BLJE"/>
+		<rom name="LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).nds" size="67108864" crc="50dc9232" md5="c5dccdd0d4989bdac5584cef619fd925" sha1="4b9a111aedee733b1ffa6d7e44b23f02cb0d730e" sha256="affb0eff5213724c160df1cf3653c47c430bc7a255acdbcceccb325fbe53696d" status="verified" serial="BLJE"/>
 	</game>
 	<game name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)" id="6231" cloneofid="6284">
 		<description>LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)</description>
@@ -20848,12 +20848,12 @@
 	<game name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program)" id="z661">
 		<category>Applications</category>
 		<description>PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program)</description>
-		<rom name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program).nds" size="268435456" crc="b8fb685b" md5="a5fe23d3ccf17095355864711f6845ac" sha1="ebf77561710b608a4626b1332eb12d63516866db" sha256="069d8a1db0a925294c50bc8fad41f98b98ef434059396ef8be242d44e134c0fe" serial="NTRJ"/>
+		<rom name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program).nds" size="8388608" crc="1e57c122" md5="be2b9652e41852a28adc797b87df69f5" sha1="4bcbbe9e72ee4d467d7baf3a0b7b3b6c606ecfbb" sha256="deca067d2df1375107e9dcd0eb05671d4c9b465bc4922b4ae2716e6097147281"/>
 	</game>
 	<game name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program)" id="z660">
 		<category>Applications</category>
 		<description>PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program)</description>
-		<rom name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program).nds" size="268435456" crc="ef62d784" md5="84fc2bf11f7e9a8446e73c58808b9530" sha1="05cb0437fa0a84fe3f66375b8109efed0d0280ee" sha256="2f2499322ee230033ffa39224d476d89a1742bb41b09344a6f8ad28943f62fdb" serial="NTRJ"/>
+		<rom name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program).nds" size="8388608" crc="903fec0e" md5="1e0e85ad34c94f50b9c09ad46cb4dc58" sha1="8986b2226483975c10a17773f8cf5569cf0806c3" sha256="e38370759fa6d2a7b0747649e9024f05d8629e860bef0db678e6d891127a8d8b"/>
 	</game>
 	<game name="Phil Taylor's Power Play Darts (Europe) (Rev 1)" id="6158">
 		<description>Phil Taylor's Power Play Darts (Europe) (Rev 1)</description>
@@ -21642,7 +21642,7 @@
 	</game>
 	<game name="Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced)" id="6583" cloneofid="6073">
 		<description>Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced)</description>
-		<rom name="Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced).nds" size="268435456" crc="a0166347" md5="bf8c3cf9104ba124846a206e94f7b0d2" sha1="308e1609929dd78dbbff4f531a2cd17f873a3778" serial="VPYT"/>
+		<rom name="Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced).nds" size="268435456" crc="a0166347" md5="bf8c3cf9104ba124846a206e94f7b0d2" sha1="308e1609929dd78dbbff4f531a2cd17f873a3778" sha256="d3998c07e9ba8d18f7517beb8d106f0b439cd6a6ed9799213bc71689079a09dc" status="verified" serial="VPYT"/>
 	</game>
 	<game name="Pokemon Dash (USA) (Demo) (Kiosk)" id="z215" cloneofid="0119">
 		<description>Pokemon Dash (USA) (Demo) (Kiosk)</description>
@@ -23733,7 +23733,7 @@
 	</game>
 	<game name="Rune Factory 3 - A Fantasy Harvest Moon (USA)" id="5320" cloneofid="5940">
 		<description>Rune Factory 3 - A Fantasy Harvest Moon (USA)</description>
-		<rom name="Rune Factory 3 - A Fantasy Harvest Moon (USA).nds" size="134217728" crc="b423f7fc" md5="b35fba4883eb46f77c919ecc9b21a369" sha1="121b5dfdde869e828f9dfbb2f139e970bf25a8b8" serial="BRFE"/>
+		<rom name="Rune Factory 3 - A Fantasy Harvest Moon (USA).nds" size="134217728" crc="b423f7fc" md5="b35fba4883eb46f77c919ecc9b21a369" sha1="121b5dfdde869e828f9dfbb2f139e970bf25a8b8" sha256="3a98c6677cdc61eaf74f4f779c8e67e6dbc9ec98bfdfb41fc73b57a573f2d1d6" serial="BRFE"/>
 	</game>
 	<game name="Rune Factory 3 - A Fantasy Harvest Moon (Europe)" id="5940">
 		<description>Rune Factory 3 - A Fantasy Harvest Moon (Europe)</description>

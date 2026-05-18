@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-17 15-50-21)</description>
-		<version>2026-05-17 15-50-21</version>
-		<date>2026-05-17 15-50-21</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-18 15-12-02)</description>
+		<version>2026-05-18 15-12-02</version>
+		<date>2026-05-18 15-12-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -15891,11 +15891,11 @@
 		<rom name="Zero Pilot - Gin'yoku no Senshi (Japan) (Rev 1).cue" size="113" crc="dfe77979" md5="b789c869a2638d2b34e29621cafa7215" sha1="f10df0bb6dfc47248fe33640b266704ad6c8bc3d"/>
 		<rom name="Zero Pilot - Gin'yoku no Senshi (Japan) (Rev 1).bin" size="548199456" crc="35c9fc71" md5="8e94a6d2c8d2594a4d070a20aa6e4964" sha1="f060d4a28b15b0bcbda4de77eb255e8a9abdfd4f"/>
 	</game>
-	<game name="Crash Bandicoot Carnival (Japan)">
+	<game name="Crash Bandicoot Carnival (Japan, Asia)">
 		<category>Games</category>
-		<description>Crash Bandicoot Carnival (Japan)</description>
-		<rom name="Crash Bandicoot Carnival (Japan).cue" size="98" crc="848ec6c2" md5="89e1e933145d0187916389aaca4cc33c" sha1="2e91aa276d4c6bc88f6369411f13834d47f7a0eb"/>
-		<rom name="Crash Bandicoot Carnival (Japan).bin" size="538431600" crc="5bcacbe2" md5="8a7d45c1b3165666def0dfc51111bc40" sha1="cd4636cebb580f4adcd6334879fdaf401d13768f"/>
+		<description>Crash Bandicoot Carnival (Japan, Asia)</description>
+		<rom name="Crash Bandicoot Carnival (Japan, Asia).cue" size="104" crc="60fb9ccf" md5="4014bc8b2eebeb80bb38f08d53b9166f" sha1="3f7e717d80a00bc352d5fc63a2c00de31cf6be9c"/>
+		<rom name="Crash Bandicoot Carnival (Japan, Asia).bin" size="538431600" crc="5bcacbe2" md5="8a7d45c1b3165666def0dfc51111bc40" sha1="cd4636cebb580f4adcd6334879fdaf401d13768f"/>
 	</game>
 	<game name="Granstream Denki - The Granstream Saga (Japan)">
 		<category>Games</category>
@@ -29744,32 +29744,32 @@
 		<rom name="Gunbalina (Japan).cue" size="83" crc="483ad32f" md5="c8119c6d354ffed5a55c4a0a3c1492bd" sha1="393526a7f59f2f7ff7b855e56620535afe4b1038"/>
 		<rom name="Gunbalina (Japan).bin" size="127092672" crc="d3fbe35e" md5="2d5eda252b44b1968fbc7755d1170f3c" sha1="d3fc3df63983e7d49ffd94f8607a4f6d806b5c30"/>
 	</game>
-	<game name="Time Crisis - Project Titan (Japan)">
+	<game name="Time Crisis - Project Titan (Japan, Asia)">
 		<category>Games</category>
-		<description>Time Crisis - Project Titan (Japan)</description>
-		<rom name="Time Crisis - Project Titan (Japan).cue" size="2842" crc="c91a2b45" md5="8f9877e2ac55ce126c7c12939886c986" sha1="41d6b2aeb353a9b18562e5bc5749c5d7637f099e"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 01).bin" size="39739392" crc="3fcab904" md5="304923d675de72240a713175495c8ddc" sha1="a3946f45e29ecdbef5dd19d967b381b05f8ed302"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 02).bin" size="31740240" crc="e69a570c" md5="d1d3e71975e6b0664a603e7736132f9e" sha1="253b4e227ecbe1cba33b15185b7e4265f0593ed5"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 03).bin" size="35529312" crc="ea13c80d" md5="b21a17e1cdc255e24fed5dce09332d74" sha1="c8db7c1aef468d92808545af31815290a7f8f609"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 04).bin" size="35317632" crc="7cab2c24" md5="becb1e72f8aba353cd9e56700b4c3297" sha1="29737ef72e1bc1ad8dbcabf360467494a8ad1c1b"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 05).bin" size="35755104" crc="66785323" md5="c03fbc5f6fc872597c8d526e201913e8" sha1="8da51bd5210af439813b1afc2f855bf6668b71e0"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 06).bin" size="33250224" crc="cfc5370d" md5="142e847d5700b42e8be1933e2a28f331" sha1="bc1529d72edcef5bfb85c5d68e91bca33dc546f7"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 07).bin" size="31526208" crc="2d7a306b" md5="59d55aa20e34cc70c4da20c8b3d533d9" sha1="51983a22bd6ba7bbc94f4c177f37a1b2f2981c49"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 08).bin" size="36209040" crc="faefe911" md5="d513cbe39706be9586c767d756e200d3" sha1="42c05782def5bc9e16effcf37e7f23cc2b02ff06"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 09).bin" size="35893872" crc="1dec3380" md5="b08a64a73af6e2784b5850d856fc3436" sha1="6da01a79da5c2bbaf57d76a02f93b9a860f9e843"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 10).bin" size="33337248" crc="935ef4ce" md5="18782f4738fba88fc36233e6071ebbd4" sha1="60f9efb6ca614465d4cb77d7e565a4c555b70f91"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 11).bin" size="35369376" crc="ee46faf5" md5="b059c6f307431936f043f90d4e6fa2fc" sha1="541b6e607d95b9e79a18987769672d5d8902e03e"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 12).bin" size="31843728" crc="54aad8fc" md5="ce1f2816185e7f8a0697ae140fe0fbce" sha1="8e690c0e7baa79db552ed9436adf3b4b008d29a1"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 13).bin" size="35289408" crc="34ed63c9" md5="302ba446228ecfead8b9744e811769e7" sha1="48ab194973719dd1852bce1d5bfdb6e4f9ab10cb"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 14).bin" size="23200128" crc="da9d3b93" md5="91d64689237eb461d05e47958a60296d" sha1="c43b2e38e36b8bdbbbff5803cbd41688dfbc03fd"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 15).bin" size="32575200" crc="cf03284c" md5="64b59a306f80a6b3730777a104e13d08" sha1="dc4c6832066ecd976d625ddf7a1a68188e2658d8"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 16).bin" size="14436576" crc="0249b5c1" md5="57ec7d7d735a60cbeea60f58e147d4e1" sha1="033130c5ba7f27deb01937af42ffcb9ab2d4ba57"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 17).bin" size="7258272" crc="9984579d" md5="00c52e9ce6c50c0135d09fdbe066550d" sha1="eae2d2ddaee2960d1694f56abbc054cd8aa61299"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 18).bin" size="7987392" crc="157b5c66" md5="470fb4c534b7f03e97e8af80fa074a0c" sha1="f2f256a3e095dce842c15a96a8d54ea384d1351b"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 19).bin" size="9248064" crc="cf8499e0" md5="33837eb2ffd06aafd2999ea53dd380be" sha1="46e0390b95a41b904971bcf515f1c70807965f51"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 20).bin" size="9833712" crc="6e83d50b" md5="4388eb290ae840ed63da83f9bce75444" sha1="69d5c32a9334802f8e2eec166f3f48aff733e7d5"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 21).bin" size="23816352" crc="9c0efcbe" md5="235f9ecdb019fdd0b3d04d0d1d3e6759" sha1="5fc857b1b68688b24595c5f9ae8a31f5e9680ce5"/>
-		<rom name="Time Crisis - Project Titan (Japan) (Track 22).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6"/>
+		<description>Time Crisis - Project Titan (Japan, Asia)</description>
+		<rom name="Time Crisis - Project Titan (Japan, Asia).cue" size="2974" crc="b79204f6" md5="a5b9a01ddd1d9d2419f90def67118ced" sha1="5fabf04e3290aaf0d83c17bbc1e232479ac68a01"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 01).bin" size="39739392" crc="3fcab904" md5="304923d675de72240a713175495c8ddc" sha1="a3946f45e29ecdbef5dd19d967b381b05f8ed302"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 02).bin" size="31740240" crc="e69a570c" md5="d1d3e71975e6b0664a603e7736132f9e" sha1="253b4e227ecbe1cba33b15185b7e4265f0593ed5"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 03).bin" size="35529312" crc="ea13c80d" md5="b21a17e1cdc255e24fed5dce09332d74" sha1="c8db7c1aef468d92808545af31815290a7f8f609"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 04).bin" size="35317632" crc="7cab2c24" md5="becb1e72f8aba353cd9e56700b4c3297" sha1="29737ef72e1bc1ad8dbcabf360467494a8ad1c1b"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 05).bin" size="35755104" crc="66785323" md5="c03fbc5f6fc872597c8d526e201913e8" sha1="8da51bd5210af439813b1afc2f855bf6668b71e0"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 06).bin" size="33250224" crc="cfc5370d" md5="142e847d5700b42e8be1933e2a28f331" sha1="bc1529d72edcef5bfb85c5d68e91bca33dc546f7"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 07).bin" size="31526208" crc="2d7a306b" md5="59d55aa20e34cc70c4da20c8b3d533d9" sha1="51983a22bd6ba7bbc94f4c177f37a1b2f2981c49"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 08).bin" size="36209040" crc="faefe911" md5="d513cbe39706be9586c767d756e200d3" sha1="42c05782def5bc9e16effcf37e7f23cc2b02ff06"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 09).bin" size="35893872" crc="1dec3380" md5="b08a64a73af6e2784b5850d856fc3436" sha1="6da01a79da5c2bbaf57d76a02f93b9a860f9e843"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 10).bin" size="33337248" crc="935ef4ce" md5="18782f4738fba88fc36233e6071ebbd4" sha1="60f9efb6ca614465d4cb77d7e565a4c555b70f91"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 11).bin" size="35369376" crc="ee46faf5" md5="b059c6f307431936f043f90d4e6fa2fc" sha1="541b6e607d95b9e79a18987769672d5d8902e03e"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 12).bin" size="31843728" crc="54aad8fc" md5="ce1f2816185e7f8a0697ae140fe0fbce" sha1="8e690c0e7baa79db552ed9436adf3b4b008d29a1"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 13).bin" size="35289408" crc="34ed63c9" md5="302ba446228ecfead8b9744e811769e7" sha1="48ab194973719dd1852bce1d5bfdb6e4f9ab10cb"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 14).bin" size="23200128" crc="da9d3b93" md5="91d64689237eb461d05e47958a60296d" sha1="c43b2e38e36b8bdbbbff5803cbd41688dfbc03fd"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 15).bin" size="32575200" crc="cf03284c" md5="64b59a306f80a6b3730777a104e13d08" sha1="dc4c6832066ecd976d625ddf7a1a68188e2658d8"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 16).bin" size="14436576" crc="0249b5c1" md5="57ec7d7d735a60cbeea60f58e147d4e1" sha1="033130c5ba7f27deb01937af42ffcb9ab2d4ba57"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 17).bin" size="7258272" crc="9984579d" md5="00c52e9ce6c50c0135d09fdbe066550d" sha1="eae2d2ddaee2960d1694f56abbc054cd8aa61299"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 18).bin" size="7987392" crc="157b5c66" md5="470fb4c534b7f03e97e8af80fa074a0c" sha1="f2f256a3e095dce842c15a96a8d54ea384d1351b"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 19).bin" size="9248064" crc="cf8499e0" md5="33837eb2ffd06aafd2999ea53dd380be" sha1="46e0390b95a41b904971bcf515f1c70807965f51"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 20).bin" size="9833712" crc="6e83d50b" md5="4388eb290ae840ed63da83f9bce75444" sha1="69d5c32a9334802f8e2eec166f3f48aff733e7d5"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 21).bin" size="23816352" crc="9c0efcbe" md5="235f9ecdb019fdd0b3d04d0d1d3e6759" sha1="5fc857b1b68688b24595c5f9ae8a31f5e9680ce5"/>
+		<rom name="Time Crisis - Project Titan (Japan, Asia) (Track 22).bin" size="32123616" crc="2120b2da" md5="f11b920d249bcbd76627f50135bea466" sha1="773a46c3e786999c4ede2b728b480f8c5e7765c6"/>
 	</game>
 	<game name="Mobile Suit Z-Gundam (Japan) (Disc 1) (Bandai the Best)">
 		<category>Games</category>
@@ -30432,11 +30432,11 @@
 		<rom name="Super Tokusatsu Taisen 2001 (Japan).cue" size="101" crc="2cedf110" md5="bb9f913020b8a6868762effa2bb9bffb" sha1="b5c6ff5683f77e2e380014965b140d819c5ee26f"/>
 		<rom name="Super Tokusatsu Taisen 2001 (Japan).bin" size="725316816" crc="9a05b2ac" md5="608c98ba27d815ca3a962d9ed553ba10" sha1="39c7c43df06328a604ee096bfa7457f2b53a0d3f"/>
 	</game>
-	<game name="Metal Slug X - Super Vehicle-001 (Japan)">
+	<game name="Metal Slug X - Super Vehicle-001 (Japan, Asia)">
 		<category>Games</category>
-		<description>Metal Slug X - Super Vehicle-001 (Japan)</description>
-		<rom name="Metal Slug X - Super Vehicle-001 (Japan).cue" size="106" crc="dc1f229c" md5="d9963a770d8b7562a91f2511deaad3b9" sha1="cb75b4b68090b522e9dc7ca102f2f7c0ad5686f1"/>
-		<rom name="Metal Slug X - Super Vehicle-001 (Japan).bin" size="338135280" crc="2d9669e4" md5="bfc9d0c855d10ac3592ae2c7dccfcb93" sha1="38dd3757d4112ff43699406316ffa2947057e9dc"/>
+		<description>Metal Slug X - Super Vehicle-001 (Japan, Asia)</description>
+		<rom name="Metal Slug X - Super Vehicle-001 (Japan, Asia).cue" size="112" crc="ec786d9e" md5="9deb44ff8a2e1ee6582c429f6e5284b1" sha1="5386476419e6d02c64cabab7af61fe1e41e24cc1"/>
+		<rom name="Metal Slug X - Super Vehicle-001 (Japan, Asia).bin" size="338135280" crc="2d9669e4" md5="bfc9d0c855d10ac3592ae2c7dccfcb93" sha1="38dd3757d4112ff43699406316ffa2947057e9dc"/>
 	</game>
 	<game name="Nibiiro no Koubou - 32-nin no Senshachou (Japan)">
 		<category>Games</category>
@@ -48514,11 +48514,11 @@
 		<rom name="Sheep, Dog 'n' Wolf (Europe) (En,Fr,De,Es,It,Nl).cue" size="114" crc="fd502b2c" md5="687816b515d32bffc6af16fbc7b45e59" sha1="5fb35024c35d93b14a701203818864022bc5782b"/>
 		<rom name="Sheep, Dog 'n' Wolf (Europe) (En,Fr,De,Es,It,Nl).bin" size="633254832" crc="f6da6902" md5="7b95531bd5021c48ace4f2df1cfd86c3" sha1="b3aada568b220c6bb813c8ac775e647db8c2a3d2"/>
 	</game>
-	<game name="Saru! Get You! (Japan)">
+	<game name="Saru! Get You! (Japan, Asia)">
 		<category>Games</category>
-		<description>Saru! Get You! (Japan)</description>
-		<rom name="Saru! Get You! (Japan).cue" size="88" crc="54e05b4f" md5="91946fd26a8a2d50e0f4ec65d2693337" sha1="a3ab8ad33fbe806d7bcc1084b14697848aca8e20"/>
-		<rom name="Saru! Get You! (Japan).bin" size="433259568" crc="1ac58c62" md5="5c70c89355b58111c1fafd050bdeef49" sha1="06f4dc61b5345cddbe74ec56f330020e97c8903a"/>
+		<description>Saru! Get You! (Japan, Asia)</description>
+		<rom name="Saru! Get You! (Japan, Asia).cue" size="94" crc="bd33cd68" md5="c6840b27148e7d12ecd10ca9dffb8342" sha1="60ee6a828d0bf6a782d5900c92d1264b5a8acc34"/>
+		<rom name="Saru! Get You! (Japan, Asia).bin" size="433259568" crc="1ac58c62" md5="5c70c89355b58111c1fafd050bdeef49" sha1="06f4dc61b5345cddbe74ec56f330020e97c8903a"/>
 	</game>
 	<game name="Saru! Get You! (Japan) (Rev 1)">
 		<category>Games</category>
@@ -66030,32 +66030,32 @@
 		<rom name="Waku Waku Bowling (Japan) (Track 12).bin" size="12472656" crc="b3475982" md5="41b50b27de9126a8a9f468631a6ceaac" sha1="d2353439cb95f261ca410eb47a819934948b3b18"/>
 		<rom name="Waku Waku Bowling (Japan) (Track 13).bin" size="39506544" crc="edccad35" md5="b5639f377c520686cfd3614116f1caf9" sha1="24cef15c6ef2f893436914e61516c5037b5be95a"/>
 	</game>
-	<game name="Rong Rong, The (Japan)">
+	<game name="Value 1500 - The Rong Rong (Japan)">
 		<category>Games</category>
-		<description>Rong Rong, The (Japan)</description>
-		<rom name="Rong Rong, The (Japan).cue" size="2556" crc="5360787b" md5="beb9c7a1b3373e26f68b779c677e499c" sha1="87dcc07b46dd80e1a1dcfbe832577637f0655d03"/>
-		<rom name="Rong Rong, The (Japan) (Track 01).bin" size="36470112" crc="343c1952" md5="0b0aafd75a31d51575122bcfcc316d2f" sha1="27acbd3bc4a8eb78a1a6c1ef42ac12534c6c0d11"/>
-		<rom name="Rong Rong, The (Japan) (Track 02).bin" size="3845520" crc="3b6663ea" md5="cfe1b9d96521b8bde92d45821a7a9aed" sha1="a11529652461f39363d6d012f636a72197589012"/>
-		<rom name="Rong Rong, The (Japan) (Track 03).bin" size="34771968" crc="6d333625" md5="372058513c110a090a8044358dfded21" sha1="9981ca6073e6284dab34145e598284897446277c"/>
-		<rom name="Rong Rong, The (Japan) (Track 04).bin" size="48580560" crc="ce0342d6" md5="d5aaaa5031d8fb2e7875648b4a2ab3f1" sha1="4f54e3e2e0a0185a2d9f323473b227d6b64d13e8"/>
-		<rom name="Rong Rong, The (Japan) (Track 05).bin" size="48444144" crc="532e01ba" md5="6852360e0e2345409f7669d15c4b17e8" sha1="6d89cf848c4e5901b43eb946cfb2adf4377fd678"/>
-		<rom name="Rong Rong, The (Japan) (Track 06).bin" size="48470016" crc="c582c131" md5="452711ddc566d23d68f4c81aee793d43" sha1="92ffabfd0b34efa9e8faf7f16835b58a5eff8a7b"/>
-		<rom name="Rong Rong, The (Japan) (Track 07).bin" size="48460608" crc="f371eead" md5="c2f477e88350d2b5244a839533ec5228" sha1="efbef15b978b8bc0b91b44bbd3578efa3a5b4995"/>
-		<rom name="Rong Rong, The (Japan) (Track 08).bin" size="48350064" crc="db945432" md5="f9d8d5046bba20e8892b7043c69e219a" sha1="d2b0b0b682e0814adbee668dd852e6ac462b95f3"/>
-		<rom name="Rong Rong, The (Japan) (Track 09).bin" size="48439440" crc="37693de5" md5="9632636ebfd403b3523d33920af9d8bb" sha1="efc54f56be6b9504e4b18130d77edab586e5e5c3"/>
-		<rom name="Rong Rong, The (Japan) (Track 10).bin" size="4374720" crc="bc4d8b97" md5="0375e2845d60b5613d22d5abe70733c0" sha1="299342b9ec4f7b2a1029a4fab78ff06193e21d45"/>
-		<rom name="Rong Rong, The (Japan) (Track 11).bin" size="2848272" crc="2a7e5e0f" md5="790bd56dc37b7382b2e7452e94523242" sha1="3c710b8af9cb4a19c73adb83a1fe50d0ef759918"/>
-		<rom name="Rong Rong, The (Japan) (Track 12).bin" size="3257520" crc="e55fdbb5" md5="057d855ed36b334f96e542ad467207e8" sha1="3d68880e3159e14131782cb0969bd2681cbf0b85"/>
-		<rom name="Rong Rong, The (Japan) (Track 13).bin" size="5952912" crc="1338d413" md5="4b9bd4b9afa7812f386ec540e1a960cd" sha1="25bf577f68a6071e6ec4aab8d91effa0be0b735c"/>
-		<rom name="Rong Rong, The (Japan) (Track 14).bin" size="34541472" crc="093abc4c" md5="9aec58750ebcaa49ec9a4919d536bb99" sha1="e7dbfaa57e4955eb46a7290e8969692d824c7075"/>
-		<rom name="Rong Rong, The (Japan) (Track 15).bin" size="35809200" crc="89d3d7c6" md5="ac31c714000d9d46a755b974e3a75a23" sha1="783b993e32bb4c9018c56d47953effab361ba6d9"/>
-		<rom name="Rong Rong, The (Japan) (Track 16).bin" size="12634944" crc="56dbf740" md5="39f16b48f2a4be09579ad65f06b936d1" sha1="cf3abca5034e7be813a1377bad3cd0e6108a0c23"/>
-		<rom name="Rong Rong, The (Japan) (Track 17).bin" size="1780464" crc="44793370" md5="19e4dabfe70e973f1df45a88f3c53d00" sha1="a46c2370fb4c8fdad1a236797cd8472a6498287c"/>
-		<rom name="Rong Rong, The (Japan) (Track 18).bin" size="2479008" crc="42e8b55e" md5="3ccda76b28b5dfb68e7c8977cc059fbe" sha1="a62403edfea2603c79de2695358a0e58ef159974"/>
-		<rom name="Rong Rong, The (Japan) (Track 19).bin" size="25570944" crc="a47afd15" md5="40881ef339e38df1ef21e4dd45559e73" sha1="a4b0a2d7f18751645521393571ffdb1dfbd629cc"/>
-		<rom name="Rong Rong, The (Japan) (Track 20).bin" size="24053904" crc="340898f7" md5="df5022453a1a60ecdd6a2fcef58cca38" sha1="83aeab77e60ceb0f23020bf83ac4b5879f38a14d"/>
-		<rom name="Rong Rong, The (Japan) (Track 21).bin" size="23089584" crc="47f0cb97" md5="7c87315a57a0fd329762dc1d09ecf0f5" sha1="03999bb91639c93cfd139f065cc5e6e08042c314"/>
-		<rom name="Rong Rong, The (Japan) (Track 22).bin" size="32107152" crc="2b2cca7e" md5="9f54ee3e1677606be39b2ac8f3296a3b" sha1="1a57b4c96b7e4beaf779f48a1ee9fd6fbd893922"/>
+		<description>Value 1500 - The Rong Rong (Japan)</description>
+		<rom name="Value 1500 - The Rong Rong (Japan).cue" size="2820" crc="ae905f9b" md5="fd8c03aec726d3af7651fbb08b259323" sha1="5c0ec419e8ca6cc4e5c1b524431f5f3ba50c96f3"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 01).bin" size="36470112" crc="343c1952" md5="0b0aafd75a31d51575122bcfcc316d2f" sha1="27acbd3bc4a8eb78a1a6c1ef42ac12534c6c0d11"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 02).bin" size="3845520" crc="3b6663ea" md5="cfe1b9d96521b8bde92d45821a7a9aed" sha1="a11529652461f39363d6d012f636a72197589012"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 03).bin" size="34771968" crc="6d333625" md5="372058513c110a090a8044358dfded21" sha1="9981ca6073e6284dab34145e598284897446277c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 04).bin" size="48580560" crc="ce0342d6" md5="d5aaaa5031d8fb2e7875648b4a2ab3f1" sha1="4f54e3e2e0a0185a2d9f323473b227d6b64d13e8"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 05).bin" size="48444144" crc="532e01ba" md5="6852360e0e2345409f7669d15c4b17e8" sha1="6d89cf848c4e5901b43eb946cfb2adf4377fd678"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 06).bin" size="48470016" crc="c582c131" md5="452711ddc566d23d68f4c81aee793d43" sha1="92ffabfd0b34efa9e8faf7f16835b58a5eff8a7b"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 07).bin" size="48460608" crc="f371eead" md5="c2f477e88350d2b5244a839533ec5228" sha1="efbef15b978b8bc0b91b44bbd3578efa3a5b4995"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 08).bin" size="48350064" crc="db945432" md5="f9d8d5046bba20e8892b7043c69e219a" sha1="d2b0b0b682e0814adbee668dd852e6ac462b95f3"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 09).bin" size="48439440" crc="37693de5" md5="9632636ebfd403b3523d33920af9d8bb" sha1="efc54f56be6b9504e4b18130d77edab586e5e5c3"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 10).bin" size="4374720" crc="bc4d8b97" md5="0375e2845d60b5613d22d5abe70733c0" sha1="299342b9ec4f7b2a1029a4fab78ff06193e21d45"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 11).bin" size="2848272" crc="2a7e5e0f" md5="790bd56dc37b7382b2e7452e94523242" sha1="3c710b8af9cb4a19c73adb83a1fe50d0ef759918"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 12).bin" size="3257520" crc="e55fdbb5" md5="057d855ed36b334f96e542ad467207e8" sha1="3d68880e3159e14131782cb0969bd2681cbf0b85"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 13).bin" size="5952912" crc="1338d413" md5="4b9bd4b9afa7812f386ec540e1a960cd" sha1="25bf577f68a6071e6ec4aab8d91effa0be0b735c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 14).bin" size="34541472" crc="093abc4c" md5="9aec58750ebcaa49ec9a4919d536bb99" sha1="e7dbfaa57e4955eb46a7290e8969692d824c7075"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 15).bin" size="35809200" crc="89d3d7c6" md5="ac31c714000d9d46a755b974e3a75a23" sha1="783b993e32bb4c9018c56d47953effab361ba6d9"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 16).bin" size="12634944" crc="56dbf740" md5="39f16b48f2a4be09579ad65f06b936d1" sha1="cf3abca5034e7be813a1377bad3cd0e6108a0c23"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 17).bin" size="1780464" crc="44793370" md5="19e4dabfe70e973f1df45a88f3c53d00" sha1="a46c2370fb4c8fdad1a236797cd8472a6498287c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 18).bin" size="2479008" crc="42e8b55e" md5="3ccda76b28b5dfb68e7c8977cc059fbe" sha1="a62403edfea2603c79de2695358a0e58ef159974"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 19).bin" size="25570944" crc="a47afd15" md5="40881ef339e38df1ef21e4dd45559e73" sha1="a4b0a2d7f18751645521393571ffdb1dfbd629cc"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 20).bin" size="24053904" crc="340898f7" md5="df5022453a1a60ecdd6a2fcef58cca38" sha1="83aeab77e60ceb0f23020bf83ac4b5879f38a14d"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 21).bin" size="23089584" crc="47f0cb97" md5="7c87315a57a0fd329762dc1d09ecf0f5" sha1="03999bb91639c93cfd139f065cc5e6e08042c314"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 22).bin" size="32107152" crc="2b2cca7e" md5="9f54ee3e1677606be39b2ac8f3296a3b" sha1="1a57b4c96b7e4beaf779f48a1ee9fd6fbd893922"/>
 	</game>
 	<game name="Value 1500 - The Shanghai (Japan)">
 		<category>Games</category>

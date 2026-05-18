@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Discs (2681) (2026-05-15 05-46-58)</description>
-		<version>2026-05-15 05-46-58</version>
-		<date>2026-05-15 05-46-58</date>
+		<description>Microsoft - Xbox - Discs (2681) (2026-05-18 10-30-52)</description>
+		<version>2026-05-18 10-30-52</version>
+		<date>2026-05-18 10-30-52</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -305,10 +305,10 @@
 		<description>Ninja Gaiden (Europe, Australia) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Ninja Gaiden (Europe, Australia) (En,Ja,Fr,De,Es,It).iso" size="7825162240" crc="aa55f87e" md5="ef0bd1c1e3b1fb4a2f91ad0f1f03202a" sha1="e583c3c45266dff0acdeb16355e733629ee09287"/>
 	</game>
-	<game name="Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko)">
+	<game name="Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko)</description>
-		<rom name="Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).iso" size="7825162240" crc="200a1c86" md5="6e87c6defbeb263d25d4f065014df148" sha1="68691489999ea538bfdc813f83202ac22de6dbf3"/>
+		<description>Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko)</description>
+		<rom name="Kingdom Under Fire - Heroes (World) (En,Fr,De,Es,It,Ko).iso" size="7825162240" crc="200a1c86" md5="6e87c6defbeb263d25d4f065014df148" sha1="68691489999ea538bfdc813f83202ac22de6dbf3"/>
 	</game>
 	<game name="Warriors, The (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -1375,10 +1375,10 @@
 		<description>Group S Challenge (USA)</description>
 		<rom name="Group S Challenge (USA).iso" size="7825162240" crc="ea8ffcb2" md5="90b6b1319b1a5fa8a930c835ecde38a3" sha1="4ac963228d30d8c312635344ccd86939d1fd0386"/>
 	</game>
-	<game name="Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko)">
+	<game name="Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko)">
 		<category>Games</category>
-		<description>Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko)</description>
-		<rom name="Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).iso" size="7825162240" crc="f9d4bb0e" md5="28a3d4c90fc1126e84e24e300606721f" sha1="0d1ba0ec1e07a607ab80798576cabd81bd938e4e"/>
+		<description>Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko)</description>
+		<rom name="Gungriffon - Allied Strike (USA, Asia) (En,Ja,Ko).iso" size="7825162240" crc="f9d4bb0e" md5="28a3d4c90fc1126e84e24e300606721f" sha1="0d1ba0ec1e07a607ab80798576cabd81bd938e4e"/>
 	</game>
 	<game name="Gunvalkyrie (USA) (En,Ja)">
 		<category>Games</category>
@@ -2655,10 +2655,10 @@
 		<description>NBA 2K6 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="NBA 2K6 (Europe) (En,Fr,De,Es,It).iso" size="7825162240" crc="b7a2648e" md5="72bab44124ea58b891be510f636b27d6" sha1="cd0f42d79416bfc85faec99e4f0dd7f1ffc08b41"/>
 	</game>
-	<game name="Far Cry Instincts (USA, Europe) (En,Fr,Es,It)">
+	<game name="Far Cry Instincts (World) (En,Fr,Es,It)">
 		<category>Games</category>
-		<description>Far Cry Instincts (USA, Europe) (En,Fr,Es,It)</description>
-		<rom name="Far Cry Instincts (USA, Europe) (En,Fr,Es,It).iso" size="7825162240" crc="87a1eb94" md5="6220f8e36e3a7503eaf4b10efb213b6f" sha1="8e2f2a8dfd9e9554ac45383f028a8f804e24e073"/>
+		<description>Far Cry Instincts (World) (En,Fr,Es,It)</description>
+		<rom name="Far Cry Instincts (World) (En,Fr,Es,It).iso" size="7825162240" crc="87a1eb94" md5="6220f8e36e3a7503eaf4b10efb213b6f" sha1="8e2f2a8dfd9e9554ac45383f028a8f804e24e073"/>
 	</game>
 	<game name="Need for Speed - Carbon (Europe)">
 		<category>Games</category>
@@ -3365,15 +3365,15 @@
 		<description>Dead or Alive 2 Ultimate (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Dead or Alive 2 Ultimate (Europe) (En,Ja,Fr,De,Es,It).iso" size="7825162240" crc="a50f8383" md5="233abc8f0c2c9229abd3b56cb754cf66" sha1="a829fa9239a461fd3b42233ee557977591e09f4f"/>
 	</game>
-	<game name="Dead or Alive 1 Ultimate (USA, Japan) (En,Ja)">
+	<game name="Dead or Alive 1 Ultimate (USA, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Dead or Alive 1 Ultimate (USA, Japan) (En,Ja)</description>
-		<rom name="Dead or Alive 1 Ultimate (USA, Japan) (En,Ja).iso" size="7825162240" crc="28799098" md5="09480604375cf78bcae9f91e3c462acf" sha1="ee748d55b217ba773ae9e8c9f78cc0d33ab2203d"/>
+		<description>Dead or Alive 1 Ultimate (USA, Asia) (En,Ja)</description>
+		<rom name="Dead or Alive 1 Ultimate (USA, Asia) (En,Ja).iso" size="7825162240" crc="28799098" md5="09480604375cf78bcae9f91e3c462acf" sha1="ee748d55b217ba773ae9e8c9f78cc0d33ab2203d"/>
 	</game>
-	<game name="Dead or Alive 2 Ultimate (USA, Japan) (En,Ja)">
+	<game name="Dead or Alive 2 Ultimate (USA, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Dead or Alive 2 Ultimate (USA, Japan) (En,Ja)</description>
-		<rom name="Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).iso" size="7825162240" crc="14e15b49" md5="21a6f5c9d791aa2d9bf33aa8493f0f39" sha1="996eb8c0d44f660dcfa0b316c1cd274af99f7823"/>
+		<description>Dead or Alive 2 Ultimate (USA, Asia) (En,Ja)</description>
+		<rom name="Dead or Alive 2 Ultimate (USA, Asia) (En,Ja).iso" size="7825162240" crc="14e15b49" md5="21a6f5c9d791aa2d9bf33aa8493f0f39" sha1="996eb8c0d44f660dcfa0b316c1cd274af99f7823"/>
 	</game>
 	<game name="Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -10988,10 +10988,10 @@
 		<description>Outlaw Volleyball (Japan)</description>
 		<rom name="Outlaw Volleyball (Japan).iso" size="7825162240" crc="5d828e93" md5="3153706631f7371478e3a01a1a8ed5e2" sha1="bdfee72c88b5a4321574307a17911d148bf92951"/>
 	</game>
-	<game name="Phantom Dust (Japan) (En,Ja)">
+	<game name="Phantom Dust (Japan, Korea) (En,Ja)">
 		<category>Games</category>
-		<description>Phantom Dust (Japan) (En,Ja)</description>
-		<rom name="Phantom Dust (Japan) (En,Ja).iso" size="7825162240" crc="e45ed99a" md5="7e91978f763970a7fa8d04e94f63599e" sha1="48a2f14e5df48b0c5f172fc9f9621ca83e7e85af"/>
+		<description>Phantom Dust (Japan, Korea) (En,Ja)</description>
+		<rom name="Phantom Dust (Japan, Korea) (En,Ja).iso" size="7825162240" crc="e45ed99a" md5="7e91978f763970a7fa8d04e94f63599e" sha1="48a2f14e5df48b0c5f172fc9f9621ca83e7e85af"/>
 	</game>
 	<game name="Psyvariar 2 - Extend Edition (Japan)">
 		<category>Games</category>

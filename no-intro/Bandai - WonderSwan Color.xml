@@ -4,7 +4,7 @@
 		<id>51</id>
 		<name>Bandai - WonderSwan Color</name>
 		<description>Bandai - WonderSwan Color</description>
-		<version>20260514-074522</version>
+		<version>20260517-195502</version>
 		<author>1988reload, Arctic Circle System, C. V. Reynolds, Gefflon, Goratrix, Hiccup, nnssxx, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1110,10 +1110,10 @@
 		<description>Yokeru Kamo (World) (v1.1) (WonderWitch) (Unl)</description>
 		<rom name="Yokeru Kamo (World) (v1.1) (WonderWitch) (Unl).wsc" size="524288" crc="48f14c43" md5="33c6b8dcb95a51ab519b9292c38dffe3" sha1="0fd22701d8a3f139191ffe126d118b7fbb4603ac" sha256="10d7929f5a3b66427a1313a133a7b32ce5ea66c37a604e155666e1a672d8a9b6"/>
 	</game>
-	<game name="Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)" id="0166" cloneofid="0145">
+	<game name="Yokeru Kamo (World) (WonderWitch) (WWGP2002) (Unl)" id="0166" cloneofid="0145">
 		<category>Games</category>
-		<description>Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)</description>
-		<rom name="Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002).wsc" size="524288" crc="857c1f7a" md5="080a424f554156dfca066551a517c459" sha1="14b193efbc7c3667d8c84d0c6536737e75546c59" sha256="9be5d2ed927c4fad4dc126ce40886b9b401b5f3f89d045691e60cda2cd0f1e36"/>
+		<description>Yokeru Kamo (World) (WonderWitch) (WWGP2002) (Unl)</description>
+		<rom name="Yokeru Kamo (World) (WonderWitch) (WWGP2002) (Unl).wsc" size="524288" crc="857c1f7a" md5="080a424f554156dfca066551a517c459" sha1="14b193efbc7c3667d8c84d0c6536737e75546c59" sha256="9be5d2ed927c4fad4dc126ce40886b9b401b5f3f89d045691e60cda2cd0f1e36"/>
 	</game>
 	<game name="Yuuki Paint (World) (v1.01) (WonderWitch) (WWGP2001) (Unl)" id="0224" cloneofid="0225">
 		<category>Applications</category>

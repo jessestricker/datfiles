@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260322-134432</version>
+		<version>20260517-111130</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2544,6 +2544,11 @@
 		<category>Games</category>
 		<description>Wario no Mori - Futatabi (Japan) (5-27)</description>
 		<rom name="Wario no Mori - Futatabi (Japan) (5-27).bs" size="1048576" crc="356eed1b" md5="1baac50ca4dc6033f75edd084db153fe" sha1="d2d7f0657954ea80f2d71971c8acc7b03532240f" sha256="fd448c263e432272c5be0e5053921d83707e61f2c863faef7c7c25dddafa520c"/>
+	</game>
+	<game name="Wario no Mori - Futatabi (Japan) (12-9)" id="3986">
+		<category>Games</category>
+		<description>Wario no Mori - Futatabi (Japan) (12-9)</description>
+		<rom name="Wario no Mori - Futatabi (Japan) (12-9).bs" size="1048576" crc="13f85451" md5="687f33a9dbe2f7878ce9b9880004b564" sha1="fd41bf9f30aa4a553c30525c7469242cfdd4a154" sha256="c5bec832b720897ccd299240d899cd86b606f7dd4f43521de714a9a459db476d"/>
 	</game>
 	<game name="Weekly Bass Tsuri No.1 Magazine - Vol.24 (Japan) (Magazine)" id="3657">
 		<description>Weekly Bass Tsuri No.1 Magazine - Vol.24 (Japan) (Magazine)</description>

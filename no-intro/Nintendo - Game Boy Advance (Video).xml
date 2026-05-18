@@ -4,7 +4,7 @@
 		<id>297</id>
 		<name>Nintendo - Game Boy Advance (Video)</name>
 		<description>Nintendo - Game Boy Advance (Video)</description>
-		<version>20251114-101831</version>
+		<version>20260517-080123</version>
 		<author>BigFred, C. V. Reynolds, DeadSkullzJr, Gefflon, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, relax, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -92,7 +92,7 @@
 	</game>
 	<game name="Game Boy Advance Video - Pokemon - Volume 2 (USA)" id="0009">
 		<description>Game Boy Advance Video - Pokemon - Volume 2 (USA)</description>
-		<rom name="Game Boy Advance Video - Pokemon - Volume 2 (USA).gba" size="33554432" crc="0da1a383" md5="156f42e151118269786d15db8b71f300" sha1="e7b2e00d6a60e8c149cd07b0ee8d98bf2b4efd15" sha256="59fd9ab4f67ac6e857b3684b6f5e70cb0ff9010cf4d2e02d0c1531b083f0ba23" serial="MPBE"/>
+		<rom name="Game Boy Advance Video - Pokemon - Volume 2 (USA).gba" size="33554432" crc="0da1a383" md5="156f42e151118269786d15db8b71f300" sha1="e7b2e00d6a60e8c149cd07b0ee8d98bf2b4efd15" sha256="59fd9ab4f67ac6e857b3684b6f5e70cb0ff9010cf4d2e02d0c1531b083f0ba23" status="verified" serial="MPBE"/>
 	</game>
 	<game name="Game Boy Advance Video - Pokemon - Volume 3 (USA)" id="0018">
 		<description>Game Boy Advance Video - Pokemon - Volume 3 (USA)</description>

@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260508-122943</version>
+		<version>20260517-132623</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4480,7 +4480,7 @@
 	</game>
 	<game name="Turok - Rage Wars (Europe)" id="0783">
 		<description>Turok - Rage Wars (Europe)</description>
-		<rom name="Turok - Rage Wars (Europe).z64" size="8388608" crc="82b1e116" md5="dba166a42710f40dc78dc52eb37b0be6" sha1="46b474fac79a4b21535bb6c78ce3039a2c202359" status="verified" serial="NRWP"/>
+		<rom name="Turok - Rage Wars (Europe).z64" size="8388608" crc="82b1e116" md5="dba166a42710f40dc78dc52eb37b0be6" sha1="46b474fac79a4b21535bb6c78ce3039a2c202359" sha256="d763cbbe485a5f9e1b7be97d5ac16735087e23d0bb62c05dc844e01b7e1156d1" status="verified" serial="NRWP"/>
 	</game>
 	<game name="Turok - Rage Wars (Europe) (En,Fr,It)" id="0784" cloneofid="0783">
 		<description>Turok - Rage Wars (Europe) (En,Fr,It)</description>

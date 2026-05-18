@@ -4,7 +4,7 @@
 		<id>31</id>
 		<name>Nintendo - Family Computer Disk System (FDS)</name>
 		<description>Nintendo - Family Computer Disk System (FDS)</description>
-		<version>20260317-004812</version>
+		<version>20260517-061737</version>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1364,6 +1364,10 @@
 		<description>Relics - Ankoku Yousai (Japan)</description>
 		<game_id>BTC-RLC</game_id>
 		<rom name="Relics - Ankoku Yousai (Japan).fds" size="131000" crc="5de87797" md5="24f045e80d1ff30cec6d9cc1f41764b5" sha1="6bff8cfd463b1eb91aec5bb427c60a84a4db34a8" serial="RLC"/>
+	</game>
+	<game name="Relics - Ankoku Yousai (Japan) (Project EGG)" id="0440">
+		<description>Relics - Ankoku Yousai (Japan) (Project EGG)</description>
+		<rom name="Relics - Ankoku Yousai (Japan) (Project EGG).fds" size="131000" crc="30b4fa8b" md5="8026bb1081322b1a76432db417be00cd" sha1="eb508feab933a563a98223e1591292f180a8fce2" sha256="d41d51f5f2989931d9ab0bda3f609e3d9e33883ee8a6701de6ee8b55e6f57b6d"/>
 	</game>
 	<game name="Replicart (Japan)" id="0242">
 		<description>Replicart (Japan)</description>

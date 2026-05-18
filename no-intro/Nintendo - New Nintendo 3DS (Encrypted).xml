@@ -4,7 +4,7 @@
 		<id>81</id>
 		<name>Nintendo - New Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - New Nintendo 3DS (Encrypted)</description>
-		<version>20251121-060655</version>
+		<version>20260517-044915</version>
 		<author>aci68, Arctic Circle System, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kaos, nnssxx, PPLToast, psykopat, rarenight, SonGoku, xprism</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -23,7 +23,7 @@
 	<game name="Fire Emblem Warriors (USA)" id="0009" cloneofid="0008">
 		<description>Fire Emblem Warriors (USA)</description>
 		<game_id>000400000F70CC00</game_id>
-		<rom name="Fire Emblem Warriors (USA).3ds" size="2147483648" crc="b410ed52" md5="8407aba2da875f5e0cfcea8ae688c9d4" sha1="9e161d87d0e8e2ad776f8fca170a3a10426c2c36" sha256="04489d54d9a75e42ec4ea52d2fa075eb92559940a5ef74e8d262631afe8f943f" serial="KTR-P-CFME"/>
+		<rom name="Fire Emblem Warriors (USA).3ds" size="2147483648" crc="b410ed52" md5="8407aba2da875f5e0cfcea8ae688c9d4" sha1="9e161d87d0e8e2ad776f8fca170a3a10426c2c36" sha256="04489d54d9a75e42ec4ea52d2fa075eb92559940a5ef74e8d262631afe8f943f" status="verified" serial="KTR-P-CFME"/>
 	</game>
 	<game name="Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru)" id="0010">
 		<category>Games</category>

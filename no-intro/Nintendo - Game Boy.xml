@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260510-044928</version>
+		<version>20260517-082745</version>
 		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4901,11 +4901,11 @@
 	</game>
 	<game name="Nintama Rantarou GB (Japan) (SGB Enhanced)" id="0915">
 		<description>Nintama Rantarou GB (Japan) (SGB Enhanced)</description>
-		<rom name="Nintama Rantarou GB (Japan) (SGB Enhanced).gb" size="262144" crc="bd223184" md5="a7032c0bbfe917790135acd338ec3d2f" sha1="4110bd38bde1d9a9a20c2a0c73a3e9f799a72847" sha256="589e38b53cdf7eb4e0844186f56e388780573dc0c4fbc6a8ee35d25ea60195cf"/>
+		<rom name="Nintama Rantarou GB (Japan) (SGB Enhanced).gb" size="262144" crc="bd223184" md5="a7032c0bbfe917790135acd338ec3d2f" sha1="4110bd38bde1d9a9a20c2a0c73a3e9f799a72847" sha256="589e38b53cdf7eb4e0844186f56e388780573dc0c4fbc6a8ee35d25ea60195cf" status="verified"/>
 	</game>
 	<game name="Nintama Rantarou GB - Eawase Challenge Puzzle (Japan) (SGB Enhanced)" id="0916">
 		<description>Nintama Rantarou GB - Eawase Challenge Puzzle (Japan) (SGB Enhanced)</description>
-		<rom name="Nintama Rantarou GB - Eawase Challenge Puzzle (Japan) (SGB Enhanced).gb" size="524288" crc="0e37e462" md5="1ff86f10d1104200bf316cdc6612b63c" sha1="5642c866711bd5057a2c7de2662d23a4a74d8be9" sha256="e2f23cf309eaf7c1c28fcac1bbb3bfb7d648efc3d7b4e4cd5ddbb19b24a33034"/>
+		<rom name="Nintama Rantarou GB - Eawase Challenge Puzzle (Japan) (SGB Enhanced).gb" size="524288" crc="0e37e462" md5="1ff86f10d1104200bf316cdc6612b63c" sha1="5642c866711bd5057a2c7de2662d23a4a74d8be9" sha256="e2f23cf309eaf7c1c28fcac1bbb3bfb7d648efc3d7b4e4cd5ddbb19b24a33034" status="verified"/>
 	</game>
 	<game name="Nintendo World Cup (USA, Europe)" id="0917">
 		<description>Nintendo World Cup (USA, Europe)</description>

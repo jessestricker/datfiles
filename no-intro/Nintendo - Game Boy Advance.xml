@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260503-202332</version>
+		<version>20260517-075129</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5684,7 +5684,7 @@
 	</game>
 	<game name="Harvest Moon - More Friends of Mineral Town (USA)" id="2041">
 		<description>Harvest Moon - More Friends of Mineral Town (USA)</description>
-		<rom name="Harvest Moon - More Friends of Mineral Town (USA).gba" size="16777216" crc="1736b957" md5="fcbf93f8859d8500319e0d80a8c02150" sha1="3aa4d46cbbf152e440942acd5f5d37ddc7b05e1d" serial="BFGE"/>
+		<rom name="Harvest Moon - More Friends of Mineral Town (USA).gba" size="16777216" crc="1736b957" md5="fcbf93f8859d8500319e0d80a8c02150" sha1="3aa4d46cbbf152e440942acd5f5d37ddc7b05e1d" sha256="e754155f92b4809d9f63765592d415f16497d290189cfe1267ea9571a6e14d8e" serial="BFGE"/>
 	</game>
 	<game name="Hatena Satena (Japan)" id="0134">
 		<description>Hatena Satena (Japan)</description>

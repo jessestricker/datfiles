@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260516-045314</version>
+		<version>20260517-054406</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -442,6 +442,10 @@
 	<game name="Birthday Mania (USA) (Robert A. Tokar)" id="0732">
 		<description>Birthday Mania (USA) (Robert A. Tokar)</description>
 		<rom name="Birthday Mania (USA) (Robert A. Tokar).a26" size="4096" crc="a9400431" md5="a6239810564638de7e4c54e66b3014e4" sha1="d51e8f48f985557da31a70ed79b044dd52381b25" sha256="c89ed772486206e398ef58088b27d2e4a5aa6b1a11d4c59a3bacfcc3dfba6102"/>
+	</game>
+	<game name="Black Hole (Germany)" id="0929" cloneofid="0853">
+		<description>Black Hole (Germany)</description>
+		<rom name="Black Hole (Germany).a26" size="4096" crc="cbeb7a56" md5="282a77841cb3d33af5b56151acba770e" sha1="fa6a186f553d7d141e4b2f6d4be0457c4896f857" sha256="3ff8f02ef0e6051533e015ce4a2d62cdbdf7d0277ab814f446aa6b90a0b623dc"/>
 	</game>
 	<game name="Black Jack (USA)" id="0043" cloneofid="0674">
 		<description>Black Jack (USA)</description>
@@ -1846,7 +1850,7 @@
 		<description>Meltdown (USA) (Proto)</description>
 		<rom name="Meltdown (USA) (Proto).a26" size="4096" crc="7955b3be" md5="96e798995af6ed9d8601166d4350f276" sha1="debb1572eadb20beb0e4cd2df8396def8eb02098"/>
 	</game>
-	<game name="Meteor Defense (Europe)" id="0908">
+	<game name="Meteor Defense (Europe)" id="0908" cloneofid="0023">
 		<description>Meteor Defense (Europe)</description>
 		<rom name="Meteor Defense (Europe).a26" size="4096" crc="bb47d5af" md5="6522717cfd75d1dba252cbde76992090" sha1="5cc122f10eb1a814d047404b462b325f51f35d2c" sha256="6e1a3835efc114490c8173234a21818a5952ef469002c1db33f864d17e8c093b"/>
 	</game>
@@ -1906,9 +1910,9 @@
 		<description>Missile Control (Europe)</description>
 		<rom name="Missile Control (Europe).a26" size="4096" crc="ac80976b" md5="cb24210dc86d92df97b38cf2a51782da" sha1="224e7a310afdb91c6915743e72b7b53b38eb5754"/>
 	</game>
-	<game name="Missile War ~ Astro War (Europe)" id="0023">
-		<description>Missile War ~ Astro War (Europe)</description>
-		<rom name="Missile War ~ Astro War (Europe).a26" size="4096" crc="e83f5848" md5="317a4cdbab090dcc996833d07cb40165" sha1="eca0764f26168424633b620a9ff9b274b236135f"/>
+	<game name="Missile War ~ Astro War ~ Astrowar (Europe)" id="0023">
+		<description>Missile War ~ Astro War ~ Astrowar (Europe)</description>
+		<rom name="Missile War ~ Astro War ~ Astrowar (Europe).a26" size="4096" crc="e83f5848" md5="317a4cdbab090dcc996833d07cb40165" sha1="eca0764f26168424633b620a9ff9b274b236135f" status="verified"/>
 	</game>
 	<game name="Mission 3,000 A.D. (USA)" id="0577">
 		<description>Mission 3,000 A.D. (USA)</description>
