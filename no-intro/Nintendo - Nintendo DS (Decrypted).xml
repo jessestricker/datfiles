@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260517-205240</version>
+		<version>20260519-192025</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -25147,6 +25147,12 @@
 	<game name="Simpsons, Die - Das Spiel (Germany)" id="1627" cloneofid="1577">
 		<description>Simpsons, Die - Das Spiel (Germany)</description>
 		<rom name="Simpsons, Die - Das Spiel (Germany).nds" size="134217728" crc="1ea703b3" md5="a51a5047fbbab24aee492f1c30a62728" sha1="43120703e86e972f612522405e0b460889d957eb" sha256="5398178e8365bba51731b300957efe0e88a06757f82100ab0f6e8296f7055f2a" serial="YSZD"/>
+	</game>
+	<game name="Simpsons, The (USA) (Beta)" id="6800" cloneofid="1577">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Simpsons, The (USA) (Beta)</description>
+		<rom name="Simpsons, The (USA) (Beta).nds" size="67108864" crc="d2bfc6b8" md5="f7bbde753b2afb0a822c0266d8e8195b" sha1="fa8888c82cd70689e78a60cc72ddc3ecd565e80b" sha256="c0a7bde3dd9191e1e91227ca3b09e8b84507a8d51178da377f4af6ce864a53e7"/>
 	</game>
 	<game name="Sims 2, The (USA) (En,Fr,De,Es,It)" id="0140" cloneofid="0162">
 		<description>Sims 2, The (USA) (En,Fr,De,Es,It)</description>

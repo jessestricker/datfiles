@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260517-073904</version>
+		<version>20260519-122525</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5009,11 +5009,6 @@
 		<description>Pocket Music (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Pocket Music (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="1bfb531e" md5="84eede6bb298dd354f251eccb1259316" sha1="74dc5efab773fde400304d3df8034a095af8a742"/>
 	</game>
-	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
-		<category>Games</category>
-		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
-		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
-	</game>
 	<game name="Pocket Music (USA) (En,Es) (Proto) (2003-03-07)" id="2612" cloneofid="0890">
 		<category>Games</category>
 		<description>Pocket Music (USA) (En,Es) (Proto) (2003-03-07)</description>
@@ -5023,6 +5018,11 @@
 		<category>Preproduction</category>
 		<description>Pocket Music (World) (Proto) (Riff Sampler Test)</description>
 		<rom name="Pocket Music (World) (Proto) (Riff Sampler Test).gbc" size="32768" crc="419d4565" md5="c159483205c4855951fbde09af451984" sha1="b7ecdd51358e2794a45b425ada778722f5f000c0" sha256="2cd0a0e7a520a26796398d3bd2d97f83434bee990121a4f25332d6e192d8602f"/>
+	</game>
+	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
+		<category>Games</category>
+		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
+		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
 	</game>
 	<game name="Pocket no Naka no Oukoku (Japan) (Proto)" id="0891">
 		<description>Pocket no Naka no Oukoku (Japan) (Proto)</description>

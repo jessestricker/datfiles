@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260517-054406</version>
+		<version>20260519-111514</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1728,7 +1728,7 @@
 	</game>
 	<game name="Lilly Adventure (Europe)" id="0240" cloneofid="0576">
 		<description>Lilly Adventure (Europe)</description>
-		<rom name="Lilly Adventure (Europe).a26" size="4096" crc="3544c6d6" md5="ab10f2974dee73dab4579f0cab35fca6" sha1="63f4776aa4c35d124001918b733cdb4d46dfbe9b"/>
+		<rom name="Lilly Adventure (Europe).a26" size="4096" crc="3544c6d6" md5="ab10f2974dee73dab4579f0cab35fca6" sha1="63f4776aa4c35d124001918b733cdb4d46dfbe9b" sha256="6431a0ef0586e411304782da34ddc7d10f3d0028daeb95a6181d2860d1c028e3"/>
 	</game>
 	<game name="Lilly Adventure (USA)" id="0576">
 		<description>Lilly Adventure (USA)</description>
@@ -2479,6 +2479,10 @@
 	<game name="River Raid II (USA)" id="0374">
 		<description>River Raid II (USA)</description>
 		<rom name="River Raid II (USA).a26" size="16384" crc="27d2df2c" md5="ab56f1b2542a05bebc4fbccfc4803a38" sha1="a08c3eae3368334c937a5e03329782e95f7b57c7"/>
+	</game>
+	<game name="River Raid II (Europe)" id="0930">
+		<description>River Raid II (Europe)</description>
+		<rom name="River Raid II (Europe).a26" size="4096" crc="6c87e640" md5="65ba1a4c643d1ab44481bdddeb403827" sha1="d5ce6dae728700ef24a7cddc95e1e42d0e2d20f9" sha256="fd37636d7a0941154e1e97221b8595caa5d002c5a0e092d08291ed16d2226682"/>
 	</game>
 	<game name="Road Runner (USA)" id="0375">
 		<description>Road Runner (USA)</description>

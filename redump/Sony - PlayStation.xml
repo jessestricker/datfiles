@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-18 15-12-02)</description>
-		<version>2026-05-18 15-12-02</version>
-		<date>2026-05-18 15-12-02</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-20 17-42-33)</description>
+		<version>2026-05-20 17-42-33</version>
+		<date>2026-05-20 17-42-33</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -32764,35 +32764,35 @@
 		<rom name="Euro Demo 01-99 (Germany) (Track 12).bin" size="17896368" crc="7d48d04a" md5="1395fde873a14ebef516100f6669b84e" sha1="7e79891edc73cb5c36778e3cb305f9ae688bf56b"/>
 		<rom name="Euro Demo 01-99 (Germany) (Track 13).bin" size="32356464" crc="f6f33c3b" md5="f69392e9568b55dc52d1aebb900c2a61" sha1="0fd16cbb03e546647dee93fdd2a62a916efbcac6"/>
 	</game>
-	<game name="Tokimeki Memorial 2 (Japan) (Disc 1)">
+	<game name="Tokimeki Memorial 2 (Japan, Asia) (Disc 1)">
 		<category>Games</category>
-		<description>Tokimeki Memorial 2 (Japan) (Disc 1)</description>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 1).cue" size="117" crc="6ca40e48" md5="099e058ff2ca958484cabd22a757941b" sha1="167e85220226b71b5802c3cabb258fa3d26ce7ba"/>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 1).bin" size="692445264" crc="2d0d0251" md5="1b9d4fc0f96b3a6255a4011f25570bc3" sha1="150be982e204653768c6548ff1c2e1aa716fc1eb"/>
+		<description>Tokimeki Memorial 2 (Japan, Asia) (Disc 1)</description>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 1).cue" size="123" crc="fc106374" md5="0ad12b8ce3abd6d6bf96d4a06f1fac2a" sha1="79c2f4c7e381cfbaa843f0cbb210708c0bdc4a9a"/>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 1).bin" size="692445264" crc="2d0d0251" md5="1b9d4fc0f96b3a6255a4011f25570bc3" sha1="150be982e204653768c6548ff1c2e1aa716fc1eb"/>
 	</game>
-	<game name="Tokimeki Memorial 2 (Japan) (Disc 2)">
+	<game name="Tokimeki Memorial 2 (Japan, Asia) (Disc 2)">
 		<category>Games</category>
-		<description>Tokimeki Memorial 2 (Japan) (Disc 2)</description>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 2).cue" size="117" crc="f5e4e927" md5="c9cb60e52114de23b237f2400b8588b3" sha1="3b195610d63a1e2ee0d4f929c9ca170265786be1"/>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 2).bin" size="739478208" crc="5eeb5c5d" md5="d94bd6afad6ed37dc91520a01a31a813" sha1="764cc58a78a1311f1d26c50a4e3a98d80012da25"/>
+		<description>Tokimeki Memorial 2 (Japan, Asia) (Disc 2)</description>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 2).cue" size="123" crc="6550841b" md5="d6a1b89bcdd78e19f17a68cf21056a9a" sha1="97ee86e0562ae6783dd3340b9846d86157424e39"/>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 2).bin" size="739478208" crc="5eeb5c5d" md5="d94bd6afad6ed37dc91520a01a31a813" sha1="764cc58a78a1311f1d26c50a4e3a98d80012da25"/>
 	</game>
-	<game name="Tokimeki Memorial 2 (Japan) (Disc 3)">
+	<game name="Tokimeki Memorial 2 (Japan, Asia) (Disc 3)">
 		<category>Games</category>
-		<description>Tokimeki Memorial 2 (Japan) (Disc 3)</description>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 3).cue" size="117" crc="340bb63d" md5="14d39c5020662380f903bd966948dce8" sha1="b57de610b1d6dd7b31be10cc3e1d4958c48c9c8d"/>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 3).bin" size="747698448" crc="f9d69805" md5="531f81fa29ec9856cbb656255509dbbe" sha1="2fd1a708d5f5c4fc452d201fde543a21cedf4b5a"/>
+		<description>Tokimeki Memorial 2 (Japan, Asia) (Disc 3)</description>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 3).cue" size="123" crc="a4bfdb01" md5="dfe2c8ca56b7c71a5e499db420fb3d96" sha1="d128890dca19a2f72365a6de3616f91c2ea25d2c"/>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 3).bin" size="747698448" crc="f9d69805" md5="531f81fa29ec9856cbb656255509dbbe" sha1="2fd1a708d5f5c4fc452d201fde543a21cedf4b5a"/>
 	</game>
-	<game name="Tokimeki Memorial 2 (Japan) (Disc 4)">
+	<game name="Tokimeki Memorial 2 (Japan, Asia) (Disc 4)">
 		<category>Games</category>
-		<description>Tokimeki Memorial 2 (Japan) (Disc 4)</description>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 4).cue" size="117" crc="1c1421b8" md5="496967ee46836a1b16ffad3cccfa689c" sha1="0d534d9ee5d879e733f6ee6bccf5ef70b55f67ea"/>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 4).bin" size="744814896" crc="86e00e24" md5="30529fd784d770a3c371cf396834e26c" sha1="10d5a49fafddb956e9a6f530c7ea67a2353795e3"/>
+		<description>Tokimeki Memorial 2 (Japan, Asia) (Disc 4)</description>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 4).cue" size="123" crc="8ca04c84" md5="a31d0401f7373c48afcd06e42dee0470" sha1="3ff716b485d9e53fda5a1564a1662093d4daef14"/>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 4).bin" size="744814896" crc="86e00e24" md5="30529fd784d770a3c371cf396834e26c" sha1="10d5a49fafddb956e9a6f530c7ea67a2353795e3"/>
 	</game>
-	<game name="Tokimeki Memorial 2 (Japan) (Disc 5)">
+	<game name="Tokimeki Memorial 2 (Japan, Asia) (Disc 5)">
 		<category>Games</category>
-		<description>Tokimeki Memorial 2 (Japan) (Disc 5)</description>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 5).cue" size="117" crc="ddfb7ea2" md5="ffdd982cc489cc58664bb7af5ec62173" sha1="bd88395fe6b07b19d6476aeb2a3abe8e3373838d"/>
-		<rom name="Tokimeki Memorial 2 (Japan) (Disc 5).bin" size="742660464" crc="0906c4b9" md5="73d40fc50421fc4a15368fa560070b50" sha1="1c44dbdaff497e00ffa95e5fa38dd1e682119445"/>
+		<description>Tokimeki Memorial 2 (Japan, Asia) (Disc 5)</description>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 5).cue" size="123" crc="4d4f139e" md5="e7168c3de0b3f4e08b417522e4a8255d" sha1="d76c17e0b7136c91ea49205193a23e91f0f67c90"/>
+		<rom name="Tokimeki Memorial 2 (Japan, Asia) (Disc 5).bin" size="742660464" crc="0906c4b9" md5="73d40fc50421fc4a15368fa560070b50" sha1="1c44dbdaff497e00ffa95e5fa38dd1e682119445"/>
 	</game>
 	<game name="Euro Demo 05-99 (Germany)">
 		<category>Demos</category>

@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260517-065003</version>
+		<version>20260519-192025</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11125,9 +11125,9 @@
 		<description>I Spy - Fun House (Europe)</description>
 		<rom name="I Spy - Fun House (Europe).nds" size="16777216" crc="4ee49821" md5="74dd853cf49fcf1e47babf2f9e53fd5d" sha1="73a3e183ccf6522443ff2f4c90004a179669953d" serial="YP5P"/>
 	</game>
-	<game name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl)" id="1983">
-		<description>I Spy - Fun House (Europe) (En,Fr,De,It,Nl)</description>
-		<rom name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl).nds" size="33554432" crc="7b11414a" md5="564d3fa356ea0c0bfe4f097b52f3c865" sha1="6bf31cbfde0cdbd0e6bbbc1c63e325a1fa3cac1b" sha256="b892cbd8970c9773b215d2c28f79abd522bfaf739242dcbb9a77a2c2465d6610" serial="YP5X"/>
+	<game name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b]" id="1983">
+		<description>I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b]</description>
+		<rom name="I Spy - Fun House (Europe) (En,Fr,De,It,Nl) [b].nds" size="33554432" crc="30c091bc" md5="11cfc4c5cd73a18516556c87868f1d17" sha1="ec5e25f90b9cb20427f1c9ab0ee451847a46b4f2" sha256="9fb3ee278b0feb101a5e3c4c5ee13b0076392b95fccd040eb7caaf0d27849647" status="baddump" serial="YP5X"/>
 	</game>
 	<game name="I Spy - Fun House (Europe) (En,Ru) (Proto)" id="z056" cloneofid="1983">
 		<category>Games</category>
@@ -20816,12 +20816,12 @@
 	<game name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program)" id="z661">
 		<category>Applications</category>
 		<description>PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program)</description>
-		<rom name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program).nds" size="268435456" crc="b8fb685b" md5="a5fe23d3ccf17095355864711f6845ac" sha1="ebf77561710b608a4626b1332eb12d63516866db" sha256="069d8a1db0a925294c50bc8fad41f98b98ef434059396ef8be242d44e134c0fe" serial="NTRJ"/>
+		<rom name="PHC PRODUCT TEST (VERIFY) (World) (2009-05-18) (Program).nds" size="8388608" crc="1e57c122" md5="be2b9652e41852a28adc797b87df69f5" sha1="4bcbbe9e72ee4d467d7baf3a0b7b3b6c606ecfbb" sha256="deca067d2df1375107e9dcd0eb05671d4c9b465bc4922b4ae2716e6097147281"/>
 	</game>
 	<game name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program)" id="z660">
 		<category>Applications</category>
 		<description>PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program)</description>
-		<rom name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program).nds" size="268435456" crc="ef62d784" md5="84fc2bf11f7e9a8446e73c58808b9530" sha1="05cb0437fa0a84fe3f66375b8109efed0d0280ee" sha256="2f2499322ee230033ffa39224d476d89a1742bb41b09344a6f8ad28943f62fdb" serial="NTRJ"/>
+		<rom name="PHC PRODUCT TEST (WRITE) (World) (2009-05-18) (Program).nds" size="8388608" crc="903fec0e" md5="1e0e85ad34c94f50b9c09ad46cb4dc58" sha1="8986b2226483975c10a17773f8cf5569cf0806c3" sha256="e38370759fa6d2a7b0747649e9024f05d8629e860bef0db678e6d891127a8d8b"/>
 	</game>
 	<game name="Phil Taylor's Power Play Darts (Europe) (Rev 1)" id="6158">
 		<description>Phil Taylor's Power Play Darts (Europe) (Rev 1)</description>
@@ -25103,6 +25103,12 @@
 	<game name="Simpsons, Die - Das Spiel (Germany)" id="1627" cloneofid="1577">
 		<description>Simpsons, Die - Das Spiel (Germany)</description>
 		<rom name="Simpsons, Die - Das Spiel (Germany).nds" size="134217728" crc="562df651" md5="670ab6f1f26573f523108644f60c6ba3" sha1="dd2590b4607dab524f14ac2dc28759019382679c" sha256="f81dd7b94d3eac6011057f6f1729c7f33602b3368da4111da7c311909ebb31e0" serial="YSZD"/>
+	</game>
+	<game name="Simpsons, The (USA) (Beta)" id="6800" cloneofid="1577">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Simpsons, The (USA) (Beta)</description>
+		<rom name="Simpsons, The (USA) (Beta).nds" size="67108864" crc="7b880e12" md5="7d579931cac4c776b44b0b4a75e815c3" sha1="6455c8affd44bb934ecdac1bb994327e1a602993" sha256="60882a473badf516a4776dd5b6a37d3695d39f58805f1e7fcb798f80cf9a62a2"/>
 	</game>
 	<game name="Sims 2, The (USA) (En,Fr,De,Es,It)" id="0140" cloneofid="0162">
 		<description>Sims 2, The (USA) (En,Fr,De,Es,It)</description>

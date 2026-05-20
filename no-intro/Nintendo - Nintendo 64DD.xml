@@ -4,8 +4,8 @@
 		<id>83</id>
 		<name>Nintendo - Nintendo 64DD</name>
 		<description>Nintendo - Nintendo 64DD</description>
-		<version>20260221-121754</version>
-		<author>Arctic Circle System, chillerecke, einstein95, Hiccup, relax, xuom2</author>
+		<version>20260519-220433</version>
+		<author>1988reload, Arctic Circle System, chillerecke, einstein95, Hiccup, relax, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -45,29 +45,29 @@
 	</game>
 	<game name="[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta)" id="xB03" cloneofid="xB01">
 		<description>[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta)</description>
-		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta).z64" size="4194304" crc="417d05be" md5="7630650c7fc16e199911269647186e79" sha1="b3e26dbb4e945f78c918fabc5b9e60fcf262c47b" serial="NDDJ"/>
+		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta).z64" size="4194304" crc="417d05be" md5="7630650c7fc16e199911269647186e79" sha1="b3e26dbb4e945f78c918fabc5b9e60fcf262c47b" sha256="2bd70afe81e5bc9de6b90e1703369e11e1824bd0dd910fd388bf014e3ccf53aa" serial="NDDJ"/>
 	</game>
 	<game name="[BIOS] Nintendo 64DD IPL (Japan) (Beta)" id="xB02" cloneofid="xB01">
 		<description>[BIOS] Nintendo 64DD IPL (Japan) (Beta)</description>
-		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (Beta).z64" size="4194304" crc="6224f875" md5="94dba2d79615deed567aa85f4cf74162" sha1="58670c0063793a8f3be957d71d937b618829ba9e" serial="NDDJ"/>
+		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (Beta).z64" size="4194304" crc="6224f875" md5="94dba2d79615deed567aa85f4cf74162" sha1="58670c0063793a8f3be957d71d937b618829ba9e" sha256="7d1235bea19816f5682e4208c09c47d2fc1b2639570588a86dd0c24ec064099f" serial="NDDJ"/>
 	</game>
 	<game name="[BIOS] Nintendo 64DD IPL (USA) (Proto)" id="xB04" cloneofid="xB01">
 		<description>[BIOS] Nintendo 64DD IPL (USA) (Proto)</description>
-		<rom name="[BIOS] Nintendo 64DD IPL (USA) (Proto).z64" size="4194304" crc="d0f567ca" md5="37c36e4286d36892a9fc70eafe4104be" sha1="3c5b93ca231550c68693a14f03cea8d5dbd1be9e" serial="NDDE"/>
+		<rom name="[BIOS] Nintendo 64DD IPL (USA) (Proto).z64" size="4194304" crc="d0f567ca" md5="37c36e4286d36892a9fc70eafe4104be" sha1="3c5b93ca231550c68693a14f03cea8d5dbd1be9e" sha256="e9fec87a45fba02399e88064b9e2f8cf0f2106e351c58279a87f05da5bc984ad" serial="NDDE"/>
 	</game>
 	<game name="[BIOS] Nintendo 64DD IPL (Japan) (v1.2)" id="xB01">
 		<description>[BIOS] Nintendo 64DD IPL (Japan) (v1.2)</description>
-		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (v1.2).z64" size="4194304" crc="7f933ce2" md5="8d3d9f294b6e174bc7b1d2fd1c727530" sha1="bf861922dcb78c316360e3e742f4f70ff63c9bc3" serial="NDDJ"/>
+		<rom name="[BIOS] Nintendo 64DD IPL (Japan) (v1.2).z64" size="4194304" crc="7f933ce2" md5="8d3d9f294b6e174bc7b1d2fd1c727530" sha1="bf861922dcb78c316360e3e742f4f70ff63c9bc3" sha256="806400ec0df94b0755de6c5b8249d6b6a9866124c5ddbdac198bde22499bfb8b" serial="NDDJ"/>
 	</game>
 	<game name="[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta)" id="xB05" cloneofid="xB01">
 		<description>[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta)</description>
-		<rom name="[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta).z64" size="4194304" crc="b78064d9" md5="aad37b1492886b892f1821f37fd3ae34" sha1="10c4173c2a7eb09c6579818f72ef18fa0b6d32de" status="verified" serial="NDXJ"/>
+		<rom name="[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta).z64" size="4194304" crc="b78064d9" md5="aad37b1492886b892f1821f37fd3ae34" sha1="10c4173c2a7eb09c6579818f72ef18fa0b6d32de" sha256="9c2962a8b994a29e4cd04b3a6e4ed730a751414655ab6a9799ebf5fc08b79d44" status="verified" serial="NDXJ"/>
 	</game>
 	<game name="Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion)" id="0001" cloneofid="0023">
 		<category>Add-Ons</category>
 		<category>Games</category>
 		<description>Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion)</description>
-		<rom name="Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion).ndd" size="64931840" crc="07a920f7" md5="40aa8ec52c5e025d6c6ad94cebc2218f" sha1="f0b3e6c0a944118e4a8ee8ea54da1b103b754241" serial="DEZA"/>
+		<rom name="Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion).ndd" size="64931840" crc="07a920f7" md5="40aa8ec52c5e025d6c6ad94cebc2218f" sha1="f0b3e6c0a944118e4a8ee8ea54da1b103b754241" sha256="88867a327ea260f5ac02266478fdafe6ab962ee55edeceb34c75b09ea7274c01" serial="DEZA"/>
 	</game>
 	<game name="Dezaemon DD (Japan) (Proto) (1998-02-23T210259) (Expansion) [b]" id="0023">
 		<category>Add-Ons</category>
@@ -83,27 +83,27 @@
 	</game>
 	<game name="F-Zero X - Expansion Kit (Japan)" id="0011">
 		<description>F-Zero X - Expansion Kit (Japan)</description>
-		<rom name="F-Zero X - Expansion Kit (Japan).ndd" size="64931840" crc="78295a68" md5="cb2fb00c3921245ae04bb38ba01abe92" sha1="7e8badf857f1fce8aa59307c0fd318128c44418b" serial="EFZJ"/>
+		<rom name="F-Zero X - Expansion Kit (Japan).ndd" size="64931840" crc="78295a68" md5="cb2fb00c3921245ae04bb38ba01abe92" sha1="7e8badf857f1fce8aa59307c0fd318128c44418b" sha256="16b3cff9eef2b621207223c839a4e030c3c4f21a3c8da7eb15f4784cb73b200e" serial="EFZJ"/>
 	</game>
 	<game name="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]" id="0003" cloneofid="0002">
 		<description>Kyojin no Doshin (Japan) (Demo) (Kiosk) [b]</description>
-		<rom name="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].ndd" size="64931840" crc="b530daab" md5="afe059ae1210751b6c849cfb482c99dd" sha1="2a73aced8fded7a6422fa322d8ff76f6045c687f" status="baddump" serial="DKIJ"/>
+		<rom name="Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].ndd" size="64931840" crc="b530daab" md5="afe059ae1210751b6c849cfb482c99dd" sha1="2a73aced8fded7a6422fa322d8ff76f6045c687f" sha256="01dbbc71d4fd2c3cfe6dd85b869eb66d9f5eeadde640fa641ae0a3ff38698001" status="baddump" serial="DKIJ"/>
 	</game>
 	<game name="Kyojin no Doshin (Japan)" id="0002">
 		<description>Kyojin no Doshin (Japan)</description>
-		<rom name="Kyojin no Doshin (Japan).ndd" size="64931840" crc="14acd221" md5="e8eb810d996e12cd6c47445f87a94c72" sha1="3e7eb70138213cc944952c4c659285f729b1fe1a" serial="DKDJ"/>
+		<rom name="Kyojin no Doshin (Japan).ndd" size="64931840" crc="14acd221" md5="e8eb810d996e12cd6c47445f87a94c72" sha1="3e7eb70138213cc944952c4c659285f729b1fe1a" sha256="d9044b187c5545f8f791bafb8821c3dd365fb822cc6dc893b8792e8ecce56450" serial="DKDJ"/>
 	</game>
 	<game name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]" id="0012">
 		<description>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b]</description>
-		<rom name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].ndd" size="64931840" crc="70680cc1" md5="fcca9af8c1174c40b478ea0e02673b16" sha1="9412f12cb67acd3534d1bbe511b42738b64f94bf" status="baddump" serial="DKKJ"/>
+		<rom name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].ndd" size="64931840" crc="70680cc1" md5="fcca9af8c1174c40b478ea0e02673b16" sha1="9412f12cb67acd3534d1bbe511b42738b64f94bf" sha256="51b9506e31ba0b199c3c67b67fd5f875bcfcb557ac0c220ef86ee7e928d9163a" status="baddump" serial="DKKJ"/>
 	</game>
 	<game name="Mario Artist - Communication Kit (Japan)" id="0005">
 		<description>Mario Artist - Communication Kit (Japan)</description>
-		<rom name="Mario Artist - Communication Kit (Japan).ndd" size="64931840" crc="3bf36eda" md5="114af722029d6386c3bfea4cc8fa603c" sha1="8040dcd657227463b840f47f3e24a7f42945e1f8" serial="DMBJ"/>
+		<rom name="Mario Artist - Communication Kit (Japan).ndd" size="64931840" crc="3bf36eda" md5="114af722029d6386c3bfea4cc8fa603c" sha1="8040dcd657227463b840f47f3e24a7f42945e1f8" sha256="f6173909321f576d59f4360f606b0107e059cca754b1c1666b703265442dbcb0" serial="DMBJ"/>
 	</game>
 	<game name="Mario Artist - Paint Studio (Japan)" id="0006">
 		<description>Mario Artist - Paint Studio (Japan)</description>
-		<rom name="Mario Artist - Paint Studio (Japan).ndd" size="64931840" crc="b732c3ad" md5="8485643e5830cd67ed4c0a5fd49e2491" sha1="9997e6f118c72f265eb648f18faa48c3a416fb3b" serial="DMPJ"/>
+		<rom name="Mario Artist - Paint Studio (Japan).ndd" size="64931840" crc="b732c3ad" md5="8485643e5830cd67ed4c0a5fd49e2491" sha1="9997e6f118c72f265eb648f18faa48c3a416fb3b" sha256="6b3c4fcd6c89370a9e7ffa0130282f20897f96f5ed5a1f634f82a546850b6c2a" serial="DMPJ"/>
 	</game>
 	<game name="Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)" id="0017" cloneofid="0006">
 		<description>Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)</description>
@@ -111,7 +111,7 @@
 	</game>
 	<game name="Mario Artist - Polygon Studio (Japan)" id="0007">
 		<description>Mario Artist - Polygon Studio (Japan)</description>
-		<rom name="Mario Artist - Polygon Studio (Japan).ndd" size="64931840" crc="ac304109" md5="da23ee561578b7dad77ed72728b46d30" sha1="4e4f267d2d063286bf4c1302386dab8b1ab0d4c6" serial="DMGJ"/>
+		<rom name="Mario Artist - Polygon Studio (Japan).ndd" size="64931840" crc="ac304109" md5="da23ee561578b7dad77ed72728b46d30" sha1="4e4f267d2d063286bf4c1302386dab8b1ab0d4c6" sha256="a601ae1a9caef9f60a81b343351ea222bd1270671e1be546d6c4f4b680315f09" serial="DMGJ"/>
 	</game>
 	<game name="Mario Artist - Talent Studio (Japan) (Beta) (1999-08-05)" id="0024" cloneofid="0008">
 		<category>Games</category>
@@ -121,11 +121,11 @@
 	</game>
 	<game name="Mario Artist - Talent Studio (Japan)" id="0008">
 		<description>Mario Artist - Talent Studio (Japan)</description>
-		<rom name="Mario Artist - Talent Studio (Japan).ndd" size="64931840" crc="649bbcb1" md5="88228e990b58a94e9b3460beff632304" sha1="24ca7508157466e5d289ee49c2c714806d1ecce2" serial="DMTJ"/>
+		<rom name="Mario Artist - Talent Studio (Japan).ndd" size="64931840" crc="649bbcb1" md5="88228e990b58a94e9b3460beff632304" sha1="24ca7508157466e5d289ee49c2c714806d1ecce2" sha256="cb4d3f841e8405c4bcb760aad6ef9496def6aa1cac7b2f9e54fe7085b6bf8536" serial="DMTJ"/>
 	</game>
 	<game name="Nihon Pro Golf Tour 64 (Japan) [b]" id="0004">
 		<description>Nihon Pro Golf Tour 64 (Japan) [b]</description>
-		<rom name="Nihon Pro Golf Tour 64 (Japan) [b].ndd" size="64931840" crc="9b8fff6d" md5="9f797a9c704b5ebd04d6a2b036309af2" sha1="053140bd97c525804747251dea3211fe55357b77" status="baddump" serial="DPGJ"/>
+		<rom name="Nihon Pro Golf Tour 64 (Japan) [b].ndd" size="64931840" crc="9b8fff6d" md5="9f797a9c704b5ebd04d6a2b036309af2" sha1="053140bd97c525804747251dea3211fe55357b77" sha256="a563340e1e4877ecfb5e8523d3dc5758d0d047e0d70177e54020cab4219c3532" status="baddump" serial="DPGJ"/>
 	</game>
 	<game name="Randnet Disk (Japan) (Beta) (1999-11-27)" id="0019" cloneofid="0014">
 		<category>Applications</category>
@@ -153,18 +153,18 @@
 	</game>
 	<game name="Randnet Disk (Japan) [b]" id="0009" cloneofid="0014">
 		<description>Randnet Disk (Japan) [b]</description>
-		<rom name="Randnet Disk (Japan) [b].ndd" size="64931840" crc="c3ef79f0" md5="26087e0750fc6da0f3de2a431e34bddf" sha1="9ade854221962f5f4c68ea0615951dd948896c1b" status="baddump" serial="DRDJ"/>
+		<rom name="Randnet Disk (Japan) [b].ndd" size="64931840" crc="c3ef79f0" md5="26087e0750fc6da0f3de2a431e34bddf" sha1="9ade854221962f5f4c68ea0615951dd948896c1b" sha256="58819e9e194c6f82641121c19db7c485311ca72d373fe02239146406f0b15677" status="baddump" serial="DRDJ"/>
 	</game>
 	<game name="Randnet Disk (Japan) (Rev 1) [b]" id="0014">
 		<description>Randnet Disk (Japan) (Rev 1) [b]</description>
-		<rom name="Randnet Disk (Japan) (Rev 1) [b].ndd" size="64931840" crc="78eeee88" md5="33cbc59786063285dc3c090e0ed312e3" sha1="a7d7a1e4e7dd02b628433070a65bf5c1a063c13b" status="baddump" serial="DRDJ"/>
+		<rom name="Randnet Disk (Japan) (Rev 1) [b].ndd" size="64931840" crc="78eeee88" md5="33cbc59786063285dc3c090e0ed312e3" sha1="a7d7a1e4e7dd02b628433070a65bf5c1a063c13b" sha256="cbf11e7ca1bae6dcc06714fa06e766ec925cf5068553a9db1a81caa17409a011" status="baddump" serial="DRDJ"/>
 	</game>
 	<game name="SimCity 64 (Japan)" id="0010">
 		<description>SimCity 64 (Japan)</description>
-		<rom name="SimCity 64 (Japan).ndd" size="64931840" crc="163456ca" md5="ebba03f20096fc2bc178fc3a1f4ec2b6" sha1="5d7d5046d702dcc0ea56ce1b96eb90f0c984b51a" serial="DSCJ"/>
+		<rom name="SimCity 64 (Japan).ndd" size="64931840" crc="163456ca" md5="ebba03f20096fc2bc178fc3a1f4ec2b6" sha1="5d7d5046d702dcc0ea56ce1b96eb90f0c984b51a" sha256="c89a2d6132b3a110a382b801668809720f6c1827c7f4dea12ef6bb5ee14abb39" serial="DSCJ"/>
 	</game>
 	<game name="Super Mario 64 - Disk Version (Japan) (Proto)" id="0013">
 		<description>Super Mario 64 - Disk Version (Japan) (Proto)</description>
-		<rom name="Super Mario 64 - Disk Version (Japan) (Proto).ndd" size="64931840" crc="11589525" md5="d9ea905727b44f2774926cb03c2300a7" sha1="e8f5c3f0e151cbc3b02184a2437e39fa9d1e2686"/>
+		<rom name="Super Mario 64 - Disk Version (Japan) (Proto).ndd" size="64931840" crc="11589525" md5="d9ea905727b44f2774926cb03c2300a7" sha1="e8f5c3f0e151cbc3b02184a2437e39fa9d1e2686" sha256="817aa7d30158156070645588d0ce7131d395c206410d8b26fa566bee0b1050ae"/>
 	</game>
 </datafile>
