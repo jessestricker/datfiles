@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-20 17-42-33)</description>
-		<version>2026-05-20 17-42-33</version>
-		<date>2026-05-20 17-42-33</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-21 16-56-51)</description>
+		<version>2026-05-21 16-56-51</version>
+		<date>2026-05-21 16-56-51</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -10055,12 +10055,12 @@
 		<rom name="Mystic Mind - Yureru Omoi (Japan) (Disc 1).cue" size="108" crc="ddc27fd9" md5="7ab01b8f5a96af177da331c073194cf9" sha1="8af8bc49ac9ad3510c28c9550a272a70de96e4cd"/>
 		<rom name="Mystic Mind - Yureru Omoi (Japan) (Disc 1).bin" size="635877312" crc="9a8a1ccc" md5="f920362c6023dcd8d40492f72de8bf78" sha1="18a2bd144e1e7850372e1fb5b3fdb8378c6439fc"/>
 	</game>
-	<game name="Princess Maker - Yumemiru Yousei (Japan)">
+	<game name="Princess Maker - Yumemiru Yousei (Japan, Asia)">
 		<category>Games</category>
-		<description>Princess Maker - Yumemiru Yousei (Japan)</description>
-		<rom name="Princess Maker - Yumemiru Yousei (Japan).cue" size="250" crc="9aa415a8" md5="0ca7cf1314aa6008560b3e7a2f593100" sha1="1e07eff2645006d713d4604c2c6892447d9cfb76"/>
-		<rom name="Princess Maker - Yumemiru Yousei (Japan) (Track 1).bin" size="435703296" crc="cc63ddb8" md5="50a5a6ee60075e34ae02744db3de085b" sha1="82ba324dbefe52c2c56917797e5c964915c7fd43"/>
-		<rom name="Princess Maker - Yumemiru Yousei (Japan) (Track 2).bin" size="44793840" crc="2a5d6389" md5="09dd6a556287ede17ef474aa385c34fb" sha1="20675499104d03930051f5fe4129730ab5ac79b1"/>
+		<description>Princess Maker - Yumemiru Yousei (Japan, Asia)</description>
+		<rom name="Princess Maker - Yumemiru Yousei (Japan, Asia).cue" size="262" crc="ee5c2a39" md5="2a4dbedab613dedc47087e93fb27d80d" sha1="51aa9da9de47905bc5788ecea9b831d4f3ee663a"/>
+		<rom name="Princess Maker - Yumemiru Yousei (Japan, Asia) (Track 1).bin" size="435703296" crc="cc63ddb8" md5="50a5a6ee60075e34ae02744db3de085b" sha1="82ba324dbefe52c2c56917797e5c964915c7fd43"/>
+		<rom name="Princess Maker - Yumemiru Yousei (Japan, Asia) (Track 2).bin" size="44793840" crc="2a5d6389" md5="09dd6a556287ede17ef474aa385c34fb" sha1="20675499104d03930051f5fe4129730ab5ac79b1"/>
 	</game>
 	<game name="Gekitou! Crush Gear Turbo (Japan)">
 		<category>Games</category>
@@ -10127,11 +10127,11 @@
 		<rom name="Shadow Man (Europe) (En,Fr,Es) (Track 1).bin" size="534061584" crc="f5c049c0" md5="e2c7f020a7eb9e422031a762ddebd425" sha1="fbcc9eac4a0711983a862f08f9d508851cdaa0cc"/>
 		<rom name="Shadow Man (Europe) (En,Fr,Es) (Track 2).bin" size="64386000" crc="585524c4" md5="3f327333e6dd1287030b7972f1893cda" sha1="6970793ea8c4b2d0ddc6fdb68b22ec87d757f45b"/>
 	</game>
-	<game name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan)">
+	<game name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan, Asia)">
 		<category>Games</category>
-		<description>Tokimeki no Houkago - Ne Quiz Shiyo (Japan)</description>
-		<rom name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan).cue" size="109" crc="dfc392f1" md5="2558760c057adf0e828a945a169db0ab" sha1="19726eaf8187795af40d06b36c1ceb550426b5cf"/>
-		<rom name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan).bin" size="749829360" crc="e0bbbe54" md5="4c4cd049b68f43132337e8c4c4a394e9" sha1="fac2433a0e32326f89fd0e75573ec174dc6e4eb9"/>
+		<description>Tokimeki no Houkago - Ne Quiz Shiyo (Japan, Asia)</description>
+		<rom name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan, Asia).cue" size="115" crc="2611c176" md5="5adb567520ac888480dbafb3713464ae" sha1="af601ec8a9805645962206e91b2046c1276014b2"/>
+		<rom name="Tokimeki no Houkago - Ne Quiz Shiyo (Japan, Asia).bin" size="749829360" crc="e0bbbe54" md5="4c4cd049b68f43132337e8c4c4a394e9" sha1="fac2433a0e32326f89fd0e75573ec174dc6e4eb9"/>
 	</game>
 	<game name="Bishi Bashi Special (Europe)">
 		<category>Games</category>
@@ -74067,11 +74067,11 @@
 		<rom name="SuperLite 1500 Series - Shinsei Toilet no Hanako-san (Japan).cue" size="126" crc="6a92eb7a" md5="f58b960e6542d03cdf56bbf4066112da" sha1="c732fdfdc8d315860eba7be6dc7b2195a1f9c076"/>
 		<rom name="SuperLite 1500 Series - Shinsei Toilet no Hanako-san (Japan).bin" size="455391888" crc="283ccb13" md5="27abe4b6ac87a0a498072c806a4dd421" sha1="e4cb400874a8fd70d71dcfeb84a959caef3c72c9"/>
 	</game>
-	<game name="Doukyuusei 2 (Japan)">
+	<game name="Doukyuusei 2 (Japan, Asia)">
 		<category>Games</category>
-		<description>Doukyuusei 2 (Japan)</description>
-		<rom name="Doukyuusei 2 (Japan).cue" size="86" crc="ff26f8e9" md5="d572f7ceadba8d8db254778397a5abe2" sha1="88a9a085278abacc20c748f3fe1caee7564320f7"/>
-		<rom name="Doukyuusei 2 (Japan).bin" size="663666192" crc="7fe7e2a2" md5="d26db25598ebd0405803319cadb3872f" sha1="cea1b42e998446b8731d0698b4b2d9cc330114e2"/>
+		<description>Doukyuusei 2 (Japan, Asia)</description>
+		<rom name="Doukyuusei 2 (Japan, Asia).cue" size="92" crc="c3fad986" md5="ad704ef88a691bc5fd24d20ad9f68a35" sha1="5411a00bca8154703dd0bce256380db5b31e29b3"/>
+		<rom name="Doukyuusei 2 (Japan, Asia).bin" size="663666192" crc="7fe7e2a2" md5="d26db25598ebd0405803319cadb3872f" sha1="cea1b42e998446b8731d0698b4b2d9cc330114e2"/>
 	</game>
 	<game name="Love^2 Torokko (Japan)">
 		<category>Games</category>

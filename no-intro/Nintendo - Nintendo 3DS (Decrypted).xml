@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260519-192134</version>
+		<version>20260520-230912</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -83,7 +83,7 @@
 	<game name="3D Game Collection - 55-in-1 (Germany) (Fr,De)" id="0920" cloneofid="0400">
 		<description>3D Game Collection - 55-in-1 (Germany) (Fr,De)</description>
 		<game_id>000400000006AA00</game_id>
-		<rom name="3D Game Collection - 55-in-1 (Germany) (Fr,De).3ds" size="134217728" crc="8f7866d7" md5="f24319b0e68943002132e7eeda1a7efd" sha1="de708b43651e5402370c6d115e8c4fc7d87244be" serial="CTR-P-AD3D"/>
+		<rom name="3D Game Collection - 55-in-1 (Germany) (Fr,De).3ds" size="134217728" crc="8f7866d7" md5="f24319b0e68943002132e7eeda1a7efd" sha1="de708b43651e5402370c6d115e8c4fc7d87244be" sha256="e608b755aa30ba8e3c059f6018986b20f2865d4ce3cc5f760b84805ed66ef85b" status="verified" serial="CTR-P-AD3D"/>
 	</game>
 	<game name="3D MahJongg (Europe) (En,Fr,De,Nl)" id="0410">
 		<description>3D MahJongg (Europe) (En,Fr,De,Nl)</description>
@@ -581,7 +581,7 @@
 	<game name="Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It)" id="0468">
 		<description>Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000000D7000</game_id>
-		<rom name="Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="a710cfd6" md5="7296e202ea4cfd49c3f7e7bd90dd2ed6" sha1="767f6c38afad4bfd926c308f9695cdb0e098f8b3" status="verified" serial="CTR-P-AZEP"/>
+		<rom name="Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="a710cfd6" md5="7296e202ea4cfd49c3f7e7bd90dd2ed6" sha1="767f6c38afad4bfd926c308f9695cdb0e098f8b3" sha256="370a4735a7de4898649f15c558597484babf31758bf1003b04a1d914186ad4a1" status="verified" serial="CTR-P-AZEP"/>
 	</game>
 	<game name="Batman - Arkham Origins Blackgate (USA) (En,Fr,Es)" id="0527" cloneofid="0468">
 		<description>Batman - Arkham Origins Blackgate (USA) (En,Fr,Es)</description>
@@ -2063,7 +2063,7 @@
 	<game name="Doodle Jump Adventures (Europe) (En,Fr,De,It,Nl)" id="0641" cloneofid="0796">
 		<description>Doodle Jump Adventures (Europe) (En,Fr,De,It,Nl)</description>
 		<game_id>0004000000109000</game_id>
-		<rom name="Doodle Jump Adventures (Europe) (En,Fr,De,It,Nl).3ds" size="134217728" crc="52d4a7f5" md5="94ef0f441b6b67d8ca8b9d110395cec8" sha1="bec68436b8949c2c9d7c005f52ae5d955e5a1ef7" status="verified" serial="CTR-P-AEGZ"/>
+		<rom name="Doodle Jump Adventures (Europe) (En,Fr,De,It,Nl).3ds" size="134217728" crc="52d4a7f5" md5="94ef0f441b6b67d8ca8b9d110395cec8" sha1="bec68436b8949c2c9d7c005f52ae5d955e5a1ef7" sha256="c369124b7bed032e9be721d29b5987cfe986cf8d64bb0165c15510f361243fac" status="verified" serial="CTR-P-AEGZ"/>
 	</game>
 	<game name="Doodle Jump Adventures (Europe)" id="0796">
 		<description>Doodle Jump Adventures (Europe)</description>
@@ -2922,7 +2922,7 @@
 	<game name="Garfield Kart (Europe) (En,Fr,De,Es,It)" id="1290">
 		<description>Garfield Kart (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000168900</game_id>
-		<rom name="Garfield Kart (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="34e729a4" md5="3f94f93fab88b4a983bd11c9e3a1cc6d" sha1="629ad650669a01beac610f2d87eff598d38ed2f8" serial="CTR-P-AGPP"/>
+		<rom name="Garfield Kart (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="34e729a4" md5="3f94f93fab88b4a983bd11c9e3a1cc6d" sha1="629ad650669a01beac610f2d87eff598d38ed2f8" sha256="ce08493e368b9eb6a82531397b89d0b02e42818f3a59c68dfe84d903175a77e2" status="verified" serial="CTR-P-AGPP"/>
 	</game>
 	<game name="Garfield Kart (USA)" id="1322" cloneofid="1290">
 		<description>Garfield Kart (USA)</description>
@@ -3183,7 +3183,7 @@
 	<game name="Harvest Moon - Skytree Village (Europe) (En,Fr,De,Es)" id="1707">
 		<description>Harvest Moon - Skytree Village (Europe) (En,Fr,De,Es)</description>
 		<game_id>00040000001A6900</game_id>
-		<rom name="Harvest Moon - Skytree Village (Europe) (En,Fr,De,Es).3ds" size="268435456" crc="104ebc4a" md5="b4afd3058ff4fecf995fcba83453bc21" sha1="0a65a8f719f4562c83b9b9137929e4909b9b8590" serial="CTR-P-AVAP"/>
+		<rom name="Harvest Moon - Skytree Village (Europe) (En,Fr,De,Es).3ds" size="268435456" crc="104ebc4a" md5="b4afd3058ff4fecf995fcba83453bc21" sha1="0a65a8f719f4562c83b9b9137929e4909b9b8590" sha256="e6c3b6ca7495e295b7c1cc190c6b2ba0c008bd88da8648b0225dd2d7bee79d83" status="verified" serial="CTR-P-AVAP"/>
 	</game>
 	<game name="Harvest Moon - The Lost Valley (Europe) (En,Fr,De,Es)" id="1286">
 		<description>Harvest Moon - The Lost Valley (Europe) (En,Fr,De,Es)</description>
@@ -3775,7 +3775,7 @@
 	<game name="Jet Dog (Europe) (En,Fr,De,Es,It,Nl)" id="1220">
 		<description>Jet Dog (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000161D00</game_id>
-		<rom name="Jet Dog (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="8b7ef020" md5="6f4e7d6fb3b5e2a8e2795ac85090e3c4" sha1="fc025bed42588ac23e1c75deb64c7bd2765c67bf" serial="CTR-P-AJTP"/>
+		<rom name="Jet Dog (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="8b7ef020" md5="6f4e7d6fb3b5e2a8e2795ac85090e3c4" sha1="fc025bed42588ac23e1c75deb64c7bd2765c67bf" sha256="532b388aaea836fa6e34015fd3946023ab34707fdb8b4fe6e94d303b8a594bd5" status="verified" serial="CTR-P-AJTP"/>
 	</game>
 	<game name="Jewel Link - Legends of Atlantis 3D (Europe) (En,Fr,Es,It)" id="0832">
 		<description>Jewel Link - Legends of Atlantis 3D (Europe) (En,Fr,Es,It)</description>
@@ -3795,7 +3795,7 @@
 	<game name="Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0311" cloneofid="0832">
 		<description>Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000000A3700</game_id>
-		<rom name="Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="1370a165" md5="386d3fd2d89984e0733f56e3935aa606" sha1="40af2ffe65fded5b1908f519ec08fd50bf14a289" status="verified" serial="CTR-P-AJ5X"/>
+		<rom name="Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="1370a165" md5="386d3fd2d89984e0733f56e3935aa606" sha1="40af2ffe65fded5b1908f519ec08fd50bf14a289" sha256="c406402840163f047686e300807d9074346b1aa77de3678a84b689705f3fb0b5" status="verified" serial="CTR-P-AJ5X"/>
 	</game>
 	<game name="Jewel Master - Cradle of Egypt 2 3D (France) (En,Fr,Es,It)" id="0411" cloneofid="0740">
 		<description>Jewel Master - Cradle of Egypt 2 3D (France) (En,Fr,Es,It)</description>
@@ -4611,12 +4611,12 @@
 	<game name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da)" id="0190">
 		<description>LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>0004000000049200</game_id>
-		<rom name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="c5e0982d" md5="127588cb92ee655b33a4df37cc518131" sha1="32308c0ff48a8ff71d9469bde5ab0c78317dc075" status="verified" serial="CTR-P-AHPP"/>
+		<rom name="LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="c5e0982d" md5="127588cb92ee655b33a4df37cc518131" sha1="32308c0ff48a8ff71d9469bde5ab0c78317dc075" sha256="f0bb574af3eea9178ea3c60ec2128323cfefbc254326729e89678790a49d7c4e" status="verified" serial="CTR-P-AHPP"/>
 	</game>
 	<game name="LEGO Jurassic World (Germany) (En,Fr,De,Es,It,Nl,Da)" id="1279" cloneofid="1282">
 		<description>LEGO Jurassic World (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>0004000000159A00</game_id>
-		<rom name="LEGO Jurassic World (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="2264aea7" md5="0349d4f57f0444c60c9bc2dfcaee3407" sha1="8f874a45e9ce9ea1c737c6cc577cae09e7010e15" serial="CTR-P-BLJZ"/>
+		<rom name="LEGO Jurassic World (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="2264aea7" md5="0349d4f57f0444c60c9bc2dfcaee3407" sha1="8f874a45e9ce9ea1c737c6cc577cae09e7010e15" sha256="31be9cbc61d36a5ccad21576ba99db9499820df16a4b2ce54727262ce54b5ff6" status="verified" serial="CTR-P-BLJZ"/>
 	</game>
 	<game name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)" id="1282">
 		<description>LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -5245,7 +5245,7 @@
 	<game name="Mario &amp; Luigi - Superstar Saga + Bowser's Minions (Europe) (En,Fr,De,Es,It,Nl)" id="1756">
 		<description>Mario &amp; Luigi - Superstar Saga + Bowser's Minions (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000001B9000</game_id>
-		<rom name="Mario &amp; Luigi - Superstar Saga + Bowser's Minions (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="dff96f86" md5="1a1273676f987da5fec9b3ad02193ae5" sha1="df81d4cd0389e4cd4639ac12afaedef6cba9b17e" status="verified" serial="CTR-P-BRMP"/>
+		<rom name="Mario &amp; Luigi - Superstar Saga + Bowser's Minions (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="dff96f86" md5="1a1273676f987da5fec9b3ad02193ae5" sha1="df81d4cd0389e4cd4639ac12afaedef6cba9b17e" sha256="27b4aaa819654834e5c627f7ea2ec8a1df718d6dec2ca3bd9cdc41a2d1e17991" status="verified" serial="CTR-P-BRMP"/>
 	</game>
 	<game name="Mario &amp; Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es)" id="1760" cloneofid="1756">
 		<description>Mario &amp; Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es)</description>
@@ -5923,7 +5923,7 @@
 	<game name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It)" id="1545">
 		<description>Monster Hunter Generations (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000185B00</game_id>
-		<rom name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="c79ca812" md5="71c797343e37679d6033903e2db67daf" sha1="54b84bd886604033f350268a3ca8da66c2572474" status="verified" serial="CTR-P-BXXP"/>
+		<rom name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="c79ca812" md5="71c797343e37679d6033903e2db67daf" sha1="54b84bd886604033f350268a3ca8da66c2572474" sha256="0f9861683131ba431a56e215046dcedd1054da75e79bd76c7e1c85842801a8a9" status="verified" serial="CTR-P-BXXP"/>
 	</game>
 	<game name="Monster Hunter Generations (USA)" id="1551" cloneofid="1545">
 		<description>Monster Hunter Generations (USA)</description>
@@ -6326,7 +6326,7 @@
 	<game name="Nickelodeon Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="0561">
 		<description>Nickelodeon Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<game_id>00040000000F7900</game_id>
-		<rom name="Nickelodeon Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds" size="536870912" crc="1bc99b7f" md5="4c3a442575d4923273c30a761fef2eca" sha1="d5929c136ae341d49362ac75149117fea5efba18" serial="CTR-P-ANYP"/>
+		<rom name="Nickelodeon Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds" size="536870912" crc="1bc99b7f" md5="4c3a442575d4923273c30a761fef2eca" sha1="d5929c136ae341d49362ac75149117fea5efba18" sha256="a86fa0e0fd4206cb43a2c0e5851a7d4328f8d15d12faa7f92db6403b880a112a" status="verified" serial="CTR-P-ANYP"/>
 	</game>
 	<game name="Nicktoons MLB 3D (USA)" id="0123">
 		<description>Nicktoons MLB 3D (USA)</description>
@@ -7899,7 +7899,7 @@
 	<game name="Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="0231">
 		<description>Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
 		<game_id>0004000000055900</game_id>
-		<rom name="Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds" size="536870912" crc="5a31bec1" md5="aebd176b7dda3589b91962209d69ecee" sha1="0afd4df5fcae41fba9e7c174a27f1c0972e30f19" serial="CTR-P-AR5P"/>
+		<rom name="Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).3ds" size="536870912" crc="5a31bec1" md5="aebd176b7dda3589b91962209d69ecee" sha1="0afd4df5fcae41fba9e7c174a27f1c0972e30f19" sha256="e89c8a249b0521943a23b635a440ab08c6364afc76d8e9f9a1b0f977c4283953" status="verified" serial="CTR-P-AR5P"/>
 	</game>
 	<game name="Rabbids Rumble (USA) (En,Fr,Es,Pt)" id="0299" cloneofid="0231">
 		<description>Rabbids Rumble (USA) (En,Fr,Es,Pt)</description>
@@ -8445,7 +8445,7 @@
 	<game name="Shanghai Mahjong (Europe) (En,Fr,De,Es,It,Nl)" id="0895">
 		<description>Shanghai Mahjong (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000109300</game_id>
-		<rom name="Shanghai Mahjong (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="29c3fef6" md5="6179e4a8327b9b05cf3bf0f6eb4bba18" sha1="ba52feb9260e822e464bec03c76bf0c5d91fb36c" serial="CTR-P-BSMP"/>
+		<rom name="Shanghai Mahjong (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="29c3fef6" md5="6179e4a8327b9b05cf3bf0f6eb4bba18" sha1="ba52feb9260e822e464bec03c76bf0c5d91fb36c" sha256="3475a959aebeb130fa22bfea7d6c84e2e1fb12680721067f81507888a13d9d8d" status="verified" serial="CTR-P-BSMP"/>
 	</game>
 	<game name="Shantae - Kaizoku no Noroi (Japan)" id="1424" cloneofid="1584">
 		<description>Shantae - Kaizoku no Noroi (Japan)</description>
@@ -8986,7 +8986,7 @@
 	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl)" id="0047">
 		<description>SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000004EA00</game_id>
-		<rom name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="aa920916" md5="f32fc1c9f5bbdd7695d8b52e8ded7827" sha1="bdabce68026078a17803c822b657ce17e664b13b" serial="CTR-P-ASGP"/>
+		<rom name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="aa920916" md5="f32fc1c9f5bbdd7695d8b52e8ded7827" sha1="bdabce68026078a17803c822b657ce17e664b13b" sha256="c6bedc287f1a1a62ed4bbd9f2ef7fba4413f3df4f7a1514f5a1fd54080434331" status="verified" serial="CTR-P-ASGP"/>
 	</game>
 	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="1664" cloneofid="0047">
 		<description>SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
@@ -9136,7 +9136,7 @@
 	<game name="Sternenschweif 3D - Das Geheimnis im Zauberwald (Germany)" id="0648">
 		<description>Sternenschweif 3D - Das Geheimnis im Zauberwald (Germany)</description>
 		<game_id>000400000011C300</game_id>
-		<rom name="Sternenschweif 3D - Das Geheimnis im Zauberwald (Germany).3ds" size="134217728" crc="4cb67577" md5="f406403566550396b1ff1d2a2cff127f" sha1="782a6eb8c01f53c6c74d47d644ba4958d868fa2e" serial="CTR-P-BSCD"/>
+		<rom name="Sternenschweif 3D - Das Geheimnis im Zauberwald (Germany).3ds" size="134217728" crc="4cb67577" md5="f406403566550396b1ff1d2a2cff127f" sha1="782a6eb8c01f53c6c74d47d644ba4958d868fa2e" sha256="18888f358e09a9c68a7d5290f44e6306e8436dc353ad917e7b1aff906fc0dbb6" status="verified" serial="CTR-P-BSCD"/>
 	</game>
 	<game name="Story of Seasons (USA)" id="1216" cloneofid="1420">
 		<description>Story of Seasons (USA)</description>

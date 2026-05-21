@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260519-192025</version>
+		<version>20260520-190317</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21009,6 +21009,11 @@
 		<description>Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Picture Puzzle Collection (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="882008eb" md5="26aeb89561870931de1e3bff32f78ae9" sha1="4bdbbf7294e26a0b792a92b1503f67cd697c8f7c" serial="BUWP"/>
 	</game>
+	<game name="Pig Tails (USA) (Auto Demo)" id="z680">
+		<category>Demos</category>
+		<description>Pig Tails (USA) (Auto Demo)</description>
+		<rom name="Pig Tails (USA) (Auto Demo).nds" size="1004608" crc="e4a435ad" md5="d58b5628c2b04b9f507e2255cfd47b04" sha1="c144d4d0843fa3af2857da931c6861e7c98809f9" sha256="716f10fb42c8f3aac9ae5274a19ec0c81e72600e1645b660e8a91ea7ab7bd09d" serial="NTRJ"/>
+	</game>
 	<game name="Pillow Pets (USA)" id="6474">
 		<description>Pillow Pets (USA)</description>
 		<rom name="Pillow Pets (USA).nds" size="16777216" crc="cc617f30" md5="d07aa7d4725d4a5cf4e1d5209479f230" sha1="e9968c0efd95848b5846473ad063cce10f6ea033" serial="B5HE"/>
@@ -22031,13 +22036,13 @@
 		<description>Poupeegirl DS 2 - Sweet Pink Style (Japan) (Rev 1)</description>
 		<rom name="Poupeegirl DS 2 - Sweet Pink Style (Japan) (Rev 1).nds" size="268435456" crc="07bd4685" md5="e2ff37d3e3c77343c340b8a580ef9372" sha1="590295364262d41b8a33a8c51b55ffbf75744fcc" sha256="69a21af8891844b978da761254491a634c51835f1620f8d8362328e5a985888f" serial="B8JJ"/>
 	</game>
-	<game name="Power Play Pool (USA)" id="1692" cloneofid="3969">
-		<description>Power Play Pool (USA)</description>
-		<rom name="Power Play Pool (USA).nds" size="8388608" crc="c8723394" md5="34a8ecbe3faeb8fc47561922c85f547f" sha1="ffa96639eb37284f7ab881aad18f9939a3d05d4b" serial="AOWE"/>
-	</game>
 	<game name="Power Play Pool (Europe) (En,Fr,De,Es,It)" id="3969">
 		<description>Power Play Pool (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Power Play Pool (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="80a7588b" md5="b9d295ff94a45814c95e523830ed3d47" sha1="9ec50da1b379cfa2a992ef779eac09d912725364" serial="AOWP"/>
+	</game>
+	<game name="Power Play Pool (USA)" id="1692" cloneofid="3969">
+		<description>Power Play Pool (USA)</description>
+		<rom name="Power Play Pool (USA).nds" size="8388608" crc="c8723394" md5="34a8ecbe3faeb8fc47561922c85f547f" sha1="ffa96639eb37284f7ab881aad18f9939a3d05d4b" serial="AOWE"/>
 	</game>
 	<game name="Power Pocket Koushien (Japan)" id="0132">
 		<description>Power Pocket Koushien (Japan)</description>
@@ -22076,14 +22081,6 @@
 		<description>Power Pro Kun Pocket 9 (Japan)</description>
 		<rom name="Power Pro Kun Pocket 9 (Japan).nds" size="67108864" crc="6dac1a99" md5="357a17f9afc9cc5cf7f7b4b72e4a7d96" sha1="ebe504df1e377180d65c074c61502f23519197ed" sha256="5291727536d8f11b6269c74813365e2e43e857c6678c6fe12c67724f84c5f2a9" serial="APIJ"/>
 	</game>
-	<game name="Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)" id="z319" cloneofid="5936">
-		<description>Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)</description>
-		<rom name="Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2).nds" size="33554432" crc="c317a86b" md5="77017f69d94cf27bf089405862ca752c" sha1="c9fc301422429f48cb1a82e9399e935eacb6b43c" sha256="9d6d7a3e31eb14ec2c83fa870209619b2aa4b7383edecb4459b4eee8f3a49303" serial="B3NE"/>
-	</game>
-	<game name="Power Rangers - Samurai (USA) (Beta 1)" id="z322" cloneofid="5936">
-		<description>Power Rangers - Samurai (USA) (Beta 1)</description>
-		<rom name="Power Rangers - Samurai (USA) (Beta 1).nds" size="33554432" crc="c1b34ef6" md5="db10e98c1ab2d80c5965a58567fe3644" sha1="32633226ecd31ee285bb7e15bc456209426064d9" sha256="1a3b48552cebdf9e4e9a219c5dcc6cf3ace429615e3f466e6602bca6a8fbd0c7" serial="B3NE"/>
-	</game>
 	<game name="Power Rangers - Samurai (USA) (En,Fr,Es)" id="5903" cloneofid="5936">
 		<description>Power Rangers - Samurai (USA) (En,Fr,Es)</description>
 		<rom name="Power Rangers - Samurai (USA) (En,Fr,Es).nds" size="33554432" crc="ce4d7571" md5="7747bd8dc22ebeefc0bcb02e1c4671ba" sha1="2486e9afb178aa3daa451ccfffd3d7879835953a" serial="B3NE"/>
@@ -22091,6 +22088,14 @@
 	<game name="Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)" id="5936">
 		<description>Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Power Rangers - Samurai (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="8ad59103" md5="ef47b72fa65086bc5f03b4d768da75a7" sha1="91a4abee6825295455a93f877dc2016a02d95bca" sha256="fbcb13646ba8fc3787ce4bfadd5eda0a528e0aad2c9b1b2567dd1687b0e0d281" status="verified" serial="B3NP"/>
+	</game>
+	<game name="Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)" id="z319" cloneofid="5936">
+		<description>Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2)</description>
+		<rom name="Power Rangers - Samurai (USA) (En,Fr,Es) (Beta 2).nds" size="33554432" crc="c317a86b" md5="77017f69d94cf27bf089405862ca752c" sha1="c9fc301422429f48cb1a82e9399e935eacb6b43c" sha256="9d6d7a3e31eb14ec2c83fa870209619b2aa4b7383edecb4459b4eee8f3a49303" serial="B3NE"/>
+	</game>
+	<game name="Power Rangers - Samurai (USA) (Beta 1)" id="z322" cloneofid="5936">
+		<description>Power Rangers - Samurai (USA) (Beta 1)</description>
+		<rom name="Power Rangers - Samurai (USA) (Beta 1).nds" size="33554432" crc="c1b34ef6" md5="db10e98c1ab2d80c5965a58567fe3644" sha1="32633226ecd31ee285bb7e15bc456209426064d9" sha256="1a3b48552cebdf9e4e9a219c5dcc6cf3ace429615e3f466e6602bca6a8fbd0c7" serial="B3NE"/>
 	</game>
 	<game name="Power Rangers - Super Legends (USA) (En,Fr,De,Es,It)" id="1538" cloneofid="1598">
 		<description>Power Rangers - Super Legends (USA) (En,Fr,De,Es,It)</description>

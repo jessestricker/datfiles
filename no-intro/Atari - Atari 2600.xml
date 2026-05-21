@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260519-111514</version>
+		<version>20260520-121837</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2130,7 +2130,7 @@
 	</game>
 	<game name="Pac-Man (Europe)" id="0919" cloneofid="0311">
 		<description>Pac-Man (Europe)</description>
-		<rom name="Pac-Man (Europe).a26" size="4096" crc="4947ef99" md5="fc2233fc116faef0d3c31541717ca2db" sha1="3e7ba1347755bdb313e06a54aaeca9e611eaa2b8" sha256="e80f4cab17f835b2227a4ce19d3560b10007d2527f6c75e2e31e486a89a1fa07"/>
+		<rom name="Pac-Man (Europe).a26" size="4096" crc="4947ef99" md5="fc2233fc116faef0d3c31541717ca2db" sha1="3e7ba1347755bdb313e06a54aaeca9e611eaa2b8" sha256="e80f4cab17f835b2227a4ce19d3560b10007d2527f6c75e2e31e486a89a1fa07" status="verified"/>
 	</game>
 	<game name="Panda Chase (Europe)" id="0312">
 		<description>Panda Chase (Europe)</description>

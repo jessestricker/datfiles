@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (259) (2026-05-05 10-11-01)</description>
-		<version>2026-05-05 10-11-01</version>
-		<date>2026-05-05 10-11-01</date>
+		<description>Photo CD - Discs (260) (2026-05-21 12-30-29)</description>
+		<version>2026-05-21 12-30-29</version>
+		<date>2026-05-21 12-30-29</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3210,5 +3210,29 @@
 		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 3).bin" size="35959728" crc="10f9749d" md5="c910e94383faf6194dd0345e48a1cec3" sha1="ee66778b904840d0055cf8fd70e180b7c75dca6e"/>
 		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 4).bin" size="184768416" crc="91f7d8c6" md5="4c692506e6601048048fa3126fbebaa8" sha1="a424edcdd84ae0a4f52c5c37a477b8947140ffc3"/>
 		<rom name="Reserva Natural do Estuario do Tejo (Portugal) (Track 5).bin" size="159435024" crc="2d64f462" md5="39b2cb1b214da45af7330f779dc38f2f" sha1="7c3619b3e09d76f4390c2963dc8ba977ee4d5bcf"/>
+	</game>
+	<game name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan)">
+		<category>Multimedia</category>
+		<description>Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan)</description>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan).cue" size="2913" crc="f768cf07" md5="3d34246e133b54b7cb9b084443aaa866" sha1="43ffe46cadf6403fd7789ba55e5d300d73a86f2b"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 01).bin" size="710304" crc="a249be4b" md5="ef03c682f56ff6a300e5062b96d09c9b" sha1="73acf29ff437afdebe89ef20b1619d8ecbf3dfdf"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 02).bin" size="125871984" crc="bb0c2759" md5="34ad053590cd2df5a185077c861b321a" sha1="462b442f9397a3ffbc96350d1c0af72d845094d6"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 03).bin" size="1373568" crc="aef88def" md5="63702fadf0fcd73ea099d8c0be2f6880" sha1="c5e67727d25f93e795ed18510db9d2d250ef901e"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 04).bin" size="10889760" crc="0cfb0e3f" md5="fee85a6ff01721a9af4adac709dd480c" sha1="03cbe3e43871865f5840009e7f56f8255e161e59"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 05).bin" size="3906672" crc="5f754092" md5="027aa07870fde59a4d3cfd3851102bcf" sha1="e472e5780b12d93c600ee18c45394cac0a765ed5"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 06).bin" size="11136720" crc="fb745363" md5="e217f5f9cdb366c17ae5bc81a272d0b6" sha1="2b2d76dfbc70f8f905d6fe2cc9fa0757aed496b0"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 07).bin" size="30585408" crc="f1bb7add" md5="cd96314bf948bd64b73164544b5c98b8" sha1="91d6a2ff76eb41650a4733d6a7eab8e189f2cb0c"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 08).bin" size="7190064" crc="078a96ae" md5="6ec84cd3fdf9e8ebde35d2f57aade872" sha1="f2fc46cfca8e4287e9147b2a383e0e78bdeaecbb"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 09).bin" size="4732224" crc="21b96cfd" md5="ab3bc9e054e2f33528560238a9cdba1f" sha1="e6706fdd250b9f70559665edaade113c398a45a5"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 10).bin" size="2584848" crc="09c9165c" md5="e50b5e9fa956dae00a95e4c0baa4788b" sha1="33293f2d96209ec205373135c081871c8a1a8d2a"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 11).bin" size="8382528" crc="86f4e562" md5="298ac8f46973e5c28a45916b2e048dcc" sha1="6d89c8954f7574c9accc8b30a8f9bd296f842f35"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 12).bin" size="14234304" crc="1d1ff57b" md5="bc44c05d51123715caa313060a180e4b" sha1="1e98b90376a904d0b10d48a24db2ba762789e907"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 13).bin" size="7293552" crc="6874f76c" md5="68ba06958c379693973791ef82975231" sha1="9d2760b8b6585a8ecbf77846202b222e0cdf64fc"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 14).bin" size="5887056" crc="63e28857" md5="40f1ab3d7c16a964654f3d11858a72b6" sha1="a5ba26e7fc5acec3d67fe9c0adc55b7621d158c7"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 15).bin" size="2723616" crc="05f99047" md5="9241c541d032bd378cfef6029e3dce20" sha1="6ab4c91ac62a7641925d63282e2d3286d58372c7"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 16).bin" size="12380928" crc="b2162d20" md5="e90cd8094bfb9593abe93f1ac93e51c0" sha1="dcceb76a163e25735f045d00c9ddfc527ab468db"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 17).bin" size="30710064" crc="057eaf30" md5="cee94cb2763bbfb3c33dfe231517f4d9" sha1="5e186b704f853f8d5af9dff1709a5ba51685abd2"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 18).bin" size="41545728" crc="0e17f1a4" md5="90c000aa8e223bd83550ff3ca2037ced" sha1="43afbe456fe06f4da70220a4a4cc9ed54653f6c4"/>
+		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 19).bin" size="5745936" crc="1837a5a9" md5="3fba362bc74eab00eeabf03c23def57b" sha1="30e10b022973352e74e1734ba287d516f5b858d4"/>
 	</game>
 </datafile>
