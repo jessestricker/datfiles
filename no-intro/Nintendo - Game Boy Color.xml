@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260520-152048</version>
+		<version>20260521-211035</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2148,14 +2148,6 @@
 		<description>Freestyle Scooter (Europe)</description>
 		<rom name="Freestyle Scooter (Europe).gbc" size="1048576" crc="ee79117d" md5="0155bb1d60a477eeeb148033210eecf3" sha1="cf6ae174584bbfb5ae30478841114443adc00245" serial="BRZP"/>
 	</game>
-	<game name="Frogger (USA) (Rev 2) (GB Compatible)" id="1367" cloneofid="0363">
-		<description>Frogger (USA) (Rev 2) (GB Compatible)</description>
-		<rom name="Frogger (USA) (Rev 2) (GB Compatible).gbc" size="1048576" crc="d9a22e5d" md5="7f1830171eec29ac72ae976d4dfdfc65" sha1="cf4801c7f82519344a50a25e35b1f5c7ee45c9a6" sha256="167ab5831b01e964d105a59b176bcaf95987914f9ae4d97db27be25ba99fcc56" status="verified" serial="AFRE"/>
-	</game>
-	<game name="Frogger (USA) (Rev 1) (GB Compatible)" id="1368" cloneofid="0363">
-		<description>Frogger (USA) (Rev 1) (GB Compatible)</description>
-		<rom name="Frogger (USA) (Rev 1) (GB Compatible).gbc" size="1048576" crc="ba907064" md5="547c0d3fdb1c6ef7abc7dff06c457a35" sha1="db3d21977c17a505936d1e2fc3626a0b43addf16"/>
-	</game>
 	<game name="Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)" id="0363">
 		<description>Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</description>
 		<rom name="Frogger (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="524288" crc="b6bf0672" md5="d5ebdbeda4156b34e3c0f01d55a4221c" sha1="538d2fa68e2e877a80bbdf4d58b2b4dcf051c17c"/>
@@ -2164,13 +2156,25 @@
 		<description>Frogger (USA) (GB Compatible)</description>
 		<rom name="Frogger (USA) (GB Compatible).gbc" size="1048576" crc="af46ea77" md5="d94e22b4c08ab3c7b1929f5490adcbf2" sha1="5b7c097a12a8408fd20b81289e03ad9ea2fd2691"/>
 	</game>
-	<game name="Frogger 2 (USA)" id="0365" cloneofid="1439">
-		<description>Frogger 2 (USA)</description>
-		<rom name="Frogger 2 (USA).gbc" size="1048576" crc="6a2666aa" md5="06b0d6b88e54337f3f5c7bbea373f237" sha1="566e0afb3a6f25342399a3e39f3fbcacef68eb72"/>
+	<game name="Frogger (USA) (Rev 2) (GB Compatible)" id="1367" cloneofid="0363">
+		<description>Frogger (USA) (Rev 2) (GB Compatible)</description>
+		<rom name="Frogger (USA) (Rev 2) (GB Compatible).gbc" size="1048576" crc="d9a22e5d" md5="7f1830171eec29ac72ae976d4dfdfc65" sha1="cf4801c7f82519344a50a25e35b1f5c7ee45c9a6" sha256="167ab5831b01e964d105a59b176bcaf95987914f9ae4d97db27be25ba99fcc56" status="verified" serial="AFRE"/>
+	</game>
+	<game name="Frogger (USA) (Rev 1) (GB Compatible)" id="1368" cloneofid="0363">
+		<description>Frogger (USA) (Rev 1) (GB Compatible)</description>
+		<rom name="Frogger (USA) (Rev 1) (GB Compatible).gbc" size="1048576" crc="ba907064" md5="547c0d3fdb1c6ef7abc7dff06c457a35" sha1="db3d21977c17a505936d1e2fc3626a0b43addf16"/>
 	</game>
 	<game name="Frogger 2 (USA) (Rev 1)" id="1439">
 		<description>Frogger 2 (USA) (Rev 1)</description>
 		<rom name="Frogger 2 (USA) (Rev 1).gbc" size="1048576" crc="e3227b7d" md5="6db4b6a1cceebc9ab2629c83a5c838ae" sha1="0d5028ca6fcc10df46d11cd4b56e5add1dc5e63e"/>
+	</game>
+	<game name="Frogger 2 (USA)" id="0365" cloneofid="1439">
+		<description>Frogger 2 (USA)</description>
+		<rom name="Frogger 2 (USA).gbc" size="1048576" crc="6a2666aa" md5="06b0d6b88e54337f3f5c7bbea373f237" sha1="566e0afb3a6f25342399a3e39f3fbcacef68eb72"/>
+	</game>
+	<game name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)" id="0366">
+		<description>From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="a7317bb8" md5="b883323e9ae3c85548169babe3f9b4f0" sha1="7fa5fbb94390876dee807216c2097cdb42510efe" sha256="de6b8d2982bbb53ecbc5db2e7277ac928dbdff01de568400cf2a64dcc5686915" status="verified"/>
 	</game>
 	<game name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible)" id="1604" cloneofid="0366">
 		<description>From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible)</description>
@@ -2180,17 +2184,13 @@
 		<description>From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="419befcc" md5="3143162338a87a52b49d8791909c2b3d" sha1="e11809babdca45527b81d7db02741263407aeb46" sha256="331c2c7f7c2651dc35277e685cfbab6039686b09f4e70554d7c45ea4dca9925f"/>
 	</game>
-	<game name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)" id="0366">
-		<description>From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="a7317bb8" md5="b883323e9ae3c85548169babe3f9b4f0" sha1="7fa5fbb94390876dee807216c2097cdb42510efe" sha256="de6b8d2982bbb53ecbc5db2e7277ac928dbdff01de568400cf2a64dcc5686915" status="verified"/>
+	<game name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1381">
+		<description>From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="a4dde805" md5="5f43dc79250321f235a1ddc422a2d58d" sha1="53da28b16a4bf0efab1f65c21f7931ce4948865b" status="verified"/>
 	</game>
 	<game name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)" id="0367" cloneofid="1381">
 		<description>From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="c693aa37" md5="da5586315ca857071d557a8fde26c108" sha1="459f1ae41f6c5c6464745a23ea42bbba5385a83b" status="verified"/>
-	</game>
-	<game name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1381">
-		<description>From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="a4dde805" md5="5f43dc79250321f235a1ddc422a2d58d" sha1="53da28b16a4bf0efab1f65c21f7931ce4948865b" status="verified"/>
 	</game>
 	<game name="Front Line - The Next Mission (Japan)" id="0368" cloneofid="1071">
 		<description>Front Line - The Next Mission (Japan)</description>

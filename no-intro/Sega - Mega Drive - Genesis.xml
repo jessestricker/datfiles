@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260517-074514</version>
+		<version>20260521-202143</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3312,6 +3312,11 @@
 		<category>Preproduction</category>
 		<description>Dominus (USA) (Proto)</description>
 		<rom name="Dominus (USA) (Proto).md" size="1048576" crc="a36166da" md5="0cb74de6e8f79014a23f121894a974ef" sha1="1f63b79169e5d0cea8faaad7ad63e88c2b6f8250" sha256="a8b4508c10bb15ba4925c55938c1596c92fef90cb0aecc4248ad2e9590ae7c40" serial="00000000-01"/>
+	</game>
+	<game name="Donald in Maui Mallard (USA) (Sega Channel)" id="3824" cloneofid="0376">
+		<category>Games</category>
+		<description>Donald in Maui Mallard (USA) (Sega Channel)</description>
+		<rom name="Donald in Maui Mallard (USA) (Sega Channel).md" size="3145728" crc="5f9b9a48" md5="7a17da2e87bbe67eb9b8359ce99fd14e" sha1="bb3c799bb9834c0c76616b39e6893e01c1887d85" sha256="62bc0d5445dcc738fb323a1ab6936d36fa83316dc2a65e05b696bf2c353209d8" serial="T-239016-00"/>
 	</game>
 	<game name="Donald in Maui Mallard (Brazil) (En)" id="1679" cloneofid="0376">
 		<category>Games</category>

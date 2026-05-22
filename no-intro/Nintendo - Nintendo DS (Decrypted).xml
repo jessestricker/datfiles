@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260520-190317</version>
+		<version>20260521-102738</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6208,6 +6208,12 @@
 	<game name="Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay (USA)" id="6580">
 		<description>Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay (USA)</description>
 		<rom name="Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay (USA).nds" size="67108864" crc="a814bae0" md5="d968f2f2edd92757cf78ddc1b3f2a406" sha1="bd5794ef3a46833d97dc5aa818da40bf1ca22492" serial="TF2E"/>
+	</game>
+	<game name="Disney Up (USA) (Proto)" id="z681">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Disney Up (USA) (Proto)</description>
+		<rom name="Disney Up (USA) (Proto).nds" size="67108864" crc="929cbcd3" md5="24745346ee976c871f04d36d9d3281de" sha1="58d87440d8498f6799f7467f97a6d038d3e6f697" sha256="48d1fff87911a05377b4e3a785fea50b400bec5198881ab0db314da2e2e6f3c5" serial="VSNE"/>
 	</game>
 	<game name="Disney Violetta - Rhythm &amp; Music (Europe) (En,Fr,De,Es,It,Pt)" id="6452">
 		<description>Disney Violetta - Rhythm &amp; Music (Europe) (En,Fr,De,Es,It,Pt)</description>

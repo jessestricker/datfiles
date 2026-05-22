@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260517-111130</version>
+		<version>20260521-094230</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -323,42 +323,42 @@
 		<description>BS KureKure Mou Race - 4 Tsuki-Gou (4-10) + Alf to Hakase no Daibouken (6-17) (Japan) (Data Pack)</description>
 		<rom name="BS KureKure Mou Race - 4 Tsuki-Gou (4-10) + Alf to Hakase no Daibouken (6-17) (Japan) (Data Pack).bs" size="1048576" crc="3ff4dbe6" md5="1f46cacfde0ac48e86753166c39b4b48" sha1="84449384a01d6531ddd5e5b6fe207ae34974f3fc" sha256="0bacb06404a315afca0e3559db3bd136869e6085d70c42c10ca6ef3272162f6a"/>
 	</game>
-	<game name="BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b]" id="0318">
-		<description>BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="6b90c767" md5="d595866c4ee6221fbb27d0e02e629999" sha1="8d15078191f7b7b49b7dda602207456a7caf3b12" sha256="536fffbf52b614f5308f71bfc3de3928da529b18f4482c5f4dd9a7bbfe91f8c9" status="baddump"/>
+	<game name="BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink)" id="0318">
+		<description>BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink).bs" size="1048576" crc="6b90c767" md5="d595866c4ee6221fbb27d0e02e629999" sha1="8d15078191f7b7b49b7dda602207456a7caf3b12" sha256="536fffbf52b614f5308f71bfc3de3928da529b18f4482c5f4dd9a7bbfe91f8c9"/>
 	</game>
-	<game name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b]" id="0319">
-		<description>BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="f5357704" md5="274a29414e5a7f24d90910a10645c61a" sha1="fc3d84ad42ebda1f81ea5620f313675076b2f80b" sha256="c327b0365d5ddf2a8ec4e57fa70f7e220ca765ec12c10bb394825069f024f375" status="baddump"/>
+	<game name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink)" id="0319">
+		<description>BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink).bs" size="1048576" crc="f5357704" md5="274a29414e5a7f24d90910a10645c61a" sha1="fc3d84ad42ebda1f81ea5620f313675076b2f80b" sha256="c327b0365d5ddf2a8ec4e57fa70f7e220ca765ec12c10bb394825069f024f375"/>
 	</game>
 	<game name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (Premiere) (SoundLink) [b]" id="3953">
 		<category>Games</category>
 		<description>BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (Premiere) (SoundLink) [b]</description>
 		<rom name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (Premiere) (SoundLink) [b].bs" size="1048576" crc="cfb7ebd0" md5="fa5439884674fd5d2ddce70cc67f825e" sha1="758c223807000c98326814b7e2ef13536d693e1d" sha256="e5fc69408656ac7e225b53c2bdd4834710fa4383332464abe53f2ca6e05c06c3" status="baddump"/>
 	</game>
-	<game name="BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b]" id="0320">
-		<description>BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="2b87dbaa" md5="6d2e8480e3a221d5eadcaa0171770b35" sha1="c89632aec2699e3adbb449b841ec7c582aac58b2" sha256="bab47e3edd1c6dbd7a632b954429019c7645923ae428e06204edfd92daf7b2e0" status="baddump"/>
+	<game name="BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink)" id="0320">
+		<description>BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink).bs" size="1048576" crc="2b87dbaa" md5="6d2e8480e3a221d5eadcaa0171770b35" sha1="c89632aec2699e3adbb449b841ec7c582aac58b2" sha256="bab47e3edd1c6dbd7a632b954429019c7645923ae428e06204edfd92daf7b2e0"/>
 	</game>
-	<game name="BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b]" id="0321">
-		<description>BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="6986937e" md5="ebcf1a4c0bef82f93236f76cbc462ffa" sha1="4a7336cd58e5da4256bb7ac64716bd9fac445be4" sha256="30d511fdb273d627943ab518edc7164175fc6f5e7e187db1192353108950379b" status="baddump"/>
+	<game name="BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink)" id="0321">
+		<description>BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink).bs" size="1048576" crc="6986937e" md5="ebcf1a4c0bef82f93236f76cbc462ffa" sha1="4a7336cd58e5da4256bb7ac64716bd9fac445be4" sha256="30d511fdb273d627943ab518edc7164175fc6f5e7e187db1192353108950379b"/>
 	</game>
 	<game name="BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink)" id="0322">
 		<description>BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink)</description>
 		<rom name="BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink).bs" size="1048576" crc="d255a537" md5="cfa1ff8150b0fb11bee722856156ae44" sha1="5197207d775f7c068f04121e6bffc285df86dc62" sha256="49f9e08604e59a8856f419be184fc387753edaa067cacd9d1263cefbf241d750"/>
 	</game>
-	<game name="BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b]" id="0323">
-		<description>BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="27d62709" md5="3ea370ec21a2a500c912f6f16d19069c" sha1="f9347676f342a3d692f1af799ea0b7f84711e80b" sha256="72980ba1572deb018bedca3a65dc3319d6758fdea640ec995d01ecf64907ed26" status="baddump"/>
+	<game name="BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink)" id="0323">
+		<description>BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink).bs" size="1048576" crc="27d62709" md5="3ea370ec21a2a500c912f6f16d19069c" sha1="f9347676f342a3d692f1af799ea0b7f84711e80b" sha256="72980ba1572deb018bedca3a65dc3319d6758fdea640ec995d01ecf64907ed26"/>
 	</game>
-	<game name="BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b]" id="0324">
-		<description>BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="5a88e3fb" md5="fe298ad84369e74488d8811ce9d0053b" sha1="6025b65a0aa2b0be7ee6e6b50b09a9295137d85a" sha256="912fccfc620f9dc88f18b5cf4cbc0141422142e422adc8337d6264e421a023e7" status="baddump"/>
+	<game name="BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink)" id="0324">
+		<description>BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink).bs" size="1048576" crc="5a88e3fb" md5="fe298ad84369e74488d8811ce9d0053b" sha1="6025b65a0aa2b0be7ee6e6b50b09a9295137d85a" sha256="912fccfc620f9dc88f18b5cf4cbc0141422142e422adc8337d6264e421a023e7"/>
 	</game>
-	<game name="BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b]" id="0325">
-		<description>BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b]</description>
-		<rom name="BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b].bs" size="1048576" crc="fba7789e" md5="220856f75373954fce352c6f5d94b597" sha1="374b3edc9e0b0d2438f4457481cbc8095a566cce" sha256="f8774dae06a0c1647a3e563c1a6357ca098280cd8de7baa608eafafb166f48cc" status="baddump"/>
+	<game name="BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink)" id="0325">
+		<description>BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink)</description>
+		<rom name="BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink).bs" size="1048576" crc="fba7789e" md5="220856f75373954fce352c6f5d94b597" sha1="374b3edc9e0b0d2438f4457481cbc8095a566cce" sha256="f8774dae06a0c1647a3e563c1a6357ca098280cd8de7baa608eafafb166f48cc"/>
 	</game>
 	<game name="BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-17)" id="0326">
 		<description>BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-17)</description>
@@ -1983,6 +1983,11 @@
 		<category>Games</category>
 		<description>Super Bowling (Japan) (En) (10-10)</description>
 		<rom name="Super Bowling (Japan) (En) (10-10).bs" size="1048576" crc="0966aac3" md5="52385971dff5026f9264f2bb081c62d5" sha1="872e931eb23b58bdeb889d8b1330f862441d721f" sha256="1c4c65452ae3c4207f09ebbac54cde2f95cbb6ff28c256fb66196c732ec3e969"/>
+	</game>
+	<game name="Super Bowling (Japan) (En) (6-30)" id="3987">
+		<category>Games</category>
+		<description>Super Bowling (Japan) (En) (6-30)</description>
+		<rom name="Super Bowling (Japan) (En) (6-30).bs" size="1048576" crc="8847de16" md5="4d82afa735ae9532865f4594d6f7399a" sha1="d9a4778a4f2aa310c9a2d2ff61fa9806d74aaed1" sha256="7b9245c9651c41843a33754eeadfe30f08983653bd03b185bfa10ec6dbf1441c"/>
 	</game>
 	<game name="Super E.D.F. (Japan)" id="2645">
 		<description>Super E.D.F. (Japan)</description>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260520-230912</version>
+		<version>20260521-000723</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -711,7 +711,7 @@
 	<game name="Big Hero 6 - Battle in the Bay (Europe)" id="1183">
 		<description>Big Hero 6 - Battle in the Bay (Europe)</description>
 		<game_id>0004000000139700</game_id>
-		<rom name="Big Hero 6 - Battle in the Bay (Europe).3ds" size="134217728" crc="160721b5" md5="fcf34c0def85a2855df51dc5957cd480" sha1="5f45e402029369a5623624885da8227a5418bb6e" serial="CTR-P-BH6P"/>
+		<rom name="Big Hero 6 - Battle in the Bay (Europe).3ds" size="134217728" crc="160721b5" md5="fcf34c0def85a2855df51dc5957cd480" sha1="5f45e402029369a5623624885da8227a5418bb6e" sha256="6dae6819d4bab7cbaf44f949424104cee52b34e49d110066581d896d5ff7b3ad" serial="CTR-P-BH6P"/>
 	</game>
 	<game name="Bikkuri! Tobidasu! Mahou no Pen (Japan)" id="0747">
 		<description>Bikkuri! Tobidasu! Mahou no Pen (Japan)</description>
@@ -2833,7 +2833,7 @@
 	<game name="Funky Barn 3D (Europe) (En,Fr,De,Es,It)" id="0301">
 		<description>Funky Barn 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000005A600</game_id>
-		<rom name="Funky Barn 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="baea718f" md5="15512dfb25eea9f880a7a30660df64d1" sha1="15a42228a362d160f9bf6f0c7f6efa4e58ee624a" serial="CTR-P-AFMP"/>
+		<rom name="Funky Barn 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="baea718f" md5="15512dfb25eea9f880a7a30660df64d1" sha1="15a42228a362d160f9bf6f0c7f6efa4e58ee624a" sha256="3cf9d39296c8397eb9aa87ac32d59f95328653506334dcfb38d5931b116fc1da" status="verified" serial="CTR-P-AFMP"/>
 	</game>
 	<game name="Future Card Buddyfight - Mezase! Buddy Champion! (Japan)" id="1691">
 		<description>Future Card Buddyfight - Mezase! Buddy Champion! (Japan)</description>
@@ -3867,6 +3867,11 @@
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000006CE00</game_id>
 		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="47e39635" md5="53c94d0f9a9906ebcd11d5cd0cd46a80" sha1="24d0524b46d6432510789b5087b616f905ced839" sha256="46d896ab547b5b4832b29e1f7c6c3ca7e375ce0b0e641e40a851ada9d6250a67" status="verified" serial="CTR-P-AJ4P"/>
+	</game>
+	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z225" cloneofid="0592">
+		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
+		<game_id>000400000006CE00</game_id>
+		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="1cc66742" md5="0059ca28f9f237ad764d4cfe8807d790" sha1="b2e58ad1a981c56f8684f32dbea0e81bd82305d4" sha256="c17f28cc4015c0ce43422baeddb12c43e8813f30bd39c4461691d948a2feaedc" serial="CTR-P-AJ4P"/>
 	</game>
 	<game name="Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)" id="0486">
 		<description>Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -4964,7 +4969,7 @@
 	<game name="LEGO The Hobbit (France) (En,Fr,De,Es,It,Nl,Da)" id="1126" cloneofid="0859">
 		<description>LEGO The Hobbit (France) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>000400000011E900</game_id>
-		<rom name="LEGO The Hobbit (France) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="8144fb06" md5="777ec83e11e0b6eccbb3201b6a4714d7" sha1="fee3a313dc133188c215b879d0d590180b354c8b" sha256="2d097f180d65d8a10cfe5627ab6c406837b6bc97fece2d370a614fbe1e6c9506" serial="CTR-P-BLHZ"/>
+		<rom name="LEGO The Hobbit (France) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="8144fb06" md5="777ec83e11e0b6eccbb3201b6a4714d7" sha1="fee3a313dc133188c215b879d0d590180b354c8b" sha256="2d097f180d65d8a10cfe5627ab6c406837b6bc97fece2d370a614fbe1e6c9506" status="verified" serial="CTR-P-BLHZ"/>
 	</game>
 	<game name="LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt)" id="0298" cloneofid="0543">
 		<description>LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt)</description>
@@ -5456,7 +5461,7 @@
 	<game name="Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl)" id="1786">
 		<description>Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000001C4D00</game_id>
-		<rom name="Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl).3ds" size="536870912" crc="7e8d0ea2" md5="28ecce1c80d1631b447b482d6e419035" sha1="b5c8b092b37a7a2be21c3ae1e8e1e3946d172c1e" serial="CTR-P-BHRP"/>
+		<rom name="Mario Party - The Top 100 (Europe) (En,Fr,De,Es,It,Nl).3ds" size="536870912" crc="7e8d0ea2" md5="28ecce1c80d1631b447b482d6e419035" sha1="b5c8b092b37a7a2be21c3ae1e8e1e3946d172c1e" sha256="70f17a8b88ca6b2a32c184d868dc12a4b58818b4f0a832c4e9ce01248c50b733" status="verified" serial="CTR-P-BHRP"/>
 	</game>
 	<game name="Mario Party 100 - Mini Game Collection (Japan)" id="1800" cloneofid="1786">
 		<description>Mario Party 100 - Mini Game Collection (Japan)</description>
@@ -5657,7 +5662,7 @@
 	<game name="Mensa Academy (Europe)" id="0223">
 		<description>Mensa Academy (Europe)</description>
 		<game_id>000400000007C100</game_id>
-		<rom name="Mensa Academy (Europe).3ds" size="134217728" crc="20130d9c" md5="fe493cdf480f57a7c95497124685f3f7" sha1="54375e82bd0bf3b6c5e4f08f3e04208570b3b855" serial="CTR-P-AMMP"/>
+		<rom name="Mensa Academy (Europe).3ds" size="134217728" crc="20130d9c" md5="fe493cdf480f57a7c95497124685f3f7" sha1="54375e82bd0bf3b6c5e4f08f3e04208570b3b855" sha256="66398298f27affb5479c5cda40aed3821b19eeca99cc39a6d1f9d616c57cb750" status="verified" serial="CTR-P-AMMP"/>
 	</game>
 	<game name="Metal Fight Beyblade 4D x ZEROG Ultimate Tournament (Japan)" id="0818" cloneofid="0568">
 		<description>Metal Fight Beyblade 4D x ZEROG Ultimate Tournament (Japan)</description>
@@ -6568,7 +6573,7 @@
 	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0159">
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000031600</game_id>
-		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="57e74ee5" md5="4b2f2e6d3069664ab1370d256186d79c" sha1="d40f6087d27d3c42061031c1547340e9de0af787" status="verified" serial="CTR-P-ADCP"/>
+		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="57e74ee5" md5="4b2f2e6d3069664ab1370d256186d79c" sha1="d40f6087d27d3c42061031c1547340e9de0af787" sha256="6988b5a29e2e837931f1dc4f6d9ec1456b62c765ed87724bd451e627fa9fae11" status="verified" serial="CTR-P-ADCP"/>
 	</game>
 	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan)" id="0347" cloneofid="0159">
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan)</description>
@@ -10066,7 +10071,7 @@
 	<game name="Transformers - Dark of the Moon - Stealth Force Edition (Europe) (En,Fr,De,Es,It)" id="0062">
 		<description>Transformers - Dark of the Moon - Stealth Force Edition (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000004D000</game_id>
-		<rom name="Transformers - Dark of the Moon - Stealth Force Edition (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="189b2744" md5="73c1d23070d7fdc4900f4f78409bc6ad" sha1="b5ce4246f3def7fffed8c79ddd6fb6f458f43656" serial="CTR-P-ATFP"/>
+		<rom name="Transformers - Dark of the Moon - Stealth Force Edition (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="189b2744" md5="73c1d23070d7fdc4900f4f78409bc6ad" sha1="b5ce4246f3def7fffed8c79ddd6fb6f458f43656" sha256="03573f882397d1895d91a9a7cb894c5393460cdff3d34d48bb0c39b9da3c7e4a" status="verified" serial="CTR-P-ATFP"/>
 	</game>
 	<game name="Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr)" id="0124" cloneofid="0062">
 		<description>Transformers - Dark of the Moon - Stealth Force Edition (USA) (En,Fr)</description>
