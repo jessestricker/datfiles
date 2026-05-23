@@ -4,15 +4,15 @@
 		<id>29</id>
 		<name>RCA - Studio II</name>
 		<description>RCA - Studio II</description>
-		<version>20260201-053357</version>
-		<author>relax</author>
+		<version>20260522-175404</version>
+		<author>1988reload, relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] RCA Studio II (USA)" id="0001">
 		<description>[BIOS] RCA Studio II (USA)</description>
-		<rom name="[BIOS] RCA Studio II (USA).bin" size="2048" crc="a494b339" md5="b37205bf19b197682f00619d05da194b" sha1="f2650dacc9daab06b9fdf0e7748e977b2907010c"/>
+		<rom name="[BIOS] RCA Studio II (USA).bin" size="2048" crc="a494b339" md5="b37205bf19b197682f00619d05da194b" sha1="f2650dacc9daab06b9fdf0e7748e977b2907010c" sha256="1e7ae3cd972eb39681e6c6df5f1ac6f7d86c9e59788e40d6b4c948375e9ca5f7"/>
 	</game>
 	<game name="Concentration Match (Europe)" id="0015">
 		<description>Concentration Match (Europe)</description>

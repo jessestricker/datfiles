@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20251222-090626</version>
+		<version>20260522-135353</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -54,6 +54,12 @@
 		<category>Games</category>
 		<description>Batman Returns (USA, Europe)</description>
 		<rom name="Batman Returns (USA, Europe).lyx" size="262144" crc="277f82c2" md5="6e9bbff3c7b66d3ec0411ffbe0e41dfd" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4" sha256="dae56ed73aa8298a422b9c2d1e585cac8f3c25e6a3e3d436e6e5921af834b45d" status="verified"/>
+	</game>
+	<game name="Batman Returns (USA, Europe) (Rev 1) (Proto)" id="0433">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Batman Returns (USA, Europe) (Rev 1) (Proto)</description>
+		<rom name="Batman Returns (USA, Europe) (Rev 1) (Proto).lyx" size="262144" crc="5b5795a8" md5="d81f2e2f8584052eb2eb2f8324671c82" sha1="a671d498eca1c51bf851bca1913b1af99f1b16ec" sha256="c079f91c5ce4147450988c2c32267c6efd302db65db50e31506996fbba248763"/>
 	</game>
 	<game name="Battle Wheels (USA, Europe)" id="0008">
 		<category>Games</category>

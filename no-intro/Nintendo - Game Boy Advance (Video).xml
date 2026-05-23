@@ -4,7 +4,7 @@
 		<id>297</id>
 		<name>Nintendo - Game Boy Advance (Video)</name>
 		<description>Nintendo - Game Boy Advance (Video)</description>
-		<version>20260517-080123</version>
+		<version>20260522-144016</version>
 		<author>BigFred, C. V. Reynolds, DeadSkullzJr, Gefflon, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, relax, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -134,6 +134,12 @@
 		<description>Game Boy Advance Video - Sonic X - Volume 1 (USA)</description>
 		<rom name="Game Boy Advance Video - Sonic X - Volume 1 (USA).gba" size="33554432" crc="363c3eb8" md5="36dfcab0d39bae344f1e9ecda2a226b7" sha1="dc4c959a7740315d892633869f7fc6382aadbb0e" sha256="9bebfab8842386bcdf7add2d1dab14364f6ff830932b13d99497ce167e167014" serial="MSHE"/>
 	</game>
+	<game name="Game Boy Advance Video - Sonic X - Volume 2 (USA) (Proto)" id="0110">
+		<category>Preproduction</category>
+		<category>Video</category>
+		<description>Game Boy Advance Video - Sonic X - Volume 2 (USA) (Proto)</description>
+		<rom name="Game Boy Advance Video - Sonic X - Volume 2 (USA) (Proto).gba" size="32022872" crc="9cf27a36" md5="a2b06d9183e02be819cde12c61106b08" sha1="00257021d9c4444e96d96331fb6eb07e756f53cc" sha256="b935d61ed3b8e699677dbbb2b3ba5ae9282ecd0696517b3afa1b4ed86068c1fe" serial="!none"/>
+	</game>
 	<game name="Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)" id="0001">
 		<description>Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)</description>
 		<rom name="Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1).gba" size="33554432" crc="d47bf1d4" md5="5fd40871088818467ed5405aaf9644e1" sha1="65f6b06c5397b9406960050025361550e0ff2e92" serial="MSSE"/>
@@ -158,6 +164,12 @@
 		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France)</description>
 		<rom name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France).gba" size="33554432" crc="1ee78166" md5="41322207c6b54012f094a3410df58c7a" sha1="1c7444a45c9bd15b1643c195832497881955acee" serial="MTMF"/>
 	</game>
+	<game name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - The Shredder Strikes (USA) (Proto)" id="0111">
+		<category>Preproduction</category>
+		<category>Video</category>
+		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - The Shredder Strikes (USA) (Proto)</description>
+		<rom name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - The Shredder Strikes (USA) (Proto).gba" size="32456184" crc="ddc3048e" md5="d322000b1119a7b217d9741ac4192ba8" sha1="4da1ad120fd07f6837c2cdd3f595d12274906774" sha256="0de013dcbc75d63c9c3279c1362b94c96016fddee8fdd30f41f0743d1604def6" serial="!none"/>
+	</game>
 	<game name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)" id="0015">
 		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)</description>
 		<rom name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe).gba" size="33554432" crc="046589c8" md5="b38aa51c2c27bf689e3d3da520d77339" sha1="8b9665ce2cefd663f7722f38b64f9271f7c00daa" serial="MTME"/>
@@ -177,6 +189,12 @@
 	<game name="Game Boy Advance Video - The Proud Family - Volume 1 (USA)" id="0026">
 		<description>Game Boy Advance Video - The Proud Family - Volume 1 (USA)</description>
 		<rom name="Game Boy Advance Video - The Proud Family - Volume 1 (USA).gba" size="33554432" crc="c6a91365" md5="4a6cf80d29a6e4ab9b4204e6783657e0" sha1="31a2cbb9b1b5adf7de399eecf2a9cec4f5412767" serial="MFPE"/>
+	</game>
+	<game name="Game Boy Advance Video - Yu-Gi-Oh! - Noah's Final Threat (USA) (Proto)" id="0112">
+		<category>Preproduction</category>
+		<category>Video</category>
+		<description>Game Boy Advance Video - Yu-Gi-Oh! - Noah's Final Threat (USA) (Proto)</description>
+		<rom name="Game Boy Advance Video - Yu-Gi-Oh! - Noah's Final Threat (USA) (Proto).gba" size="32760952" crc="af1cdf74" md5="6de11c3d8d9af8b047efdf453bd3662c" sha1="bd26064f5aab66db66f4ed9af52efe3d604ef1d2" sha256="2ead81d021ac12b091a3d6e5db54139943a1165fcac23011a2bc4d6842d60031" serial="!none"/>
 	</game>
 	<game name="Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)" id="0016">
 		<description>Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)</description>

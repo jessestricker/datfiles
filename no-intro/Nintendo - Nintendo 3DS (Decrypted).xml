@@ -4,8 +4,8 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260521-000723</version>
-		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
+		<version>20260523-003945</version>
+		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -5883,7 +5883,7 @@
 	<game name="Monster Hunter 3G (Japan) (Rev 1)" id="1496" cloneofid="0240">
 		<description>Monster Hunter 3G (Japan) (Rev 1)</description>
 		<game_id>0004000000048100</game_id>
-		<rom name="Monster Hunter 3G (Japan) (Rev 1).3ds" size="2147483648" crc="79bca2ea" md5="f075abec107b1cfb90eb5c9841e0be94" sha1="a280a8b64fc35f25d90e6b89f92dc2d7fc7e9aa2" serial="CTR-P-AMHJ"/>
+		<rom name="Monster Hunter 3G (Japan) (Rev 1).3ds" size="2147483648" crc="79bca2ea" md5="f075abec107b1cfb90eb5c9841e0be94" sha1="a280a8b64fc35f25d90e6b89f92dc2d7fc7e9aa2" sha256="872e5464190bbd23c37d3acd3f3a03af919971f4efcb158b2d7efbba3874ef7f" status="verified" serial="CTR-P-AMHJ"/>
 	</game>
 	<game name="Monster Hunter 4 (Taiwan) (Ja)" id="z001" cloneofid="0409">
 		<description>Monster Hunter 4 (Taiwan) (Ja)</description>
@@ -5898,7 +5898,7 @@
 	<game name="Monster Hunter 4 (Japan)" id="0409">
 		<description>Monster Hunter 4 (Japan)</description>
 		<game_id>000400000004B500</game_id>
-		<rom name="Monster Hunter 4 (Japan).3ds" size="2147483648" crc="d73f5f04" md5="f3ea16f8f3dc367106e44bfaa0043404" sha1="3b0c417fe6f9529e27e4eb887d5fe991c5010175" status="verified" serial="CTR-P-AH4J"/>
+		<rom name="Monster Hunter 4 (Japan).3ds" size="2147483648" crc="d73f5f04" md5="f3ea16f8f3dc367106e44bfaa0043404" sha1="3b0c417fe6f9529e27e4eb887d5fe991c5010175" sha256="0026d62716e7692a0e5b1ab6f62ff20cd40bb89a1327373fcad2323e61fb4c97" status="verified" serial="CTR-P-AH4J"/>
 	</game>
 	<game name="Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It)" id="1186">
 		<description>Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It)</description>
@@ -5913,7 +5913,7 @@
 	<game name="Monster Hunter 4G (Japan) (Rev 1)" id="1060" cloneofid="1186">
 		<description>Monster Hunter 4G (Japan) (Rev 1)</description>
 		<game_id>000400000011D700</game_id>
-		<rom name="Monster Hunter 4G (Japan) (Rev 1).3ds" size="4294967296" crc="9dd93f19" md5="c78683c99cd406db58f8950bdd41bdf4" sha1="0cee533ed68e203ecb814aff1763e838103af381" serial="CTR-P-BFGJ"/>
+		<rom name="Monster Hunter 4G (Japan) (Rev 1).3ds" size="4294967296" crc="9dd93f19" md5="c78683c99cd406db58f8950bdd41bdf4" sha1="0cee533ed68e203ecb814aff1763e838103af381" sha256="ec60ca279fe571787fc27046219f018a50f022f3df9f7b7a6bdc80e3e2aed9dc" status="verified" serial="CTR-P-BFGJ"/>
 	</game>
 	<game name="Monster Hunter 4G (Taiwan) (Ja)" id="1065" cloneofid="1186">
 		<description>Monster Hunter 4G (Taiwan) (Ja)</description>

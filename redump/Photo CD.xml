@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>Photo CD - Discs (260) (2026-05-21 12-30-29)</description>
-		<version>2026-05-21 12-30-29</version>
-		<date>2026-05-21 12-30-29</date>
+		<description>Photo CD - Discs (261) (2026-05-23 00-03-16)</description>
+		<version>2026-05-23 00-03-16</version>
+		<date>2026-05-23 00-03-16</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3234,5 +3234,11 @@
 		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 17).bin" size="30710064" crc="057eaf30" md5="cee94cb2763bbfb3c33dfe231517f4d9" sha1="5e186b704f853f8d5af9dff1709a5ba51685abd2"/>
 		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 18).bin" size="41545728" crc="0e17f1a4" md5="90c000aa8e223bd83550ff3ca2037ced" sha1="43afbe456fe06f4da70220a4a4cc9ed54653f6c4"/>
 		<rom name="Photo CD Gravure Vol. 8 - Katsuragi Asami - Juguram (Japan) (Track 19).bin" size="5745936" crc="1837a5a9" md5="3fba362bc74eab00eeabf03c23def57b" sha1="30e10b022973352e74e1734ba287d516f5b858d4"/>
+	</game>
+	<game name="Professional Photo CD Collection - Four Seasons (Germany)">
+		<category>Multimedia</category>
+		<description>Professional Photo CD Collection - Four Seasons (Germany)</description>
+		<rom name="Professional Photo CD Collection - Four Seasons (Germany).cue" size="146" crc="24a2aa60" md5="64c4e43dcb2f8acf04744e3baac32abb" sha1="fe22ca4fcc42cb9d98ed941e50a0484c14d6762a"/>
+		<rom name="Professional Photo CD Collection - Four Seasons (Germany).bin" size="573128304" crc="a1d30b81" md5="6ee6553775e26f761569a376f4545926" sha1="3e84d3f6ded8297be179d2b29ded310236f4a133"/>
 	</game>
 </datafile>
