@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260523-001545</version>
+		<version>20260523-032225</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3871,7 +3871,7 @@
 	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z225" cloneofid="0592">
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>000400000006CE00</game_id>
-		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="1cc66742" md5="0059ca28f9f237ad764d4cfe8807d790" sha1="b2e58ad1a981c56f8684f32dbea0e81bd82305d4" sha256="c17f28cc4015c0ce43422baeddb12c43e8813f30bd39c4461691d948a2feaedc" serial="CTR-P-AJ4P"/>
+		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="1cc66742" md5="0059ca28f9f237ad764d4cfe8807d790" sha1="b2e58ad1a981c56f8684f32dbea0e81bd82305d4" sha256="c17f28cc4015c0ce43422baeddb12c43e8813f30bd39c4461691d948a2feaedc" mia="yes" serial="CTR-P-AJ4P"/>
 	</game>
 	<game name="Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)" id="0486">
 		<description>Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)</description>

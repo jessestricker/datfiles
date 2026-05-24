@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260523-003945</version>
+		<version>20260523-032225</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3871,7 +3871,7 @@
 	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z225" cloneofid="0592">
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>000400000006CE00</game_id>
-		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="fa4f3702" md5="fc7524faebb81c1d9eda94eda056f076" sha1="d042fe9d108b23bdf668f434d7b1724e19022309" sha256="0c0f85e80fb91a98fd2fa5b83e16d33fe17d2f37abd522f7e904877bea295fbd" serial="CTR-P-AJ4P"/>
+		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="fa4f3702" md5="fc7524faebb81c1d9eda94eda056f076" sha1="d042fe9d108b23bdf668f434d7b1724e19022309" sha256="0c0f85e80fb91a98fd2fa5b83e16d33fe17d2f37abd522f7e904877bea295fbd" mia="yes" serial="CTR-P-AJ4P"/>
 	</game>
 	<game name="Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)" id="0486">
 		<description>Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -5963,7 +5963,7 @@
 	<game name="Monster Hunter X (Japan)" id="1405" cloneofid="1545">
 		<description>Monster Hunter X (Japan)</description>
 		<game_id>0004000000155400</game_id>
-		<rom name="Monster Hunter X (Japan).3ds" size="2147483648" crc="0774151f" md5="b5f0842d4a32ad252c057176779bdbe4" sha1="a811473c030d2ae7cac0e42e59e79db6d6e7d8c0" status="verified" serial="CTR-P-BXXJ"/>
+		<rom name="Monster Hunter X (Japan).3ds" size="2147483648" crc="0774151f" md5="b5f0842d4a32ad252c057176779bdbe4" sha1="a811473c030d2ae7cac0e42e59e79db6d6e7d8c0" sha256="ff2c877824b57a50773d8706c752ae8f56b87060e392cf8cdb3815bc12bc60bb" status="verified" serial="CTR-P-BXXJ"/>
 	</game>
 	<game name="Monster Hunter XX - Double Cross (Japan)" id="1663">
 		<description>Monster Hunter XX - Double Cross (Japan)</description>

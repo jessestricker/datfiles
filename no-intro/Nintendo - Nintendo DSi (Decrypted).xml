@@ -4,8 +4,8 @@
 		<id>54</id>
 		<name>Nintendo - Nintendo DSi (Decrypted)</name>
 		<description>Nintendo - Nintendo DSi (Decrypted)</description>
-		<version>20260502-054948</version>
-		<author>aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
+		<version>20260523-201132</version>
+		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -97,7 +97,7 @@
 	</game>
 	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
 		<description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="434f423b" md5="f277a49a1a108d8bdda1c50f406db812" sha1="e589cab2eb62b1938dd3aeafc764e0454c99c5aa" serial="DMPP"/>
+		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="434f423b" md5="f277a49a1a108d8bdda1c50f406db812" sha1="e589cab2eb62b1938dd3aeafc764e0454c99c5aa" sha256="a9920e197528722faa2fec34e152eaf7f574ec112758efef55a64a0f37a85b3f" serial="DMPP"/>
 	</game>
 	<game name="Picture Perfect Hair Salon (USA) (En,Fr,Es)" id="0003" cloneofid="0002">
 		<description>Picture Perfect Hair Salon (USA) (En,Fr,Es)</description>
