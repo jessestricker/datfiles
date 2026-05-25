@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-21 16-56-51)</description>
-		<version>2026-05-21 16-56-51</version>
-		<date>2026-05-21 16-56-51</date>
+		<description>Sony - PlayStation - Discs (10909) (2026-05-25 22-29-07)</description>
+		<version>2026-05-25 22-29-07</version>
+		<date>2026-05-25 22-29-07</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -19522,23 +19522,23 @@
 		<rom name="Jumping Flash! (Japan) (Europe-ban).cue" size="101" crc="040393d7" md5="e3cb5ae57c8913d85ae49584e621cb3b" sha1="408e1ebff47e5de2ff3321ffb6872b9f75028503"/>
 		<rom name="Jumping Flash! (Japan) (Europe-ban).bin" size="641515056" crc="d4b2c461" md5="09d13abf74a236da634f174cc754f211" sha1="86709e2404bca9333a14609a28c7a83916c96c44"/>
 	</game>
-	<game name="Star Ocean - The Second Story (Japan) (Disc 1)">
+	<game name="Star Ocean - The Second Story (Japan, Asia) (Disc 1)">
 		<category>Games</category>
-		<description>Star Ocean - The Second Story (Japan) (Disc 1)</description>
-		<rom name="Star Ocean - The Second Story (Japan) (Disc 1).cue" size="112" crc="dbce64a8" md5="c72cd65e0ec5505d24637fef1948df68" sha1="688d776d52dcbef9c6ff19b35584f00c62e20208"/>
-		<rom name="Star Ocean - The Second Story (Japan) (Disc 1).bin" size="555946944" crc="7f5ef8d6" md5="d80a1d2c71bb34f2975d19ce7ef35d68" sha1="8284f9ab4d4451f7e1088ba70c2f13e76047656d"/>
+		<description>Star Ocean - The Second Story (Japan, Asia) (Disc 1)</description>
+		<rom name="Star Ocean - The Second Story (Japan, Asia) (Disc 1).cue" size="118" crc="cdd461c8" md5="116158291229097694b720b4c14e0483" sha1="5c0347ee59c5436a9922b7718389b81ca688033c"/>
+		<rom name="Star Ocean - The Second Story (Japan, Asia) (Disc 1).bin" size="555946944" crc="7f5ef8d6" md5="d80a1d2c71bb34f2975d19ce7ef35d68" sha1="8284f9ab4d4451f7e1088ba70c2f13e76047656d"/>
 	</game>
-	<game name="Star Ocean - The Second Story (Japan) (Disc 2)">
+	<game name="Star Ocean - The Second Story (Japan, Asia) (Disc 2)">
 		<category>Games</category>
-		<description>Star Ocean - The Second Story (Japan) (Disc 2)</description>
-		<rom name="Star Ocean - The Second Story (Japan) (Disc 2).cue" size="112" crc="da934279" md5="69373688cb7b67e0102d974a286ab635" sha1="5665712a57bc96ba6d98b26ae068494bbefe9905"/>
-		<rom name="Star Ocean - The Second Story (Japan) (Disc 2).bin" size="722969520" crc="f353b9b9" md5="88867a83d015b65e15eaa2c5b2f913ca" sha1="8f3c62c73186d8f08342a6a990be8cd271c5a12b"/>
+		<description>Star Ocean - The Second Story (Japan, Asia) (Disc 2)</description>
+		<rom name="Star Ocean - The Second Story (Japan, Asia) (Disc 2).cue" size="118" crc="cc894719" md5="974be07a1afd364696a6795591376593" sha1="6685ffce25db4ea4f852c17e2545b577868db44c"/>
+		<rom name="Star Ocean - The Second Story (Japan, Asia) (Disc 2).bin" size="722969520" crc="f353b9b9" md5="88867a83d015b65e15eaa2c5b2f913ca" sha1="8f3c62c73186d8f08342a6a990be8cd271c5a12b"/>
 	</game>
-	<game name="Astronoka (Japan) (Demo)">
+	<game name="Astronoka (Japan, Asia) (Taikenban)">
 		<category>Demos</category>
-		<description>Astronoka (Japan) (Demo)</description>
-		<rom name="Astronoka (Japan) (Demo).cue" size="90" crc="39e41c49" md5="a1daf24319d2eb3706abdb4067bccc56" sha1="0cd231fc121077165fd1db5b428eefaefcbd16e8"/>
-		<rom name="Astronoka (Japan) (Demo).bin" size="269734416" crc="b768b09c" md5="c97837a913ed7e0e8866b5cb1a686bee" sha1="c25427901a4ed86ede4cc0147e45661cf6dddf67"/>
+		<description>Astronoka (Japan, Asia) (Taikenban)</description>
+		<rom name="Astronoka (Japan, Asia) (Taikenban).cue" size="101" crc="ac4c0d9c" md5="d1685ac22f5fd563d3aea36e4fe31a25" sha1="bc9afe14aa99d766a0959482506907bf749d649d"/>
+		<rom name="Astronoka (Japan, Asia) (Taikenban).bin" size="269734416" crc="b768b09c" md5="c97837a913ed7e0e8866b5cb1a686bee" sha1="c25427901a4ed86ede4cc0147e45661cf6dddf67"/>
 	</game>
 	<game name="Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan)">
 		<category>Games</category>
@@ -23507,11 +23507,11 @@
 		<rom name="Z (Europe) (Track 1).bin" size="665898240" crc="e39d2904" md5="fdc3e639b35ac92ce7d6de8e038e9ec9" sha1="7336280f5517a2fa9bd45bfcc340d3142631d207"/>
 		<rom name="Z (Europe) (Track 2).bin" size="32354112" crc="e49b3127" md5="ee83e17e16bca73cd5438462de6883d2" sha1="01de730b1e7a8f18f9effe9341266681c2145db8"/>
 	</game>
-	<game name="RayStorm (Japan)">
+	<game name="RayStorm (Japan, Asia)">
 		<category>Games</category>
-		<description>RayStorm (Japan)</description>
-		<rom name="RayStorm (Japan).cue" size="82" crc="22e9ee86" md5="51fe8a52e064ae64f5002734e743bc8e" sha1="64179147a09f9fac08bf135e1e6b1f9ac4e84f6e"/>
-		<rom name="RayStorm (Japan).bin" size="648987360" crc="b21001c4" md5="901800c761e47bc6299c87fdd96ac06c" sha1="baba9ab0ada54bcacb98c501f7d2085fe790c403"/>
+		<description>RayStorm (Japan, Asia)</description>
+		<rom name="RayStorm (Japan, Asia).cue" size="88" crc="7e875e18" md5="e20f39c34afe1824586aa0c43a6ffe18" sha1="c3d8a8f657f97fa1f41e56db1676476b1481fd47"/>
+		<rom name="RayStorm (Japan, Asia).bin" size="648987360" crc="b21001c4" md5="901800c761e47bc6299c87fdd96ac06c" sha1="baba9ab0ada54bcacb98c501f7d2085fe790c403"/>
 	</game>
 	<game name="Real Robot Sensen (Japan)">
 		<category>Games</category>
@@ -28189,50 +28189,50 @@
 		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 16).bin" size="14191968" crc="b00dc716" md5="6827166c73895fffb5a96ff75f515751" sha1="354dd44e7b32590dc7ce958fdcc6a6a0b693c371"/>
 		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 17).bin" size="32542272" crc="16823d61" md5="060c24ebe35ccd5117aec921150bda19" sha1="b4dd633c6177ce1bf68aa237aaa632302154d04d"/>
 	</game>
-	<game name="Real Bout Garou Densetsu (Japan) (En,Ja)">
+	<game name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Real Bout Garou Densetsu (Japan) (En,Ja)</description>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja).cue" size="4437" crc="1d10a825" md5="c4ff8260d2bf7ff7609b95dd2d0c703c" sha1="87360ae91725b0bd246d4b4c26286188b82856af"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 01).bin" size="28593264" crc="035dcf97" md5="406fab9523c5b1025da64012fdae03c4" sha1="d6b0e525172c49fdc600699065015208f66892d6"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 02).bin" size="4736928" crc="667120db" md5="e4caf849cae946523d0b056b69db8428" sha1="d3880e9135d81d1c8ea4c257c570e5faadf51bb4"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 03).bin" size="6529152" crc="cd421d5b" md5="25e96c431375efdbed5953298a270bd1" sha1="f6977231b39945f3b9daafb51e72782153b2fa68"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 04).bin" size="6529152" crc="b2fe0ba4" md5="c214dcca3ac5614ea970be52a89c8564" sha1="f8cec13b34a2961292dbb8f544c49430e4f4e5ee"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 05).bin" size="16231152" crc="792c7951" md5="d8739f0b266761d5b259e4f1e4ea6612" sha1="ed1a1b0c6f1375a7ccfd5f4a56ee91ac21bca9fe"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 06).bin" size="16231152" crc="913dd98b" md5="ac4cdabc640bfe8815d6e3aa876f388d" sha1="086ecc9648c553940d96781e2fdbc7ba6dc02420"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 07).bin" size="16231152" crc="dcc12f59" md5="8ccb8194090c780e06e2ca8d37891f3f" sha1="0ba2e50d51d5bc9a81cb929f558e1bb50bcc067f"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 08).bin" size="16221744" crc="8eb82eee" md5="a74c752d49eb002746cd7fcb010971d9" sha1="6bf1d42feaebc0107b0e1f13dd764015cea5240c"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 09).bin" size="3177552" crc="d9eebd9b" md5="78eb2c80157e6225ae018837c37e7b2c" sha1="9af79ca63d4227c377853257696e6178cf4eb663"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 10).bin" size="16231152" crc="d9f465c6" md5="202359b864a2a4d0dffef423edb30aad" sha1="6f912dbd376d9bce26da32a8062ed62165d8ce22"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 11).bin" size="16231152" crc="b870ecbf" md5="60981e062d349919693d3b77978f387b" sha1="60f80c9653e37755c5444d89fe2b49444e263b5a"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 12).bin" size="16231152" crc="2a87ab71" md5="ae66995d0f4993bc7ef202e0f169dd30" sha1="9ef72a9a7305ce55566cb8e25d4714569cdd5601"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 13).bin" size="10725120" crc="ee776d4f" md5="017c28b982a1f9bc22d23bd530e8bc4f" sha1="7bb861fd51e7b94b073aaca965f78aade8603941"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 14).bin" size="3782016" crc="d600c5ce" md5="c8289c40f314e820a0e37e4e346001e3" sha1="a6f41820fe8769b597e06c016447e7837dfdb374"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 15).bin" size="16231152" crc="ec854bc3" md5="5fde2752eb5f4b8c3b33f769feeefcc9" sha1="f6c216af33660b91e51bed011f18a9d2c3cf1f05"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 16).bin" size="16231152" crc="24bf9840" md5="fcfe6711f33ec84e4b65090765b7fbac" sha1="ff3d2a963ad5d1933765c70d956b44ba513bc55b"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 17).bin" size="16231152" crc="bb45645f" md5="9e7adc2e09445e59a69fc7cd3b071ab6" sha1="9251473a8c4c8b8b3ab103c7b351b17a02fba3a4"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 18).bin" size="16231152" crc="2312c0d7" md5="c1a72abb39e7ac7d9bd22134c67eec12" sha1="f1fa180e60a9ea405b0ca65be1994170b474c5ee"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 19).bin" size="8453088" crc="11ebc46a" md5="e989f1ed5cf1df518b58739711ba158c" sha1="4d25fe2543058de3f71df9ac3c7ed6474df66332"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 20).bin" size="16231152" crc="8eeb4d0e" md5="175842f11fde530cd11fa1eea4a9df09" sha1="120efcad8ac8dac795bb5559913849a9f1606e7e"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 21).bin" size="16231152" crc="f1389b3d" md5="084607dd781a245d77ff8cf9940c048d" sha1="47c377fd29d5d5e79e7dc5d5aa21f5e9b2d764a0"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 22).bin" size="16231152" crc="c08b5097" md5="d2eb13afe1b78dacc9a21c7f749bb3b8" sha1="1d3c482cb3e0febefa8ec6874f8be0494ec6fb20"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 23).bin" size="16231152" crc="b6fc80c9" md5="2f65318a68bfff301a357f520d50d120" sha1="0ed659a74b8d88ca1d089b1f4fe34c7bd227c9f8"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 24).bin" size="2773008" crc="10ee40b3" md5="4c17d67918a752f3d96e249e59907265" sha1="0e606423115e114dd8f240a08254bb69419a94df"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 25).bin" size="16231152" crc="e6a96931" md5="772773375178bda9c2a8964076978361" sha1="dad2d2626f11bb9b5e019287bf0404d243b60927"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 26).bin" size="33960528" crc="4ad33236" md5="ccc928634b21a6408b2c388794d01192" sha1="ea7c30ad6ed431c12692ef83d98fff51d9b8b84b"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 27).bin" size="6042288" crc="6aaaf050" md5="07f66ff266c6c0c914fd83b5ffc5780e" sha1="ef8b0a3fe806cb4c4a421a74e66092fc6e95366d"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 28).bin" size="14652960" crc="b590c241" md5="9b52ec695825403124cdc5896f40f91f" sha1="03d92da57675159c1550f0ecb841f82758a9c8b9"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 29).bin" size="2914128" crc="8a9b74d1" md5="f41227afce775f0b72914bf21644b9c7" sha1="2242bca6db3be199f220c97b042c93fe6fa0ae4f"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 30).bin" size="11049696" crc="c8457923" md5="e820e1e869103ae51158763881b479a9" sha1="50958ded3dc02f226e1e0d1d7fa45d51306d3903"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 31).bin" size="1328880" crc="d8238b49" md5="3712944687a71c47b45db4de983214c0" sha1="57206ed58a04b027522d9759f846abf031dc3f10"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 32).bin" size="4913328" crc="3c50e0c3" md5="e6c1efcae60a74427ae52e49625ee9eb" sha1="41d8289a1ed88122e15d94aa10f8dc3e1898d4c5"/>
-		<rom name="Real Bout Garou Densetsu (Japan) (En,Ja) (Track 33).bin" size="32104800" crc="7e9c2113" md5="e5e8f274d310fe63b235bedc4f071c35" sha1="3a310932ac95d80fded1af5810b7de24cb213dff"/>
+		<description>Real Bout Garou Densetsu (Japan, Asia) (En,Ja)</description>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja).cue" size="4635" crc="00422267" md5="6e0abe2a5215917f0ca6ae51f86c0f07" sha1="b3ea190a1b6c1b7ff3d9c11b36659112101af110"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 01).bin" size="28593264" crc="035dcf97" md5="406fab9523c5b1025da64012fdae03c4" sha1="d6b0e525172c49fdc600699065015208f66892d6"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 02).bin" size="4736928" crc="667120db" md5="e4caf849cae946523d0b056b69db8428" sha1="d3880e9135d81d1c8ea4c257c570e5faadf51bb4"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 03).bin" size="6529152" crc="cd421d5b" md5="25e96c431375efdbed5953298a270bd1" sha1="f6977231b39945f3b9daafb51e72782153b2fa68"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 04).bin" size="6529152" crc="b2fe0ba4" md5="c214dcca3ac5614ea970be52a89c8564" sha1="f8cec13b34a2961292dbb8f544c49430e4f4e5ee"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 05).bin" size="16231152" crc="792c7951" md5="d8739f0b266761d5b259e4f1e4ea6612" sha1="ed1a1b0c6f1375a7ccfd5f4a56ee91ac21bca9fe"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 06).bin" size="16231152" crc="913dd98b" md5="ac4cdabc640bfe8815d6e3aa876f388d" sha1="086ecc9648c553940d96781e2fdbc7ba6dc02420"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 07).bin" size="16231152" crc="dcc12f59" md5="8ccb8194090c780e06e2ca8d37891f3f" sha1="0ba2e50d51d5bc9a81cb929f558e1bb50bcc067f"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 08).bin" size="16221744" crc="8eb82eee" md5="a74c752d49eb002746cd7fcb010971d9" sha1="6bf1d42feaebc0107b0e1f13dd764015cea5240c"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 09).bin" size="3177552" crc="d9eebd9b" md5="78eb2c80157e6225ae018837c37e7b2c" sha1="9af79ca63d4227c377853257696e6178cf4eb663"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 10).bin" size="16231152" crc="d9f465c6" md5="202359b864a2a4d0dffef423edb30aad" sha1="6f912dbd376d9bce26da32a8062ed62165d8ce22"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 11).bin" size="16231152" crc="b870ecbf" md5="60981e062d349919693d3b77978f387b" sha1="60f80c9653e37755c5444d89fe2b49444e263b5a"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 12).bin" size="16231152" crc="2a87ab71" md5="ae66995d0f4993bc7ef202e0f169dd30" sha1="9ef72a9a7305ce55566cb8e25d4714569cdd5601"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 13).bin" size="10725120" crc="ee776d4f" md5="017c28b982a1f9bc22d23bd530e8bc4f" sha1="7bb861fd51e7b94b073aaca965f78aade8603941"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 14).bin" size="3782016" crc="d600c5ce" md5="c8289c40f314e820a0e37e4e346001e3" sha1="a6f41820fe8769b597e06c016447e7837dfdb374"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 15).bin" size="16231152" crc="ec854bc3" md5="5fde2752eb5f4b8c3b33f769feeefcc9" sha1="f6c216af33660b91e51bed011f18a9d2c3cf1f05"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 16).bin" size="16231152" crc="24bf9840" md5="fcfe6711f33ec84e4b65090765b7fbac" sha1="ff3d2a963ad5d1933765c70d956b44ba513bc55b"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 17).bin" size="16231152" crc="bb45645f" md5="9e7adc2e09445e59a69fc7cd3b071ab6" sha1="9251473a8c4c8b8b3ab103c7b351b17a02fba3a4"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 18).bin" size="16231152" crc="2312c0d7" md5="c1a72abb39e7ac7d9bd22134c67eec12" sha1="f1fa180e60a9ea405b0ca65be1994170b474c5ee"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 19).bin" size="8453088" crc="11ebc46a" md5="e989f1ed5cf1df518b58739711ba158c" sha1="4d25fe2543058de3f71df9ac3c7ed6474df66332"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 20).bin" size="16231152" crc="8eeb4d0e" md5="175842f11fde530cd11fa1eea4a9df09" sha1="120efcad8ac8dac795bb5559913849a9f1606e7e"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 21).bin" size="16231152" crc="f1389b3d" md5="084607dd781a245d77ff8cf9940c048d" sha1="47c377fd29d5d5e79e7dc5d5aa21f5e9b2d764a0"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 22).bin" size="16231152" crc="c08b5097" md5="d2eb13afe1b78dacc9a21c7f749bb3b8" sha1="1d3c482cb3e0febefa8ec6874f8be0494ec6fb20"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 23).bin" size="16231152" crc="b6fc80c9" md5="2f65318a68bfff301a357f520d50d120" sha1="0ed659a74b8d88ca1d089b1f4fe34c7bd227c9f8"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 24).bin" size="2773008" crc="10ee40b3" md5="4c17d67918a752f3d96e249e59907265" sha1="0e606423115e114dd8f240a08254bb69419a94df"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 25).bin" size="16231152" crc="e6a96931" md5="772773375178bda9c2a8964076978361" sha1="dad2d2626f11bb9b5e019287bf0404d243b60927"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 26).bin" size="33960528" crc="4ad33236" md5="ccc928634b21a6408b2c388794d01192" sha1="ea7c30ad6ed431c12692ef83d98fff51d9b8b84b"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 27).bin" size="6042288" crc="6aaaf050" md5="07f66ff266c6c0c914fd83b5ffc5780e" sha1="ef8b0a3fe806cb4c4a421a74e66092fc6e95366d"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 28).bin" size="14652960" crc="b590c241" md5="9b52ec695825403124cdc5896f40f91f" sha1="03d92da57675159c1550f0ecb841f82758a9c8b9"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 29).bin" size="2914128" crc="8a9b74d1" md5="f41227afce775f0b72914bf21644b9c7" sha1="2242bca6db3be199f220c97b042c93fe6fa0ae4f"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 30).bin" size="11049696" crc="c8457923" md5="e820e1e869103ae51158763881b479a9" sha1="50958ded3dc02f226e1e0d1d7fa45d51306d3903"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 31).bin" size="1328880" crc="d8238b49" md5="3712944687a71c47b45db4de983214c0" sha1="57206ed58a04b027522d9759f846abf031dc3f10"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 32).bin" size="4913328" crc="3c50e0c3" md5="e6c1efcae60a74427ae52e49625ee9eb" sha1="41d8289a1ed88122e15d94aa10f8dc3e1898d4c5"/>
+		<rom name="Real Bout Garou Densetsu (Japan, Asia) (En,Ja) (Track 33).bin" size="32104800" crc="7e9c2113" md5="e5e8f274d310fe63b235bedc4f071c35" sha1="3a310932ac95d80fded1af5810b7de24cb213dff"/>
 	</game>
-	<game name="Battle Arena Toushinden 3 (Japan)">
+	<game name="Battle Arena Toushinden 3 (Japan, Asia)">
 		<category>Games</category>
-		<description>Battle Arena Toushinden 3 (Japan)</description>
-		<rom name="Battle Arena Toushinden 3 (Japan).cue" size="236" crc="899f84e7" md5="da1f0216869e48ac3f447c8f6ce573c5" sha1="f1e1ddccf5d8148af2a12e5125743fbc30f94bd3"/>
-		<rom name="Battle Arena Toushinden 3 (Japan) (Track 1).bin" size="629324640" crc="6c96e487" md5="a5fcae3e51cd8a274d635ca37e9a0b15" sha1="e3568368ade1a668faf2326599502306710fc1ff"/>
-		<rom name="Battle Arena Toushinden 3 (Japan) (Track 2).bin" size="42267792" crc="86da156b" md5="7a9ab5375e592e832af3b4f620b290a6" sha1="5c2955970cd394b60dec4bed91f7353c2968cb4d"/>
+		<description>Battle Arena Toushinden 3 (Japan, Asia)</description>
+		<rom name="Battle Arena Toushinden 3 (Japan, Asia).cue" size="248" crc="7196b5b4" md5="5d2f6dd83167b05160c20ad8bfa780c8" sha1="f2d9edc0dab2b9ed4c80528d7c1c82c60fb8fb68"/>
+		<rom name="Battle Arena Toushinden 3 (Japan, Asia) (Track 1).bin" size="629324640" crc="6c96e487" md5="a5fcae3e51cd8a274d635ca37e9a0b15" sha1="e3568368ade1a668faf2326599502306710fc1ff"/>
+		<rom name="Battle Arena Toushinden 3 (Japan, Asia) (Track 2).bin" size="42267792" crc="86da156b" md5="7a9ab5375e592e832af3b4f620b290a6" sha1="5c2955970cd394b60dec4bed91f7353c2968cb4d"/>
 	</game>
 	<game name="Grid Runner (Japan)">
 		<category>Games</category>
@@ -28475,31 +28475,31 @@
 		<rom name="Shuukan Pro Wres Kanshuu - Pro Wres Sengokuden (Japan) (Track 1).bin" size="207681600" crc="e74527a0" md5="6a8ccb0a7e89954f41eb0252dcdbacac" sha1="faad2fd8119257a93e0be0a594562c4de72f72a3"/>
 		<rom name="Shuukan Pro Wres Kanshuu - Pro Wres Sengokuden (Japan) (Track 2).bin" size="33871152" crc="fd70a67f" md5="a0580798280736865f5a3a0acf0070a3" sha1="ebbc15d8445e79bcbfd4a229c32191c30ba9d2e0"/>
 	</game>
-	<game name="Gundam the Battle Master (Japan)">
+	<game name="Gundam the Battle Master (Japan, Asia)">
 		<category>Games</category>
-		<description>Gundam the Battle Master (Japan)</description>
-		<rom name="Gundam the Battle Master (Japan).cue" size="2649" crc="28eb168a" md5="ad178f9ceb9a7a7e7e556ecb237c8519" sha1="61f1fbca018693e31e5737f0e629a38bf07305af"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 01).bin" size="11898768" crc="581d7aa6" md5="02b9b4f59c9e8ae3ca108b4ec888f2cd" sha1="63adbf66cf71e3cb39d91ca621e998f84c314a81"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 02).bin" size="16038288" crc="9b055201" md5="f6f0d35c810a73d05edecabdaa34c88b" sha1="1b2e935bf9b7f7792bb14162528d09dc4f9208d5"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 03).bin" size="20161344" crc="d51e61ca" md5="1be40a4f412ea7f7287d1c78ef445e0a" sha1="10bc8d338e5eee185f9e574bf882723616f9ff12"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 04).bin" size="16741536" crc="d73bea4d" md5="053cd670a50fd398dd64da4f52ef00a7" sha1="32033b0c9b3b2bc2d1c5bd5c9bea85082e9eef50"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 05).bin" size="16485168" crc="cd253a96" md5="9bf565a8f58602d577bff6557301e8f6" sha1="69f33897e19bbe7fc1d77d82b7cbb5233c854c78"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 06).bin" size="21349104" crc="6d18ca09" md5="ab47f24b9a939daeae1ae997dc2e4b97" sha1="f73e995195a7ca6ba829b6d4bac8ed93a2acd69a"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 07).bin" size="19531008" crc="fceb19ee" md5="1aa2fc7dbf8300fa317e5542b8683519" sha1="fad7f3925c4572024f6776c1451ed98532b53310"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 08).bin" size="18133920" crc="0488053e" md5="41efdbdb579ea9f78833c8d6caf00ba7" sha1="cbf7da2b21387289ea7e1b311a491c8010955183"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 09).bin" size="22463952" crc="8ddeddc4" md5="6aa80733d1b0a7acfefb46cc53a9287b" sha1="463756676c8eb90a6bfaceda52b9029d39eeca07"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 10).bin" size="17910480" crc="ff635d51" md5="ece7aa31515f0d636b6b2d31cc6e5281" sha1="5b02e353560627617ba3c7786aa4c692d731c7c9"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 11).bin" size="18209184" crc="6bfd6f8b" md5="2fc8546cd685072d65544bb3000aad87" sha1="fc019834bfe924abfaafab55991755981ca0e86d"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 12).bin" size="18150384" crc="f74a79c1" md5="4993b2ce9d3139ccae02cf18b3e24327" sha1="87186611614bccaef18cce8ba984f21c2a869db6"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 13).bin" size="20895168" crc="2a49ae6e" md5="f12c7e46860a86c57e7c122ae29fd87c" sha1="f14ce23e7dc37620d614fabafb6d454b1012acf0"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 14).bin" size="24823008" crc="5ac40f30" md5="a3074fd2c268269aa7f5ac643bdc4077" sha1="e6cf607e895654345ba101b3e5d3eccea4ff2ade"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 15).bin" size="16165296" crc="b58bcb42" md5="36f7ba168d963c0da982abcc2b899f7c" sha1="23100e72307442260afe3558517b403c0efda553"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 16).bin" size="13507536" crc="a74cb9d2" md5="5cb9288f7bbb3cb9143de52b0c78f7a6" sha1="a45fc310f2ce0c1fe5e5f6a100698e390a1b231d"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 17).bin" size="11150832" crc="dab6ffa8" md5="287113716baf6bf635146bb8cfb8f7cc" sha1="b923bd780663cb7021531704ca6a4f2e2938a5d2"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 18).bin" size="16981440" crc="b6b208dd" md5="67c978c7f59d79f2a60643c02c19763a" sha1="97af955f22127bbbe1018c37c0813fead88c8776"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 19).bin" size="12754896" crc="1e71c526" md5="6b17de903cbdb006350d2baa4ef3e8fb" sha1="248f27b187da93a4ec8d00087929da6b68116eac"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 20).bin" size="21483168" crc="7c442b8e" md5="4b9d06e2df655d832673201a39f238d4" sha1="c23c4372d0e0f59f6d960a258fe72c6d69b1d29b"/>
-		<rom name="Gundam the Battle Master (Japan) (Track 21).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<description>Gundam the Battle Master (Japan, Asia)</description>
+		<rom name="Gundam the Battle Master (Japan, Asia).cue" size="2775" crc="3184bed4" md5="8f60b2f406f15e3fad3f78df86a70f66" sha1="7b46afcb48a23eec7de0684e5a60c2c74af5ec47"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 01).bin" size="11898768" crc="581d7aa6" md5="02b9b4f59c9e8ae3ca108b4ec888f2cd" sha1="63adbf66cf71e3cb39d91ca621e998f84c314a81"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 02).bin" size="16038288" crc="9b055201" md5="f6f0d35c810a73d05edecabdaa34c88b" sha1="1b2e935bf9b7f7792bb14162528d09dc4f9208d5"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 03).bin" size="20161344" crc="d51e61ca" md5="1be40a4f412ea7f7287d1c78ef445e0a" sha1="10bc8d338e5eee185f9e574bf882723616f9ff12"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 04).bin" size="16741536" crc="d73bea4d" md5="053cd670a50fd398dd64da4f52ef00a7" sha1="32033b0c9b3b2bc2d1c5bd5c9bea85082e9eef50"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 05).bin" size="16485168" crc="cd253a96" md5="9bf565a8f58602d577bff6557301e8f6" sha1="69f33897e19bbe7fc1d77d82b7cbb5233c854c78"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 06).bin" size="21349104" crc="6d18ca09" md5="ab47f24b9a939daeae1ae997dc2e4b97" sha1="f73e995195a7ca6ba829b6d4bac8ed93a2acd69a"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 07).bin" size="19531008" crc="fceb19ee" md5="1aa2fc7dbf8300fa317e5542b8683519" sha1="fad7f3925c4572024f6776c1451ed98532b53310"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 08).bin" size="18133920" crc="0488053e" md5="41efdbdb579ea9f78833c8d6caf00ba7" sha1="cbf7da2b21387289ea7e1b311a491c8010955183"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 09).bin" size="22463952" crc="8ddeddc4" md5="6aa80733d1b0a7acfefb46cc53a9287b" sha1="463756676c8eb90a6bfaceda52b9029d39eeca07"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 10).bin" size="17910480" crc="ff635d51" md5="ece7aa31515f0d636b6b2d31cc6e5281" sha1="5b02e353560627617ba3c7786aa4c692d731c7c9"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 11).bin" size="18209184" crc="6bfd6f8b" md5="2fc8546cd685072d65544bb3000aad87" sha1="fc019834bfe924abfaafab55991755981ca0e86d"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 12).bin" size="18150384" crc="f74a79c1" md5="4993b2ce9d3139ccae02cf18b3e24327" sha1="87186611614bccaef18cce8ba984f21c2a869db6"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 13).bin" size="20895168" crc="2a49ae6e" md5="f12c7e46860a86c57e7c122ae29fd87c" sha1="f14ce23e7dc37620d614fabafb6d454b1012acf0"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 14).bin" size="24823008" crc="5ac40f30" md5="a3074fd2c268269aa7f5ac643bdc4077" sha1="e6cf607e895654345ba101b3e5d3eccea4ff2ade"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 15).bin" size="16165296" crc="b58bcb42" md5="36f7ba168d963c0da982abcc2b899f7c" sha1="23100e72307442260afe3558517b403c0efda553"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 16).bin" size="13507536" crc="a74cb9d2" md5="5cb9288f7bbb3cb9143de52b0c78f7a6" sha1="a45fc310f2ce0c1fe5e5f6a100698e390a1b231d"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 17).bin" size="11150832" crc="dab6ffa8" md5="287113716baf6bf635146bb8cfb8f7cc" sha1="b923bd780663cb7021531704ca6a4f2e2938a5d2"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 18).bin" size="16981440" crc="b6b208dd" md5="67c978c7f59d79f2a60643c02c19763a" sha1="97af955f22127bbbe1018c37c0813fead88c8776"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 19).bin" size="12754896" crc="1e71c526" md5="6b17de903cbdb006350d2baa4ef3e8fb" sha1="248f27b187da93a4ec8d00087929da6b68116eac"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 20).bin" size="21483168" crc="7c442b8e" md5="4b9d06e2df655d832673201a39f238d4" sha1="c23c4372d0e0f59f6d960a258fe72c6d69b1d29b"/>
+		<rom name="Gundam the Battle Master (Japan, Asia) (Track 21).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 	</game>
 	<game name="I.Q - Intelligent Qube (USA)">
 		<category>Games</category>
@@ -38890,51 +38890,51 @@
 		<rom name="Family Connection - A Guide to Lightspan (USA).cue" size="112" crc="dc0a02ae" md5="eb47640ef14599d3de5ffacf2bf789dc" sha1="c9ac7316f0b7cb3b5d75e476400c891fb8a46c49"/>
 		<rom name="Family Connection - A Guide to Lightspan (USA).bin" size="696438960" crc="00be32f5" md5="2c5478b4e392c9244677fa1a51a3c0ec" sha1="f9166737dcb65cc2cf10ec52a972da291f5f4653"/>
 	</game>
-	<game name="King of Fighters '96, The (Japan)">
+	<game name="King of Fighters '96, The (Japan, Asia)">
 		<category>Games</category>
-		<description>King of Fighters '96, The (Japan)</description>
-		<rom name="King of Fighters '96, The (Japan).cue" size="5230" crc="c0c6da91" md5="f651b5e798bf82761f10b8b96c50fe0a" sha1="17ae4e6a629f563605837df4e9e83a08e9071aa4"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 01).bin" size="40696656" crc="488d1a52" md5="2ce81d2d138eebcd36df4f0a22852de7" sha1="b95eef854a98c028ef338d069010d71b3081dc17"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 02).bin" size="7519344" crc="a265682b" md5="b31ef22975cba5c11976dc853a31041e" sha1="b68abf0a9cd92b341efe5b4e44f01600086f4bca"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 03).bin" size="21525504" crc="141a4c79" md5="8c62c005b7f7a85a58fa83f4f3fdda62" sha1="a053475ed581e2e497476b959281843b6225f945"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 04).bin" size="14431872" crc="bbacb123" md5="e62f9e4ba6b11c8e10da49491c36a5fc" sha1="b3424c0c54739e0ad910cba9b307ac52c2d7b875"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 05).bin" size="21513744" crc="ea5e2516" md5="458969601cb5e7cac5a1750441d4ecec" sha1="bc98148b46186a5e1fd903886461e08b71f84d03"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 06).bin" size="15278592" crc="8e363b36" md5="0e39f9905a6df3219ff81ccc5825ff19" sha1="4af0199b5fd79293864998d80b69be8d7fdf2538"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 07).bin" size="21523152" crc="3f58c6bb" md5="0673bc72ebabc20d922ce2db77d6789e" sha1="a180831947d813bda3af9307e3adbedc232ed812"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 08).bin" size="15436176" crc="6b6a4271" md5="2f424da40eced7ec180f59b6954f11ab" sha1="ffe1e0ab4d47d9b573ba47bd396eded313fe40d3"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 09).bin" size="21523152" crc="9beef2fa" md5="81c2bda48cebd77729f25948fe226e03" sha1="5b5bcf4d9583bb77deac8625b1cff5d3682ad188"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 10).bin" size="16367568" crc="543789a9" md5="b2e76f3506f716abc05ca39ae51bb254" sha1="34e100e4b5781816be0a153b19527c9fa81ce58c"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 11).bin" size="21612528" crc="4d90ec9a" md5="edd1756ce705b8e0d5ba3f6e635a47b5" sha1="af7cfc7dac47eef08ab005e34bb2bba643a743f7"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 12).bin" size="15360912" crc="52175241" md5="59309fa38b86d8cb34f5dc11932114e1" sha1="f2ebbb2bddcc0f9bb79badd330fbb5a8bf5dcbf9"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 13).bin" size="21504336" crc="5417910e" md5="6b54d38de56f4d24ddc3834ac309eece" sha1="706547dd872fee9877a00af544d9cee0dfa798b4"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 14).bin" size="17061408" crc="398f4a9a" md5="98d3d242b62ee6efc4151948e69d1d4c" sha1="e18704d149524ea5211ba721d789e0ca8e8aac67"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 15).bin" size="8660064" crc="867b6882" md5="d80c40747f2b7661b5287b98deabae1a" sha1="01c23d1e96ea9b54dccf7d4ff318c11e1c4883dc"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 16).bin" size="1575840" crc="2051f0eb" md5="3756d25246e131720240b8189f18f85d" sha1="e3c4627d1e7505f9e8a90714151708edce51236b"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 17).bin" size="5847072" crc="5a1a0e5c" md5="c94a387c2593ecacff83f26df7420fde" sha1="8ad6de1808b51aaa46d3b27a291d36b391b7dde2"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 18).bin" size="1143072" crc="a37d2e26" md5="7fa183a66daf930b0c70044e63b8c93f" sha1="676004d8b432f7fa91a62135805e0de5ae188a00"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 19).bin" size="21647808" crc="c48c833c" md5="81c944221f6b864b894b3152a8758e28" sha1="8ea2691ddce1ef5b3284516f19ccc8f87317077c"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 20).bin" size="15476160" crc="6e7c3311" md5="505da1305dedfe0a0c30ebbf8709bbb1" sha1="0ddcae6c51fa2aa76e6cbf970a80f0214478ac31"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 21).bin" size="21523152" crc="2e74e02f" md5="d18388af462876f456f5bd085a39770c" sha1="c53a92da5043b326b2d6925b94411835f4904a9d"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 22).bin" size="15748992" crc="97e014e8" md5="c07be6ff0bcdcce69d2c73fb0de278f8" sha1="5715b9738ad0dae45bbf3266be2fcf6b79c610be"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 23).bin" size="21518448" crc="f8cda2f4" md5="efb0e0387a0c48fe0c7f713b84f2a80e" sha1="3e64513e296a6887902b82c5d0670cb46c237e4f"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 24).bin" size="15172752" crc="c072d7af" md5="9cc42d0a9fb87594b95546f1753b7c60" sha1="620273af077aa344fefec11a8d4eaed10b0d59c1"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 25).bin" size="21506688" crc="3f2a2ca8" md5="ff0b3b30dc288beb7918df1412e33934" sha1="6e7fcc3f2c983b03242b5d4b24223e9d509a16d9"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 26).bin" size="15172752" crc="1fb48179" md5="9b2fe22f72b835f60e0db994f03a1d13" sha1="589c42f4016d2232b625728096f5b61280b8d674"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 27).bin" size="22692096" crc="72227a0a" md5="d43adba63e0e0d3ef45cc545908e6b4d" sha1="7eaf96be8e9457b16f14c114e439a78ee28722e9"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 28).bin" size="14996352" crc="61d351ee" md5="77e958aa7d6ef282655a82ceda8e44ff" sha1="cb872e6a327985829f2c59b8aa38731032555752"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 29).bin" size="12921888" crc="2f8b2d7c" md5="27010c1fe9d215845c1e1e9763bc1f4b" sha1="66b6643f42db0047d61bd496ff4fe96c8d6985be"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 30).bin" size="23477664" crc="6f849491" md5="7038a6372c7ab415c89466a24d9824bf" sha1="dfdd3a03c93085e04d2165f66f9966182c2d11b8"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 31).bin" size="15172752" crc="b8a5b19e" md5="17935be45188ee3cdfbfb8edbc5e4083" sha1="131dc70038d6a20fc2ac182ac6dff8f0b1419cb8"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 32).bin" size="17872848" crc="cc20228c" md5="3d3408fcdc6f1a0e6981c8b6ab7ea3ea" sha1="5fd55f151c1713fdd9785aaf8fe5735455fe7798"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 33).bin" size="21518448" crc="3b60c185" md5="aa091a17d60280047f00a2df039a5374" sha1="ca13c8f341afc065043a07ea9c7f23e400f515c0"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 34).bin" size="15172752" crc="4e01e8db" md5="68eb0267747d1e4b3dd346994d4860da" sha1="9f275e9d6db08dfc2f3ef35e73d343debb394124"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 35).bin" size="16776816" crc="896d51dd" md5="f123f1d8710fd3908a16aabd36a9f140" sha1="b751e0bedb76217b8631cc56d4486d2350289c31"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 36).bin" size="15360912" crc="01340781" md5="23814d21e30e82e82e866000cb0288f1" sha1="be8e9a556b7c1101971f684cac7b2ec87d70a68c"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 37).bin" size="16391088" crc="3eed4b7b" md5="97440c31ae364a83cb9beb75019db3b0" sha1="7a155873949102eea88bb1c2a4fb42be6fc1ba15"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 38).bin" size="14751744" crc="6783ad39" md5="c887c02742f8dd85567ca7d1d8209783" sha1="3744abdb45b3d184565eb0e27b7f381f38448454"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 39).bin" size="20911632" crc="de8cdfaf" md5="1f958dbdd36e5c086ef7dc445ec2a435" sha1="9518d96981971769cfe083c4090f551c02a4b9cf"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 40).bin" size="24484320" crc="72e9b2df" md5="b443f800e094f316ff5e7ef7e0159215" sha1="b88a3cd967df683b637adc39253775db2ea7b80a"/>
-		<rom name="King of Fighters '96, The (Japan) (Track 41).bin" size="49636608" crc="bdbc889e" md5="0a37295686451c786651d83f216e50cc" sha1="5d795eaa088a4023b1d8504604b45da7108f23b1"/>
+		<description>King of Fighters '96, The (Japan, Asia)</description>
+		<rom name="King of Fighters '96, The (Japan, Asia).cue" size="5476" crc="4e7ece98" md5="ee89c13e1bc021c0ede69938ea763d22" sha1="523af7af88b7bf514ca2b4494b407e1a11b301e6"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 01).bin" size="40696656" crc="488d1a52" md5="2ce81d2d138eebcd36df4f0a22852de7" sha1="b95eef854a98c028ef338d069010d71b3081dc17"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 02).bin" size="7519344" crc="a265682b" md5="b31ef22975cba5c11976dc853a31041e" sha1="b68abf0a9cd92b341efe5b4e44f01600086f4bca"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 03).bin" size="21525504" crc="141a4c79" md5="8c62c005b7f7a85a58fa83f4f3fdda62" sha1="a053475ed581e2e497476b959281843b6225f945"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 04).bin" size="14431872" crc="bbacb123" md5="e62f9e4ba6b11c8e10da49491c36a5fc" sha1="b3424c0c54739e0ad910cba9b307ac52c2d7b875"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 05).bin" size="21513744" crc="ea5e2516" md5="458969601cb5e7cac5a1750441d4ecec" sha1="bc98148b46186a5e1fd903886461e08b71f84d03"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 06).bin" size="15278592" crc="8e363b36" md5="0e39f9905a6df3219ff81ccc5825ff19" sha1="4af0199b5fd79293864998d80b69be8d7fdf2538"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 07).bin" size="21523152" crc="3f58c6bb" md5="0673bc72ebabc20d922ce2db77d6789e" sha1="a180831947d813bda3af9307e3adbedc232ed812"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 08).bin" size="15436176" crc="6b6a4271" md5="2f424da40eced7ec180f59b6954f11ab" sha1="ffe1e0ab4d47d9b573ba47bd396eded313fe40d3"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 09).bin" size="21523152" crc="9beef2fa" md5="81c2bda48cebd77729f25948fe226e03" sha1="5b5bcf4d9583bb77deac8625b1cff5d3682ad188"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 10).bin" size="16367568" crc="543789a9" md5="b2e76f3506f716abc05ca39ae51bb254" sha1="34e100e4b5781816be0a153b19527c9fa81ce58c"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 11).bin" size="21612528" crc="4d90ec9a" md5="edd1756ce705b8e0d5ba3f6e635a47b5" sha1="af7cfc7dac47eef08ab005e34bb2bba643a743f7"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 12).bin" size="15360912" crc="52175241" md5="59309fa38b86d8cb34f5dc11932114e1" sha1="f2ebbb2bddcc0f9bb79badd330fbb5a8bf5dcbf9"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 13).bin" size="21504336" crc="5417910e" md5="6b54d38de56f4d24ddc3834ac309eece" sha1="706547dd872fee9877a00af544d9cee0dfa798b4"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 14).bin" size="17061408" crc="398f4a9a" md5="98d3d242b62ee6efc4151948e69d1d4c" sha1="e18704d149524ea5211ba721d789e0ca8e8aac67"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 15).bin" size="8660064" crc="867b6882" md5="d80c40747f2b7661b5287b98deabae1a" sha1="01c23d1e96ea9b54dccf7d4ff318c11e1c4883dc"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 16).bin" size="1575840" crc="2051f0eb" md5="3756d25246e131720240b8189f18f85d" sha1="e3c4627d1e7505f9e8a90714151708edce51236b"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 17).bin" size="5847072" crc="5a1a0e5c" md5="c94a387c2593ecacff83f26df7420fde" sha1="8ad6de1808b51aaa46d3b27a291d36b391b7dde2"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 18).bin" size="1143072" crc="a37d2e26" md5="7fa183a66daf930b0c70044e63b8c93f" sha1="676004d8b432f7fa91a62135805e0de5ae188a00"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 19).bin" size="21647808" crc="c48c833c" md5="81c944221f6b864b894b3152a8758e28" sha1="8ea2691ddce1ef5b3284516f19ccc8f87317077c"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 20).bin" size="15476160" crc="6e7c3311" md5="505da1305dedfe0a0c30ebbf8709bbb1" sha1="0ddcae6c51fa2aa76e6cbf970a80f0214478ac31"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 21).bin" size="21523152" crc="2e74e02f" md5="d18388af462876f456f5bd085a39770c" sha1="c53a92da5043b326b2d6925b94411835f4904a9d"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 22).bin" size="15748992" crc="97e014e8" md5="c07be6ff0bcdcce69d2c73fb0de278f8" sha1="5715b9738ad0dae45bbf3266be2fcf6b79c610be"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 23).bin" size="21518448" crc="f8cda2f4" md5="efb0e0387a0c48fe0c7f713b84f2a80e" sha1="3e64513e296a6887902b82c5d0670cb46c237e4f"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 24).bin" size="15172752" crc="c072d7af" md5="9cc42d0a9fb87594b95546f1753b7c60" sha1="620273af077aa344fefec11a8d4eaed10b0d59c1"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 25).bin" size="21506688" crc="3f2a2ca8" md5="ff0b3b30dc288beb7918df1412e33934" sha1="6e7fcc3f2c983b03242b5d4b24223e9d509a16d9"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 26).bin" size="15172752" crc="1fb48179" md5="9b2fe22f72b835f60e0db994f03a1d13" sha1="589c42f4016d2232b625728096f5b61280b8d674"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 27).bin" size="22692096" crc="72227a0a" md5="d43adba63e0e0d3ef45cc545908e6b4d" sha1="7eaf96be8e9457b16f14c114e439a78ee28722e9"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 28).bin" size="14996352" crc="61d351ee" md5="77e958aa7d6ef282655a82ceda8e44ff" sha1="cb872e6a327985829f2c59b8aa38731032555752"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 29).bin" size="12921888" crc="2f8b2d7c" md5="27010c1fe9d215845c1e1e9763bc1f4b" sha1="66b6643f42db0047d61bd496ff4fe96c8d6985be"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 30).bin" size="23477664" crc="6f849491" md5="7038a6372c7ab415c89466a24d9824bf" sha1="dfdd3a03c93085e04d2165f66f9966182c2d11b8"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 31).bin" size="15172752" crc="b8a5b19e" md5="17935be45188ee3cdfbfb8edbc5e4083" sha1="131dc70038d6a20fc2ac182ac6dff8f0b1419cb8"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 32).bin" size="17872848" crc="cc20228c" md5="3d3408fcdc6f1a0e6981c8b6ab7ea3ea" sha1="5fd55f151c1713fdd9785aaf8fe5735455fe7798"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 33).bin" size="21518448" crc="3b60c185" md5="aa091a17d60280047f00a2df039a5374" sha1="ca13c8f341afc065043a07ea9c7f23e400f515c0"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 34).bin" size="15172752" crc="4e01e8db" md5="68eb0267747d1e4b3dd346994d4860da" sha1="9f275e9d6db08dfc2f3ef35e73d343debb394124"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 35).bin" size="16776816" crc="896d51dd" md5="f123f1d8710fd3908a16aabd36a9f140" sha1="b751e0bedb76217b8631cc56d4486d2350289c31"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 36).bin" size="15360912" crc="01340781" md5="23814d21e30e82e82e866000cb0288f1" sha1="be8e9a556b7c1101971f684cac7b2ec87d70a68c"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 37).bin" size="16391088" crc="3eed4b7b" md5="97440c31ae364a83cb9beb75019db3b0" sha1="7a155873949102eea88bb1c2a4fb42be6fc1ba15"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 38).bin" size="14751744" crc="6783ad39" md5="c887c02742f8dd85567ca7d1d8209783" sha1="3744abdb45b3d184565eb0e27b7f381f38448454"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 39).bin" size="20911632" crc="de8cdfaf" md5="1f958dbdd36e5c086ef7dc445ec2a435" sha1="9518d96981971769cfe083c4090f551c02a4b9cf"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 40).bin" size="24484320" crc="72e9b2df" md5="b443f800e094f316ff5e7ef7e0159215" sha1="b88a3cd967df683b637adc39253775db2ea7b80a"/>
+		<rom name="King of Fighters '96, The (Japan, Asia) (Track 41).bin" size="49636608" crc="bdbc889e" md5="0a37295686451c786651d83f216e50cc" sha1="5d795eaa088a4023b1d8504604b45da7108f23b1"/>
 	</game>
 	<game name="King of Fighters '95, The (Japan)">
 		<category>Games</category>
@@ -39019,12 +39019,12 @@
 		<rom name="NBA Live 2003 (USA).cue" size="85" crc="05e90688" md5="adb2ee0d4739f00c59808457e071d8f9" sha1="0f2264800e09782e7155a57c5a532598f975f2dc"/>
 		<rom name="NBA Live 2003 (USA).bin" size="538622112" crc="87f3115d" md5="adc7b5c055b21ed7fcabfce2cb41f63a" sha1="a9b79a5ef494608a46a637ee8a9470da23f82643"/>
 	</game>
-	<game name="King of Fighters '99, The (Japan)">
+	<game name="King of Fighters '99, The (Japan, Asia)">
 		<category>Games</category>
-		<description>King of Fighters '99, The (Japan)</description>
-		<rom name="King of Fighters '99, The (Japan).cue" size="236" crc="4e3cefaf" md5="b19e308e844baa2348e9bb2f15640adf" sha1="565cbc58e8d0e415ab0a6c96e05fa1408a8cbc4a"/>
-		<rom name="King of Fighters '99, The (Japan) (Track 1).bin" size="248928624" crc="b1904aa4" md5="f92e5285a33f968278bb156a48cf6abe" sha1="a4e5e1b51807c52f9a002a7d4c283cd4b805bde7"/>
-		<rom name="King of Fighters '99, The (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+		<description>King of Fighters '99, The (Japan, Asia)</description>
+		<rom name="King of Fighters '99, The (Japan, Asia).cue" size="248" crc="b41fe6d1" md5="6fccf2152933de182b1d2ae1a9681b65" sha1="dcf051bfca87a3893013a4d74c7f8cbd8862246c"/>
+		<rom name="King of Fighters '99, The (Japan, Asia) (Track 1).bin" size="248928624" crc="b1904aa4" md5="f92e5285a33f968278bb156a48cf6abe" sha1="a4e5e1b51807c52f9a002a7d4c283cd4b805bde7"/>
+		<rom name="King of Fighters '99, The (Japan, Asia) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 	</game>
 	<game name="A-Train - Trains, Power, Money (USA) (En,Ja,Fr,De)">
 		<category>Games</category>
@@ -68106,29 +68106,29 @@
 		<rom name="Station 3 (Europe) (Track 1).bin" size="707773248" crc="57adcaf5" md5="a953b3f7265331bc123b21e935958c5c" sha1="df88673793adab734ec798c58f489319d0da0769"/>
 		<rom name="Station 3 (Europe) (Track 2).bin" size="42956928" crc="e1471ad7" md5="5043a3cdc409952003c195873beecb13" sha1="e41364c6cbb0d7c4810d36d63b850dd7ece6af18"/>
 	</game>
-	<game name="Destruction Derby 2 (Japan)">
+	<game name="Destruction Derby 2 (Japan, Asia)">
 		<category>Games</category>
-		<description>Destruction Derby 2 (Japan)</description>
-		<rom name="Destruction Derby 2 (Japan).cue" size="2300" crc="621e260f" md5="d4f320f9c4576e92a4b99cdf99b6e6d8" sha1="258e1fd9e78f5a64dbcd5a1850211b56cea0227f"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 01).bin" size="73337712" crc="3b69e18d" md5="f1cb58bf9af8779ca35faa4bc97234b5" sha1="1cbc7211e6c9ade4be08342299bc2d3deaae8b9e"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 02).bin" size="29176560" crc="4b561912" md5="ab58a8bdfad64bf1c1c90a689deef8d0" sha1="034fd65b900f5bc220d020610667de6d208229cf"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 03).bin" size="40630800" crc="0940876a" md5="36d44044ca3d2193b130adf961fc6dfc" sha1="d68cf9531668879c0a39a176126f8dbaaeb9e5af"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 04).bin" size="39454800" crc="061788f0" md5="2baa24408e76f205eb6e82dab9271723" sha1="ad17cf9bc9ea9ea897394b803a2214d06e5e002e"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 05).bin" size="29698704" crc="6cbb0ac1" md5="059f7540bcc9dbdf22de84a67759e3c0" sha1="1f3f3f50fe709c452f788ac9cff77293bfc49f75"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 06).bin" size="29741040" crc="1ada3526" md5="3c7d5500b191929dafb3740384280c4b" sha1="2957311b95477dc44b39de4b2f1f628198c9cd26"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 07).bin" size="24032736" crc="9132f650" md5="5343198a1b8f0a2ed678a24a0db6505d" sha1="b6f6dfc0cc04bdcc74aa7b7b4e94dd7a000b9013"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 08).bin" size="37862496" crc="87c0a581" md5="f2708cc0700335ec7df05fa3da92e0cc" sha1="fc1054ef011857c8c29e88a1305b2050acd2d5c7"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 09).bin" size="40139232" crc="29b02604" md5="fed98ee1ab88e3cea56c1f3b94fb708e" sha1="9540965bcb658b974a7a060a9ee48ef522bbca34"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 10).bin" size="37239216" crc="3978643f" md5="c930bdbf8a2d87e93b27a8d3993f0ce4" sha1="d457f5b53512c4b3a2a608ca8208b4f3c3c64248"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 11).bin" size="19984944" crc="d4c8a3d7" md5="5487ca0cd085222547bd8789357b2485" sha1="56c23a1d08ad96db1f6cae19555c96ee7639fcc9"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 12).bin" size="17494176" crc="b0a98d30" md5="7f424ab16d7ede3a53f005025df79172" sha1="4e1e0184ec092a70ce5ec7c809323cfb4c5781f8"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 13).bin" size="30578352" crc="5e3afd2e" md5="08ec9a49f73171d932a03eba626fd87b" sha1="2a679d28a0c1abf710335f7ddecb7cfe23d00ae4"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 14).bin" size="63130032" crc="e87c5d1e" md5="f03ac5595741efa5710433b8eff4da89" sha1="aa437ebca436c47d8be618774da2383096838600"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 15).bin" size="19921440" crc="9a64e619" md5="9ef039d1b4057cb7ac1a897364e590d7" sha1="041590e68071440eb11b617ea032bd852b042a02"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 16).bin" size="12778416" crc="72c21bae" md5="bb5f60e4387cb3e204bd336223211cb8" sha1="e20c9883d1d3462b7a231b663d6a76978e9262d9"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 17).bin" size="36333696" crc="f5fd7e95" md5="75abe899d1372e1433648080f6c1ac23" sha1="89782d4a64c20e4b9996834010132533d23f79bc"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 18).bin" size="32848032" crc="b9b39082" md5="3237b105a2c8106d468ad39fb818ba58" sha1="b46f101a84785e9621d04c83f2ee2492473d4062"/>
-		<rom name="Destruction Derby 2 (Japan) (Track 19).bin" size="36211392" crc="bf8a1413" md5="0d2f7c89a749db9a03302b86e25270c2" sha1="947710b363989f36d424c622d7c8374fa4848755"/>
+		<description>Destruction Derby 2 (Japan, Asia)</description>
+		<rom name="Destruction Derby 2 (Japan, Asia).cue" size="2414" crc="3cb84a41" md5="02bd169b51ae7ae8adb03782fbbcf006" sha1="b4b9a24d7d37e1d3d9471c9d356212d36c2b65ba"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 01).bin" size="73337712" crc="3b69e18d" md5="f1cb58bf9af8779ca35faa4bc97234b5" sha1="1cbc7211e6c9ade4be08342299bc2d3deaae8b9e"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 02).bin" size="29176560" crc="4b561912" md5="ab58a8bdfad64bf1c1c90a689deef8d0" sha1="034fd65b900f5bc220d020610667de6d208229cf"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 03).bin" size="40630800" crc="0940876a" md5="36d44044ca3d2193b130adf961fc6dfc" sha1="d68cf9531668879c0a39a176126f8dbaaeb9e5af"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 04).bin" size="39454800" crc="061788f0" md5="2baa24408e76f205eb6e82dab9271723" sha1="ad17cf9bc9ea9ea897394b803a2214d06e5e002e"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 05).bin" size="29698704" crc="6cbb0ac1" md5="059f7540bcc9dbdf22de84a67759e3c0" sha1="1f3f3f50fe709c452f788ac9cff77293bfc49f75"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 06).bin" size="29741040" crc="1ada3526" md5="3c7d5500b191929dafb3740384280c4b" sha1="2957311b95477dc44b39de4b2f1f628198c9cd26"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 07).bin" size="24032736" crc="9132f650" md5="5343198a1b8f0a2ed678a24a0db6505d" sha1="b6f6dfc0cc04bdcc74aa7b7b4e94dd7a000b9013"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 08).bin" size="37862496" crc="87c0a581" md5="f2708cc0700335ec7df05fa3da92e0cc" sha1="fc1054ef011857c8c29e88a1305b2050acd2d5c7"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 09).bin" size="40139232" crc="29b02604" md5="fed98ee1ab88e3cea56c1f3b94fb708e" sha1="9540965bcb658b974a7a060a9ee48ef522bbca34"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 10).bin" size="37239216" crc="3978643f" md5="c930bdbf8a2d87e93b27a8d3993f0ce4" sha1="d457f5b53512c4b3a2a608ca8208b4f3c3c64248"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 11).bin" size="19984944" crc="d4c8a3d7" md5="5487ca0cd085222547bd8789357b2485" sha1="56c23a1d08ad96db1f6cae19555c96ee7639fcc9"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 12).bin" size="17494176" crc="b0a98d30" md5="7f424ab16d7ede3a53f005025df79172" sha1="4e1e0184ec092a70ce5ec7c809323cfb4c5781f8"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 13).bin" size="30578352" crc="5e3afd2e" md5="08ec9a49f73171d932a03eba626fd87b" sha1="2a679d28a0c1abf710335f7ddecb7cfe23d00ae4"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 14).bin" size="63130032" crc="e87c5d1e" md5="f03ac5595741efa5710433b8eff4da89" sha1="aa437ebca436c47d8be618774da2383096838600"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 15).bin" size="19921440" crc="9a64e619" md5="9ef039d1b4057cb7ac1a897364e590d7" sha1="041590e68071440eb11b617ea032bd852b042a02"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 16).bin" size="12778416" crc="72c21bae" md5="bb5f60e4387cb3e204bd336223211cb8" sha1="e20c9883d1d3462b7a231b663d6a76978e9262d9"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 17).bin" size="36333696" crc="f5fd7e95" md5="75abe899d1372e1433648080f6c1ac23" sha1="89782d4a64c20e4b9996834010132533d23f79bc"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 18).bin" size="32848032" crc="b9b39082" md5="3237b105a2c8106d468ad39fb818ba58" sha1="b46f101a84785e9621d04c83f2ee2492473d4062"/>
+		<rom name="Destruction Derby 2 (Japan, Asia) (Track 19).bin" size="36211392" crc="bf8a1413" md5="0d2f7c89a749db9a03302b86e25270c2" sha1="947710b363989f36d424c622d7c8374fa4848755"/>
 	</game>
 	<game name="Haunted Junction - Seitokai Badge o Oe! (Japan)">
 		<category>Games</category>
@@ -71722,24 +71722,24 @@
 		<rom name="Goemon - Shin Sedai Shuumei (Japan) (Track 1).bin" size="578302704" crc="1cec71c9" md5="818575b178db167b88d8f823266d770d" sha1="e59b5b39ff3fde8359ba649cb5c2861b17fbb18e"/>
 		<rom name="Goemon - Shin Sedai Shuumei (Japan) (Track 2).bin" size="35632800" crc="e04b33be" md5="5077c51b199bba566c19674f3bd71268" sha1="211e908b122ad42b6346855242571c75293200a0"/>
 	</game>
-	<game name="JetMoto (Japan)">
+	<game name="JetMoto (Japan, Asia)">
 		<category>Games</category>
-		<description>JetMoto (Japan)</description>
-		<rom name="JetMoto (Japan).cue" size="1522" crc="b1421b5b" md5="41f257c7ecfd526323f042c6a025fa44" sha1="41d906fd2d2ad7d8ffaf77f7872d59902408c88b"/>
-		<rom name="JetMoto (Japan) (Track 01).bin" size="80501904" crc="dae144a6" md5="4fd35fad7463adfc16765c319a53a865" sha1="a768d62a6b1f958f4a79d5d9a2aee4690647cbf7"/>
-		<rom name="JetMoto (Japan) (Track 02).bin" size="30634800" crc="1e94b52e" md5="1f8db3721ee7251ae6652d1c3c980ddb" sha1="a6ce11bb1053ccb03ce47d729d879ef3e665c77b"/>
-		<rom name="JetMoto (Japan) (Track 03).bin" size="32504640" crc="44d99a87" md5="708eeb8932152e698cea3690f8dc9b94" sha1="e752ba3c335fd9dfaf5d116b30e575ed95ac7d10"/>
-		<rom name="JetMoto (Japan) (Track 04).bin" size="32598720" crc="7bfc782f" md5="b3c289e0d9c015e531291c50588e1a85" sha1="d5b0421078f33b2d99199a79eade1807fd1f8da6"/>
-		<rom name="JetMoto (Japan) (Track 05).bin" size="30439584" crc="ca4faaa0" md5="0fd77310f77d5cf5722f32df228789f5" sha1="f06ac4b92082777effb463e2d4cb37617d1a5cd2"/>
-		<rom name="JetMoto (Japan) (Track 06).bin" size="33584208" crc="20168bc4" md5="84de13e6e920d416e7981b2561152d0a" sha1="92283aa9c24219d1cff9ad2d8140dee8533ff550"/>
-		<rom name="JetMoto (Japan) (Track 07).bin" size="30674784" crc="d19d5745" md5="db8e73ff286ca66509f317c80be92acb" sha1="63d36cb3ebdfb0f9c510a87cc2de05e747ec8c8c"/>
-		<rom name="JetMoto (Japan) (Track 08).bin" size="31975440" crc="8150fb5e" md5="12baf66088fcdd0c024c330e813fc57c" sha1="e9bb1fbf0a5631c0eef14f0ac6d7f0bbf7d30e74"/>
-		<rom name="JetMoto (Japan) (Track 09).bin" size="32010720" crc="62371eaf" md5="f48e16f5f34616777d55294c39d723f9" sha1="60c9d606add49b7f2bd5af7728d2ae096284248b"/>
-		<rom name="JetMoto (Japan) (Track 10).bin" size="29209488" crc="b9aaba99" md5="dadf4c7b34e67dd32b86138530b8b3f0" sha1="e4e2a94982f65b58b4a9ef48d4667f09256b347e"/>
-		<rom name="JetMoto (Japan) (Track 11).bin" size="32165952" crc="3a019bcb" md5="541d224ff0d617c966cf3b2b2a1870f6" sha1="3c8f4816e4836481f36f96588ab2749f6ac54696"/>
-		<rom name="JetMoto (Japan) (Track 12).bin" size="5442528" crc="feea8858" md5="b91980e5abebfc5a89d5cb39acea74d5" sha1="24059b6c66d5e7f4f94d7b5f1d6264fe74a6dc49"/>
-		<rom name="JetMoto (Japan) (Track 13).bin" size="5259072" crc="e9e05433" md5="314c97998d353b5f484dbf493ae1a4f0" sha1="f26645131616491f590377585b5890d8b0ebb9f8"/>
-		<rom name="JetMoto (Japan) (Track 14).bin" size="32010720" crc="bc743322" md5="4f3b863445ca2478668d52811f5b106c" sha1="81e730971edd4a3ff43039b0e1b91ecc5b346400"/>
+		<description>JetMoto (Japan, Asia)</description>
+		<rom name="JetMoto (Japan, Asia).cue" size="1606" crc="234af69e" md5="ac976d44dc1ae5c42d72f16a887552ed" sha1="d2f2659b108400f1b3b34596c7d9499483cd4dbd"/>
+		<rom name="JetMoto (Japan, Asia) (Track 01).bin" size="80501904" crc="dae144a6" md5="4fd35fad7463adfc16765c319a53a865" sha1="a768d62a6b1f958f4a79d5d9a2aee4690647cbf7"/>
+		<rom name="JetMoto (Japan, Asia) (Track 02).bin" size="30634800" crc="1e94b52e" md5="1f8db3721ee7251ae6652d1c3c980ddb" sha1="a6ce11bb1053ccb03ce47d729d879ef3e665c77b"/>
+		<rom name="JetMoto (Japan, Asia) (Track 03).bin" size="32504640" crc="44d99a87" md5="708eeb8932152e698cea3690f8dc9b94" sha1="e752ba3c335fd9dfaf5d116b30e575ed95ac7d10"/>
+		<rom name="JetMoto (Japan, Asia) (Track 04).bin" size="32598720" crc="7bfc782f" md5="b3c289e0d9c015e531291c50588e1a85" sha1="d5b0421078f33b2d99199a79eade1807fd1f8da6"/>
+		<rom name="JetMoto (Japan, Asia) (Track 05).bin" size="30439584" crc="ca4faaa0" md5="0fd77310f77d5cf5722f32df228789f5" sha1="f06ac4b92082777effb463e2d4cb37617d1a5cd2"/>
+		<rom name="JetMoto (Japan, Asia) (Track 06).bin" size="33584208" crc="20168bc4" md5="84de13e6e920d416e7981b2561152d0a" sha1="92283aa9c24219d1cff9ad2d8140dee8533ff550"/>
+		<rom name="JetMoto (Japan, Asia) (Track 07).bin" size="30674784" crc="d19d5745" md5="db8e73ff286ca66509f317c80be92acb" sha1="63d36cb3ebdfb0f9c510a87cc2de05e747ec8c8c"/>
+		<rom name="JetMoto (Japan, Asia) (Track 08).bin" size="31975440" crc="8150fb5e" md5="12baf66088fcdd0c024c330e813fc57c" sha1="e9bb1fbf0a5631c0eef14f0ac6d7f0bbf7d30e74"/>
+		<rom name="JetMoto (Japan, Asia) (Track 09).bin" size="32010720" crc="62371eaf" md5="f48e16f5f34616777d55294c39d723f9" sha1="60c9d606add49b7f2bd5af7728d2ae096284248b"/>
+		<rom name="JetMoto (Japan, Asia) (Track 10).bin" size="29209488" crc="b9aaba99" md5="dadf4c7b34e67dd32b86138530b8b3f0" sha1="e4e2a94982f65b58b4a9ef48d4667f09256b347e"/>
+		<rom name="JetMoto (Japan, Asia) (Track 11).bin" size="32165952" crc="3a019bcb" md5="541d224ff0d617c966cf3b2b2a1870f6" sha1="3c8f4816e4836481f36f96588ab2749f6ac54696"/>
+		<rom name="JetMoto (Japan, Asia) (Track 12).bin" size="5442528" crc="feea8858" md5="b91980e5abebfc5a89d5cb39acea74d5" sha1="24059b6c66d5e7f4f94d7b5f1d6264fe74a6dc49"/>
+		<rom name="JetMoto (Japan, Asia) (Track 13).bin" size="5259072" crc="e9e05433" md5="314c97998d353b5f484dbf493ae1a4f0" sha1="f26645131616491f590377585b5890d8b0ebb9f8"/>
+		<rom name="JetMoto (Japan, Asia) (Track 14).bin" size="32010720" crc="bc743322" md5="4f3b863445ca2478668d52811f5b106c" sha1="81e730971edd4a3ff43039b0e1b91ecc5b346400"/>
 	</game>
 	<game name="Trump Shiyou yo! (Japan) (Fukkokuban)">
 		<category>Games</category>
@@ -75214,11 +75214,11 @@
 		<rom name="Hissatsu Pachinko Station Now 8 - Jarinko Chie (Japan).cue" size="120" crc="646c7106" md5="140098396f95c569360674e0d03ec059" sha1="282069601941291a5b6aee1e3e16f20a8b35a451"/>
 		<rom name="Hissatsu Pachinko Station Now 8 - Jarinko Chie (Japan).bin" size="48947472" crc="c5ea0e22" md5="bd464bc27f72b565cc30994b8d00922b" sha1="61443c6f6aba62552ca5b07ff161228058c4f5ac"/>
 	</game>
-	<game name="Fighters' Impact (Japan)">
+	<game name="Fighters' Impact (Japan, Asia)">
 		<category>Games</category>
-		<description>Fighters' Impact (Japan)</description>
-		<rom name="Fighters' Impact (Japan).cue" size="90" crc="819ec24f" md5="5bd87866c04c784f292575c26ee8610b" sha1="58c0387496ff3e8835730914f44ae8f28e4ce229"/>
-		<rom name="Fighters' Impact (Japan).bin" size="467956272" crc="5127002f" md5="93f39d5ede4405193f14fe0667a65d4f" sha1="21491f356cdbe4753a0d2b7514862dd40af1b38f"/>
+		<description>Fighters' Impact (Japan, Asia)</description>
+		<rom name="Fighters' Impact (Japan, Asia).cue" size="96" crc="6187a87d" md5="195634bc1ffa52abf9a00ec266e5faf8" sha1="20330bb49aac9be9f912fdcda33a41410c732084"/>
+		<rom name="Fighters' Impact (Japan, Asia).bin" size="467956272" crc="5127002f" md5="93f39d5ede4405193f14fe0667a65d4f" sha1="21491f356cdbe4753a0d2b7514862dd40af1b38f"/>
 	</game>
 	<game name="DigimonTamers - PocketCulumon (Japan)">
 		<category>Games</category>
@@ -76512,11 +76512,11 @@
 		<rom name="Spin Tail (Japan).cue" size="83" crc="2376cbe8" md5="65218b8cfd281d9f28bd0c34f295423a" sha1="0ba239cea5d3ace1141bca59be963997e287b0f9"/>
 		<rom name="Spin Tail (Japan).bin" size="264110784" crc="69f19e06" md5="5dc3100230d02181312d98bf9a950928" sha1="dab8e1a44bfb6985e06ca3cfe483860821983b61"/>
 	</game>
-	<game name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan)">
+	<game name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia)">
 		<category>Games</category>
-		<description>Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan)</description>
-		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan).cue" size="140" crc="68b99f15" md5="6dd7572671f0dc4b97f9f9ac47e217e6" sha1="f2ef355b737a4f5638c4e26f47caebe0198ae739"/>
-		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan).bin" size="153211632" crc="62411da4" md5="328be52106a445d493e06804e70d23a8" sha1="dc17d060de10e085cd98af91eebf113de5d0d4b5"/>
+		<description>Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia)</description>
+		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia).cue" size="146" crc="97c7f43e" md5="0347a46f0a2dd219ac5aef6e4107648b" sha1="9009c28603f15b197aab05202213b6bc2c7f962e"/>
+		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia).bin" size="153211632" crc="62411da4" md5="328be52106a445d493e06804e70d23a8" sha1="dc17d060de10e085cd98af91eebf113de5d0d4b5"/>
 	</game>
 	<game name="DigimonTamers - Battle Evolution (Japan)">
 		<category>Games</category>
@@ -81633,11 +81633,11 @@
 		<rom name="Saikyou Ginsei Chess (Japan).cue" size="94" crc="080bbec8" md5="9b75bb7441bbb9f0506926314d4c1e10" sha1="8e1613ef30fbcb3c5b8fb0fa799fe424135fa83b"/>
 		<rom name="Saikyou Ginsei Chess (Japan).bin" size="38671584" crc="26d0aa26" md5="a42c72d7fb1fb14f6c39bf0e3dfac200" sha1="17949ba0b7d55e6cb2da70c98a926a5df47e3a67"/>
 	</game>
-	<game name="Pop'n Pop (Japan)">
+	<game name="Pop'n Pop (Japan, Asia)">
 		<category>Games</category>
-		<description>Pop'n Pop (Japan)</description>
-		<rom name="Pop'n Pop (Japan).cue" size="83" crc="73a96275" md5="3cd72003c91cbc427bf6e06342679734" sha1="ed62266df878a49edf90dc091b6300cd269e663c"/>
-		<rom name="Pop'n Pop (Japan).bin" size="690965856" crc="2e07c99c" md5="3ecf73c44ce8fc15cfe649095fcd6543" sha1="fdb59fbd6bb9cd928e2e97f650e3930e1ca41e82"/>
+		<description>Pop'n Pop (Japan, Asia)</description>
+		<rom name="Pop'n Pop (Japan, Asia).cue" size="89" crc="6ffd7486" md5="d22acb435daaf60a89d8ebecc3121d62" sha1="c71705fb969dabd7510309e5a3735cbcb23ae5f9"/>
+		<rom name="Pop'n Pop (Japan, Asia).bin" size="690965856" crc="2e07c99c" md5="3ecf73c44ce8fc15cfe649095fcd6543" sha1="fdb59fbd6bb9cd928e2e97f650e3930e1ca41e82"/>
 	</game>
 	<game name="Digital Glider Airman (Japan)">
 		<category>Games</category>
