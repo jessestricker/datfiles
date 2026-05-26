@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260517-070407</version>
+		<version>20260525-235300</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -17245,7 +17245,7 @@
 	<game name="Tinhead (World) (Piko Interactive)" id="3979">
 		<category>Games</category>
 		<description>Tinhead (World) (Piko Interactive)</description>
-		<rom name="Tinhead (World) (Piko Interactive).sfc" size="1048576" crc="bfd26228" md5="44d4b21f9bb5f77e31eaa489e02a157c" sha1="90bc3a78bf2569ddbc1efbc612e8915e5b28df04" sha256="07dc47e475219cad193814fd887766060183a247c9d4af529d383188c117f7ee"/>
+		<rom name="Tinhead (World) (Piko Interactive).sfc" size="1048576" crc="bfd26228" md5="44d4b21f9bb5f77e31eaa489e02a157c" sha1="90bc3a78bf2569ddbc1efbc612e8915e5b28df04" sha256="07dc47e475219cad193814fd887766060183a247c9d4af529d383188c117f7ee" status="verified"/>
 	</game>
 	<game name="Tintin in Tibet (Europe) (En,Fr,De,Nl)" id="3072">
 		<category>Games</category>
@@ -19461,6 +19461,12 @@
 		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (Steam)</description>
 		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (Steam).sfc" size="2097152" crc="c19f0876" md5="8cba8604cf93352dbf518592f67204c1" sha1="e6bad5b0708b16d898ba3fe848baa5451824f3aa" sha256="1dc98e4d0f712dc0ac9fe239baec38d252ace5b4407e4422609d39c5b77b5b1e"/>
 	</game>
+	<game name="Bugs Bunny - Rabbit Rampage (USA) (Beta)" id="4600" cloneofid="0359">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bugs Bunny - Rabbit Rampage (USA) (Beta)</description>
+		<rom name="Bugs Bunny - Rabbit Rampage (USA) (Beta).sfc" size="1572864" crc="45c0f127" md5="712638915d4a8c9cdd9fcd18e3a1e159" sha1="efb6b9bf453243ba2c06ef00243b84b425d105a1" sha256="ac1e367d46bde5137f9661e1da75ecd88c93e1cf65df9809bd13e1b0348da55d"/>
+	</game>
 	<game name="Captain Commando (USA) (Capcom Town)" id="4533" cloneofid="0384">
 		<category>Games</category>
 		<description>Captain Commando (USA) (Capcom Town)</description>
@@ -19874,7 +19880,7 @@
 	<game name="Iron Commando (World) (v1.1) (Steam) (NTSC)" id="4277" cloneofid="1158">
 		<category>Games</category>
 		<description>Iron Commando (World) (v1.1) (Steam) (NTSC)</description>
-		<rom name="Iron Commando (World) (v1.1) (Steam) (NTSC).sfc" size="2097152" crc="2d911b58" md5="22e90c68b9d317c4b2afb1c5de4fe67c" sha1="7bcae41459f2ee9cc036b36142cd8f7075e1c3a8" sha256="9c6663a4f524ff3e230c3326ac57eddb519eeb8d22b5ac23e52af3d581dd32cd"/>
+		<rom name="Iron Commando (World) (v1.1) (Steam) (NTSC).sfc" size="2097152" crc="2d911b58" md5="22e90c68b9d317c4b2afb1c5de4fe67c" sha1="7bcae41459f2ee9cc036b36142cd8f7075e1c3a8" sha256="9c6663a4f524ff3e230c3326ac57eddb519eeb8d22b5ac23e52af3d581dd32cd" status="verified"/>
 	</game>
 	<game name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)" id="4559" cloneofid="1181">
 		<category>Games</category>
@@ -20555,6 +20561,12 @@
 		<description>River City Girls Zero (World) (Zh-Hant) (Steam)</description>
 		<rom name="River City Girls Zero (World) (Zh-Hant) (Steam).sfc" size="4194304" crc="b596e496" md5="7c258f8e4c73d9d575025004b144c047" sha1="e763be6a0407c740248cf5b1938339d24d45e41d" sha256="c93d2b39f0ae1d0b1d85c63c417a882fb25a71da2e895f859b1465c49ba49972"/>
 	</game>
+	<game name="RoboCop Versus The Terminator (Europe) (Beta)" id="4599" cloneofid="2162">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RoboCop Versus The Terminator (Europe) (Beta)</description>
+		<rom name="RoboCop Versus The Terminator (Europe) (Beta).sfc" size="1048576" crc="ea706ff1" md5="3bca58ea2882f8a76446a36e1a77e084" sha1="f25d7727e83f1f21ec280dab2eb3185dde1a503e" sha256="6e9d46716e069903e02446146a485de73a6e09da5de1bbe0c015d2d147897018"/>
+	</game>
 	<game name="Rock 'N' Roll Racing (USA) (Demo) (Battle.net)" id="4033" cloneofid="2165">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -20675,6 +20687,11 @@
 		<description>Soccer Kid (World) (En,Fr,De,Es,It) (Evercade)</description>
 		<rom name="Soccer Kid (World) (En,Fr,De,Es,It) (Evercade).sfc" size="1310720" crc="7d2fd6d8" md5="4bb3a4d4652af58b02810b9b9fdbe98d" sha1="b49cfe84c69c81103aa344e843eace7d8514d0ba" sha256="e71da8cd271957899047cb3c8042e7e82ee207a7d44d5e1f04641201024b42ed"/>
 	</game>
+	<game name="Soccer Kid (World) (En,Fr,De,Es,It) (GOG)" id="4597" cloneofid="2394">
+		<category>Games</category>
+		<description>Soccer Kid (World) (En,Fr,De,Es,It) (GOG)</description>
+		<rom name="Soccer Kid (World) (En,Fr,De,Es,It) (GOG).sfc" size="1310720" crc="4853f92b" md5="e5cddf4252578c0be35440959e696b24" sha1="6e06fdddd60ac092f20c60274943cee8e557697d" sha256="e51e5d503a7a7e92f0ba2e4ca542706a160a738ff1d8ea90d4c9259449c305d9"/>
+	</game>
 	<game name="Sonic The Hedgehog (USA) (Pirate) (Alt)" id="4344" cloneofid="4353">
 		<category>Games</category>
 		<description>Sonic The Hedgehog (USA) (Pirate) (Alt)</description>
@@ -20782,6 +20799,12 @@
 		<category>Games</category>
 		<description>Star Glider (Japan) (Demo)</description>
 		<rom name="Star Glider (Japan) (Demo).sfc" size="524288" crc="e9771c0d" md5="e9add0763f743fc634b839955f56022b" sha1="12d8d1bfb9f1bb27e7c0f1d1c30351d88400d2bc" sha256="d8f3b252d6afb77b9b46ab00b89415fba276f1cc07c0c89950c9bc9850fbb6cd"/>
+	</game>
+	<game name="Star Trek - Starfleet Academy - Starship Bridge Simulator (Germany) (Sample)" id="4598" cloneofid="2486">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Star Trek - Starfleet Academy - Starship Bridge Simulator (Germany) (Sample)</description>
+		<rom name="Star Trek - Starfleet Academy - Starship Bridge Simulator (Germany) (Sample).sfc" size="1048576" crc="8f185bd1" md5="e2d8aad9b09674bc587d87cd425b8efa" sha1="0df9912eebc0860d7649857b40e541ea897b2bff" sha256="c832033d8d73d566c37d137d9d960fb5b391e89e867647535d8450001ebe4f83"/>
 	</game>
 	<game name="Starwing (Germany) (Beta)" id="4050" cloneofid="2497">
 		<category>Games</category>
@@ -21151,6 +21174,16 @@
 		<category>Games</category>
 		<description>Top Racer 2 (World) (Piko Interactive)</description>
 		<rom name="Top Racer 2 (World) (Piko Interactive).sfc" size="1572864" crc="f7665eaf" md5="c171c495f5e4499c13be0c7f154cccd6" sha1="a778ed4b920c6038686e5e5006b7bbb4ba9071a3" sha256="3bd3c7d338192b47ba178e1437fb338e55f13df6c8c87aa8f0aa896a98353f50"/>
+	</game>
+	<game name="Top Racer Crossroads (World)" id="4601" cloneofid="3097">
+		<category>Games</category>
+		<description>Top Racer Crossroads (World)</description>
+		<rom name="Top Racer Crossroads (World).sfc" size="524288" crc="39f11cb4" md5="05caf6a3fedcfa9d2f2acfb31e6215a4" sha1="505ac8f49b424d032ba41ed0e86ef39ba6140b32" sha256="ad0790348909fe6348095496dc939aa9e411e1c4f52eed3bc0da34c16e96f181"/>
+	</game>
+	<game name="Top Racer Crossroads (World) (Rev 1)" id="4602" cloneofid="3097">
+		<category>Games</category>
+		<description>Top Racer Crossroads (World) (Rev 1)</description>
+		<rom name="Top Racer Crossroads (World) (Rev 1).sfc" size="524288" crc="cabd55e6" md5="aad80d7cc6e801fe957e6c7cca441f49" sha1="7e742f3de39ef83ee33ccbc763ed6753d6e3ec23" sha256="a1a2c42da4b90a6977bf1c212f51fb7c1a114100e2c4045a36899e117f80790d"/>
 	</game>
 	<game name="Troddlers (Japan) (En) (Proto)" id="4112" cloneofid="3126">
 		<category>Games</category>

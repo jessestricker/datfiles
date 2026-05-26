@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3490) (2026-05-20 23-22-14)</description>
-		<version>2026-05-20 23-22-14</version>
-		<date>2026-05-20 23-22-14</date>
+		<description>Sony - PlayStation Portable - Discs (3493) (2026-05-26 18-27-45)</description>
+		<version>2026-05-26 18-27-45</version>
+		<date>2026-05-26 18-27-45</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -1680,10 +1680,10 @@
 		<description>Shinobido - Tales of the Ninja (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Shinobido - Tales of the Ninja (Europe) (En,Fr,De,Es,It).iso" size="506232832" crc="388f5382" md5="c89033fa51ce5941de10ac34134757c9" sha1="2ef4423b926ef1fed68d3950dc55aa6c7eacbb47"/>
 	</game>
-	<game name="Shin Sangoku Musou - Multi Raid (Japan)">
+	<game name="Shin Sangoku Musou - Multi Raid (Japan, Asia)">
 		<category>Games</category>
-		<description>Shin Sangoku Musou - Multi Raid (Japan)</description>
-		<rom name="Shin Sangoku Musou - Multi Raid (Japan).iso" size="1194098688" crc="82d3bed5" md5="5ee2d615c1f86639dc59781af8f8d504" sha1="30291c55404333c1deac419976f701f366d89fae"/>
+		<description>Shin Sangoku Musou - Multi Raid (Japan, Asia)</description>
+		<rom name="Shin Sangoku Musou - Multi Raid (Japan, Asia).iso" size="1194098688" crc="82d3bed5" md5="5ee2d615c1f86639dc59781af8f8d504" sha1="30291c55404333c1deac419976f701f366d89fae"/>
 	</game>
 	<game name="Dungeon Explorer (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -10560,10 +10560,10 @@
 		<description>Comic Party Portable (Japan) (Shokai Genteiban)</description>
 		<rom name="Comic Party Portable (Japan) (Shokai Genteiban).iso" size="1333428224" crc="a994277a" md5="a83613e72f54daeba0259ed09ffb35a7" sha1="fda4a213d1fb0037d1291131077389b813506f61"/>
 	</game>
-	<game name="Initial D - Street Stage (Japan)">
+	<game name="Initial D - Street Stage (Japan, Asia)">
 		<category>Games</category>
-		<description>Initial D - Street Stage (Japan)</description>
-		<rom name="Initial D - Street Stage (Japan).iso" size="1187938304" crc="23b9e647" md5="225f1f56c37097c7a11ecaddd52abbf1" sha1="637150702ac7e0418fe58cfca71c948da2746fa2"/>
+		<description>Initial D - Street Stage (Japan, Asia)</description>
+		<rom name="Initial D - Street Stage (Japan, Asia).iso" size="1187938304" crc="23b9e647" md5="225f1f56c37097c7a11ecaddd52abbf1" sha1="637150702ac7e0418fe58cfca71c948da2746fa2"/>
 	</game>
 	<game name="Kamen Rider - Super Climax Heroes (Japan)">
 		<category>Games</category>
@@ -12625,10 +12625,10 @@
 		<description>Sengoku Efuda Yuugi - Hototogisu Tairan (Japan)</description>
 		<rom name="Sengoku Efuda Yuugi - Hototogisu Tairan (Japan).iso" size="347013120" crc="3e2c5cf5" md5="89c0b15a210988fd983f9390fb503c29" sha1="e81b849615ac64c2c9a88d6bbf522d8ce63a08a8"/>
 	</game>
-	<game name="Shin Sangoku Musou - Multi Raid 2 (Japan)">
+	<game name="Shin Sangoku Musou - Multi Raid 2 (Japan, Asia)">
 		<category>Games</category>
-		<description>Shin Sangoku Musou - Multi Raid 2 (Japan)</description>
-		<rom name="Shin Sangoku Musou - Multi Raid 2 (Japan).iso" size="1703280640" crc="05797f7e" md5="1623a293edca9a32bc9e768fa5e37233" sha1="36df858b300051d473295240cd0ee2e50bb0bc2d"/>
+		<description>Shin Sangoku Musou - Multi Raid 2 (Japan, Asia)</description>
+		<rom name="Shin Sangoku Musou - Multi Raid 2 (Japan, Asia).iso" size="1703280640" crc="05797f7e" md5="1623a293edca9a32bc9e768fa5e37233" sha1="36df858b300051d473295240cd0ee2e50bb0bc2d"/>
 	</game>
 	<game name="Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (Japan) (10-shuunen Kinen Memorial Box)">
 		<category>Games</category>
@@ -17459,5 +17459,20 @@
 		<category>Games</category>
 		<description>GripShift (Japan)</description>
 		<rom name="GripShift (Japan).iso" size="833519616" crc="c0ae8f59" md5="0fcca0b207116d3e6a38f9d6a9152240" sha1="543238e46ea742e9044858714c3949272a3ec843"/>
+	</game>
+	<game name="Lord of Arcana (Europe) (En,Fr,De,Es) (Beta) (2010-11-12)">
+		<category>Preproduction</category>
+		<description>Lord of Arcana (Europe) (En,Fr,De,Es) (Beta) (2010-11-12)</description>
+		<rom name="Lord of Arcana (Europe) (En,Fr,De,Es) (Beta) (2010-11-12).iso" size="628555776" crc="dfd32837" md5="b7e87985db5f5acb5f3b989663584fb1" sha1="a3149a45c48a5fedcb55576d6f5225f11e58db7a"/>
+	</game>
+	<game name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia)">
+		<category>Games</category>
+		<description>Zhen Sanguo Wushuang - Multi Raid 2 (Asia)</description>
+		<rom name="Zhen Sanguo Wushuang - Multi Raid 2 (Asia).iso" size="1703837696" crc="82abb2b0" md5="ee13a0e6cc301dc1b41d150cd62f15ed" sha1="28fbda58ea9aaeb88bba0e4c2487cfcdaa453a3b"/>
+	</game>
+	<game name="Metal Gear Solid - Peace Walker (Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Metal Gear Solid - Peace Walker (Asia) (En,Fr,Es)</description>
+		<rom name="Metal Gear Solid - Peace Walker (Asia) (En,Fr,Es).iso" size="1646002176" crc="588f2e46" md5="a58daaf34ee8f15d93646498d45256e8" sha1="6963e0a8f167d7375ccd8385c1174b2f411d6b92"/>
 	</game>
 </datafile>

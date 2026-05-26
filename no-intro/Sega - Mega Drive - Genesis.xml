@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260521-202143</version>
+		<version>20260525-214431</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10269,7 +10269,7 @@
 	<game name="Second Samurai (World) (QUByte Classics)" id="2620" cloneofid="1150">
 		<category>Games</category>
 		<description>Second Samurai (World) (QUByte Classics)</description>
-		<rom name="Second Samurai (World) (QUByte Classics).md" size="1048576" crc="12d646b8" md5="2ea988757c849eb4a875d3a01c75367a" sha1="24824ebfa5a62a8c42bd581d0662b5213aba83d2" sha256="53e3f0ce85b79ca9668d2ce34573b0ccb49b1367bbb0e063150d1e72f5a7f181" serial="T-113106-50"/>
+		<rom name="Second Samurai (World) (QUByte Classics).md" size="1048576" crc="12d646b8" md5="2ea988757c849eb4a875d3a01c75367a" sha1="24824ebfa5a62a8c42bd581d0662b5213aba83d2" sha256="53e3f0ce85b79ca9668d2ce34573b0ccb49b1367bbb0e063150d1e72f5a7f181" status="verified" serial="T-113106-50"/>
 	</game>
 	<game name="Second Samurai (Europe)" id="1150">
 		<category>Games</category>
