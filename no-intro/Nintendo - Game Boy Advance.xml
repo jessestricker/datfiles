@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260525-193703</version>
+		<version>20260527-111604</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6106,6 +6106,10 @@
 	<game name="iQue Video &amp; Audio (China)" id="x251">
 		<description>iQue Video &amp; Audio (China)</description>
 		<rom name="iQue Video &amp; Audio (China).gba" size="16777216" crc="92852a72" md5="66ee915843d7f71dc99419cf589e7ae1" sha1="79c7494c116e276f85a5f62d59f3a4588bd88391" sha256="49240d92453d93b8a56f452dfff1dbcd325fb12979383fde8e2ee3f791a41fa7" serial="!none"/>
+	</game>
+	<game name="Iridion 3D (World) (Steam, GOG)" id="x458" cloneofid="0027">
+		<description>Iridion 3D (World) (Steam, GOG)</description>
+		<rom name="Iridion 3D (World) (Steam, GOG).gba" size="4194304" crc="4c7ebe42" md5="c68975d3d2cf8aafb150a3b97d020a80" sha1="6f1c77ab88351d2d50da412e4788fc7ca8a6714d" sha256="310fbbaa0d57d14ce7a48621a1c546eae389aa0fc055206a02e4a4eb767ebd8c" status="verified" serial="AI3E"/>
 	</game>
 	<game name="Iridion 3D (USA, Europe)" id="0027">
 		<description>Iridion 3D (USA, Europe)</description>
@@ -13555,6 +13559,12 @@
 		<description>V-Rally 3 (USA) (En,Fr,Es)</description>
 		<rom name="V-Rally 3 (USA) (En,Fr,Es).gba" size="4194304" crc="d3ae3d37" md5="cf1673c920ef1d24c4f4b21effcc03f0" sha1="00a44c715aadd4ad3674f8d108271cdcb791cc16" serial="AVRE"/>
 	</game>
+	<game name="V.I.P. (Europe) (Beta)" id="x552" cloneofid="0534">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>V.I.P. (Europe) (Beta)</description>
+		<rom name="V.I.P. (Europe) (Beta).gba" size="1835120" crc="756d4eda" md5="6df85f8ba6ed3a3ee003032c38680d5a" sha1="27f3b873240f08f523a50b9c85a70ccd15e8e1fa" sha256="4eb87d02084715733e8404f91874803e5d55914741fd392de46afb9e8a223abd" serial="!none"/>
+	</game>
 	<game name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl)" id="0534">
 		<description>V.I.P. (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="V.I.P. (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="718a6c3b" md5="28ac2eef3f2d0470ec88fe6551b38322" sha1="0c87f6661acde7b5932062681d770d3a502a5a0a" serial="AVPP"/>
@@ -13672,25 +13682,29 @@
 		<description>Wanwan Meitantei (Japan)</description>
 		<rom name="Wanwan Meitantei (Japan).gba" size="8388608" crc="5f41c9fe" md5="be5b6787b02bda5b6283185e643a9fcf" sha1="d438e3b030a814818ed7e96777ac3e46043922f9" serial="BWMJ"/>
 	</game>
-	<game name="Wario Land 4 (USA, Europe) (Virtual Console)" id="x148" cloneofid="0168">
-		<description>Wario Land 4 (USA, Europe) (Virtual Console)</description>
-		<rom name="Wario Land 4 (USA, Europe) (Virtual Console).gba" size="8388608" crc="8bb73d8a" md5="9d7dba1bb70888a163318cb7015cde66" sha1="ed643151b8cc9749a490cab6bae26104e1652089" status="verified" serial="AWAE"/>
-	</game>
 	<game name="Wario Land 4 (USA, Europe)" id="0168">
 		<description>Wario Land 4 (USA, Europe)</description>
 		<rom name="Wario Land 4 (USA, Europe).gba" size="8388608" crc="d6141609" md5="5fe47355a33e3fabec2a1607af88a404" sha1="b9fe05a8080e124b67bce6a623234ee3b518a2c1" sha256="d16c7bf6e62bb84049fff1b387108fbd1e6e2cd38ca994ab5310dd9cbf9ba414" status="verified" serial="AWAE"/>
 	</game>
-	<game name="Wario Land Advance - Youki no Otakara (Japan)" id="0089" cloneofid="0168">
-		<description>Wario Land Advance - Youki no Otakara (Japan)</description>
-		<rom name="Wario Land Advance - Youki no Otakara (Japan).gba" size="8388608" crc="f56ebb7a" md5="99c8ad779a16be513a9fdff502b6f5c2" sha1="a01de1f2e69ec8aa9715ed0d0fbb263372b71e12" sha256="a6c6e9d01e8d66acb677cf2c742c361d175d81dd8c271e3ede35434f74e6404a" status="verified" serial="AWAJ"/>
+	<game name="Wario Land 4 (USA, Europe) (Virtual Console)" id="x148" cloneofid="0168">
+		<description>Wario Land 4 (USA, Europe) (Virtual Console)</description>
+		<rom name="Wario Land 4 (USA, Europe) (Virtual Console).gba" size="8388608" crc="8bb73d8a" md5="9d7dba1bb70888a163318cb7015cde66" sha1="ed643151b8cc9749a490cab6bae26104e1652089" status="verified" serial="AWAE"/>
 	</game>
 	<game name="Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)" id="x167" cloneofid="0168">
 		<description>Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)</description>
 		<rom name="Wario Land Advance - Youki no Otakara (Japan) (Virtual Console).gba" size="8388608" crc="a8cd90f9" md5="ffa917f29cb9b3c0b9d2594b7608beac" sha1="2d3e6b124c84877520b482ba1016b8e3c36bab14" serial="AWAJ"/>
 	</game>
+	<game name="Wario Land Advance - Youki no Otakara (Japan)" id="0089" cloneofid="0168">
+		<description>Wario Land Advance - Youki no Otakara (Japan)</description>
+		<rom name="Wario Land Advance - Youki no Otakara (Japan).gba" size="8388608" crc="f56ebb7a" md5="99c8ad779a16be513a9fdff502b6f5c2" sha1="a01de1f2e69ec8aa9715ed0d0fbb263372b71e12" sha256="a6c6e9d01e8d66acb677cf2c742c361d175d81dd8c271e3ede35434f74e6404a" status="verified" serial="AWAJ"/>
+	</game>
 	<game name="WarioWare - Twisted! (USA, Australia)" id="1975">
 		<description>WarioWare - Twisted! (USA, Australia)</description>
 		<rom name="WarioWare - Twisted! (USA, Australia).gba" size="16777216" crc="cb4e844b" md5="89579f4dfe1ed24a7cd16a6a61a72a17" sha1="f0102d0d6f7596fe853d5d0a94682718278e083a" sha256="ee1f05e0dde1ca1c3711cc7efddc40e13418b45edc213f70521284444ff87605" status="verified" serial="RZWE"/>
+	</game>
+	<game name="WarioWare, Inc. - Mega Microgame$! (USA)" id="0989" cloneofid="0996">
+		<description>WarioWare, Inc. - Mega Microgame$! (USA)</description>
+		<rom name="WarioWare, Inc. - Mega Microgame$! (USA).gba" size="8388608" crc="785d8b8c" md5="a2d26dc774cec9a0b47388a5dd727b03" sha1="3f556448d290fa5406d6ed367fee16cc02387ad3" sha256="c09be39a09b37f6a84849dee0a6f4ce2bd0f2bc06cfe3a64ca8e7834eebb2724" status="verified" serial="AZWE"/>
 	</game>
 	<game name="WarioWare, Inc. - Mega Microgame$! (USA) (Beta)" id="x082" cloneofid="0996">
 		<description>WarioWare, Inc. - Mega Microgame$! (USA) (Beta)</description>
@@ -13700,17 +13714,13 @@
 		<description>WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)</description>
 		<rom name="WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console).gba" size="8388608" crc="b0182907" md5="212cd9b15124251d8b08602d607c7865" sha1="c07aeee46d7368a0914e9e5f0f5b108256c0d867" serial="AZWE"/>
 	</game>
-	<game name="WarioWare, Inc. - Mega Microgame$! (USA)" id="0989" cloneofid="0996">
-		<description>WarioWare, Inc. - Mega Microgame$! (USA)</description>
-		<rom name="WarioWare, Inc. - Mega Microgame$! (USA).gba" size="8388608" crc="785d8b8c" md5="a2d26dc774cec9a0b47388a5dd727b03" sha1="3f556448d290fa5406d6ed367fee16cc02387ad3" sha256="c09be39a09b37f6a84849dee0a6f4ce2bd0f2bc06cfe3a64ca8e7834eebb2724" status="verified" serial="AZWE"/>
+	<game name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)" id="x363" cloneofid="0996">
+		<description>WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)</description>
+		<rom name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="8388608" crc="1fe34e43" md5="19183a3438256a96b07026bc9c2265bf" sha1="dca921c60b3686be6b3a5feeec7a4f37a921aee3" sha256="30b34d3089e462db39428b17a2baa49ecfc0b4dc77ef69ab5e60af3a08926124" serial="AZWP"/>
 	</game>
 	<game name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)" id="0996">
 		<description>WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="500ca178" md5="31c33a781f3a6bd3af3a4497e6d88c3c" sha1="aad81e722aa88f98913c0354e559f845c4689cce" sha256="c298d2b040ad4f2c42b926f998214604472db4eb3bc2da6a1723670092e35f6d" status="verified" serial="AZWP"/>
-	</game>
-	<game name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)" id="x363" cloneofid="0996">
-		<description>WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)</description>
-		<rom name="WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console).gba" size="8388608" crc="1fe34e43" md5="19183a3438256a96b07026bc9c2265bf" sha1="dca921c60b3686be6b3a5feeec7a4f37a921aee3" sha256="30b34d3089e462db39428b17a2baa49ecfc0b4dc77ef69ab5e60af3a08926124" serial="AZWP"/>
 	</game>
 	<game name="Weekend Miljonairs (Netherlands)" id="1000" cloneofid="0657">
 		<description>Weekend Miljonairs (Netherlands)</description>
@@ -13860,13 +13870,13 @@
 		<description>World Advance Soccer - Shouri e no Michi (Japan)</description>
 		<rom name="World Advance Soccer - Shouri e no Michi (Japan).gba" size="8388608" crc="afe01c1f" md5="868cafba6f72113d4473a171e9ee4d24" sha1="5d0c7ea259f44ff7f4645e2e80201c531d2f54e2" serial="AASJ"/>
 	</game>
-	<game name="World Championship Poker (USA)" id="1750" cloneofid="2576">
-		<description>World Championship Poker (USA)</description>
-		<rom name="World Championship Poker (USA).gba" size="4194304" crc="07f15152" md5="0d8f24fa168197a151eeb95fd29aef65" sha1="1d72864021f88f8db2686c57cfc5176b33ce2015" status="verified" serial="BP9E"/>
-	</game>
 	<game name="World Championship Poker (Europe) (En,Fr,De,Es,It)" id="2576">
 		<description>World Championship Poker (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="World Championship Poker (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="4776f86e" md5="c6394e32b564c770fe1971fdf2b1e8f2" sha1="731ef2646ad83750aff729cb2286de6ee60f8260" serial="BP9P"/>
+	</game>
+	<game name="World Championship Poker (USA)" id="1750" cloneofid="2576">
+		<description>World Championship Poker (USA)</description>
+		<rom name="World Championship Poker (USA).gba" size="4194304" crc="07f15152" md5="0d8f24fa168197a151eeb95fd29aef65" sha1="1d72864021f88f8db2686c57cfc5176b33ce2015" status="verified" serial="BP9E"/>
 	</game>
 	<game name="World Poker Tour (USA)" id="2165" cloneofid="2329">
 		<description>World Poker Tour (USA)</description>
@@ -13880,21 +13890,21 @@
 		<description>World Reborn (USA) (Proto)</description>
 		<rom name="World Reborn (USA) (Proto).gba" size="4194304" crc="4c48ebb3" md5="8ed216f4ec3342e7d27b420bfe3b4e53" sha1="91899433556c14bbe3bb043e95c3549bf3346e5a" serial="BWRE"/>
 	</game>
-	<game name="World Tennis Stars (Europe)" id="0858">
-		<description>World Tennis Stars (Europe)</description>
-		<rom name="World Tennis Stars (Europe).gba" size="4194304" crc="b5830f5f" md5="092dbb8125cfbc93d55342f25277b08f" sha1="2a93449943e85b7c5d75d0d7a9e1d8ad67c7a706" serial="AWCP"/>
-	</game>
 	<game name="World Tennis Stars (USA)" id="1867" cloneofid="0858">
 		<description>World Tennis Stars (USA)</description>
 		<rom name="World Tennis Stars (USA).gba" size="4194304" crc="036e30b0" md5="b705e04f4571cc9e8801900b4e0243fd" sha1="c668815a2ccf0bc6c3816d0947218661437449bc" serial="AWCE"/>
 	</game>
-	<game name="Worms - World Party (USA) (En,Fr,De,Es,It)" id="1280" cloneofid="0606">
-		<description>Worms - World Party (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Worms - World Party (USA) (En,Fr,De,Es,It).gba" size="4194304" crc="e8789c18" md5="d81d39a2400a2651099a6d1aa2a461d5" sha1="7b078976d9056aba7f81bb1ff33e5a36357f5f0b" serial="AWYE"/>
+	<game name="World Tennis Stars (Europe)" id="0858">
+		<description>World Tennis Stars (Europe)</description>
+		<rom name="World Tennis Stars (Europe).gba" size="4194304" crc="b5830f5f" md5="092dbb8125cfbc93d55342f25277b08f" sha1="2a93449943e85b7c5d75d0d7a9e1d8ad67c7a706" serial="AWCP"/>
 	</game>
 	<game name="Worms - World Party (Europe) (En,Fr,De,Es,It)" id="0606">
 		<description>Worms - World Party (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Worms - World Party (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="8ee32cbe" md5="78724b3f7e5de9f1c931d5b196e7f19b" sha1="5e0abe3d94d1489fadebe897df1ed5a5c0212901" serial="AWYP"/>
+	</game>
+	<game name="Worms - World Party (USA) (En,Fr,De,Es,It)" id="1280" cloneofid="0606">
+		<description>Worms - World Party (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Worms - World Party (USA) (En,Fr,De,Es,It).gba" size="4194304" crc="e8789c18" md5="d81d39a2400a2651099a6d1aa2a461d5" sha1="7b078976d9056aba7f81bb1ff33e5a36357f5f0b" serial="AWYE"/>
 	</game>
 	<game name="Worms Blast (Europe) (En,Fr,De,Es,It)" id="0772">
 		<description>Worms Blast (Europe) (En,Fr,De,Es,It)</description>
@@ -13933,13 +13943,13 @@
 		<description>X Zhan Jing (Taiwan) (Unl)</description>
 		<rom name="X Zhan Jing (Taiwan) (Unl).gba" size="33554432" crc="652a2ebe" md5="803352465687ba57b7cce41ff7facb20" sha1="a35c891af070819fd14e0704984197c8e04ae127" sha256="93972b71d7cb54724ea4fb1164332d0d50563f405621355ffd22e65daa240542"/>
 	</game>
-	<game name="X-Bladez - Inline Skater (Europe)" id="0385">
-		<description>X-Bladez - Inline Skater (Europe)</description>
-		<rom name="X-Bladez - Inline Skater (Europe).gba" size="4194304" crc="c05f9907" md5="eff13bb745908c0d38ee5f4518da52aa" sha1="8a5dc506fd6e000116be2ca923a056bc15d5b553" serial="AXIP"/>
-	</game>
 	<game name="X-Bladez - Inline Skater (USA)" id="1871" cloneofid="0385">
 		<description>X-Bladez - Inline Skater (USA)</description>
 		<rom name="X-Bladez - Inline Skater (USA).gba" size="4194304" crc="09fdd665" md5="dd9d7f37441572d859092e715af804bd" sha1="a8354a51738c6b28660ab74acc7f8445a9a570a1" serial="AXIE"/>
+	</game>
+	<game name="X-Bladez - Inline Skater (Europe)" id="0385">
+		<description>X-Bladez - Inline Skater (Europe)</description>
+		<rom name="X-Bladez - Inline Skater (Europe).gba" size="4194304" crc="c05f9907" md5="eff13bb745908c0d38ee5f4518da52aa" sha1="8a5dc506fd6e000116be2ca923a056bc15d5b553" serial="AXIP"/>
 	</game>
 	<game name="X-Man - Armour of Might (Russia) (Unl)" id="2952" cloneofid="2951">
 		<description>X-Man - Armour of Might (Russia) (Unl)</description>
@@ -14033,10 +14043,6 @@
 		<description>Youkaidou (Japan)</description>
 		<rom name="Youkaidou (Japan).gba" size="8388608" crc="2a4a92b4" md5="a515e58baf034344f78076025c3c99c9" sha1="ed6578bb6a4f201ae5b269df5ce842158a34a421" serial="AFUJ"/>
 	</game>
-	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)" id="x493" cloneofid="1898">
-		<description>Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)</description>
-		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta).gba" size="16777216" crc="8cbfa66b" md5="30333c382a0818d4293d5247ae428d11" sha1="d3906650386872a94b83c417ecef2369ece5b978" sha256="c6da4ddafe4f243773e5b2dbf0850c324e34f76303b517d96b0348b08e40b86f"/>
-	</game>
 	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)" id="1289" cloneofid="1898">
 		<description>Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)</description>
 		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA).gba" size="8388608" crc="d3784b52" md5="ffa7898ee8b3bc98e4156f3b5e7cdf63" sha1="2a9825db34a7aedcfd0a9fae5c7cee50292f03b7" serial="BYYE"/>
@@ -14044,6 +14050,10 @@
 	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It)" id="1898">
 		<description>Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="208d77ec" md5="ade79cc8fac2f433648fb95ca8c51164" sha1="66dc426b71195c11761f7ce58ffef231e8e227b1" serial="BYYP"/>
+	</game>
+	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)" id="x493" cloneofid="1898">
+		<description>Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)</description>
+		<rom name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta).gba" size="16777216" crc="8cbfa66b" md5="30333c382a0818d4293d5247ae428d11" sha1="d3906650386872a94b83c417ecef2369ece5b978" sha256="c6da4ddafe4f243773e5b2dbf0850c324e34f76303b517d96b0348b08e40b86f"/>
 	</game>
 	<game name="Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)" id="1759">
 		<description>Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)</description>

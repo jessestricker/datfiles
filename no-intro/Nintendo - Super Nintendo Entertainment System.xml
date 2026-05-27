@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260525-235300</version>
+		<version>20260526-200545</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21175,15 +21175,15 @@
 		<description>Top Racer 2 (World) (Piko Interactive)</description>
 		<rom name="Top Racer 2 (World) (Piko Interactive).sfc" size="1572864" crc="f7665eaf" md5="c171c495f5e4499c13be0c7f154cccd6" sha1="a778ed4b920c6038686e5e5006b7bbb4ba9071a3" sha256="3bd3c7d338192b47ba178e1437fb338e55f13df6c8c87aa8f0aa896a98353f50"/>
 	</game>
-	<game name="Top Racer Crossroads (World)" id="4601" cloneofid="3097">
+	<game name="Top Racer Crossroads (World) (QUByte Classics)" id="4601" cloneofid="3097">
 		<category>Games</category>
-		<description>Top Racer Crossroads (World)</description>
-		<rom name="Top Racer Crossroads (World).sfc" size="524288" crc="39f11cb4" md5="05caf6a3fedcfa9d2f2acfb31e6215a4" sha1="505ac8f49b424d032ba41ed0e86ef39ba6140b32" sha256="ad0790348909fe6348095496dc939aa9e411e1c4f52eed3bc0da34c16e96f181"/>
+		<description>Top Racer Crossroads (World) (QUByte Classics)</description>
+		<rom name="Top Racer Crossroads (World) (QUByte Classics).sfc" size="524288" crc="39f11cb4" md5="05caf6a3fedcfa9d2f2acfb31e6215a4" sha1="505ac8f49b424d032ba41ed0e86ef39ba6140b32" sha256="ad0790348909fe6348095496dc939aa9e411e1c4f52eed3bc0da34c16e96f181"/>
 	</game>
-	<game name="Top Racer Crossroads (World) (Rev 1)" id="4602" cloneofid="3097">
+	<game name="Top Racer Crossroads (World) (v1.1) (QUByte Classics)" id="4602" cloneofid="3097">
 		<category>Games</category>
-		<description>Top Racer Crossroads (World) (Rev 1)</description>
-		<rom name="Top Racer Crossroads (World) (Rev 1).sfc" size="524288" crc="cabd55e6" md5="aad80d7cc6e801fe957e6c7cca441f49" sha1="7e742f3de39ef83ee33ccbc763ed6753d6e3ec23" sha256="a1a2c42da4b90a6977bf1c212f51fb7c1a114100e2c4045a36899e117f80790d"/>
+		<description>Top Racer Crossroads (World) (v1.1) (QUByte Classics)</description>
+		<rom name="Top Racer Crossroads (World) (v1.1) (QUByte Classics).sfc" size="524288" crc="cabd55e6" md5="aad80d7cc6e801fe957e6c7cca441f49" sha1="7e742f3de39ef83ee33ccbc763ed6753d6e3ec23" sha256="a1a2c42da4b90a6977bf1c212f51fb7c1a114100e2c4045a36899e117f80790d"/>
 	</game>
 	<game name="Troddlers (Japan) (En) (Proto)" id="4112" cloneofid="3126">
 		<category>Games</category>

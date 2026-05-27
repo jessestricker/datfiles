@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260522-135353</version>
+		<version>20260526-100003</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -381,6 +381,12 @@
 		<description>Mines 2 (World) (Demo) (Unl)</description>
 		<rom name="Mines 2 (World) (Demo) (Unl).lyx" size="262144" crc="90c28f57" md5="1b3d49f875af891f6d705b7621e317f9" sha1="5b3e7fb9b4e711b94a4debeb0534db87e8077aa2" sha256="a7caa475d69a60c0383bf2936a93468f385a6fc14f5ac3e3e3e9a857211b5b93"/>
 	</game>
+	<game name="Monster Demolition (USA) (Proto)" id="0434">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Monster Demolition (USA) (Proto)</description>
+		<rom name="Monster Demolition (USA) (Proto).lyx" size="131072" crc="15aaaf83" md5="8725be7785059bcb66e886a86c3afa35" sha1="de338227a7fea301da3ee7d83622aa4440f5243b" sha256="2fd0fc11b1d81ddeca05acc2bd78ce1c03d1fdc14ef5f72dba1c4c7fac37b3ca"/>
+	</game>
 	<game name="Ms. Pac-Man (World)" id="0050">
 		<category>Games</category>
 		<description>Ms. Pac-Man (World)</description>
@@ -624,11 +630,17 @@
 		<description>Viking Child (USA, Europe)</description>
 		<rom name="Viking Child (USA, Europe).lyx" size="262144" crc="8d56828b" md5="44d7c4ea6b8d930075f5b05c94b5f973" sha1="47c32e4d816dde797b6bba2019f2e296bdad02dd" sha256="4fd41873a0468d30ebf8866353d79e5388b835a4ae595ade8768bee0c44c64da"/>
 	</game>
-	<game name="Vindicators (USA) (Proto)" id="0131">
+	<game name="Vindicators (USA) (Proto 1)" id="0131" cloneofid="0435">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Vindicators (USA) (Proto)</description>
-		<rom name="Vindicators (USA) (Proto).lyx" size="131072" crc="6e084b3a" md5="7acf2074659b1b5717411e81e6c1a281" sha1="750014090b3a74b1d65c7706097ed5268f6fa331" sha256="76621eff4464aa2d6a79bf1d2ce2cf133181aaf49e58c411606abbe6afc3cd30"/>
+		<description>Vindicators (USA) (Proto 1)</description>
+		<rom name="Vindicators (USA) (Proto 1).lyx" size="131072" crc="6e084b3a" md5="7acf2074659b1b5717411e81e6c1a281" sha1="750014090b3a74b1d65c7706097ed5268f6fa331" sha256="76621eff4464aa2d6a79bf1d2ce2cf133181aaf49e58c411606abbe6afc3cd30"/>
+	</game>
+	<game name="Vindicators (USA) (Proto 2)" id="0435">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Vindicators (USA) (Proto 2)</description>
+		<rom name="Vindicators (USA) (Proto 2).lyx" size="131072" crc="1b62e7cd" md5="d71161cc99d25d330de2bdecb364a7ce" sha1="256719372705a0b4d743ce5be9cd1d9398ef7c66" sha256="1bfae13a676bb3ad8d2e1983d62dc395dcff6885f7e5d0ce9b9916ea11dc7173"/>
 	</game>
 	<game name="Warbirds (USA, Europe)" id="0082">
 		<description>Warbirds (USA, Europe)</description>

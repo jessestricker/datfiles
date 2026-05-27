@@ -4,7 +4,7 @@
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260521-094230</version>
+		<version>20260526-090447</version>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -507,6 +507,10 @@
 		<category>Games</category>
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink)</description>
 		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-5-1) (SoundLink).bs" size="1048576" crc="78336cd9" md5="de2d8f871ac7e7dd9b209dacd690a0bb" sha1="8ac1ae61dc9094eab79b69ddbd9a38deca0f2ddf" sha256="b6639b06a678aba6e1cbd1c262b647b4c9f842d2315632c52decfc22f5735a00"/>
+	</game>
+	<game name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink)" id="3988">
+		<description>BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink)</description>
+		<rom name="BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (1997-6-25) (SoundLink).bs" size="1048576" crc="c8b081d9" md5="1a3028970cee12b724b21ba692fc3b2e" sha1="3efab7fe2bfcc55060ea5301ce0453514ed9f5d2" sha256="acf616452bac0699781b800da8848fd4bac7d1af88ba2351efc9cc44f2447d40"/>
 	</game>
 	<game name="BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)" id="0344">
 		<description>BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink)</description>
