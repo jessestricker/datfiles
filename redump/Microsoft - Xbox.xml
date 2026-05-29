@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Discs (2681) (2026-05-28 08-44-25)</description>
-		<version>2026-05-28 08-44-25</version>
-		<date>2026-05-28 08-44-25</date>
+		<description>Microsoft - Xbox - Discs (2682) (2026-05-29 16-11-51)</description>
+		<version>2026-05-29 16-11-51</version>
+		<date>2026-05-29 16-11-51</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13420,5 +13420,10 @@
 		<category>Preproduction</category>
 		<description>Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko) (Beta) (2003-12-09)</description>
 		<rom name="Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko) (Beta) (2003-12-09).iso" size="7825162240" crc="2bd9ea7c" md5="66d275b086535343490c92dc9974ec16" sha1="07a20d77677e7406857685e2295faf959a4666c2"/>
+	</game>
+	<game name="Official Xbox Starter Pack 2005, The (UK)">
+		<category>Coverdiscs</category>
+		<description>Official Xbox Starter Pack 2005, The (UK)</description>
+		<rom name="Official Xbox Starter Pack 2005, The (UK).iso" size="7825162240" crc="e2917a8f" md5="014b252c45a1f28e725bf0ba86399e1b" sha1="cbef2ef547c6b16c1b18196128622dfc9fcb89b7"/>
 	</game>
 </datafile>

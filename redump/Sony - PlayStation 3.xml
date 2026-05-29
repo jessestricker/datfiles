@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4495) (2026-05-28 11-17-33)</description>
-		<version>2026-05-28 11-17-33</version>
-		<date>2026-05-28 11-17-33</date>
+		<description>Sony - PlayStation 3 - Discs (4497) (2026-05-29 09-54-33)</description>
+		<version>2026-05-29 09-54-33</version>
+		<date>2026-05-29 09-54-33</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22496,5 +22496,15 @@
 		<category>Preproduction</category>
 		<description>Pain (World) (Beta) (2007-10-25)</description>
 		<rom name="Pain (World) (Beta) (2007-10-25).iso" size="271745024" crc="5d6ae657" md5="063f45c24d814e6e6b152060473f41e3" sha1="7118cec7513b10cff57b8d5cf0284670aaab05c6"/>
+	</game>
+	<game name="MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06)">
+		<category>Preproduction</category>
+		<description>MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06)</description>
+		<rom name="MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06).iso" size="2148073472" crc="66a52bd6" md5="dafc53fb3afc4fb21d44a05d8f311879" sha1="9b002791da172d05e077057404f184162d449778"/>
+	</game>
+	<game name="MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06)">
+		<category>Preproduction</category>
+		<description>MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06)</description>
+		<rom name="MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06).iso" size="2148073472" crc="0b650ece" md5="d480e793d8b9bcc487b1d525a5eca5b9" sha1="6f3106b509b6401b51b41d2f33dc6ae113573784"/>
 	</game>
 </datafile>

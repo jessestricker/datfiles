@@ -4,8 +4,8 @@
 		<id>20</id>
 		<name>Tiger - Game.com</name>
 		<description>Tiger - Game.com</description>
-		<version>20221031-184634</version>
-		<author>Arctic Circle System</author>
+		<version>20260529-010500</version>
+		<author>1988reload, Arctic Circle System</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -16,7 +16,7 @@
 	</game>
 	<game name="[BIOS] Tiger Game.com (USA) (External)" id="0001">
 		<description>[BIOS] Tiger Game.com (USA) (External)</description>
-		<rom name="[BIOS] Tiger Game.com (USA) (External).tgc" size="262144" crc="e235a589" md5="813364d4863b1d7b7b8fd6a97a416bcf" sha1="97f782e72d738f4d7b861363266bf46b438d9b50"/>
+		<rom name="[BIOS] Tiger Game.com (USA) (External).tgc" size="262144" crc="e235a589" md5="813364d4863b1d7b7b8fd6a97a416bcf" sha1="97f782e72d738f4d7b861363266bf46b438d9b50" sha256="4cade226b44f09ebf5897b137d5564e5579b4d11b23dcabacd308fb0d18e7077"/>
 	</game>
 	<game name="Batman &amp; Robin (USA)" id="0003">
 		<description>Batman &amp; Robin (USA)</description>

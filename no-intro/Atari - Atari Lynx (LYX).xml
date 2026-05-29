@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260526-100003</version>
+		<version>20260528-102833</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -275,6 +275,12 @@
 		<description>Hydra (USA, Europe)</description>
 		<rom name="Hydra (USA, Europe).lyx" size="262144" crc="e3041c6c" md5="76a48869c14fbcf85588001a1327253d" sha1="fc0c7cabf3a2ee821f7441b71d19d52205f97721" sha256="51e89456bb4939649814010b746d585ca4ca9c047b3e4b6a85dea2382b17aafc" status="verified"/>
 	</game>
+	<game name="Hydra (USA, Europe) (Beta)" id="0436" cloneofid="0036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Hydra (USA, Europe) (Beta)</description>
+		<rom name="Hydra (USA, Europe) (Beta).lyx" size="262144" crc="793620c2" md5="29e66b467bcdb5e78073a01ed8d7517b" sha1="edd8b97e5bc128a2cf22251e0b9cdf982e423ef8" sha256="b6a6a58ba3d64bb0ebeb1d41a9dc67e41de932ad5ad4394d67da2bf26bfde552"/>
+	</game>
 	<game name="Ishido - The Way of Stones (USA, Europe)" id="0037">
 		<category>Games</category>
 		<description>Ishido - The Way of Stones (USA, Europe)</description>
@@ -528,6 +534,10 @@
 		<category>Games</category>
 		<description>Robotron 2084 (USA, Europe)</description>
 		<rom name="Robotron 2084 (USA, Europe).lyx" size="131072" crc="7a6049b5" md5="60c1dfbf112bbb2a49cf16eddb191842" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89" sha256="2b7c3f9d0fb68118835a563409e90079b538398952efcf4dd8b1091675de8c20"/>
+	</game>
+	<game name="Robotron 2084 (USA, Europe) (Beta)" id="0432" cloneofid="0066">
+		<description>Robotron 2084 (USA, Europe) (Beta)</description>
+		<rom name="Robotron 2084 (USA, Europe) (Beta).lyx" size="131072" crc="6e7b014f" md5="3caae184222f7f81391bdebdf9431efb" sha1="d9d112806aa11e6d6a7b995c726079daf494b5cd" sha256="43e382370ccdf0d3d45940daeff122b7ba33ff8091b9a7ad9a61b774b8a69932"/>
 	</game>
 	<game name="Rolling Thunder (USA) (Proto)" id="0129">
 		<category>Games</category>

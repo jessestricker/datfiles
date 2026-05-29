@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260525-214431</version>
+		<version>20260528-213543</version>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6478,6 +6478,11 @@
 		<description>Link Dragon (Taiwan) (En) (Unl)</description>
 		<rom name="Link Dragon (Taiwan) (En) (Unl).md" size="262144" crc="1b86e623" md5="dbfa3ac3c752d83b73540c177ced0cab" sha1="09e4b59da3344f16ce6173c432c88ee9a12a3561" sha256="76f83f4fba94fbf0a512dd79c1cf4d453d5f9d047c20fca3eb4ca59426da0b55"/>
 	</game>
+	<game name="Lion King 3, The (Russia) (Unl)" id="3057" cloneofid="1792">
+		<category>Games</category>
+		<description>Lion King 3, The (Russia) (Unl)</description>
+		<rom name="Lion King 3, The (Russia) (Unl).md" size="2097152" crc="15065deb" md5="c19c2e00737b3d2f0795facfe9fa3c06" sha1="ed30b6a0c8018f81351bfb6e254d780a38035114" sha256="7860e6e82d9250b8540ca393480f8cbab63a4255d3be40964cef2f18f2e8f281"/>
+	</game>
 	<game name="Lion King II, The - Simba's Mighty Adventure (Taiwan) (En) (Unl)" id="1793">
 		<category>Games</category>
 		<description>Lion King II, The - Simba's Mighty Adventure (Taiwan) (En) (Unl)</description>
@@ -7839,7 +7844,7 @@
 	<game name="NBA Playoffs - Bulls vs Blazers (Japan)" id="0898" cloneofid="0235">
 		<category>Games</category>
 		<description>NBA Playoffs - Bulls vs Blazers (Japan)</description>
-		<rom name="NBA Playoffs - Bulls vs Blazers (Japan).md" size="1048576" crc="4565ce1f" md5="098130202a5ecea552a8714e656bb385" sha1="77a048094269fbf5cf9f0ad02ea781ba3bcbecf3" sha256="6b4c38296afef84089fcdc3cf92e5b8916abdd6e0f46234fb4c3e28af4523d47" serial="T-106173-00"/>
+		<rom name="NBA Playoffs - Bulls vs Blazers (Japan).md" size="1048576" crc="eae8c000" md5="97e07d6d00662e1d688229233ececddd" sha1="66a25cf2d7ddf17dde137e29381202f48456d173" sha256="4bbf7c8b29453ebb4915bb3a356ad576594f278817501aee1dc5d555616bb225" status="verified" serial="T-106173-00"/>
 	</game>
 	<game name="NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan)" id="0900" cloneofid="0236">
 		<category>Games</category>

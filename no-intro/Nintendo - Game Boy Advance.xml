@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260527-111604</version>
+		<version>20260528-084107</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2259,7 +2259,7 @@
 	</game>
 	<game name="Castlevania - Circle of the Moon (USA)" id="0044" cloneofid="0031">
 		<description>Castlevania - Circle of the Moon (USA)</description>
-		<rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" crc="1cc059a4" md5="50a1089600603a94e15ecf287f8d5a1f" sha1="d661b01eb94186435723ac03344792c11c20c522" status="verified" serial="AAME"/>
+		<rom name="Castlevania - Circle of the Moon (USA).gba" size="8388608" crc="1cc059a4" md5="50a1089600603a94e15ecf287f8d5a1f" sha1="d661b01eb94186435723ac03344792c11c20c522" sha256="ad9fabaf4398e0f4a2a095bacddc6c0dc7e139903b41e088ca3590c44b684da0" status="verified" serial="AAME"/>
 	</game>
 	<game name="Castlevania - Circle of the Moon (USA) (Virtual Console)" id="x169" cloneofid="0031">
 		<description>Castlevania - Circle of the Moon (USA) (Virtual Console)</description>
@@ -4593,7 +4593,7 @@
 	</game>
 	<game name="Final Fantasy Tactics Advance (USA)" id="1123" cloneofid="1175">
 		<description>Final Fantasy Tactics Advance (USA)</description>
-		<rom name="Final Fantasy Tactics Advance (USA).gba" size="16777216" crc="5645e56c" md5="cd99cdde3d45554c1b36fbeb8863b7bd" sha1="4ac05441f4de70a4ec3dd932116346c61b8783d9" status="verified" serial="AFXE"/>
+		<rom name="Final Fantasy Tactics Advance (USA).gba" size="16777216" crc="5645e56c" md5="cd99cdde3d45554c1b36fbeb8863b7bd" sha1="4ac05441f4de70a4ec3dd932116346c61b8783d9" sha256="43fc8204c6dceee58828aebc7af0c72eb807e99f35ad641c8bb0a4fa8b6edc19" status="verified" serial="AFXE"/>
 	</game>
 	<game name="Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)" id="1175">
 		<description>Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)</description>
@@ -7564,7 +7564,7 @@
 	</game>
 	<game name="Mario Party Advance (USA)" id="1927" cloneofid="1989">
 		<description>Mario Party Advance (USA)</description>
-		<rom name="Mario Party Advance (USA).gba" size="8388608" crc="f094a4cb" md5="9d0d27345bf88de8b025aa24d54d6bad" sha1="fa917d74d592260c3d6142a969fcbd94156f956b" serial="B8ME"/>
+		<rom name="Mario Party Advance (USA).gba" size="8388608" crc="f094a4cb" md5="9d0d27345bf88de8b025aa24d54d6bad" sha1="fa917d74d592260c3d6142a969fcbd94156f956b" sha256="9966220a787c51f6c2e57149fd88440881a28344a7e1b024dfd8bc32ce0d343c" status="verified" serial="B8ME"/>
 	</game>
 	<game name="Mario Party Advance (Europe) (En,Fr,De,Es,It)" id="1989">
 		<description>Mario Party Advance (Europe) (En,Fr,De,Es,It)</description>
@@ -7621,7 +7621,7 @@
 	</game>
 	<game name="Mario vs. Donkey Kong (USA, Australia)" id="1469" cloneofid="1753">
 		<description>Mario vs. Donkey Kong (USA, Australia)</description>
-		<rom name="Mario vs. Donkey Kong (USA, Australia).gba" size="16777216" crc="25c394d1" md5="ceda12928a686878795def3b413ccfc2" sha1="da677e595c41a0c72c4e3feb3a7e716f17cacd77" status="verified" serial="BM5E"/>
+		<rom name="Mario vs. Donkey Kong (USA, Australia).gba" size="16777216" crc="25c394d1" md5="ceda12928a686878795def3b413ccfc2" sha1="da677e595c41a0c72c4e3feb3a7e716f17cacd77" sha256="688fa9c01be4cbfee866be0f7fc2dc4fc80df84cda157915b39fd5a86eeaa3ea" status="verified" serial="BM5E"/>
 	</game>
 	<game name="Mario vs. Donkey Kong (Japan)" id="1506" cloneofid="1753">
 		<description>Mario vs. Donkey Kong (Japan)</description>
@@ -8206,9 +8206,9 @@
 		<description>Metroid - Zero Mission (Japan) (Virtual Console)</description>
 		<rom name="Metroid - Zero Mission (Japan) (Virtual Console).gba" size="8388608" crc="220b68f5" md5="c1b472a4ad0d7cd85ae92c7495198573" sha1="24d99f32875464dbcef5ca8ec231ec42073ff1e8" sha256="f082be55a3e233d472df55b57aca972a14a9c71d14d757f536a4d8b32947d0e4" serial="BMXJ"/>
 	</game>
-	<game name="Metroid - Zero Mission (USA)" id="1351" cloneofid="1432">
-		<description>Metroid - Zero Mission (USA)</description>
-		<rom name="Metroid - Zero Mission (USA).gba" size="8388608" crc="5c61a844" md5="ebbce58109988b6da61ebb06c7a432d5" sha1="5de8536afe1f0078ee6fe1089f890e8c7aa0a6e8" sha256="fc94f65380b65b870a30b9b04b39cca1dc63d6e46a4a373d3904adc0912ebc37" status="verified" serial="BMXE"/>
+	<game name="Metroid - Zero Mission (USA, Australia)" id="1351" cloneofid="1432">
+		<description>Metroid - Zero Mission (USA, Australia)</description>
+		<rom name="Metroid - Zero Mission (USA, Australia).gba" size="8388608" crc="5c61a844" md5="ebbce58109988b6da61ebb06c7a432d5" sha1="5de8536afe1f0078ee6fe1089f890e8c7aa0a6e8" sha256="fc94f65380b65b870a30b9b04b39cca1dc63d6e46a4a373d3904adc0912ebc37" status="verified" serial="BMXE"/>
 	</game>
 	<game name="Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)" id="1432">
 		<description>Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)</description>
@@ -9762,9 +9762,9 @@
 		<description>Pokemon - Sapphire Version (USA, Europe) (Rev 2)</description>
 		<rom name="Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba" size="16777216" crc="9cc4410e" md5="9bc2b765ca6997175fac51e6cdc29089" sha1="89b45fb172e6b55d51fc0e61989775187f6fe63c" sha256="02ca41513580a8b780989dee428df747b52a0b1a55bec617886b4059eb1152fb" status="verified" serial="AXPE"/>
 	</game>
-	<game name="Pokemon - Sapphire Version (USA, Europe)" id="0882" cloneofid="1986">
-		<description>Pokemon - Sapphire Version (USA, Europe)</description>
-		<rom name="Pokemon - Sapphire Version (USA, Europe).gba" size="16777216" crc="554dedc4" md5="f34e91399c719812e66e2c828a2e93d7" sha1="3ccbbd45f8553c36463f13b938e833f652b793e4" sha256="c36c1b899503e8823ee7eb607eea583adcef7ea92ff804838b193c227f2c6657" status="verified" serial="AXPE"/>
+	<game name="Pokemon - Sapphire Version (USA, Europe, Australia)" id="0882" cloneofid="1986">
+		<description>Pokemon - Sapphire Version (USA, Europe, Australia)</description>
+		<rom name="Pokemon - Sapphire Version (USA, Europe, Australia).gba" size="16777216" crc="554dedc4" md5="f34e91399c719812e66e2c828a2e93d7" sha1="3ccbbd45f8553c36463f13b938e833f652b793e4" sha256="c36c1b899503e8823ee7eb607eea583adcef7ea92ff804838b193c227f2c6657" status="verified" serial="AXPE"/>
 	</game>
 	<game name="Pokemon - Sapphire Version - Gotta Catch 'em All! (USA) (Pirate)" id="2935" cloneofid="1986">
 		<category>Games</category>
