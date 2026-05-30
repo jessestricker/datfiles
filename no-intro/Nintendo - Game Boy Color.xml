@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260528-085827</version>
+		<version>20260529-045215</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5932,6 +5932,11 @@
 		<description>Rugrats - Time Travelers (USA, Europe) (GB Compatible)</description>
 		<rom name="Rugrats - Time Travelers (USA, Europe) (GB Compatible).gbc" size="1048576" crc="9c743f03" md5="069b01643e876ec91a5555450068f4ac" sha1="680b38692f9cbd1e9e37ccfe45c5f65817164ec2" sha256="a1d4ca4eb27f14080bfa7e48be047d33f67b5f43f488fe378efabdd7fef1b262" status="verified" serial="AVMU"/>
 	</game>
+	<game name="Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible)" id="2878" cloneofid="1045">
+		<category>Games</category>
+		<description>Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible)</description>
+		<rom name="Rugrats - Time Travelers (World) (Retro Rewind Collection) (GB Compatible).gbc" size="1048576" crc="71214856" md5="090af42f7c361bc0fef9774468358bfc" sha1="8ddc7c625b4849289957042527f97a8b07b9bd46" sha256="9300b18884d6ca1ac21d993f66ad9884b7302d0960ef1874260761fcb7ba00dd"/>
+	</game>
 	<game name="Rugrats - Totally Angelica (USA, Europe)" id="1046">
 		<description>Rugrats - Totally Angelica (USA, Europe)</description>
 		<rom name="Rugrats - Totally Angelica (USA, Europe).gbc" size="1048576" crc="fc6195ef" md5="80cf4b05b2a0388a804e54f433cdd126" sha1="d4396a974aee16f74a5a80f4845c24dde5a083d6" sha256="409ec5e4dbf87a8f6fe4e86d52402ea70c24ceb2653fe83a94f7cb0646a08333" status="verified"/>
@@ -5947,6 +5952,16 @@
 	<game name="Rugrats in Paris - The Movie (USA, Europe)" id="1049">
 		<description>Rugrats in Paris - The Movie (USA, Europe)</description>
 		<rom name="Rugrats in Paris - The Movie (USA, Europe).gbc" size="1048576" crc="8b195237" md5="c1dee0a8036d61d1483a793126da3b45" sha1="f4cdc771299e9e6539443a9c9d62d3842877e618" sha256="d769aad02ded9685ae14a5286a0f0a2a109e444376e3956f3a99b9b1a07e7f5c" status="verified"/>
+	</game>
+	<game name="Rugrats in Paris - The Movie (World) (Retro Rewind Collection)" id="2879" cloneofid="1049">
+		<category>Games</category>
+		<description>Rugrats in Paris - The Movie (World) (Retro Rewind Collection)</description>
+		<rom name="Rugrats in Paris - The Movie (World) (Retro Rewind Collection).gbc" size="1048576" crc="3ff71758" md5="88523e0012e431aecbac1701f31158c8" sha1="f8a12a6ace378e0a9091f0e09fe3c421ad201ff0" sha256="69f1b966053ca220b30cb31469c68997ebc3f1010f1e07d72cb608b8aaef9288"/>
+	</game>
+	<game name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible)" id="2877" cloneofid="1050">
+		<category>Games</category>
+		<description>Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Rugrats Movie, The (World) (Retro Rewind Collection) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="46407106" md5="3aeff16dec6f007ed975f367d03eb761" sha1="3df4073ec451b8a0f15175f7f00b134c0b550447" sha256="913839f619437f2ac88cfb8657547a721c2b92bb5cf1152a5ab233a37f862d50"/>
 	</game>
 	<game name="Rugrats Movie, The (Europe) (SGB Enhanced) (GB Compatible)" id="1050">
 		<description>Rugrats Movie, The (Europe) (SGB Enhanced) (GB Compatible)</description>

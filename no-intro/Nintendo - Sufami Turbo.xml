@@ -4,15 +4,15 @@
 		<id>78</id>
 		<name>Nintendo - Sufami Turbo</name>
 		<description>Nintendo - Sufami Turbo</description>
-		<version>20240622-035607</version>
-		<author>Blank, C. V. Reynolds, omonim2007, psykopat</author>
+		<version>20260529-125659</version>
+		<author>1988reload, Blank, C. V. Reynolds, omonim2007, psykopat</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" id="0249">
 		<description>Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)</description>
-		<rom name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).st" size="1048576" crc="bb5c4238" md5="55d6940953b7e1ea4d88725cba2fdbca" sha1="f72ea67468cf34360042bdd7974fd588a2407566" status="verified"/>
+		<rom name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).st" size="1048576" crc="bb5c4238" md5="55d6940953b7e1ea4d88725cba2fdbca" sha1="f72ea67468cf34360042bdd7974fd588a2407566" sha256="f73bda08743565e0bd101632ebbac2d363d703a3ab39d23f49d95217cab29269" status="verified"/>
 	</game>
 	<game name="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" id="0491">
 		<description>Crayon Shin-chan - Nagagutsu Dobon!! (Japan)</description>

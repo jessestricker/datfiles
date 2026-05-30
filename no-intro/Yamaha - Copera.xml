@@ -4,8 +4,8 @@
 		<id>209</id>
 		<name>Yamaha - Copera</name>
 		<description>Yamaha - Copera</description>
-		<version>20211125-171549</version>
-		<author>MeguCocoa</author>
+		<version>20260529-110834</version>
+		<author>1988reload, MeguCocoa</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"/>
@@ -40,6 +40,6 @@
 	</game>
 	<game name="Outa no Canvas (Japan)" id="0008">
 		<description>Outa no Canvas (Japan)</description>
-		<rom name="Outa no Canvas (Japan).ic1" size="1048576" crc="b25e7134" md5="098b96c6a2d9c27be529ee00a3b4ca93" sha1="0578314e66b2385e0520a421af695ccfef44f076"/>
+		<rom name="Outa no Canvas (Japan).ic1" size="1048576" crc="b25e7134" md5="098b96c6a2d9c27be529ee00a3b4ca93" sha1="0578314e66b2385e0520a421af695ccfef44f076" sha256="7adaa8985207b3de745745c5644c240ee6c576ea99c2779d31a4ef8a813add3a"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>88</id>
 		<name>Atari - Atari 2600</name>
 		<description>Atari - Atari 2600</description>
-		<version>20260520-121837</version>
+		<version>20260529-062921</version>
 		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2308,7 +2308,7 @@
 	</game>
 	<game name="Q-bert (Europe)" id="0812">
 		<description>Q-bert (Europe)</description>
-		<rom name="Q-bert (Europe).a26" size="4096" crc="541fbe98" md5="8b40a9ca1cfcd14822e2547eaa9df5c1" sha1="e5d0f615fed46efca3cc931a1e5f7ebcce73d586" sha256="07886ee67ca91287d25d1a22179e77be2a00b334a983baa0d95f62c9f77ecb47"/>
+		<rom name="Q-bert (Europe).a26" size="4096" crc="541fbe98" md5="8b40a9ca1cfcd14822e2547eaa9df5c1" sha1="e5d0f615fed46efca3cc931a1e5f7ebcce73d586" sha256="07886ee67ca91287d25d1a22179e77be2a00b334a983baa0d95f62c9f77ecb47" status="verified"/>
 	</game>
 	<game name="Q-bert's Qubes (USA)" id="0346">
 		<description>Q-bert's Qubes (USA)</description>

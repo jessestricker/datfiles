@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (1344) (2026-05-29 17-19-17)</description>
-		<version>2026-05-29 17-19-17</version>
-		<date>2026-05-29 17-19-17</date>
+		<description>Apple - Macintosh - Discs (1350) (2026-05-30 22-49-50)</description>
+		<version>2026-05-30 22-49-50</version>
+		<date>2026-05-30 22-49-50</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -9532,5 +9532,38 @@
 		<description>Bookworm Deluxe (USA)</description>
 		<rom name="Bookworm Deluxe (USA).cue" size="87" crc="2e7e94eb" md5="88986bae762d6b7816082571b1ac3f1a" sha1="f29c6f51442ca9a5da9d13bb16d34147118bbdf1"/>
 		<rom name="Bookworm Deluxe (USA).bin" size="15055152" crc="4eff3001" md5="c1dae667b0266280f44f940a3d2a6041" sha1="3c1e4c2a20da0ef1796d37525f6bc4d4837620af"/>
+	</game>
+	<game name="Feral Extras Disk 03-04 - Patches, Trailers, Demos &amp; Documentation (USA)">
+		<category>Bonus Discs</category>
+		<description>Feral Extras Disk 03-04 - Patches, Trailers, Demos &amp; Documentation (USA)</description>
+		<rom name="Feral Extras Disk 03-04 - Patches, Trailers, Demos &amp; Documentation (USA).cue" size="138" crc="9cfffe6a" md5="867e6ddf78ca0839c7ff03378ffeeb00" sha1="ef675aca19dbcdb3c043194f47f87332ce0ae992"/>
+		<rom name="Feral Extras Disk 03-04 - Patches, Trailers, Demos &amp; Documentation (USA).bin" size="612331440" crc="be27edd4" md5="b9a16f5f350a68aebd2dd575f4147ecf" sha1="a2646d6a14c8cae05fc0698f8111416bc9344bf6"/>
+	</game>
+	<game name="SimTheme Park (USA)">
+		<category>Games</category>
+		<description>SimTheme Park (USA)</description>
+		<rom name="SimTheme Park (USA).cue" size="85" crc="11b7237e" md5="7a5b2101e897252adbc6a8fd6688f1b1" sha1="30e0d950b340197b27873f612c6667bbdc082d3c"/>
+		<rom name="SimTheme Park (USA).bin" size="498489936" crc="d83695cf" md5="94d5146bd956dba17e6c0e71e75dad29" sha1="0f1cc586664082e9368687544b53da1234781fc2"/>
+	</game>
+	<game name="Sheep (USA)">
+		<category>Games</category>
+		<description>Sheep (USA)</description>
+		<rom name="Sheep (USA).cue" size="77" crc="71f1e0e5" md5="82d6904ce0db78cdbf7dfde133f6dada" sha1="8c921b502c755dd60e3be0f2dae8ced8bb4e50cb"/>
+		<rom name="Sheep (USA).bin" size="685878480" crc="ec8500cd" md5="741b8b746db1aadd115797c2bfc2f011" sha1="5d1a18a1b0e730b4d9f22de75df6452dde886cd0"/>
+	</game>
+	<game name="Ford Racing 2 (USA) (En,Fr,De,It) (Alt)">
+		<category>Games</category>
+		<description>Ford Racing 2 (USA) (En,Fr,De,It) (Alt)</description>
+		<rom name="Ford Racing 2 (USA) (En,Fr,De,It) (Alt).iso" size="8537505792" crc="00852a41" md5="a571ee798a417327a231bc568428fc32" sha1="0c8856f6b05af585cc931a0d13966ea69629fa42"/>
+	</game>
+	<game name="Chessmaster 9000 (USA)">
+		<category>Games</category>
+		<description>Chessmaster 9000 (USA)</description>
+		<rom name="Chessmaster 9000 (USA).iso" size="8388608000" crc="7411a188" md5="3ac0b38f6a2c911e868a25d23f9b1db0" sha1="50ff2618b73e49adbbab46d03c18c36d3526efae"/>
+	</game>
+	<game name="Bionicle (USA)">
+		<category>Games</category>
+		<description>Bionicle (USA)</description>
+		<rom name="Bionicle (USA).iso" size="8304427008" crc="36c70b10" md5="a4fdca0bb9f18ea5be0c625248741175" sha1="980a6a4157ed97a707ede9db05157a6e256efd83"/>
 	</game>
 </datafile>

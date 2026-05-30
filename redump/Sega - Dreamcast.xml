@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>Sega - Dreamcast - Discs (1516) (2026-05-28 11-14-08)</description>
-		<version>2026-05-28 11-14-08</version>
-		<date>2026-05-28 11-14-08</date>
+		<description>Sega - Dreamcast - Discs (1516) (2026-05-30 16-41-23)</description>
+		<version>2026-05-30 16-41-23</version>
+		<date>2026-05-30 16-41-23</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13707,13 +13707,13 @@
 		<rom name="Wacky Races (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Wacky Races (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin" size="1185760800" crc="309682aa" md5="ae1a325f25bd768dbd08ad6965eebf8e" sha1="8018baffe2060169ac921433160efe348190fafc"/>
 	</game>
-	<game name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26)">
+	<game name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26)">
 		<category>Preproduction</category>
-		<description>Fighting Vipers 2 (Europe) (Beta) (2000-12-26)</description>
-		<rom name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26).cue" size="432" crc="2031c68b" md5="0c86f3be4afbe3d9fb40ee667f10af6e" sha1="fb1fb6eade0dd91e1e7219532b48ebe7198e9037"/>
-		<rom name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26) (Track 1).bin" size="705600" crc="ece7e290" md5="183dc99f2e06e6d501319edd9c750bdb" sha1="6703b2675f0296b7195a02a512aed8ddc1fb329c"/>
-		<rom name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
-		<rom name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26) (Track 3).bin" size="1185760800" crc="fcd6883b" md5="5fe5e3cbaf2926414d3ff2530733c978" sha1="08f854b653a96ce6fddbe5e19c84a56e71481018"/>
+		<description>Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26)</description>
+		<rom name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26).cue" size="492" crc="c2a7d85d" md5="d45e46d58f00804f408f9dbff6851e05" sha1="3fb01ae8139c67be24ba28108bd1a28199682db4"/>
+		<rom name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26) (Track 1).bin" size="705600" crc="ece7e290" md5="183dc99f2e06e6d501319edd9c750bdb" sha1="6703b2675f0296b7195a02a512aed8ddc1fb329c"/>
+		<rom name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26) (Track 2).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26) (Track 3).bin" size="1185760800" crc="fcd6883b" md5="5fe5e3cbaf2926414d3ff2530733c978" sha1="08f854b653a96ce6fddbe5e19c84a56e71481018"/>
 	</game>
 	<game name="Championship Surfer (Europe) (En,Fr,De) (Beta) (2000-10-24)">
 		<category>Preproduction</category>

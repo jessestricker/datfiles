@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260524-051914</version>
+		<version>20260529-201852</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2014,7 +2014,7 @@
 	</game>
 	<game name="Bae Yong-Joon to Manabu Kankokugo DS - Date-Hen (Japan)" id="6718">
 		<description>Bae Yong-Joon to Manabu Kankokugo DS - Date-Hen (Japan)</description>
-		<rom name="Bae Yong-Joon to Manabu Kankokugo DS - Date-Hen (Japan).nds" size="67108864" crc="094fe90e" md5="42629d478643132ee7ae1f9ce0370bd9" sha1="2290d537c5b3690caab93e3dc327abe574942517" serial="BYJJ"/>
+		<rom name="Bae Yong-Joon to Manabu Kankokugo DS - Date-Hen (Japan).nds" size="67108864" crc="094fe90e" md5="42629d478643132ee7ae1f9ce0370bd9" sha1="2290d537c5b3690caab93e3dc327abe574942517" sha256="d51881149c5664ae101512111f99a3921e4be909a9dfa70bb5bfa9b629c1781a" serial="BYJJ"/>
 	</game>
 	<game name="Bae Yong-Joon to Manabu Kankokugo DS - Test-Hen (Japan)" id="6719">
 		<description>Bae Yong-Joon to Manabu Kankokugo DS - Test-Hen (Japan)</description>
@@ -6698,7 +6698,7 @@
 	</game>
 	<game name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)" id="3396">
 		<description>Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="215caac1" md5="97977930360fe31be67c6a4ffe515c28" sha1="12115429ce70683278dda1938285f160202c39ba" serial="YV5P"/>
+		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="f50d2dfa" md5="6063db44f9faa5e028c4c42d388df510" sha1="fcebf3a5cc91c64b2cadb50be7cd76744e4e2a89" serial="YV5P"/>
 	</game>
 	<game name="Dragon Quest Heroes - Rocket Slime (USA)" id="0569">
 		<description>Dragon Quest Heroes - Rocket Slime (USA)</description>
@@ -11675,7 +11675,7 @@
 	</game>
 	<game name="Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire (Japan) (Rev 1)" id="6707" cloneofid="6010">
 		<description>Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire (Japan) (Rev 1)</description>
-		<rom name="Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire (Japan) (Rev 1).nds" size="268435456" crc="a2c0aa17" md5="18527512d0eeee5e16228087c5ebafc8" sha1="e14d5cff020e3e44732fc1ae7158f9181896564b" serial="BEEJ"/>
+		<rom name="Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire (Japan) (Rev 1).nds" size="268435456" crc="a2c0aa17" md5="18527512d0eeee5e16228087c5ebafc8" sha1="e14d5cff020e3e44732fc1ae7158f9181896564b" sha256="1b2927dbf4cdc918da071da68d6297f879fa80bd7c3c5314450505e85f7eba22" serial="BEEJ"/>
 	</game>
 	<game name="Inazuma Eleven 2 - Tempesta di Fuoco (Italy)" id="6594" cloneofid="6010">
 		<description>Inazuma Eleven 2 - Tempesta di Fuoco (Italy)</description>
@@ -22929,7 +22929,7 @@
 	</game>
 	<game name="Quiz Kirameki Star Road (Japan)" id="0529">
 		<description>Quiz Kirameki Star Road (Japan)</description>
-		<rom name="Quiz Kirameki Star Road (Japan).nds" size="33554432" crc="d501bf64" md5="11520166263d8202377c339feebc8117" sha1="0ec2c909baf0a2f92a3e621a49aa70d3d7f26f24" serial="AKSJ"/>
+		<rom name="Quiz Kirameki Star Road (Japan).nds" size="33554432" crc="d501bf64" md5="11520166263d8202377c339feebc8117" sha1="0ec2c909baf0a2f92a3e621a49aa70d3d7f26f24" sha256="097c7693e2fb18bee5dfcf5035a50a05609778ed26016f736dcea2a3f274b810" serial="AKSJ"/>
 	</game>
 	<game name="Quiz Magic Academy DS (Japan)" id="2657" cloneofid="3007">
 		<description>Quiz Magic Academy DS (Japan)</description>
@@ -25819,7 +25819,7 @@
 	</game>
 	<game name="SpongeBob SquarePants - Creature from the Krusty Krab (USA)" id="0618" cloneofid="0653">
 		<description>SpongeBob SquarePants - Creature from the Krusty Krab (USA)</description>
-		<rom name="SpongeBob SquarePants - Creature from the Krusty Krab (USA).nds" size="33554432" crc="9c706cb6" md5="cf6685bbde1a3e47092c5126442fb5b3" sha1="ff88dc7248079361584f94ad43218f73a422a753" serial="AQ4E"/>
+		<rom name="SpongeBob SquarePants - Creature from the Krusty Krab (USA).nds" size="33554432" crc="9c706cb6" md5="cf6685bbde1a3e47092c5126442fb5b3" sha1="ff88dc7248079361584f94ad43218f73a422a753" sha256="b0dff856f413fd0d8187667950abef96a77692c1fb23de705db93dc2a236dbe1" serial="AQ4E"/>
 	</game>
 	<game name="SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Nl)" id="0653">
 		<description>SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Nl)</description>
@@ -26631,7 +26631,7 @@
 	</game>
 	<game name="Super Princess Peach (Europe) (En,Fr,De,Es,It)" id="0444">
 		<description>Super Princess Peach (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Super Princess Peach (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5c880016" md5="66b1d63eee73f5a83bcf6535e7dcdcdf" sha1="bbce19d3c8c98b4a8f866ffaa8cd52b6878895fc" status="verified" serial="ASPP"/>
+		<rom name="Super Princess Peach (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5c880016" md5="66b1d63eee73f5a83bcf6535e7dcdcdf" sha1="bbce19d3c8c98b4a8f866ffaa8cd52b6878895fc" sha256="22846ba03b5277ea896930f47c6b92e8216469fe0125998f2efad4faecf44318" status="verified" serial="ASPP"/>
 	</game>
 	<game name="Super Princess Peach (Japan) (Demo) (Kiosk)" id="z163" cloneofid="0444">
 		<description>Super Princess Peach (Japan) (Demo) (Kiosk)</description>
@@ -28112,7 +28112,7 @@
 	</game>
 	<game name="Tomica Hero Rescue Force DS (Japan)" id="2951">
 		<description>Tomica Hero Rescue Force DS (Japan)</description>
-		<rom name="Tomica Hero Rescue Force DS (Japan).nds" size="16777216" crc="9cbc1519" md5="71d1593058b23ebcc90f9ada91475e09" sha1="e492f0aad666868c9ce46269cb55993d9cb974b7" serial="C6HJ"/>
+		<rom name="Tomica Hero Rescue Force DS (Japan).nds" size="16777216" crc="9cbc1519" md5="71d1593058b23ebcc90f9ada91475e09" sha1="e492f0aad666868c9ce46269cb55993d9cb974b7" sha256="3e94a3ef73d51ecaa1ee84c62cb6b047e549c84e1ac2866761d591d13a42d29f" serial="C6HJ"/>
 	</game>
 	<game name="Tomodachi Collection (Japan)" id="3873" cloneofid="5297">
 		<description>Tomodachi Collection (Japan)</description>

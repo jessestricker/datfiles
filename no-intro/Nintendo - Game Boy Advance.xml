@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260528-084107</version>
+		<version>20260529-103312</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10666,6 +10666,11 @@
 	<game name="Rugrats - Castle Capers (USA, Europe)" id="0119">
 		<description>Rugrats - Castle Capers (USA, Europe)</description>
 		<rom name="Rugrats - Castle Capers (USA, Europe).gba" size="4194304" crc="8aabd86a" md5="01529e7a20314ab1479ab2b91ccfcf49" sha1="a9d37415567b3d441c9c9312c75fd8ecaeb9ece1" sha256="a591f84d80a727a13a7d8b1b7c86530bfe7236a6c8af778a20d024699a43b568" status="verified" serial="ARGE"/>
+	</game>
+	<game name="Rugrats - Castle Capers (World) (Retro Rewind Collection)" id="x553" cloneofid="0119">
+		<category>Games</category>
+		<description>Rugrats - Castle Capers (World) (Retro Rewind Collection)</description>
+		<rom name="Rugrats - Castle Capers (World) (Retro Rewind Collection).gba" size="8388608" crc="41d4137f" md5="e8733c4db3b7cc3cd85db3183859723d" sha1="4f0ba185c5edefdf348e76cb58e86aacc664de67" sha256="ec19d03c8b8cc7f5a6d1bba38692296f4355685e9dc0dae413f29a58df1369fb" serial="ARGE"/>
 	</game>
 	<game name="Rugrats - Go Wild (USA, Europe)" id="1020">
 		<description>Rugrats - Go Wild (USA, Europe)</description>

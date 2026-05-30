@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260523-032225</version>
+		<version>20260529-204417</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -855,9 +855,9 @@
 	<game name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 2)" id="1514" cloneofid="0572">
 		<description>Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 2)</description>
 		<game_id>0004000000073700</game_id>
-		<rom name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 2).3ds" size="536870912" crc="88263f09" md5="4886e175cc17266058f1ac6cfbd1d6fe" sha1="b9c59d99ff8bf0b021700319a89d324ebc64172a" serial="CTR-P-ABQJ"/>
+		<rom name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 2).3ds" size="536870912" crc="88263f09" md5="4886e175cc17266058f1ac6cfbd1d6fe" sha1="b9c59d99ff8bf0b021700319a89d324ebc64172a" sha256="924504e499b91abfa7000989952cb9316078541b881c1593593d9cdd055d4cfb" serial="CTR-P-ABQJ"/>
 	</game>
-	<game name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 1)" id="z054">
+	<game name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 1)" id="z054" cloneofid="0572">
 		<description>Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 1)</description>
 		<rom name="Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 1).3ds" size="536870912" crc="88dc0826" md5="521ca8924c5a309b61f6e968bc0bb2eb" sha1="7d7fa8ccea157c672941b23a771c6e6ddd4795f7" sha256="74db1d8f01715d7c973ae42a7bc630d2ed54de22bc8967358d49b0abd2d82157" serial="CTR-P-ABQJ"/>
 	</game>
@@ -1458,37 +1458,37 @@
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v1.10) (2014-10-02) (Program).3ds" size="2147483648" crc="d98cd5e4" md5="b28d3c31db631f63caf14fa78f3b3bde" sha1="5ba4f59a203cc045c25251cacad2b9f7db3bf342" sha256="f5e21622a2bb4ed14cb6b82ef24fce187a91cce7bd1ce8eb05d5e1e922485cc8" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v5.01) (2012-05-30) (Program)" id="z196">
+	<game name="CTR Eva - Import (World) (v5.01) (2012-05-30) (Program)" id="z196" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v5.01) (2012-05-30) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v5.01) (2012-05-30) (Program).3ds" size="2147483648" crc="17ff45c1" md5="66adf00490f913ca91314ba886bb0f09" sha1="9d2bab30b5f72e7967da882e0276cc05c4296b2f" sha256="2671bab77a2ccada26c682909ef056569a00f9bb98ee7632e3ed3695ceb09ce0" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v2.30) (2015-07-27) (Program)" id="z197">
+	<game name="CTR Eva - Import (World) (v2.30) (2015-07-27) (Program)" id="z197" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v2.30) (2015-07-27) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v2.30) (2015-07-27) (Program).3ds" size="2147483648" crc="d8c682d8" md5="7242938732aa15a2b9e2b5784793a299" sha1="0b700f88f8cfcf50934f9bb04865776dcb010315" sha256="29e208ac6031afcbd7453b2f43940620d0d96e09e69cb88d6ada48cadab01adf" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v2.50) (2015-11-10) (Program)" id="z199">
+	<game name="CTR Eva - Import (World) (v2.50) (2015-11-10) (Program)" id="z199" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v2.50) (2015-11-10) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v2.50) (2015-11-10) (Program).3ds" size="2147483648" crc="38ea883f" md5="6e6172e026e0dd2524bb76c995342f78" sha1="ac42a6db06e790d3c204f30df3ee5a8827c0fb8d" sha256="3190aa6cfe8b7a2be3e8c2b2482cdefccdcd6b6bd2b564f3cfd5b8b945770605" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v2.20) (2015-06-28) (Program)" id="z200">
+	<game name="CTR Eva - Import (World) (v2.20) (2015-06-28) (Program)" id="z200" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v2.20) (2015-06-28) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v2.20) (2015-06-28) (Program).3ds" size="2147483648" crc="3f3f246b" md5="cc78bfa8c9e428772471143189d3a588" sha1="719f6656f3e734deef55aa09c557e5b051615a95" sha256="83650aa3e89c089995ebe8eb6a54d94bfb3869348b7eadcb09cd4b53414e1673" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v1.20) (2018-04-13) (Program)" id="z215">
+	<game name="CTR Eva - Import (World) (v1.20) (2018-04-13) (Program)" id="z215" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v1.20) (2018-04-13) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Import (World) (v1.20) (2018-04-13) (Program).3ds" size="2147483648" crc="eef7c5e9" md5="28c9d4cf29e3ffcdb76bb6a2fff2c7fa" sha1="c1737becdfd1a1cb3391256e6d25158b482b673b" sha256="84cd82980f0da22a3d448704037e9321859c5f217c2d2cbbfb38555eed5c1741" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Import (World) (v1.40) (2015-01-26) (Program)" id="z216">
+	<game name="CTR Eva - Import (World) (v1.40) (2015-01-26) (Program)" id="z216" cloneofid="z198">
 		<category>Applications</category>
 		<description>CTR Eva - Import (World) (v1.40) (2015-01-26) (Program)</description>
 		<game_id>000400000F980000</game_id>
@@ -1625,7 +1625,7 @@
 	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)" id="1513" cloneofid="1049">
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)</description>
 		<game_id>00040000000B8B00</game_id>
-		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1).3ds" size="2147483648" crc="1db7a1d6" md5="4d4fa1c2e9595895591e8bf00ea9d19c" sha1="e65a6043353b63ce316808ffc1233110f1c6bac6" serial="CTR-P-AXCJ"/>
+		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1).3ds" size="2147483648" crc="1db7a1d6" md5="4d4fa1c2e9595895591e8bf00ea9d19c" sha1="e65a6043353b63ce316808ffc1233110f1c6bac6" sha256="941bcc4159d18128ffd26344887919459dded9586958c90e1c65b40d3a038b9b" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
 	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)" id="1555" cloneofid="1049">
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)</description>
@@ -1649,14 +1649,16 @@
 	</game>
 	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)" id="z052" cloneofid="1049">
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)</description>
+		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2).3ds" size="2147483648" crc="5220fdc9" md5="ac276fe84f95388fbe8adc699c8eb1d4" sha1="88f34b19baf9f01a98b34b03d66a47f292eaf681" sha256="5ea38c42bf10623a1f67f1ae0901af7d5e3e2fb24b93a99f3e9713cec4f65677" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)" id="z053">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)" id="z053" cloneofid="1049">
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)</description>
-		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4).3ds" size="2147483648" crc="1d1a4a37" md5="53ec938fdd9984a1a7f470784959b92f" sha1="52d1cb89c01cf7984048efbafe5174657f4d61b0" sha256="3e5a399716047ebe4e2c3895f2c548358948a40d53396775ce5300dd3699c2be" serial="CTR-P-AXCJ"/>
+		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4).3ds" size="2147483648" crc="1d1a4a37" md5="53ec938fdd9984a1a7f470784959b92f" sha1="52d1cb89c01cf7984048efbafe5174657f4d61b0" sha256="3e5a399716047ebe4e2c3895f2c548358948a40d53396775ce5300dd3699c2be" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
 	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)" id="z066" cloneofid="1049">
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)</description>
+		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11).3ds" size="2147483648" crc="974656a8" md5="520de2497725aa201bdddda20d9ec06f" sha1="9f133ba8218f6d0916eb312cde2d1a49b5fe6f92" sha256="8a9baea58e66af6f71314fa8fc9dd5d9c2c16d29f0fb58110fc18bdc9e174205" serial="CTR-P-AXCJ"/>
 	</game>
 	<game name="Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja)" id="z040" cloneofid="1049">
@@ -1671,7 +1673,7 @@
 	<game name="Danball Senki Baku Boost (Japan)" id="1827" cloneofid="1331">
 		<description>Danball Senki Baku Boost (Japan)</description>
 		<game_id>0004000000078500</game_id>
-		<rom name="Danball Senki Baku Boost (Japan).3ds" size="2147483648" crc="3d691731" md5="919482c83301cc342ff4251e949c5db6" sha1="47ca3d76e1a390d15b5e52d69fc989e92f95d5ee" serial="CTR-P-ADNJ"/>
+		<rom name="Danball Senki Baku Boost (Japan).3ds" size="2147483648" crc="3d691731" md5="919482c83301cc342ff4251e949c5db6" sha1="47ca3d76e1a390d15b5e52d69fc989e92f95d5ee" sha256="3e36da47c41ae5678f4e5ac5c59f482e21030493816769da778a496ee09facb8" status="verified" serial="CTR-P-ADNJ"/>
 	</game>
 	<game name="Danball Senki Baku Boost (Japan) (Rev 1)" id="0513" cloneofid="1331">
 		<description>Danball Senki Baku Boost (Japan) (Rev 1)</description>
@@ -3029,7 +3031,7 @@
 	<game name="Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (Japan)" id="1152">
 		<description>Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (Japan)</description>
 		<game_id>000400000012FF00</game_id>
-		<rom name="Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (Japan).3ds" size="268435456" crc="7faaa87d" md5="8ab106ec6a575b323f7d9f6601b2767c" sha1="469592d79ce5aaf10d03dc072fc5a708dbfe8817" sha256="d6ec08156529ad4ca585ea894dd8242de40588927fc5cc1c1aabb366342003dc" serial="CTR-P-BLTJ"/>
+		<rom name="Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (Japan).3ds" size="268435456" crc="7faaa87d" md5="8ab106ec6a575b323f7d9f6601b2767c" sha1="469592d79ce5aaf10d03dc072fc5a708dbfe8817" sha256="d6ec08156529ad4ca585ea894dd8242de40588927fc5cc1c1aabb366342003dc" status="verified" serial="CTR-P-BLTJ"/>
 	</game>
 	<game name="Grande LEGO Aventure - Le Jeu Video, La (France) (En,Fr,Es,It,Nl,Da)" id="1215" cloneofid="0861">
 		<description>Grande LEGO Aventure - Le Jeu Video, La (France) (En,Fr,Es,It,Nl,Da)</description>
@@ -3507,7 +3509,7 @@
 		<game_id>00040000000A2600</game_id>
 		<rom name="Hotel Transylvania (USA) (Rev 1).3ds" size="134217728" crc="32debade" md5="eba5c0ddca0310cb693b20cb0e9bb833" sha1="72ff20488a993299b2364312b58d973a08f7c2b5" serial="CTR-P-AH8E"/>
 	</game>
-	<game name="Hotel Transylvania (United Kingdom)" id="z092">
+	<game name="Hotel Transylvania (United Kingdom)" id="z092" cloneofid="0305">
 		<description>Hotel Transylvania (United Kingdom)</description>
 		<rom name="Hotel Transylvania (United Kingdom).3ds" size="268435456" crc="296b4b45" md5="f0c6b664d481c40583ecf7469947dceb" sha1="b102fe6a7acc75eb5e6e9aa02833d7c4a19af17c" serial="CTR-P-AH8X"/>
 	</game>
@@ -5096,7 +5098,7 @@
 		<game_id>0004000000035500</game_id>
 		<rom name="Madden NFL Football (USA).3ds" size="1073741824" crc="0e4eb0de" md5="c5ab9f4c5f4dfc27091313ba5b77c704" sha1="9dda84e42e184ab23941facff9630a645cc8a968" sha256="9ae26c893ee11835093fbc8fb4d606754c8c1d211a142ef3d3704dfa86acecdf" serial="CTR-P-AMDE"/>
 	</game>
-	<game name="Made in Wario Gorgeous (Japan)" id="1829" cloneofid="1826">
+	<game name="Made in Wario Gorgeous (Japan)" id="1829" cloneofid="1831">
 		<description>Made in Wario Gorgeous (Japan)</description>
 		<game_id>00040000001D1C00</game_id>
 		<rom name="Made in Wario Gorgeous (Japan).3ds" size="2147483648" crc="cf76be81" md5="ad614a338f7427a554cea1076e993bb3" sha1="2fd4d8dab4f772189e26eb1eaac70be4cbe81d49" serial="CTR-P-AWXA"/>
@@ -6060,7 +6062,7 @@
 		<game_id>0004000000181000</game_id>
 		<rom name="My Melody - Negai ga Kanau Fushigi na Hako (Japan).3ds" size="134217728" crc="51f6eba5" md5="566d49d41533a4ca0281f667a1f8e646" sha1="a73e2baa426cbebca308d12c791fc150904d5446" serial="CTR-P-BM7J"/>
 	</game>
-	<game name="My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)" id="1871">
+	<game name="My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)" id="1871" cloneofid="1430">
 		<description>My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)</description>
 		<game_id>0004000000181000</game_id>
 		<rom name="My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto).3ds" size="134217728" crc="a39a2f72" md5="3fb9afe01eba3c52f989cb4333e08cf1" sha1="17e0402259ce02858d2cc439e4b4c74cf2b0ff50" sha256="ed57d7df1ffcc7ebaacb2afe1fcec10554af740d2a73735f969f4c73c4fa36d8" serial="CTR-P-BM7J"/>
@@ -6672,7 +6674,7 @@
 	<game name="One Piece - Unlimited World Red (Japan)" id="0522" cloneofid="0981">
 		<description>One Piece - Unlimited World Red (Japan)</description>
 		<game_id>00040000000F5800</game_id>
-		<rom name="One Piece - Unlimited World Red (Japan).3ds" size="2147483648" crc="80f64d88" md5="42eedaf369c72ae978b22795456dbe45" sha1="c220795eb222f85761033fd75ddae80558f0f7d9" sha256="d582e247f3fa8d4b8374142f1d3a4c96de2732220ba703856ce201f34e0a3e07" serial="CTR-P-BUWJ"/>
+		<rom name="One Piece - Unlimited World Red (Japan).3ds" size="2147483648" crc="80f64d88" md5="42eedaf369c72ae978b22795456dbe45" sha1="c220795eb222f85761033fd75ddae80558f0f7d9" sha256="d582e247f3fa8d4b8374142f1d3a4c96de2732220ba703856ce201f34e0a3e07" status="verified" serial="CTR-P-BUWJ"/>
 	</game>
 	<game name="One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)" id="0981">
 		<description>One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)</description>
@@ -6947,7 +6949,7 @@
 	<game name="Persona Q - Shadow of the Labyrinth (Japan)" id="0956" cloneofid="1119">
 		<description>Persona Q - Shadow of the Labyrinth (Japan)</description>
 		<game_id>00040000000C3600</game_id>
-		<rom name="Persona Q - Shadow of the Labyrinth (Japan).3ds" size="2147483648" crc="63e848c1" md5="20c6261b7de8ded232f05c44891dd453" sha1="8ce8b68cde112fa714ecf304d0c18995da86d762" serial="CTR-P-AQQJ"/>
+		<rom name="Persona Q - Shadow of the Labyrinth (Japan).3ds" size="2147483648" crc="63e848c1" md5="20c6261b7de8ded232f05c44891dd453" sha1="8ce8b68cde112fa714ecf304d0c18995da86d762" sha256="930dc1c279f71433e6fa9a866bda23e4480b3066e0e5a0e0fd7444cbd6f9bbe7" status="verified" serial="CTR-P-AQQJ"/>
 	</game>
 	<game name="Persona Q - Shadow of the Labyrinth (USA)" id="1111" cloneofid="1119">
 		<description>Persona Q - Shadow of the Labyrinth (USA)</description>
@@ -8372,7 +8374,7 @@
 	<game name="Sekaiju to Fushigi no Dungeon (Japan)" id="1195" cloneofid="1335">
 		<description>Sekaiju to Fushigi no Dungeon (Japan)</description>
 		<game_id>0004000000118300</game_id>
-		<rom name="Sekaiju to Fushigi no Dungeon (Japan).3ds" size="1073741824" crc="2c3aa04f" md5="66268d66d838700243e8e537c07ed757" sha1="1e78d71dccd486ddfd8b6d75849813c485d050e2" serial="CTR-P-BFDJ"/>
+		<rom name="Sekaiju to Fushigi no Dungeon (Japan).3ds" size="1073741824" crc="2c3aa04f" md5="66268d66d838700243e8e537c07ed757" sha1="1e78d71dccd486ddfd8b6d75849813c485d050e2" sha256="9326de1a3ee20d4ed33368dc17994ff5772d0d344a0dbd7851e3b093907edd3c" serial="CTR-P-BFDJ"/>
 	</game>
 	<game name="Sekaiju to Fushigi no Dungeon 2 (Japan)" id="1748">
 		<description>Sekaiju to Fushigi no Dungeon 2 (Japan)</description>
@@ -9677,7 +9679,7 @@
 		<game_id>00040000001BF400</game_id>
 		<rom name="Tantei Jinguuji Saburou - Ghost of the Dusk (Japan).3ds" size="536870912" crc="706b72d2" md5="afa5aa0d9b60d32df77e0b0758e75287" sha1="041fead8b0dce7fe847f52d7f1ab92acc3daf377" serial="CTR-P-BG9J"/>
 	</game>
-	<game name="Teddy Together (Europe) (En,Fr,De,Es,It)" id="1538">
+	<game name="Teddy Together (Europe) (En,Fr,De,Es,It)" id="1538" cloneofid="0665">
 		<description>Teddy Together (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000179300</game_id>
 		<rom name="Teddy Together (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="a508ee85" md5="90571133301418cbc50fb4723a315a29" sha1="6b13b5b423122e52a599bad5eb6ac56b29d82149" sha256="debe90608adb1b4f380094345f61a7964f040f4253e0956547f8533a90d47ec9" status="verified" serial="CTR-P-AKMP"/>
@@ -10231,17 +10233,17 @@
 		<game_id>0004000000103200</game_id>
 		<rom name="Wan Nyan Pet Shop (Japan) (Rev 3).3ds" size="536870912" crc="85281db0" md5="54c1571d4c4647ea05e40f66b100de0c" sha1="1dc01e4440598367094e919b3653755bb3170ebe" sha256="75705513d7064fc94c7ae60316f73481077e0d90ebee490b198fce6e7ab7bbb8" serial="CTR-P-BWNJ"/>
 	</game>
-	<game name="WarioWare Gold (Europe) (En,Fr,De,Es,It)" id="1826">
+	<game name="WarioWare Gold (Europe) (En,Fr,De,Es,It)" id="1826" cloneofid="1831">
 		<description>WarioWare Gold (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000001D1C00</game_id>
 		<rom name="WarioWare Gold (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="c34792a3" md5="f9bc894ff5e0419fdcb5038974c87492" sha1="b5df25c317edcc38850a4c126ae80018be2cdf48" status="verified" serial="CTR-P-AWXA"/>
 	</game>
-	<game name="WarioWare Gold (USA)" id="1831" cloneofid="z084">
+	<game name="WarioWare Gold (USA)" id="1831">
 		<description>WarioWare Gold (USA)</description>
 		<game_id>00040000001D1C00</game_id>
 		<rom name="WarioWare Gold (USA).3ds" size="2147483648" crc="352409f0" md5="011cce66a6c433ae896f9aaa6b6a41eb" sha1="2a101197096877a45b49d7ead6e5d3418c0efa3e" sha256="eb7174d0aa24d807d14f1ccedc0fdbabc5a4a896dfc91d5cfb5b904627bb9679" status="verified" serial="CTR-P-AWXA"/>
 	</game>
-	<game name="WarioWare Gold (USA) (Rev 1)" id="z084">
+	<game name="WarioWare Gold (USA) (Rev 1)" id="z084" cloneofid="1831">
 		<description>WarioWare Gold (USA) (Rev 1)</description>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="e2bcebb2" md5="f40bb52ad134c05decc57f4bb9e3027e" sha1="16f3d62884ccade9ddfee4ee55885ed19552b72e" sha256="8d452adc83d706799424ffb3a646545727f15a808a9a5106e61aa0d6301973ee" serial="CTR-P-AWXA"/>
 	</game>
