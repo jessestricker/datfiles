@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260529-103312</version>
+		<version>20260530-211522</version>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Nintendo Game Boy Advance - Game Boy Color Mode Boot ROM (World) (Rev 1)" id="xB04">
@@ -9762,9 +9764,10 @@
 		<description>Pokemon - Sapphire Version (USA, Europe) (Rev 2)</description>
 		<rom name="Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba" size="16777216" crc="9cc4410e" md5="9bc2b765ca6997175fac51e6cdc29089" sha1="89b45fb172e6b55d51fc0e61989775187f6fe63c" sha256="02ca41513580a8b780989dee428df747b52a0b1a55bec617886b4059eb1152fb" status="verified" serial="AXPE"/>
 	</game>
-	<game name="Pokemon - Sapphire Version (USA, Europe, Australia)" id="0882" cloneofid="1986">
-		<description>Pokemon - Sapphire Version (USA, Europe, Australia)</description>
-		<rom name="Pokemon - Sapphire Version (USA, Europe, Australia).gba" size="16777216" crc="554dedc4" md5="f34e91399c719812e66e2c828a2e93d7" sha1="3ccbbd45f8553c36463f13b938e833f652b793e4" sha256="c36c1b899503e8823ee7eb607eea583adcef7ea92ff804838b193c227f2c6657" status="verified" serial="AXPE"/>
+	<game name="Pokemon - Sapphire Version (USA, Europe)" id="0882" cloneofid="1986">
+		<category>Games</category>
+		<description>Pokemon - Sapphire Version (USA, Europe)</description>
+		<rom name="Pokemon - Sapphire Version (USA, Europe).gba" size="16777216" crc="554dedc4" md5="f34e91399c719812e66e2c828a2e93d7" sha1="3ccbbd45f8553c36463f13b938e833f652b793e4" sha256="c36c1b899503e8823ee7eb607eea583adcef7ea92ff804838b193c227f2c6657" status="verified" serial="AXPE"/>
 	</game>
 	<game name="Pokemon - Sapphire Version - Gotta Catch 'em All! (USA) (Pirate)" id="2935" cloneofid="1986">
 		<category>Games</category>
@@ -10670,7 +10673,7 @@
 	<game name="Rugrats - Castle Capers (World) (Retro Rewind Collection)" id="x553" cloneofid="0119">
 		<category>Games</category>
 		<description>Rugrats - Castle Capers (World) (Retro Rewind Collection)</description>
-		<rom name="Rugrats - Castle Capers (World) (Retro Rewind Collection).gba" size="8388608" crc="41d4137f" md5="e8733c4db3b7cc3cd85db3183859723d" sha1="4f0ba185c5edefdf348e76cb58e86aacc664de67" sha256="ec19d03c8b8cc7f5a6d1bba38692296f4355685e9dc0dae413f29a58df1369fb" serial="ARGE"/>
+		<rom name="Rugrats - Castle Capers (World) (Retro Rewind Collection).gba" size="8388608" crc="41d4137f" md5="e8733c4db3b7cc3cd85db3183859723d" sha1="4f0ba185c5edefdf348e76cb58e86aacc664de67" sha256="ec19d03c8b8cc7f5a6d1bba38692296f4355685e9dc0dae413f29a58df1369fb" mia="yes" serial="ARGE"/>
 	</game>
 	<game name="Rugrats - Go Wild (USA, Europe)" id="1020">
 		<description>Rugrats - Go Wild (USA, Europe)</description>

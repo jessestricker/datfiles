@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260528-102833</version>
+		<version>20260530-021839</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Atari Lynx (World)" id="0001">
@@ -92,6 +94,12 @@
 		<description>Blue Lightning (World)</description>
 		<rom name="Blue Lightning (World).lyx" size="131072" crc="daf587b1" md5="f7b4775771bc25d9053af5c69a8c8b2a" sha1="be08076586f76db368db1769380dcbb6de2a6513" sha256="c7f5076eba7faadff78611aac6a207ec6f23e9555646d227d0908ade97a556a9"/>
 	</game>
+	<game name="Blue Lightning (World) (Beta) (1989-06-02)" id="0437" cloneofid="0013">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Blue Lightning (World) (Beta) (1989-06-02)</description>
+		<rom name="Blue Lightning (World) (Beta) (1989-06-02).lyx" size="131072" crc="abf22530" md5="a4ab63fa832976cb87df0465035420e6" sha1="119600777ae1694aae34083d7df14d283fca25ce" sha256="4aba2d31f26ca18dfdd833c3651d8e7751fac9f8890b753f24700e4847402b66"/>
+	</game>
 	<game name="Bubble Trouble (USA, Europe)" id="0014">
 		<category>Games</category>
 		<description>Bubble Trouble (USA, Europe)</description>
@@ -106,6 +114,13 @@
 		<category>Games</category>
 		<description>California Games (World)</description>
 		<rom name="California Games (World).lyx" size="131072" crc="a08f0b59" md5="73e02bb77dcf857a6578f0e24b4ecb9e" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e" sha256="f36738dbc33c2e8d1756a7f1e483f7c70e9c97bf80e6251fdedc2d69e0ef12a0" status="verified"/>
+	</game>
+	<game name="California Games (World) (Beta)" id="0438" cloneofid="0015">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>California Games (World) (Beta)</description>
+		<rom name="California Games (World) (Beta).lyx" size="131072" crc="14c01e5f" md5="3a45840d11e07a7d687a5eb3b46e34d6" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" sha256="c33658ddd66d1eba4e99f62711b7c0a4e64b7c0fc5187e9e165746fbe4f9a39d" status="verified"/>
+		<rom name="California Games (World) (Beta).lyx" size="131072" crc="14c01e5f" md5="3a45840d11e07a7d687a5eb3b46e34d6" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" sha256="c33658ddd66d1eba4e99f62711b7c0a4e64b7c0fc5187e9e165746fbe4f9a39d" status="verified"/>
 	</game>
 	<game name="Centipede (USA) (Proto)" id="0016">
 		<category>Games</category>

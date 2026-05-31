@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Discs (2682) (2026-05-30 03-35-52)</description>
-		<version>2026-05-30 03-35-52</version>
-		<date>2026-05-30 03-35-52</date>
+		<description>Microsoft - Xbox - Discs (2683) (2026-05-31 15-14-01)</description>
+		<version>2026-05-31 15-14-01</version>
+		<date>2026-05-31 15-14-01</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -13425,5 +13425,10 @@
 		<category>Coverdiscs</category>
 		<description>Official Xbox Starter Pack 2005, The (UK)</description>
 		<rom name="Official Xbox Starter Pack 2005, The (UK).iso" size="7825162240" crc="e2917a8f" md5="014b252c45a1f28e725bf0ba86399e1b" sha1="cbef2ef547c6b16c1b18196128622dfc9fcb89b7"/>
+	</game>
+	<game name="Mortal Kombat - Deadly Alliance (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Mortal Kombat - Deadly Alliance (USA) (Rev 1)</description>
+		<rom name="Mortal Kombat - Deadly Alliance (USA) (Rev 1).iso" size="7825162240" crc="d33f53f8" md5="6d6450504237ff976cf508e941986746" sha1="0ff18e6198085f471002f0f7d6e757acf5b1bee4"/>
 	</game>
 </datafile>
