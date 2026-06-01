@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260529-201852</version>
+		<version>20260531-205215</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] iQue DS Firmware (China) (En,Fr,De,Es,It,Zh) (2005-06-09)" id="xB16">
@@ -6706,7 +6708,7 @@
 	</game>
 	<game name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)" id="3396">
 		<description>Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="8c52ee62" md5="070e86323e235bd3b20f03284594fe61" sha1="f39bdf2b0adb48b955fc840a4d8bcd8556688715" sha256="3edea612a93a967c237377a14b2ae396834d524e3e9414500f2679553fa8ab05" serial="YV5P"/>
+		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="214c3931" md5="87215d7ddf71304f80afbbfd7b8a8455" sha1="2b9c82283776026d931075de8b87994cd0ee948e" sha256="15ac0888fbcda0fcfef0623ddbb47630ed8d8bb5968d2f2e563c3d9243362be7" serial="YV5P"/>
 	</game>
 	<game name="Dragon Quest Heroes - Rocket Slime (USA)" id="0569">
 		<description>Dragon Quest Heroes - Rocket Slime (USA)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Discs (10909) (2026-05-31 15-54-03)</description>
-		<version>2026-05-31 15-54-03</version>
-		<date>2026-05-31 15-54-03</date>
+		<description>Sony - PlayStation - Discs (10910) (2026-06-01 19-55-57)</description>
+		<version>2026-06-01 19-55-57</version>
+		<date>2026-06-01 19-55-57</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -103802,5 +103802,11 @@
 		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 5).bin" size="23221296" crc="866c80ba" md5="b772d7d7a1b5b7c10b3f47e62ad1faa7" sha1="b5d2e40f9be7ec7ab43ed4fc6c9dae76a3dd5f0d"/>
 		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 6).bin" size="21520800" crc="1fcd8e20" md5="a5b9901bd6383fb524a2c25156560f3c" sha1="5aaa6263517795b01fa8fe66302fa23f79b07a58"/>
 		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 7).bin" size="70004928" crc="723fd549" md5="ee207198423c747cc16455312ce010ec" sha1="3057f7eae947b6fddb2585e62ba05223cd87c133"/>
+	</game>
+	<game name="Spyro the Dragon (USA) (Beta) (1998-04-21)">
+		<category>Preproduction</category>
+		<description>Spyro the Dragon (USA) (Beta) (1998-04-21)</description>
+		<rom name="Spyro the Dragon (USA) (Beta) (1998-04-21).cue" size="108" crc="b152f340" md5="fdee2d4c579dc6b465f4222bfd022c21" sha1="b5f904c914300c4f81fac289b7ba4fda6fed7184"/>
+		<rom name="Spyro the Dragon (USA) (Beta) (1998-04-21).bin" size="325370976" crc="af6b5b90" md5="189ed3a1363804efac512ac02637a63a" sha1="8d2b7027f39da300e47a4711c2d3b27347d24ea8"/>
 	</game>
 </datafile>

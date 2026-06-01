@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
-		<description>Commodore - Amiga CD - Discs (595) (2026-05-13 10-06-13)</description>
-		<version>2026-05-13 10-06-13</version>
-		<date>2026-05-13 10-06-13</date>
+		<description>Commodore - Amiga CD - Discs (596) (2026-06-02 00-27-14)</description>
+		<version>2026-06-02 00-27-14</version>
+		<date>2026-06-02 00-27-14</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3925,5 +3925,11 @@
 		<description>CDPD 4 (Europe)</description>
 		<rom name="CDPD 4 (Europe).cue" size="81" crc="99a9c5a3" md5="4fb929589e0455005b488ba342b70c06" sha1="bc3ac13651f54508483305cc29567064e3999ed1"/>
 		<rom name="CDPD 4 (Europe).bin" size="781240320" crc="186c7966" md5="769a2bd2d4dcf7f6c8dc7553c7da8b92" sha1="6e62b737cb5d698484989a0697b6c0218b3e5a41"/>
+	</game>
+	<game name="Encounters (UK)">
+		<category>Multimedia</category>
+		<description>Encounters (UK)</description>
+		<rom name="Encounters (UK).cue" size="104" crc="1dda0e90" md5="46b528ef3b8c0333703558731cf744a7" sha1="f502a84b70258945fab65f048226dbb82571632d"/>
+		<rom name="Encounters (UK).bin" size="249972912" crc="9a5527bc" md5="60c68b0a19870e1c4f83b2d0ba92e9ec" sha1="a83067966fad46871d02666595e7df88f0848686"/>
 	</game>
 </datafile>
