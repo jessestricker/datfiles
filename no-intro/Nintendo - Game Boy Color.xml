@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260529-045215</version>
+		<version>20260602-002105</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Challenger GB (USA) (Unl)" id="1588">
@@ -4737,13 +4739,13 @@
 		<description>O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)</description>
 		<rom name="O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).gbc" size="1048576" crc="3485761a" md5="7784ff1a16b15e8e55a6b43159cc1774" sha1="724aa0f905d7a6e7b9b2b01a477f424ac95eadf9"/>
 	</game>
-	<game name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="1393" cloneofid="0837">
-		<description>Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>
-		<rom name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="4b83b14f" md5="68715e0a2805e3fc019fec35a9cff0d4" sha1="c9d4d1dd1c33a9fa9b54e9f2a7a5f6dd90069b91" status="verified"/>
-	</game>
 	<game name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)" id="0837">
 		<description>Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)</description>
 		<rom name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="5c260d5a" md5="627c3542307661990802806ebd0acd90" sha1="a35ccdf0789ce84df3c12cfe7c4b9b98af08ca9a"/>
+	</game>
+	<game name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="1393" cloneofid="0837">
+		<description>Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>
+		<rom name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="4b83b14f" md5="68715e0a2805e3fc019fec35a9cff0d4" sha1="c9d4d1dd1c33a9fa9b54e9f2a7a5f6dd90069b91" status="verified"/>
 	</game>
 	<game name="Ohasuta Dance Dance Revolution GB (Japan)" id="0838">
 		<description>Ohasuta Dance Dance Revolution GB (Japan)</description>
@@ -5009,6 +5011,11 @@
 		<description>Pocket Music (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Pocket Music (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="1bfb531e" md5="84eede6bb298dd354f251eccb1259316" sha1="74dc5efab773fde400304d3df8034a095af8a742"/>
 	</game>
+	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
+		<category>Games</category>
+		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
+		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
+	</game>
 	<game name="Pocket Music (USA) (En,Es) (Proto) (2003-03-07)" id="2612" cloneofid="0890">
 		<category>Games</category>
 		<description>Pocket Music (USA) (En,Es) (Proto) (2003-03-07)</description>
@@ -5018,11 +5025,6 @@
 		<category>Preproduction</category>
 		<description>Pocket Music (World) (Proto) (Riff Sampler Test)</description>
 		<rom name="Pocket Music (World) (Proto) (Riff Sampler Test).gbc" size="32768" crc="419d4565" md5="c159483205c4855951fbde09af451984" sha1="b7ecdd51358e2794a45b425ada778722f5f000c0" sha256="2cd0a0e7a520a26796398d3bd2d97f83434bee990121a4f25332d6e192d8602f"/>
-	</game>
-	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
-		<category>Games</category>
-		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
-		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
 	</game>
 	<game name="Pocket no Naka no Oukoku (Japan) (Proto)" id="0891">
 		<description>Pocket no Naka no Oukoku (Japan) (Proto)</description>
@@ -5175,15 +5177,15 @@
 		<description>Pokemon de Panepon (Japan)</description>
 		<rom name="Pokemon de Panepon (Japan).gbc" size="2097152" crc="6bf7e4a6" md5="510eb8c9df5d3f71e01f5a7898a0a1f1" sha1="110ae6649b4264f88d82760ad6ae4ee7f07db9b2" status="verified"/>
 	</game>
-	<game name="Pokemon Diamond (Taiwan) (En) (Unl)" id="1767" cloneofid="1766">
-		<category>Games</category>
-		<description>Pokemon Diamond (Taiwan) (En) (Unl)</description>
-		<rom name="Pokemon Diamond (Taiwan) (En) (Unl).gbc" size="524288" crc="1b5bef4b" md5="417b0d90e313a7e2ff10b73925158f46" sha1="433e7991b706baedf59af8b91bc142ba2f72112f" sha256="7aefd42da1fdb1230cf8319b9e06eaaaabdffa34de3bc4c3b15e1feb2adb722c"/>
-	</game>
 	<game name="Pokemon Diamond (Taiwan) (Zh) (Unl)" id="2541" cloneofid="1766">
 		<category>Games</category>
 		<description>Pokemon Diamond (Taiwan) (Zh) (Unl)</description>
 		<rom name="Pokemon Diamond (Taiwan) (Zh) (Unl).gbc" size="524288" crc="7309551a" md5="a8ee3ff6fbce24d27334cf532a000206" sha1="3fb38a7f49e13f5bfce0cd1983d9006b30f68930" sha256="6cf9782a6f1cdc768213cc058e93a860b210314d289007a8811c8b1c09f37c9e"/>
+	</game>
+	<game name="Pokemon Diamond (Taiwan) (En) (Unl)" id="1767" cloneofid="1766">
+		<category>Games</category>
+		<description>Pokemon Diamond (Taiwan) (En) (Unl)</description>
+		<rom name="Pokemon Diamond (Taiwan) (En) (Unl).gbc" size="524288" crc="1b5bef4b" md5="417b0d90e313a7e2ff10b73925158f46" sha1="433e7991b706baedf59af8b91bc142ba2f72112f" sha256="7aefd42da1fdb1230cf8319b9e06eaaaabdffa34de3bc4c3b15e1feb2adb722c"/>
 	</game>
 	<game name="Pokemon Gold (Taiwan) (En) (Unl)" id="2306">
 		<category>Games</category>

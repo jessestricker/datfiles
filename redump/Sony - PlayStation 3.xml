@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4497) (2026-05-31 16-00-26)</description>
-		<version>2026-05-31 16-00-26</version>
-		<date>2026-05-31 16-00-26</date>
+		<description>Sony - PlayStation 3 - Discs (4498) (2026-06-02 17-53-32)</description>
+		<version>2026-06-02 17-53-32</version>
+		<date>2026-06-02 17-53-32</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22506,5 +22506,10 @@
 		<category>Preproduction</category>
 		<description>MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06)</description>
 		<rom name="MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06).iso" size="2148073472" crc="0b650ece" md5="d480e793d8b9bcc487b1d525a5eca5b9" sha1="6f3106b509b6401b51b41d2f33dc6ae113573784"/>
+	</game>
+	<game name="Battlefield - Bad Company (Korea) (En,Fr)">
+		<category>Games</category>
+		<description>Battlefield - Bad Company (Korea) (En,Fr)</description>
+		<rom name="Battlefield - Bad Company (Korea) (En,Fr).iso" size="6889668608" crc="63235cff" md5="85356b8027accc1f7ae728f87587332d" sha1="f7fe808d6c949e85ba609981efdb046f92cf12c5"/>
 	</game>
 </datafile>

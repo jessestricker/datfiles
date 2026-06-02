@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>74</id>
 		<name>Atari - Atari 7800 (BIN)</name>
 		<description>Atari - Atari 7800 (BIN)</description>
-		<version>20260504-112425</version>
+		<version>20260601-051249</version>
 		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Atari 7800 (USA)" id="0002" cloneofid="0001">
@@ -76,7 +78,7 @@
 	</game>
 	<game name="Basketbrawl (Europe)" id="0012">
 		<description>Basketbrawl (Europe)</description>
-		<rom name="Basketbrawl (Europe).bin" size="131072" crc="a4265d4b" md5="fba002089fcfa176454ab507e0eb76cb" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3" sha256="6b7cde57e026d97b7696aff8a1ff24afac50bec960dc31a63aed50750052bb7f"/>
+		<rom name="Basketbrawl (Europe).bin" size="131072" crc="a4265d4b" md5="fba002089fcfa176454ab507e0eb76cb" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3" sha256="6b7cde57e026d97b7696aff8a1ff24afac50bec960dc31a63aed50750052bb7f" status="verified"/>
 	</game>
 	<game name="Centipede (Europe)" id="0014">
 		<description>Centipede (Europe)</description>
