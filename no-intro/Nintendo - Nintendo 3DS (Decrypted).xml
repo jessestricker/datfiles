@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260531-191511</version>
+		<version>20260603-060232</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -871,7 +871,7 @@
 	<game name="Bokujou Monogatari - Tsunagaru Shin Tenchi (Japan)" id="0672" cloneofid="1420">
 		<description>Bokujou Monogatari - Tsunagaru Shin Tenchi (Japan)</description>
 		<game_id>000400000010BC00</game_id>
-		<rom name="Bokujou Monogatari - Tsunagaru Shin Tenchi (Japan).3ds" size="1073741824" crc="09186848" md5="cbf986c6f2f60ff0ab7ef7f18d00ad1d" sha1="64d1da818d7962b8d03b8138e6b6185669c0d0ea" serial="CTR-P-BTSJ"/>
+		<rom name="Bokujou Monogatari - Tsunagaru Shin Tenchi (Japan).3ds" size="1073741824" crc="09186848" md5="cbf986c6f2f60ff0ab7ef7f18d00ad1d" sha1="64d1da818d7962b8d03b8138e6b6185669c0d0ea" sha256="42da3f3d8834410d9281843afd2ade73a9f0aa3b86617a14bf170d3bb033a763" serial="CTR-P-BTSJ"/>
 	</game>
 	<game name="Bonbonribbon - Tokimeki Coord Kirakira Dance (Japan)" id="1320">
 		<description>Bonbonribbon - Tokimeki Coord Kirakira Dance (Japan)</description>
@@ -1106,7 +1106,7 @@
 	<game name="Centipede - Infestation (USA) (En,Fr,Es)" id="0148">
 		<description>Centipede - Infestation (USA) (En,Fr,Es)</description>
 		<game_id>000400000004AD00</game_id>
-		<rom name="Centipede - Infestation (USA) (En,Fr,Es).3ds" size="536870912" crc="19b50c56" md5="9ec7a8e18084425e9a1833c208781fe2" sha1="e03c8264313dbbf46b635b75cb51e3751bbaf346" serial="CTR-P-ACPE"/>
+		<rom name="Centipede - Infestation (USA) (En,Fr,Es).3ds" size="536870912" crc="19b50c56" md5="9ec7a8e18084425e9a1833c208781fe2" sha1="e03c8264313dbbf46b635b75cb51e3751bbaf346" sha256="25583fa640f31c7c56452fe176c5da8b02a30569fa3dff53ce265895f5d4085e" serial="CTR-P-ACPE"/>
 	</game>
 	<game name="Chao Illust Club (Japan)" id="1429">
 		<description>Chao Illust Club (Japan)</description>
@@ -2143,7 +2143,7 @@
 	<game name="Doubutsu no Mori - Happy Home Designer (Japan)" id="1309" cloneofid="z166">
 		<description>Doubutsu no Mori - Happy Home Designer (Japan)</description>
 		<game_id>000400000014F000</game_id>
-		<rom name="Doubutsu no Mori - Happy Home Designer (Japan).3ds" size="1073741824" crc="ae93075d" md5="39b27d05b549e4e9afc304b41cbc85fa" sha1="99f0b83ba6551b094ca0a735b9c52bec3db3dccf" serial="CTR-P-EDHJ"/>
+		<rom name="Doubutsu no Mori - Happy Home Designer (Japan).3ds" size="1073741824" crc="ae93075d" md5="39b27d05b549e4e9afc304b41cbc85fa" sha1="99f0b83ba6551b094ca0a735b9c52bec3db3dccf" sha256="d611f72524bbcb37ad3f29ef05ac465388c286cf1ff93c56efa1364ded753b5f" serial="CTR-P-EDHJ"/>
 	</game>
 	<game name="Doubutsu no Mori - Happy Home Designer (Japan) (Rev 1)" id="1854" cloneofid="z166">
 		<description>Doubutsu no Mori - Happy Home Designer (Japan) (Rev 1)</description>
@@ -3433,7 +3433,7 @@
 	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1)" id="z213" cloneofid="1006">
 		<description>Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1)</description>
 		<game_id>000400000012A800</game_id>
-		<rom name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1).3ds" size="536870912" crc="321a61d1" md5="89be7b525c9a90a3e995b1feedeb213a" sha1="3aa2502c3af539d049d3a2686ed6825a0a40133d" sha256="fa0c90d0d5c2bff2c208ecd57e9e6010bc6ad896fc01ad88260b4d40de559691" serial="CTR-P-BH2J"/>
+		<rom name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1).3ds" size="536870912" crc="321a61d1" md5="89be7b525c9a90a3e995b1feedeb213a" sha1="3aa2502c3af539d049d3a2686ed6825a0a40133d" sha256="fa0c90d0d5c2bff2c208ecd57e9e6010bc6ad896fc01ad88260b4d40de559691" status="verified" serial="CTR-P-BH2J"/>
 	</game>
 	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)" id="1006">
 		<description>Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)</description>
@@ -4161,7 +4161,7 @@
 	<game name="Kobito Dukan - Kobito Kansatsu Set (Japan) (Rev 1)" id="0718">
 		<description>Kobito Dukan - Kobito Kansatsu Set (Japan) (Rev 1)</description>
 		<game_id>0004000000095B00</game_id>
-		<rom name="Kobito Dukan - Kobito Kansatsu Set (Japan) (Rev 1).3ds" size="268435456" crc="4223e73e" md5="b834fae05a4d92f6657d3b8d1b198574" sha1="42f8df07516e934c1126b4c8ea6f4ac88730a61c" serial="CTR-P-AKVJ"/>
+		<rom name="Kobito Dukan - Kobito Kansatsu Set (Japan) (Rev 1).3ds" size="268435456" crc="4223e73e" md5="b834fae05a4d92f6657d3b8d1b198574" sha1="42f8df07516e934c1126b4c8ea6f4ac88730a61c" sha256="445116cc0b16aa28be22f2dac57bd4b31371126567383800565902774410c2c0" status="verified" serial="CTR-P-AKVJ"/>
 	</game>
 	<game name="Kobito Dukan - Kobito Kansatsu Set (Japan)" id="z181">
 		<description>Kobito Dukan - Kobito Kansatsu Set (Japan)</description>
@@ -4326,7 +4326,7 @@
 	<game name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan)" id="1737" cloneofid="1757">
 		<description>Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan)</description>
 		<game_id>00040000001C1900</game_id>
-		<rom name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan).3ds" size="1073741824" crc="60d9e3c2" md5="d1324b81305ba7585852fa6f00be1357" sha1="5845888bd65c96a964c1b08b55336113d6fb4856" sha256="e04a310957e2c8878af4507c0cabc79b28f7b2dd755191227b4ad2fc6ec0b9c3" serial="CTR-P-BLFJ"/>
+		<rom name="Layton's Mystery Journey - Katrielle to Daifugou no Inbou (Japan).3ds" size="1073741824" crc="60d9e3c2" md5="d1324b81305ba7585852fa6f00be1357" sha1="5845888bd65c96a964c1b08b55336113d6fb4856" sha256="e04a310957e2c8878af4507c0cabc79b28f7b2dd755191227b4ad2fc6ec0b9c3" status="verified" serial="CTR-P-BLFJ"/>
 	</game>
 	<game name="LBX - Little Battlers eXperience (USA) (En,Fr,Es)" id="1328" cloneofid="1331">
 		<description>LBX - Little Battlers eXperience (USA) (En,Fr,Es)</description>
@@ -4690,7 +4690,7 @@
 	<game name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)" id="1443" cloneofid="1449">
 		<description>LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)</description>
 		<game_id>0004000000168500</game_id>
-		<rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="7c64d256" md5="a67226fc274b32885f09a882895e82e6" sha1="2f143547140254f857e3e9af1f3816fcbee45d39" serial="CTR-P-ALEE"/>
+		<rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="7c64d256" md5="a67226fc274b32885f09a882895e82e6" sha1="2f143547140254f857e3e9af1f3816fcbee45d39" sha256="e7df862147482d235e6e4349783fb67b9ff657d2ee9f13ec6eb9de59cf3bf413" serial="CTR-P-ALEE"/>
 	</game>
 	<game name="LEGO Marvel Avengers (Europe) (En,Fr,De,Es,It,Nl,Da)" id="1449">
 		<description>LEGO Marvel Avengers (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -6646,7 +6646,7 @@
 	<game name="One Piece - Romance Dawn - Bouken no Yoake (Japan)" id="0682" cloneofid="0507">
 		<description>One Piece - Romance Dawn - Bouken no Yoake (Japan)</description>
 		<game_id>00040000000DBC00</game_id>
-		<rom name="One Piece - Romance Dawn - Bouken no Yoake (Japan).3ds" size="1073741824" crc="1fdda15a" md5="667e0f4fcc8dde13c891c148fb4b054b" sha1="5a15013f9b61955d105b7e2032b138ef3d65c792" serial="CTR-P-BRDJ"/>
+		<rom name="One Piece - Romance Dawn - Bouken no Yoake (Japan).3ds" size="1073741824" crc="1fdda15a" md5="667e0f4fcc8dde13c891c148fb4b054b" sha1="5a15013f9b61955d105b7e2032b138ef3d65c792" sha256="53829f5360a843cafbd6c60a0e23c6e4a48ac4bb2a044b8a9701a91ace59932d" status="verified" serial="CTR-P-BRDJ"/>
 	</game>
 	<game name="One Piece - Super Grand Battle! X (Japan)" id="1114">
 		<description>One Piece - Super Grand Battle! X (Japan)</description>
@@ -6656,7 +6656,7 @@
 	<game name="One Piece - Unlimited Cruise SP (Japan) (Rev 1)" id="1836" cloneofid="0132">
 		<description>One Piece - Unlimited Cruise SP (Japan) (Rev 1)</description>
 		<game_id>0004000000047E00</game_id>
-		<rom name="One Piece - Unlimited Cruise SP (Japan) (Rev 1).3ds" size="1073741824" crc="c3e5e709" md5="436d6b7db685c621d1234a08c1bb771b" sha1="255f0fa8454440bdc9798f190d87255d64926d29" serial="CTR-P-ALFJ"/>
+		<rom name="One Piece - Unlimited Cruise SP (Japan) (Rev 1).3ds" size="1073741824" crc="c3e5e709" md5="436d6b7db685c621d1234a08c1bb771b" sha1="255f0fa8454440bdc9798f190d87255d64926d29" sha256="cd7afa6d68bd9148497d4655c064a188da6e8b4e31a0fa6d37a8c54bf8909644" status="verified" serial="CTR-P-ALFJ"/>
 	</game>
 	<game name="One Piece - Unlimited Cruise SP (Europe) (En,Fr,De,Es,It)" id="0132">
 		<description>One Piece - Unlimited Cruise SP (Europe) (En,Fr,De,Es,It)</description>
@@ -6866,7 +6866,7 @@
 	<game name="Paddington - Adventures in London (USA)" id="1323" cloneofid="1291">
 		<description>Paddington - Adventures in London (USA)</description>
 		<game_id>000400000016B900</game_id>
-		<rom name="Paddington - Adventures in London (USA).3ds" size="134217728" crc="0430d544" md5="6d814967924f9f53ebb80c5c13de089d" sha1="eca25c850620fca1f3a980a7b4626ad93be0f253" serial="CTR-P-BPLE"/>
+		<rom name="Paddington - Adventures in London (USA).3ds" size="134217728" crc="0430d544" md5="6d814967924f9f53ebb80c5c13de089d" sha1="eca25c850620fca1f3a980a7b4626ad93be0f253" sha256="0566563c44f133b5b65748514416a18c6a89f04534d3f6906926d49125c2ee24" serial="CTR-P-BPLE"/>
 	</game>
 	<game name="Paper Mario - Sticker Star (Korea)" id="z002" cloneofid="0238">
 		<description>Paper Mario - Sticker Star (Korea)</description>
@@ -6911,7 +6911,7 @@
 	<game name="PazuDora Z - Puzzle &amp; Dragons Z (Japan)" id="0614">
 		<description>PazuDora Z - Puzzle &amp; Dragons Z (Japan)</description>
 		<game_id>00040000000C3900</game_id>
-		<rom name="PazuDora Z - Puzzle &amp; Dragons Z (Japan).3ds" size="1073741824" crc="dffbf0ed" md5="e1ce6f31fdc2d00c40927e153abb57ea" sha1="29e57c91e015c5a7435434433f17416b9a45c4de" status="verified" serial="CTR-P-AZGJ"/>
+		<rom name="PazuDora Z - Puzzle &amp; Dragons Z (Japan).3ds" size="1073741824" crc="dffbf0ed" md5="e1ce6f31fdc2d00c40927e153abb57ea" sha1="29e57c91e015c5a7435434433f17416b9a45c4de" sha256="625f4c5129ce6259f8be04c1f8b36175a97f1ac335e4d86e61f62ac64ce0bc25" status="verified" serial="CTR-P-AZGJ"/>
 	</game>
 	<game name="Pazuru (Europe) (En,Fr,De,Es)" id="1238">
 		<description>Pazuru (Europe) (En,Fr,De,Es)</description>
@@ -7573,7 +7573,7 @@
 	<game name="Pro Yakyuu Famista 2011 (Japan)" id="0424">
 		<description>Pro Yakyuu Famista 2011 (Japan)</description>
 		<game_id>0004000000039600</game_id>
-		<rom name="Pro Yakyuu Famista 2011 (Japan).3ds" size="268435456" crc="05eb9591" md5="8ca885583e1de3124d2c4b1cdd004be6" sha1="93a4bf306cd6fea0878d4df42085755fba8216e4" serial="CTR-P-AFSJ"/>
+		<rom name="Pro Yakyuu Famista 2011 (Japan).3ds" size="268435456" crc="05eb9591" md5="8ca885583e1de3124d2c4b1cdd004be6" sha1="93a4bf306cd6fea0878d4df42085755fba8216e4" sha256="a853596c6414e1dd0f4e0028628285ab155c0fcbeb8090729557e5a671e8b409" serial="CTR-P-AFSJ"/>
 	</game>
 	<game name="Pro Yakyuu Famista Climax (Japan)" id="1693">
 		<description>Pro Yakyuu Famista Climax (Japan)</description>
@@ -7828,7 +7828,7 @@
 	<game name="Puzzle &amp; Dragons X - Ryuu no Shou (Japan)" id="1554">
 		<description>Puzzle &amp; Dragons X - Ryuu no Shou (Japan)</description>
 		<game_id>0004000000182E00</game_id>
-		<rom name="Puzzle &amp; Dragons X - Ryuu no Shou (Japan).3ds" size="2147483648" crc="81ec87b6" md5="9a025dd6836da8e9ded303af5e32aaad" sha1="24d9d2a86c47440e03c7d57403391be75500a110" serial="CTR-P-BPVJ"/>
+		<rom name="Puzzle &amp; Dragons X - Ryuu no Shou (Japan).3ds" size="2147483648" crc="81ec87b6" md5="9a025dd6836da8e9ded303af5e32aaad" sha1="24d9d2a86c47440e03c7d57403391be75500a110" sha256="29fa73ded43ed7812a108b8fd6e4c92714104ad8df22c8f250041f52bf8cd8e3" serial="CTR-P-BPVJ"/>
 	</game>
 	<game name="Puzzle &amp; Dragons Z - Puzzle &amp; Dragons Super Mario Bros Edition (Korea)" id="z118" cloneofid="1245">
 		<description>Puzzle &amp; Dragons Z - Puzzle &amp; Dragons Super Mario Bros Edition (Korea)</description>
@@ -7978,7 +7978,7 @@
 	<game name="Rayman Origins (USA) (En,Fr,Es)" id="0252" cloneofid="0189">
 		<description>Rayman Origins (USA) (En,Fr,Es)</description>
 		<game_id>0004000000057600</game_id>
-		<rom name="Rayman Origins (USA) (En,Fr,Es).3ds" size="268435456" crc="cc647875" md5="3ccb280c33b0fe611f5ff74e19159337" sha1="2cad5a68b9e837ebbbba134694674e0f9afa4e43" serial="CTR-P-ARME"/>
+		<rom name="Rayman Origins (USA) (En,Fr,Es).3ds" size="268435456" crc="cc647875" md5="3ccb280c33b0fe611f5ff74e19159337" sha1="2cad5a68b9e837ebbbba134694674e0f9afa4e43" sha256="9cc97b672cb20050ec225c89aa8f514923e50e13caa9d79ebba9a8d6c16175e8" serial="CTR-P-ARME"/>
 	</game>
 	<game name="Rayman Origins (Japan)" id="0848" cloneofid="0189">
 		<description>Rayman Origins (Japan)</description>
@@ -8149,7 +8149,7 @@
 	<game name="Rise of the Guardians (USA) (En,Fr,Es)" id="0616" cloneofid="0334">
 		<description>Rise of the Guardians (USA) (En,Fr,Es)</description>
 		<game_id>00040000000B0400</game_id>
-		<rom name="Rise of the Guardians (USA) (En,Fr,Es).3ds" size="134217728" crc="e68cd646" md5="1f20b9938f33a422446262a3c76c3b85" sha1="0fa1e736d9e186bedce36ab232de35d0c2e91573" sha256="4b9d0a29972dbd43bca8f47ce08e443e1066fba1d38179ed0480aeb33c257aa0" serial="CTR-P-ARGE"/>
+		<rom name="Rise of the Guardians (USA) (En,Fr,Es).3ds" size="134217728" crc="e68cd646" md5="1f20b9938f33a422446262a3c76c3b85" sha1="0fa1e736d9e186bedce36ab232de35d0c2e91573" sha256="4b9d0a29972dbd43bca8f47ce08e443e1066fba1d38179ed0480aeb33c257aa0" status="verified" serial="CTR-P-ARGE"/>
 	</game>
 	<game name="River City - Rival Showdown (USA)" id="1778">
 		<description>River City - Rival Showdown (USA)</description>
@@ -9319,7 +9319,7 @@
 	<game name="Super Mario Maker for Nintendo 3DS (Japan)" id="1616" cloneofid="z079">
 		<description>Super Mario Maker for Nintendo 3DS (Japan)</description>
 		<game_id>00040000001A0300</game_id>
-		<rom name="Super Mario Maker for Nintendo 3DS (Japan).3ds" size="536870912" crc="c1696cae" md5="d05528a3aca06e4329240fd6c32c8ed5" sha1="ac6bc8cfbccdd81c38fa4659c8e5223682a9bee5" serial="CTR-P-AJHJ"/>
+		<rom name="Super Mario Maker for Nintendo 3DS (Japan).3ds" size="536870912" crc="c1696cae" md5="d05528a3aca06e4329240fd6c32c8ed5" sha1="ac6bc8cfbccdd81c38fa4659c8e5223682a9bee5" sha256="a636236a009711484117ff29632fea7a592741668f3afc791962d222a7861040" status="verified" serial="CTR-P-AJHJ"/>
 	</game>
 	<game name="Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="1618" cloneofid="z079">
 		<description>Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>

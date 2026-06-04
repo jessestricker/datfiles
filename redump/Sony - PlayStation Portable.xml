@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3493) (2026-05-29 09-26-18)</description>
-		<version>2026-05-29 09-26-18</version>
-		<date>2026-05-29 09-26-18</date>
+		<description>Sony - PlayStation Portable - Discs (3495) (2026-06-03 12-26-18)</description>
+		<version>2026-06-03 12-26-18</version>
+		<date>2026-06-03 12-26-18</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17474,5 +17474,15 @@
 		<category>Games</category>
 		<description>Metal Gear Solid - Peace Walker (Asia) (En,Fr,Es)</description>
 		<rom name="Metal Gear Solid - Peace Walker (Asia) (En,Fr,Es).iso" size="1646002176" crc="588f2e46" md5="a58daaf34ee8f15d93646498d45256e8" sha1="6963e0a8f167d7375ccd8385c1174b2f411d6b92"/>
+	</game>
+	<game name="Disney-Pixar Cars (Japan)">
+		<category>Games</category>
+		<description>Disney-Pixar Cars (Japan)</description>
+		<rom name="Disney-Pixar Cars (Japan).iso" size="906362880" crc="2900e689" md5="af19f923d91ad39556483376fea00bb5" sha1="110661f95054b1d2d2211bd3fad4dbdf25c2e6ef"/>
+	</game>
+	<game name="Nanatama - Chronicle of Dungeon Maker (Japan)">
+		<category>Games</category>
+		<description>Nanatama - Chronicle of Dungeon Maker (Japan)</description>
+		<rom name="Nanatama - Chronicle of Dungeon Maker (Japan).iso" size="189792256" crc="50833c03" md5="595cdd4efefef05fbf20c2ccc1e8d907" sha1="db614c3f4c6f53ed3eb9b6e49276878cd7848202"/>
 	</game>
 </datafile>

@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260602-002105</version>
+		<version>20260602-232612</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -914,10 +914,6 @@
 		<description>Caise Gedou 29 in 1 Diannao Huamian Xuan Game (Taiwan) (Unl)</description>
 		<rom name="Caise Gedou 29 in 1 Diannao Huamian Xuan Game (Taiwan) (Unl).gbc" size="2097152" crc="78c0e5bc" md5="ba9822126b90c2dc7cd93f45e4780a42" sha1="358e628e680bc63227940ca6d76217d14fcd3409" sha256="d8f5014203460fb6e715521b8955cc0402fcd5e6e915103fc53a78f1a4cb7d5a" status="verified"/>
 	</game>
-	<game name="Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)" id="1432" cloneofid="0165">
-		<description>Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)</description>
-		<rom name="Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="4194304" crc="222c9dc6" md5="f5780199efb64e9eee31ca35f68489da" sha1="cee465f6987c2d580cc96fac703025989208e683"/>
-	</game>
 	<game name="Cannon Fodder (Europe) (En,Fr,De,Es,It)" id="0165">
 		<description>Cannon Fodder (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Cannon Fodder (Europe) (En,Fr,De,Es,It).gbc" size="4194304" crc="824c3bf3" md5="3dd6b4dd7da7f2b412f92c2509b9f1df" sha1="9a6901cad65e6d0ce89af8442688fec6a9fedd43"/>
@@ -925,6 +921,10 @@
 	<game name="Cannon Fodder (USA) (En,Fr,De,Es,It)" id="0166" cloneofid="0165">
 		<description>Cannon Fodder (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Cannon Fodder (USA) (En,Fr,De,Es,It).gbc" size="4194304" crc="26f8e1a0" md5="762d6c94874d8ac894ad100c0a4b50ab" sha1="cc601984a2b52b44cf135e42bcac1bec44b7a6a3"/>
+	</game>
+	<game name="Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)" id="1432" cloneofid="0165">
+		<description>Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)</description>
+		<rom name="Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="4194304" crc="222c9dc6" md5="f5780199efb64e9eee31ca35f68489da" sha1="cee465f6987c2d580cc96fac703025989208e683"/>
 	</game>
 	<game name="Capcom Fight 2003 (Hong Kong) (En) (Unl)" id="2533" cloneofid="1972">
 		<category>Games</category>
@@ -963,17 +963,13 @@
 		<description>Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)</description>
 		<rom name="Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan).gbc" size="2097152" crc="f78f7998" md5="3a998a2ec99c89696c9b23bbbd87f116" sha1="1809154979b289750b572a61da1dc93b1b76360f"/>
 	</game>
-	<game name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)" id="0172">
-		<description>Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="15430979" md5="67f1a15025b979833f4c5aa0ef561954" sha1="76e898c00f47628710eaef7551a7d1fe04e2a2bc" sha256="37861e9dcebe83b01a1ae34706a6996ab8a6b1fc8ccdf01741d92b15aea222d4" status="verified"/>
-	</game>
 	<game name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)" id="1446" cloneofid="0172">
 		<description>Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)</description>
 		<rom name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc" size="1048576" crc="da8d6283" md5="2a3a4d83902ee2af1890433c50d2809c" sha1="0a94857f23640b36117b7bfe4ce7cc291da63c58"/>
 	</game>
-	<game name="Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)" id="1513" cloneofid="0174">
-		<description>Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)</description>
-		<rom name="Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta).gbc" size="2097152" crc="e9751f81" md5="cca8749da97aae49def1132a6a72d047" sha1="9f41f86214031dad6440206863bffc13c3e61fc4"/>
+	<game name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)" id="0172">
+		<description>Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="15430979" md5="67f1a15025b979833f4c5aa0ef561954" sha1="76e898c00f47628710eaef7551a7d1fe04e2a2bc" sha256="37861e9dcebe83b01a1ae34706a6996ab8a6b1fc8ccdf01741d92b15aea222d4" status="verified"/>
 	</game>
 	<game name="Carmageddon - Carpocalypse Now (Germany)" id="0173" cloneofid="0174">
 		<description>Carmageddon - Carpocalypse Now (Germany)</description>
@@ -982,6 +978,10 @@
 	<game name="Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)" id="0174">
 		<description>Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)</description>
 		<rom name="Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It).gbc" size="2097152" crc="bb482ed7" md5="f73c5cc4935ede64f5b2d62754c90262" sha1="df37636bbd57a426e23d21581376d7e3a87c7933" status="verified"/>
+	</game>
+	<game name="Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)" id="1513" cloneofid="0174">
+		<description>Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)</description>
+		<rom name="Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta).gbc" size="2097152" crc="e9751f81" md5="cca8749da97aae49def1132a6a72d047" sha1="9f41f86214031dad6440206863bffc13c3e61fc4"/>
 	</game>
 	<game name="Carmageddon TDR 2000 (Europe) (En,Fr,De,Es,It) (Proto)" id="1675">
 		<description>Carmageddon TDR 2000 (Europe) (En,Fr,De,Es,It) (Proto)</description>
@@ -1396,13 +1396,13 @@
 		<description>Dejiko no Mahjong Party (Japan) (Rev 1) (Proto)</description>
 		<rom name="Dejiko no Mahjong Party (Japan) (Rev 1) (Proto).gbc" size="2097152" crc="7e515a7e" md5="3b24fbc8e72140fab38a9874b587c479" sha1="fbc2b66a6595bbb3ed85f35545152442283eaea3" sha256="e611ec4c3c24f981e8ca4ea0f0bf545b673efd33e58ced8316393a967a2c1ab7"/>
 	</game>
-	<game name="Denki Blocks! (USA) (En,Es) (Proto)" id="1668" cloneofid="0245">
-		<description>Denki Blocks! (USA) (En,Es) (Proto)</description>
-		<rom name="Denki Blocks! (USA) (En,Es) (Proto).gbc" size="1048576" crc="aafc35c3" md5="163859b2468b5ad697236ffb5a6765be" sha1="bca594d5d90219b263638dd86a96e3e9a64ce71e" sha256="586239fe88cac4fc3f4acf1fdf6eaa7a78366ade2cc7d65720d23f9737be727f"/>
-	</game>
 	<game name="Denki Blocks! (Europe) (En,Fr,De,Es,It)" id="0245">
 		<description>Denki Blocks! (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Denki Blocks! (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="38f00974" md5="e4594f3d22fce6b71642a9f3049a6054" sha1="cf4037db23525937e6dceea7343a9ea7a22f928d"/>
+	</game>
+	<game name="Denki Blocks! (USA) (En,Es) (Proto)" id="1668" cloneofid="0245">
+		<description>Denki Blocks! (USA) (En,Es) (Proto)</description>
+		<rom name="Denki Blocks! (USA) (En,Es) (Proto).gbc" size="1048576" crc="aafc35c3" md5="163859b2468b5ad697236ffb5a6765be" sha1="bca594d5d90219b263638dd86a96e3e9a64ce71e" sha256="586239fe88cac4fc3f4acf1fdf6eaa7a78366ade2cc7d65720d23f9737be727f"/>
 	</game>
 	<game name="Densha de Go! (Japan)" id="0246">
 		<description>Densha de Go! (Japan)</description>
@@ -1714,6 +1714,10 @@
 		<description>Dragon Ball Z Gedou 2005 (Taiwan) (Unl)</description>
 		<rom name="Dragon Ball Z Gedou 2005 (Taiwan) (Unl).gbc" size="2097152" crc="d1c48145" md5="05e5ecc94ef05260ebba60576ca45ba0" sha1="8637ed614dc94e846c32adbc723e09a06b3da3ce" sha256="496a066c6e4d4f7651826e9deaef61a142b122b3ceb55ba8095b23592cd9d0b3"/>
 	</game>
+	<game name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible)" id="0293">
+		<description>Dragon Dance (USA) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="0602dbe1" md5="0c6a0f2add131ca4afd24763fe3c3a04" sha1="a28bfabc4db62ad5aa6bfe29114b0878429586cc"/>
+	</game>
 	<game name="Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)" id="1599" cloneofid="0293">
 		<description>Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="8b0dd3b2" md5="e027bb984964e07be2feeaa712715987" sha1="76de183317c952276dbdad9d8f0592493652f31e" sha256="847b2ee82c0638e01e0c93325dc6e4c4ca2c167eabeae548d52ba84eb14be257"/>
@@ -1725,10 +1729,6 @@
 	<game name="Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible)" id="1681" cloneofid="0293">
 		<description>Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Dragon Dance (USA) (Beta 2) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="9a90adbe" md5="35168b96a50352217130116bd67cdcc1" sha1="5fc97752a98a18b7e2db238d1ab88c6b09e34602" sha256="0dc0a8e74f492f1eddad50693686426e6273c581db5027e1d7ef5d4ba9298d1e"/>
-	</game>
-	<game name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible)" id="0293">
-		<description>Dragon Dance (USA) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Dragon Dance (USA) (SGB Enhanced) (GB Compatible).gbc" size="262144" crc="0602dbe1" md5="0c6a0f2add131ca4afd24763fe3c3a04" sha1="a28bfabc4db62ad5aa6bfe29114b0878429586cc"/>
 	</game>
 	<game name="Dragon Quest I &amp; II (Japan) (SGB Enhanced) (GB Compatible)" id="0294" cloneofid="0304">
 		<description>Dragon Quest I &amp; II (Japan) (SGB Enhanced) (GB Compatible)</description>

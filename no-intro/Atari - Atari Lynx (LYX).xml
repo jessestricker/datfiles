@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260530-021839</version>
+		<version>20260602-114039</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -240,6 +240,12 @@
 		<description>Gates of Zendocon (World)</description>
 		<rom name="Gates of Zendocon (World).lyx" size="131072" crc="494cc568" md5="d5be9118bcb14243468001b08c4aa21a" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe" sha256="b9d172f2dfb98a554b08124b63ae45959a985d9fa3024281300316ec41dfcb85" status="verified"/>
 	</game>
+	<game name="Gates of Zendocon (World) (Beta) (1989-06-01)" id="0440" cloneofid="0031">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gates of Zendocon (World) (Beta) (1989-06-01)</description>
+		<rom name="Gates of Zendocon (World) (Beta) (1989-06-01).lyx" size="131072" crc="88871760" md5="2e4750bd3d94ec82e4216ab86edd8891" sha1="7d0070cd21b223b0f6a02cb0f5c5680f64fdac93" sha256="b5b68c04e84f018e5edfa7d146a2de8a80834fc121fd1031b0b4797b4b8e73b2"/>
+	</game>
 	<game name="Gauntlet - The Third Encounter (World)" id="0032">
 		<category>Games</category>
 		<description>Gauntlet - The Third Encounter (World)</description>
@@ -412,6 +418,12 @@
 		<category>Games</category>
 		<description>Ms. Pac-Man (World)</description>
 		<rom name="Ms. Pac-Man (World).lyx" size="131072" crc="7de3783a" md5="192b6b764a3a1c7831e0a785fa4b5453" sha1="ff644034cd840f8c13b643c44ec2c685290e0326" sha256="58c6b88d72f36362bd37da6eedad5497d3f5f40f8db72b1954154354334da114"/>
+	</game>
+	<game name="Net Runner (World) (Beta)" id="0439" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Net Runner (World) (Beta)</description>
+		<rom name="Net Runner (World) (Beta).lyx" size="131072" crc="29e6ca48" md5="cdc7fc543554da7d2316bb43fa60976c" sha1="822425ef2a1f90e3a3fac17a851ade6f04d1f246" sha256="23cf6b7f4ca208c5d82c75af64d4a0236adfb256f585b0cf07c8c931b151ae0c"/>
 	</game>
 	<game name="NFL Football (USA, Europe)" id="0051">
 		<category>Games</category>

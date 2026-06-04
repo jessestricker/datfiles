@@ -4,8 +4,8 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260531-074517</version>
-		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260602-094414</version>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -8745,6 +8745,7 @@
 		<rom name="Muppets, The - On with the Show! (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="17cd149a" md5="8cc1dd1718b63c9675a5e5d28c14936b" sha1="74b8f11a719d2ebdd36a594814ad01a9b79a115e" status="verified" serial="AZME"/>
 	</game>
 	<game name="Music Recorder MP3 (Japan)" id="2908" cloneofid="2912">
+		<category>Multimedia</category>
 		<description>Music Recorder MP3 (Japan)</description>
 		<rom name="Music Recorder MP3 (Japan).gba" size="4194304" crc="35d154a3" md5="1e0ff992c079acf2e5310699e1fafe45" sha1="2b29f093e8d78737e489510ad4db6387ba128428" sha256="9ea5580a89c29c7d1732f9fd23021341002ff23c27c175d967145c63c978f496" serial="ZMPJ"/>
 	</game>
