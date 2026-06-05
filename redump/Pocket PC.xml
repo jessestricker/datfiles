@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Pocket PC</name>
-		<description>Pocket PC - Discs (81) (2026-04-08 00-01-56)</description>
-		<version>2026-04-08 00-01-56</version>
-		<date>2026-04-08 00-01-56</date>
+		<description>Pocket PC - Discs (82) (2026-06-05 22-34-02)</description>
+		<version>2026-06-05 22-34-02</version>
+		<date>2026-06-05 22-34-02</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -495,5 +495,11 @@
 		<description>Desktop Software for Microsoft Windows CE (USA)</description>
 		<rom name="Desktop Software for Microsoft Windows CE (USA).cue" size="113" crc="d1a6224f" md5="0ccef4423e21290eba1d2f7bd446ce3d" sha1="d0022b408e57e2bd339fed623ac6015aa6b3e115"/>
 		<rom name="Desktop Software for Microsoft Windows CE (USA).bin" size="176254176" crc="65443fa2" md5="4554ce1c38ef9d3a6660b499557e287e" sha1="2d0dd25a423975afba263a17eb3a1d9dc7834e24"/>
+	</game>
+	<game name="Microsoft Plus! Digital Media Edition (USA)">
+		<category>Applications</category>
+		<description>Microsoft Plus! Digital Media Edition (USA)</description>
+		<rom name="Microsoft Plus! Digital Media Edition (USA).cue" size="109" crc="8be7bfaa" md5="b87bb8d9c9640f71edc07575247f72ae" sha1="2f3e6e983b97e54ea3e1c35db118b11126e0fee3"/>
+		<rom name="Microsoft Plus! Digital Media Edition (USA).bin" size="248460576" crc="7f9a898b" md5="ff10cdbfc4fdc3335762ea281529890c" sha1="1c46ad512caa6272bee6c0dbef2cc0285afbe52f"/>
 	</game>
 </datafile>

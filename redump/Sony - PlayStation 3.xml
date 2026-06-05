@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4498) (2026-06-03 03-46-59)</description>
-		<version>2026-06-03 03-46-59</version>
-		<date>2026-06-03 03-46-59</date>
+		<description>Sony - PlayStation 3 - Discs (4499) (2026-06-05 16-47-30)</description>
+		<version>2026-06-05 16-47-30</version>
+		<date>2026-06-05 16-47-30</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -2450,10 +2450,10 @@
 		<description>Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Red Dead Redemption - Undead Nightmare (USA) (En,Fr,De,Es,It).iso" size="10928979968" crc="237b1e18" md5="66d8a7911ef228024943dc77b87ad778" sha1="daab5566189c90f7e75c622b7f5cb3d76d79a0bb"/>
 	</game>
-	<game name="Ninja Gaiden Sigma (Japan, Korea) (En,Ja)">
+	<game name="Ninja Gaiden Sigma (Japan, Asia) (En,Ja)">
 		<category>Games</category>
-		<description>Ninja Gaiden Sigma (Japan, Korea) (En,Ja)</description>
-		<rom name="Ninja Gaiden Sigma (Japan, Korea) (En,Ja).iso" size="12308709376" crc="a774e8d4" md5="e12cd11504b154cdb40031ca65003ee1" sha1="392b6e6408f2b00bbd2177e61a5a9dfd79c9eb7e"/>
+		<description>Ninja Gaiden Sigma (Japan, Asia) (En,Ja)</description>
+		<rom name="Ninja Gaiden Sigma (Japan, Asia) (En,Ja).iso" size="12308709376" crc="a774e8d4" md5="e12cd11504b154cdb40031ca65003ee1" sha1="392b6e6408f2b00bbd2177e61a5a9dfd79c9eb7e"/>
 	</game>
 	<game name="LittleBigPlanet Karting (USA, Brazil) (En,Fr,Es,Pt)">
 		<category>Games</category>
@@ -18459,6 +18459,11 @@
 		<category>Games</category>
 		<description>Tokyo Jungle (Asia) (Zh,Ko)</description>
 		<rom name="Tokyo Jungle (Asia) (Zh,Ko).iso" size="2342518784" crc="f6765a66" md5="a5ffc5fff6225bcf253f49b44080da63" sha1="981e2f18128dc3df15b6bab23bb22c14bec530b6"/>
+	</game>
+	<game name="Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es)</description>
+		<rom name="Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es).iso" size="4201447424" crc="280e81f0" md5="654ed3332e98f0324744dfb2b7221916" sha1="ff4e7767c34cb5865a15908e54efb7c4be42e5f0"/>
 	</game>
 	<game name="Star Ocean - Integrity and Faithlessness (Japan)">
 		<category>Games</category>

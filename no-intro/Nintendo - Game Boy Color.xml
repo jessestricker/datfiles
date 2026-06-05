@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260602-232612</version>
+		<version>20260604-104013</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7081,13 +7081,13 @@
 		<description>Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)</description>
 		<rom name="Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible).gbc" size="1048576" crc="a6dfb1d9" md5="c58361b88496e7ad0179b59122afd687" sha1="46e81d5e7d4f41b3b0a0ab8b55a3592abe6911f3" status="verified"/>
 	</game>
-	<game name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta)" id="1566" cloneofid="0016">
-		<description>Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta)</description>
-		<rom name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta).gbc" size="1048576" crc="94aed620" md5="90fb966cbb46d038ec7d74b2f3f6487f" sha1="8c29d9135fcf3c74397da8b0898af07d0b3b7955"/>
-	</game>
 	<game name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De)" id="0016">
 		<description>Tintin - Le Temple Du Soleil (Europe) (En,Fr,De)</description>
 		<rom name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De).gbc" size="1048576" crc="b2205d49" md5="46ed332d95c5da9a2007945fed9f8118" sha1="34ab01951490a9510a3e0d3493d25a2547761aea"/>
+	</game>
+	<game name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta)" id="1566" cloneofid="0016">
+		<description>Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta)</description>
+		<rom name="Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta).gbc" size="1048576" crc="94aed620" md5="90fb966cbb46d038ec7d74b2f3f6487f" sha1="8c29d9135fcf3c74397da8b0898af07d0b3b7955"/>
 	</game>
 	<game name="Tintin au Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="1199">
 		<description>Tintin au Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
