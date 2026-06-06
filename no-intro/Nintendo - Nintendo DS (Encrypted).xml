@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260604-053008</version>
+		<version>20260605-170618</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1519,7 +1519,7 @@
 	</game>
 	<game name="Arctic Tale (Europe) (En,Fr,De,Es,It)" id="2005">
 		<description>Arctic Tale (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Arctic Tale (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="e20f05eb" md5="292ebc600c63638364b5be4470792357" sha1="a5ee735eb45080560e1c65f18e827cd64db63874" serial="YA3P"/>
+		<rom name="Arctic Tale (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="e20f05eb" md5="292ebc600c63638364b5be4470792357" sha1="a5ee735eb45080560e1c65f18e827cd64db63874" sha256="eb81894729540ede79fd5d8b69640a0a1519666f1615e007c7c2bf2a2ca0cac2" serial="YA3P"/>
 	</game>
 	<game name="Are You Smarter than a 10 Year Old - The Official Nintendo DS Game (Europe)" id="2908">
 		<description>Are You Smarter than a 10 Year Old - The Official Nintendo DS Game (Europe)</description>
@@ -2452,7 +2452,7 @@
 	</game>
 	<game name="Ben 10 - Galactic Racing (Europe) (En,Fr,De,Es,It)" id="5937">
 		<description>Ben 10 - Galactic Racing (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ben 10 - Galactic Racing (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="7313d124" md5="2b195917c5a030ea15e1b8e48d703e72" sha1="11f688ab55224646763560cc7531ee386b81eab5" sha256="d2ea48b89a67650e0ad5c67db5f431c78149a6d50c5044b35d2890306dbff8eb" serial="B76P"/>
+		<rom name="Ben 10 - Galactic Racing (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="7313d124" md5="2b195917c5a030ea15e1b8e48d703e72" sha1="11f688ab55224646763560cc7531ee386b81eab5" sha256="d2ea48b89a67650e0ad5c67db5f431c78149a6d50c5044b35d2890306dbff8eb" status="verified" serial="B76P"/>
 	</game>
 	<game name="Ben 10 - Omniverse (USA) (En,Fr,Es)" id="6125" cloneofid="6136">
 		<description>Ben 10 - Omniverse (USA) (En,Fr,Es)</description>
@@ -12698,7 +12698,7 @@
 	</game>
 	<game name="Junior Brain Trainer (Europe) (En,Fr,De,Es,It)" id="3168">
 		<description>Junior Brain Trainer (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Junior Brain Trainer (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="97ea31e0" md5="0a4074505e2ff83874121ec77af4b13f" sha1="5c703951f7f9b4131a9806bb1d5d8a83b275c037" serial="CJWP"/>
+		<rom name="Junior Brain Trainer (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="97ea31e0" md5="0a4074505e2ff83874121ec77af4b13f" sha1="5c703951f7f9b4131a9806bb1d5d8a83b275c037" status="verified" serial="CJWP"/>
 	</game>
 	<game name="Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)" id="5949" cloneofid="5561">
 		<description>Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)</description>
@@ -22719,7 +22719,7 @@
 	</game>
 	<game name="Puzzle Kingdoms (Europe) (En,Fr,De,Es,It)" id="4130">
 		<description>Puzzle Kingdoms (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Puzzle Kingdoms (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="48254d04" md5="fb1acd696e26a8d184a72de3cf1d0d77" sha1="82bb1a1728fc0d96132db9e0c203cc63a8a69e29" status="verified" serial="CZNP"/>
+		<rom name="Puzzle Kingdoms (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="48254d04" md5="fb1acd696e26a8d184a72de3cf1d0d77" sha1="82bb1a1728fc0d96132db9e0c203cc63a8a69e29" sha256="ae4fc5532d821791400382bea63b1e3c6c525f15f9a02d845595d1aaa22e5732" status="verified" serial="CZNP"/>
 	</game>
 	<game name="Puzzle League DS (Europe) (En,Fr,De,Es,It) (Rev 1)" id="z189">
 		<description>Puzzle League DS (Europe) (En,Fr,De,Es,It) (Rev 1)</description>

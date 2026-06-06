@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3690) (2026-06-02 13-01-15)</description>
-		<version>2026-06-02 13-01-15</version>
-		<date>2026-06-02 13-01-15</date>
+		<description>Microsoft - Xbox 360 - Discs (3691) (2026-06-06 15-59-22)</description>
+		<version>2026-06-06 15-59-22</version>
+		<date>2026-06-06 15-59-22</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18468,5 +18468,10 @@
 		<category>Games</category>
 		<description>NHL 2K9 (Japan) (En,Fr,De,Es,It)</description>
 		<rom name="NHL 2K9 (Japan) (En,Fr,De,Es,It).iso" size="7838695424" crc="e38c2b72" md5="b2127c333ebe35119fbae5d307683c83" sha1="11221fcb00f23473d8740e1ef4402fcfdba91bc8"/>
+	</game>
+	<game name="Fallout - New Vegas (Asia)">
+		<category>Games</category>
+		<description>Fallout - New Vegas (Asia)</description>
+		<rom name="Fallout - New Vegas (Asia).iso" size="7838695424" crc="46566c32" md5="3fdcd6e020fb1cfc9e347a2ea410a855" sha1="731cb74df4184826d21b06a80c7cfaff367573a5"/>
 	</game>
 </datafile>
