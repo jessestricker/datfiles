@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260602-094414</version>
+		<version>20260606-182628</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3745,11 +3745,11 @@
 		<description>Driv3r (Europe) (Beta 1) [b]</description>
 		<rom name="Driv3r (Europe) (Beta 1) [b].gba" size="8388608" crc="0a483c43" md5="f97009a7cca3dc5b334b55f7b852c021" sha1="b87bc695b36492ebd41deaa4bfe5bc023982e4d8" sha256="4a496c1aff871fe6f73bf7f86f3eb0f0e55350e8e64c7ae90b53c1777d2346c1" status="baddump"/>
 	</game>
-	<game name="Driv3r (Europe) (Es) (Beta 2)" id="x477" cloneofid="2146">
+	<game name="Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2)" id="x477" cloneofid="2146">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Driv3r (Europe) (Es) (Beta 2)</description>
-		<rom name="Driv3r (Europe) (Es) (Beta 2).gba" size="8388608" crc="58e1f5a6" md5="7154c6dbd189d69598d1f50b533a3019" sha1="0451521254325271e7ec13276fc25c9b7dcc47b0" sha256="51c7d2a1742ae97e12d7bf9388910a95f62f1e1fca122bc8cf79503707691975"/>
+		<description>Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2)</description>
+		<rom name="Driv3r (Europe) (En,Fr,De,Es,It) (Beta 2).gba" size="8388608" crc="58e1f5a6" md5="7154c6dbd189d69598d1f50b533a3019" sha1="0451521254325271e7ec13276fc25c9b7dcc47b0" sha256="51c7d2a1742ae97e12d7bf9388910a95f62f1e1fca122bc8cf79503707691975"/>
 	</game>
 	<game name="Driv3r (Europe) (Beta 3)" id="x478" cloneofid="2146">
 		<category>Games</category>

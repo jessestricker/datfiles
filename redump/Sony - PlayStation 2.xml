@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Discs (11771) (2026-06-05 18-20-04)</description>
-		<version>2026-06-05 18-20-04</version>
-		<date>2026-06-05 18-20-04</date>
+		<description>Sony - PlayStation 2 - Discs (11774) (2026-06-07 19-33-06)</description>
+		<version>2026-06-07 19-33-06</version>
+		<date>2026-06-07 19-33-06</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -19478,10 +19478,10 @@
 		<description>Nightmare of Druaga, The - Fushigi no Dungeon (Japan)</description>
 		<rom name="Nightmare of Druaga, The - Fushigi no Dungeon (Japan).iso" size="4545019904" crc="f19c8840" md5="eba87dc6668293af756968c4622305c9" sha1="c25f692582c53b0b7edcc2917bb9e2e3deb0fa06"/>
 	</game>
-	<game name="Final Fantasy XII International - Zodiac Job System (Japan, Korea)">
+	<game name="Final Fantasy XII International - Zodiac Job System (Japan, Asia)">
 		<category>Games</category>
-		<description>Final Fantasy XII International - Zodiac Job System (Japan, Korea)</description>
-		<rom name="Final Fantasy XII International - Zodiac Job System (Japan, Korea).iso" size="4204003328" crc="46b57743" md5="59a8d0ce669d1afe25d512e7ed706043" sha1="e379319e6638afbef9ec156e669e4f9bacbe6587"/>
+		<description>Final Fantasy XII International - Zodiac Job System (Japan, Asia)</description>
+		<rom name="Final Fantasy XII International - Zodiac Job System (Japan, Asia).iso" size="4204003328" crc="46b57743" md5="59a8d0ce669d1afe25d512e7ed706043" sha1="e379319e6638afbef9ec156e669e4f9bacbe6587"/>
 	</game>
 	<game name="Star Wars - Battlefront II (Germany)">
 		<category>Games</category>
@@ -62070,5 +62070,20 @@
 		<category>Games</category>
 		<description>NBA Live 06 (Asia)</description>
 		<rom name="NBA Live 06 (Asia).iso" size="2738225152" crc="991ff7c2" md5="d65766331129fc3ede3d98f53722dc82" sha1="9cf28d92baaa9f8350fe244db72f3a6c3ac11ed8"/>
+	</game>
+	<game name="Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1) (Beta) (2004-12-10)">
+		<category>Preproduction</category>
+		<description>Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1) (Beta) (2004-12-10)</description>
+		<rom name="Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1) (Beta) (2004-12-10).iso" size="4663181312" crc="ac53f346" md5="5fe777a4d45dc638d7c6b62561c61f08" sha1="48cc2c7c581c3a366e30d3a68f95bc28bfb9d426"/>
+	</game>
+	<game name="Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2) (Beta) (2004-12-10)">
+		<category>Preproduction</category>
+		<description>Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2) (Beta) (2004-12-10)</description>
+		<rom name="Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2) (Beta) (2004-12-10).iso" size="4674224128" crc="d5e271bb" md5="65faca90438d74d4007ab4397a51e6cd" sha1="60b9582a3efe3f95d6398dd974c241b952db18db"/>
+	</game>
+	<game name="Urban Reign (Europe) (Beta) (2005-10-14)">
+		<category>Preproduction</category>
+		<description>Urban Reign (Europe) (Beta) (2005-10-14)</description>
+		<rom name="Urban Reign (Europe) (Beta) (2005-10-14).iso" size="4140924928" crc="33ab8695" md5="e964f6cf9f77c9cb18e185328a2f9bfa" sha1="4ba554bf478df9f27d7a7c257bbddac782910265"/>
 	</game>
 </datafile>
