@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260605-010629</version>
+		<version>20260607-124033</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3382,15 +3382,15 @@
 		<description>Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="d390430e" md5="4c634b29b3f20529cc4e0808199fa73e" sha1="59fa1707247f12b0c48eeb2e8fec274b9231d968"/>
 	</game>
-	<game name="Konchuu Hakase 3 (Japan)" id="0583">
-		<description>Konchuu Hakase 3 (Japan)</description>
-		<rom name="Konchuu Hakase 3 (Japan).gbc" size="2097152" crc="380f19ed" md5="41b5e9d960ceafc89e8bd740c2c74dc5" sha1="4066434fe741a071e2072aee44fdf1b5eecde258"/>
-	</game>
 	<game name="Konchuu Hakase 3 (Japan) (Beta)" id="2563" cloneofid="0583">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Konchuu Hakase 3 (Japan) (Beta)</description>
 		<rom name="Konchuu Hakase 3 (Japan) (Beta).gbc" size="2097152" crc="fbed99bc" md5="f57c93ad02dab5141f7a5ba9b228977f" sha1="cb09509e97f433f3edcbd29cb42a37a36e3e49be" sha256="857c0fc368bfb07fc45cb3ce37e5f2402449198a47bbe2d029750b135b9920d0" serial="AF2J"/>
+	</game>
+	<game name="Konchuu Hakase 3 (Japan)" id="0583">
+		<description>Konchuu Hakase 3 (Japan)</description>
+		<rom name="Konchuu Hakase 3 (Japan).gbc" size="2097152" crc="380f19ed" md5="41b5e9d960ceafc89e8bd740c2c74dc5" sha1="4066434fe741a071e2072aee44fdf1b5eecde258"/>
 	</game>
 	<game name="Korokoro Kirby (Japan)" id="0584" cloneofid="0566">
 		<description>Korokoro Kirby (Japan)</description>

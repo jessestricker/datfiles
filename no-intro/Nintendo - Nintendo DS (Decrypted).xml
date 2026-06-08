@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260606-171241</version>
+		<version>20260607-144714</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -732,7 +732,7 @@
 	</game>
 	<game name="Adventures of Pinocchio (Europe)" id="3309">
 		<description>Adventures of Pinocchio (Europe)</description>
-		<rom name="Adventures of Pinocchio (Europe).nds" size="33554432" crc="84c2df05" md5="fbf60b68ab9b6ad327b466bba272fb87" sha1="697cfe56848fd3df640f0b45fd479c815f98de71" serial="CPKP"/>
+		<rom name="Adventures of Pinocchio (Europe).nds" size="33554432" crc="84c2df05" md5="fbf60b68ab9b6ad327b466bba272fb87" sha1="697cfe56848fd3df640f0b45fd479c815f98de71" sha256="9103c292c8c212185f776fef1b6ebf842cce02a3c5f7c54a801f9c075b0859bd" serial="CPKP"/>
 	</game>
 	<game name="Affari Tuoi (Italy)" id="1972" cloneofid="1622">
 		<description>Affari Tuoi (Italy)</description>
@@ -756,7 +756,7 @@
 	</game>
 	<game name="Agatha Christie - The ABC Murders (Europe) (En,Fr,De,Es,It)" id="4476">
 		<description>Agatha Christie - The ABC Murders (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Agatha Christie - The ABC Murders (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="6f622416" md5="abdab5e1b974c7a726ce4c9d525d038d" sha1="81f9e89d63c3d6500b8e9e196234254355ce2e31" serial="BAGP"/>
+		<rom name="Agatha Christie - The ABC Murders (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="6f622416" md5="abdab5e1b974c7a726ce4c9d525d038d" sha1="81f9e89d63c3d6500b8e9e196234254355ce2e31" sha256="dd7ac0f52d4dd6ff9a0f8be80effc40f61742c3e2a0319255e86ae5b88971fbe" serial="BAGP"/>
 	</game>
 	<game name="Agatha Christie - The ABC Murders (USA) (En,Fr,Es)" id="4608" cloneofid="4476">
 		<description>Agatha Christie - The ABC Murders (USA) (En,Fr,Es)</description>
@@ -972,7 +972,7 @@
 	</game>
 	<game name="Alpha and Omega (Europe) (En,Fr,De,Es,It)" id="5695">
 		<description>Alpha and Omega (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Alpha and Omega (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="159dd46c" md5="449cf4f9fe3348edb3779d9408701e59" sha1="0be6f66df136ada36fde49033ffcbbbb6e4b02cb" serial="BHVP"/>
+		<rom name="Alpha and Omega (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="159dd46c" md5="449cf4f9fe3348edb3779d9408701e59" sha1="0be6f66df136ada36fde49033ffcbbbb6e4b02cb" sha256="d4d98010a05dbe88e639c2fb97dd2da7c0cf08663f2b6112392455107092d96d" serial="BHVP"/>
 	</game>
 	<game name="Alssongdalssong - Myeonghwatamheom DS (Korea)" id="3806">
 		<description>Alssongdalssong - Myeonghwatamheom DS (Korea)</description>
@@ -8499,7 +8499,7 @@
 	</game>
 	<game name="Fish Tycoon (Europe) (En,Fr,De,Es,It)" id="2120">
 		<description>Fish Tycoon (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Fish Tycoon (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="6bb97217" md5="007c9a0ad31a217462d174e13a263e31" sha1="478e7670dc6d116b2d7d69a2c104a62482b3181b" serial="YF7P"/>
+		<rom name="Fish Tycoon (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="6bb97217" md5="007c9a0ad31a217462d174e13a263e31" sha1="478e7670dc6d116b2d7d69a2c104a62482b3181b" sha256="911f5269f4f30e91d295a8b6da0783c81342a23d4c119721eb7b88262940e521" serial="YF7P"/>
 	</game>
 	<game name="Fishdom (USA) (En,Fr)" id="5851">
 		<description>Fishdom (USA) (En,Fr)</description>
@@ -10379,6 +10379,10 @@
 	<game name="Hello Kitty - Big City Dreams (Europe) (En,Fr,De,Es,It,Nl,Pt) (Rev 1)" id="6708" cloneofid="3089">
 		<description>Hello Kitty - Big City Dreams (Europe) (En,Fr,De,Es,It,Nl,Pt) (Rev 1)</description>
 		<rom name="Hello Kitty - Big City Dreams (Europe) (En,Fr,De,Es,It,Nl,Pt) (Rev 1).nds" size="67108864" crc="6b585aa0" md5="a44e88fa3c1c2b8a0a17b10c1a55d265" sha1="9c9426eb47ce2742637c225c045cf0eae9f7989d" sha256="086d66ea9084603b6d6de1a23fb928a034e2cbfdb1473f5bebbee9595687f42e" status="verified" serial="YUKP"/>
+	</game>
+	<game name="Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1)" id="z682" cloneofid="3089">
+		<description>Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1)</description>
+		<rom name="Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1).nds" size="67108864" crc="ca26fe5d" md5="1316fa654a0a23aaf6265d7a942ea07d" sha1="9a7834628996ae3ac14c7b0653c63b6ad4bd5d28" sha256="37fc29b7a37cacab8e7d6575e35190f15420caa868e7d6b0975b915cefcd28cc" serial="YUKX"/>
 	</game>
 	<game name="Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It)" id="4989" cloneofid="5510">
 		<description>Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It)</description>
@@ -18640,7 +18644,7 @@
 	</game>
 	<game name="Nancy Drew - The Deadly Secret of Olde World Park (Europe) (En,Fr,De,Es,It)" id="2128">
 		<description>Nancy Drew - The Deadly Secret of Olde World Park (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Nancy Drew - The Deadly Secret of Olde World Park (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="111c79af" md5="e1055e97fc3933e4bd5ee368fafc2bcb" sha1="e6bc9885261ceda719d0503482e0237563b4c4b1" serial="YNWP"/>
+		<rom name="Nancy Drew - The Deadly Secret of Olde World Park (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="111c79af" md5="e1055e97fc3933e4bd5ee368fafc2bcb" sha1="e6bc9885261ceda719d0503482e0237563b4c4b1" sha256="5a96658e0e957204e8e828eaa3f1c48c04625b0867e07aaca6a74c4ca40dd5a9" serial="YNWP"/>
 	</game>
 	<game name="Nancy Drew - The Deadly Secret of Olde World Park (USA)" id="1429" cloneofid="2128">
 		<description>Nancy Drew - The Deadly Secret of Olde World Park (USA)</description>
@@ -20295,7 +20299,7 @@
 	</game>
 	<game name="Panzer Tactics DS (Europe) (En,Fr,De,Es,It)" id="1729">
 		<description>Panzer Tactics DS (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Panzer Tactics DS (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="36ccf6e6" md5="36306bdb2066deddd1eb56583677aba1" sha1="1e53052b0b0ac3c68fa713f534c5153ab1c0f71f" serial="AQPP"/>
+		<rom name="Panzer Tactics DS (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="36ccf6e6" md5="36306bdb2066deddd1eb56583677aba1" sha1="1e53052b0b0ac3c68fa713f534c5153ab1c0f71f" sha256="4a54907b22b3b894cac2a09add85ba90853c271a80ae6856890f3100842fdb06" serial="AQPP"/>
 	</game>
 	<game name="Partouche Poker Tour - Poker Texas Hold'em No Limit (France)" id="2273" cloneofid="3329">
 		<description>Partouche Poker Tour - Poker Texas Hold'em No Limit (France)</description>
@@ -22895,7 +22899,7 @@
 	</game>
 	<game name="Puzzler Collection (Europe) (Fr,De,Es,It,Nl)" id="6448" cloneofid="3319">
 		<description>Puzzler Collection (Europe) (Fr,De,Es,It,Nl)</description>
-		<rom name="Puzzler Collection (Europe) (Fr,De,Es,It,Nl).nds" size="16777216" crc="6d81940e" md5="245e718a4d6138460276ad799c3dfb75" sha1="ed77416c441e32a80e65714e9c3bd0e9a4f86495" serial="CPCX"/>
+		<rom name="Puzzler Collection (Europe) (Fr,De,Es,It,Nl).nds" size="16777216" crc="6d81940e" md5="245e718a4d6138460276ad799c3dfb75" sha1="ed77416c441e32a80e65714e9c3bd0e9a4f86495" sha256="1b269a40bb126a4dce2cf539824396dd08ff51971e9ca3c7c6e256eecd4105ba" status="verified" serial="CPCX"/>
 	</game>
 	<game name="Puzzler Collection (Europe)" id="3319">
 		<description>Puzzler Collection (Europe)</description>
@@ -26296,7 +26300,7 @@
 	</game>
 	<game name="Street Football (Europe) (En,Fr,De,Es,It)" id="2312">
 		<description>Street Football (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Street Football (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="b8d4b905" md5="82c9dd8b7c0385a70216c77ae535a4ed" sha1="f50ec94130bd03b9e3ed35d52a3f8aec6c8b6217" status="verified" serial="YIGP"/>
+		<rom name="Street Football (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="b8d4b905" md5="82c9dd8b7c0385a70216c77ae535a4ed" sha1="f50ec94130bd03b9e3ed35d52a3f8aec6c8b6217" sha256="9ddaee38592061ca707ab5f82ffa3a94215267538d5a925afec0cb3af91c141e" status="verified" serial="YIGP"/>
 	</game>
 	<game name="Street Football II (Europe) (En,Fr,It)" id="4534">
 		<description>Street Football II (Europe) (En,Fr,It)</description>
@@ -26578,7 +26582,7 @@
 	</game>
 	<game name="Super Fruit Fall (Europe) (En,Fr,De,Es,It)" id="1485">
 		<description>Super Fruit Fall (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Super Fruit Fall (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="03212f36" md5="41eb1c1305f2807c9f6167ec50581426" sha1="fb8585e03f7b2f2f448cab2ac2eecd73c7e32c07" serial="AFTP"/>
+		<rom name="Super Fruit Fall (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="03212f36" md5="41eb1c1305f2807c9f6167ec50581426" sha1="fb8585e03f7b2f2f448cab2ac2eecd73c7e32c07" sha256="7a19b6a70c1b83e481951757a495a48a40006f4875ec8b32a601394a586d9f56" serial="AFTP"/>
 	</game>
 	<game name="Super Fruit Fall (USA)" id="1863" cloneofid="1485">
 		<description>Super Fruit Fall (USA)</description>
@@ -29359,7 +29363,7 @@
 	</game>
 	<game name="Vegas Casino High 5! (Europe) (En,Fr,De,Es,It)" id="0840">
 		<description>Vegas Casino High 5! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Vegas Casino High 5! (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="95f3fbd9" md5="bde200b23302eb987f333d113ac54c5e" sha1="04b6b69df933e99d98efea60af99a7cb399f659a" serial="AVEP"/>
+		<rom name="Vegas Casino High 5! (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="95f3fbd9" md5="bde200b23302eb987f333d113ac54c5e" sha1="04b6b69df933e99d98efea60af99a7cb399f659a" status="verified" serial="AVEP"/>
 	</game>
 	<game name="Veggy World (USA)" id="6107">
 		<description>Veggy World (USA)</description>

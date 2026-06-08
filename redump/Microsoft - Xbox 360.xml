@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Discs (3691) (2026-06-07 12-55-44)</description>
-		<version>2026-06-07 12-55-44</version>
-		<date>2026-06-07 12-55-44</date>
+		<description>Microsoft - Xbox 360 - Discs (3691) (2026-06-08 16-05-21)</description>
+		<version>2026-06-08 16-05-21</version>
+		<date>2026-06-08 16-05-21</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -3448,10 +3448,10 @@
 		<description>L.A. Noire (World) (Disc 1)</description>
 		<rom name="L.A. Noire (World) (Disc 1).iso" size="7838695424" crc="41de841b" md5="f5e86844ec83b21ac6203485105abca9" sha1="9e1f742c9deeaa956ab2ca0c8dc54acb41a56049"/>
 	</game>
-	<game name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)">
+	<game name="Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru)">
 		<category>Games</category>
-		<description>Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
-		<rom name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="73724aba" md5="0e4b2d4afbd905158bed83cef0a79c40" sha1="309a4bd777b8b0cb6ccb0b533a849699f1b068d2"/>
+		<description>Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
+		<rom name="Saints Row - The Third (World) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="73724aba" md5="0e4b2d4afbd905158bed83cef0a79c40" sha1="309a4bd777b8b0cb6ccb0b533a849699f1b068d2"/>
 	</game>
 	<game name="Beatles, The - Rock Band (World) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -6098,10 +6098,10 @@
 		<description>Guitar Hero - Van Halen (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Guitar Hero - Van Halen (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="3b96061d" md5="e82c2c01b18ebc0a26c1842f18f31e78" sha1="fa6b8153d6604ec593f456ff8fe2012e7976ab60"/>
 	</game>
-	<game name="Armored Core V (USA)">
+	<game name="Armored Core V (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Armored Core V (USA)</description>
-		<rom name="Armored Core V (USA).iso" size="7838695424" crc="48b60ac3" md5="d2f7e221ed2cc81e62a2a494b8db6c7d" sha1="2afcb497c9963ddf3f4a144ebeeb18d30e352c54"/>
+		<description>Armored Core V (USA) (En,Fr,Es)</description>
+		<rom name="Armored Core V (USA) (En,Fr,Es).iso" size="7838695424" crc="48b60ac3" md5="d2f7e221ed2cc81e62a2a494b8db6c7d" sha1="2afcb497c9963ddf3f4a144ebeeb18d30e352c54"/>
 	</game>
 	<game name="Brave - A Warrior's Tale (USA, Europe)">
 		<category>Games</category>
@@ -11904,10 +11904,10 @@
 		<description>A-Train HX (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="A-Train HX (Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="5edc500d" md5="d6dd8ccd1fcfc09b32130447c870d825" sha1="83b852b2358fce2871a567421b040e385e9c7241"/>
 	</game>
-	<game name="Armored Core V (Europe)">
+	<game name="Armored Core V (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Armored Core V (Europe)</description>
-		<rom name="Armored Core V (Europe).iso" size="7838695424" crc="0eb36ed1" md5="7a3ee9246c081df2be709b64e77af1a7" sha1="0ff5322416ac84c86ef3d363e6bc454738fe4abb"/>
+		<description>Armored Core V (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Armored Core V (Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="0eb36ed1" md5="7a3ee9246c081df2be709b64e77af1a7" sha1="0ff5322416ac84c86ef3d363e6bc454738fe4abb"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 13 (USA, Europe)">
 		<category>Games</category>

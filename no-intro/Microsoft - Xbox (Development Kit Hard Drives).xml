@@ -1,18 +1,24 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>282</id>
 		<name>Microsoft - Xbox (Development Kit Hard Drives)</name>
 		<description>Microsoft - Xbox (Development Kit Hard Drives)</description>
-		<version>20260127-043749</version>
+		<version>20260607-155346</version>
 		<author>Hiccup, NovaAurora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="ActiMarvelThawGun (Unknown)" id="00002">
 		<description>ActiMarvelThawGun (Unknown)</description>
 		<rom name="ActiMarvelThawGun (Unknown).img" size="10005037056" crc="9a7a60ff" md5="68337ff5f156341677f75cb846ee394b" sha1="b85b57d817945ca6bf0dbdc25825a4483f9072a8"/>
+	</game>
+	<game name="atari (Unknown)" id="00006">
+		<description>atari (Unknown)</description>
+		<rom name="atari (Unknown).rar" size="1303577837" crc="aba828c4" md5="2e33d839d458a4e6a17b6e1872520b94" sha1="7b1503ea279450e70460ac71c3bc57256abed390" sha256="8141bbcb313fe0329a6f817cd3c07a9b2b31e1b8a5787b107bdbfeb0648be251"/>
 	</game>
 	<game name="Eutechnyx Debug Kit (Unknown)" id="00003">
 		<description>Eutechnyx Debug Kit (Unknown)</description>
