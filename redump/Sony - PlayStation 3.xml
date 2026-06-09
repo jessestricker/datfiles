@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Discs (4499) (2026-06-08 14-08-29)</description>
-		<version>2026-06-08 14-08-29</version>
-		<date>2026-06-08 14-08-29</date>
+		<description>Sony - PlayStation 3 - Discs (4500) (2026-06-09 13-06-05)</description>
+		<version>2026-06-09 13-06-05</version>
+		<date>2026-06-09 13-06-05</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -22516,5 +22516,10 @@
 		<category>Games</category>
 		<description>Battlefield - Bad Company (Korea) (En,Fr) (Gold Edition)</description>
 		<rom name="Battlefield - Bad Company (Korea) (En,Fr) (Gold Edition).iso" size="6889668608" crc="63235cff" md5="85356b8027accc1f7ae728f87587332d" sha1="f7fe808d6c949e85ba609981efdb046f92cf12c5"/>
+	</game>
+	<game name="G.I. Joe - The Rise of Cobra (Asia)">
+		<category>Games</category>
+		<description>G.I. Joe - The Rise of Cobra (Asia)</description>
+		<rom name="G.I. Joe - The Rise of Cobra (Asia).iso" size="7493124096" crc="7a67aa62" md5="509e098dbc9edabeee3ff911d18f8c0c" sha1="e9ee3234a825f01b2b08956e550cd10a9c615510"/>
 	</game>
 </datafile>

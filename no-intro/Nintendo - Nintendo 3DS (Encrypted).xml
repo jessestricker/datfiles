@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260606-174540</version>
+		<version>20260608-112027</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3998,7 +3998,7 @@
 	<game name="Ken to Mahou to Gakuen Mono. 3D (Japan)" id="0364">
 		<description>Ken to Mahou to Gakuen Mono. 3D (Japan)</description>
 		<game_id>000400000004D800</game_id>
-		<rom name="Ken to Mahou to Gakuen Mono. 3D (Japan).3ds" size="1073741824" crc="c2f8e6c1" md5="13a776c87bdd6c65b47e5f88eeaf14e6" sha1="de54115330f7dbc82cdf0231f77f41e5b6d67521" serial="CTR-P-AKNJ"/>
+		<rom name="Ken to Mahou to Gakuen Mono. 3D (Japan).3ds" size="1073741824" crc="c2f8e6c1" md5="13a776c87bdd6c65b47e5f88eeaf14e6" sha1="de54115330f7dbc82cdf0231f77f41e5b6d67521" sha256="0c180dacc8f07c69c824e9e7ea7a14b360c783592477fe6a74934e4aae63f6c5" serial="CTR-P-AKNJ"/>
 	</game>
 	<game name="Kenka Banchou 6 - Soul &amp; Blood (Japan)" id="1170">
 		<description>Kenka Banchou 6 - Soul &amp; Blood (Japan)</description>
@@ -4043,7 +4043,7 @@
 	<game name="Kinki no Magna (Japan)" id="1052" cloneofid="1269">
 		<description>Kinki no Magna (Japan)</description>
 		<game_id>0004000000120900</game_id>
-		<rom name="Kinki no Magna (Japan).3ds" size="2147483648" crc="4a55e112" md5="7f3e16658ea48f9ddb802c11fe3dd16a" sha1="619c9fbb93694f6fa3916558e157e152bdb4984a" serial="CTR-P-BKKJ"/>
+		<rom name="Kinki no Magna (Japan).3ds" size="2147483648" crc="4a55e112" md5="7f3e16658ea48f9ddb802c11fe3dd16a" sha1="619c9fbb93694f6fa3916558e157e152bdb4984a" sha256="2a300d8ae0f58e9f7146c77d08fb48534dcf1830fb426bcae4540b6ff53e87cb" serial="CTR-P-BKKJ"/>
 	</game>
 	<game name="Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 1 - Kipper-Hen (Japan)" id="0963" cloneofid="1032">
 		<description>Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 1 - Kipper-Hen (Japan)</description>
@@ -8231,7 +8231,7 @@
 	<game name="Rune Factory 4 (Japan) (Rev 1)" id="1662" cloneofid="0437">
 		<description>Rune Factory 4 (Japan) (Rev 1)</description>
 		<game_id>0004000000065800</game_id>
-		<rom name="Rune Factory 4 (Japan) (Rev 1).3ds" size="2147483648" crc="75a44532" md5="590f1bfff12c8714612fda11a8500708" sha1="ea933e2c8edb5939b137eccedfd0edf0dcaf0fd5" serial="CTR-P-AR4J"/>
+		<rom name="Rune Factory 4 (Japan) (Rev 1).3ds" size="2147483648" crc="75a44532" md5="590f1bfff12c8714612fda11a8500708" sha1="ea933e2c8edb5939b137eccedfd0edf0dcaf0fd5" sha256="96f2ae299ede734860e887ed037732345e4b91550ba4faeca4155b3c4da349d1" serial="CTR-P-AR4J"/>
 	</game>
 	<game name="Ryoume de Unou o Kitaeru - 3D Sokudoku Jutsu (Japan)" id="0952">
 		<description>Ryoume de Unou o Kitaeru - 3D Sokudoku Jutsu (Japan)</description>

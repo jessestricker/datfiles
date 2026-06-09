@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260602-114039</version>
+		<version>20260608-125324</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -256,6 +256,18 @@
 		<category>Preproduction</category>
 		<description>Gauntlet - The Third Encounter (World) (Beta) (1990-06-04)</description>
 		<rom name="Gauntlet - The Third Encounter (World) (Beta) (1990-06-04).lyx" size="131072" crc="dcd723e3" md5="8815ea087af1aa89b4f7b65bd3cb8534" sha1="f2623da3f8d762f4a834eebbf0e521117ec39428" sha256="d72773874e489d0638746b08333cf3a7259cebf6bbdb875c18bf900ecc749748"/>
+	</game>
+	<game name="Gauntlet - The Third Encounter (World) (Beta) (1990-01-12)" id="0442" cloneofid="0032">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gauntlet - The Third Encounter (World) (Beta) (1990-01-12)</description>
+		<rom name="Gauntlet - The Third Encounter (World) (Beta) (1990-01-12).lyx" size="131072" crc="41f5de73" md5="5df523241f5b7273457579fa047905f6" sha1="00444683df3ab0af3eac272ee0d379cb5ecf52d5" sha256="4827333527d1f492b0829aa6b6a245eb4038c946066ffbd37ed7c4b6e3fa3ae9"/>
+	</game>
+	<game name="Gemquest (World) (Beta)" id="0441" cloneofid="0032">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gemquest (World) (Beta)</description>
+		<rom name="Gemquest (World) (Beta).lyx" size="131072" crc="8302c463" md5="eaf1413f8e90f5500d88364dab621004" sha1="c5152c20f34c1e5458bca1a45f9e2cfc35050ccc" sha256="08886a97cb9f9aa278b8866f7aa6585116cd5b37587417ff26c51817513d8648"/>
 	</game>
 	<game name="Geoduel (USA) (Demo)" id="0119">
 		<category>Games</category>

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260526-200545</version>
+		<version>20260609-000617</version>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="'96 Zenkoku Koukou Soccer Senshuken (Japan)" id="0001">
@@ -2284,7 +2286,7 @@
 	<game name="Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)" id="0517">
 		<category>Games</category>
 		<description>Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)</description>
-		<rom name="Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).sfc" size="1048576" crc="34f2685e" md5="b1b5f5eb7778afabb4518a5406269b68" sha1="01068ed4d7865372f3c22342f5898204a1ebcf5f" sha256="eabda0d5b24e891c09333850560cdd0addf9412fa4d7644661518314d078f8a0"/>
+		<rom name="Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).sfc" size="1048576" crc="34f2685e" md5="b1b5f5eb7778afabb4518a5406269b68" sha1="01068ed4d7865372f3c22342f5898204a1ebcf5f" sha256="eabda0d5b24e891c09333850560cdd0addf9412fa4d7644661518314d078f8a0" status="verified"/>
 	</game>
 	<game name="Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan)" id="0518" cloneofid="3631">
 		<category>Games</category>
@@ -5394,10 +5396,10 @@
 		<description>Isozuri - Ritou Hen (Japan)</description>
 		<rom name="Isozuri - Ritou Hen (Japan).sfc" size="2097152" crc="3d35d085" md5="ae62407336cae6e9e15a20a5b186645d" sha1="49741c14e923bdaa0ff5776744508544921cbb2d" sha256="fb9abee05c8ff6c256ba10cf401c3384d8e16d582966498fceb9888e92a9665c" status="verified"/>
 	</game>
-	<game name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)" id="1160">
+	<game name="Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan)" id="1160">
 		<category>Games</category>
-		<description>Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)</description>
-		<rom name="Itadaki Street 2 - Neon Sign wa Barairo ni (Japan).sfc" size="1572864" crc="95310032" md5="c4a1a27f58f87786d403a8d133593957" sha1="e0bdf8d4e9c9d3f344686fda1e20190e3b47800d" sha256="36ad8b6dacdc6960a97183c1555c39cb31748671365433e4f304e4662fbcbbd1" status="verified"/>
+		<description>Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan)</description>
+		<rom name="Itadaki Street 2 - Neon Sign ha Barairo Ni (Japan).sfc" size="1572864" crc="95310032" md5="c4a1a27f58f87786d403a8d133593957" sha1="e0bdf8d4e9c9d3f344686fda1e20190e3b47800d" sha256="36ad8b6dacdc6960a97183c1555c39cb31748671365433e4f304e4662fbcbbd1" status="verified"/>
 	</game>
 	<game name="Itchy &amp; Scratchy Game, The (Europe)" id="1161">
 		<category>Games</category>
