@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>443</id>
 		<name>Sony - PlayStation 3 (PSN) (DLC)</name>
 		<description>Sony - PlayStation 3 (PSN) (DLC)</description>
-		<version>20251207-104612</version>
+		<version>20260609-153651</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="007 Legends - 007 Pack (USA) (En,Fr) (DLC)" id="14496">
@@ -19519,6 +19521,12 @@
 		<description>Dead Rising 2 - Ninja Pack (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM60221_00-NINJAFREE0000000</game_id>
 		<rom name="eAnIaej8MMAdrAdrikQwNiaeDbk97ft8YKEP8HcyXgpPQhOOxaj2QtaCVSfd98d8VBC2QUdPeqlPdPFlc1wJxPoCX9n3p3LA8wSGV.pkg" size="2913600" crc="7295dc68" md5="a45a952f255d275c01fe470a37db9b07" sha1="020d9090aef96b87772198cd643951526be78c7b" sha256="633bddc9ea3f56c533340a2601a4d9469e9911fab5af9707ef9c5faff1ce73f5"/>
+	</game>
+	<game name="Dead Rising 2 - Off the Record - Cyborg Skills Pack (Europe) (DLC)" id="23438">
+		<description>Dead Rising 2 - Off the Record - Cyborg Skills Pack (Europe) (DLC)</description>
+		<game_id>EP0102-BLES01302_00-CYBORG0000000000</game_id>
+		<rom name="qQowzKfAZJfFiorRzufhEVJGmQpRWWtxOjEyyNBgxxeCmfOknmIRXlSOgsswfZAS.pkg" size="9299264" crc="6d0644b4" md5="27a444418e6e21b43748f5924a9cd204" sha1="78bdc0e09c4fe9c484428267bb1ceea3b3be9c8b" sha256="f4b943ee85612216c1fabf88ffd8cf479f1bb19a1c6c95cfb2cc5c09a7b3e46f"/>
+		<rom name="EP0102-BLES01302_00-CYBORG0000000000.rap" size="16" crc="dae2fafa" md5="c21b01866d8a82411b144d073000e3e8" sha1="171ff447cf499ef41da3d2e1dbcedd0fdfc31db0" sha256="46153ccb7e8521b85c0e6d7eb1ab9d3b7e45e7ac866521748c066a77229d4004"/>
 	</game>
 	<game name="Dead Rising 2 - Off the Record - Game Breaker (USA) (DLC)" id="12127">
 		<description>Dead Rising 2 - Off the Record - Game Breaker (USA) (DLC)</description>
@@ -71630,16 +71638,19 @@
 		<description>MX vs. ATV Alive - Answer Rockstar (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0013HEMANSRRS</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0013HEMANSRRS.rap" size="16" crc="6ad2ceaf" md5="ff4d9430a0d558bc3f576a406d8e3df4" sha1="c0f836b3196a0effbcbc5de2f46e5170f2fb2acb" sha256="08fd62e75e7c7cc087412de7bae8ce71644efd47c1153fce6521a2b8aa05268a"/>
+		<rom name="KKyPMnONMilHuXCxCxBouTKeeBdmDudSrOHscZMkGxGbYXgJPiydbVlJzixFYTozCdLzGyLoTGqASeQBVHhMkCYfohHRvWixrglok.pkg" size="102400" crc="e4472f6c" md5="a7b52cb6f3964efe2278c8489800c4ff" sha1="132284ac1d0f922bbad8b820b6542b0fa34bfd10" sha256="86c81593de11fc888906a0757dcb2406268a2aeadef64ebb9c32ff09b6b73675" date="2026-02-16"/>
 	</game>
 	<game name="MX vs. ATV Alive - Answer Skullcandy (USA) (DLC)" id="17907">
 		<description>MX vs. ATV Alive - Answer Skullcandy (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0017HEMANSSKU</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0017HEMANSSKU.rap" size="16" crc="ff9d196d" md5="d525291570e0152499ae5299bae4e508" sha1="4c63c60717fdfd93cfb3dda630067c2288005510" sha256="f321a83d981b0a0f7bc1179b2be354881b5cbcffd009630afd678eb2316b189b"/>
+		<rom name="DawdzdBonvOrXLkpLPnmOFHNOzKUpuLHYjTtPAvXomaGXWtayEDHHwbQCsKlExcicnSbqsrPTTrLKeCzavrNVftNqZrbqLfaoYLMW.pkg" size="102400" crc="85e2c476" md5="8bce4ea4503316e7d23617568bf34f08" sha1="92a0ec913f26e343c556d53160604d37eca04423" sha256="3d321ed2d0d5b5f01a3c4d47eda3f4413b93319e2610dbbc7b6b01fe5c50240c"/>
 	</game>
 	<game name="MX vs. ATV Alive - Fox Racing V3 Se (USA) (DLC)" id="17903">
 		<description>MX vs. ATV Alive - Fox Racing V3 Se (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0013HEMFOXSES</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0013HEMFOXSES.rap" size="16" crc="406c4934" md5="412cb88d4a28fbf389926a8d72a99e68" sha1="6793986a38874355c27a6ce26108b8096b439c10" sha256="2e5051faf8bdd544a53af7a8dd36b097ece696091931c2768e593a7ae63afb34"/>
+		<rom name="fxfCSsolZnsbUcKILMHZCPvZlfAXATClCmEdpWjoJqRMdJEpdtSmrwHDflyKuGGyzOmbAQzwkGLJKWTOxhzyOlkrMAaIhZvUCNovG.pkg" size="102400" crc="b2d7dd5f" md5="4daed2d952c0f09aa2c2cad488a84761" sha1="d2f9bbbba88f764f47c3e5ed54e383a211bb890b" sha256="ac2ef272673b26f2a72dd9ab621e6667afcec155eda1100a5c2e04c0af913045" date="2026-02-16"/>
 	</game>
 	<game name="MX vs. ATV Alive - Honda CRF250R MX (USA) (DLC)" id="17894">
 		<description>MX vs. ATV Alive - Honda CRF250R MX (USA) (DLC)</description>
@@ -71661,6 +71672,7 @@
 		<description>MX vs. ATV Alive - In Nitro Carbin (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0015HEMNITKAR</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0015HEMNITKAR.rap" size="16" crc="23a45307" md5="1b4c8be1f39e72dd8a4dcef2fc0623b2" sha1="238cf76cfb38d7cd8dddd2e8b402acf8275c1f10" sha256="6387c35dd0c3dde799ec76bfc6154d0622361858e5ef0b07ae42fabcd3d17550"/>
+		<rom name="XgWEbzzKHYOnHWhWtrNJYrWWFklKtVEcTPDueKTedEpeiCEIDlryGqqqwATwoyGuRtrVuxShsRaonOWxMicHUophUXpMhwHOWmiMR.pkg" size="102400" crc="8047ddc1" md5="a7223ceb19d0d2758c86afc29475038f" sha1="ec7dd941c13642b6d502a82336527063e2d45682" sha256="68c34e48e4597764cae6844ed78cd568c9820483acc1f758471b3a4ea742d63d"/>
 	</game>
 	<game name="MX vs. ATV Alive - Kawasaki KFX450 ATV (USA) (DLC)" id="17897">
 		<description>MX vs. ATV Alive - Kawasaki KFX450 ATV (USA) (DLC)</description>
@@ -71681,6 +71693,7 @@
 		<description>MX vs. ATV Alive - KTM 250SXF MX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0009OEM250SXF</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0009OEM250SXF.rap" size="16" crc="5643c2c1" md5="0a589794fbb9b0ab3b37eeb265aca414" sha1="ba18c6e0a5f1fc5cbb3ac943e6b23cce59d35247" sha256="2df24f4de68fc16a9c595720e169f18805710e58a440828b55e3d5cf2172e782"/>
+		<rom name="HUHhWOXxMuaUAVTEgNPWcoAzpasHefniRobjmpCBCjnMEpsTveydREXEQtCGpsCCxblNkIItfAkXpZnfwtUJElRGGHjakDwXTrUGt.pkg" size="102400" crc="426cdafb" md5="82054459fb691537417feaed979032b2" sha1="f5629eeac633cae04bb71b72c4dda93442eb29fd" sha256="c1b52877f4920fac88119f3a0df85655efd3298442ac84ab3ddcb1596a46ef15" date="2025-11-22"/>
 	</game>
 	<game name="MX vs. ATV Alive - KTM 350 SX-F MX (USA) (En,Fr,De,Es,It) (DLC)" id="17904">
 		<description>MX vs. ATV Alive - KTM 350 SX-F MX (USA) (En,Fr,De,Es,It) (DLC)</description>
@@ -71692,6 +71705,7 @@
 		<description>MX vs. ATV Alive - KTM 450SX ATV (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0014OEMA450SX</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0014OEMA450SX.rap" size="16" crc="10e5ec56" md5="e23fd3e709775095209c78207459602a" sha1="68e450eb3989322685311f7b3de69c212dfd4efd" sha256="05b566b207f9745b96ea4fa9a85b124872db1de0085e206f9efba94a73b56ff9"/>
+		<rom name="ZgfgzCnIcGghLwqsDHEckoNNugLUpJSHKdeVsHlhcTfUfiZpkkFnSPxbDhChEuNuMJjtleaJiqIdcJSWbPKwBOfisMCVzKQpRWTSe.pkg" size="102400" crc="4473ddac" md5="a009529a6ecc48daf127072be180f5b6" sha1="fe9d5fb35793d477f7a6e95c57fdf5f1ad7fb378" sha256="c493a5d9ece03d2b01f8476a84552c1287511b7400031044955405a963a2035e"/>
 	</game>
 	<game name="MX vs. ATV Alive - MotoClub Pro (USA) (En,Fr,De,Es,It) (DLC)" id="17888">
 		<description>MX vs. ATV Alive - MotoClub Pro (USA) (En,Fr,De,Es,It) (DLC)</description>

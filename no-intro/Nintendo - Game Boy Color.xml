@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260607-124033</version>
+		<version>20260610-132801</version>
 		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1412,6 +1412,12 @@
 		<description>Densha de Go! 2 (Japan)</description>
 		<rom name="Densha de Go! 2 (Japan).gbc" size="8388608" crc="b72603fc" md5="ab58102005b510a2d905ed7de9d6267a" sha1="63bcca7177712a9bc6f032c83c2e129d9b9af0fa" sha256="aaf85dc22020cc7103bfcacb0bdd54568d4b391a0483fd3e11f18cd35c9c05a6" status="verified"/>
 	</game>
+	<game name="Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles)" id="2917" cloneofid="2916">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles)</description>
+		<rom name="Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles).gbc" size="524288" crc="8893d527" md5="92f3f1c191ee26eb3a3b2485acc2f0ef" sha1="90dc8fcfdecd7ecff3ba85ddb548130d8bc642c2" sha256="634d15d724af8531ff172f68b12043b5e7f2d2c0ad7278c73f2649280b640cd9"/>
+	</game>
 	<game name="Dexter's Laboratory - Robot Rampage (USA, Europe)" id="0248">
 		<description>Dexter's Laboratory - Robot Rampage (USA, Europe)</description>
 		<rom name="Dexter's Laboratory - Robot Rampage (USA, Europe).gbc" size="1048576" crc="d24d6601" md5="2a147b2d7731ac26a999390c3f5ff2ac" sha1="db107af55df07fb8c771c712b05d6aebb175e3c5" status="verified"/>
@@ -1996,10 +2002,6 @@
 		<description>Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="5c0e7b44" md5="e20f2057c2143993c0f844097d0086d5" sha1="ee56328e88729f929da717221d72826c872253c2" status="verified"/>
 	</game>
-	<game name="F-1 World Grand Prix (Europe) (En,Fr,De,Es)" id="0343">
-		<description>F-1 World Grand Prix (Europe) (En,Fr,De,Es)</description>
-		<rom name="F-1 World Grand Prix (Europe) (En,Fr,De,Es).gbc" size="2097152" crc="8d9a9182" md5="cfb6a98bef18c56e466d27b885e20f8f" sha1="16aa2e02e9b7f236f12a49c3224ca4cc89cdf98c" sha256="78e91740ecdc7aaad788e1c8f3fac21865a5cc7c5feb04c6cc3e016a0c8c93a4" status="verified"/>
-	</game>
 	<game name="F-1 World Grand Prix (Europe) (Beta)" id="1433" cloneofid="0343">
 		<description>F-1 World Grand Prix (Europe) (Beta)</description>
 		<rom name="F-1 World Grand Prix (Europe) (Beta).gbc" size="2097152" crc="d6496fe9" md5="09c21d37f66cca587663a461c81606be" sha1="9285bb4fbab8678b65cc8736f43e4ea3895c1cf4"/>
@@ -2012,13 +2014,17 @@
 		<description>F-1 World Grand Prix (Japan) (En) (Beta 1)</description>
 		<rom name="F-1 World Grand Prix (Japan) (En) (Beta 1).gbc" size="2097152" crc="3122807b" md5="9146fdd44befde06269c9c1642678c94" sha1="afc4b8f0487b0c6b0ca6470d4002eaca6616a04b" sha256="ab3800c1c8a566153863acd28baafee6dcbb27d96cd25798cd90a5ddd03ede0a"/>
 	</game>
-	<game name="F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version)" id="1684" cloneofid="0344">
-		<description>F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version)</description>
-		<rom name="F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version).gbc" size="1048576" crc="9e253e73" md5="bbd777c45d97cd88a5cf7c7bdacac82a" sha1="f7ccfc1f0822bdc611751d77b9f164c6aaa64c01" sha256="70d9d8c8bca3272ae784b5e85bda8352ba0898ad480d43a1f21b881bb4007f5a"/>
+	<game name="F-1 World Grand Prix (Europe) (En,Fr,De,Es)" id="0343">
+		<description>F-1 World Grand Prix (Europe) (En,Fr,De,Es)</description>
+		<rom name="F-1 World Grand Prix (Europe) (En,Fr,De,Es).gbc" size="2097152" crc="8d9a9182" md5="cfb6a98bef18c56e466d27b885e20f8f" sha1="16aa2e02e9b7f236f12a49c3224ca4cc89cdf98c" sha256="78e91740ecdc7aaad788e1c8f3fac21865a5cc7c5feb04c6cc3e016a0c8c93a4" status="verified"/>
 	</game>
 	<game name="F-18 Thunder Strike (USA, Europe)" id="0344">
 		<description>F-18 Thunder Strike (USA, Europe)</description>
 		<rom name="F-18 Thunder Strike (USA, Europe).gbc" size="1048576" crc="410fa858" md5="58670204ec7b8791576e3c88ba7c1ddf" sha1="530aecae5b89e580be8a8d4827be95522d8319c4"/>
+	</game>
+	<game name="F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version)" id="1684" cloneofid="0344">
+		<description>F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version)</description>
+		<rom name="F-18 Thunder Strike (USA, Europe) (Beta) (Rumble Version).gbc" size="1048576" crc="9e253e73" md5="bbd777c45d97cd88a5cf7c7bdacac82a" sha1="f7ccfc1f0822bdc611751d77b9f164c6aaa64c01" sha256="70d9d8c8bca3272ae784b5e85bda8352ba0898ad480d43a1f21b881bb4007f5a"/>
 	</game>
 	<game name="F.A. Premier League Stars 2001, The (Europe)" id="0345">
 		<description>F.A. Premier League Stars 2001, The (Europe)</description>
@@ -2110,6 +2116,10 @@
 		<description>Fix &amp; Foxi - Episode 1 - Lupo (Europe) (En,Fr,De)</description>
 		<rom name="Fix &amp; Foxi - Episode 1 - Lupo (Europe) (En,Fr,De).gbc" size="1048576" crc="5dfc61e8" md5="9f77adbb0a6af7bd85d21a8ef9fdea49" sha1="6d14bf255eb042e7185da32137f679f4e2c24ce5"/>
 	</game>
+	<game name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)" id="1414">
+		<description>Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="a5b09726" md5="99825e86250ab53b5ea8ac702930919d" sha1="2f7fb1afedd6c9657715b45397dc5492e40dfe45" status="verified"/>
+	</game>
 	<game name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)" id="0357" cloneofid="1414">
 		<description>Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)</description>
 		<rom name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta).gbc" size="1048576" crc="ecccd908" md5="d5e1af0598a8db7b93f57eb2909edc17" sha1="80ec102f3cf45602c6facffcdd44232650897dab"/>
@@ -2117,10 +2127,6 @@
 	<game name="Flintstones, The - Burgertime in Bedrock (USA)" id="0358" cloneofid="1414">
 		<description>Flintstones, The - Burgertime in Bedrock (USA)</description>
 		<rom name="Flintstones, The - Burgertime in Bedrock (USA).gbc" size="1048576" crc="14d8cc5d" md5="50e6d9d88450932743161b7512838ccc" sha1="065851358f6720d4926faa42b015da68cafa6c28"/>
-	</game>
-	<game name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)" id="1414">
-		<description>Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="a5b09726" md5="99825e86250ab53b5ea8ac702930919d" sha1="2f7fb1afedd6c9657715b45397dc5492e40dfe45" status="verified"/>
 	</game>
 	<game name="Flipper &amp; Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="0359">
 		<description>Flipper &amp; Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20251230-064409</version>
+		<version>20260610-001324</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="&amp; - Sora no Mukou de Saki Masuyou ni (Japan)" id="45535">
@@ -387,6 +389,7 @@
 		<description>Ace Combat - Infinity (Japan) (Beta)</description>
 		<game_id>JP0700-NPJB90677_00-ACECOMBATINF00B1</game_id>
 		<rom name="fTnvqiFXDIrQLXBaMhuylVgotxRBkpSEvLqZbBwzEtAlBYzAEJfyqrpCkarueMFDaIENGGrEguVxHuKljZSzkxhnskUZkVJjdfEGB.pkg" size="2058737984" crc="dad4d45e" md5="712b246df09681c6b3fd912279e22802" sha1="f6bb7389095fbe89ff7a687d1acd73a554832dff"/>
+		<rom name="JP0700-NPJB90677_00-ACECOMBATINF00B1.rap" size="16" crc="a2d55429" md5="cb9eac304b78b7faa7829a76b3046d0c" sha1="a04174fd4c5c1dac4f5843c5f000d5f745282376" sha256="e891fb62c4c69d6f2551966bbc12ae106ee6ac8a285473bda6e4f3cfbd6b45c0"/>
 	</game>
 	<game name="Ace Combat - Infinity (USA) (Beta)" id="31806">
 		<description>Ace Combat - Infinity (USA) (Beta)</description>
@@ -3855,6 +3858,7 @@
 		<description>Book of Unwritten Tales 2, The (Europe)</description>
 		<game_id>EP4389-NPEB02256_00-BOUT2PS3SCEE0001</game_id>
 		<rom name="EP4389-NPEB02256_00-BOUT2PS3SCEE0001_bg_1_857efe604abea5816fdab8586a45d223e94390be.pkg" size="6764541296" crc="2fc892f3" md5="a5fcf72496bd9d4b9c21430a64164089" sha1="9910190466945ee21c9a935b59f2a7d3853e221b"/>
+		<rom name="EP4389-NPEB02256_00-BOUT2PS3SCEE0001.rap" size="16" crc="32c7c8c4" md5="0484bbc4166ced6c1ef6205ee6317c64" sha1="b9973e7a1ff93bcbda240634c0728701063d87c8" sha256="aea60b88b4aa2f31c8d6b29c07c339ef576821bf3736896a7e5c4d413f7688db"/>
 	</game>
 	<game name="Book of Unwritten Tales 2, The (USA)" id="25433">
 		<description>Book of Unwritten Tales 2, The (USA)</description>
@@ -7956,6 +7960,12 @@
 		<game_id>JP0083-NPJB90633_00-DNF00DEMOJPN0000</game_id>
 		<rom name="VfmioeoWgDNVfxZeVqjmnOeifPtOEcjmSKqtSGURDDjcxFUGUGiKXdnysMUcZintfmyUsIauVkJVZkGRTaWtKeTyCvSCePdheVADJ.pkg" size="353431824" crc="13f177c5" md5="9386b8f000bbe8b8aa9058a4ef22a56c" sha1="98731207b012bdcfe0d13919f805ed4e2d27e994"/>
 	</game>
+	<game name="Doc Clock - The Toasted Sandwich of Time (Europe)" id="46015">
+		<description>Doc Clock - The Toasted Sandwich of Time (Europe)</description>
+		<game_id>EP4308-NPEB00893_00-DOCCLOCKTTSOT001</game_id>
+		<rom name="TAXxWjtdlgUSTLqCLNqJgVqmVNOZfCZoPkwesJOamDSjZNRQIZlWTdieQrHZWsWn.pkg" size="312250496" crc="efab468f" md5="0b15921088755dd15226aa3ec2e4e54f" sha1="2c53ecb388c89a2328df6ec06abc8286c4be71ab" sha256="8b3ad3dd205af156f9ef5c84ebbe38440fe911c22f0782f4d2b4232ca0f937dc"/>
+		<rom name="EP4308-NPEB00893_00-DOCCLOCKTTSOT001.rap" size="16" crc="542de030" md5="ec76f6eaa996ccfbe1e3f627730516ec" sha1="6742b24d2099a5fdb87012110b6d3087174f9975" sha256="78847558532f9a364fb08120c3b692716042eef5230e506e53ee56d3858ff71a"/>
+	</game>
 	<game name="Doc Clock - The Toasted Sandwich of Time (USA)" id="07999">
 		<description>Doc Clock - The Toasted Sandwich of Time (USA)</description>
 		<game_id>UP4308-NPUB30765_00-DOCCLOCKTTSOT001</game_id>
@@ -10686,6 +10696,7 @@
 		<description>FIFA 18 (Europe)</description>
 		<game_id>EP0006-NPEB02444_00-FIFA18PSNDIGITAL</game_id>
 		<rom name="EP0006-NPEB02444_00-FIFA18PSNDIGITAL.rap" size="16" crc="8c27ddb6" md5="f1d35dcad2c63b38808b86987bf1fb90" sha1="7ff4a4ed9087bc2a973da0a5a8fef2bc76f5c842" sha256="cb4e2cc4bfa25fc0ead559a41ee3d847bdda22c5504215fa0153b616d8965f92"/>
+		<rom name="EP0006-NPEB02444_00-FIFA18PSNDIGITAL_bg_1_1179302e6873b76d1165ef2da8710b1196ff15f7.pkg" size="9520569104" crc="cf614a76" md5="c107923702294f849430f7bb77ee2907" sha1="33b844c2466aa23501cbe7221714d6ae72244989" sha256="54ac6710842e1bebd5374b4a8c41021861629a47e4e446c727be344c5305f0e7"/>
 	</game>
 	<game name="FIFA 18 - Legacy Edition (Japan)" id="35452">
 		<description>FIFA 18 - Legacy Edition (Japan)</description>
@@ -26016,6 +26027,7 @@
 		<description>Red Dead Redemption - Undead Nightmare (Europe)</description>
 		<game_id>EP1004-NPEB00832_00-PSNRDRUNDEADV003</game_id>
 		<rom name="BpVkmTVUpVqWIFJkLAydoMgAUWgbntfvZgsTTHbiSwssMxHgIdSwHlwzNMkDQbTE.pkg" size="10351123744" crc="d745be43" md5="e8e4d6fcd542b89e2199d219937e635a" sha1="b6c23437895a23fa7bff6be8f13e291e254965f3"/>
+		<rom name="EP1004-NPEB00832_00-PSNRDRUNDEADV003.rap" size="16" crc="98dc84aa" md5="18821824b5def34a609f3d31562b0c7b" sha1="3ce2ea5052f2c8e84294a84778d7283d5d9604c0" sha256="81d376f31e58d1b4bd79cd4a5b96bdc9b750e74489f8f49fe7a5b4c38a12047e"/>
 	</game>
 	<game name="Red Dead Revolver (USA) (PS2 Classics)" id="06128">
 		<description>Red Dead Revolver (USA) (PS2 Classics)</description>
@@ -28162,7 +28174,8 @@
 		<category>Games</category>
 		<description>Sengoku Musou 2 with Moushouden HD Version (Japan)</description>
 		<game_id>JP0106-NPJB00439_00-JM2EXVER01000000</game_id>
-		<rom name="KqfNiavvcdEenQqsPPGmOTLOuUNrfHABuRjhGeAFrhVyhpWLbuShpryFfSGRNumWZQaHPlIFUWyWhVSledVqlTIOeqPLrSQNcbxFk.pkg" size="18033733152" crc="b06f664a" md5="2284bbf9b61347a1092cb5e2edac718a" sha1="cecb845fe5a00ee93efa7d1e54cd194a8aeb3187" sha256="042acee153edb08c4abee83ccfcc776b20679e66568ff09e5d207fe2611f2c8d"/>
+		<rom name="KqfNiavvcdEenQqsPPGmOTLOuUNrfHABuRjhGeAFrhVyhpWLbuShpryFfSGRNumWZQaHPlIFUWyWhVSledVqlTIOeqPLrSQNcbxFk.pkg" size="18033733152" crc="b06f664a" md5="2284bbf9b61347a1092cb5e2edac718a" sha1="cecb845fe5a00ee93efa7d1e54cd194a8aeb3187" sha256="042acee153edb08c4abee83ccfcc776b20679e66568ff09e5d207fe2611f2c8d" status="verified"/>
+		<rom name="JP0106-NPJB00439_00-JM2EXVER01000000.rap" size="16" crc="d03c7163" md5="987fa509df89f3ecf3b55c87748a538f" sha1="0564d863d1337d4a42c1be8e08b79628fa7b066a" sha256="2b3b30be4ca9abce932a6ddef276260e112dc0f4e9dc23669488d8ebbf144c9a" status="verified"/>
 	</game>
 	<game name="Sengoku Musou 4 (Japan)" id="19227">
 		<description>Sengoku Musou 4 (Japan)</description>

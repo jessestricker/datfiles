@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260608-112027</version>
+		<version>20260610-010042</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -46,6 +46,11 @@
 		<description>2in1 - Life with Horses 3D + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000134D00</game_id>
 		<rom name="2in1 - Life with Horses 3D + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="5e3bdec4" md5="acb304928deac58f3e6821eb06cf9282" sha1="4e4a306fa32486ada5a4ea85bf14a171d72d092d" serial="CTR-P-BMXP"/>
+	</game>
+	<game name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)" id="z226">
+		<description>2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<game_id>000400000018BE00</game_id>
+		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="7cc75078" md5="5ed0af43ae87b55cbaa8982e43a0bd35" sha1="911f480349ce36e417a335b22f02c4e04f6b5129" sha256="14c1afc68722531dbf7191929184a5ef90b81d7838b009254a2cdfe161959928" serial="CTR-P-BENP"/>
 	</game>
 	<game name="2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)" id="1064">
 		<description>2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -1530,7 +1535,7 @@
 		<category>Applications</category>
 		<description>CTR Guide Boot Card (Europe) (Rev 1) (Program)</description>
 		<game_id>000400000006A000</game_id>
-		<rom name="CTR Guide Boot Card (Europe) (Rev 1) (Program).3ds" size="134217728" crc="46e6a6aa" md5="1394c4af94b316e5805bc6bb4ebea0ff" sha1="19c117084f9f752ada5fa7711c8896a3f9b0f014" sha256="3faae8e46d3a341e209283fc5561643d8005330f5d49a30fac042b85fe1c0d14" serial="CTR-P-AAAP"/>
+		<rom name="CTR Guide Boot Card (Europe) (Rev 1) (Program).3ds" size="134217728" crc="46e6a6aa" md5="1394c4af94b316e5805bc6bb4ebea0ff" sha1="19c117084f9f752ada5fa7711c8896a3f9b0f014" sha256="3faae8e46d3a341e209283fc5561643d8005330f5d49a30fac042b85fe1c0d14" status="verified" serial="CTR-P-AAAP"/>
 	</game>
 	<game name="CTR Guide Boot Card (Europe) (Program)" id="z068" cloneofid="z056">
 		<category>Applications</category>
@@ -3563,7 +3568,7 @@
 	<game name="Hyrule Warriors Legends (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x046" cloneofid="1469">
 		<description>Hyrule Warriors Legends (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000193400</game_id>
-		<rom name="Hyrule Warriors Legends (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="268435456" crc="2b07e470" md5="33bfbf6fff43118b2639d168bfecce0b" sha1="8ac63ab3d9162c1c4a992a03230419d99c320c87" serial="CTR-B-BZHP"/>
+		<rom name="Hyrule Warriors Legends (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="268435456" crc="2b07e470" md5="33bfbf6fff43118b2639d168bfecce0b" sha1="8ac63ab3d9162c1c4a992a03230419d99c320c87" status="verified" serial="CTR-B-BZHP"/>
 	</game>
 	<game name="I Love My Cats (Europe) (En,Fr,De,Es,It,Nl)" id="1294">
 		<description>I Love My Cats (Europe) (En,Fr,De,Es,It,Nl)</description>

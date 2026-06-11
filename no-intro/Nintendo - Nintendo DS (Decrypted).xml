@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260609-002557</version>
+		<version>20260610-114223</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2658,7 +2658,7 @@
 	</game>
 	<game name="Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany)" id="0713" cloneofid="1536">
 		<description>Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany)</description>
-		<rom name="Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany).nds" size="8388608" crc="33f83f1b" md5="7da767e5eb3977342f3f603448ec9c02" sha1="2720ad87178d7c44a0b3f4e43ed89109641f90c1" serial="AEFX"/>
+		<rom name="Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany).nds" size="8388608" crc="33f83f1b" md5="7da767e5eb3977342f3f603448ec9c02" sha1="2720ad87178d7c44a0b3f4e43ed89109641f90c1" sha256="35b534edce7197f8eed93ff147b4f1c10841f4cf96c13122db8a301826e6a602" status="verified" serial="AEFX"/>
 	</game>
 	<game name="Bienvenue Chez les Ch'tis - Le Jeu (France)" id="2850">
 		<description>Bienvenue Chez les Ch'tis - Le Jeu (France)</description>
@@ -3382,7 +3382,7 @@
 	</game>
 	<game name="Brave (Europe) (En,Fr,De,Es,It,Nl)" id="6063">
 		<description>Brave (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Brave (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="bdb33242" md5="83092131ad6d19d145c83104466e1bb6" sha1="0431c7cca1a58bb48238fbf96d284caedbd4daf8" status="verified" serial="TBRP"/>
+		<rom name="Brave (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="bdb33242" md5="83092131ad6d19d145c83104466e1bb6" sha1="0431c7cca1a58bb48238fbf96d284caedbd4daf8" sha256="e4af5c9715fc00aa02cf17932d0d012572536849be9055847f406d236ddfdbc4" status="verified" serial="TBRP"/>
 	</game>
 	<game name="Brave (Europe) (En,Sv,No,Da)" id="6112" cloneofid="6063">
 		<description>Brave (Europe) (En,Sv,No,Da)</description>
@@ -12799,7 +12799,7 @@
 	</game>
 	<game name="Junior Wort-Quiz, Das (Germany)" id="3434" cloneofid="3290">
 		<description>Junior Wort-Quiz, Das (Germany)</description>
-		<rom name="Junior Wort-Quiz, Das (Germany).nds" size="33554432" crc="7af4b198" md5="1fd12f02c0a27c17fdaa128e22fc9e61" sha1="9053ba7e6b6e8b637ba6af1dc17d0388e5c2c958" serial="CYCD"/>
+		<rom name="Junior Wort-Quiz, Das (Germany).nds" size="33554432" crc="7af4b198" md5="1fd12f02c0a27c17fdaa128e22fc9e61" sha1="9053ba7e6b6e8b637ba6af1dc17d0388e5c2c958" sha256="7dfc17deaf26784c8576b2a40df50296c6653f89bafec7fe9857a1b584ef7528" status="verified" serial="CYCD"/>
 	</game>
 	<game name="Just in Time Translations - Say It in 6 Languages (USA) (En,Ja,Fr,De,Es,It,Zh)" id="4601">
 		<description>Just in Time Translations - Say It in 6 Languages (USA) (En,Ja,Fr,De,Es,It,Zh)</description>
@@ -15677,7 +15677,7 @@
 	</game>
 	<game name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)" id="2727">
 		<description>Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="9e6bd556" md5="e0a91e75c28ed0c5ca9641d1b78bb925" sha1="6b0706cf6ad7b280534df211df1b2b819f631941" serial="CQJP"/>
+		<rom name="Mahjongg - Ancient Mayas (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="9e6bd556" md5="e0a91e75c28ed0c5ca9641d1b78bb925" sha1="6b0706cf6ad7b280534df211df1b2b819f631941" sha256="122b757cec44672924cf71c9d30bc1ad3af28edb9d0b3957f551862e88a4448e" status="verified" serial="CQJP"/>
 	</game>
 	<game name="Mahjongg DS (Europe) (En,Fr,De,Es,It,Nl)" id="2655">
 		<description>Mahjongg DS (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -17067,7 +17067,7 @@
 	</game>
 	<game name="Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany)" id="5798" cloneofid="6163">
 		<description>Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany)</description>
-		<rom name="Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany).nds" size="33554432" crc="cef2d0a3" md5="4ab6f5a5c84ceb8bdc0b792924c89d28" sha1="75c44feb66ad3466c42829e0c5fd55be75c6054b" serial="B4MD"/>
+		<rom name="Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany).nds" size="33554432" crc="cef2d0a3" md5="4ab6f5a5c84ceb8bdc0b792924c89d28" sha1="75c44feb66ad3466c42829e0c5fd55be75c6054b" sha256="75385a287df105d6d5d821f185548deac5910c41c5ae18e87b3c4078ade136b0" serial="B4MD"/>
 	</game>
 	<game name="Midnight Mysteries - The Edgar Allan Poe Conspiracy (Europe) (Fr,Nl)" id="5570" cloneofid="6163">
 		<description>Midnight Mysteries - The Edgar Allan Poe Conspiracy (Europe) (Fr,Nl)</description>
@@ -23647,7 +23647,7 @@
 	</game>
 	<game name="Rooms - The Main Building (Europe) (En,Fr,De,Es,It)" id="4985">
 		<description>Rooms - The Main Building (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Rooms - The Main Building (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="359a4f84" md5="217eb12bb2ddaa8d71e7674a56e272f4" sha1="72e4001f024da4109821efcd7d8e36e64bf3d82d" serial="BRMP"/>
+		<rom name="Rooms - The Main Building (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="359a4f84" md5="217eb12bb2ddaa8d71e7674a56e272f4" sha1="72e4001f024da4109821efcd7d8e36e64bf3d82d" sha256="43929832c78a60621ebbdc71c2b99480aa64f2faedbbd1c00d47ea450fb3df0b" status="verified" serial="BRMP"/>
 	</game>
 	<game name="Rooms - The Main Building (USA) (En,Fr,Es)" id="4813" cloneofid="4985">
 		<description>Rooms - The Main Building (USA) (En,Fr,Es)</description>
@@ -25965,7 +25965,7 @@
 	</game>
 	<game name="SpongeBob's Boating Bash (Europe) (En,De) (NDSi Enhanced)" id="4835">
 		<description>SpongeBob's Boating Bash (Europe) (En,De) (NDSi Enhanced)</description>
-		<rom name="SpongeBob's Boating Bash (Europe) (En,De) (NDSi Enhanced).nds" size="33554432" crc="9c838251" md5="22d96cae3c10b3de9eaeb38f3df43e2b" sha1="236f511baa944f86b0299b9375627f9b90321051" serial="VBVV"/>
+		<rom name="SpongeBob's Boating Bash (Europe) (En,De) (NDSi Enhanced).nds" size="33554432" crc="9c838251" md5="22d96cae3c10b3de9eaeb38f3df43e2b" sha1="236f511baa944f86b0299b9375627f9b90321051" sha256="2786f83ce965b43db007a4bf8993a1acc04adaa4dc182b73a95a20be979021b2" status="verified" serial="VBVV"/>
 	</game>
 	<game name="SpongeBob's Boating Bash (Europe) (En,Es) (NDSi Enhanced)" id="5975" cloneofid="4835">
 		<description>SpongeBob's Boating Bash (Europe) (En,Es) (NDSi Enhanced)</description>
@@ -28850,7 +28850,7 @@
 	</game>
 	<game name="Transformers Prime - The Game (Europe) (De,Sv)" id="6135" cloneofid="6585">
 		<description>Transformers Prime - The Game (Europe) (De,Sv)</description>
-		<rom name="Transformers Prime - The Game (Europe) (De,Sv).nds" size="134217728" crc="ba74ec4e" md5="c35ca61a93eefa5483fa44ba9e503e89" sha1="62f3d2788151de1ebd88e2cc87a4b031af209814" serial="TPTZ"/>
+		<rom name="Transformers Prime - The Game (Europe) (De,Sv).nds" size="134217728" crc="ba74ec4e" md5="c35ca61a93eefa5483fa44ba9e503e89" sha1="62f3d2788151de1ebd88e2cc87a4b031af209814" sha256="6c8d7d83a76605e36182feff039cda47cb28dba9adbe761fd9e0bcf60cede8dc" serial="TPTZ"/>
 	</game>
 	<game name="Transformers Prime - The Game (United Kingdom)" id="6585">
 		<description>Transformers Prime - The Game (United Kingdom)</description>
@@ -29155,7 +29155,7 @@
 	</game>
 	<game name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)" id="1354">
 		<description>Undercover - Dual Motives (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5b5449b7" md5="06199066c4bab633571bf47004b9d55a" sha1="806957b43d8a81ace86919c3bfda867e4e1f920e" serial="YUWP"/>
+		<rom name="Undercover - Dual Motives (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5b5449b7" md5="06199066c4bab633571bf47004b9d55a" sha1="806957b43d8a81ace86919c3bfda867e4e1f920e" sha256="c41d8403bd95f7eb807688ab75e95fa338ebf90bed0fbbb8489df8bb656dc75b" serial="YUWP"/>
 	</game>
 	<game name="Underground Pool (USA)" id="0837" cloneofid="0843">
 		<description>Underground Pool (USA)</description>

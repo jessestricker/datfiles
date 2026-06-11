@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>133</id>
 		<name>Sony - PlayStation (PS one Classics) (PSN)</name>
 		<description>Sony - PlayStation (PS one Classics) (PSN)</description>
-		<version>20251228-171141</version>
+		<version>20260609-202603</version>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="1 on 1 (Japan)" id="1292">
@@ -7909,6 +7911,11 @@
 		<rom name="gSrMfgLoVFlqxk9x3yM8HO89vr9jkODlRY7nMCfxNnHPuhahWD2gRoenwY8M2dAwFHkqfQXLdx447sXssQJ2vohiKNf8IHjjR5EVn.pkg" size="93483328" crc="81a8530e" md5="dc124b1f8a48c93100b14575b7e81d28" sha1="c4df4aab711cf25eca6d2dbc3884d7eb2e6a9112"/>
 		<rom name="JP0571-NPJJ00142_00-0000000000000001.rap" size="16" crc="3e6b07d6" md5="f27f06ae4b43245522632e851b70074a" sha1="aadcc8a5f6cc0d0c33a8d5d2d298bf3bd1a86b8f"/>
 	</game>
+	<game name="Wai Wai Kart (Asia)" id="1032">
+		<description>Wai Wai Kart (Asia)</description>
+		<game_id>HP0571-NPHJ00069_00-0000000000000001</game_id>
+		<rom name="xHnUsRaLIuhtkfuHJy8Bmo2HQ0bsoWY8hEyuLVHy2UOJwBA0p3Ec7LB2yGSOKGlVwaApyf9bYp6b8FW8UQo4eJqoYUhcb27cV4JAU.pkg" size="167779088" crc="08097851" md5="246b514287ac83063d9ca36fd0469a33" sha1="f0d3b7da8d394a4a5843196741c8531625d55908"/>
+	</game>
 	<game name="Wai Wai Kart (Japan)" id="1384">
 		<description>Wai Wai Kart (Japan)</description>
 		<game_id>JP0571-NPJJ00136_00-0000000000000001</game_id>
@@ -7920,11 +7927,6 @@
 		<game_id>JP0571-NPJJ00135_00-0000000000000001</game_id>
 		<rom name="PXcticAtTk9EOvRQSJmyYnDgcSC7wedtgCNUApETDebhIKul8hOJP4t5QwtANPCfDfO627p27KeiLCGSgWI4pEwGsUy6GD4egLmU1.pkg" size="8743488" crc="7b4b70e4" md5="a6754bd1421a4d6c026a477aa0f8c0d7" sha1="ed5da19276e3a226bdfba15ebfc5f3593b8e1b75"/>
 		<rom name="JP0571-NPJJ00135_00-0000000000000001.rap" size="16" crc="95afc971" md5="ad6179023ffc501404d2dba7edaac285" sha1="305f957aa4be229da797fe3250534b6b3b0dfbc3"/>
-	</game>
-	<game name="Waiwai Kart (Asia)" id="1032">
-		<description>Waiwai Kart (Asia)</description>
-		<game_id>HP0571-NPHJ00069_00-0000000000000001</game_id>
-		<rom name="xHnUsRaLIuhtkfuHJy8Bmo2HQ0bsoWY8hEyuLVHy2UOJwBA0p3Ec7LB2yGSOKGlVwaApyf9bYp6b8FW8UQo4eJqoYUhcb27cV4JAU.pkg" size="167779088" crc="08097851" md5="246b514287ac83063d9ca36fd0469a33" sha1="f0d3b7da8d394a4a5843196741c8531625d55908"/>
 	</game>
 	<game name="Waku Waku Derby (Japan)" id="1033">
 		<description>Waku Waku Derby (Japan)</description>
@@ -8054,6 +8056,12 @@
 		<game_id>UP9000-NPUJ00270_00-0000000000000001</game_id>
 		<rom name="WudIpRGTwnIk8LkWwknyDvEQMSFJM6mbgnKFiWF9970xDRbPoEr4nsl7P6OmVFRDQCJ9A7KkfdpI6DA82AbT5a5np7trTQn2GOGML.pkg" size="2417120528" crc="f1fab31f" md5="0942901590468f4fc5d74b081600e994" sha1="398f55cfe9865f893af2974e3e158ef9e8528bc8"/>
 		<rom name="UP9000-NPUJ00270_00-0000000000000001.rap" size="16" crc="9fc45f37" md5="14d6d55281b207a5b62e4bc2f6e1eb06" sha1="f4ea2a7f50c7cd116ea4dc0a3f36094b80cebb52" sha256="ff01bcce72e68b673e7806606194e0e59d1dc2ce665dab467a54d93630e162ef"/>
+	</game>
+	<game name="Winning Lure (Japan)" id="1426">
+		<description>Winning Lure (Japan)</description>
+		<game_id>JP0571-NPJJ00587_00-0000000000000001</game_id>
+		<rom name="exLKQDaPCDfKlleHoXkxEFQqbhNGflehcCjqpGYQygxhxbttRaviOnPoZlwTNMEOBFwgMgfQFJcTzOejynJHDPBMWaCrOJpKLdgkP.pkg" size="9582464" crc="cbbe599c" md5="ae30a38cae1e48b934ae9346fae9e3e4" sha1="4054521509a3527e816a424726d8c3f6200079ef" sha256="ae268f5e37a938b925228b021f0f973f0335efe26633b15ccf40f3caeded2dbb"/>
+		<rom name="JP0571-NPJJ00587_00-0000000000000001.rap" size="16" crc="ed38cf27" md5="8d3e24ac218ef9bd9ce7d0398b7cb8d9" sha1="a19258ce187ee864e4000a6b6781ad13330ecacd" sha256="699f80ae83a9c1e9bdfcc7ad19da26ddf796f8f9362538f47c236b7deeb3d00f"/>
 	</game>
 	<game name="WipEout (Canada)" id="1053">
 		<description>WipEout (Canada)</description>
