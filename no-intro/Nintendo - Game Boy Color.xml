@@ -4,8 +4,8 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260610-132801</version>
-		<author>akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
+		<version>20260611-220427</version>
+		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -387,7 +387,7 @@
 		<description>Asteroids (USA, Europe) (GB Compatible)</description>
 		<rom name="Asteroids (USA, Europe) (GB Compatible).gbc" size="1048576" crc="89d5d936" md5="cfac8209d5119235f678303dfb3cc0f2" sha1="026f031e1bb787a4390e7873227dcb52a069a6e0" sha256="3f0688ed9219c44ce133647f0668cde50fdcba7ed8f04c34c3a0fc5ce596bfe5" status="verified"/>
 	</game>
-	<game name="Asteroids (World) (ModRetro Chromatic)" id="2723">
+	<game name="Asteroids (World) (ModRetro Chromatic)" id="2723" cloneofid="0055">
 		<category>Games</category>
 		<description>Asteroids (World) (ModRetro Chromatic)</description>
 		<rom name="Asteroids (World) (ModRetro Chromatic).gbc" size="262144" crc="56d61ded" md5="0261ef53aa352b3df31d43eb58278008" sha1="6b126636bf79caa010425e31ac08d8e4f3bf1a8d" sha256="6c1bb5299b7f9e1e2dd83d3f6ddb679f348b8af2ebc46a8849e70d05f035f7b9"/>
@@ -1411,12 +1411,6 @@
 	<game name="Densha de Go! 2 (Japan)" id="0247">
 		<description>Densha de Go! 2 (Japan)</description>
 		<rom name="Densha de Go! 2 (Japan).gbc" size="8388608" crc="b72603fc" md5="ab58102005b510a2d905ed7de9d6267a" sha1="63bcca7177712a9bc6f032c83c2e129d9b9af0fa" sha256="aaf85dc22020cc7103bfcacb0bdd54568d4b391a0483fd3e11f18cd35c9c05a6" status="verified"/>
-	</game>
-	<game name="Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles)" id="2917" cloneofid="2916">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles)</description>
-		<rom name="Depths of Europa (World) (Demo) (SGB Enhanced) (GB Compatibles).gbc" size="524288" crc="8893d527" md5="92f3f1c191ee26eb3a3b2485acc2f0ef" sha1="90dc8fcfdecd7ecff3ba85ddb548130d8bc642c2" sha256="634d15d724af8531ff172f68b12043b5e7f2d2c0ad7278c73f2649280b640cd9"/>
 	</game>
 	<game name="Dexter's Laboratory - Robot Rampage (USA, Europe)" id="0248">
 		<description>Dexter's Laboratory - Robot Rampage (USA, Europe)</description>
@@ -5651,7 +5645,7 @@
 		<description>Rats! (USA) (En,Es) (GB Compatible)</description>
 		<rom name="Rats! (USA) (En,Es) (GB Compatible).gbc" size="524288" crc="17635ad1" md5="d240328faacf5583804a30b7003743b3" sha1="5e423dfab8221b69a641d2e535ebfe1e3759a2e4"/>
 	</game>
-	<game name="Rayman (World) (En,Fr,De,Es,It,Nl) (ModRetro Chromatic)" id="2729">
+	<game name="Rayman (World) (En,Fr,De,Es,It,Nl) (ModRetro Chromatic)" id="2729" cloneofid="0995">
 		<category>Games</category>
 		<description>Rayman (World) (En,Fr,De,Es,It,Nl) (ModRetro Chromatic)</description>
 		<rom name="Rayman (World) (En,Fr,De,Es,It,Nl) (ModRetro Chromatic).gbc" size="4194304" crc="e9878197" md5="a91f17b7628a131914b19c5f6fedb16c" sha1="414cff1ab41bd37f612c1f3746f05b8415be4e01" sha256="3968394e6c8afaf86a7ed7edff6fd914f2e7efc25293d4b10a91617947e7b48c"/>

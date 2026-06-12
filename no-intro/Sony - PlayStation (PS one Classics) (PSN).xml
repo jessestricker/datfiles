@@ -4,7 +4,7 @@
 		<id>133</id>
 		<name>Sony - PlayStation (PS one Classics) (PSN)</name>
 		<description>Sony - PlayStation (PS one Classics) (PSN)</description>
-		<version>20260609-202603</version>
+		<version>20260611-234512</version>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -463,6 +463,13 @@
 		<game_id>JP0212-NPJJ00491_00-0000000000000001</game_id>
 		<rom name="iVBJhflzDBTVBLafLHMGvFXuOJlIbSZmuUCCxetBapZPRnCFeYfwUNvbEdqWOBrmLsvEIYrRbOqOxreQjWSumzIwBkYDqzPQWCUxi.pkg" size="103547696" crc="c19a4d57" md5="87110d793c284bb6ab682b3d05833316" sha1="ece23c7315ac8133861b9e05e4d2d1be64533c27"/>
 		<rom name="JP0212-NPJJ00491_00-0000000000000001.rap" size="16" crc="d83fbc32" md5="3182e1ce889e85b9d1bb5ca77a9a5208" sha1="1f420ad5bb100babf3c9fb34838495b1469f2561" sha256="6e6120b23b04e6f8bb96950fc1d58dbcb76ac05fc4c3c1f17a948b3cf28ad302"/>
+	</game>
+	<game name="Asuncia - Majou no Jubaku (Japan)" id="1431">
+		<category>Games</category>
+		<description>Asuncia - Majou no Jubaku (Japan)</description>
+		<game_id>JP0188-NPJJ00765_00-0000000000000001</game_id>
+		<rom name="QBFeSMOcJMYazpThuqGjIDYqDccldNETXWFeZCymlvNMSsPVTbNpDQfjbWTujbCpYzIVjHmLHBZrtcDlDaIVXGpnAyzfbHcAySVtF.pkg" size="141618080" crc="e82e0a48" md5="87e61c605e57544fd32920947bcc7c4f" sha1="d05a7a60fb892f0647a5974ac3328325af6c7dbd" sha256="47f0ba7e916128182065d6096fac6878cb690561f5a4750aafa7d25bad0f0925"/>
+		<rom name="JP0188-NPJJ00765_00-0000000000000001.rap" size="16" crc="75fb6c98" md5="fc1feb999d0d85b6740d7710cd10bbff" sha1="ef19e1caf24d04ccc0d0c8a83cb561095b51523a" sha256="5d8b8bdcd585abdc16c8a6e3f56ef82eb6abd41e9144144fb2801a1bbee679b3"/>
 	</game>
 	<game name="Atari Anniversary Edition Redux (Europe)" id="0056">
 		<description>Atari Anniversary Edition Redux (Europe)</description>
@@ -2151,6 +2158,18 @@
 		<rom name="49VEIAROL3sV5rU01Mt4q4nsQIYSO1mFnySHtlDlbGaPwwm4OKrxFgpcPWBRaWyu3YsryDKkwunXOD7vGAr7pdi07215pav7PNGnL.pkg" size="5236080" crc="ae833c02" md5="3c8265a49484a562fdd4d48d2086806d" sha1="57a80942717a42289df0ec448198a75db9e6cb24"/>
 		<rom name="JP0571-NPJJ00327_00-0000000000000001.rap" size="16" crc="f62f1e32" md5="dca4195b1625c1a866f96cc97bcc72f3" sha1="a8e04b40156d8f28d465fc376b2d9c2312992ab4"/>
 	</game>
+	<game name="Family Diamond (Japan)" id="1429">
+		<description>Family Diamond (Japan)</description>
+		<game_id>JP0571-NPJJ00330_00-0000000000000001</game_id>
+		<rom name="IsctYp5fuQ5R2iFHVGlHGOctCShHpVulUPWYxi2oNi5JmCxsyxfHtnr2s69mm9x3vQJbD8Uk6xTSGPlWOUjGxkEeRVJoDlvN8FsdA.pkg" size="5593808" crc="10e8e6f4" md5="5d7109f5579450de580c46a60d6ffd03" sha1="4ae48971a354f530b5e5a0d81ba17f5e6630aa2c" sha256="e7eec6d270080480561135b1553b6b4a204d7131b93867f0478dee8cc18491a3"/>
+		<rom name="JP0571-NPJJ00330_00-0000000000000001.rap" size="16" crc="0df59fb2" md5="8ef835fac18d335d405672868e039229" sha1="6d0adf39c68fcce5af526263016f02b18a7dc0ae" sha256="24fe766f10abce44269c0a663f7b064a17acb40b4593f3b42510f80009746225"/>
+	</game>
+	<game name="Family Gunjin Shougi (Japan)" id="1430">
+		<description>Family Gunjin Shougi (Japan)</description>
+		<game_id>JP0571-NPJJ00335_00-0000000000000001</game_id>
+		<rom name="WmP3uwhFxsGcx2s5IIoeMR7rBVh3cgBbIqvjr1gHpNyS3KkjsBw2dilK1eSbKeUAlaWYSLUufBS5MmjxF7dKnnUu57TtJCMCR3CgT.pkg" size="4470912" crc="10e37e5f" md5="f2b7a2734c834ee6bd48beef0ae1d122" sha1="3eacb77812b715f29d573b8df0cabd9a7e43edda" sha256="dfc1182c38a0f3b0be92951d2bc1b3b1ed965ca5ad8de183b16c93c8959b23b3"/>
+		<rom name="JP0571-NPJJ00335_00-0000000000000001.rap" size="16" crc="dc01a5c9" md5="c050b7bee665f606c23d61488f871c99" sha1="dd8c15218825d018d5f57756919483535331ddb6" sha256="85f0734a63602dcdf85d19d21f990ca6b298296b2d8b43a171c3f1dba76e3852"/>
+	</game>
 	<game name="FamiRes, The - Shijou Saikyou no Menu (Japan)" id="0270">
 		<description>FamiRes, The - Shijou Saikyou no Menu (Japan)</description>
 		<game_id>JP0571-NPJJ00046_00-0000000000000001</game_id>
@@ -2893,6 +2912,12 @@
 		<rom name="LbaIRUAHgNyTlrePTHGIlNTWAPqvaQSmvGEeGVxWZwUJWbYijthXWbKvZAwOYkQQpQuXCWgKpbZiqqwdutvtnTBTKFqzWjmLmaFOi.pkg" size="103843552" crc="6fc0e55d" md5="65c735faf57c604e67a8270c2ea35278" sha1="6bad7e9f7606becfa518661e2c6cf5b47f4c29a3"/>
 		<rom name="UP9000-NPUJ00313_00-0000000000000001.rap" size="16" crc="b25e7524" md5="b6624ac3e72e45a82e350a60e796d28f" sha1="957dcfc5ea11dbf8ae55ba2995d1231475a61f0b"/>
 	</game>
+	<game name="Hamster Club-i (Japan)" id="1428">
+		<description>Hamster Club-i (Japan)</description>
+		<game_id>JP0240-NPJJ00357_00-0000000000000001</game_id>
+		<rom name="JFiu8afUxHw6H7vROVDsluBYBH9ECUi7Oa4b7lM95FSWgpeIKAa1McplfJ5OVTp7Ss1WwnAMwgP6vEpvAgC9yCwA3A7iChUk4UuPc.pkg" size="37894544" crc="45025022" md5="6ab60f072f2dc9811d6cda96e1fc0b17" sha1="a3ec0519d61a726cd6a1a160e8a4b7648b78141d" sha256="9a0d44db829502f5ba521de3447361a2f7f7eb9b58d27ee0f5a12d6d3fb9cbce"/>
+		<rom name="JP0240-NPJJ00357_00-0000000000000001.rap" size="16" crc="55e841c0" md5="38a1a1cf617547bfe66867f16bda3fcc" sha1="c992a6dc45a50906c3ecaf438d3889f5af66ebba" sha256="5ab650f8270461b33e7d79c3cfcfd68b0f404d044e61b626217caa81eed9619f"/>
+	</game>
 	<game name="Hana to Ryu (Japan)" id="1381">
 		<description>Hana to Ryu (Japan)</description>
 		<game_id>JP0571-NPJJ00098_00-0000000000000001</game_id>
@@ -3058,6 +3083,12 @@
 		<game_id>JP0367-NPJJ00399_00-0000000000000001</game_id>
 		<rom name="iUlcsDqV0tQdhP4yol9T6NPIDuXR58BubrGo9XOrLbhKxwJ73p9QhLFuiGxWXrnQ7M6KHRxpEEdllj7AwNtWeWPWR0y4Nt5ttufYn.pkg" size="95599472" crc="1c93c5b4" md5="74c01fe702900bc061c7745c65a34f15" sha1="0f53c6ee3c919661fdd8770ceeb8232c71047da7"/>
 		<rom name="JP0367-NPJJ00399_00-0000000000000001.rap" size="16" crc="7219932f" md5="08452b948b3186a071092d2aba7dfd92" sha1="54d7d75de1d6db070d5623c230ad5d7daaba7fdf"/>
+	</game>
+	<game name="Hoshi no Mahoroba (Japan)" id="1427">
+		<description>Hoshi no Mahoroba (Japan)</description>
+		<game_id>JP0240-NPJJ00356_00-0000000000000001</game_id>
+		<rom name="EHEGnHxhfuNBNod2FPLnMedx1Xwk465wCxlq4lvTi35SEMwK63e9KywPgwwhlFAQHNI6yj9DPSK6oTTDTmMRvY2Bpy3hyPheOuIOL.pkg" size="381470784" crc="9d54a4b1" md5="cba1c83e114655f5d428d5c251d5a7ac" sha1="e5fa4858e728ac4f4415fa6845286937c0ae65ca" sha256="f6c9b5986b5553aea1da7b2084e3cd0e6f87813b85306753c27069666a3eb98d"/>
+		<rom name="JP0240-NPJJ00356_00-0000000000000001.rap" size="16" crc="5ea720cf" md5="2908363a5f96f440634f19d01d1b2953" sha1="eabfbdf50cef3cd3865f9e870d96762468a439f2" sha256="6f711d7e34b4bf28e0cdea159b289ec0ae730fad58054b51bc57bd721710d87b"/>
 	</game>
 	<game name="Hot Shots Golf 2 (USA)" id="0381">
 		<description>Hot Shots Golf 2 (USA)</description>
@@ -6102,6 +6133,7 @@
 		<description>Silent Moebius - Case - Titanic (Japan)</description>
 		<game_id>JP0747-NPJJ00777_00-0000000000000001</game_id>
 		<rom name="JP0747-NPJJ00777_00-0000000000000001_bg_2_57760e23c6c0e50ad00071ceea8d4ced7e27275b.pkg" size="71435280" crc="cfd40419" md5="11dd73802be4f71975efd4221e5b04bf" sha1="5ea49e22defd2d7fb5ead7b6abaa281e0fe31b23"/>
+		<rom name="JP0747-NPJJ00777_00-0000000000000001.rap" size="16" crc="f07d6672" md5="313e0907fa45c49a7ba40c3413a414f1" sha1="2466dd585c22b84ea3833bcbd87fcedafd913153" sha256="1c19c8149879cf5dab808448b59b0d155b1f824763c8e1938ee41cc9cffab0f8"/>
 	</game>
 	<game name="Silhouette Mirage (Japan)" id="0775">
 		<description>Silhouette Mirage (Japan)</description>
@@ -6891,6 +6923,13 @@
 		<game_id>JP0398-NPJJ00661_00-0000000000000001</game_id>
 		<rom name="SORJNaVpwpIoVjiczZPZypxHLHCbwLVatcVOqiKWhlllGzDpSWwRxZZBMpoKqKOdPxIPKdirEOSAWawuBwyTmBsLDFgYjfWKIsaGc.pkg" size="202283056" crc="a35260ed" md5="34c20903ba8ba860c2d3f1090e3b63b0" sha1="782b1fd2c8f3dc0ba3d5676ae5e7d62066c71dd5"/>
 		<rom name="JP0398-NPJJ00661_00-0000000000000001.rap" size="16" crc="4dfe2729" md5="aa7616fa19601801f0f82ee7178eda6b" sha1="4113f49633a01f186d16241b8d9ea7d4d5ce4066"/>
+	</game>
+	<game name="Super Black Bass X 2 (Japan)" id="1432">
+		<category>Games</category>
+		<description>Super Black Bass X 2 (Japan)</description>
+		<game_id>JP0188-NPJJ00766_00-0000000000000001</game_id>
+		<rom name="NZKsNVhgQiLiVKXpYqWxdqChnYSZBDBsVNovEUYYfQovxYwYGecHxLGLceTNnzvBfSezSnGxvCSjbLzubYdRXxJvthiXmgbCImHTn.pkg" size="148133824" crc="56a73d20" md5="a5a6f3477d7f7c0326c9acb0381d6a92" sha1="34a08c9d0818df8bfee2cf0e5aa686ec916cb076" sha256="784b84f57e9aa9aa84e258179f06ee5b05e0eb43271bf4c85cad0a6208f0b6be"/>
+		<rom name="JP0188-NPJJ00766_00-0000000000000001.rap" size="16" crc="9e99d946" md5="615032eda671aea6dfe9fff2acfa12b2" sha1="cc203085d97f7d85241ac052a7a972421b6a244b" sha256="30f6c792cd37650a6d4bdfd4a1a559bd5d0bb714968ea62e4ce03a5da29628db"/>
 	</game>
 	<game name="Super Pang Collection (Japan)" id="0893">
 		<description>Super Pang Collection (Japan)</description>

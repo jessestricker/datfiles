@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260610-114223</version>
+		<version>20260611-040530</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3624,7 +3624,7 @@
 	</game>
 	<game name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="5701">
 		<description>Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
-		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="f2f1404c" md5="7dcf8cdfdd154a7c3383eff496874ee6" sha1="7d52e260c1d110504e34ad20941eb0fb46a9f9df" serial="BUTP"/>
+		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="f2f1404c" md5="7dcf8cdfdd154a7c3383eff496874ee6" sha1="7d52e260c1d110504e34ad20941eb0fb46a9f9df" sha256="3b239f4a31f7dac5669967a9f4403b9d164e56019e4a242aed29354a45ea714c" serial="BUTP"/>
 	</game>
 	<game name="Call of Duty - Black Ops (United Kingdom)" id="5314">
 		<description>Call of Duty - Black Ops (United Kingdom)</description>
@@ -4499,7 +4499,7 @@
 	</game>
 	<game name="Chronicles of Mystery - The Secret Tree of Life (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="6485">
 		<description>Chronicles of Mystery - The Secret Tree of Life (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
-		<rom name="Chronicles of Mystery - The Secret Tree of Life (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="67108864" crc="8dccaf91" md5="830939e164775ae5ee35e88a9fbe2c64" sha1="1d6a1e0906ca6c72f09eec28158a79943c62a27c" status="verified" serial="VMYV"/>
+		<rom name="Chronicles of Mystery - The Secret Tree of Life (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="67108864" crc="8dccaf91" md5="830939e164775ae5ee35e88a9fbe2c64" sha1="1d6a1e0906ca6c72f09eec28158a79943c62a27c" sha256="1765f7bad157970cd6bbccee46c91122e2abc09a30c83ae21d81e3dd3cf9475b" status="verified" serial="VMYV"/>
 	</game>
 	<game name="Chronicles of Narnia, The - Prince Caspian (United Kingdom)" id="3968">
 		<description>Chronicles of Narnia, The - Prince Caspian (United Kingdom)</description>
@@ -6340,7 +6340,7 @@
 	</game>
 	<game name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="3896">
 		<description>Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
-		<rom name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="1c04fad0" md5="567b8b48c347582cd81e1c1a4f0681f2" sha1="ee1ef43a208354dd75f77ce3234b91d3b921113f" serial="CUFP"/>
+		<rom name="Dolphin Trainer (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="1c04fad0" md5="567b8b48c347582cd81e1c1a4f0681f2" sha1="ee1ef43a208354dd75f77ce3234b91d3b921113f" sha256="e913a0f9fcb116f3a3799d677b0b27bcd8b8b7fa2dd76f41ff6c7005c83f7491" status="verified" serial="CUFP"/>
 	</game>
 	<game name="Don Bluth Presents - Dragon's Lair (USA)" id="5490">
 		<description>Don Bluth Presents - Dragon's Lair (USA)</description>
@@ -10382,7 +10382,7 @@
 	</game>
 	<game name="Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1)" id="z682" cloneofid="3089">
 		<description>Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1)</description>
-		<rom name="Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1).nds" size="67108864" crc="ca26fe5d" md5="1316fa654a0a23aaf6265d7a942ea07d" sha1="9a7834628996ae3ac14c7b0653c63b6ad4bd5d28" sha256="37fc29b7a37cacab8e7d6575e35190f15420caa868e7d6b0975b915cefcd28cc" serial="YUKX"/>
+		<rom name="Hello Kitty - Big City Dreams (Europe) (En,Sv,No,Da) (Rev 1).nds" size="67108864" crc="ca26fe5d" md5="1316fa654a0a23aaf6265d7a942ea07d" sha1="9a7834628996ae3ac14c7b0653c63b6ad4bd5d28" sha256="37fc29b7a37cacab8e7d6575e35190f15420caa868e7d6b0975b915cefcd28cc" mia="yes" serial="YUKX"/>
 	</game>
 	<game name="Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It)" id="4989" cloneofid="5510">
 		<description>Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It)</description>
@@ -11613,7 +11613,7 @@
 	</game>
 	<game name="Imagine - Teacher - School Trip (Europe) (En,Fr,De,Es,It,Nl)" id="4156">
 		<description>Imagine - Teacher - School Trip (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Imagine - Teacher - School Trip (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="4f3fc9ef" md5="6fc677944bddb6430ba818556477afa2" sha1="64262fb246e65fc341d1d12e8b1ff1b1f01442a6" status="verified" serial="BTDP"/>
+		<rom name="Imagine - Teacher - School Trip (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="4f3fc9ef" md5="6fc677944bddb6430ba818556477afa2" sha1="64262fb246e65fc341d1d12e8b1ff1b1f01442a6" sha256="691a5a621aa959491e858a0aced583d48a5309e24306307050b5487af67b904e" status="verified" serial="BTDP"/>
 	</game>
 	<game name="Imagine - Wedding Designer (USA) (En,Fr,Es,Pt)" id="2953" cloneofid="2915">
 		<description>Imagine - Wedding Designer (USA) (En,Fr,Es,Pt)</description>
@@ -12819,7 +12819,7 @@
 	</game>
 	<game name="Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced)" id="6505">
 		<description>Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced)</description>
-		<rom name="Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced).nds" size="67108864" crc="7da8b427" md5="38c2a89de66c2e26461db7c0b0cac28f" sha1="a2b5de5023258d97ee51e47caaf876d809da6e99" serial="VJVP"/>
+		<rom name="Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced).nds" size="67108864" crc="7da8b427" md5="38c2a89de66c2e26461db7c0b0cac28f" sha1="a2b5de5023258d97ee51e47caaf876d809da6e99" sha256="87ade6761bc49c93a08bccc028623d7f7057bf3ec0c6e81dc9dc55d13c695ca5" serial="VJVP"/>
 	</game>
 	<game name="Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVV) (NDSi Enhanced)" id="6527" cloneofid="6505">
 		<description>Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVV) (NDSi Enhanced)</description>
@@ -14053,7 +14053,7 @@
 	</game>
 	<game name="Labyrinth (Europe) (En,Fr,De) (Ravensburger)" id="2743" cloneofid="4159">
 		<description>Labyrinth (Europe) (En,Fr,De) (Ravensburger)</description>
-		<rom name="Labyrinth (Europe) (En,Fr,De) (Ravensburger).nds" size="16777216" crc="7219309b" md5="1711d3c3e24e1b82b06d3342dc7481b8" sha1="e5adcac5b8fde7034eecfd5efaffa7ed90c38fde" serial="YVJP"/>
+		<rom name="Labyrinth (Europe) (En,Fr,De) (Ravensburger).nds" size="16777216" crc="7219309b" md5="1711d3c3e24e1b82b06d3342dc7481b8" sha1="e5adcac5b8fde7034eecfd5efaffa7ed90c38fde" sha256="8d43cb2305cb7613356714c3d7c75dea7c0e0b89e1be2781138ac5f96f3e3e05" status="verified" serial="YVJP"/>
 	</game>
 	<game name="Labyrinth (Europe) (En,Fr,De,Es,It)" id="1124">
 		<description>Labyrinth (Europe) (En,Fr,De,Es,It)</description>
@@ -19068,7 +19068,7 @@
 	</game>
 	<game name="Neves (Europe) (En,Fr,De,Es,It)" id="2188">
 		<description>Neves (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Neves (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="2eee76ec" md5="d968cb6c33b3ce88fa34f0d23594e44d" sha1="25d4612d8e38ed71ef4d46108ad079cb125b980d" sha256="298432a68b2ec45b29eae542273858ad51b71fff8039400a67d8b4ea3da78e8d" serial="YLPP"/>
+		<rom name="Neves (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="2eee76ec" md5="d968cb6c33b3ce88fa34f0d23594e44d" sha1="25d4612d8e38ed71ef4d46108ad079cb125b980d" sha256="298432a68b2ec45b29eae542273858ad51b71fff8039400a67d8b4ea3da78e8d" status="verified" serial="YLPP"/>
 	</game>
 	<game name="New Carnival - Funfair Games (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="5316">
 		<description>New Carnival - Funfair Games (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
@@ -29833,7 +29833,7 @@
 	</game>
 	<game name="Willi Wills Wissen - Notruf - Retter im Einsatz (Germany)" id="3631">
 		<description>Willi Wills Wissen - Notruf - Retter im Einsatz (Germany)</description>
-		<rom name="Willi Wills Wissen - Notruf - Retter im Einsatz (Germany).nds" size="33554432" crc="27a30daf" md5="5811ececace3c8fdc1e8b784c324530f" sha1="dcc2818f062afc1606e19d6582f67e5745e9e17a" serial="CE7D"/>
+		<rom name="Willi Wills Wissen - Notruf - Retter im Einsatz (Germany).nds" size="33554432" crc="27a30daf" md5="5811ececace3c8fdc1e8b784c324530f" sha1="dcc2818f062afc1606e19d6582f67e5745e9e17a" sha256="1270a62944247c04d9d69ee41bef35ef8202c95429a416fc92ba5222c6808548" serial="CE7D"/>
 	</game>
 	<game name="Willkommen in der Steinzeit - Ueberleben Ist Alles! (Europe) (En,Fr,De,Es,It)" id="5245">
 		<description>Willkommen in der Steinzeit - Ueberleben Ist Alles! (Europe) (En,Fr,De,Es,It)</description>

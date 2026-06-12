@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260610-010042</version>
+		<version>20260611-182516</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -353,7 +353,7 @@
 	<game name="Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es)" id="0182">
 		<description>Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es)</description>
 		<game_id>0004000000044200</game_id>
-		<rom name="Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es).3ds" size="268435456" crc="547c404e" md5="1417d7ac0d703d8013a8cfc163ff1a3f" sha1="b90debbf2c2ff04b729f3b9e95d055fe8cf6cd70" serial="CTR-P-AFDP"/>
+		<rom name="Angler's Club - Ultimate Bass Fishing 3D (Europe) (En,Fr,Es).3ds" size="268435456" crc="547c404e" md5="1417d7ac0d703d8013a8cfc163ff1a3f" sha1="b90debbf2c2ff04b729f3b9e95d055fe8cf6cd70" sha256="c1f5e913c2327aa64a9258d135f401406b5694b4de67744f2c3174f65e84a228" status="verified" serial="CTR-P-AFDP"/>
 	</game>
 	<game name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)" id="0474" cloneofid="0560">
 		<description>Angry Birds Star Wars (USA) (En,Fr,Es,Pt)</description>
@@ -2213,7 +2213,7 @@
 	<game name="Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It)" id="1355">
 		<description>Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000169600</game_id>
-		<rom name="Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="40175487" md5="39f3bd92bdc51f79b120ab0b10de3f3f" sha1="1f4eabd26c2b1ee7e8f956860c2ce38b8d059f6d" serial="CTR-P-BDVP"/>
+		<rom name="Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="40175487" md5="39f3bd92bdc51f79b120ab0b10de3f3f" sha1="1f4eabd26c2b1ee7e8f956860c2ce38b8d059f6d" sha256="d9d470df9844e8fd79895eaadf913cec58a8bea7d2e6c8d06a9df1cd191c67f9" status="verified" serial="CTR-P-BDVP"/>
 	</game>
 	<game name="Dragon Ball Z - Extreme Butoden (USA)" id="1366" cloneofid="1355">
 		<description>Dragon Ball Z - Extreme Butoden (USA)</description>
@@ -2753,7 +2753,7 @@
 	<game name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl)" id="1411">
 		<description>Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000182500</game_id>
-		<rom name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="9c02146c" md5="0c35de73a3d43e4447918aa86651847b" sha1="5d869274f2829bfff12397e262f09b5aee5b9d68" serial="CTR-P-AFTP"/>
+		<rom name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="9c02146c" md5="0c35de73a3d43e4447918aa86651847b" sha1="5d869274f2829bfff12397e262f09b5aee5b9d68" sha256="3a7315d27109db85f6182bc1d58f38a877b3b2e87019060442b13bfa8b11d560" status="verified" serial="CTR-P-AFTP"/>
 	</game>
 	<game name="Fish Eyes 3D (Japan) (Rev 1)" id="1730" cloneofid="0282">
 		<description>Fish Eyes 3D (Japan) (Rev 1)</description>
@@ -2926,7 +2926,7 @@
 	<game name="Gardenscapes (Europe) (En,Fr,De,Nl)" id="0412">
 		<description>Gardenscapes (Europe) (En,Fr,De,Nl)</description>
 		<game_id>00040000000A3200</game_id>
-		<rom name="Gardenscapes (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="323ab5f4" md5="d512f2fe0e406b1159d28385d564fb69" sha1="b4e205ad47093cb40080c4ac6ab8bfa222469109" status="verified" serial="CTR-P-AG8P"/>
+		<rom name="Gardenscapes (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="323ab5f4" md5="d512f2fe0e406b1159d28385d564fb69" sha1="b4e205ad47093cb40080c4ac6ab8bfa222469109" sha256="2f6d1d5231400f4d8cfae3bd973660049a014655ad2ff1821fdd2f8a91131931" status="verified" serial="CTR-P-AG8P"/>
 	</game>
 	<game name="Garfield Kart (Europe) (En,Fr,De,Es,It)" id="1290">
 		<description>Garfield Kart (Europe) (En,Fr,De,Es,It)</description>
@@ -3283,7 +3283,7 @@
 	<game name="Heavy Fire - The Chosen Few 3D (Europe) (En,Fr,De,Es,It)" id="0936">
 		<description>Heavy Fire - The Chosen Few 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000000D5000</game_id>
-		<rom name="Heavy Fire - The Chosen Few 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="c4c7640f" md5="f1f892f5a3c4fd13f94fa00dc4d5ac43" sha1="271c1a432bdcfec95dce652b47545e22f937d96c" serial="CTR-P-AHVP"/>
+		<rom name="Heavy Fire - The Chosen Few 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="c4c7640f" md5="f1f892f5a3c4fd13f94fa00dc4d5ac43" sha1="271c1a432bdcfec95dce652b47545e22f937d96c" sha256="d1c225c449f093723425d7c6f943d58a0afa5438b9e720fa08718c872b5d13f2" status="verified" serial="CTR-P-AHVP"/>
 	</game>
 	<game name="Hello Kitty &amp; Friends - Rock n' World Tour (Europe) (En,Fr,De,Es,It)" id="1395">
 		<description>Hello Kitty &amp; Friends - Rock n' World Tour (Europe) (En,Fr,De,Es,It)</description>
@@ -3479,7 +3479,7 @@
 	<game name="Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl)" id="1098">
 		<description>Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000014A500</game_id>
-		<rom name="Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="25470b20" md5="fd41c27d2fed424cc8608d02f7109924" sha1="0257af8812a31786183d0b07b8b0b88f52623367" status="verified" serial="CTR-P-BP9P"/>
+		<rom name="Horse Vet 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="25470b20" md5="fd41c27d2fed424cc8608d02f7109924" sha1="0257af8812a31786183d0b07b8b0b88f52623367" sha256="59f9b8bdb5a86fbbb144dddf6241fa429faf74af2798ade077035be02dd2346f" status="verified" serial="CTR-P-BP9P"/>
 	</game>
 	<game name="Horses 3D (USA) (En,Fr,Es)" id="0152" cloneofid="0318">
 		<description>Horses 3D (USA) (En,Fr,Es)</description>
@@ -3839,7 +3839,7 @@
 	<game name="Jewel Match 3 (Europe) (En,Fr,De,Nl)" id="0878">
 		<description>Jewel Match 3 (Europe) (En,Fr,De,Nl)</description>
 		<game_id>00040000000C6C00</game_id>
-		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="ac88876b" md5="75af4ef1770913858abdb5b98e481a02" sha1="a9cc198f8bebf6d126b74c4ffb46aa1eae5d96c3" status="verified" serial="CTR-P-AJUP"/>
+		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="ac88876b" md5="75af4ef1770913858abdb5b98e481a02" sha1="a9cc198f8bebf6d126b74c4ffb46aa1eae5d96c3" sha256="d7c72cf58624b5730da8f6018abbf4d5ac55a831fc1dc024088b0ff1a76c6f51" status="verified" serial="CTR-P-AJUP"/>
 	</game>
 	<game name="Jewel Pet - Cafe de Mahou no Cooking! (Japan)" id="0926">
 		<description>Jewel Pet - Cafe de Mahou no Cooking! (Japan)</description>
@@ -4496,7 +4496,7 @@
 	<game name="LEGO Batman 2 - DC Super Heroes (France) (En,Fr)" id="0452" cloneofid="0542">
 		<description>LEGO Batman 2 - DC Super Heroes (France) (En,Fr)</description>
 		<game_id>0004000000098500</game_id>
-		<rom name="LEGO Batman 2 - DC Super Heroes (France) (En,Fr).3ds" size="536870912" crc="63c8ed58" md5="84542aebfe55dea7bc66b7290906d23d" sha1="aaea86d483cd385206197822bf55a9062f5261c1" serial="CTR-P-ALBF"/>
+		<rom name="LEGO Batman 2 - DC Super Heroes (France) (En,Fr).3ds" size="536870912" crc="63c8ed58" md5="84542aebfe55dea7bc66b7290906d23d" sha1="aaea86d483cd385206197822bf55a9062f5261c1" sha256="095dc27747a2dd3b382ac0d0b7d5dca3717c03d949e6a3f9c79f0bfe704ea09b" status="verified" serial="CTR-P-ALBF"/>
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)" id="0542">
 		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -5088,7 +5088,7 @@
 	<game name="Madagascar 3 - Europe's Most Wanted (Europe) (En,Fr,De,Es,It,Nl,Ru)" id="0212">
 		<description>Madagascar 3 - Europe's Most Wanted (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
 		<game_id>0004000000093500</game_id>
-		<rom name="Madagascar 3 - Europe's Most Wanted (Europe) (En,Fr,De,Es,It,Nl,Ru).3ds" size="134217728" crc="9c6b8533" md5="e9416e36a1a3b1fabf024bc4f9bec242" sha1="5672738823c86267b2ff1eed5563d94b4c8130f6" serial="CTR-P-AMCP"/>
+		<rom name="Madagascar 3 - Europe's Most Wanted (Europe) (En,Fr,De,Es,It,Nl,Ru).3ds" size="134217728" crc="9c6b8533" md5="e9416e36a1a3b1fabf024bc4f9bec242" sha1="5672738823c86267b2ff1eed5563d94b4c8130f6" sha256="53bd53b408bfa2a165adc9a43edcb962c36f9282149644bbe088d0f31f2bbd2f" status="verified" serial="CTR-P-AMCP"/>
 	</game>
 	<game name="Madagascar 3 - The Video Game (USA) (En,Fr,Es)" id="0501" cloneofid="0212">
 		<description>Madagascar 3 - The Video Game (USA) (En,Fr,Es)</description>
@@ -6826,7 +6826,7 @@
 	<game name="Pac-Man Party 3D (Europe) (En,Fr,De,Es,It)" id="0200">
 		<description>Pac-Man Party 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000005C900</game_id>
-		<rom name="Pac-Man Party 3D (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="13be30eb" md5="aa5ad30770a9f5a030c66501baa1999e" sha1="c9ab557aa1fa27f918c310bf239a02a0843012b8" serial="CTR-P-AP9P"/>
+		<rom name="Pac-Man Party 3D (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="13be30eb" md5="aa5ad30770a9f5a030c66501baa1999e" sha1="c9ab557aa1fa27f918c310bf239a02a0843012b8" sha256="491ce91df60a17a7d3a483dc25599288f0eba9d6cd3a0c22e55245391beedd17" status="verified" serial="CTR-P-AP9P"/>
 	</game>
 	<game name="Pac-Man Party 3D (Japan)" id="0917" cloneofid="0200">
 		<description>Pac-Man Party 3D (Japan)</description>
@@ -8196,7 +8196,7 @@
 	<game name="RollerCoaster Tycoon 3D (Europe) (En,Fr,De,Es,It)" id="0283">
 		<description>RollerCoaster Tycoon 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000007A200</game_id>
-		<rom name="RollerCoaster Tycoon 3D (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="c9c67485" md5="a2e005fd1e9c54344f81e1473af53766" sha1="06a94a066d94b8953c4d2dc701322a170093840b" status="verified" serial="CTR-P-AC8P"/>
+		<rom name="RollerCoaster Tycoon 3D (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="c9c67485" md5="a2e005fd1e9c54344f81e1473af53766" sha1="06a94a066d94b8953c4d2dc701322a170093840b" sha256="3672f7a7c19b198adea2bd497ec9c1669f4e978b77a7e6ae049bfdf3b0cf9075" status="verified" serial="CTR-P-AC8P"/>
 	</game>
 	<game name="RollerCoaster Tycoon 3D (USA)" id="0622" cloneofid="0283">
 		<description>RollerCoaster Tycoon 3D (USA)</description>
@@ -8808,7 +8808,7 @@
 	<game name="Skylanders Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0585">
 		<description>Skylanders Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<game_id>00040000000E7F00</game_id>
-		<rom name="Skylanders Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="1073741824" crc="6cc84b15" md5="46c940ed0d0af4730dad0bbfc83c6c37" sha1="a2f9975c44f58a6f4ac0331b38d00463698740bb" status="verified" serial="CTR-P-BSFP"/>
+		<rom name="Skylanders Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="1073741824" crc="6cc84b15" md5="46c940ed0d0af4730dad0bbfc83c6c37" sha1="a2f9975c44f58a6f4ac0331b38d00463698740bb" sha256="9b5de704813d2ee69a86dc6c7fb69c022efe22bc7f0ab6a277f6488f3b4232c6" status="verified" serial="CTR-P-BSFP"/>
 	</game>
 	<game name="Skylanders Trap Team (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="1063">
 		<description>Skylanders Trap Team (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>

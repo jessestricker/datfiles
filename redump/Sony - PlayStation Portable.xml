@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Discs (3496) (2026-06-07 13-53-53)</description>
-		<version>2026-06-07 13-53-53</version>
-		<date>2026-06-07 13-53-53</date>
+		<description>Sony - PlayStation Portable - Discs (3500) (2026-06-12 12-42-21)</description>
+		<version>2026-06-12 12-42-21</version>
+		<date>2026-06-12 12-42-21</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -17489,5 +17489,25 @@
 		<category>Games</category>
 		<description>Makai Senki Disgaea Portable (Japan) (Shokai Genteiban)</description>
 		<rom name="Makai Senki Disgaea Portable (Japan) (Shokai Genteiban).iso" size="903380992" crc="fc956490" md5="9190c70c4e936831fad6b7dae518a6fe" sha1="3f5ef6b3c4635794b3a53062599d37299a5032e0"/>
+	</game>
+	<game name="Mermaid Gothic (Japan)">
+		<category>Games</category>
+		<description>Mermaid Gothic (Japan)</description>
+		<rom name="Mermaid Gothic (Japan).iso" size="1321041920" crc="430ecc45" md5="8d3e01ca66115e015e3c6dcad9d5833c" sha1="acf84cbcd253d7dac040f27e3ad5d4446d7f1706"/>
+	</game>
+	<game name="Taishou Kitan (Japan)">
+		<category>Games</category>
+		<description>Taishou Kitan (Japan)</description>
+		<rom name="Taishou Kitan (Japan).iso" size="1328054272" crc="55c4d076" md5="018b6cc3502df8a61b748e33004aff14" sha1="d12fe73d41cacfe9b0ad161552de4ef971bd2902"/>
+	</game>
+	<game name="Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan)">
+		<category>Games</category>
+		<description>Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan)</description>
+		<rom name="Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan).iso" size="675840000" crc="7ec49fe3" md5="0b005d8564bc8c9239189b5225391b62" sha1="de4e47e87dc1addfed5109b87ae91d09e1e169c4"/>
+	</game>
+	<game name="Tasogaredoki - Kaidan Romance (Japan)">
+		<category>Games</category>
+		<description>Tasogaredoki - Kaidan Romance (Japan)</description>
+		<rom name="Tasogaredoki - Kaidan Romance (Japan).iso" size="1068335104" crc="94b6fde7" md5="cd2480d6983cc1f06a3c2b682aaec984" sha1="5cbe7260a56b4c9186c45b772efae474ffaa20b6"/>
 	</game>
 </datafile>

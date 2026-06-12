@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii</name>
-		<description>Nintendo - Wii - Discs (3779) (2026-06-11 21-30-27)</description>
-		<version>2026-06-11 21-30-27</version>
-		<date>2026-06-11 21-30-27</date>
+		<description>Nintendo - Wii - Discs (3780) (2026-06-12 17-52-09)</description>
+		<version>2026-06-12 17-52-09</version>
+		<date>2026-06-12 17-52-09</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -18904,5 +18904,10 @@
 		<category>Preproduction</category>
 		<description>Sonic Riders - Zero Gravity (USA) (Beta) (2007-10-16)</description>
 		<rom name="Sonic Riders - Zero Gravity (USA) (Beta) (2007-10-16).iso" size="4707319808" crc="c9e29860" md5="b86b9a51fbbaedb57e7cdf1868a3b217" sha1="4939113d5a55812ee51f7eaaa4113fc8bdffe51c"/>
+	</game>
+	<game name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It) (Beta) (2009-03-17)">
+		<category>Preproduction</category>
+		<description>Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It) (Beta) (2009-03-17)</description>
+		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It) (Beta) (2009-03-17).iso" size="4707319808" crc="a6251edc" md5="6478e087c1170498bf895cfd5dec7a9e" sha1="6be91b35aaf386889c048db50f32627565ac49fe"/>
 	</game>
 </datafile>
