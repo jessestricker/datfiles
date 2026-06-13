@@ -4,7 +4,7 @@
 		<id>133</id>
 		<name>Sony - PlayStation (PS one Classics) (PSN)</name>
 		<description>Sony - PlayStation (PS one Classics) (PSN)</description>
-		<version>20260611-234512</version>
+		<version>20260612-220555</version>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12,6 +12,12 @@
 		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="'99 Koushien (Japan)" id="1440">
+		<description>'99 Koushien (Japan)</description>
+		<game_id>JP0747-NPJJ00596_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00596_00-0000000000000001.rap" size="16" crc="9fe92d86" md5="2aa565ec03cbaf205776caa921d2cf21" sha1="a657bf9c3488cc752cc71c48bae67eb6d753ccf1" sha256="7bfd8e6b12ae7fa9a0f1f58c49b23ca82cad871f34a2920208240ed891ded7e3"/>
+		<rom name="ZyHYDNJMuCBYdsqceVcpbzurmKeCfKUTqGcjuymnmFhCmSMMZbDQRnBmRghIOhoUgnYMXlcsXWYJszgGZubPqGDKbGxFqXVDUuJax.pkg" size="211420336" crc="983cf076" md5="cf8f94088b142aa01b13b51189efb984" sha1="0475b0aae987cc56a5e656bc8605b5df8ad68516" sha256="58fdf0fcb24369ff46e4214f4f67d34202b1655a1bfe05292df592b6153af27a"/>
+	</game>
 	<game name="1 on 1 (Japan)" id="1292">
 		<category>Games</category>
 		<description>1 on 1 (Japan)</description>
@@ -218,6 +224,12 @@
 		<game_id>JP9000-NPJI00044_00-0000000000000001</game_id>
 		<rom name="JP9000-NPJI00044_00-0000000000000001.rap" size="16" crc="16117e26" md5="f1e0d6f66c9b00527760814910fb2bc9" sha1="d68c5613e9dad9af128705af2ad921c9e58a16cb"/>
 		<rom name="qpMvePisCKt4H1gLIVBxcwO7rYgNqKtxqJC8AuRFgK1XBDI2NK6HDawcbDoM8mV6RPx0kcfi0BSjibqdRLqQw634m1v1T9RKWX3V9.pkg" size="290322288" crc="088b5a53" md5="12a1b486002537d671baa519a5c2f1a8" sha1="be53260c739a9541377aaa607fb7eb5c606e64ee"/>
+	</game>
+	<game name="Ano Ko Doko no Ko (Japan)" id="1438">
+		<description>Ano Ko Doko no Ko (Japan)</description>
+		<game_id>JP0571-NPJJ00434_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00434_00-0000000000000001.rap" size="16" crc="b8b7b0bc" md5="0f14abf79be975ee28d8709e13c08d50" sha1="135da910f6102f8048d21d39d89c7f3d6f7c15f7" sha256="90b553b961b1960b32edcbb8b90226d15f1adbff18bc0be93e265c613a58134c"/>
+		<rom name="4LN3hdxLOFL1ATL2jXPINONcwPGnj3IWfU3xxvfflDohwI9U4GNX0cu47spGT68xv04xpH3RKAisP9nV9aOKvaxwenwfP5eWNoEcx.pkg" size="310634832" crc="220c1035" md5="4b4c740567b8104859cb86c29abb798f" sha1="1664fdf100a659ccc0457f78014f1df258c301ff" sha256="6d628915325e7c72c767f7171af0dfbd83fea45a25da8beabb15b52957a3006d"/>
 	</game>
 	<game name="Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan)" id="0021">
 		<description>Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan)</description>
@@ -844,6 +856,18 @@
 		<rom name="RQyUDIVrvogDlYefnEgwJmmpkitWVkwpisrmCrQNSjvqVCNovNuXeoDqXxTDNGkEExdUJIQmXzVsYVkabvfeJiOeHfgLrAhxskLiK.pkg" size="71087184" crc="c5e04330" md5="c0b1aa26b5ec44c1f4830dde8f9dc8d3" sha1="b9013648eadb6a22ea336471d39ddcd53af47554" sha256="b2a73a335849b96b7664f4946ee50f7313bbdd2e163f251527fe585703d4d7a8"/>
 		<rom name="JP0013-NPJJ00577_00-0000000000000001.rap" size="16" crc="fe81037b" md5="2d66576fbf2ad46c79b3fb7d70aee8b6" sha1="39630ebfba36be864b0e82791b7e69df1d4b2c79" sha256="276184f9ee44ace8b42a04341b0816b5c11b72f1a2ee4bc02d037248c20ced43"/>
 	</game>
+	<game name="Bounty Sword - Double Edge (Japan)" id="1450">
+		<description>Bounty Sword - Double Edge (Japan)</description>
+		<game_id>JP0571-NPJJ00559_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00559_00-0000000000000001.rap" size="16" crc="85ce48e0" md5="ab7d0bd13528f4cee80fd7f8f54f5aa3" sha1="d7563f7605f1f9fd84d71221ac518cf5e2c1e57d" sha256="fd1ff75ece8c9793ae6a475d714acb083daa33078b283b078e880a373eb7e3fd"/>
+		<rom name="DUVDtUlTvfrVXbubyqWzWtoQJUjLvPlsDqsVMShrELoaRtWhucbjVBuaAqDMLiJNZUgNrQPwsboYByQKrUUUGvAnivRQsghaLinZX.pkg" size="365888848" crc="a54db2bd" md5="1cd2f1be59538af85d90969932fad551" sha1="3bb783b9e888779b126554bdf25597663ad5040f" sha256="5a2fbb972bb1c1e0e4388cc92199a7ac2c105dfe73f0128aa028d15ceaad59ec"/>
+	</game>
+	<game name="Bounty Sword First (Japan)" id="1449">
+		<description>Bounty Sword First (Japan)</description>
+		<game_id>JP0571-NPJJ00552_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00552_00-0000000000000001.rap" size="16" crc="03e05fbf" md5="915c32c92e89034838ae854e507d8900" sha1="d96ad561d42baf4dc5fd217bf9c6df444f226448" sha256="ff80c39e429ff946ba874ca6d519ebcdf6b4d1724b3f08174038c3f339350aa8"/>
+		<rom name="uuXPTqqXQABybMoLHPrLFkMUteJNUJSolHanXROhtZIhVolAmBmjcaQUqvQUHBglpIteNevPSCVxJTbBRTKYmMoQRdaGirdzkoIuM.pkg" size="463350832" crc="5a1bce12" md5="d44f567229faca0b704187bf8734f400" sha1="85d8b4fd1693a849bb9f1681847fed4394bc9477" sha256="3bfd9cd0b8077ecbd06c8649366869aa0df591a4e2e0c75274cfb5c64b850dab"/>
+	</game>
 	<game name="Bowling (USA)" id="0096">
 		<description>Bowling (USA)</description>
 		<game_id>UP9000-NPUJ01288_00-0000000000000001</game_id>
@@ -1066,6 +1090,12 @@
 		<game_id>JP0038-NPJJ00252_00-0000000000000001</game_id>
 		<rom name="udLFMwT20KCItm3vpBRwTIA118OAAqS3hwVKgh1JNkukTcYRC9NLM8QvLRj5d94oV6hbQ5UAxuC03roEAoYH3DfnvpW8aRNcqym1F.pkg" size="274761408" crc="3b96e65f" md5="37c6597ecc51032ed60c7e3f71efc370" sha1="01de57c648d669900dd81270b38d0aac1ae3767f"/>
 		<rom name="JP0038-NPJJ00252_00-0000000000000001.rap" size="16" crc="d6c67106" md5="bc004dbe4e4d0f1028fc17a18ea31f5d" sha1="e518a03adfadc77e2153f093ca7b89406e0ed147"/>
+	</game>
+	<game name="Choujin Gakuen - Gowcaizer (Japan)" id="1468">
+		<description>Choujin Gakuen - Gowcaizer (Japan)</description>
+		<game_id>JP0571-NPJJ00600_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00600_00-0000000000000001.rap" size="16" crc="f0534cd3" md5="8a556c270f51045e041d3f4302af06bb" sha1="6b349c49c4537190a7ad5ef15c57597d3339d033" sha256="76836783ad61138a7b95dffbe31be5193e7209ed82841a68a7b1ffeb21b84fec"/>
+		<rom name="FCwHjqgVxbveIfOxqUiphBsIhczVKXyYrxjWiomEjvbmlRpWzNyIsLwuHIVciOPqWbxZlHDCrlCGLWoVXNwpsUapQYWKTncGCOXSH.pkg" size="135714224" crc="f686488d" md5="89f6f2dadbedd0401e486c79e2356a04" sha1="5737231f7103cf40e297caf5001882e0f478ae40" sha256="6251653b63dd3b54bf6fe662e355fe40b380bb8ba95b13d7652a7aac983b75e7"/>
 	</game>
 	<game name="Chrono Cross (Japan)" id="0125">
 		<description>Chrono Cross (Japan)</description>
@@ -1716,6 +1746,12 @@
 		<game_id>UP9000-NPUJ01279_00-0000000000000001</game_id>
 		<rom name="CpjtuXoLhWqjrAUpRgPYGGdOuzrQbTlBvUhVLHkipsHkAdcHUEXitiIgrxnnJWvOnaEFTMPMYzVhlsWJwBEEpMILOkphTKQfIzwQw.pkg" size="333256592" crc="83e6120a" md5="cb2126f4c068578c8e541b015c543d36" sha1="2418e1f207f4f2d53ba13d8a73525f0be9132f60"/>
 		<rom name="UP9000-NPUJ01279_00-0000000000000001.rap" size="16" crc="9ba14527" md5="298581b96777aa7cc3c312c89883b5ad" sha1="db49b7d46a141592dab0ba612e59a76d1f62df91"/>
+	</game>
+	<game name="Dioramos (Japan)" id="1451">
+		<description>Dioramos (Japan)</description>
+		<game_id>JP0571-NPJJ00571_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00571_00-0000000000000001.rap" size="16" crc="1a7ba89a" md5="a112e25f572c2966f142bd9cfee3afbc" sha1="e995f7d94618527ae5c1f24c3f75a9e408b4f775" sha256="b4243d9bb24cc150a13f7bccf0f8300c8dfbe2a7ba93aa1cf0039e36a99f39a1"/>
+		<rom name="YLwOVwGhmPdKSpNhHXqLejsFEphHHAXwslNYWhZxECbpjqVHBntwykYqBMRcvBNgFLqWdMPsPIVzddyJtqMHmaXSWPehkVHuYmmhH.pkg" size="315709360" crc="2ad4bd39" md5="ca036c980c1528a77357a7555065d7a7" sha1="c6e6c720a02e732202cd91acfabfb55e73cc8ef0" sha256="81352949197831518be0c528c4d484804ea1eb331e6f2a9df4023124f58762a3"/>
 	</game>
 	<game name="Dirt Jockey (USA)" id="0208">
 		<description>Dirt Jockey (USA)</description>
@@ -2673,6 +2709,12 @@
 		<rom name="vK0lD4FCC7him06PcHRQCtRhRCxYpWhv5c3LRK9E3rPuryaAIDDm4msWVe4IHM794pg9wa3o4EGb6EKRdR3dBC8BJ4WsLMAMBRCXd.pkg" size="255355872" crc="830c39e8" md5="19be49f4b346b4d6049f41c35adf9468" sha1="8e9110b745991fbe9ab1c5bf4ae09e3a98609086"/>
 		<rom name="JP9000-NPJI00013_00-0000000000000001.rap" size="16" crc="5227a4f2" md5="ad3c5d2445280a8d78fb35d90bd05431" sha1="0e0367b43b25458b950f07a23b551dba517f1b90"/>
 	</game>
+	<game name="Ganso Family Mahjong (Japan)" id="1434">
+		<description>Ganso Family Mahjong (Japan)</description>
+		<game_id>JP0571-NPJJ00344_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00344_00-0000000000000001.rap" size="16" crc="2c7909c4" md5="0d1893ecdc00da0234296c1bb76a3ac3" sha1="973cb97c00b12767f514f3964ce34ebc62e72b64" sha256="fb62a4eb3880da4b9ca2cc781fad1d1b71ff5c086e2d6fa24ed905ed50b18a12"/>
+		<rom name="vWXJPWwEj4kJmrsnVG1IUeyv8P4T4KraM6rIm6byir0FuuKXVI9F9dndprAWDQEPgsk1jFWno2TjFxwyCFIVoQSAchpSPRY4NkFhR.pkg" size="28675552" crc="a7742aec" md5="4f48510d285eeca4fef54e421d0503c8" sha1="4c1301d1b544bc6effc3b180cb3715478b5785ab" sha256="c923a5c9af547acfbb05ac17521625313f98cb7fccde926b0b18a97b22d7a2de"/>
+	</game>
 	<game name="Garou Densetsu Wild Ambition (Japan)" id="0340">
 		<description>Garou Densetsu Wild Ambition (Japan)</description>
 		<game_id>JP0576-NPJJ00042_00-0000000000000001</game_id>
@@ -3126,6 +3168,12 @@
 		<rom name="lMJWyAhIgSnPvVGiDBcUcNxlQFiACImbTHbOQtoPLnlqwQslhNDapsydkjBzziCycCDQbIQbXctaXRlidYTffPDVfZUCBXiGiIzCp.pkg" size="329762832" crc="4209929e" md5="df3a201b1aad563df0bb6b9706457d04" sha1="9d6826cc5a7ac0aa6eddfa06b9b372a9c620603f"/>
 		<rom name="JP9000-NPJI00048_00-0000000000000001.rap" size="16" crc="acc54ab2" md5="135c9526b0ea8a430afcc2baf81e1ad5" sha1="04904184c3fa3d8160767c5f790a2bb1ffe0ff17"/>
 	</game>
+	<game name="I'Max Shougi II (Japan)" id="1471">
+		<description>I'Max Shougi II (Japan)</description>
+		<game_id>JP0747-NPJJ00729_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00729_00-0000000000000001.rap" size="16" crc="6aaa72a8" md5="2d30d122ded2ba31ceaba6e8dea398d7" sha1="8b0caa6b003c2fdfcfec442d1542b1be883b68bd" sha256="26dc9eba683e4eb698da8df17b4e0cf166f26bfbdbe36b30d9e9b6320847400d"/>
+		<rom name="DWREshRREEghJDHSFHfNkBpskipKsHscpNmHttVRlPPioSPHTvcHmhOkKRzOVLzWPnyMnAEfUWVlgtwmFDOTkJBjbQqnzGeQgbIrS.pkg" size="20937216" crc="d17cc74b" md5="4894f5f6a54c0cfc397bf512557ae93c" sha1="ec6c5f9312028c05376331bceb2509a4d569b70b" sha256="5725950dcd67d3115fc2619e9afb16f22841ddfcd16b0ce472ae89c3a18a453d"/>
+	</game>
 	<game name="Ide Yosuke no Mahjong Kyoshitsu (Japan) (PS3 v2.10) (PSP v3.90)" id="0386">
 		<description>Ide Yosuke no Mahjong Kyoshitsu (Japan) (PS3 v2.10) (PSP v3.90)</description>
 		<game_id>JP0035-NPJJ00140_00-0000000000000001</game_id>
@@ -3216,6 +3264,11 @@
 		<game_id>UP9000-NPUI94309_00-0000000000000001</game_id>
 		<rom name="lufvGlvqmC6QTd3MMFPiwqh821hUqh4IlcvFtle7Me0HFar5oDDLxxqJVJ8nbd6Vp4xj7iOXItpehACli6dp0Nv6a9e7xXKp63aNi.pkg" size="76734816" crc="f2b9d180" md5="c2b2b844c2fccfbfce0c4ba3043ee638" sha1="2bad16e24bfeaf8bcf4d15a35d4e3cd5b049224b"/>
 		<rom name="UP9000-NPUI94309_00-0000000000000001.rap" size="16" crc="ce4d3e89" md5="029078e1519c8ccbd92572395219d5a9" sha1="eb839e9242cc9aee9f9e67d75779d93b3fefcdfa"/>
+	</game>
+	<game name="Jet Moto (UP9000-NPUI94309_00-0000000000000001) (USA)" id="1475">
+		<description>Jet Moto (UP9000-NPUI94309_00-0000000000000001) (USA)</description>
+		<game_id>UP9000-NPUI94309_00-0000000000000002</game_id>
+		<rom name="TQxIvXs1SYRqAF1mVTHW1cXNKDjf8lKMjmhRK2eaa3asoF8sRdbt94CXMQNeQ9eMq9NdrmG7Ap1ItDS0vlu7ntPjRbYef3GR0rHIu.pkg" size="75487280" crc="e706262b" md5="0be8884a6ad99bc97fce81708d44af2b" sha1="36083f47252f3590651e9fcf24a305c2b3cf329e" sha256="7257cf3b9de793cd6816e5e9b33b03e661ac6baf64bf190df848a5f65b7e1623"/>
 	</game>
 	<game name="Jet Moto 2 (USA)" id="0398">
 		<description>Jet Moto 2 (USA)</description>
@@ -3352,8 +3405,14 @@
 		<rom name="JP0011-NPJJ00774_00-0000000000000001.rap" size="16" crc="b8097b21" md5="3d8bbb65f44cc9ba3400b040326c66ea" sha1="ca712423818b70e7342d6f0b49fff718c29d89b2"/>
 		<rom name="JP0011-NPJJ00774_00-0000000000000001_bg_1_47dfc5ddfccaa263021ffe215d827c4f6b612307.pkg" size="159095920" crc="c1e7b95a" md5="7feba8c71b4308648ee1c407ce2d4b98" sha1="cafc70ccccec013e090738080006060e96702e90"/>
 	</game>
-	<game name="Kaze no Oka Kouen Nite (Japan)" id="0414">
-		<description>Kaze no Oka Kouen Nite (Japan)</description>
+	<game name="Kaze no Oka Kouen Nite (Japan) (PS3 v4.80)" id="1458">
+		<description>Kaze no Oka Kouen Nite (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00756_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00756_00-0000000000000001.rap" size="16" crc="b1efa498" md5="e0f3ed5358455445ec98b296366e8043" sha1="a9dd726226705525cf8dcf212f7e9ea6be207541" sha256="9b6b9043fcd1ca6d25d57e1ea43cdd0d5a04287c72da6eda617c83b2cd903b2d"/>
+		<rom name="QOSWXdLeKtOARVCgLVxkMLwmPzvwiYfwuggnDlqnLgfHnAnlZAIMBAVmMXWtNVlFoZZRizVRCQCuhieuFuNgMRErTNYMklmbTsfuo.pkg" size="293369904" crc="da728c79" md5="e7aad4718369781ba6924505a3fff32c" sha1="f07f3c9c8f03f28bf0c4fc97a3bc3acc03cd3676" sha256="5c9174c84cd3fe8c45fd6462ced441ba97770a6f0ebdc8a5f06e3d93b53d4bff"/>
+	</game>
+	<game name="Kaze no Oka Kouen Nite (Japan) (PS3 v3.30)" id="0414">
+		<description>Kaze no Oka Kouen Nite (Japan) (PS3 v3.30)</description>
 		<game_id>JP0242-NPJJ00379_00-0000000000000001</game_id>
 		<rom name="fCGO3lTDB8gkymAsM6Jxvr1biIt8aFTXUiP24o0UhsOrt6mLJtSPCxYLK9Wvq665b2GPE8fuhiUWbAwMIaPHNB147eFqKeAkwqnsJ.pkg" size="293395136" crc="9cf79af9" md5="d868ab93d5fcd747ca4c327216c250b7" sha1="48887e230c4dadd5cf5e7e0309541a4d5ffa8ab0"/>
 		<rom name="JP0242-NPJJ00379_00-0000000000000001.rap" size="16" crc="3aa99bcc" md5="52745d96a265699757d34323571fe104" sha1="b5698d1700c7e3800ab6c8de210cab88ff720caf"/>
@@ -3543,8 +3602,20 @@
 		<game_id>JP0571-NPJJ00495_00-0000000000000001</game_id>
 		<rom name="CDBRjX6SscKrlSgmmUnJkrWDbPrmLtO6J1M2pVQUVWdtNkl5BT8VDY03922ABmjJ1n3Cn9RmgMPiE7HYmYjNiodLWt5tb6bt1lN8O.pkg" size="21111504" crc="07faf16b" md5="5a3ff6542447b9db344acf2c829cb412" sha1="8b28ccba0715a80660872d8e841f8830a1d25bb1"/>
 	</game>
-	<game name="Koutetsu Reiiki - Steeldom (Japan)" id="0441">
-		<description>Koutetsu Reiiki - Steeldom (Japan)</description>
+	<game name="Koushien V (Japan)" id="1439">
+		<description>Koushien V (Japan)</description>
+		<game_id>JP0747-NPJJ00542_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00542_00-0000000000000001.rap" size="16" crc="f8fb3907" md5="d217882f370e1862a0f9229b81c45e07" sha1="1612d12f7d86ba84b7aa8c633298cdc691ec3601" sha256="f4521038261a4b3b69ce8acb8ab098cbb76478c45825bd54a35ab95b31712e1a"/>
+		<rom name="sWspLhATNIKoHnwlHbyUFufNenlrNThVcTsQkfUoNbQyyRSOuVgKGUXhwJiQBhaBoWRDHmmaANYLrTLaWpRIFawsSNeLKYzGzqPsh.pkg" size="344525904" crc="53576faf" md5="2cbffb5c08b79b4e8fbc1935fff6da75" sha1="ca7b5ce50603c833c4f1da42b704942113613057" sha256="668debd52555f034ed6c844f3a6535e54705fd438c3b51338fc910fad8317ca3"/>
+	</game>
+	<game name="Koutetsu Reiiki - Steeldom (Japan) (PS3 - v4.80)" id="1457">
+		<description>Koutetsu Reiiki - Steeldom (Japan) (PS3 - v4.80)</description>
+		<game_id>JP0177-NPJJ00755_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00755_00-0000000000000001.rap" size="16" crc="c9023da8" md5="0a9e53b27a21f5be14e6ed3866b8ff3e" sha1="7caf32f70d886e83d6b4fa70f111498c34e67b0c" sha256="db5cc422d170b7c7802416c2f34ca45360d2a9df3800ba36f3da3466d1142a58"/>
+		<rom name="ZZaWymlzPEfLngqzemLhqHZideQXCVUfxoaRgUDcdzWCXlwAOQKMhVigdAnhRyPZMiqmRMMeeKVRudieAuPSclHnbxCNRYTUqnHRu.pkg" size="308730960" crc="23ab1d98" md5="edf728a3a876b2363af414f71a8a756b" sha1="aef0783879b3d7785f9843d9f569b549bf3feb05" sha256="9365ffd3247c156462f32f40a9970f4bb6b80019f0d8f1380ce6eeb51c734c5e"/>
+	</game>
+	<game name="Koutetsu Reiiki - Steeldom (Japan) (PS3 v3.21)" id="0441">
+		<description>Koutetsu Reiiki - Steeldom (Japan) (PS3 v3.21)</description>
 		<game_id>JP0242-NPJJ00371_00-0000000000000001</game_id>
 		<rom name="UagL6E4msPOxoOpIf8D99bhwgD3EucK9iVIk559eC80ixHJJB1GfIQQSgMGcO6V9pVG3vwkdJ4EEk8CViM2I6sWBWBTkI3G6kTmys.pkg" size="308773728" crc="bcdbc640" md5="21faa61869d637791a882e1a9e8c2e91" sha1="f0487e406dc987071088158d5221a52106d2ca69"/>
 		<rom name="JP0242-NPJJ00371_00-0000000000000001.rap" size="16" crc="46204dbf" md5="2b4b90184170ffdc768fd517a6fcd29f" sha1="ec6d2dc641d79b714b6773644fd964d431af0141"/>
@@ -3584,11 +3655,17 @@
 		<rom name="tyfmJKRHIyfq9eVDsR88EJUVaSiSw98KpEWpLteInUE0LVcHa2l6METPxJThPNVDeHvwKiYnkXjKBgROg2pBH7nDEf6m5wVdYbTXF.pkg" size="197911472" crc="92a2e772" md5="343621aac192e5b8ee066dcafc7ef2c6" sha1="ee67ca5b218ce35a68647e389680a39a312daf28"/>
 		<rom name="JP9000-NPJI00067_00-0000000000000001.rap" size="16" crc="cadd72f1" md5="7f2a34c8c96d5dadb827c2009637c4a6" sha1="b74f6abde1a6eefec5d437e84e20f4bd412a3c1f" sha256="35df7059073f36488029df78e46429f3d982f5b52ba26a5918ce140f952cbb30"/>
 	</game>
-	<game name="Kumitate Battle - Kuttu Ketto (Japan)" id="0446">
-		<description>Kumitate Battle - Kuttu Ketto (Japan)</description>
+	<game name="Kumitate Battle - Kuttu Ketto (Japan) (PS3 v3.30)" id="0446">
+		<description>Kumitate Battle - Kuttu Ketto (Japan) (PS3 v3.30)</description>
 		<game_id>JP0242-NPJJ00400_00-0000000000000001</game_id>
 		<rom name="LHjjjvD5pWosA7M0PJL5vTTapq5IYgraM9Mfsf0FKTLMFseXCcH7Pk7AdwvVuMo3rx2oSDcGV90b2wKhdID1ctsKYaKWwDFY6GGnq.pkg" size="469455568" crc="24758f1d" md5="617d1299c446b8bc7915d946b4dc1470" sha1="634250fac15e5b9c43caf3aa00d2af009bd6a4f5"/>
 		<rom name="JP0242-NPJJ00400_00-0000000000000001.rap" size="16" crc="a26bbeb7" md5="58e466d22dfa75b1d6734807afa191a4" sha1="9f78e156cd002318c5a0f8adc2ee99321fc07465"/>
+	</game>
+	<game name="Kumitate Battle - Kuttu Ketto (Japan) (PS3 v4.80)" id="1461">
+		<description>Kumitate Battle - Kuttu Ketto (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00759_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00759_00-0000000000000001.rap" size="16" crc="746ec911" md5="4ea8ccf19a93e85cb1009d445cbda708" sha1="31875af7a4dff11783633c0249f937b8a95559c9" sha256="29df9a06e8ba2b75c6ef70a9a12da3dbc80ff26329794198a9bbf017b99acfba"/>
+		<rom name="RjKcHxCyPLkHHDfyUNXJJmfkfEZPKaJDhOiMmSDspOAeiCOfGaxwHyRrHhxEyrvlTDjymyjOhllaSmxTdnHiwIEZsUJrsByDapmtV.pkg" size="469438496" crc="311bdf84" md5="2f6f4703c551180e82a0cb51c79145ec" sha1="e339bb2eaeb5f25203eceb2a8b5dde82f19e3926" sha256="9bf9704e4173705f54052fc47c2d64a0e830e08e7de9dfb5fc19ee204f60fb18"/>
 	</game>
 	<game name="Kuon no Kizuna (Japan)" id="0447">
 		<description>Kuon no Kizuna (Japan)</description>
@@ -3914,6 +3991,12 @@
 		<game_id>JP0571-NPJJ00310_00-0000000000000001</game_id>
 		<rom name="CsuW1S9Vy9V84hIIRiJjEDFSjDS9heU8smuxKQv1GAnIGTlVEvNDbRc7TM0mjd0dCg4O5wdAqCBC89QucesqE7Xy79OpWCbhVqtvX.pkg" size="24469232" crc="f728e114" md5="bab16378b74024caccb9174e9fb9db54" sha1="e3450d9e4a4e0fe434a2393879a6ec0a1cb83ef0" sha256="a2ee4abb5eb004cdea1cf09af50c66ffb8df6a7bbf371b5edbd4650b7e0f2ae3" status="verified"/>
 		<rom name="JP0571-NPJJ00310_00-0000000000000001.rap" size="16" crc="47d8103a" md5="37b53a757c2fd0310b057ea9bdef47ec" sha1="f1e508eb2947ccd1481182c3f32b466e6d423bc2" sha256="7cd52344eb3b67e5d85972c873002a180eaab655e93d48ce115fd2c9b814fd23" status="verified"/>
+	</game>
+	<game name="Marby Baby Story (Japan)" id="1467">
+		<description>Marby Baby Story (Japan)</description>
+		<game_id>JP0571-NPJJ00592_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00592_00-0000000000000001.rap" size="16" crc="6c4831e7" md5="64dfdb1eaf4914e286ec8f313576ba9f" sha1="16e436c5f166466a113642d84f0e7a4ca38ffb03" sha256="ac3e078985004bc063f030dd61a79c9b228c838c1123a4e3d34b5002fa4bda58"/>
+		<rom name="ZKQxtaVjqSUKFWVNDiDwQIbIrQkOvHxzszwJpqwTRZIJUReXqGOnZxubSHwYjyPjzXnjYACSrbgXRlDnJJIfGWsXwcVGfNHvSXmHg.pkg" size="127497104" crc="43466a3e" md5="e3d7e54fc67a37270f530671a32248cb" sha1="9f00b5983237071f42e3e12652058ac6bcd22f4f" sha256="af657bfb5da9c9fcbe773fc57b065e5e2f7dca3a36491909193a5cb9ea4477a3"/>
 	</game>
 	<game name="Marionette Company (Japan)" id="0490">
 		<description>Marionette Company (Japan)</description>
@@ -4449,11 +4532,17 @@
 		<game_id>JP0571-NPJJ00516_00-0000000000000001</game_id>
 		<rom name="nFBfOWUdPiUdGHiMVgEiYLzQezKFHFFFHZwLBdpkMTNIvyOqoiXTYLHVynogOHAcTfpwbiXqBMZRxCiHCbcCQmvZXRGFnDNKTTKdt.pkg" size="68106816" crc="67e002a9" md5="823ce0c8dbd68b521cbcf02600b5f2e6" sha1="7fdabf8fd1d48935aaee4a47e6b8974cb9254268"/>
 	</game>
-	<game name="My Garden (Japan)" id="0565">
-		<description>My Garden (Japan)</description>
+	<game name="My Garden (Japan) (PS3 v3.15)" id="0565">
+		<description>My Garden (Japan) (PS3 v3.15)</description>
 		<game_id>JP0242-NPJJ00342_00-0000000000000001</game_id>
 		<rom name="MNrkeeWlkIhSnmEiyPLJgyfr23EbnHajhFQ1vNVl1fnxUQVFbpQIUUANTmr69NP09AAjhD6k8ISjVPvSoF1plHsboOtlAVpalyIdk.pkg" size="174982208" crc="7dfba3fd" md5="9e98b286b711b151b312a72e3bd84118" sha1="0e0c91286139ba9d7ba521642d23ef6e7d51dead"/>
 		<rom name="JP0242-NPJJ00342_00-0000000000000001.rap" size="16" crc="60502a00" md5="08ebe08391dde82d646f87965955c494" sha1="cab6ab9df1803fea03b335bba028e730f9a0f59e"/>
+	</game>
+	<game name="My Garden (Japan) (PS3 v4.80)" id="1455">
+		<description>My Garden (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00752_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00752_00-0000000000000001.rap" size="16" crc="5d552495" md5="4e73b4df74bae1fef74f08169ac3f274" sha1="fff24467988eae9fc1c42b2a69061c18bc340378" sha256="af0dad1b1ea4d0539e50045ac6ff93136260b43823f1eae019bcfd868287a87f"/>
+		<rom name="reDwPopdzxVhBcMdmCfoXYTfWZRlFtlGwYZKOSmdDYkHRThXjKiabNVJqTWLXJAHisCTObpkatoetBKacTRJgRDSbXqmWesjraTOH.pkg" size="174943936" crc="c34d22a1" md5="45ba6694f2d32393e93edc9b5d12c0fe" sha1="68abc0c7bf6dbaa18dc5f14f2d97042bb6c55476" sha256="4e9809796fcedeef7def7f011432a0c7d802e02561e3b3e62cfd83562cf6bdd6"/>
 	</game>
 	<game name="My Home Dream (Japan)" id="0566">
 		<description>My Home Dream (Japan)</description>
@@ -4476,6 +4565,12 @@
 		<game_id>UP9000-NPUJ94602_00-0000000000000001</game_id>
 		<rom name="BBpiXamycCumSDzldMmRtpRIDwAEUuxTHJdoyABVgVhyybwyBTEWzULFvWgPtaMmbMiFLRbmGNIGWydzMcQitGRWdXlKqSVbzRWhI.pkg" size="365609984" crc="f397bc21" md5="a8893c20b8a4ed2b18c111053874862a" sha1="5bcf8f598905d7dcbdc2b29c21b6d825a30ba4a3"/>
 		<rom name="UP9000-NPUJ94602_00-0000000000000001.rap" size="16" crc="db8704c5" md5="736af0a4b66f01469aec4aa98689ff74" sha1="63eb8c8344beafadea9245eeb0058ec58455d5a7" sha256="bfe47115da464d1d2810d306dc9fea4e128e32688a6a66e66dad44108697c562"/>
+	</game>
+	<game name="Mystic Dragoons, The (Japan)" id="1463">
+		<description>Mystic Dragoons, The (Japan)</description>
+		<game_id>JP0188-NPJJ00769_00-0000000000000001</game_id>
+		<rom name="JP0188-NPJJ00769_00-0000000000000001.rap" size="16" crc="45b789bb" md5="effefb96b89e132a0bb7ecad2909be6c" sha1="6b85fb4acd104ac98f8b5381cd6b926457558ba0" sha256="061dc48d4e3f7ed815570ff39ff2b83eff84055581f5f2589e6f2e600ab21b1d"/>
+		<rom name="JP0188-NPJJ00769_00-0000000000000001_bg_1_8068a65663fd4b35f6f7198198eae30f6e66bcd9.pkg" size="91332928" crc="bfe57175" md5="1dcedd7ff0c617ac3f44ca4d60fc9119" sha1="370d2b56921336b278e0dbafc5d11c4fb53872d4" sha256="da6b86d15de059f1e05111e2227bfb6a3077d5b055b9c9192324e691e07e86f9"/>
 	</game>
 	<game name="N2O (Europe)" id="0569">
 		<description>N2O (Europe)</description>
@@ -4602,23 +4697,41 @@
 		<rom name="IhrMgWHJfKSUlTdxmbYvzxmJhwuFMaUGbMsqcWHTUrKIOImBSUGkHjNoxmcZaIYLELouNFRTWNNqbxxMgIMxXNhzYZxiDJMxqTlhw.pkg" size="83864816" crc="c52e0309" md5="05ccfbe62d12308b3ee766e71d6d6258" sha1="944d981c842aa10744645b0109cd216afb444dc5"/>
 		<rom name="JP0747-NPJJ00680_00-0000000000000001.rap" size="16" crc="a624180f" md5="2382e8eb2e281cf33608c2b8dd62197e" sha1="7b4cbf23aae2785bf46f55c9540482214573eee7"/>
 	</game>
-	<game name="Neorude (Japan)" id="0587">
-		<description>Neorude (Japan)</description>
+	<game name="Neorude (Japan) (PS3 v3.15)" id="0587">
+		<description>Neorude (Japan) (PS3 v3.15)</description>
 		<game_id>JP0242-NPJJ00334_00-0000000000000001</game_id>
 		<rom name="sNRxlaXnnRQW75cur6hI0J6WYcEbkRBCAsax6uB0Qffey5mnI6gphqOsLH2bnRKuVWhyYutdh7pcBtGgIOctGHkQBaiHIRDE8eeq4.pkg" size="473314912" crc="f70a0e74" md5="7544fe248138d00f5527bf8b6d25606e" sha1="aad071cbab634a2b6aba3a35e60e6d6b3ab112d6"/>
 		<rom name="JP0242-NPJJ00334_00-0000000000000001.rap" size="16" crc="298506cf" md5="7db9ec362d47d1ff16047ed14cfd4868" sha1="286c7b640fe6c64566f459b9a71c6cf9295750ad"/>
 	</game>
-	<game name="Neorude - Kizamareta Monshou (Japan)" id="0588">
-		<description>Neorude - Kizamareta Monshou (Japan)</description>
+	<game name="Neorude (Japan) (PS3 v4.80)" id="1454">
+		<description>Neorude (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00751_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00751_00-0000000000000001.rap" size="16" crc="47c98861" md5="1b46ab7b9b95d0ddc20d1aaa6239337c" sha1="0f447b4ce3177f425b5bdc589bd59fcf35b33e73" sha256="5c376d8e53f133f4513b174c40cb94e9ddc39b70163a0232af26da26c7fa9cad"/>
+		<rom name="POcgMuCvxoSpOJCaQtbaCEUtfDQpDlSYQhCSrqoSPwCsuRQUZvMavojVeBIdWUVrxFchuKkpqwXOXZKBWgDnkkaGqblGGDEENxUMi.pkg" size="473295328" crc="b84834c5" md5="075addd034bdf10609837bf3ef30bfeb" sha1="2ffd5932336b1485880eebf20563475832a118ac" sha256="e51a5a03ebeea7a81ba0f107b5d1145ad21f2d0b097f9107b4a1632555cbf607"/>
+	</game>
+	<game name="Neorude - Kizamareta Monshou (Japan) (PS3 v4.80)" id="1459">
+		<description>Neorude - Kizamareta Monshou (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00757_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00757_00-0000000000000001.rap" size="16" crc="d30b80ec" md5="feb21e16a0464f331907025fa510be96" sha1="346b6719e3d8ea377ee66c2228fdff19c1e0db62" sha256="847d0ec68fc8662b4cc77e6205b96240a6f31a17aba1d31851033d42ad5cd248"/>
+		<rom name="ruZyOakWtTfsCDBTHNkCzWJxbKKANoRuEJtLYkPWrQuUhuYxAEGWesNxZPiMETexmZFunZSlkjmeKgeKIphXhSqgKCkDrRPzUZiaD.pkg" size="402143968" crc="c8e68676" md5="74857f6de58a16e46b2261c1413d0838" sha1="16585e780bbd149d18be1d782241bcc791559894" sha256="6041b26b3d22bbd77cb4b682a40e26de618b17b2de604a540c8fd854bf79e4ad"/>
+	</game>
+	<game name="Neorude - Kizamareta Monshou (Japan) (PS3 v3.30)" id="0588">
+		<description>Neorude - Kizamareta Monshou (Japan) (PS3 v3.30)</description>
 		<game_id>JP0242-NPJJ00390_00-0000000000000001</game_id>
 		<rom name="cENh6tDglat7dXfaXesqB8q336OntmqWvxK4TneVn1Cav0GafO0EXjXlKwa5gLIx4GAglKMwKEXiOdJVIOauqfM3jgujsrbMG42Ms.pkg" size="402165344" crc="247333cc" md5="00875943d85ee5f464e4aa31c641847b" sha1="e09c8b144971454deeffa7700e8ee8f387d8e582"/>
 		<rom name="JP0242-NPJJ00390_00-0000000000000001.rap" size="16" crc="e02f3dc1" md5="d03d9646ff0af6a01f74ce3a5298e6c1" sha1="d7b4924800ec2b5ae124ba66784f9a7cea29c6aa"/>
 	</game>
-	<game name="Neorude 2 (Japan)" id="0589">
-		<description>Neorude 2 (Japan)</description>
+	<game name="Neorude 2 (Japan) (PS3 v3.21)" id="0589">
+		<description>Neorude 2 (Japan) (PS3 v3.21)</description>
 		<game_id>JP0242-NPJJ00365_00-0000000000000001</game_id>
 		<rom name="K9Pg5mt0pwyoC46WijPipWNuVX34bPeft2PbjaJA0YvK2qRItUjKsys7q5yt1OygdE8nfhiU4vJgdblVr1cjhgGF1QxqkqbtnuS9W.pkg" size="439040128" crc="ea4a9ea5" md5="97637e54ff27b964ed0726a58842c7b7" sha1="c650964d1e7d6d3ee825fd96e3ca7f1841fc4d35"/>
 		<rom name="JP0242-NPJJ00365_00-0000000000000001.rap" size="16" crc="ac22e830" md5="ab06b0d20ebe10a8eb7bb2c3809ae153" sha1="77362823578c4136c8bcc43a8a194989b3afd68a"/>
+	</game>
+	<game name="Neorude 2 (Japan) (PS3 v4.80)" id="1456">
+		<description>Neorude 2 (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00754_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00754_00-0000000000000001.rap" size="16" crc="e3103c4e" md5="0d478c1fe08c8cfd2d577a174e6cca43" sha1="b26d2dfdb5767ab3318dee17fb188f07dc9dd77c" sha256="001025d569c1149750369a678b6ec8db3b8fee3d904dee0656e0de9df828bd7d"/>
+		<rom name="aivwHVyoCnUlhsnZfAcpsnnGMfruwLAbFaMuphOIvkcloekkoTiFLyjaIguTguqqPIIjFuSMRucbMtpUWLVnZhAyjIdKCjaBvjVsU.pkg" size="439017520" crc="f76c5f4d" md5="cf888fca2c9bbd34e99ad8303d403f56" sha1="069ede57d28472a79623a21c4c02bd00613de9c6" sha256="db4633e34075aff10b4d996090b71cad96ff2309e18e48d94451f02f52b446ad"/>
 	</game>
 	<game name="Nightmare Creatures (Japan)" id="1343">
 		<category>Games</category>
@@ -4705,6 +4818,12 @@
 		<rom name="xmPeSHOKBdgN7obTmV6mgq4jv0fKCtN0JDNuRIeS1HdywskMbaYSmctDToMHHesNgo923IkqYUkdPN2b07Cpfl4FIepSCGsKfMVKM.pkg" size="212556368" crc="d05b6685" md5="b625e946c5ff8500107af7b81fd1daa9" sha1="19ae4c4adfd1b3869a2c9d3e848a720ffbacc94e"/>
 		<rom name="JP0031-NPJJ00055_00-0000000000000001.rap" size="16" crc="6e2fd5bd" md5="14a333522a57c79defddb17409f608fe" sha1="7dd2c0a28f1a519c9d95f0e9ad712210f6bd3376"/>
 	</game>
+	<game name="Ocha no Ma Battle (Japan)" id="1452">
+		<description>Ocha no Ma Battle (Japan)</description>
+		<game_id>JP0571-NPJJ00572_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00572_00-0000000000000001.rap" size="16" crc="739384da" md5="7ae0e4011f13a6abffb28e5b66ab6fc6" sha1="8fbaefe8a433d967c9fb4ef8d246272a46c162be" sha256="cc998bb956e4d215f41669808da83fd316dddc00921d616bc40a7c34ee2fa4ae"/>
+		<rom name="JmfcVWCUtMDqDDRzQVJFrukCwFOBpYMAdTlcLfFaeANCUYhzHqyMnwtgBOBUWgDiyKcixtGqmCHUapRZJQFXvvGfDWttUQEuwLnqa.pkg" size="13604048" crc="192afd0b" md5="cd0723023be8305453f612d00154516a" sha1="050968a90db1e67e96d46a0b833dcb11aa0ca56c" sha256="6698a2c2ddf3e46aa00211b00357da629066bb045d9ce9c6ab5302a2edc03983"/>
+	</game>
 	<game name="Oddworld - Abe's Exoddus (Europe)" id="0601">
 		<description>Oddworld - Abe's Exoddus (Europe)</description>
 		<game_id>EP4134-NPEF00097_00-GABESODDWO000ENG</game_id>
@@ -4761,8 +4880,14 @@
 		<game_id>EP4134-NPEF00098_00-GABESODDWO000SPA</game_id>
 		<rom name="Y8OH3wADL1TBygt5UBiAGIXxGKldsJj1v1TYgTUFQ7iiWCXrc4Nvu5IqdDBhBJrdbyOtX8s7lWWnkF2y7Ck02AqqDtPrBabmhR8E8.pkg" size="486830112" crc="36ad2e2f" md5="9488ff4cf1d9bdcf31fd71e87de3830e" sha1="a0ee1b6a106a2d3d5ba3bffb7d0705fec547be46"/>
 	</game>
-	<game name="Omise de Tensyu (Japan)" id="0610">
-		<description>Omise de Tensyu (Japan)</description>
+	<game name="Omise de Tensyu (Japan) (PS3 v4.80)" id="1462">
+		<description>Omise de Tensyu (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00760_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00760_00-0000000000000001.rap" size="16" crc="9efe6493" md5="aabc17b4d0d3b4a5607070848090b4d0" sha1="a26cd67f61eb08c86030e0f031e5196ab9e274ee" sha256="8b87fa74576848386e167ce66c47393070c7ced8af1f59f14e6c15d9b4519ef5"/>
+		<rom name="dhivxqlteyaYKIqABPPaLeFTNLenYpWTrFgHilvSgKhcIBlMvYEmEsOyXyhTvVbZhrSmOmBQxwiUmZAqTMyUBtlFLtdWWTzSOVifJ.pkg" size="658841872" crc="1a2f385c" md5="9caf27dc292659312b23f12ef2eac86d" sha1="7ac16759774614714819c948d16a9a759e7d6749" sha256="71a39f3b0b5a4a094198550e9a75e5370f737a4638160c66e0fe1978ba2c58bc"/>
+	</game>
+	<game name="Omise de Tensyu (Japan) (PS3 v3.40)" id="0610">
+		<description>Omise de Tensyu (Japan) (PS3 v3.40)</description>
 		<game_id>JP0242-NPJJ00411_00-0000000000000001</game_id>
 		<rom name="Cpa1iBgg8NLWiVG4GxvLewq6JTQF3kixLXT7LwV225rbvop265CqAFu6Wm6yGvMxrkT5lD9vBjk4EIoIetgmajrJ1TQPvryAH9eiv.pkg" size="658868560" crc="424629cd" md5="20b68664cd5b4c8f98b04d1884e16978" sha1="ae142bf70379700c44d43d25eacda488fed866d0"/>
 		<rom name="JP0242-NPJJ00411_00-0000000000000001.rap" size="16" crc="8a311e22" md5="d4e9edefd45c4f8c17aca0f7a7eb76f7" sha1="4a521ba3c99019e1c7817b8e803c4bebd660a37f"/>
@@ -4772,6 +4897,18 @@
 		<game_id>UP9000-NPUJ00469_00-0000000000000001</game_id>
 		<rom name="vnucksxIWLkFaFp4bw7umYkQVr2DGyt5dGsjDmrIwyaNp30CsheP506nw5G3uCoSBWSdUulnEUuApD3vNlu77QgR5cdaAoOHeXPkD.pkg" size="38234176" crc="5a400a2d" md5="90a60f33e4a3d5bb4e9397f5b00101fc" sha1="ad6b3f949d9029750ce43517429d68e16e769438"/>
 		<rom name="UP9000-NPUJ00469_00-0000000000000001.rap" size="16" crc="0f7aebaf" md5="6d0bce7188c5f4a1c4bf56446bc6a681" sha1="9ae9074a0f0e0eeb4265f9c82aff611cf20d98ff"/>
+	</game>
+	<game name="Ooedo Fuusui Ingaritsu - Hanabi 2 (Japan)" id="1453">
+		<description>Ooedo Fuusui Ingaritsu - Hanabi 2 (Japan)</description>
+		<game_id>JP0747-NPJJ00529_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00529_00-0000000000000001.rap" size="16" crc="aee2e227" md5="8ea215920ee91681128cf05960651676" sha1="4544497b80b60af01141189fd091d85b12850615" sha256="7b7e762c235d1794a85ab61583d3e5272723f358623ddb656f4cac314d12b76a"/>
+		<rom name="tMhDECiDhNgvKZLPoXIhwyEwQyXxASFAdqdgFDlsGvspmBnnxMDHhFMlXrEfrfJbXVpzDKWFSlRYKKxehmpKdrErrEeKjsXeqceTj.pkg" size="110218912" crc="d68912a8" md5="aed282f43c518df4b15a7c84c08d1942" sha1="0df6f90396bac2bc6c3df976a22832abba665df8" sha256="f503d8788c30bec2b4777871d2f8947a6097d016103f1f0f35726c1b715e08d0"/>
+	</game>
+	<game name="Ooumi Nobunaga Den - Geten II (Japan)" id="1472">
+		<description>Ooumi Nobunaga Den - Geten II (Japan)</description>
+		<game_id>JP0747-NPJJ00730_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00730_00-0000000000000001.rap" size="16" crc="8ab31494" md5="cf15bc0ab405dc09f9d9a64ade5e5b20" sha1="b27e1c443660a0723466630a6d2fda0eebbe4ac9" sha256="1e074d9707f1be3e81941f6d578dbb04ad3717bd785f438e3d051a7a9b9c184e"/>
+		<rom name="ieXbfMqLhULdjRnbmxcAKvJuTqiHpZnmbFPmteGZWzCZzAdpwIoujsMZDKwnTmiaqMYDnzqGnOoRWalzmtZiyCXZxXnkNoeeSRFHG.pkg" size="26244736" crc="d67c8998" md5="896e61d8860ed7aa9e4948ac4d3edff8" sha1="0508e29482b1c076252ffe80ee5e9e85e4375443" sha256="26ca103f465e38efc6b748d0bf6d2f369c4f90897e989dac5f85e836f5e0d2ea"/>
 	</game>
 	<game name="Ore no Ryouri (Japan)" id="0612">
 		<description>Ore no Ryouri (Japan)</description>
@@ -5688,8 +5825,14 @@
 		<game_id>EP0102-NPEF00199_00-GRESIDENTE000ITA</game_id>
 		<rom name="BUxwdxjDxITGUfWWhpbHSxbbbnjXHASCxhBpnapttwWacYHwjODMDavApmOEffvb.pkg" size="378829376" crc="7e9a4b06" md5="f80c22fa336a31103e2fde214d7dc9de" sha1="502ce8118eebfc6f2ed2199ff575b9e924d587b8"/>
 	</game>
-	<game name="Reverthion (Japan)" id="0712">
-		<description>Reverthion (Japan)</description>
+	<game name="Reverthion (Japan) (PS3 v4.80)" id="1460">
+		<description>Reverthion (Japan) (PS3 v4.80)</description>
+		<game_id>JP0177-NPJJ00758_00-0000000000000001</game_id>
+		<rom name="JP0177-NPJJ00758_00-0000000000000001.rap" size="16" crc="1441dfde" md5="70712516261ec682f0da9342c577d61f" sha1="c7efaa7547e0307c9e295e59cf9c1e328a253939" sha256="49d843d59476b57fe3442072999062c7c57482e01abd0392cbcfb0f0e2a98add"/>
+		<rom name="WjVwumaauDkVMWOmsQWbHeNecQvaDLSuhZtQgDiKHfvkvuHwAnKhgWwoQifBlPVRvJwHzzsUbogOApbbQFsNRcFfMlvggxvVDObpj.pkg" size="110380224" crc="96fa1f91" md5="5c1f4dc34c59c8cee1cfc35cd57e1c3e" sha1="7f53b49bc7dc2d575b9c5b7ce34e7c04091eaa0c" sha256="60debc94ad94df14a4d1793c0afab4375ab23bdd116f74d76c1f451812df8736"/>
+	</game>
+	<game name="Reverthion (Japan) (PS3 v3.30)" id="0712">
+		<description>Reverthion (Japan) (PS3 v3.30)</description>
 		<game_id>JP0242-NPJJ00393_00-0000000000000001</game_id>
 		<rom name="46TgAMr0or77ObIt0i1Oyw5AhKe7mp2Cxl4pIr6WL8H7STIAfa3FDk8Mo90eVKyEdUwj8vpH47Ap3WgJbimLnLh3cf0Ca2oN8Sd7j.pkg" size="110550704" crc="7391558d" md5="52afe6085f2fff3cfb5d6c14f64c49c0" sha1="590122dd81659f44e493b93e74a074a4c8f74ce1"/>
 		<rom name="JP0242-NPJJ00393_00-0000000000000001.rap" size="16" crc="c6b0484f" md5="85dffc8c406076690033c60cbefc6583" sha1="e5ecad826fd2a611a8ad14c2efa02b9142db70f7"/>
@@ -5975,6 +6118,12 @@
 		<game_id>HP0158-NPHJ00076_00-0000000000000001</game_id>
 		<rom name="IbTbrVpoLJ9M9pyT6wjyuyjxAEb8QthDtKwopq8XagMStbsBhwn3679FN2OS3EPKbQYG7PdJW36LqRJXlxNDNbkSwifw23r5YAcRO.pkg" size="413248800" crc="5c8f45bd" md5="3c691b059ac37bdb4c22c5a137c28d44" sha1="702bf4de85d4a608edcf8065355907e5b702fb16"/>
 	</game>
+	<game name="Sekai Saikyou Ginsei Igo 3 (Japan)" id="1436">
+		<description>Sekai Saikyou Ginsei Igo 3 (Japan)</description>
+		<game_id>JP0571-NPJJ00370_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00370_00-0000000000000001.rap" size="16" crc="84d28445" md5="114bdee2f04e8e92cad9a26763e1adf2" sha1="5bf512b0f4077f44c45de0dddfa7c427478823e3" sha256="3deceff8aebe19cf04838be5e18c9b7f73aba089f33dcb9e144a8a4611e22fe1"/>
+		<rom name="U81DFxgw6esUmOQeqiLMmg9veoLUh9ILfgAIjONe7waA1NcVFlYMFMlaHWpIleJ3Brndqh0HEjNt7J9nhV6uVpDKlv6b45UCdyB9x.pkg" size="6045504" crc="5f7fcd73" md5="4066f3a49da5b8c55da3c2f057d3117f" sha1="f2d4d2e0545f83aecf2f1d7d17c11d75eb5c35ea" sha256="e6bbf262a07dbba98903540b02075d4e67801deea6615c82a89213877eb03a8d"/>
+	</game>
 	<game name="Sengoku Mugen (Japan)" id="1329">
 		<description>Sengoku Mugen (Japan)</description>
 		<game_id>JP0700-NPJJ00562_00-0000000000000001</game_id>
@@ -6064,6 +6213,12 @@
 		<rom name="UuaMgAMoqsEMSkrlBywGkpcLFrDzucFWZZYeTuooVNnoBsunMFXBkplswRgnagUSkFnFCqUchgWTZGdlrhRMlKQLBIkYRuqwNwjzy.pkg" size="72981776" crc="adefe4b5" md5="c5a190eb435aa91d5ff819067d7cdf3a" sha1="c0183e721c3526b8a5247a28f75d1db700c086e2"/>
 		<rom name="JP0047-NPJJ00632_00-0000000000000001.rap" size="16" crc="792d18e6" md5="98377e955a659e6fddc50ed972a22133" sha1="7175e702ab25bcffc9ba91dd79b2f70a20b315fc"/>
 	</game>
+	<game name="Shinobi no Roku (Japan)" id="1435">
+		<description>Shinobi no Roku (Japan)</description>
+		<game_id>JP0571-NPJJ00366_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00366_00-0000000000000001.rap" size="16" crc="367076d0" md5="b5a965895a23fc4d53815f2b2529df00" sha1="973a7c3916aa3d8249df5b97503bdc1e31f91a2d" sha256="02438e054b6612933bd3b2acf4e4140cdd30e6c72b4adf8c429b3cbbbba93145"/>
+		<rom name="mBke3NB3nVVMQkjPrAPodOCwapQUuxl18tVrvMjsTLT4XIvCBWBImytBJx6aUt3xgu7FQI30CuaIExududX076qrlGxywxkfMFqw4.pkg" size="123462176" crc="bd3ce831" md5="e87d22310da19713a8b5db195f600a96" sha1="3c3fa3dfbfb8548f279ffb9bff7c7c0f4dc83811" sha256="9dc6309e7a03b0699d51b90c350c329379e697f6a65321c189b8913616ffe90b"/>
+	</game>
 	<game name="Shinsou Kaiten - Wanwan Umi Monogatari - Sanyo Pachinko Paradise DX (Japan)" id="0765">
 		<description>Shinsou Kaiten - Wanwan Umi Monogatari - Sanyo Pachinko Paradise DX (Japan)</description>
 		<game_id>JP0024-NPJJ00076_00-0000000000000001</game_id>
@@ -6140,6 +6295,12 @@
 		<game_id>JP0571-NPJJ00446_00-0000000000000001</game_id>
 		<rom name="y9RSphuCWAMCtD7IQkB9YgpYrEEMOcGalaf6YBxNxfmdB3wlOnnSDlxlWQM4lS2bCOUtfKP4KeyH3F8gObPon1oXAOBsLcydYcNhs.pkg" size="159273808" crc="17c89572" md5="6712d3667fd84012d345915a99674bc0" sha1="74fa1400ed252489a6fda0cb56405d07d0040dfd"/>
 		<rom name="JP0571-NPJJ00446_00-0000000000000001.rap" size="16" crc="ddf46683" md5="8986e738d6d80f155536554a26e8a521" sha1="d96b896ed8adaaf258b22d896eaacd36ae78f708"/>
+	</game>
+	<game name="Silhouette Stories (Japan)" id="1470">
+		<description>Silhouette Stories (Japan)</description>
+		<game_id>JP0747-NPJJ00716_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00716_00-0000000000000001.rap" size="16" crc="485d4e40" md5="2c6547e8a76d79b58e062b1f0684c138" sha1="8301846f7e0bb08d0701908ce823a8e583c2690f" sha256="6db2749d38f9d5a1532def9406ece148a5724acb4c4030b76b3f371937aa42b8"/>
+		<rom name="vNZMcjKphrCgJpNHgQECGnVqCEbBaXQzZQQzPNWGwTbsEcBlNvjKZfguqgUSxdmlKvARGDxwuVEeDqclTqqBckHXIVQDguiKdiPNw.pkg" size="114602176" crc="a88cd1be" md5="023107754c0e51fbc790b4e06bc8d831" sha1="ad888769305c24e978b2c9a11f3871f7c2614624" sha256="b6e71364b5267498dcb955a459165cf0c4992803166da67bf35638b566e5fe8a"/>
 	</game>
 	<game name="Silver Jiken (Japan)" id="0776">
 		<description>Silver Jiken (Japan)</description>
@@ -6508,6 +6669,12 @@
 		<game_id>JP0082-NPJJ00189_00-0000000000000001</game_id>
 		<rom name="6ASXNWuRi9opsD9pU2MPFHvUktQ4TrT8gQJJe0hR994Geg6qfBweClXvRxgoWM9t0Sqql6PCsW85rF6htwYgLQc8diGFJDTAxIfvA.pkg" size="1461910000" crc="b143588a" md5="baaad3cc48d62fb7c0a637c4f4e932cd" sha1="e7b61d933d368ad94a555fe5e722f6f07d0a86f1"/>
 		<rom name="JP0082-NPJJ00189_00-0000000000000001.rap" size="16" crc="e061cbaf" md5="d6f4a26a41a97ae0e565ba4c41cc4000" sha1="4a795c9c3760ea5ba96a94d0836e4a37eccd5794"/>
+	</game>
+	<game name="Soukuu no Tsubasa - Gotha World (Japan)" id="1469">
+		<description>Soukuu no Tsubasa - Gotha World (Japan)</description>
+		<game_id>JP0747-NPJJ00679_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00679_00-0000000000000001.rap" size="16" crc="34adcf8f" md5="cee6866a35290890500fd823dc9c999b" sha1="6c8f8cfcaa70146ab316672e878c12686f9e011d" sha256="96b7f2d45cd29e889c72d5ceb01dd3f21ddc781712f80014c84f5bc338cd56b6"/>
+		<rom name="DSCuywMOrESlqCSGEBgnxVrfRPjtoKUylnkzywQzrpyAxNOYTXgHtxptNqddMxCvkRwutHAXRSmSrgKXxRDPunqmMeolbMmRYcXNe.pkg" size="489628144" crc="e6219087" md5="a75bec4a8f96888c23a6e1dc26b32b60" sha1="60cd2b0aa27ba9bdbcdf00fa53f7a5939e953ca0" sha256="11a5a5508a1bc80a8417b4833e56e49954c196bae6c0577d045c1769de7b4e8e"/>
 	</game>
 	<game name="Soumatou (Japan)" id="1121">
 		<description>Soumatou (Japan)</description>
@@ -6900,6 +7067,12 @@
 		<rom name="efQMPQyXMRQTqxYmMeuFwETDksrNwxOEdLcVdMxbIXJgcKwIVcHGuABQjUemlFdt.pkg" size="330160416" crc="a421a2f9" md5="48f9286cf0e29efb0366ed26993a004d" sha1="6ce5faa0603a6b6c57bb1a3ee085adc33c18f3a2"/>
 		<rom name="UP9000-NPUJ00958_00-0000000000000001.rap" size="16" crc="ca9d51c7" md5="bfb2517bd03aa20fb4d0ee2266cf4834" sha1="63f2a6abc597839a97646b3e696fe42c989fafbe"/>
 	</game>
+	<game name="Suizokukan Project - Fish Hunter e no Michi (Japan)" id="1446">
+		<description>Suizokukan Project - Fish Hunter e no Michi (Japan)</description>
+		<game_id>JP0571-NPJJ00519_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00519_00-0000000000000001.rap" size="16" crc="c98df494" md5="3d52e01967e22ef4f310f30752a3c4e9" sha1="3af2b786a3084e1099696d80c20e1c278ae53758" sha256="afcd195ddb863ef27133ee8e19e3ee2c458c0c2a125cc9c46de3b98ec2412215"/>
+		<rom name="VQUTFUzYLhsedzeYuxGnOxBbWGianoRsZIVoxKsAvfYrZUPplsrMDPSJtYqJRbwYekTyBzGIoYFhmZCbsVCcQfpqfucRedBpgBtIP.pkg" size="274452176" crc="6d1bc2b5" md5="6ed3263760ab0cd8c4f77c72a0238699" sha1="e994bbbc1ba234fc00fe0a75221a455031b5e067" sha256="1106b980b57a62acbe11e49e8ca4ca9af970d3205497ce61b30be33788f61b53"/>
+	</game>
 	<game name="Summon Night (Japan)" id="1160">
 		<description>Summon Night (Japan)</description>
 		<game_id>JP0700-NPJJ00656_00-0000000000000001</game_id>
@@ -6974,6 +7147,18 @@
 		<rom name="bgFUuFOpaWqk1FyMNGCYPFlieOKL5xCXtS7VKUJp4ngq6EPE3v57FLA5BfIoF2OA.pkg" size="91981456" crc="18a4bf7a" md5="fe3f43c6f863276acb59ba6c5a9bf23a" sha1="712fe4bd45d4800323cb83faaa16a67856d2761e"/>
 		<rom name="EP4061-NPEF00144_00-GDODGEBALL000ENG.rap" size="16" crc="22c13152" md5="e534623f576d356e9a93f97e31951ca4" sha1="2f210d3e5b43cef7b19a7cdec245bf1b137508ce" sha256="9ffa0cb8685acfa617977e1f38088ff35a2e78250d5d008069f94ca31d731f6b"/>
 	</game>
+	<game name="SuperLite 1500 Series - Angolmois 99 (Japan)" id="1441">
+		<description>SuperLite 1500 Series - Angolmois 99 (Japan)</description>
+		<game_id>JP0571-NPJJ00453_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00453_00-0000000000000001.rap" size="16" crc="8cded070" md5="e6f3c0ee78ee30a4056929155cac3266" sha1="a8111cf4ce1b797dc7e5b62d51c4f098c0176351" sha256="377ce764ec0305b5d20b1a072cb541e24e3b40d8eac9608ad191f08eb98dd654"/>
+		<rom name="7jqB185ibTh1QVrQrvCS8GmNG3mCCCaffamDmPkWC0Y00Ed4P30dRmb8Ohpu5tKNNinbKiL3gXDIHbvoKCNr9wjYd1wntHWbtnyEo.pkg" size="10171552" crc="0177dbef" md5="89962b1ad934e49059645cbfe14f211d" sha1="eda439e2548a729acbdd05ebfa52b01033ab7c45" sha256="6ff35d55e40a0c48fa07a3e9c679d1da372daa82dd564de859d22eb7d3911a35"/>
+	</game>
+	<game name="SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan)" id="1442">
+		<description>SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan)</description>
+		<game_id>JP0571-NPJJ00454_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00454_00-0000000000000001.rap" size="16" crc="7d879125" md5="95ba7c9eef0e4180c0d75b8ce34379a7" sha1="bdeb923bd7cafd32a468f21bfa0bf94bab21ff13" sha256="bd3b6ebfc00274185419c649bb3b3b57b8cd10e5ebd572890161921f23592d83"/>
+		<rom name="g2BgVjhWa3SDMVekiRXI94McpfMGlEotVEn7cIo76LFrqLyuuWB1Eu9BktJOPTR7OTUJsrWKDHeHGm3kVPd0l4r1YpVb8EUkl2rAb.pkg" size="312004144" crc="63ec83b5" md5="d8545a6aa0a5be848ccada3e911b6b7a" sha1="bdfd3cbab1d04b5c56944f76f9f2fbddfa6f1376" sha256="e3732e1e6421932c4baf2064d56aa9b1754802570b289ecfbd650a7b0f45c94a"/>
+	</game>
 	<game name="SuperLite 1500 Series - Battle Sugoroku - Hunter (Japan)" id="0900">
 		<description>SuperLite 1500 Series - Battle Sugoroku - Hunter (Japan)</description>
 		<game_id>JP0571-NPJJ00419_00-0000000000000001</game_id>
@@ -7030,6 +7215,12 @@
 		<game_id>JP0571-NPJJ00420_00-0000000000000001</game_id>
 		<rom name="NDX4cpsPEnhfYcRcCwLpcePwGNUcstYTUBbxYJvKSS8D9AQIteFmogYsNwmQlFnPPsU9TNHAcTLaAqH6O6YHjBs5YxhASHrFE37WM.pkg" size="10291536" crc="45b7f075" md5="b0a8b496b591cdc98889563562846264" sha1="045ec56bb615e7f1702c26aba48c06ed0daf7218"/>
 	</game>
+	<game name="SuperLite 1500 Series - Oekaki Puzzle 2 (Japan)" id="1437">
+		<description>SuperLite 1500 Series - Oekaki Puzzle 2 (Japan)</description>
+		<game_id>JP0571-NPJJ00428_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00428_00-0000000000000001.rap" size="16" crc="ec3c3033" md5="360333c20802418df786f3e9bc329954" sha1="c19d9dc57b1cd039e4c1cc3de8c284e3ac46451a" sha256="74a341d08a30630e2ce803fb7add2892dae92d550191cd875c026e3af88771fd"/>
+		<rom name="q4DE3hUHDvvAnIOcoKYGd4jX0pQMyjAtK4UQ6EolUUyeAbW0pb152HnOaQlvDmtDTACM5YRo9YOCs6XjkAuF8fD5hsYLg5fqmPBG7.pkg" size="34822496" crc="533e082e" md5="94ecdb6f9859114c56738ba443ebe78d" sha1="1fde9845c1e01bf0e75a6de7a6d1a89f12572c9e" sha256="fee43e9180446e884ef1a6710b01987459c6a1e6dc7566def7926412b443cbf1"/>
+	</game>
 	<game name="SuperLite 1500 Series - Oekaki Puzzle 3 (Japan)" id="0907">
 		<description>SuperLite 1500 Series - Oekaki Puzzle 3 (Japan)</description>
 		<game_id>JP0571-NPJJ00459_00-0000000000000001</game_id>
@@ -7085,6 +7276,12 @@
 		<game_id>JP0571-NPJJ00440_00-0000000000000001</game_id>
 		<rom name="JP0571-NPJJ00440_00-0000000000000001.rap" size="16" crc="8ebf10cb" md5="5e8827d53f9104d7308d6319cbd00e70" sha1="454cf27bd34d9a374ec7a26d762e64586b69e8c4" sha256="240883eb40b0dd8485d4a2234e3702f34ec51a95c42608c9af976171a2e64a6c"/>
 		<rom name="kbTxsHJ0Id63QVt4mmEKaydXxqlXkw64xxaK9oCoxrTVWJ9J6Dkpo9iDFoPAFYVv9DoY5Ybyfukly4Sko9JMCAnYC2iu83kktmFpw.pkg" size="44249376" crc="7360d7f8" md5="e3cdad6c75d15f5082669fdb0186301c" sha1="6611351208990471f15b6637332f4cd3bef250b2" sha256="8d77216b1266588f36f97ef71b083e3be9ac7c899f4da2e434fc8212bcae41d9"/>
+	</game>
+	<game name="SuperLite 3-in-1 Series - Oekaki Puzzle Collection (Japan)" id="1443">
+		<description>SuperLite 3-in-1 Series - Oekaki Puzzle Collection (Japan)</description>
+		<game_id>JP0571-NPJJ00544_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00544_00-0000000000000001.rap" size="16" crc="3d09ae07" md5="81ed2eba2e81d057adbd8cc0c8b2821a" sha1="9fba7e81dab7845297c5b39f4a65101f749379e1" sha256="13b622d9b8b880101887109b8f1d5b98a8da35f46ede641669e969b7a509e8d0"/>
+		<rom name="VAJHhcGrSoMYXhpiBcQdINRqtNPoWbyiWiaktMTKXihFZabhcWBHfyaiWjQbyXnYiaYnKpyfbfdXylNjhEKRuwyrNkzLsiDQwNjHN.pkg" size="37463264" crc="dca6e922" md5="8679d0a1693ed32cb2fb9543fa33f454" sha1="c7e83f1b6c952cf50368685cfe085674eefd665c" sha256="ebe28995cfe5e69a9fba1e789a063d665461b22877f2cc254bd17f67fa5dced7"/>
 	</game>
 	<game name="SuperLite 3-in-1 Series - Quiz Collection (Japan)" id="1270">
 		<description>SuperLite 3-in-1 Series - Quiz Collection (Japan)</description>
@@ -7370,6 +7567,18 @@
 		<game_id>JP0571-NPJJ00020_00-0000000000000001</game_id>
 		<rom name="JP0571-NPJJ00020_00-0000000000000001.rap" size="16" crc="0d1e528d" md5="990204ebaed6e3fcb1565c9e16e81f76" sha1="cccdeecb80e439a2bc0229639f6ba207edb2a32e" sha256="280e8203f6020f7e244bc703f4061be39f2b17512352f5adc38360b84d675aae"/>
 		<rom name="gnAd406edYTjtsIxhptJ2YO1Fp8lliI3E8i3JPMJvlFg8sbxmL2AnVMQeVTf2cumgVajjWOuxQSKwVplfoV6TgECQevWWkd8fMdxd.pkg" size="30263312" crc="92e057fe" md5="526d1e1f2f0ed690193cb4288e34f59e" sha1="b182977c2b0292d2b0b1276e4315b4d4f9015689" sha256="cd61f7cb2da40e3082e46454d2303b16fd85b427d43ed4c3465c7d06695e4e11"/>
+	</game>
+	<game name="The Match Golf (Japan)" id="1464">
+		<description>The Match Golf (Japan)</description>
+		<game_id>JP0398-NPJJ00670_00-0000000000000001</game_id>
+		<rom name="JP0398-NPJJ00670_00-0000000000000001.rap" size="16" crc="45ba8e57" md5="c6aa1442b00fe4ab2981e31dd535f2af" sha1="5d2491f809adbaaa0f38ff2a3b12c5b0454c33bb" sha256="ff2255fc8d7ffd7c10bbe6fef0249b4ec41a68b96e320dbe34fa995191d9bd6d"/>
+		<rom name="ZCDYOUvIjVuPoffdPwgEskGJuooSRhoJAGFsrrZtfwsHHLVbGMCiPklXpTpsCUaaqSgTMTGkkVbKbOohquaEPPzERGmYCoEwIZatV.pkg" size="96353376" crc="cf5f58b9" md5="b1d5a4a20df49eb3f8305aa91023a8a4" sha1="2d9e71e55447009f6f95e183d359388e87f81384" sha256="1b1afe5ac8bbb1dfe958299cd5f2929d5c2986f2e4b9e017b503ad300fbef750"/>
+	</game>
+	<game name="The Oni Taiji!! Mezase! Nidaime Momotarou (Japan)" id="1444">
+		<description>The Oni Taiji!! Mezase! Nidaime Momotarou (Japan)</description>
+		<game_id>JP0404-NPJJ00582_00-0000000000000001</game_id>
+		<rom name="JP0404-NPJJ00582_00-0000000000000001.rap" size="16" crc="147dd835" md5="07acb8074c16193edfda7afc9bc81f36" sha1="954620db69d7556f925186d4ff00bda71d03a4a7" sha256="729ea2848f0e50470c8f4cff3b427a6a32d4e4d60c4a8111ffee1a9ba2ea0b9e"/>
+		<rom name="naNwFUZsNevoLcfcBOkYhxZErYzVQSqoOKaZXJvDtTbWsaItAbgPwQcKXEadbGXSIvbuSeRDJpHrpMnsxAGHHUaSDzxUryujQueui.pkg" size="156354032" crc="020455a8" md5="401da3eede5713d57cd5f9fe6330d533" sha1="efbeb8926d045830a2b3b49d27db1b5b9924172b" sha256="673051a01fe9a51ae76ae6de4f2fb481dbf6b54a1f6722330f1756128963dc35"/>
 	</game>
 	<game name="The Pro Mahjong - Menkyo Minnaten (Japan)" id="0946">
 		<description>The Pro Mahjong - Menkyo Minnaten (Japan)</description>
@@ -7771,11 +7980,35 @@
 		<rom name="nvcskYmCdhmcNgOotaFXIwOzNLIvzPfOwiBZpheYxzbqlxQQjQPjUJAlzjEmHZFpRqvTMKCAZOzGRRTvBdjnDBHWjPTOMtChZzLeQ.pkg" size="136462736" crc="428fa78f" md5="3b913e2a252497f058c92fc076157714" sha1="cf75ea761cd399e01a2b82098a21319493533e1c"/>
 		<rom name="JP0505-NPJJ00534_00-0000000000000001.rap" size="16" crc="04503011" md5="a86fe3c504cc69b4edadc8f67a81dc09" sha1="40b076152c225ddbe57132df0eb2f3e8778eb790"/>
 	</game>
+	<game name="Uchuu Goushouden - Bakuretsu Akindo (Japan)" id="1433">
+		<description>Uchuu Goushouden - Bakuretsu Akindo (Japan)</description>
+		<game_id>JP0571-NPJJ00343_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00343_00-0000000000000001.rap" size="16" crc="9609112f" md5="9b5e01253115abdd2e9cc74f20681aca" sha1="5eaea02b5ff4a607e66b706a660a93718519132c" sha256="075788cdcd731a0b1462f1180e3edddf5ed6da414504737a49230767f8359408"/>
+		<rom name="GC9f1bNfmx3slieumNPJBluX4iBEMM9VIELoEMgnr38mdONpOTnjxWYGsHW6Nlk63kXQ3hGQ2fUY2ejmlrQUhlYI0UecJlO7eQDeV.pkg" size="101559216" crc="2e460803" md5="df2c85b2d928e26bb5613570d2dadaf8" sha1="821f82113145309eca6690bd35b5729db5caf9e2" sha256="701263f3f24aba2b0fe629fbd497f15fd731d5f4e9212fa3a33c30562970f0f6"/>
+	</game>
 	<game name="Uchuuhikoushi, The (Japan)" id="1008">
 		<description>Uchuuhikoushi, The (Japan)</description>
 		<game_id>JP0367-NPJJ00436_00-0000000000000001</game_id>
 		<rom name="DXY836q6iccBV2KMFQtyKB7Uwu1uowormjh67PPOlH3DWLK9d4GCKpRrDMo9YCPBWtwQ59Gii9FiLio17ATwH9ASetFWOHgb5HxQp.pkg" size="14097616" crc="ab6395f3" md5="bc53a90cf1578a5536027d4a10be6876" sha1="0db9099603d77d1a577133098216a23cf510b373"/>
 		<rom name="JP0367-NPJJ00436_00-0000000000000001.rap" size="16" crc="ce83b979" md5="5b01c138be606241deaf8d0331cd6844" sha1="9f347da02ceca1e460fc91caa8cc81e98c99efba"/>
+	</game>
+	<game name="Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan)" id="1448">
+		<description>Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan)</description>
+		<game_id>JP0571-NPJJ00531_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00531_00-0000000000000001.rap" size="16" crc="d01fa66e" md5="6cf8962bcdfee908012fd37354218a80" sha1="3dcf2f17168b768b0f5bad91a04724ebde209186" sha256="b4cfcf9697be56aec72a3090a45c8e3b74021970aa6915224cddf7a9810f7c34"/>
+		<rom name="VDIFfCAEgoGGMoBnOMLDNCvFcnXrUJikyFntKAHRMyJiRtBuYXLmWGPcgRutdsIdVwJOcWfIJtpkDocZmFzGGtREOeTNlhgUprSCI.pkg" size="69180768" crc="9da61403" md5="4996420de09ef80e46806978698a8ffa" sha1="fac9088cfb36402e7c6551975b53ece346a4005c" sha256="9ae8705289e34871212afbd9941d60adaab88d0cf7327ad071faaabc4270bb46"/>
+	</game>
+	<game name="Uki Uki Tsuri Tengoku - Kawa Monogatari (Japan)" id="1447">
+		<description>Uki Uki Tsuri Tengoku - Kawa Monogatari (Japan)</description>
+		<game_id>JP0571-NPJJ00525_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00525_00-0000000000000001.rap" size="16" crc="5dceb272" md5="8c12d7940cfb0a559cd7038e7c1a686f" sha1="252af6d91f231050ef13d8568d16690a7651b200" sha256="fd1b7d5653713938767660fbe2dab8c34b9e64ddfc91ee4252fcc6ec538ba51f"/>
+		<rom name="ktmkubRwkMvyYtloezsaaQLkSCGVBczaJRYypwaCaINFpSCnzzCegrosTWvwqjyHpGgrzIBeITXYsDkkWRoTHBXcXaZIXINPYETKz.pkg" size="241347696" crc="35045106" md5="d5cd9f2ae2623455486a6315b2a28259" sha1="4a17055e1163a1de36df00285d36604072009546" sha256="bec90c58474c7ff2493c8890cd8b13022c8cdc3cf5a73c925c144a1b3753f557"/>
+	</game>
+	<game name="Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan)" id="1445">
+		<description>Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan)</description>
+		<game_id>JP0571-NPJJ00515_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00515_00-0000000000000001.rap" size="16" crc="e6fb29df" md5="22dce76a0bdc709174e73e755df6e444" sha1="1c0b3619bbdd9acccc0c5ff4e81d16216e95652b" sha256="073312ab980403aa6690f70d48f87c4b3c0a5cdf614dbe6fd9db1e1c17ae6e74"/>
+		<rom name="AduIPqTtiNEsxdtlOMlDRBWIqvrqWuPyHihwZaFVHhLMVKPtbmbbQmkwIEiKhCWIzSZkphtsKblVmtKMCPDJKYqzDcJCBeMxfmUQq.pkg" size="139866976" crc="60662280" md5="890703d85cda4cae9807aee2b71d2c00" sha1="0ca395a04bb342d4f2e60b723e83cdf2c4a557f3" sha256="7fb01f61f0e4c923f2c0bf6e6b883136e3dcd69548b94bd5206deeb3bbc80f05"/>
 	</game>
 	<game name="Um Jammer Lammy (Germany)" id="1009">
 		<description>Um Jammer Lammy (Germany)</description>
@@ -7944,6 +8177,12 @@
 		<rom name="QcqoB0Rj6yBb3jEuRKF6wDlSXFiyRvW7PaTk2oNhmFRQfflvjMOKBhfWjguSa2tHPX8PRID9UbWBnPV3rAvt8yxubU6UnxKdA4xqh.pkg" size="128360624" crc="d250247c" md5="87fa188b26eb0f63e23bda12054ffd8a" sha1="368dfed835f64b86cc6ed599ded0ae701e8eefc0"/>
 		<rom name="UP9000-NPUJ01374_00-0000000000000001.rap" size="16" crc="6e150631" md5="ffc857ed18aaabb8d6a3be7881dfa169" sha1="d602a46d2d07123fae48438b625bd6aa6b460e8a" sha256="c32800442101c319ceafbc03500d610e921d1310c9e9fe7ea16510c7a982af98"/>
 	</game>
+	<game name="Wai Wai 3-nin Uchi Mahjong (Japan)" id="1465">
+		<description>Wai Wai 3-nin Uchi Mahjong (Japan)</description>
+		<game_id>JP0571-NPJJ00578_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00578_00-0000000000000001.rap" size="16" crc="e9fb1550" md5="84fa74da8cc3f34c1c33f592c7e23fb0" sha1="b069ab28e7118e06d63a2eb501d3f34bc77a3a71" sha256="08fbf16ce2d6b7a10f8c2c65032db9a7d1207957ee444bfd7ce33bc1e22a9c7f"/>
+		<rom name="rNsxUansQaYnEopGBMJhYpnCkpaWwBPOuVsmSiPitMKInLOZdALYqDrcfNJqakidIfILRKEYFmdTcKcSqCIkVrHtAZzJWMqXarFGM.pkg" size="49977504" crc="c8c63aab" md5="29a757854e679c11bbf5f4cb58971dd7" sha1="030dc8dd6b0f0f4848bc8b18eae79025a6a237bc" sha256="30b0d183a4939eb71db79c60c918d6a7af4af8a7c3392624c35452c457eb5b59"/>
+	</game>
 	<game name="Wai Wai Bowling (Japan)" id="1385">
 		<description>Wai Wai Bowling (Japan)</description>
 		<game_id>JP0571-NPJJ00142_00-0000000000000001</game_id>
@@ -7966,6 +8205,12 @@
 		<game_id>JP0571-NPJJ00135_00-0000000000000001</game_id>
 		<rom name="PXcticAtTk9EOvRQSJmyYnDgcSC7wedtgCNUApETDebhIKul8hOJP4t5QwtANPCfDfO627p27KeiLCGSgWI4pEwGsUy6GD4egLmU1.pkg" size="8743488" crc="7b4b70e4" md5="a6754bd1421a4d6c026a477aa0f8c0d7" sha1="ed5da19276e3a226bdfba15ebfc5f3593b8e1b75"/>
 		<rom name="JP0571-NPJJ00135_00-0000000000000001.rap" size="16" crc="95afc971" md5="ad6179023ffc501404d2dba7edaac285" sha1="305f957aa4be229da797fe3250534b6b3b0dfbc3"/>
+	</game>
+	<game name="Wai Wai Trump Taisen (Japan)" id="1466">
+		<description>Wai Wai Trump Taisen (Japan)</description>
+		<game_id>JP0571-NPJJ00581_00-0000000000000001</game_id>
+		<rom name="JP0571-NPJJ00581_00-0000000000000001.rap" size="16" crc="faa0381b" md5="9a3eafe417f1b5534425a950111bcbd5" sha1="82d875d1dfcec83c8b5f6021b9bf25ed5f03a929" sha256="cbfac24c865dd1f8eb9b1c9e168497b60b2f69a2bc6c3a29a76e5186d3902d82"/>
+		<rom name="QZCuMpOWFLpTWeIFYZErquCCZbjTHmQfvzayeGGToMQkaFybwXAQusqqYpsSUWNPWguGSpKCcizoanTcFpLNHpoEhaAybcAiObfCe.pkg" size="31015248" crc="7135550a" md5="446db3147437027b700edd6ebe203a21" sha1="1681ddd9c5116ed2e37cb2136839e0818f46c42f" sha256="7f6236ae2c81827b525d81207326194c2f0dfb9b0364364b1ce425b02a750f9b"/>
 	</game>
 	<game name="Waku Waku Derby (Japan)" id="1033">
 		<description>Waku Waku Derby (Japan)</description>
@@ -8319,11 +8564,23 @@
 		<game_id>JP0734-NPJJ00500_00-0000000000000001</game_id>
 		<rom name="kivOcoCWfaCYjxKuzVIMieLFXEAUcwvdNrJsouxROvcsAUXzvoMWwVLXWSAeyZOptpfIhRzESiMrFnvuwRhKHUTOxLOqNWkxMlPUV.pkg" size="87175744" crc="95cb5298" md5="42874799108e93ff3dd14ecad1d81f1d" sha1="e999b31e0daab98683777c1c2f8a17ea4e1c1222"/>
 	</game>
+	<game name="Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan)" id="1474">
+		<description>Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan)</description>
+		<game_id>JP0747-NPJJ00780_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00780_00-0000000000000001.rap" size="16" crc="6da794ca" md5="2e4e669909452365ae2b4f68bc679fe9" sha1="5bd62a6249794ef020cf8263adf3f7c386081042" sha256="4d06806c346a7cb5d4570b3a47b61405511f0c3335299dcc00aff28ab0e54003"/>
+		<rom name="JP0747-NPJJ00780_00-0000000000000001_bg_1_4c539a86da3a0f8de13d177da6e458c308bd60e3.pkg" size="186968384" crc="eda466a4" md5="674b04ec8ff671626dcc49a07ebefe36" sha1="6dab0a5705a534e458d0d07fcd673ad1dba3792a" sha256="83b6fc5beb535b7b08bbd6ef7397a2cdab6d94ad64303b0361b533b2f3e09f7b"/>
+	</game>
 	<game name="Zanac x Zanac (Japan)" id="1084">
 		<description>Zanac x Zanac (Japan)</description>
 		<game_id>JP0747-NPJJ00412_00-0000000000000001</game_id>
 		<rom name="KHrlEFLBS1RmDobIFNI7eSJJ0A5AaWp4iy4t0kpd3L7LCvgcWRiCNevSwtUOcRxBAIV4U2e3h7erDG2MB2L1jeAcCiEOMoXR9ECtT.pkg" size="222751904" crc="4bc3818a" md5="b2e87d5ac874b50cc634bb2e28ad01c2" sha1="cb78ffafef4024a6824e338df483d1e0c462d4a7"/>
 		<rom name="JP0747-NPJJ00412_00-0000000000000001.rap" size="16" crc="da067152" md5="5029262d97c02fa3e1b2b89a17eab9cd" sha1="7a16683abb9a9dbd2127fe064c815ad7e1d8edde" sha256="def51ab7d1fe065c425d1ea36db94ead06a92d84ef114e0b5dff24ac9db8d56a"/>
+	</game>
+	<game name="Zera-chan Puzzle - Pitatto Pair (Japan)" id="1473">
+		<description>Zera-chan Puzzle - Pitatto Pair (Japan)</description>
+		<game_id>JP0747-NPJJ00781_00-0000000000000001</game_id>
+		<rom name="JP0747-NPJJ00781_00-0000000000000001.rap" size="16" crc="85620677" md5="f757ff6c5733563e086fb317de23ddbd" sha1="f83ee31b636c500abe974da4a8dc9ac299e4a96b" sha256="c910ff8682cba5e87d695533e100e808535930645c79f7c1a18ad301555fe55b"/>
+		<rom name="JP0747-NPJJ00781_00-0000000000000001_bg_1_d77b67bcc70a7257540b3f72fa3bdaaf2b5a56e9.pkg" size="82365232" crc="30fce4ab" md5="ef0c105c9eec68015eb6c7d3742f3061" sha1="a8d66f248e44bf7da54b8c52a9032af04635ad6a" sha256="931206716477a0c7ea020d183921fb5c503bf6e568cabf8dcee4ba66232e07c7"/>
 	</game>
 	<game name="Zero Divide (Japan)" id="1085">
 		<description>Zero Divide (Japan)</description>

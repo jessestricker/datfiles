@@ -4,7 +4,7 @@
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20260611-220841</version>
+		<version>20260612-200253</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1741,6 +1741,7 @@
 		<description>Assassin's Creed Embers (Poland)</description>
 		<game_id>EP0001-NPEB00805_00-ACEMBERSVIDEOPOL</game_id>
 		<rom name="njtwZzguHpklpiQZPPnhPUctxNkuhSIcjVWNztXbfNfPCPIceRqlpEQHdokOpgSb.pkg" size="1020664064" crc="d2a9b725" md5="dacbcea2f6d69fee70010335ae674fe7" sha1="87fcf9e2acec5a1a8b2fab04c37810d3c40d3d22" sha256="59ea7dee5bb51415892d875dd5482b06ede6709725c9f5285fce561604902c0d"/>
+		<rom name="EP0001-NPEB00805_00-ACEMBERSVIDEOPOL.rap" size="16" crc="05dbecaf" md5="57ba7c56d09311c39c1b307ffaabef8e" sha1="7b75c6c0ed8bfd1eb5ad1bf034446f9e56a2c509" sha256="23415b5059f8f390028e14bbfe7b6610dd4b4ef8df7e0684a951b040b344155d"/>
 	</game>
 	<game name="Assassin's Creed Embers (Germany)" id="41483">
 		<category>Video</category>
@@ -2354,6 +2355,7 @@
 		<description>Batman - The Telltale Series (USA)</description>
 		<game_id>UP2026-NPUB31845_00-BATM000000000EP1</game_id>
 		<rom name="UP2026-NPUB31845_00-BATM000000000EP1_bg_1_8e50e91b15d32f1f1905980ecb2f2b52fa7d4128.pkg" size="799410736" crc="011a1dbd" md5="cf19c79be24b7b6da20f50d5797d81f2" sha1="f69267fa7609e6534199e5b1cdaf8f6f85d06ebb"/>
+		<rom name="UP2026-NPUB31845_00-BATM000000000EP1.rap" size="16" crc="cc81164d" md5="3e3b16f3e7e89e0fe1f70059ce67916e" sha1="639683ec8b6755b0e885ab4c4dc80935ab8eee10" sha256="127594472e2db9100d5ae3e78c5b2a433cd6d8582beefc20ad50282c28c0a1a6"/>
 	</game>
 	<game name="Batman - The Telltale Series - Episode 1 - Realm of Shadows (Europe)" id="29214">
 		<description>Batman - The Telltale Series - Episode 1 - Realm of Shadows (Europe)</description>
@@ -4202,6 +4204,12 @@
 		<game_id>EP2039-NPEB00646_00-BURGERTIMEWTGAME</game_id>
 		<rom name="TlAeWdiQjdvvrFyTWSmHewbkbJHtxDaUuudmULOozWWYNeVlpHJOWEcqbhqkJWVl.pkg" size="6080" crc="c96d95dc" md5="260a040937e5695d16494938b45c1af2" sha1="e8480307489a0aff555d58467e492055086f9159" sha256="eb322a27e66b81c8d999d8ce28c4d249c3ac0d94df8bb742ace8cf68978b4c99"/>
 		<rom name="EP2039-NPEB00646_00-BURGERTIMEWTGAME.rap" size="16" crc="c5c87f14" md5="63e5a801d9bac5c5bfd7a9248add68a5" sha1="4dcf3b8298544f7644a23a30bd16d8889e0e0ef5" sha256="b39a9e60f3e14afc5b9bb2d140017e9ab32198d1029ba92eb27138752ae1f8c3"/>
+	</game>
+	<game name="Burn Zombie Burn! (Asia)" id="46025">
+		<category>Games</category>
+		<description>Burn Zombie Burn! (Asia)</description>
+		<game_id>HP2905-NPHB00114_00-BZBDSIX000000001</game_id>
+		<rom name="HP2905-NPHB00114_00-BZBDSIX000000001.rap" size="16" crc="3de8fa60" md5="5df6fdb7daf1c522638bc66b06ac781e" sha1="f35f0a60abd12e44ffd21ab31485b416a85c8534" sha256="f0e6a25f538d56a92d0308d52e22a1ce293f9a34427ac23c95a8628aceb21803"/>
 	</game>
 	<game name="Burn Zombie Burn! (Europe)" id="01964">
 		<description>Burn Zombie Burn! (Europe)</description>
@@ -6811,6 +6819,7 @@
 		<description>Dead Space - Extraction (USA) (Unlock Key)</description>
 		<game_id>UP0006-NPUB30314_00-DSEXTRACTIONKEY1</game_id>
 		<rom name="YrAQuqCsgRpqDcXcPFspCwAZCibSGWOUReoSebhvKMLYcSRzXOlUtvEVIgYodCvjojNgYKKHVsIgejVoXdqqYfbLaYoJxyKRDyJVV.pkg" size="6080" crc="eba180d9" md5="8933e05c9bc671213ad2ac7e54a5e051" sha1="d747bebe7becdbae4016f64ed9fc23cfe8e54631"/>
+		<rom name="UP0006-NPUB30314_00-DSEXTRACTIONKEY1.rap" size="16" crc="0f84a2de" md5="eff4687133653a23712570bcde3865fe" sha1="efebb03d7a56d18c362603907cefd77aad087fc9" sha256="8ad1a5e4e6538b18cdd0b527f868d316499774b60032838c92080d5fe3c6cf58"/>
 	</game>
 	<game name="Dead Space - Extraction (Europe) (Unlock Key)" id="29243">
 		<description>Dead Space - Extraction (Europe) (Unlock Key)</description>
@@ -14396,7 +14405,7 @@
 	<game name="House of the Dead 4, The (USA)" id="10063">
 		<description>House of the Dead 4, The (USA)</description>
 		<game_id>UP0177-NPUB30603_00-THOD4EXTENDEDCUT</game_id>
-		<rom name="IKArWZRJjVWbMqEBcAsEmcCWZsPAAcNfevVslmFjrhBeCiRWummqXabTMrKCMCMZGnQgtkQaAYwQBojEwPMeOPKYHuiqrMAwApsWq.pkg" size="4261956352" crc="90710df0" md5="a70aed68686c3fb488948d552b5dd3fd" sha1="9b436f778b26182f2107b37838ede0efef4bf2fd" sha256="ebe3689c12d0fe99d92f56c2b78db59b3f88e1ddce5d6fdaace06d7f23dd79df"/>
+		<rom name="IKArWZRJjVWbMqEBcAsEmcCWZsPAAcNfevVslmFjrhBeCiRWummqXabTMrKCMCMZGnQgtkQaAYwQBojEwPMeOPKYHuiqrMAwApsWq.pkg" size="4261956352" crc="90710df0" md5="a70aed68686c3fb488948d552b5dd3fd" sha1="9b436f778b26182f2107b37838ede0efef4bf2fd" sha256="3058b278802f3e99abf662db2a745703ea5137e307dcf7fcb1a06c58c8284f62"/>
 		<rom name="UP0177-NPUB30603_00-THOD4EXTENDEDCUT.rap" size="16" crc="da8de7f8" md5="03a7252b2360d6ba992d19481597635c" sha1="6189f778cad28e29ff28aeb3e45eddf56f957867"/>
 	</game>
 	<game name="House of the Dead 4, The (Japan)" id="19915">
@@ -29856,11 +29865,12 @@
 		<rom name="mYScoWqIhOIXoNoRxgLIzosJaUiqavOBsGaUwUuLAiJfRkbOMOBJMXXIhrdWcgpb.pkg" size="4727452672" crc="737c357f" md5="9290f94cd79b42eb8ad6b34b96c2b9d4" sha1="891b8c75c8bba08522fab772006eba65d9cecefd"/>
 		<rom name="EP0177-NPED00034_00-GSONICHERO000ENG.rap" size="16" crc="24ea98fc" md5="b7dc40a12e5ff743aebb2ae381d3d413" sha1="dbc9a92b366bc5f01399f97b7f2d859fd77a1031"/>
 	</game>
-	<game name="Sonic The Fighters (Europe)" id="07678">
-		<description>Sonic The Fighters (Europe)</description>
-		<game_id>EP0177-NPEB01162_00-SONICTHEFIGHTERS</game_id>
-		<rom name="SCMFqKPBBqOZkCQleXDLsalEeGJEeloSOngghLAbXBgWsXInZwTQvEeFhLdHLuHX.pkg" size="90980608" crc="150c9de3" md5="116bec5ef83e274ca51b293d2d6783e9" sha1="f03a795d6625bf32733600fdef846b2ddc0b8d41"/>
-		<rom name="EP0177-NPEB01162_00-SONICTHEFIGHTERS.rap" size="16" crc="d0e314f9" md5="c2767c0e2cfc7b5a47a51a0522fe60af" sha1="e58fa2cca68a55e0a46dfcbf1156380cd6d28357"/>
+	<game name="Sonic Heroes (Italy) (PS2 Classics)" id="46024">
+		<category>Games</category>
+		<description>Sonic Heroes (Italy) (PS2 Classics)</description>
+		<game_id>EP0177-NPED00034_00-GSONICHERO000ITA</game_id>
+		<rom name="CICRzgUtKueAISXsJGGHWFJOkeADERpKGQzbxtiwOzSyNnzKGXCAZTOEbPXdrRbI.pkg" size="4727337008" crc="7f028794" md5="2849029a93408327b794a633e1b92cc2" sha1="76650fe10efaf85910db83c801fc890d35727f2f" sha256="f7dd8396442475bf8fa486dd4f3d5cec4ff77d3d62907bcdea35c43daf805f50"/>
+		<rom name="EP0177-NPED00034_00-GSONICHERO000ITA.rap" size="16" crc="ee3c6440" md5="d65aac6a43f8bc95a56a9971f183c622" sha1="df9f27803423ffa322d52715ec4a63399d358954" sha256="3effab373e60b0bee184f2081b62c44ee32c51378b46fb7d7b56bc4c65f19819"/>
 	</game>
 	<game name="Sonic The Fighters (Japan)" id="41411">
 		<category>Games</category>
@@ -29868,6 +29878,12 @@
 		<game_id>JP0177-NPJB00250_00-SONICTHEFIGHTERS</game_id>
 		<rom name="xIhdZTpsMcWeUDZdZHCnuKwFZDVZpNfYLOkaGbqTnKHCNawWMopaPVDVigpYmyPKoRfjPBuvJcQYkFHCbflaHpFHwWSpudRLkKrse.pkg" size="90980608" crc="3fdb794e" md5="3207348f2a30ef528780756507a8b893" sha1="0d03f4f9294a02612a19d84db06fde6615e01f70" sha256="961f4278cc0a28e94314ace99eeba24519c95011b5de0b881337b76e94551d64"/>
 		<rom name="JP0177-NPJB00250_00-SONICTHEFIGHTERS.rap" size="16" crc="4dd4fcf7" md5="0dbe973026f18b5cd3468585e517e413" sha1="4273323365e690b75eb6c65c70b1d7f4e4cf67cd" sha256="e11d25cd3597f7d6abadd318d60cdb8001ea380086afe6f0f994fc32276a03b4"/>
+	</game>
+	<game name="Sonic The Fighters (Europe)" id="07678">
+		<description>Sonic The Fighters (Europe)</description>
+		<game_id>EP0177-NPEB01162_00-SONICTHEFIGHTERS</game_id>
+		<rom name="SCMFqKPBBqOZkCQleXDLsalEeGJEeloSOngghLAbXBgWsXInZwTQvEeFhLdHLuHX.pkg" size="90980608" crc="150c9de3" md5="116bec5ef83e274ca51b293d2d6783e9" sha1="f03a795d6625bf32733600fdef846b2ddc0b8d41"/>
+		<rom name="EP0177-NPEB01162_00-SONICTHEFIGHTERS.rap" size="16" crc="d0e314f9" md5="c2767c0e2cfc7b5a47a51a0522fe60af" sha1="e58fa2cca68a55e0a46dfcbf1156380cd6d28357"/>
 	</game>
 	<game name="Sonic The Fighters (USA)" id="24655">
 		<description>Sonic The Fighters (USA)</description>
@@ -29899,17 +29915,17 @@
 		<rom name="aNCnwjTxBazmBkAzQfHTOckyHcrlvUfvwkhMeQhXSUimGfMLNNSgopSKiPCjmHSr.pkg" size="35433776" crc="fefa1199" md5="9ae7e014ac78c148a4caa649ed34f86f" sha1="94e83c05893b8ea198e8b0a04f8842911b90a045"/>
 		<rom name="UP0177-NPUB30443_00-SVCSONIC2XXXXXXX.rap" size="16" crc="e0d9bc34" md5="9d249a9a4e03450d1e04cc44fa8bdcc0" sha1="185d04582b5f9068be011877cb0074911696800e"/>
 	</game>
-	<game name="Sonic the Hedgehog 2 (Japan)" id="35389">
-		<description>Sonic the Hedgehog 2 (Japan)</description>
-		<game_id>JP0177-NPJB00127_00-SVCSONIC2XXXXXXX</game_id>
-		<rom name="JP0177-NPJB00127_00-SVCSONIC2XXXXXXX.rap" size="16" crc="b2d17476" md5="e55d96179abc660e49eaaa173ecab72f" sha1="36f2607b2caba0ba111c4c0cd2220772a320b7dc"/>
-		<rom name="qnpFskpSEnVkYjTxavzPOyQwuXwLEKudBxkGxndYZWiDFYeTqVdiGWDLlWsCNdNfSXMeCIYeAqyBZAhxGtEmaPCxQKtxgRHIDEYzr.pkg" size="15902672" crc="49726b69" md5="8270d6bf61e6f051428beebae1c0d7db" sha1="fd7a698eae732875777c677065be33c99360904f"/>
-	</game>
 	<game name="Sonic the Hedgehog 2 (USA)" id="07679">
 		<description>Sonic the Hedgehog 2 (USA)</description>
 		<game_id>UP0177-NPUB30443_00-SVCSONIC2XXXXXXX</game_id>
 		<rom name="HtyNVjpKrPKNEtwhvpvwZqEEIWSetnXIOnnZAFiyTNpGQIVphWROtpDkqvVymZChrDYhsoPNuGRhbLxsgMveXJGKYsmWMSiSJRvGR.pkg" size="35433776" crc="7a705de2" md5="0ea11739464f9dcabdc04bbbbec41da1" sha1="f491756113d0e18501a49c652d70cd4c5ff7c8f4"/>
 		<rom name="UP0177-NPUB30443_00-SVCSONIC2XXXXXXX.rap" size="16" crc="e0d9bc34" md5="9d249a9a4e03450d1e04cc44fa8bdcc0" sha1="185d04582b5f9068be011877cb0074911696800e"/>
+	</game>
+	<game name="Sonic the Hedgehog 2 (Japan)" id="35389">
+		<description>Sonic the Hedgehog 2 (Japan)</description>
+		<game_id>JP0177-NPJB00127_00-SVCSONIC2XXXXXXX</game_id>
+		<rom name="JP0177-NPJB00127_00-SVCSONIC2XXXXXXX.rap" size="16" crc="b2d17476" md5="e55d96179abc660e49eaaa173ecab72f" sha1="36f2607b2caba0ba111c4c0cd2220772a320b7dc"/>
+		<rom name="qnpFskpSEnVkYjTxavzPOyQwuXwLEKudBxkGxndYZWiDFYeTqVdiGWDLlWsCNdNfSXMeCIYeAqyBZAhxGtEmaPCxQKtxgRHIDEYzr.pkg" size="15902672" crc="49726b69" md5="8270d6bf61e6f051428beebae1c0d7db" sha1="fd7a698eae732875777c677065be33c99360904f"/>
 	</game>
 	<game name="Sonic the Hedgehog 4 - Episode I (Europe)" id="07680">
 		<description>Sonic the Hedgehog 4 - Episode I (Europe)</description>
@@ -29977,15 +29993,15 @@
 		<rom name="iSGpkiuOtQeXgSAPoKcEAANlAyKSYWBiQpctKpVVolvyPdNyBAqwhBZBuUQbBRaB.pkg" size="8193614032" crc="12e6560f" md5="b781c1647135fbd94e31dffcbfdfd5b6" sha1="b2a56aafa1c1cc426251e891c4c17b543f4bfc68"/>
 		<rom name="UP0177-NPUB31204_00-SONICUNLEASHED01.rap" size="16" crc="46562f28" md5="ce429873beac0baa7489e0543cc4c438" sha1="78b975d32fa2227488f206699967ecd872a66ab4"/>
 	</game>
-	<game name="Sonic Unleashed (Europe) (Demo)" id="18670">
-		<description>Sonic Unleashed (Europe) (Demo)</description>
-		<game_id>EP0177-NPEB90132_00-SONICDEMO0000001</game_id>
-		<rom name="BXj1QJ3hfA79mTeJSipc8Ek1aYH59KKaNQ3npDRuHEsRjJ5PlPpqmVc1mmiRn501YEQulpBn0cWoYnWj3O5Jc1cGOPSmqfQQ0WPgV.pkg" size="250182832" crc="b0d5f98e" md5="1e526b49419c71bb03eb6153a93ccedb" sha1="7102f8797845d9b85a4a0ad950daed5d09f052c0"/>
-	</game>
 	<game name="Sonic Unleashed (USA) (Demo)" id="07691">
 		<description>Sonic Unleashed (USA) (Demo)</description>
 		<game_id>UP0177-NPUB90194_00-0000000000000001</game_id>
 		<rom name="V7ARTqYMf7x3RkN8eduYhCYSqgGGjjq4CXvVUF8iFpYFfCjDvPxHlIwMdpN7p5KeRl0YMOoyUIXIri5NetMUlNmpRAfHw5pP2rv5q.pkg" size="250182832" crc="f60b6189" md5="2d596401af86bd9a051656dbf04203d2" sha1="49f968ee70e2445dc2fbe2188e08c92ea5a54e88"/>
+	</game>
+	<game name="Sonic Unleashed (Europe) (Demo)" id="18670">
+		<description>Sonic Unleashed (Europe) (Demo)</description>
+		<game_id>EP0177-NPEB90132_00-SONICDEMO0000001</game_id>
+		<rom name="BXj1QJ3hfA79mTeJSipc8Ek1aYH59KKaNQ3npDRuHEsRjJ5PlPpqmVc1mmiRn501YEQulpBn0cWoYnWj3O5Jc1cGOPSmqfQQ0WPgV.pkg" size="250182832" crc="b0d5f98e" md5="1e526b49419c71bb03eb6153a93ccedb" sha1="7102f8797845d9b85a4a0ad950daed5d09f052c0"/>
 	</game>
 	<game name="Sonic World Adventure (Japan) (Demo)" id="18671">
 		<description>Sonic World Adventure (Japan) (Demo)</description>
@@ -30008,6 +30024,12 @@
 		<rom name="JP0106-NPJB00764_00-SOPHIE00MASTER00_bg_1_a97ae7bb72461c6da5cd80dd436a31e865878912.pkg" size="4085436304" crc="4d49eb1c" md5="b4bd197083083f1ec3999b449828b2b4" sha1="1fc6b81e8cd00f1b1dc0c074cca6de79f19459c5"/>
 		<rom name="JP0106-NPJB00764_00-SOPHIE00MASTER00.rap" size="16" crc="068eb727" md5="0384e7280471ecb20c32804ae786f01c" sha1="f66f6690e7f46c5a12d9724e9e8243ac8cdccaab" sha256="f28bb59cb5318c38e37a0a5d3f602cc52674d547dc0af11fb1414187cde68c0a"/>
 	</game>
+	<game name="Sorcery (Europe)" id="40915">
+		<description>Sorcery (Europe)</description>
+		<game_id>EP9000-NPEA00393_00-WORKSHOP1SORCERY</game_id>
+		<rom name="BCfXjeZuEQbdaewFIXvjRtgetFchOLcZNARqxwGQjXpoALINInGNQCckpwFEhBCKNPZguInhvOLibSkcrwuITZgjqyzCcSdLLACQR.pkg" size="6605541520" crc="28a5792c" md5="d34f31c3c8d639eb95dcd481f7c57d88" sha1="7708ab17eacd0f5f6f11f95f90675742f783edfb" sha256="1ef9e56e63b2f976f10271d61c161b2da069c4fe43f8f9f9a6a7bcb9059d1981"/>
+		<rom name="EP9000-NPEA00393_00-WORKSHOP1SORCERY.rap" size="16" crc="923bd8f1" md5="9a424dbfd34645f1394160cad4537e0f" sha1="9286000ebd4e5fac7c569661ba41185307ed1d0e" sha256="1f1578cd0551e6dc52274105cf78c10c5c35c412e777921921a9d9ec2ea3d99f"/>
+	</game>
 	<game name="Sorcery (Asia) (Demo)" id="07706">
 		<description>Sorcery (Asia) (Demo)</description>
 		<game_id>HP9000-NPHA80222_00-WORKSHOP2SORCERY</game_id>
@@ -30029,17 +30051,16 @@
 		<game_id>UP9000-NPUA70204_00-WORKSHOP2SORCERY</game_id>
 		<rom name="iYtyfpeaaHqsUepbMuSUeOpsHKyYmPSzwxdRRLTHJyEoBdirKkdinApazUzCZImYEAjjAQDyBBueRitKgaflSnJWCzXQOCuZpUZJL.pkg" size="625048592" crc="42f24c83" md5="78887c7c4a75edf3852cf7f8960289b5" sha1="7f1831a3ae0ba676759368cf9a23d50d33a22b2a"/>
 	</game>
-	<game name="Sorcery (Europe)" id="40915">
-		<description>Sorcery (Europe)</description>
-		<game_id>EP9000-NPEA00393_00-WORKSHOP1SORCERY</game_id>
-		<rom name="BCfXjeZuEQbdaewFIXvjRtgetFchOLcZNARqxwGQjXpoALINInGNQCckpwFEhBCKNPZguInhvOLibSkcrwuITZgjqyzCcSdLLACQR.pkg" size="6605541520" crc="28a5792c" md5="d34f31c3c8d639eb95dcd481f7c57d88" sha1="7708ab17eacd0f5f6f11f95f90675742f783edfb" sha256="1ef9e56e63b2f976f10271d61c161b2da069c4fe43f8f9f9a6a7bcb9059d1981"/>
-		<rom name="EP9000-NPEA00393_00-WORKSHOP1SORCERY.rap" size="16" crc="923bd8f1" md5="9a424dbfd34645f1394160cad4537e0f" sha1="9286000ebd4e5fac7c569661ba41185307ed1d0e" sha256="1f1578cd0551e6dc52274105cf78c10c5c35c412e777921921a9d9ec2ea3d99f"/>
-	</game>
 	<game name="Soul Cradle - Sekai o Kurau Mono (Japan) (PS2 Classics)" id="45947">
 		<description>Soul Cradle - Sekai o Kurau Mono (Japan) (PS2 Classics)</description>
 		<game_id>JP0404-NPJD00066_00-0000000000000000</game_id>
 		<rom name="JP0404-NPJD00066_00-0000000000000000.rap" size="16" crc="ad5ec926" md5="14a831061c169b66e8db8f39fb5f4a8a" sha1="b32b65591ae3c17ee38721c0d45b42d74eae22f4" sha256="d3d6d0903049d2f7e0d0a131195d2c61e63547ca752cda6ca560d1fba58109d6"/>
 		<rom name="tWKRWaPfoITihalOFHRopWhvnyqmPrSXYBRsHQSQAtZErvBoaSFYGgRAzNidtoGCMyQwZkOuoCAFvocfBfpnWljUEqJmhDjqeulMg.pkg" size="1564834032" crc="7e4cfa54" md5="9f803d6779b5ad90a3609f90d80cb7b8" sha1="dc3cd09e21d4ed1fa687fd2ea2d83ba71580dbcb" sha256="716f746bdb5ee627edc3eada62c546eab86a5185f12d457082485203f9a00ef5"/>
+	</game>
+	<game name="Soulcalibur - Lost Swords (Japan) (Beta)" id="45994">
+		<description>Soulcalibur - Lost Swords (Japan) (Beta)</description>
+		<game_id>JP0700-NPJB90617_00-SCLSBETATEST0001</game_id>
+		<rom name="eGHubytgumgfERdYRqXwmZsCxeDYkuPawXbFkishOTMupnKvlFVevCRsAvxfyaiklzGhybbBfUAudgimbwBfxzNGZTsrnKkWXHjXw.pkg" size="3503709120" crc="02d0a6f9" md5="66ddf03a9aceaf19bb988ea20f22bcb5" sha1="45745144648f83ba85027b1745551112a8898edc"/>
 	</game>
 	<game name="Soulcalibur - Lost Swords (Japan)" id="07713">
 		<description>Soulcalibur - Lost Swords (Japan)</description>
@@ -30052,11 +30073,6 @@
 		<game_id>UP0700-NPUB31345_00-SCLOSTSOULSGAME0</game_id>
 		<rom name="qjfEGSKWvjzZlSVQpSdZnYXnBPyHdFPsdUBBeTAlecCAYgCRtWnNLspSwfRzXTtw.pkg" size="3615480432" crc="203d27af" md5="4c486854826ff129817ac7958564a24a" sha1="7966d1aedff49fc767e27f89401ab8a56e624254"/>
 		<rom name="UP0700-NPUB31345_00-SCLOSTSOULSGAME0.rap" size="16" crc="ea96829a" md5="226119b1961ac8ea22d001fd7a852a51" sha1="ce345a56af9a1735f94bed9db4c38132c56ffaa7"/>
-	</game>
-	<game name="Soulcalibur - Lost Swords (Japan) (Beta)" id="45994">
-		<description>Soulcalibur - Lost Swords (Japan) (Beta)</description>
-		<game_id>JP0700-NPJB90617_00-SCLSBETATEST0001</game_id>
-		<rom name="eGHubytgumgfERdYRqXwmZsCxeDYkuPawXbFkishOTMupnKvlFVevCRsAvxfyaiklzGhybbBfUAudgimbwBfxzNGZTsrnKkWXHjXw.pkg" size="3503709120" crc="02d0a6f9" md5="66ddf03a9aceaf19bb988ea20f22bcb5" sha1="45745144648f83ba85027b1745551112a8898edc"/>
 	</game>
 	<game name="Soulcalibur - Lost Swords (Europe)" id="13694">
 		<description>Soulcalibur - Lost Swords (Europe)</description>
@@ -30097,12 +30113,6 @@
 		<game_id>JP0700-NPJB90130_00-SC4PLAYDEMOJPVER</game_id>
 		<rom name="NebkCprgF08vv34Pof9yie0bSgrkCSV9NlCsnj02O2YRwWVQ7JlStsswAWQEyMIyJpsLaRRguYoeIyewi56jg7B5EhO3mvBjGRkh4.pkg" size="921509504" crc="c2274f4b" md5="77e3a580a9b7dab4203d3ae39a25e8c7" sha1="7cd8b5978561ee074992593dcab44990a691dc81"/>
 	</game>
-	<game name="Soulcalibur V (Europe)" id="13695">
-		<description>Soulcalibur V (Europe)</description>
-		<game_id>EP0700-NPEB01363_00-SC5HDDBOOTGAME01</game_id>
-		<rom name="crSlKjETHJffcMCrwarjwOFMbXRBOCLaHJzpEbwJAaDeLDuNKnMGDDwnKvhJgTPH.pkg" size="7310645600" crc="046a45fb" md5="1a482038a2375ec0ec6bfa465c7b1fa2" sha1="d9db3c05537295f5ad4ad3d03c021c5f76355a77"/>
-		<rom name="EP0700-NPEB01363_00-SC5HDDBOOTGAME01.rap" size="16" crc="261efe4c" md5="5eff1c19dfdf6d28558b590166ac3095" sha1="a53e2149a23c2ab80ed5ac02be92643214a61e40"/>
-	</game>
 	<game name="Soulcalibur V (Japan)" id="34147">
 		<description>Soulcalibur V (Japan)</description>
 		<game_id>JP0700-NPJB00381_00-SC5HDDBOOTGAME01</game_id>
@@ -30115,10 +30125,11 @@
 		<rom name="psTujItCGWWnJFdsdxSSCMNriWFNkzGfLXoWIxfJZfmOMVKkgaEFdxmrUoJqmcfd.pkg" size="7310645856" crc="efe10a2e" md5="7015d1e056f98a7573ed9ce15eb443cd" sha1="f7a7d318a2c2944ddc228ce4a19d44c088e819a9" sha256="48663c0e5c450ff7f7ad005f1b71634c12d08231c30cbfa8813efc301b48fb2d" status="verified"/>
 		<rom name="UP0700-NPUB31195_00-SC5HDDBOOTGAME01.rap" size="16" crc="c3337741" md5="91d3a7a6b12820fbe962c2b26cd04305" sha1="724dbd18761548cd02f4e7ab7989b7551621069d" sha256="f5f66e1a9afc3b153bbbe4cf23c78bc82d1eb2389604998184f99728fc3fada8" status="verified"/>
 	</game>
-	<game name="Sound Shapes (Asia)" id="34128">
-		<description>Sound Shapes (Asia)</description>
-		<game_id>HP9000-NPHA80210_00-SOUNDSHAPES00000</game_id>
-		<rom name="xJRabpwpATbTbdJfqWFRzkZVGOMmLJrGNSFNaPbBhFAjHdJjYmTtKixQBrLtntaIADLCROGRtEnZtoWRyzRcfwkjnogoCFjdVKqtW.pkg" size="1089467952" crc="362bdfc6" md5="289848a8241746bd99fa658a81f4e228" sha1="375ad15722762cf68d572d3a1c65316d4f1a0532" sha256="61a028257e21737ca77e0d9d74cb37d47f944ddfd292d93ddb1e815d3151b6ad"/>
+	<game name="Soulcalibur V (Europe)" id="13695">
+		<description>Soulcalibur V (Europe)</description>
+		<game_id>EP0700-NPEB01363_00-SC5HDDBOOTGAME01</game_id>
+		<rom name="crSlKjETHJffcMCrwarjwOFMbXRBOCLaHJzpEbwJAaDeLDuNKnMGDDwnKvhJgTPH.pkg" size="7310645600" crc="046a45fb" md5="1a482038a2375ec0ec6bfa465c7b1fa2" sha1="d9db3c05537295f5ad4ad3d03c021c5f76355a77"/>
+		<rom name="EP0700-NPEB01363_00-SC5HDDBOOTGAME01.rap" size="16" crc="261efe4c" md5="5eff1c19dfdf6d28558b590166ac3095" sha1="a53e2149a23c2ab80ed5ac02be92643214a61e40"/>
 	</game>
 	<game name="Sound Shapes (USA) (Demo)" id="18673">
 		<description>Sound Shapes (USA) (Demo)</description>
@@ -30130,6 +30141,11 @@
 		<game_id>JP9000-NPJA00081_00-SOUNDSHAPES00000</game_id>
 		<rom name="PyOiHlOILIwOezLZzfeRfqLjWDaSERatYhsiuaZLieCZhcGZykpOxMzlMaCBXvvayyCuMHXkUbAHRqQbrBWICveolVsiRbJFYeIEt.pkg" size="1080885760" crc="e87d235f" md5="2f6502b7b06ad2d2657b3bfb8dab5850" sha1="e90ee92c4805ac336440258a0c06897efb6a914e"/>
 		<rom name="JP9000-NPJA00081_00-SOUNDSHAPES00000.rap" size="16" crc="6bfbf18b" md5="d73677e9ca95f247982e0cf3f4b17273" sha1="38737ef0e5195103f759a14addb1d00feb1fd333" sha256="8e27776b72f84d550747ef5c5d2bbea37c54a1820c9274a083a490daa5cc9145"/>
+	</game>
+	<game name="Sound Shapes (Asia)" id="34128">
+		<description>Sound Shapes (Asia)</description>
+		<game_id>HP9000-NPHA80210_00-SOUNDSHAPES00000</game_id>
+		<rom name="xJRabpwpATbTbdJfqWFRzkZVGOMmLJrGNSFNaPbBhFAjHdJjYmTtKixQBrLtntaIADLCROGRtEnZtoWRyzRcfwkjnogoCFjdVKqtW.pkg" size="1089467952" crc="362bdfc6" md5="289848a8241746bd99fa658a81f4e228" sha1="375ad15722762cf68d572d3a1c65316d4f1a0532" sha256="61a028257e21737ca77e0d9d74cb37d47f944ddfd292d93ddb1e815d3151b6ad"/>
 	</game>
 	<game name="Sound Shapes (Asia) (Demo)" id="07790">
 		<description>Sound Shapes (Asia) (Demo)</description>
@@ -30229,11 +30245,6 @@
 		<game_id>UP0082-NPUB90462_00-INFINITYDEMOGAME</game_id>
 		<rom name="RBmumtAH6hJoEUKWFicFreAmMOx2coNhBJmll3AIfKmaKvPrAT2HndiqDhe6GgAJHR7WvlLhVb71fh3OWaScC2sCAr6OGYqlJU4yi.pkg" size="62296720" crc="4c2137e3" md5="ab31359a5f4893449f35268b1ae8c078" sha1="2a17ccf913320ae86e0920f46038b3a8fa4a2bcc"/>
 	</game>
-	<game name="Space Invaders - Infinity Gene (Europe) (Demo)" id="34312">
-		<description>Space Invaders - Infinity Gene (Europe) (Demo)</description>
-		<game_id>EP0082-NPEB90259_00-INFINITYDEMOGAME</game_id>
-		<rom name="clsaXi2qFKsDYDduOASAm0h5PJ0YhGjwKgOcWhHK0JixISb1YO7JSm1w1ixTGAQb.pkg" size="62296720" crc="9429b295" md5="911c321b071b7fd5b5c8c096146e982c" sha1="7b382d260b1ac0987988ed14fc19ece6afeabe59" sha256="d6e3c32f3f61cc3d7c4daabe4d1fd174aed30d35711f18c48d1724900555862c"/>
-	</game>
 	<game name="Space Invaders - Infinity Gene (Europe)" id="40866">
 		<description>Space Invaders - Infinity Gene (Europe)</description>
 		<game_id>EP0082-NPEB00254_00-INFINITYMAINGAME</game_id>
@@ -30245,6 +30256,11 @@
 		<game_id>JP0082-NPJB00064_00-INFINITYMAINGAME</game_id>
 		<rom name="JP0082-NPJB00064_00-INFINITYMAINGAME.rap" size="16" crc="f1ec85d9" md5="78ddf0c505606aca8814f84ed7e47570" sha1="55d435ae96431e5239bfaafe071e50caaf553c0f" sha256="6a5b2489f008db8e419a7ba54295cd1d98760441b350f28633b317f25f5db29b"/>
 		<rom name="jKTiwCo0Tl4LxgjO3Ho42MdH9D6EbnqTouduGgNvprKstjNcie9gTVRju7Nj6NJYoUxq5IKN7eDYC1XEW8mOvA44m4jKs3bIndtX7.pkg" size="95401472" crc="82d3d213" md5="a2b1ae05a7ed8d44895f9892cad8d59b" sha1="25ff2e5b2f12f831ff6c6590bfc10c25959343ac" sha256="3d0964091dfd1bf9bc34f0923e0a27ae35c4c29b66c90874ca702232f8de21d7"/>
+	</game>
+	<game name="Space Invaders - Infinity Gene (Europe) (Demo)" id="34312">
+		<description>Space Invaders - Infinity Gene (Europe) (Demo)</description>
+		<game_id>EP0082-NPEB90259_00-INFINITYDEMOGAME</game_id>
+		<rom name="clsaXi2qFKsDYDduOASAm0h5PJ0YhGjwKgOcWhHK0JixISb1YO7JSm1w1ixTGAQb.pkg" size="62296720" crc="9429b295" md5="911c321b071b7fd5b5c8c096146e982c" sha1="7b382d260b1ac0987988ed14fc19ece6afeabe59" sha256="d6e3c32f3f61cc3d7c4daabe4d1fd174aed30d35711f18c48d1724900555862c"/>
 	</game>
 	<game name="Space Invaders Infinity Gene (Asia) (Demo)" id="07845">
 		<description>Space Invaders Infinity Gene (Asia) (Demo)</description>
@@ -30371,17 +30387,17 @@
 		<rom name="NKFQrDOahDCVlsWyaYwbqsKSUvpzkiooQHfgpHEhJXISexfSgoKCgZOwkTxVStjO.pkg" size="833303184" crc="f503e6c2" md5="f7a0da2d1b961b8a1d1e466a9d5cf308" sha1="12bb8aae683b6d9a128e7d125c2dc691f4800191"/>
 		<rom name="EP2038-NPEB00469_00-SPELUNKERHDPS301.rap" size="16" crc="c8f262bf" md5="67c4e23f94781c593a5f8a142c5b0f58" sha1="feaaa80d056b2311daaa9468d5828af0bbba8827"/>
 	</game>
+	<game name="Spelunker HD (Japan) (Demo)" id="18674">
+		<description>Spelunker HD (Japan) (Demo)</description>
+		<game_id>JP0045-NPJB90576_00-00000MINSPETRIAL</game_id>
+		<rom name="lFAYFAJLMgLNuvfDaaEcjCrsWJMbBllaXqBfyvCuUKBCeTLjndkPbCcfzvKnbnnGYcUySVRNulgwNiXmriBUpFGICXVrEprEGXheU.pkg" size="359131728" crc="1df30b3f" md5="b9f396429850b0992619e48197183ede" sha1="484773fea067224dd5ab36dd00402a09ef548b3c"/>
+	</game>
 	<game name="Spelunker HD (Japan) (PS3 v3.60)" id="34138">
 		<category>Games</category>
 		<description>Spelunker HD (Japan) (PS3 v3.60)</description>
 		<game_id>JP0045-NPJB00187_00-000SPETOZAIGAMES</game_id>
 		<rom name="TsUJcnelJafLjDbnrJeQebNAUHjEJXDiJjagyDzMUvcYEGcqfvuHeUulrDFVYOanCXdkFufkHJROkMxzIiONDrArfVzRCNhzliFws.pkg" size="837318288" crc="04548147" md5="eb2b239d00738593766f4f2bff809ca7" sha1="a50d94434a6b3cd4b0ea813b7385581f2fce9e53" sha256="52af5521aada6d2c3bfebf510efb986d6ffcd001f9d1d815f308f15493134bca"/>
 		<rom name="JP0045-NPJB00187_00-000SPETOZAIGAMES.rap" size="16" crc="c8ad0ffd" md5="e1d405004d175f21352f6fe51082e81b" sha1="241d909ab222c870c1067ee226e755bb2bc54d03" sha256="d84c9d682d61b1287742db88462cc76681dcd319d2dc8a1494aec88afee9f6a0"/>
-	</game>
-	<game name="Spelunker HD (Japan) (Demo)" id="18674">
-		<description>Spelunker HD (Japan) (Demo)</description>
-		<game_id>JP0045-NPJB90576_00-00000MINSPETRIAL</game_id>
-		<rom name="lFAYFAJLMgLNuvfDaaEcjCrsWJMbBllaXqBfyvCuUKBCeTLjndkPbCcfzvKnbnnGYcUySVRNulgwNiXmriBUpFGICXVrEprEGXheU.pkg" size="359131728" crc="1df30b3f" md5="b9f396429850b0992619e48197183ede" sha1="484773fea067224dd5ab36dd00402a09ef548b3c"/>
 	</game>
 	<game name="Spelunky (Europe) (Trial)" id="07901">
 		<description>Spelunky (Europe) (Trial)</description>
@@ -30428,11 +30444,6 @@
 		<rom name="EP0001-NPEB00788_00-SCDA1BLURAYPKG01.rap" size="16" crc="ba435b6d" md5="a4cfec0b82f7686cc0b5253c789f08ef" sha1="d28d6bbc5bfacc4114c2cf7d8102d8aaaa4b2461"/>
 		<rom name="fkGaxUXXGbshFvsckNnYMMrGxRPvJDabJcLJLWYXAxKNMqyssXIdniYVqnRSpLwT.pkg" size="6682780800" crc="24c667fa" md5="0199597d09f6326c5edf1b17043dcd85" sha1="7ed5155db85f6f777890f63f5a22b976bfcd42f7"/>
 	</game>
-	<game name="Split-Second (USA) (Demo)" id="18676">
-		<description>Split-Second (USA) (Demo)</description>
-		<game_id>UP1082-NPUB90245_00-SPLITSECONDDEMON</game_id>
-		<rom name="StMWqXV8YQgFC3jgo5LksP8xCRScju0nVCs1x6Eclh7oeovqqYD6puBNTxIKnNsykxOWgCP4MYadv4RSkXfNI4Mjq4BR3teQCF7BX.pkg" size="788427920" crc="d1e9a1a2" md5="84054516e7e8c103625667a0ea7ae476" sha1="0d1fd55b5899def74345b0887fb021b633d396e6"/>
-	</game>
 	<game name="Split-Second (USA)" id="07920">
 		<description>Split-Second (USA)</description>
 		<game_id>UP1082-NPUB30450_00-SPLITSECONDPS301</game_id>
@@ -30444,6 +30455,16 @@
 		<game_id>UP1082-NPUB90491_00-SPLITSECONDDEM21</game_id>
 		<rom name="o9f6YhTfUhA2SdpCI1GmVqgXGCfJY5XxoJ0GyPUwTitli9GsbPURfI5iwlEokypFhATao06tHA9Tbccac8fNWhIr28huwqsWn6KCs.pkg" size="1080863632" crc="03bc2cde" md5="7256dcd57777789b2085e5c7c3b892fc" sha1="84e31250ca44bad94549fccba759d96ffc507e15"/>
 	</game>
+	<game name="Split-Second (USA) (Demo)" id="18676">
+		<description>Split-Second (USA) (Demo)</description>
+		<game_id>UP1082-NPUB90245_00-SPLITSECONDDEMON</game_id>
+		<rom name="StMWqXV8YQgFC3jgo5LksP8xCRScju0nVCs1x6Eclh7oeovqqYD6puBNTxIKnNsykxOWgCP4MYadv4RSkXfNI4Mjq4BR3teQCF7BX.pkg" size="788427920" crc="d1e9a1a2" md5="84054516e7e8c103625667a0ea7ae476" sha1="0d1fd55b5899def74345b0887fb021b633d396e6"/>
+	</game>
+	<game name="Split-Second - Velocity (Europe) (Demo)" id="18675">
+		<description>Split-Second - Velocity (Europe) (Demo)</description>
+		<game_id>EP1006-NPEB90236_00-SPLITSECONDDEMOP</game_id>
+		<rom name="VPJY5KsSxshsxX7iM3UqHpe0arAmMYvgxRQlM6lTXWE84dCjg7SEfYv9xvwvN5KyIhbY9t0lFsxD1Fsw8tSLCOqJ3eRYU20OTchOV.pkg" size="788429040" crc="39b810c2" md5="847c4ea50b1fa65a4454aa7e424cd0bc" sha1="57d2649d99d4ef6cb85952cd30e462fc0ebebd34"/>
+	</game>
 	<game name="Split-Second - Velocity (Europe)" id="28964">
 		<description>Split-Second - Velocity (Europe)</description>
 		<game_id>EP1006-NPEB00506_00-SPLITDIGITALPALE</game_id>
@@ -30454,11 +30475,6 @@
 		<description>Split-Second - Velocity (Europe) (Multiplayer Demo)</description>
 		<game_id>EP1006-NPEB90281_00-SPLITSECONDDEM21</game_id>
 		<rom name="oUeUXIr8aMgqhjxsrWaFaNGRnDIJfGXo8QNS8NinCRKU3q9jlfUbEtHvAGIQNSbo.pkg" size="1080864064" crc="02fa44bd" md5="f87c3ddeeb20c6728636c629c70105cc" sha1="fbe498d15f3653eed61adaa38865d509b2269bea" sha256="d3ce31d7c01f7b2e7eb33412f84d9ef1516a96b7193fb9fbc349c01a755c83ab"/>
-	</game>
-	<game name="Split-Second - Velocity (Europe) (Demo)" id="18675">
-		<description>Split-Second - Velocity (Europe) (Demo)</description>
-		<game_id>EP1006-NPEB90236_00-SPLITSECONDDEMOP</game_id>
-		<rom name="VPJY5KsSxshsxX7iM3UqHpe0arAmMYvgxRQlM6lTXWE84dCjg7SEfYv9xvwvN5KyIhbY9t0lFsxD1Fsw8tSLCOqJ3eRYU20OTchOV.pkg" size="788429040" crc="39b810c2" md5="847c4ea50b1fa65a4454aa7e424cd0bc" sha1="57d2649d99d4ef6cb85952cd30e462fc0ebebd34"/>
 	</game>
 	<game name="SpongeBob SquarePants - Plankton's Robotic Revenge (USA)" id="07932">
 		<description>SpongeBob SquarePants - Plankton's Robotic Revenge (USA)</description>
@@ -30477,6 +30493,12 @@
 		<game_id>UP9000-NPUD20904_00-0000000000000000</game_id>
 		<rom name="pKutNNkEKqnsSjCFWBtxamWWZRVvyWeVaAdbgfKDVQyTvnKoKDtijcemEWByNGeJVMTtQlTSHLFGzaivaponZOpfMPOGuCoyrvbCe.pkg" size="1275510960" crc="09cac155" md5="df58fd0d6c9263ded8b8cf3df2339e98" sha1="79eb5f109c54304142b04fa8f5e69dd08a11b8c2"/>
 		<rom name="UP9000-NPUD20904_00-0000000000000000.rap" size="16" crc="e234c352" md5="32ac0093517d41edb0e3970e6534b167" sha1="f082b4a62849ea1cae30ff00ec01413c1b52bbc7"/>
+	</game>
+	<game name="Sports Champions (Europe)" id="13698">
+		<description>Sports Champions (Europe)</description>
+		<game_id>EP9000-NPEA00370_00-GSPORTSCHA000001</game_id>
+		<rom name="HKKNaMXjMmIZQcJzOguUpNnHGArCnsLKTcAdfiLSWJBUkIPliZESFHNiQGFtxGUs.pkg" size="12551315824" crc="06ed6b59" md5="10cae013da0fb7ab7f3f384447be3e98" sha1="ef2c5126a0cfe5b0cd2e59fbd25d0bc73e874e56"/>
+		<rom name="EP9000-NPEA00370_00-GSPORTSCHA000001.rap" size="16" crc="10e50a7c" md5="5fe725062790972dfa1074c7abcd4064" sha1="10186ea7b4ce9699858ff717372c98ef6ce159c7"/>
 	</game>
 	<game name="Sports Champions (Asia) (Demo)" id="07934">
 		<description>Sports Champions (Asia) (Demo)</description>
@@ -30504,17 +30526,6 @@
 		<game_id>UP9000-NPUA70101_00-SC00000000000001</game_id>
 		<rom name="LM7XQCchDq6itbkdLkmCALrNs31mHX4vgL6w3BGfHrHpqSwxen2rxqsReiSc1BiOtGTCYPbdNnwntWBiG0qxPtTlwxUcg2H8b3HcI.pkg" size="1062822960" crc="78aacf0d" md5="41b6d1cd8018f8d5da2620fe00150d79" sha1="3d155678cfc38f1db357374b4ec66649c5e16766"/>
 	</game>
-	<game name="Sports Champions (Europe)" id="13698">
-		<description>Sports Champions (Europe)</description>
-		<game_id>EP9000-NPEA00370_00-GSPORTSCHA000001</game_id>
-		<rom name="HKKNaMXjMmIZQcJzOguUpNnHGArCnsLKTcAdfiLSWJBUkIPliZESFHNiQGFtxGUs.pkg" size="12551315824" crc="06ed6b59" md5="10cae013da0fb7ab7f3f384447be3e98" sha1="ef2c5126a0cfe5b0cd2e59fbd25d0bc73e874e56"/>
-		<rom name="EP9000-NPEA00370_00-GSPORTSCHA000001.rap" size="16" crc="10e50a7c" md5="5fe725062790972dfa1074c7abcd4064" sha1="10186ea7b4ce9699858ff717372c98ef6ce159c7"/>
-	</game>
-	<game name="Sports Champions 2 (Japan) (Demo)" id="18677">
-		<description>Sports Champions 2 (Japan) (Demo)</description>
-		<game_id>JP9000-NPJA90245_00-SC2000000000DEMO</game_id>
-		<rom name="pEHMLhioWTCIWqmkmFBCRxoDGtAUxTJMUQpnEPtTJVjMFXWfYCsFIptiotllXPrtgLIcBNZyeuOKulniQnohwzpAnyNacOtnpgPHd.pkg" size="1404994432" crc="58836309" md5="5c833541e2fc404c38755e5443cf0a5a" sha1="fdd06bad75360c326052928cda6d7caa59cbd67b"/>
-	</game>
 	<game name="Sports Champions 2 (Asia) (Demo)" id="07944">
 		<description>Sports Champions 2 (Asia) (Demo)</description>
 		<game_id>HP9000-NPHA80229_00-SC2000000000DEMO</game_id>
@@ -30540,6 +30551,11 @@
 		<game_id>UP9000-NPUA80802_00-SC20000000003126</game_id>
 		<rom name="iykriDccWEkXeGpkcBFMHJKBYSJQgUROcboGVHRHsgdavYspcrXhXqxemIKACaLscajRasJqCgEkintyGQNXfVbhvYmsxgjCKlKFd.pkg" size="3741072016" crc="bc271911" md5="72f98e78cc5d3a969e4afee8f08e9a3a" sha1="618473033ce703327210bc18f819d26ad4d9d9cd"/>
 		<rom name="UP9000-NPUA80802_00-SC20000000003126.rap" size="16" crc="390fd34b" md5="0b7d833e9fb8abfd8183855c5ab614a7" sha1="0913e9d8295b499537ceb0f01a56063386a1bf23" sha256="cc6e03a0a145edffeae93431a374852f6762b96fe89a6d21ccb44d5b94d05fd3"/>
+	</game>
+	<game name="Sports Champions 2 (Japan) (Demo)" id="18677">
+		<description>Sports Champions 2 (Japan) (Demo)</description>
+		<game_id>JP9000-NPJA90245_00-SC2000000000DEMO</game_id>
+		<rom name="pEHMLhioWTCIWqmkmFBCRxoDGtAUxTJMUQpnEPtTJVjMFXWfYCsFIptiotllXPrtgLIcBNZyeuOKulniQnohwzpAnyNacOtnpgPHd.pkg" size="1404994432" crc="58836309" md5="5c833541e2fc404c38755e5443cf0a5a" sha1="fdd06bad75360c326052928cda6d7caa59cbd67b"/>
 	</game>
 	<game name="SportsFriends (Europe)" id="07955">
 		<description>SportsFriends (Europe)</description>
@@ -30591,6 +30607,16 @@
 		<rom name="JP0006-NPJB00240_00-SSXJPHDD00000000.rap" size="16" crc="0a2c51e5" md5="693e84dd965e9751ec15c3f2a64a0513" sha1="56cb25b14843e513bfccc7cc92662a65982d7e74"/>
 		<rom name="MsYiGvHusBCJRBqOjpyYcchzPnUAVlOQpWjtPSIOPGmqbdnreVDalWbNGcgHjliqYWtnovKsXYZOJYmiEyDgqZrTsAfiYEjbwbCnA.pkg" size="4172929920" crc="7110930e" md5="7c4546b4507da68fc34618aa10949339" sha1="89b6f7fe47df8a6045b5cfdd25794980f5ef11c1"/>
 	</game>
+	<game name="Stacking (Europe) (Trial)" id="07963">
+		<description>Stacking (Europe) (Trial)</description>
+		<game_id>EP1005-NPEB00283_00-STACKINGGAME0000</game_id>
+		<rom name="OssnptvwglwHpVRYOeuDdERPKPKyRXOdPzcitsRUvBaoXAblwqDQNPAayMJMqdwX.pkg" size="1048153120" crc="4d09b75e" md5="086b2ab48e87fab29664bcfa012cb328" sha1="572637041cffac37fc4f0a921d4f6f0a5891a0d6"/>
+	</game>
+	<game name="Stacking (USA) (Trial)" id="07966">
+		<description>Stacking (USA) (Trial)</description>
+		<game_id>UP1005-NPUB30290_00-STACKINGGAME0000</game_id>
+		<rom name="IwgMqfuhkTFTYFcfHlpnGHHxPUbzGycwxqIhNstnFbzPZTTRixGLPSIIBtmqfFibdcrqYVqeUeYgoaRnXjyoYsuHgcukVrWhlZNaC.pkg" size="1048153120" crc="f5a1b98a" md5="304924603f51f422f7efe62a3ce4044a" sha1="8aa357eb38e6d4b07ab5a16af529c5edc8e6dcd0"/>
+	</game>
 	<game name="Stacking (Asia) (Trial)" id="13701">
 		<description>Stacking (Asia) (Trial)</description>
 		<game_id>HP0646-NPHB00312_00-STACKINGGAME0000</game_id>
@@ -30607,16 +30633,6 @@
 		<game_id>UP1005-NPUB30290_00-STACKINGUNLOCK00</game_id>
 		<rom name="mAhWSmgDUtazSLJDFiRgQVdxmuhREwsILgnpTrLBbZBOqqxKcvfsKbDLzxcKLSiSowpnzyigrAUeKyLjvKWnjddjUGIfwYzlzlcuY.pkg" size="6080" crc="c035e641" md5="41621d4b0b7c3cda5237cba5fa96a16b" sha1="88c904db3c9e885a4f5322abff49b68661aa40bb"/>
 		<rom name="UP1005-NPUB30290_00-STACKINGUNLOCK00.rap" size="16" crc="1453c29f" md5="efcfd9d795ff532e29015e9e4e5a5d2b" sha1="54f87b186251f8ccfc943204721469757b4fb91b"/>
-	</game>
-	<game name="Stacking (Europe) (Trial)" id="07963">
-		<description>Stacking (Europe) (Trial)</description>
-		<game_id>EP1005-NPEB00283_00-STACKINGGAME0000</game_id>
-		<rom name="OssnptvwglwHpVRYOeuDdERPKPKyRXOdPzcitsRUvBaoXAblwqDQNPAayMJMqdwX.pkg" size="1048153120" crc="4d09b75e" md5="086b2ab48e87fab29664bcfa012cb328" sha1="572637041cffac37fc4f0a921d4f6f0a5891a0d6"/>
-	</game>
-	<game name="Stacking (USA) (Trial)" id="07966">
-		<description>Stacking (USA) (Trial)</description>
-		<game_id>UP1005-NPUB30290_00-STACKINGGAME0000</game_id>
-		<rom name="IwgMqfuhkTFTYFcfHlpnGHHxPUbzGycwxqIhNstnFbzPZTTRixGLPSIIBtmqfFibdcrqYVqeUeYgoaRnXjyoYsuHgcukVrWhlZNaC.pkg" size="1048153120" crc="f5a1b98a" md5="304924603f51f422f7efe62a3ce4044a" sha1="8aa357eb38e6d4b07ab5a16af529c5edc8e6dcd0"/>
 	</game>
 	<game name="Stan (Europe)" id="34694">
 		<description>Stan (Europe)</description>
@@ -30636,6 +30652,12 @@
 		<rom name="JP0082-NPJB00727_00-STAROCEAN5PS3001.rap" size="16" crc="24473eba" md5="2cfd430ac5297bd76a3f172da473123f" sha1="3a5271415a90953c3034d6c7dfb7f2b119ea539d"/>
 		<rom name="JP0082-NPJB00727_00-STAROCEAN5PS3001_bg_1_c6f98b2d51a6a048eebce48a639c112ec7b9e411.pkg" size="12025027536" crc="9fa4c72d" md5="053048e024001da8702b4c2c3b281a4f" sha1="38109c749161adbceb50d11271fefb48ad917772"/>
 	</game>
+	<game name="Star Raiders (USA) (Unlock Key)" id="19274">
+		<description>Star Raiders (USA) (Unlock Key)</description>
+		<game_id>UP0182-NPUB30420_00-STARRAIDERS00002</game_id>
+		<rom name="bkXfYUcfqSFgNpvvHKyOlCjkXYhMUAEAowwEPRuzSOxqxSFERAPwNwIVvAPrNNNBrQvtVvdMvntTfKejAtycAatSMSrsUvJFbyvwp.pkg" size="6080" crc="e243130c" md5="f27050a5ac34cb2cad20f9e41d8770e8" sha1="f00ed939979dfb91d314626ec6788c5d719da696"/>
+		<rom name="UP0182-NPUB30420_00-STARRAIDERS00002.rap" size="16" crc="50db90c0" md5="ff11f6da8999744e4047bd5ec315c855" sha1="ab3e028cb5d66dd1f081a6736b8e577742c60ca6"/>
+	</game>
 	<game name="Star Raiders (Europe) (Trial)" id="07969">
 		<description>Star Raiders (Europe) (Trial)</description>
 		<game_id>EP0182-NPEB00531_00-STARRAIDERS00001</game_id>
@@ -30652,16 +30674,27 @@
 		<rom name="hRpxUTzELQPoLpclwRVTUBeWioamylGgzEZpTxKxVwYnierthvMLvoJTTbsxPgEz.pkg" size="6080" crc="a47842b9" md5="8a0b546c51f8092f72528648c0675a40" sha1="ef20014add29d78f4d2b80e2945fdb9926e8e77e" sha256="d1417fc9c3fc387611144e61f0cbd5ba6f33eba719c2d7b178f881aca30c2a30"/>
 		<rom name="EP0182-NPEB00531_00-STARRAIDERS00002.rap" size="16" crc="98e4143f" md5="900c50da1816e42414af135256860f8d" sha1="743baa821df81eb8b02cdd18df00c4bfe3b4629e" sha256="3963f8ff5f93fa4579900c6b31965cbb9eb8c8b1a908fa865aa24801901b50dd"/>
 	</game>
-	<game name="Star Raiders (USA) (Unlock Key)" id="19274">
-		<description>Star Raiders (USA) (Unlock Key)</description>
-		<game_id>UP0182-NPUB30420_00-STARRAIDERS00002</game_id>
-		<rom name="bkXfYUcfqSFgNpvvHKyOlCjkXYhMUAEAowwEPRuzSOxqxSFERAPwNwIVvAPrNNNBrQvtVvdMvntTfKejAtycAatSMSrsUvJFbyvwp.pkg" size="6080" crc="e243130c" md5="f27050a5ac34cb2cad20f9e41d8770e8" sha1="f00ed939979dfb91d314626ec6788c5d719da696"/>
-		<rom name="UP0182-NPUB30420_00-STARRAIDERS00002.rap" size="16" crc="50db90c0" md5="ff11f6da8999744e4047bd5ec315c855" sha1="ab3e028cb5d66dd1f081a6736b8e577742c60ca6"/>
+	<game name="Star Strike HD (Asia)" id="36211">
+		<category>Games</category>
+		<description>Star Strike HD (Asia)</description>
+		<game_id>HP9000-NPHA80003_00-STARSTRKFULL0001</game_id>
+		<rom name="q4N4flmupeJAsGD71q6ojg4kldhc9QnMcJ8o46R53Ivb55lAW658epHumI4AioI66mLNRntroG37kDKOpjQAqUe3vtCoQbcXwbFk9.pkg" size="305120544" crc="9c638a08" md5="3b6d554aa6e7a9e9ff9927f30e54dbc1" sha1="d8fe1a6f4fe552b4ab1b6e992feeb1add4f55f0f" sha256="90781288053a8bd671f7dbb8308b452872d941166c26d1451f02229768fcb805"/>
+		<rom name="HP9000-NPHA80003_00-STARSTRKFULL0001.rap" size="16" crc="d129dba4" md5="fcce8454ae23dc038b23bd484b73ff8c" sha1="f86c1b6dc2c46c5b92339290fd1a00f2218868e5" sha256="9bc26c190f8d11c1dbf5643a37cae0ce48f4e6a57eab554cc9954ad0cfd478ab"/>
 	</game>
 	<game name="Star Strike HD (Asia) (Demo)" id="24602">
 		<description>Star Strike HD (Asia) (Demo)</description>
 		<game_id>HP9000-NPHA80003_00-STARSTRKFULL0001</game_id>
 		<rom name="7gPImRSmxWdtQROTHlS9OvGGNiY63L21vHNiW32BQrlwne9KmIWlGs8RTpkdADkl5QAnsD6BypKD4RjvGONHmdfncOBEWhcKQVdxp.pkg" size="341362352" crc="497bd571" md5="468fc0bbf7a2db9639a2348135610fe5" sha1="0e88e63ba1cfe84e4a0e38788d1b39255848d756"/>
+	</game>
+	<game name="Star Strike HD (Asia) (Trial)" id="07972">
+		<description>Star Strike HD (Asia) (Trial)</description>
+		<game_id>HP9000-NPHA80003_00-STARSTRKDEMO0001</game_id>
+		<rom name="HwBymacTP842uyeNJf4es6DJqICpKaTSNscr3CGqThJXhL9dF0cIVA1UwjgmG8sTj25gHb9K2xAX83CIQn9Aq2aUUjxl5BHcg9ekM.pkg" size="305120208" crc="97501ae9" md5="c080577991694bb0be536f070bf57375" sha1="65544d228a2dd0023dc99d6935179748a4dad2d5"/>
+	</game>
+	<game name="Star Strike HD (Japan)" id="07974">
+		<description>Star Strike HD (Japan)</description>
+		<game_id>JP9000-NPJA00012_00-STARSTRKDEMO0001</game_id>
+		<rom name="QynHayxcBZHczAXtxWuWgzzcUepoOaOGcCjEgfXBMKdOAhMLEgpMTgxIJHNaQazQQHnfKaeAxckskqeAqQSSImyZcJsMUceqWxBzy.pkg" size="287247168" crc="75a1f3e3" md5="cf59db2c0b9518539ac86e99b6a5e695" sha1="f20b6bf99f3b7a20139b2bfb115ac2144e8b6524"/>
 	</game>
 	<game name="Star Strike HD (Japan) (v1.00) (Demo)" id="18681">
 		<description>Star Strike HD (Japan) (v1.00) (Demo)</description>
@@ -30673,23 +30706,6 @@
 		<game_id>JP9000-NPJA00012_00-STARSTRKFULL0001</game_id>
 		<rom name="c84sj7BJA3H8ePb4HCxsavmtKulpWVWrnVqkSBMT2uRNXVnqS5aULC8O3coVKIlbCmUmeCND5fQEG4q5hssuQr9et4MkqhnEkr5WE.pkg" size="313382064" crc="b686cd1b" md5="5bdf222793994c5736556535f6ae1bc8" sha1="55d0376122e2ebc5be8f00e5fd95dee70422a4a5"/>
 		<rom name="JP9000-NPJA00012_00-STARSTRKFULL0001.rap" size="16" crc="0dcb9ee4" md5="32d2fbe94fad96dae89072c2334f9a02" sha1="62619055f49965b521c16b1b90cefdf6abb08d8e"/>
-	</game>
-	<game name="Star Strike HD (Asia)" id="36211">
-		<category>Games</category>
-		<description>Star Strike HD (Asia)</description>
-		<game_id>HP9000-NPHA80003_00-STARSTRKFULL0001</game_id>
-		<rom name="q4N4flmupeJAsGD71q6ojg4kldhc9QnMcJ8o46R53Ivb55lAW658epHumI4AioI66mLNRntroG37kDKOpjQAqUe3vtCoQbcXwbFk9.pkg" size="305120544" crc="9c638a08" md5="3b6d554aa6e7a9e9ff9927f30e54dbc1" sha1="d8fe1a6f4fe552b4ab1b6e992feeb1add4f55f0f" sha256="90781288053a8bd671f7dbb8308b452872d941166c26d1451f02229768fcb805"/>
-		<rom name="HP9000-NPHA80003_00-STARSTRKFULL0001.rap" size="16" crc="d129dba4" md5="fcce8454ae23dc038b23bd484b73ff8c" sha1="f86c1b6dc2c46c5b92339290fd1a00f2218868e5" sha256="9bc26c190f8d11c1dbf5643a37cae0ce48f4e6a57eab554cc9954ad0cfd478ab"/>
-	</game>
-	<game name="Star Strike HD (Asia) (Trial)" id="07972">
-		<description>Star Strike HD (Asia) (Trial)</description>
-		<game_id>HP9000-NPHA80003_00-STARSTRKDEMO0001</game_id>
-		<rom name="HwBymacTP842uyeNJf4es6DJqICpKaTSNscr3CGqThJXhL9dF0cIVA1UwjgmG8sTj25gHb9K2xAX83CIQn9Aq2aUUjxl5BHcg9ekM.pkg" size="305120208" crc="97501ae9" md5="c080577991694bb0be536f070bf57375" sha1="65544d228a2dd0023dc99d6935179748a4dad2d5"/>
-	</game>
-	<game name="Star Strike HD (Japan)" id="07974">
-		<description>Star Strike HD (Japan)</description>
-		<game_id>JP9000-NPJA00012_00-STARSTRKDEMO0001</game_id>
-		<rom name="QynHayxcBZHczAXtxWuWgzzcUepoOaOGcCjEgfXBMKdOAhMLEgpMTgxIJHNaQazQQHnfKaeAxckskqeAqQSSImyZcJsMUceqWxBzy.pkg" size="287247168" crc="75a1f3e3" md5="cf59db2c0b9518539ac86e99b6a5e695" sha1="f20b6bf99f3b7a20139b2bfb115ac2144e8b6524"/>
 	</game>
 	<game name="Star Strike HD - Solo Expansion (Asia) (Unlock Key)" id="40405">
 		<description>Star Strike HD - Solo Expansion (Asia) (Unlock Key)</description>
@@ -30736,29 +30752,29 @@
 		<rom name="u3TW8P0B6uI8H1KPJFXP6VKqgUUm4R7eB76MU3LId78WxGsUvYXDFOXMyvVuNA9EK5D9M3O5rRbtcooKQoVkSjdQhr0y8InGi3SdD.pkg" size="6080" crc="00b53901" md5="40f011807f02219d26e0d0c415f04b1d" sha1="dfa1a5aef51f0588cca2b6e538a00c17c8e92faa" sha256="5bc1686c35fed1117cb6294547739e638223851277ed5b770411acfb2246d937"/>
 		<rom name="HP2017-NPHB00140_00-STARTREKDACUNLOK.rap" size="16" crc="ed1fce1d" md5="30781515a191f5c0a26f5d5f0cfe4701" sha1="7c05ebc2a963de5c858459c97c3b1eb1609d4433" sha256="4705088f733add56d063897fed951e009c12b1e9aaa3d8a4770d54c78fad0650"/>
 	</game>
-	<game name="Star Wars - Bounty Hunter (USA) (PS2 Classics)" id="35612">
-		<description>Star Wars - Bounty Hunter (USA) (PS2 Classics)</description>
-		<game_id>UP9000-NPUD20420_00-0000000000000000</game_id>
-		<rom name="CfSTdGlOdClrkvkCfKafsgkNJLlUUlyCHZcnhsYEYLxhsbWYuqMahACkLtYlXjcfNYgtIIiJBKBhnOoNFDFclphbWQHPToCizIBNY.pkg" size="2502993472" crc="2fda0dc7" md5="5d5f4a652c38de6a86b643620c47deb0" sha1="4ec9ebfd59fa45a567bb5d710cf405de8bb78107"/>
-		<rom name="UP9000-NPUD20420_00-0000000000000000.rap" size="16" crc="3be03a69" md5="a6c7e8bfb81db4c6153e7d09803ac33e" sha1="37faed70e9320473c5cac7d11ac39cc0b9bd46a1"/>
-	</game>
 	<game name="Star Wars - Bounty Hunter (Europe) (PS2 Classics)" id="18169">
 		<description>Star Wars - Bounty Hunter (Europe) (PS2 Classics)</description>
 		<game_id>EP1010-NPED00289_00-GSTARWARSE000ENG</game_id>
 		<rom name="KvLGKImtznARRMeMpuwStMIzEucgitSXEYtGYHvJFzkXSUOOpZRsmYUfvkFEMGNc.pkg" size="2395804032" crc="95243145" md5="77ff0947cb31d697f32caa51251b499b" sha1="865a842c17825632c1ee639a93cb3d6de2f349e8"/>
 		<rom name="EP1010-NPED00289_00-GSTARWARSE000ENG.rap" size="16" crc="fdcfbac0" md5="d912e29493a328a5c5990c084d252fad" sha1="e950b16ed154b5f4b8bf4464d1d92d08cf49f5b0"/>
 	</game>
-	<game name="Star Wars - Episode III - Revenge of the Sith (Europe) (PS2 Classics)" id="18170">
-		<description>Star Wars - Episode III - Revenge of the Sith (Europe) (PS2 Classics)</description>
-		<game_id>EP1010-NPED00286_00-GSTARWARST000ENG</game_id>
-		<rom name="ptRWjIHiQnXnLspIykUHQIqbZymviOvNhISkIJxRHWetztnMTUcsCFEOBrRnyFcX.pkg" size="2751973664" crc="41192d06" md5="7a10227355a3f38e50af71e5a0bfb808" sha1="c0d3c549a86d957b21e7223288ba76f6fff5a7de"/>
-		<rom name="EP1010-NPED00286_00-GSTARWARST000ENG.rap" size="16" crc="6770dd0a" md5="54008eaf027231fb5c138311de5fa644" sha1="5af370c75a4271f0e60ba5f0c666f4f1bce3f328"/>
+	<game name="Star Wars - Bounty Hunter (USA) (PS2 Classics)" id="35612">
+		<description>Star Wars - Bounty Hunter (USA) (PS2 Classics)</description>
+		<game_id>UP9000-NPUD20420_00-0000000000000000</game_id>
+		<rom name="CfSTdGlOdClrkvkCfKafsgkNJLlUUlyCHZcnhsYEYLxhsbWYuqMahACkLtYlXjcfNYgtIIiJBKBhnOoNFDFclphbWQHPToCizIBNY.pkg" size="2502993472" crc="2fda0dc7" md5="5d5f4a652c38de6a86b643620c47deb0" sha1="4ec9ebfd59fa45a567bb5d710cf405de8bb78107"/>
+		<rom name="UP9000-NPUD20420_00-0000000000000000.rap" size="16" crc="3be03a69" md5="a6c7e8bfb81db4c6153e7d09803ac33e" sha1="37faed70e9320473c5cac7d11ac39cc0b9bd46a1"/>
 	</game>
 	<game name="Star Wars - Episode III - Revenge of the Sith (USA) (PS2 Classics)" id="35613">
 		<description>Star Wars - Episode III - Revenge of the Sith (USA) (PS2 Classics)</description>
 		<game_id>UP9000-NPUD21143_00-0000000000000000</game_id>
 		<rom name="qZFmDFbifJOXgqVOlZodpPRmvFobIwXIZoGJyVQYnTafbctlNbiHZkFOtAOpwkuYwIPmBprQuLvZoPGxlyqitzNyXpQWGwFoOuCcD.pkg" size="2749769392" crc="ea20f44b" md5="32ac18bdbbb49c5414bdab7cbbdd54d3" sha1="29587a4fd546807450eeb3df223b828114a83e92"/>
 		<rom name="UP9000-NPUD21143_00-0000000000000000.rap" size="16" crc="968d5510" md5="844151146ede9e2b34335c595a67187f" sha1="2f17c7bef8ff19041e3a1ab432406ab9ef2b82e3"/>
+	</game>
+	<game name="Star Wars - Episode III - Revenge of the Sith (Europe) (PS2 Classics)" id="18170">
+		<description>Star Wars - Episode III - Revenge of the Sith (Europe) (PS2 Classics)</description>
+		<game_id>EP1010-NPED00286_00-GSTARWARST000ENG</game_id>
+		<rom name="ptRWjIHiQnXnLspIykUHQIqbZymviOvNhISkIJxRHWetztnMTUcsCFEOBrRnyFcX.pkg" size="2751973664" crc="41192d06" md5="7a10227355a3f38e50af71e5a0bfb808" sha1="c0d3c549a86d957b21e7223288ba76f6fff5a7de"/>
+		<rom name="EP1010-NPED00286_00-GSTARWARST000ENG.rap" size="16" crc="6770dd0a" md5="54008eaf027231fb5c138311de5fa644" sha1="5af370c75a4271f0e60ba5f0c666f4f1bce3f328"/>
 	</game>
 	<game name="Star Wars - Jedi Starfighter (Europe) (PS2 Classics)" id="18171">
 		<description>Star Wars - Jedi Starfighter (Europe) (PS2 Classics)</description>
@@ -30841,6 +30857,11 @@
 		<game_id>EP4042-NPEB01260_00-SWPINBALL0000001</game_id>
 		<rom name="KTiXgxFYaqXjsUUKSetytoAJZBXPOkkTENiqRPVIQClEdFANgvcrquyjkEOmZrBn.pkg" size="236873760" crc="a14a241e" md5="17aa1ce39e5e3f350eef7238b67c6179" sha1="3d5a19406a3e67a9b5eeeee9c4a861b9c9d4a34e"/>
 	</game>
+	<game name="Star Wars Pinball (Europe) (Unlock Key)" id="32617">
+		<description>Star Wars Pinball (Europe) (Unlock Key)</description>
+		<game_id>EP4042-NPEB01260_00-SWPINBALL00000K1</game_id>
+		<rom name="TElcIyINgtwqfMewUbOssuKLjBOcYqSMlMRSeIMPeUIKWGHdoSsEYgABmIbGpvBC.pkg" size="102400" crc="8229dea4" md5="a06abdc83422120afa1fa7bfd55c16dc" sha1="135f4a98a5198105c64f58b49cba32ffed085f76" sha256="a9d1125ee0743e52c07fb09959faa7917d2aeac9ee2cc521688ed47c946295aa"/>
+	</game>
 	<game name="Star Wars Pinball (USA) (Trial)" id="11415">
 		<description>Star Wars Pinball (USA) (Trial)</description>
 		<game_id>UP4042-NPUB31132_00-SWPINBALL0000001</game_id>
@@ -30851,16 +30872,6 @@
 		<game_id>UP4042-NPUB31132_00-SWPINBALL00000K1</game_id>
 		<rom name="FFlgsgkGgQRHyklQWmJiyTMdPPQwvAtKqegblTxGpcxZSwhBqTCfiEcNtsCkNXfx.pkg" size="102400" crc="1a552617" md5="4dcb32d8240ae04d9bf76467e0ad3860" sha1="6976b475141d3ab1bb9aba2d08e6add28c57b634"/>
 		<rom name="UP4042-NPUB31132_00-SWPINBALL00000K1.rap" size="16" crc="214fb7ab" md5="858ee7224b396348fee852f2417b4567" sha1="4049b27747eda54613e3ca50bad31c3c6d369bfb"/>
-	</game>
-	<game name="Star Wars Pinball (Europe) (Unlock Key)" id="32617">
-		<description>Star Wars Pinball (Europe) (Unlock Key)</description>
-		<game_id>EP4042-NPEB01260_00-SWPINBALL00000K1</game_id>
-		<rom name="TElcIyINgtwqfMewUbOssuKLjBOcYqSMlMRSeIMPeUIKWGHdoSsEYgABmIbGpvBC.pkg" size="102400" crc="8229dea4" md5="a06abdc83422120afa1fa7bfd55c16dc" sha1="135f4a98a5198105c64f58b49cba32ffed085f76" sha256="a9d1125ee0743e52c07fb09959faa7917d2aeac9ee2cc521688ed47c946295aa"/>
-	</game>
-	<game name="Star Wars Pinball - Balance of the Force (Europe) (Unlock Key)" id="32618">
-		<description>Star Wars Pinball - Balance of the Force (Europe) (Unlock Key)</description>
-		<game_id>EP4042-NPEB01260_00-SWPINBALLBOTF0K1</game_id>
-		<rom name="mePfvemMJMvUdXNPxqPGjwvfiytNuXxtIBAYHrjsVHtmqrvoLXbKKmiqBsKpeEFr.pkg" size="102400" crc="1d8f0688" md5="44b7a1570a7b3113d13714f10ecf78cf" sha1="4361b4c15c3147ff44abc8dd3c2ab263fe6ed3c4" sha256="bfeb00ee2a10ca086cdc416b0559b1852695631f283bb12bf4109ba7be7df84b"/>
 	</game>
 	<game name="Star Wars Pinball - Balance of the Force (USA) (Unlock Key)" id="11420">
 		<description>Star Wars Pinball - Balance of the Force (USA) (Unlock Key)</description>
@@ -30873,10 +30884,10 @@
 		<game_id>EP4042-NPEB01260_00-SWPINBALLBOTF001</game_id>
 		<rom name="RqWgEpwSONsFdPsrUmJEBnSyzwohIVGwWhavWJLiiQZUWueWauEwOkdepMmuUlcO.pkg" size="181394576" crc="d78b58bd" md5="c838ea2a57867a6bcb8e107a1c990318" sha1="b1337ff4759ac019bd38b6b8dd46d0877bed472a"/>
 	</game>
-	<game name="Star Wars Pinball - Heroes Within (Europe) (Trial)" id="21987">
-		<description>Star Wars Pinball - Heroes Within (Europe) (Trial)</description>
-		<game_id>EP4042-NPEB01260_00-SWPINBALLHW00001</game_id>
-		<rom name="WwdGUhvhAZCwvdZRuqOMCYQygATZztJxPKkwHIBRavMfsGSZcFDdXhDLiTmBWhud.pkg" size="257522048" crc="398249c9" md5="88f78356037ecef0ac3688b95345b1c4" sha1="6762c9112a5c28aebd2fc08c20449f90d54510de"/>
+	<game name="Star Wars Pinball - Balance of the Force (Europe) (Unlock Key)" id="32618">
+		<description>Star Wars Pinball - Balance of the Force (Europe) (Unlock Key)</description>
+		<game_id>EP4042-NPEB01260_00-SWPINBALLBOTF0K1</game_id>
+		<rom name="mePfvemMJMvUdXNPxqPGjwvfiytNuXxtIBAYHrjsVHtmqrvoLXbKKmiqBsKpeEFr.pkg" size="102400" crc="1d8f0688" md5="44b7a1570a7b3113d13714f10ecf78cf" sha1="4361b4c15c3147ff44abc8dd3c2ab263fe6ed3c4" sha256="bfeb00ee2a10ca086cdc416b0559b1852695631f283bb12bf4109ba7be7df84b"/>
 	</game>
 	<game name="Star Wars Pinball - Heroes Within (Europe) (Unlock Key)" id="32619">
 		<description>Star Wars Pinball - Heroes Within (Europe) (Unlock Key)</description>
@@ -30888,6 +30899,11 @@
 		<game_id>UP4042-NPUB31132_00-SWPINBALLHW000K1</game_id>
 		<rom name="LSYUezzNUuPaEWnAAoQBreJPFRrXCncDyhikXvugnRdOWsUQxkvHaZsCYhvpPpBv.pkg" size="102400" crc="0bafbd5d" md5="4421dfb03d5b878df41620a6fe8d783c" sha1="edfae3a76b4500f779b32fb1883902a039d1a61d" sha256="f312b55be2d07ca42fafb590afe3631cd7db72331cbce9b4f629c488a8207635" status="verified"/>
 		<rom name="UP4042-NPUB31132_00-SWPINBALLHW000K1.rap" size="16" crc="9a0ebb07" md5="7bad631ebd86fc5fa71182380dc39a90" sha1="cb9c61183dee051eaf798aae67e5ca9d88318606" sha256="b55824098496ca24b56ffd80ce316741e07eeaf6a9f40f6616e92557eb286c22" status="verified"/>
+	</game>
+	<game name="Star Wars Pinball - Heroes Within (Europe) (Trial)" id="21987">
+		<description>Star Wars Pinball - Heroes Within (Europe) (Trial)</description>
+		<game_id>EP4042-NPEB01260_00-SWPINBALLHW00001</game_id>
+		<rom name="WwdGUhvhAZCwvdZRuqOMCYQygATZztJxPKkwHIBRavMfsGSZcFDdXhDLiTmBWhud.pkg" size="257522048" crc="398249c9" md5="88f78356037ecef0ac3688b95345b1c4" sha1="6762c9112a5c28aebd2fc08c20449f90d54510de"/>
 	</game>
 	<game name="Star Wars Pinball - Rogue One (Europe) (Unlock Key)" id="32620">
 		<description>Star Wars Pinball - Rogue One (Europe) (Unlock Key)</description>
@@ -30933,11 +30949,6 @@
 		<rom name="UP4042-NPUB31132_00-SWPINBALLMAY000K_bg_1_27be4f0629773aad055a46f994c86b10c8165a37.pkg" size="102400" crc="0f3d96e0" md5="265f09201a8cb62b37a4793a19ff2c04" sha1="17936a1c14d4fb7cf0d77cd6d4636925087227c6" sha256="7199303067ef6c232434248dd4143177199115906af0bc74d66249252407f04d" status="verified"/>
 		<rom name="UP4042-NPUB31132_00-SWPINBALLMAY000K.rap" size="16" crc="f17d1c95" md5="d61094a0ed939ac386933bb82375307a" sha1="ee02b7f2da32177738ce8452ab749fb83f51b1e9" sha256="4c4eb194b859dc6d22d90fe9d708ab7a4d4bba0c835ed501c4d496308b0cfe86" status="verified"/>
 	</game>
-	<game name="StarDrone (Europe) (Demo)" id="29203">
-		<description>StarDrone (Europe) (Demo)</description>
-		<game_id>EP4101-NPEB90347_00-STARDRONEDEMO001</game_id>
-		<rom name="uqzEJzcpnqxIfAMohtjMKMxOvvTxlUIFMFjRdXBJNskaWcRKXVpqMpaaOZGgjkET.pkg" size="90302672" crc="a2be4a05" md5="8252d3b7b4dff956101573fb9e996270" sha1="c54702df1e9c891ccd0256196d345e692bd8bfb8"/>
-	</game>
 	<game name="StarDrone (USA)" id="11424">
 		<description>StarDrone (USA)</description>
 		<game_id>UP4101-NPUB30403_00-STAREXPLOREDRONE</game_id>
@@ -30956,18 +30967,10 @@
 		<rom name="RcfEszaeKXcJsfrXHfCBWcpyBEIjnFOfxjsLYKUaOfGCMiQTpLEODYMtCSAccSfF.pkg" size="92162048" crc="b8e2dbf3" md5="7194cab845d4dd5006ac9af05b91dd37" sha1="be34b7ee9440313b6249ba603817a135fb283d6f" sha256="86a11ed10b47349b69ac149390aa371141327a6f8d3c8e54a7da84d7437a14af"/>
 		<rom name="EP4101-NPEB00307_00-STAREXPLOREDRONE.rap" size="16" crc="3eca6a3b" md5="ed7158fc9eb1035b9099cb358f87feee" sha1="bc32d1e7569cfcc70e237b8aeb4fc72c4a402c10" sha256="9bfedbb91a7f0bce8671e1c0104565107018a99fda874288b6beb4f93e744680"/>
 	</game>
-	<game name="Starhawk (Europe) (Soundtrack)" id="41460">
-		<description>Starhawk (Europe) (Soundtrack)</description>
-		<game_id>EP9000-NPEA00398_00-GSTARHAWKS000001</game_id>
-		<rom name="EP9000-NPEA00398_00-GSTARHAWKS000001.rap" size="16" crc="d4d5b3f3" md5="b8b3d665ba30208800e15949203d8e44" sha1="fec9254f6bcb6d12f401a210cb3f0fc8a34ac10a" sha256="6a6048f46cad802503cc989b870b7af32c4ec5f8b6c783d0e75c2e30084d5754"/>
-		<rom name="IhLaSmfvSfwvZmvlTKDjcSyRdNRuleXBiIoYfTmPAPSmGmVsqsECsgZVVTsuIDsE.pkg" size="95950528" crc="02f58b87" md5="78b3a0ca5cc974ef22433db4d220b766" sha1="36202548fdd48f18c6814e9e694cbf3aca5b162c" sha256="e763d4cb8c84ca711dbecd7e8e06c2667a77fff052b31a115b7ded945de048b9"/>
-	</game>
-	<game name="Starhawk (Europe) (NPEA00411)" id="45502">
-		<category>Games</category>
-		<description>Starhawk (Europe) (NPEA00411)</description>
-		<game_id>EP9000-NPEA00411_00-STARHAWKPKG00001</game_id>
-		<rom name="EP9000-NPEA00411_00-STARHAWKPKG00001.rap" size="16" crc="c154d590" md5="5231eeeecad5629f2e87d49a6e1d8283" sha1="86f0e497234cb9d1d947aa7eb626dd63639b7baa" sha256="3ce5c1fcbaa549e9ea2d9cb920157ed6b29fb276ada3ac1dbc87f112e560310b"/>
-		<rom name="zOuqGCMnnwthwEYOCbyLSsejODrFSPkWhtLDMePhPDRuRHCDLTqZGjPdvtpcxsui.pkg" size="13202651808" crc="c0dbbfc1" md5="c20d90274ce340a31842b9743aab9ee2" sha1="65a97ce3cd75e7b923653a2ed3a5e91d298563e6" sha256="caccae2d9f816e7a6ae1dfee82c3618578bd077e8e81946ae9a5f25859c24725"/>
+	<game name="StarDrone (Europe) (Demo)" id="29203">
+		<description>StarDrone (Europe) (Demo)</description>
+		<game_id>EP4101-NPEB90347_00-STARDRONEDEMO001</game_id>
+		<rom name="uqzEJzcpnqxIfAMohtjMKMxOvvTxlUIFMFjRdXBJNskaWcRKXVpqMpaaOZGgjkET.pkg" size="90302672" crc="a2be4a05" md5="8252d3b7b4dff956101573fb9e996270" sha1="c54702df1e9c891ccd0256196d345e692bd8bfb8"/>
 	</game>
 	<game name="Starhawk (USA) (Manual)" id="19276">
 		<category>Manuals</category>
@@ -31007,6 +31010,19 @@
 		<description>Starhawk (Europe) (Singleplayer Demo)</description>
 		<game_id>EP9000-NPEA90087_00-STARHAWKSPDEMO01</game_id>
 		<rom name="aRqgfjTENrXMeTOEMNVxHENnOkKEAMDfuSyODADNmCMSoqpgaLxSkLhjuuhEShaz.pkg" size="2146125392" crc="febf6b87" md5="cb04566cbc9c54b9ae7c255e789a57e0" sha1="3ffbf73c4829a6817adf15abb0b238bee998e4d4"/>
+	</game>
+	<game name="Starhawk (Europe) (Soundtrack)" id="41460">
+		<description>Starhawk (Europe) (Soundtrack)</description>
+		<game_id>EP9000-NPEA00398_00-GSTARHAWKS000001</game_id>
+		<rom name="EP9000-NPEA00398_00-GSTARHAWKS000001.rap" size="16" crc="d4d5b3f3" md5="b8b3d665ba30208800e15949203d8e44" sha1="fec9254f6bcb6d12f401a210cb3f0fc8a34ac10a" sha256="6a6048f46cad802503cc989b870b7af32c4ec5f8b6c783d0e75c2e30084d5754"/>
+		<rom name="IhLaSmfvSfwvZmvlTKDjcSyRdNRuleXBiIoYfTmPAPSmGmVsqsECsgZVVTsuIDsE.pkg" size="95950528" crc="02f58b87" md5="78b3a0ca5cc974ef22433db4d220b766" sha1="36202548fdd48f18c6814e9e694cbf3aca5b162c" sha256="e763d4cb8c84ca711dbecd7e8e06c2667a77fff052b31a115b7ded945de048b9"/>
+	</game>
+	<game name="Starhawk (Europe) (NPEA00411)" id="45502">
+		<category>Games</category>
+		<description>Starhawk (Europe) (NPEA00411)</description>
+		<game_id>EP9000-NPEA00411_00-STARHAWKPKG00001</game_id>
+		<rom name="EP9000-NPEA00411_00-STARHAWKPKG00001.rap" size="16" crc="c154d590" md5="5231eeeecad5629f2e87d49a6e1d8283" sha1="86f0e497234cb9d1d947aa7eb626dd63639b7baa" sha256="3ce5c1fcbaa549e9ea2d9cb920157ed6b29fb276ada3ac1dbc87f112e560310b"/>
+		<rom name="zOuqGCMnnwthwEYOCbyLSsejODrFSPkWhtLDMePhPDRuRHCDLTqZGjPdvtpcxsui.pkg" size="13202651808" crc="c0dbbfc1" md5="c20d90274ce340a31842b9743aab9ee2" sha1="65a97ce3cd75e7b923653a2ed3a5e91d298563e6" sha256="caccae2d9f816e7a6ae1dfee82c3618578bd077e8e81946ae9a5f25859c24725"/>
 	</game>
 	<game name="Starhawk (Europe)" id="13702">
 		<description>Starhawk (Europe)</description>
@@ -31354,12 +31370,6 @@
 		<rom name="cxPjgQGSFjOWUCmqptKPsOjGMeraGTlXJQxIHRpzfYIHEFRhYxpnxQLkBHgsqhbl.pkg" size="96298032" crc="7fbd8c3c" md5="f94317e9c6fbff1c24817bdc98c07bde" sha1="f592ecdbb7d5d7d8db22327024ab20257105a2ad" sha256="c9ed2ae9f6000a46d9b8afb373619871f1b0f4798a521204fde29b5d70bb823d" status="verified"/>
 		<rom name="EP2026-NPEB00404_00-HSR103000000GAME.rap" size="16" crc="c081ebc2" md5="e436937e26dcd0fff837e3c055f5043a" sha1="6d764b763b6936f9e43e59e3ba2a3b0d5545e742" sha256="f2808e6aa55289c4a112b9b46be30cc6d2f85f268059aa4008f04775b59a22b9" status="verified"/>
 	</game>
-	<game name="Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe) (Unlock Key)" id="36862">
-		<description>Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe) (Unlock Key)</description>
-		<game_id>EP2026-NPEB00405_00-HSR1040000000KEY</game_id>
-		<rom name="mFUyXAyDBFtiAJTEVocUrehBlIdsTlKjSdMtzsBsZUkumjsOkmcnmHWfeYdOVJnx.pkg" size="102400" crc="abd9a83a" md5="74955d1b28a9665e9ef5d02aa77c5d1b" sha1="1bc39b8d7c8bf34e4c5a22a53de2eaff959f1cba" sha256="f52d17a64613cdaeba596823bd5e6d2651a70d8f29b98d26dd7120c5826d41fa"/>
-		<rom name="EP2026-NPEB00405_00-HSR1040000000KEY.rap" size="16" crc="8257fa5a" md5="ed6bb35ce7bba103e7f830e1f37bcd63" sha1="deca38067bdc4eade3b77955d8dd3d34d61774a9" sha256="2a5837b53a6ed3309d5d2a67a58fce61bdf65be97af567fe70f23fdac088d819"/>
-	</game>
 	<game name="Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe)" id="19290">
 		<description>Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe)</description>
 		<game_id>EP2026-NPEB00405_00-HSR104000000GAME</game_id>
@@ -31377,17 +31387,23 @@
 		<rom name="GQjUUuujXIylNCxnSucCdYyvMEVhVpYxjzeLcoUAHPFDOdLUBDpfLBnNNJxBpDEnpnpduJqKhZzXTfKUInQpdriSketSRwWSCUmot.pkg" size="102400" crc="928c9590" md5="6d22195ad02fb6a0b48542826051c0b4" sha1="ef11fdee666edb972ffbada765b1ba16928abb57"/>
 		<rom name="UP2026-NPUB30193_00-HSR1040000000KEY.rap" size="16" crc="8c89996a" md5="5705696b6655f29fb2f0331bff9a82a4" sha1="28210b9cf228f342469c0e50a4f5358a75f69fd1"/>
 	</game>
-	<game name="Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)" id="19293">
-		<description>Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)</description>
-		<game_id>UP2026-NPUB30398_00-HSR105000000GAME</game_id>
-		<rom name="JFmKpJHvJRpxDHJMDtpaggYJcNwcaDchlMnJOPZHrPJelzBRUbvMVytfnsxzyAUwRkdKJgsCwSxXfvUpCeBKsWkLdxeCChjjgIEME.pkg" size="80169456" crc="f3320e1f" md5="aea93352687c358998344ba363363424" sha1="f959d14a01e249321107fdcc90856cc572913b34"/>
-		<rom name="UP2026-NPUB30398_00-HSR105000000GAME.rap" size="16" crc="0767cd9a" md5="0ddfc76a6e7177d6afd573157366ac32" sha1="d032d5d6278a848ffb43fe8cc580be213ae2649b"/>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe) (Unlock Key)" id="36862">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 (Europe) (Unlock Key)</description>
+		<game_id>EP2026-NPEB00405_00-HSR1040000000KEY</game_id>
+		<rom name="mFUyXAyDBFtiAJTEVocUrehBlIdsTlKjSdMtzsBsZUkumjsOkmcnmHWfeYdOVJnx.pkg" size="102400" crc="abd9a83a" md5="74955d1b28a9665e9ef5d02aa77c5d1b" sha1="1bc39b8d7c8bf34e4c5a22a53de2eaff959f1cba" sha256="f52d17a64613cdaeba596823bd5e6d2651a70d8f29b98d26dd7120c5826d41fa"/>
+		<rom name="EP2026-NPEB00405_00-HSR1040000000KEY.rap" size="16" crc="8257fa5a" md5="ed6bb35ce7bba103e7f830e1f37bcd63" sha1="deca38067bdc4eade3b77955d8dd3d34d61774a9" sha256="2a5837b53a6ed3309d5d2a67a58fce61bdf65be97af567fe70f23fdac088d819"/>
 	</game>
 	<game name="Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (Europe)" id="35391">
 		<description>Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (Europe)</description>
 		<game_id>EP2026-NPEB00406_00-HSR105000000GAME</game_id>
 		<rom name="EP2026-NPEB00406_00-HSR105000000GAME.rap" size="16" crc="6c41e871" md5="f5018109dd9243e78a581a9b8b4dd838" sha1="ba096280b16a8aa803bca70fbda7c8c8abf50eb3"/>
 		<rom name="EystlpEXdrvjOXjdkhOnOhXKefaoRGMDdvbyBScXoQahbVshMhHmcuKAftSwCCok.pkg" size="78844560" crc="2b0179c0" md5="926e602a4ae6842e723a4f811f5099e0" sha1="da6e26fc3f5a68388321f4a0e078a859f83169c6"/>
+	</game>
+	<game name="Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)" id="19293">
+		<description>Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)</description>
+		<game_id>UP2026-NPUB30398_00-HSR105000000GAME</game_id>
+		<rom name="JFmKpJHvJRpxDHJMDtpaggYJcNwcaDchlMnJOPZHrPJelzBRUbvMVytfnsxzyAUwRkdKJgsCwSxXfvUpCeBKsWkLdxeCChjjgIEME.pkg" size="80169456" crc="f3320e1f" md5="aea93352687c358998344ba363363424" sha1="f959d14a01e249321107fdcc90856cc572913b34"/>
+		<rom name="UP2026-NPUB30398_00-HSR105000000GAME.rap" size="16" crc="0767cd9a" md5="0ddfc76a6e7177d6afd573157366ac32" sha1="d032d5d6278a848ffb43fe8cc580be213ae2649b"/>
 	</game>
 	<game name="Stuntman - Ignition (USA) (PS2 Classics)" id="36647">
 		<description>Stuntman - Ignition (USA) (PS2 Classics)</description>
@@ -32038,22 +32054,28 @@
 		<rom name="BBLTEyrHQlTJKsKFaFJMttXKEEVaTszfbotsYNGIkJcEFIihLBxenQIHdcjaNMHj.pkg" size="72720528" crc="4cda9c86" md5="6f8037651649c9e3daa22f7c969d0910" sha1="a835124517dc67b2a882033e0266f7ce76497222"/>
 		<rom name="UP2045-NPUB31380_00-MUTANTBLOBSOST00.rap" size="16" crc="e750f553" md5="0b26bd596414a4f65de402fa7a9ea803" sha1="79882ff5a37bacde345f15de58a7ab70aa6588af" sha256="0af78897ee45d03f4cd83daa61970d84653f62c4242b3c1f97c00b2a97f2aec3"/>
 	</game>
-	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)" id="18781">
-		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)</description>
-		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK01</game_id>
-		<rom name="DJTGEhivRiZqcXykSmXxJUNmbVVzRZdhUnQqEKTACnCfAYeHbgkdrZpCxhMNveRQ.pkg" size="254969072" crc="3be907b7" md5="7490ccbf634b91df885d40938a1460dd" sha1="43477cc3ab7aad0b20f850802331df59c6a83eaa"/>
-	</game>
 	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)" id="19303">
 		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)</description>
 		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK02</game_id>
 		<rom name="oNMyXYBIilABaxbagYBJWFHpPkGhxKruiaQghQOlrmxaDYkJlEqqBXJiqQfJsOiFhwYLtbaADpJKiJPsiFwiuzsSOLHIkKuNurodX.pkg" size="6080" crc="d513dd7f" md5="e061480a62a8ed9d3cabd96da82c43b3" sha1="f6168d463cf5175810c90cca7651e9d101a3d59b" sha256="97fbc5398b051158078ab5962efecf2dc59017cc50082344e3a53ab0a72804cc"/>
 		<rom name="UP2045-NPUB30617_00-MUTANTBLOBSATK02.rap" size="16" crc="8dcfbfed" md5="8d4579dfdc032459c91d9e29f83d20c7" sha1="4319914c4c33db60054e2ef5105577781f623584"/>
 	</game>
+	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)" id="18781">
+		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)</description>
+		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK01</game_id>
+		<rom name="DJTGEhivRiZqcXykSmXxJUNmbVVzRZdhUnQqEKTACnCfAYeHbgkdrZpCxhMNveRQ.pkg" size="254969072" crc="3be907b7" md5="7490ccbf634b91df885d40938a1460dd" sha1="43477cc3ab7aad0b20f850802331df59c6a83eaa"/>
+	</game>
 	<game name="Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)" id="41395">
 		<description>Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)</description>
 		<game_id>EP2145-NPEB01902_00-MUTANTBLOBSOST00</game_id>
 		<rom name="xWRaDjwbuWtJNIgRrKsDwtyaWyLZSJzzrKWZkByeJXpurzkkOhDzcQasVkpXNYmU.pkg" size="72720528" crc="a14e0d04" md5="be5d1896e0933ce117f9e0d053f1dbc1" sha1="413955d1fe45ff4b31747e93e1afd74f871236b3" sha256="8521fc4f82852cf26d63b2e4633c8745442ee411dc8c239070282da20bd9241f"/>
 		<rom name="EP2145-NPEB01902_00-MUTANTBLOBSOST00.rap" size="16" crc="6cb9b8a2" md5="5ca7aec7fab3188894a3b2e0e855ed49" sha1="c3fea1c794e839eab572325c3cf946d826176fdb" sha256="afce9ef02f31f1808d32497272e9f228c2787ef8a22635fdfb059efe506b9800"/>
+	</game>
+	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)" id="22023">
+		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)</description>
+		<game_id>EP2026-NPEB01980_00-TFTBL00000000KEY</game_id>
+		<rom name="vvLKRNJtLzgocJzQctZmKPyTouQjvdszvDSVwrJOkwhGqQoVlpEwodWLgSxOPJUV.pkg" size="2091904" crc="949800d8" md5="f26ba7887847856b3100c28b84171ef7" sha1="dae4683701e86b68a0e5406b7a177fbcac7897a3"/>
+		<rom name="EP2026-NPEB01980_00-TFTBL00000000KEY.rap" size="16" crc="3f0d0b01" md5="1214f11b3a7e04c291bbb28803982b5d" sha1="b0cf1216653aa9d20e4f9c1e4995393f585ea7dc"/>
 	</game>
 	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)" id="28613">
 		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)</description>
@@ -32070,12 +32092,6 @@
 		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Trial)</description>
 		<game_id>UP2026-NPUB31454_00-TFTBL0000000GAME</game_id>
 		<rom name="eozMMJvBwXfYWVrCQwEjRKGIfGsTrRAHAawLqfUjYyBvYzuIPQUCjTpZnrHfSixW.pkg" size="911721184" crc="2768a445" md5="5982c2eaf4c7dfd1ac91a98c07c32d04" sha1="4ca26aa66aa9dde520607f748907147a33d8bd18"/>
-	</game>
-	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)" id="22023">
-		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)</description>
-		<game_id>EP2026-NPEB01980_00-TFTBL00000000KEY</game_id>
-		<rom name="vvLKRNJtLzgocJzQctZmKPyTouQjvdszvDSVwrJOkwhGqQoVlpEwodWLgSxOPJUV.pkg" size="2091904" crc="949800d8" md5="f26ba7887847856b3100c28b84171ef7" sha1="dae4683701e86b68a0e5406b7a177fbcac7897a3"/>
-		<rom name="EP2026-NPEB01980_00-TFTBL00000000KEY.rap" size="16" crc="3f0d0b01" md5="1214f11b3a7e04c291bbb28803982b5d" sha1="b0cf1216653aa9d20e4f9c1e4995393f585ea7dc"/>
 	</game>
 	<game name="Tales of Berseria (Japan)" id="41450">
 		<description>Tales of Berseria (Japan)</description>
@@ -32122,29 +32138,29 @@
 		<rom name="GVtCnqFQ2fd5nLT3xG89eN1jbvMIfybQB0x1aFCNvDYYm8Lpfp0EIRgp2saMPTF8iHqmqOuGa2CQQ20DuhqlUA03HrFQ38eHfC1MQ.pkg" size="102400" crc="4b33038d" md5="aab21eec700e1a4a96b8b890705e2463" sha1="f466998882b77322b26a41e5b22680a03be6e2cf" sha256="53c805a3c241690130fd6148c56cb26b0b490c7cf176d6c454b9c0d362554dd6"/>
 		<rom name="EP2026-NPEB00265_00-MNK1010000000KEY.rap" size="16" crc="7c92b574" md5="dd53116ff74de34c2b72fa67cc76c401" sha1="f8ff4ddde6f71059bc6769bf9591f9df9239842c" sha256="1f8330ec143f0e8f2512a05ad42a61e24d4001f1d7e2ae6e2646fd479fed91f2"/>
 	</game>
-	<game name="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (Europe)" id="35620">
-		<description>Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (Europe)</description>
-		<game_id>EP2026-NPEB00266_00-MNK102000000GAME</game_id>
-		<rom name="EP2026-NPEB00266_00-MNK102000000GAME.rap" size="16" crc="2e6bd4aa" md5="33f154c7c9c99ebb89ad3a806efd7618" sha1="d7ce3afd0e576e430d9a2f11b04492ccf4fc2a9a"/>
-		<rom name="PEDEWrRTIIadphpvV3J1FNjxhSHUcwFjYQwktDQsucU33sAWoVqg3JuGsAKjQOlF2TnE8wI820Q7A9vqmqDnXsOjlBwKB1K7qvDDK.pkg" size="199329568" crc="68009c35" md5="5fcf555a1dccad0e9727de51e409bd92" sha1="a03736edca4579d494dcfe7531110bad1241e0c5"/>
-	</game>
 	<game name="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (USA)" id="11765">
 		<description>Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (USA)</description>
 		<game_id>UP2026-NPUB30284_00-MNK102000000GAME</game_id>
 		<rom name="k1rdUJ8MGObLvvKgdbY7SbQKE6JwngNSvU7rK6kXvF7HV0XVOp0J396d1rAKjhBrwYYTHtHW3GioCpeNkCjU2rmCrEFcLMeG4NR1r.pkg" size="199024240" crc="905cd11c" md5="0edec9975dd75cef71bdd866c0cde6ca" sha1="6d70cedaece8f377ecf9f6929360de67a66fd6b7"/>
 		<rom name="UP2026-NPUB30284_00-MNK102000000GAME.rap" size="16" crc="7eb20e28" md5="71701aa71af230e60bb88fadeb5aa1a6" sha1="610663ca6036def9c1d40e6ee60dd420390edd1d"/>
 	</game>
-	<game name="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)" id="11766">
-		<description>Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)</description>
-		<game_id>UP2026-NPUB30285_00-MNK103000000GAME</game_id>
-		<rom name="w163BbcInNyWxmgxWxNvQFap836hSUdaUgEi9JaUvfLfRlAtwvmMjlxvJpeDqoqosPQDfRbvKUoVtU7LAvX8r712SWAbpJXk5sI8R.pkg" size="208249344" crc="01f4fded" md5="fdca639ff1841d3e4c1a1147fde1e833" sha1="8172c0f6e702cd21d503b2b5e74c65766cca472d"/>
-		<rom name="UP2026-NPUB30285_00-MNK103000000GAME.rap" size="16" crc="52d7297e" md5="34166d9f53d182d6ba74c3a60c0177be" sha1="789ad2edfec1d7d52da346c1ae581007a6836ae6"/>
+	<game name="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (Europe)" id="35620">
+		<description>Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (Europe)</description>
+		<game_id>EP2026-NPEB00266_00-MNK102000000GAME</game_id>
+		<rom name="EP2026-NPEB00266_00-MNK102000000GAME.rap" size="16" crc="2e6bd4aa" md5="33f154c7c9c99ebb89ad3a806efd7618" sha1="d7ce3afd0e576e430d9a2f11b04492ccf4fc2a9a"/>
+		<rom name="PEDEWrRTIIadphpvV3J1FNjxhSHUcwFjYQwktDQsucU33sAWoVqg3JuGsAKjQOlF2TnE8wI820Q7A9vqmqDnXsOjlBwKB1K7qvDDK.pkg" size="199329568" crc="68009c35" md5="5fcf555a1dccad0e9727de51e409bd92" sha1="a03736edca4579d494dcfe7531110bad1241e0c5"/>
 	</game>
 	<game name="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (Europe)" id="35621">
 		<description>Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (Europe)</description>
 		<game_id>EP2026-NPEB00267_00-MNK103000000GAME</game_id>
 		<rom name="EP2026-NPEB00267_00-MNK103000000GAME.rap" size="16" crc="614af945" md5="3802f3dfba7bbfde4710e4740f670c48" sha1="1e157525b250f4ade76aba89dbb573c75aacef14"/>
 		<rom name="R6XBmlN81Uf22VrLmrt8m1iKkNU2sYErGhQ8c8IluCrHGLUYrm0lEHN2KaeCaOoVhUTJ3ISj08aJ1VWvWPwaDpV5JCDlW4hTXaluV.pkg" size="208535680" crc="2a1ed24e" md5="dc713065c27057a2e39a9d2d6a18cd65" sha1="d8da01121797df01cf3395dafac229d73b9014c8"/>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)" id="11766">
+		<description>Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)</description>
+		<game_id>UP2026-NPUB30285_00-MNK103000000GAME</game_id>
+		<rom name="w163BbcInNyWxmgxWxNvQFap836hSUdaUgEi9JaUvfLfRlAtwvmMjlxvJpeDqoqosPQDfRbvKUoVtU7LAvX8r712SWAbpJXk5sI8R.pkg" size="208249344" crc="01f4fded" md5="fdca639ff1841d3e4c1a1147fde1e833" sha1="8172c0f6e702cd21d503b2b5e74c65766cca472d"/>
+		<rom name="UP2026-NPUB30285_00-MNK103000000GAME.rap" size="16" crc="52d7297e" md5="34166d9f53d182d6ba74c3a60c0177be" sha1="789ad2edfec1d7d52da346c1ae581007a6836ae6"/>
 	</game>
 	<game name="Tales of Monkey Island - Chapter 4 - The Trial &amp; Execution of Guybrush (Europe)" id="35622">
 		<description>Tales of Monkey Island - Chapter 4 - The Trial &amp; Execution of Guybrush (Europe)</description>
@@ -32170,29 +32186,29 @@
 		<rom name="EP2026-NPEB00269_00-MNK105000000GAME.rap" size="16" crc="944ff5ff" md5="98fc046a80757c103dc8715d23207221" sha1="43c79990454c8eea502bb789765f5b7d03e84b4e"/>
 		<rom name="qbuaprWKde2ApvXmn7uvry1Bsac3AgSwDuPgCYtr4DijyGcE5f8BSM9lXRuiy680BALgkWbtBXdUcSwwXURIfJt1kY4bYV7PhvDHt.pkg" size="225073696" crc="b20f7501" md5="ae57fd767ada7021e5ef14476cd30d59" sha1="9a70253d701fe817d442cff1aa7db510a42dc433"/>
 	</game>
-	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)" id="13714">
-		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)</description>
-		<game_id>EP0700-NPEB01388_00-TOSRATATOSKHDD01</game_id>
-		<rom name="hFZdrzIlASshCLHRFvwIlSBLBYEpabphmyjxRWYZPRzcuVXzTsNKSMCMXOufWdrgehcoOrkcFIdGCceNqTaCdDHhtHfIyxYjwNPrF.pkg" size="4081356640" crc="b60b85a4" md5="890373562964870ec5975bea24259fbe" sha1="62205995799610ad5cc062fe233b9cfee66071a3"/>
-		<rom name="EP0700-NPEB01388_00-TOSRATATOSKHDD01.rap" size="16" crc="4fb949d4" md5="f36ed0bcab29b84aabe782d4f5208938" sha1="236edb3f4478d7847dc1cc21cb76f39f7727e444"/>
-	</game>
 	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)" id="11770">
 		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)</description>
 		<game_id>UP0700-NPUB31194_00-TOSRATATOSKHDD01</game_id>
 		<rom name="dXTHLnKqUumYqhUDwfnDnhCjgHDLBWFrqoXbaTnJCPYQqImkGslWRpOhlGpxoqVC.pkg" size="4081356672" crc="8bf8aad1" md5="62dc717647600cd8cbc35eb8f0184431" sha1="1037dffc745cdd957aad5aacee2e8f0b4a4cbc3c"/>
 		<rom name="UP0700-NPUB31194_00-TOSRATATOSKHDD01.rap" size="16" crc="4083a54c" md5="82fe5384da69cf94a3bd2a2ebb41b737" sha1="67f518d2423a87c785167d7433e10ff9b46c13ee"/>
 	</game>
-	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)" id="11771">
-		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)</description>
-		<game_id>UP0700-NPUB31193_00-TOSYMPHONIAHDD01</game_id>
-		<rom name="TFxFZLNxNARAdMqQEeNDPGPphHvWdsgwwyTjUZCBTIHjcpBagYIcXerqzMRsvyWk.pkg" size="5754887088" crc="77ec3188" md5="f2d2f6a2e1f22fa14bef688f675f0116" sha1="936810e3bf9e732011e1e38d7e0c703fce5fbc94"/>
-		<rom name="UP0700-NPUB31193_00-TOSYMPHONIAHDD01.rap" size="16" crc="6c3d3f4a" md5="2c03fbbe3f644cc1356f866c885eb877" sha1="10815c22e9abf3a9feb4c62e280796627bcaa781"/>
+	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)" id="13714">
+		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)</description>
+		<game_id>EP0700-NPEB01388_00-TOSRATATOSKHDD01</game_id>
+		<rom name="hFZdrzIlASshCLHRFvwIlSBLBYEpabphmyjxRWYZPRzcuVXzTsNKSMCMXOufWdrgehcoOrkcFIdGCceNqTaCdDHhtHfIyxYjwNPrF.pkg" size="4081356640" crc="b60b85a4" md5="890373562964870ec5975bea24259fbe" sha1="62205995799610ad5cc062fe233b9cfee66071a3"/>
+		<rom name="EP0700-NPEB01388_00-TOSRATATOSKHDD01.rap" size="16" crc="4fb949d4" md5="f36ed0bcab29b84aabe782d4f5208938" sha1="236edb3f4478d7847dc1cc21cb76f39f7727e444"/>
 	</game>
 	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)" id="13927">
 		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)</description>
 		<game_id>EP0700-NPEB01389_00-TOSYMPHONIAHDD01</game_id>
 		<rom name="BPKBoNUZeJtpzxiMdbCckxcodaPjescyjuAHKSJzJlCCTwvQFiXmAyMLFFMXYcnOHMAHeiuPJYemfjJvzwtHfuewAjyqWrugqhOBP.pkg" size="5754887136" crc="565715bd" md5="92e022bf5f22d79834629ea20b803d25" sha1="a120399a7901d1e375ccc23b8c69f9d3a788c263"/>
 		<rom name="EP0700-NPEB01389_00-TOSYMPHONIAHDD01.rap" size="16" crc="94d080f1" md5="d60f423b61d3ec291b44191c6c6a78ce" sha1="7f5611ed0fcda1c89c676752d1973f4f76aeb639"/>
+	</game>
+	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)" id="11771">
+		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)</description>
+		<game_id>UP0700-NPUB31193_00-TOSYMPHONIAHDD01</game_id>
+		<rom name="TFxFZLNxNARAdMqQEeNDPGPphHvWdsgwwyTjUZCBTIHjcpBagYIcXerqzMRsvyWk.pkg" size="5754887088" crc="77ec3188" md5="f2d2f6a2e1f22fa14bef688f675f0116" sha1="936810e3bf9e732011e1e38d7e0c703fce5fbc94"/>
+		<rom name="UP0700-NPUB31193_00-TOSYMPHONIAHDD01.rap" size="16" crc="6c3d3f4a" md5="2c03fbbe3f644cc1356f866c885eb877" sha1="10815c22e9abf3a9feb4c62e280796627bcaa781"/>
 	</game>
 	<game name="Tales of Symphonia - Unisonant Pack - Knight of Ratatosk (Japan)" id="11772">
 		<description>Tales of Symphonia - Unisonant Pack - Knight of Ratatosk (Japan)</description>
@@ -34437,18 +34453,21 @@
 		<description>Uncharted - Eye of Indra - Episode 2 (Europe)</description>
 		<game_id>EP9000-NPEA00161_00-GUNCHARTED000001</game_id>
 		<rom name="fmHnNhCIRGVVS9cTBQLMPe8npFMKp9mJIRd5lYIrlOgfqtqwpMyM4Ic69GbkFgBGITF6pGytXRTYmATFnFff2gysjtpDninaOcoAi.pkg" size="193738704" crc="aae79045" md5="9fa593a1d08d405556c2f11fed0699af" sha1="ebd452387d85a90c8c390e74c7a806465d30b6a3" sha256="576e09c5cebafc029995a28d253e84e148d7bf529b003a1624ee60b1a175a9ad"/>
+		<rom name="EP9000-NPEA00161_00-GUNCHARTED000001.rap" size="16" crc="5250f3d7" md5="ed6bd1021444fda03d976b079070cb6b" sha1="fde317e27199152c54807a976375404c8b11f69e" sha256="3798525a1884d27e2b2cfda16a9eb20170ae02be5aab7f89d5fffee3bae95457"/>
 	</game>
 	<game name="Uncharted - Eye of Indra - Episode 3 (Europe)" id="46021">
 		<category>Video</category>
 		<description>Uncharted - Eye of Indra - Episode 3 (Europe)</description>
 		<game_id>EP9000-NPEA00166_00-GUNCHARTED000001</game_id>
 		<rom name="7DVOm3eUfp9yPU4GNCApdOIXxgLXCX7UWLSUtyh1Iac1MBwWBPwONesXgceQjbC9l2D5QBHise5DEoyC9OIKOkQ2PpGcjhWlHEMJv.pkg" size="277203168" crc="ac41a845" md5="60bd9153ccd21e1a0a76f83249b98410" sha1="51d696f6641dcc4e6292ce5d51fc417c16b42cd9" sha256="c78b5e3c0ad8b2e73df88e9ee02e09a217099de33d04a327066e3eb98059eb1e"/>
+		<rom name="EP9000-NPEA00166_00-GUNCHARTED000001.rap" size="16" crc="2089bf1a" md5="247616daf1c4d24782cf87cfb0a5c676" sha1="14ddb5d78f4dbf758becf4776059cf27fd106ad3" sha256="5fd7a3e8583f24a312018a43e97327b94dbc0b3015f7f37527be9e36bc0d5d47"/>
 	</game>
 	<game name="Uncharted - Eye of Indra - Episode 4 (Europe)" id="46022">
 		<category>Video</category>
 		<description>Uncharted - Eye of Indra - Episode 4 (Europe)</description>
 		<game_id>EP9000-NPEA00171_00-GUNCHARTED000001</game_id>
 		<rom name="rsR8J13yhQgTS0veC0UYgIrusnyQxyc9E42JBQsRYUSiKqe32Ewb7ubsYAnsEKM9LDukfeEeXlfcGfFk0OQYdh4ga1Rt7YxPineHf.pkg" size="322993568" crc="76f102a1" md5="17efbd14b364d3aa6c3b7a297200becd" sha1="07244672d12f31a9bc7e58a7de6f2b97044aa06e" sha256="c01fd49d4ec0f9601bdfe9f24465e9239f23641444a3f0badd1c442a5606d08a"/>
+		<rom name="EP9000-NPEA00171_00-GUNCHARTED000001.rap" size="16" crc="3221b552" md5="cfe89f63e051709ae9e678efa08c6bce" sha1="b21d47a86bdc8cb179a196eb3b950d7d28e59a21" sha256="60756e265ba24365f57d58c9c97d1ce94ba4ea6c8d88e040ed5362fc60b90021"/>
 	</game>
 	<game name="Uncharted 2 - Among Thieves (Asia)" id="40929">
 		<description>Uncharted 2 - Among Thieves (Asia)</description>

@@ -4,8 +4,8 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260609-195627</version>
-		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
+		<version>20260612-120420</version>
+		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -135,7 +135,7 @@
 	<game name="[BIOS] Sega CD 2A (USA)" id="0020" cloneofid="0012">
 		<category>Miscellaneous</category>
 		<description>[BIOS] Sega CD 2A (USA)</description>
-		<rom name="[BIOS] Sega CD 2A (USA).md" size="131072" crc="2e49d72c" md5="ecc837c31d77b774c6e27e38f828aa9a" sha1="328a3228c29fba244b9db2055adc1ec4f7a87e6b"/>
+		<rom name="[BIOS] Sega CD 2A (USA).md" size="131072" crc="2e49d72c" md5="ecc837c31d77b774c6e27e38f828aa9a" sha1="328a3228c29fba244b9db2055adc1ec4f7a87e6b" sha256="4acda6ced2951f4fc34b42cc08c7510b8edc1f716b17ce4f84920751a98b9204"/>
 	</game>
 	<game name="[BIOS] Sega CDX (USA)" id="0021" cloneofid="1619">
 		<category>Miscellaneous</category>

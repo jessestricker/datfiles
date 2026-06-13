@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260608-125324</version>
+		<version>20260612-122408</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -119,8 +119,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>California Games (World) (Beta)</description>
-		<rom name="California Games (World) (Beta).lyx" size="131072" crc="14c01e5f" md5="3a45840d11e07a7d687a5eb3b46e34d6" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" sha256="c33658ddd66d1eba4e99f62711b7c0a4e64b7c0fc5187e9e165746fbe4f9a39d" status="verified"/>
-		<rom name="California Games (World) (Beta).lyx" size="131072" crc="14c01e5f" md5="3a45840d11e07a7d687a5eb3b46e34d6" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" sha256="c33658ddd66d1eba4e99f62711b7c0a4e64b7c0fc5187e9e165746fbe4f9a39d" status="verified"/>
+		<rom name="California Games (World) (Beta).lyx" size="131072" crc="14c01e5f" md5="3a45840d11e07a7d687a5eb3b46e34d6" sha1="89a5011be4173c28a3b73aa6a078866588509e6e" sha256="c33658ddd66d1eba4e99f62711b7c0a4e64b7c0fc5187e9e165746fbe4f9a39d"/>
 	</game>
 	<game name="Centipede (USA) (Proto)" id="0016">
 		<category>Games</category>
@@ -468,6 +467,12 @@
 		<description>Paperboy (World)</description>
 		<rom name="Paperboy (World).lyx" size="131072" crc="4cdfbd57" md5="2a59d2ca6d6f07bc2791bf349e2778ee" sha1="537bae2c336dc9925f10505d4040965ca7434f5d" sha256="b3724525f8b36b4a190c7b966a8137eb88a461a1111fcad53b2cc2c0df5433f0" status="verified"/>
 	</game>
+	<game name="Paperboy (World) (Beta)" id="0443" cloneofid="0055">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Paperboy (World) (Beta)</description>
+		<rom name="Paperboy (World) (Beta).lyx" size="262144" crc="56f6bf14" md5="fb73088023e9cf6b7c1013da37863abc" sha1="64cb9ceb192c454cbcd98b92c945d18c265e0210" sha256="45f98a3be39f593772143560cf00182357341575d6ef69a34e73beac334c5b78"/>
+	</game>
 	<game name="Pinball Jam (USA, Europe)" id="0056">
 		<description>Pinball Jam (USA, Europe)</description>
 		<rom name="Pinball Jam (USA, Europe).lyx" size="262144" crc="14d38ca7" md5="29a248fbc87f477b49587581e29c1dc7" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" sha256="b76d3f99288b8f37dfb4275d524c2b67b4ac1083bf8cb581c1a5750347f2e657"/>
@@ -588,6 +593,12 @@
 		<category>Games</category>
 		<description>Rygar (World)</description>
 		<rom name="Rygar (World).lyx" size="262144" crc="67e5bdba" md5="ff6fff314446ab70dfecb21e2de4a2f6" sha1="8743769af583af681fd1d96aadb533d26b1b510d" sha256="ce839f7ed52a41d87cb0f7b91517bcfdfaad805b2a1b6241d814abfc32e0e6a7"/>
+	</game>
+	<game name="Rygar (World) (Beta)" id="0444" cloneofid="0067">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rygar (World) (Beta)</description>
+		<rom name="Rygar (World) (Beta).lyx" size="131072" crc="24b14a88" md5="4e64d97107d8aef081d3b0caf310dc9e" sha1="7b697f2061e0f498b8263a8eef71e3289ddccb1e" sha256="50236664fda88a62f838172dfe826a6495d9443eee266385c364a342c142a92c"/>
 	</game>
 	<game name="S.T.U.N. Runner (USA, Europe)" id="0068">
 		<category>Games</category>

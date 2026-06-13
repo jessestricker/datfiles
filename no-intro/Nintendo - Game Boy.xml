@@ -4,8 +4,8 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260610-124148</version>
-		<author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
+		<version>20260612-201821</version>
+		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -411,9 +411,9 @@
 		<description>Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced)</description>
 		<rom name="Asterix &amp; Obelix (Europe) (Fr,De) (Beta) (SGB Enhanced).gb" size="262144" crc="bfa1d7be" md5="7850d8aa9f97272f359500fb7be66383" sha1="70472cbe59cfd426b0969150085cc97d31bd6470" sha256="c0b5a0474bd6872f54db138ac032a54e9ba915989ecc932cda25434b97decd2c"/>
 	</game>
-	<game name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)" id="0067">
-		<description>Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced)</description>
-		<rom name="Asterix &amp; Obelix (Spain) (En,Es) (SGB Enhanced).gb" size="262144" crc="b1fd41d0" md5="cf5be6d9c263d02039bfaae93c1bd32c" sha1="b6cd446962357d0f560a5c9fae4c917e039fbb77" sha256="ec7ee66c72c1c13a7f655932aaa7a37d1d355e3eee0c849cd8e57e9150dcf1ca" status="verified"/>
+	<game name="Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced)" id="0067">
+		<description>Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced)</description>
+		<rom name="Asterix &amp; Obelix (Europe) (En,Es) (SGB Enhanced).gb" size="262144" crc="b1fd41d0" md5="cf5be6d9c263d02039bfaae93c1bd32c" sha1="b6cd446962357d0f560a5c9fae4c917e039fbb77" sha256="ec7ee66c72c1c13a7f655932aaa7a37d1d355e3eee0c849cd8e57e9150dcf1ca" status="verified"/>
 	</game>
 	<game name="Asterix &amp; Obelix (Europe) (Fr,De) (SGB Enhanced)" id="0068" cloneofid="0067">
 		<description>Asterix &amp; Obelix (Europe) (Fr,De) (SGB Enhanced)</description>

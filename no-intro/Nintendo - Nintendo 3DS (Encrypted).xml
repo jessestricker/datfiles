@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260611-182516</version>
+		<version>20260612-210243</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1031,7 +1031,7 @@
 	<game name="Carnival Games - Wild West 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0191">
 		<description>Carnival Games - Wild West 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>0004000000073D00</game_id>
-		<rom name="Carnival Games - Wild West 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="e9aa44c2" md5="fc1bc83077742d5c8f9c09d75c14ca2a" sha1="9d3cd0fd7c303a66244afad8c01e6932aadde3d2" serial="CTR-P-AW2P"/>
+		<rom name="Carnival Games - Wild West 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="e9aa44c2" md5="fc1bc83077742d5c8f9c09d75c14ca2a" sha1="9d3cd0fd7c303a66244afad8c01e6932aadde3d2" sha256="4d720c0603f83fb76cb460551435525d6758ee54fe7a2ee2effac08d42b1d3c9" status="verified" serial="CTR-P-AW2P"/>
 	</game>
 	<game name="Cars 2 (USA) (En,Fr,Es)" id="0162" cloneofid="0167">
 		<description>Cars 2 (USA) (En,Fr,Es)</description>
@@ -2513,7 +2513,7 @@
 	<game name="Farming Simulator 18 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="1711">
 		<description>Farming Simulator 18 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
 		<game_id>00040000001B7500</game_id>
-		<rom name="Farming Simulator 18 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).3ds" size="268435456" crc="fd2a961d" md5="ea9bc79a0a3c484006b3444775d51c78" sha1="55e1f77ae29e1ac63d558cc761478ef9351b778d" status="verified" serial="CTR-P-A8FP"/>
+		<rom name="Farming Simulator 18 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).3ds" size="268435456" crc="fd2a961d" md5="ea9bc79a0a3c484006b3444775d51c78" sha1="55e1f77ae29e1ac63d558cc761478ef9351b778d" sha256="23153a742aa0ef0e8406f0b6bea87a9f1f207759feea4b77a038b75a385ddc8f" status="verified" serial="CTR-P-A8FP"/>
 	</game>
 	<game name="Farming Simulator 18 (USA)" id="1712" cloneofid="1711">
 		<description>Farming Simulator 18 (USA)</description>
@@ -4800,7 +4800,7 @@
 	<game name="LEGO Ninjago - Nindroids (Germany) (En,Fr,De,Es,It,Nl,Da)" id="1010" cloneofid="1021">
 		<description>LEGO Ninjago - Nindroids (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>0004000000124500</game_id>
-		<rom name="LEGO Ninjago - Nindroids (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="8a6ac006" md5="ab3a0a049dc7ac15ed8f9122cf27c5bb" sha1="a8456456dd2204c92b30b25ab4da6d092022f24a" serial="CTR-P-BLNY"/>
+		<rom name="LEGO Ninjago - Nindroids (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="8a6ac006" md5="ab3a0a049dc7ac15ed8f9122cf27c5bb" sha1="a8456456dd2204c92b30b25ab4da6d092022f24a" sha256="ab1d9e9fbad79118828c922c72a472289b3017826498e4cd95a15d9d64263e4c" status="verified" serial="CTR-P-BLNY"/>
 	</game>
 	<game name="LEGO Ninjago - Nindroids (USA) (En,Fr,Es,Pt)" id="1011" cloneofid="1021">
 		<description>LEGO Ninjago - Nindroids (USA) (En,Fr,Es,Pt)</description>
@@ -4835,7 +4835,7 @@
 	<game name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="z211" cloneofid="z210">
 		<description>LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da) (Rev 1)</description>
 		<game_id>000400000014E700</game_id>
-		<rom name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da) (Rev 1).3ds" size="536870912" crc="555b9093" md5="061bfe87e315caac71b95b50c4c81ea0" sha1="9ed41b61e4165d9a01c68216e59113544e59318a" sha256="a3bfc06e9d8aa5473c834793c3dcb2f01ab4e62be96c77edfdef46dd30db6d91" serial="CTR-P-BLSZ"/>
+		<rom name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da) (Rev 1).3ds" size="536870912" crc="555b9093" md5="061bfe87e315caac71b95b50c4c81ea0" sha1="9ed41b61e4165d9a01c68216e59113544e59318a" sha256="a3bfc06e9d8aa5473c834793c3dcb2f01ab4e62be96c77edfdef46dd30db6d91" status="verified" serial="CTR-P-BLSZ"/>
 	</game>
 	<game name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da)" id="1211" cloneofid="z210">
 		<description>LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -4926,7 +4926,7 @@
 	<game name="LEGO Star Wars - Le Reveil de la Force (France) (En,Fr,De,Es,It,Nl,Da)" id="1542" cloneofid="1537">
 		<description>LEGO Star Wars - Le Reveil de la Force (France) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>000400000017EE00</game_id>
-		<rom name="LEGO Star Wars - Le Reveil de la Force (France) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="2aff1dd3" md5="8399d746d618e9ab990e804b0400faca" sha1="6b248e1e2035c0148dc274eeb411d634e5150d93" serial="CTR-P-BLWF"/>
+		<rom name="LEGO Star Wars - Le Reveil de la Force (France) (En,Fr,De,Es,It,Nl,Da).3ds" size="1073741824" crc="2aff1dd3" md5="8399d746d618e9ab990e804b0400faca" sha1="6b248e1e2035c0148dc274eeb411d634e5150d93" sha256="d22509b37e52427046a55131040a686c5b084f0a399067faaf5a9f73a4965389" status="verified" serial="CTR-P-BLWF"/>
 	</game>
 	<game name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)" id="1537">
 		<description>LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -6486,7 +6486,7 @@
 	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1317" cloneofid="0199">
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000031100</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="03242d4a" md5="04bb9779c3c75d58a50e5a83ded873ab" sha1="7d05011508c49a473a0edaca8a5c367df8edeb40" serial="CTR-P-ADBP"/>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="03242d4a" md5="04bb9779c3c75d58a50e5a83ded873ab" sha1="7d05011508c49a473a0edaca8a5c367df8edeb40" sha256="70ef07d070d62205d71e3b03547cb5adcd0f8e9c64ae3fc103a3afeb8e78ba60" status="verified" serial="CTR-P-ADBP"/>
 	</game>
 	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1261" cloneofid="0199">
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
@@ -7125,7 +7125,7 @@
 	<game name="Pinball Hall of Fame 3D - The Williams' Collection (Europe) (En,Fr,De,Es,It)" id="0281">
 		<description>Pinball Hall of Fame 3D - The Williams' Collection (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000004E300</game_id>
-		<rom name="Pinball Hall of Fame 3D - The Williams' Collection (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="7ff16e75" md5="1eb9dfdf266afae16b5f836799f86e61" sha1="abd4288513132c4cfb30b06a9132ab3f2d5dbcbf" serial="CTR-P-APBP"/>
+		<rom name="Pinball Hall of Fame 3D - The Williams' Collection (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="7ff16e75" md5="1eb9dfdf266afae16b5f836799f86e61" sha1="abd4288513132c4cfb30b06a9132ab3f2d5dbcbf" sha256="32d035113d9ebab0b3e8e2fafea3673c805ca50a8899afcffc02e5e078651351" serial="CTR-P-APBP"/>
 	</game>
 	<game name="Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)" id="0307">
 		<description>Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)</description>
