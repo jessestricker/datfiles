@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260612-210243</version>
+		<version>20260613-201526</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -50,7 +50,7 @@
 	<game name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)" id="z226">
 		<description>2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000018BE00</game_id>
-		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="7cc75078" md5="5ed0af43ae87b55cbaa8982e43a0bd35" sha1="911f480349ce36e417a335b22f02c4e04f6b5129" sha256="14c1afc68722531dbf7191929184a5ef90b81d7838b009254a2cdfe161959928" serial="CTR-P-BENP"/>
+		<rom name="2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="7cc75078" md5="5ed0af43ae87b55cbaa8982e43a0bd35" sha1="911f480349ce36e417a335b22f02c4e04f6b5129" sha256="14c1afc68722531dbf7191929184a5ef90b81d7838b009254a2cdfe161959928" status="verified" serial="CTR-P-BENP"/>
 	</game>
 	<game name="2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)" id="1064">
 		<description>2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -688,7 +688,7 @@
 	<game name="Beyblade Evolution (Europe) (En,Fr,De,Es)" id="0568">
 		<description>Beyblade Evolution (Europe) (En,Fr,De,Es)</description>
 		<game_id>00040000000CBE00</game_id>
-		<rom name="Beyblade Evolution (Europe) (En,Fr,De,Es).3ds" size="268435456" crc="98e92250" md5="10a443f7a1455576a26dc87583628201" sha1="5ba85481605041a67e6b23a7a1c34d59ec9b27e3" status="verified" serial="CTR-P-ARXP"/>
+		<rom name="Beyblade Evolution (Europe) (En,Fr,De,Es).3ds" size="268435456" crc="98e92250" md5="10a443f7a1455576a26dc87583628201" sha1="5ba85481605041a67e6b23a7a1c34d59ec9b27e3" sha256="69e9b969c3dc709449d066fccc54b338f245fa3e29f4b8c68a9a16e063303b2a" status="verified" serial="CTR-P-ARXP"/>
 	</game>
 	<game name="Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany)" id="0644">
 		<description>Bibi &amp; Tina - Das Spiel zum Kinofilm (Germany)</description>
@@ -1901,7 +1901,7 @@
 	<game name="Disney Infinity (Europe) (En,Sv,No,Da,Fi)" id="0864" cloneofid="0583">
 		<description>Disney Infinity (Europe) (En,Sv,No,Da,Fi)</description>
 		<game_id>00040000000DD600</game_id>
-		<rom name="Disney Infinity (Europe) (En,Sv,No,Da,Fi).3ds" size="1073741824" crc="34d7195a" md5="55193b2f9bc5f7991d7a40282d6c12bb" sha1="39d40c6d9fa476768819d86f60bf2c193da35f5c" serial="CTR-P-ADYZ"/>
+		<rom name="Disney Infinity (Europe) (En,Sv,No,Da,Fi).3ds" size="1073741824" crc="34d7195a" md5="55193b2f9bc5f7991d7a40282d6c12bb" sha1="39d40c6d9fa476768819d86f60bf2c193da35f5c" sha256="d78ebfeed7923f3a78fc455c298436bf376b1fdf1462032151c74136a423e1fc" status="verified" serial="CTR-P-ADYZ"/>
 	</game>
 	<game name="Disney Infinity (Japan) (Beta) (2013-10-09)" id="z208" cloneofid="0583">
 		<category>Games</category>
@@ -2543,7 +2543,7 @@
 	<game name="Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It)" id="0340">
 		<description>Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000000C8B00</game_id>
-		<rom name="Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="d4693df1" md5="5608fafb41957c94a7ef37412f7e5ec6" sha1="f1a9a560bc36b5a505b7ecfc8d413a718778aa57" serial="CTR-P-AFHP"/>
+		<rom name="Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="d4693df1" md5="5608fafb41957c94a7ef37412f7e5ec6" sha1="f1a9a560bc36b5a505b7ecfc8d413a718778aa57" sha256="6699e9e5a8ee7974d0f2b01ed7dec71f5124492171f8a7e5d008df0916726c6d" status="verified" serial="CTR-P-AFHP"/>
 	</game>
 	<game name="Fast &amp; Furious - Showdown (USA) (En,Fr)" id="0610" cloneofid="0340">
 		<description>Fast &amp; Furious - Showdown (USA) (En,Fr)</description>
@@ -3358,7 +3358,7 @@
 	<game name="Heroes of Ruin (Europe) (En,Fr,De,Es,It)" id="0194">
 		<description>Heroes of Ruin (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000074000</game_id>
-		<rom name="Heroes of Ruin (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="ecfba305" md5="9d5b7da3e00b3de4b6ac19d2ba397d48" sha1="df72be98199ae0a4148dfd97adf227084ed90eb6" serial="CTR-P-AH6P"/>
+		<rom name="Heroes of Ruin (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="ecfba305" md5="9d5b7da3e00b3de4b6ac19d2ba397d48" sha1="df72be98199ae0a4148dfd97adf227084ed90eb6" sha256="5f7375691c85bb60abbe7ffbf73ac2f35e8d929656c953505026eb842576be02" status="verified" serial="CTR-P-AH6P"/>
 	</game>
 	<game name="Heroes of Ruin (USA) (En,Fr,Es)" id="0259" cloneofid="0194">
 		<description>Heroes of Ruin (USA) (En,Fr,Es)</description>
@@ -3698,7 +3698,7 @@
 	<game name="Inazuma Eleven 3 - Team Ogre Attacks! (Europe) (En,Fr,De)" id="0623">
 		<description>Inazuma Eleven 3 - Team Ogre Attacks! (Europe) (En,Fr,De)</description>
 		<game_id>00040000000F7F00</game_id>
-		<rom name="Inazuma Eleven 3 - Team Ogre Attacks! (Europe) (En,Fr,De).3ds" size="2147483648" crc="6cc12da8" md5="7491421ceb8e02930c40fb6fbd147988" sha1="1622f3d8143b5e719089c641b67c441a3bca6492" status="verified" serial="CTR-P-AXGP"/>
+		<rom name="Inazuma Eleven 3 - Team Ogre Attacks! (Europe) (En,Fr,De).3ds" size="2147483648" crc="6cc12da8" md5="7491421ceb8e02930c40fb6fbd147988" sha1="1622f3d8143b5e719089c641b67c441a3bca6492" sha256="b6c61e4de378a626b285f349def2dc54092bc5aa2cf219ab05da6992ba1bd9fd" status="verified" serial="CTR-P-AXGP"/>
 	</game>
 	<game name="Inazuma Eleven GO - Chrono Stones - Thunderflash (Europe) (En,Fr,De,Es,It)" id="1217">
 		<description>Inazuma Eleven GO - Chrono Stones - Thunderflash (Europe) (En,Fr,De,Es,It)</description>
@@ -3819,7 +3819,7 @@
 	<game name="Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0740">
 		<description>Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000000A0600</game_id>
-		<rom name="Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="009d5d4e" md5="b177ebf49b1127221ac6f567f54bd23a" sha1="5231ae0a8bee86af8b3c3d0f5274900d6ef7e267" serial="CTR-P-AJEP"/>
+		<rom name="Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="009d5d4e" md5="b177ebf49b1127221ac6f567f54bd23a" sha1="5231ae0a8bee86af8b3c3d0f5274900d6ef7e267" sha256="2d35f4bea16a2e2db4e6a47b3dc61c1f9d36f86abd0d15dc8434f2614ac770a8" status="verified" serial="CTR-P-AJEP"/>
 	</game>
 	<game name="Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl)" id="0331" cloneofid="0454">
 		<description>Jewel Master - Cradle of Rome 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -4028,7 +4028,7 @@
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)" id="0201">
 		<description>Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)</description>
 		<game_id>0004000000095500</game_id>
-		<rom name="Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De).3ds" size="2147483648" crc="fa4edf4d" md5="82231ad0979eb8a9ed91ac663b536274" sha1="e9968b491d7a65c7d5488a4409dc547857201519" serial="CTR-P-AKHP"/>
+		<rom name="Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De).3ds" size="2147483648" crc="fa4edf4d" md5="82231ad0979eb8a9ed91ac663b536274" sha1="e9968b491d7a65c7d5488a4409dc547857201519" sha256="0019fcf600f334be1a1d1e47684f85a2e5119aea60f824404cb4b44654b90e41" status="verified" serial="CTR-P-AKHP"/>
 	</game>
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (Japan)" id="0204" cloneofid="0201">
 		<description>Kingdom Hearts 3D - Dream Drop Distance (Japan)</description>
@@ -4745,7 +4745,7 @@
 	<game name="LEGO Marvel Super Heroes - Universo en Peligro (Spain) (En,Fr,De,Es,It,Nl,Da)" id="1257" cloneofid="0759">
 		<description>LEGO Marvel Super Heroes - Universo en Peligro (Spain) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>00040000000F5C00</game_id>
-		<rom name="LEGO Marvel Super Heroes - Universo en Peligro (Spain) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="0c8975cc" md5="a048e1e2361c4a8318452ed413e2ec88" sha1="52ad58c1dd816b8afde8050f452bb0e6ba4e126f" serial="CTR-P-AL5S"/>
+		<rom name="LEGO Marvel Super Heroes - Universo en Peligro (Spain) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="0c8975cc" md5="a048e1e2361c4a8318452ed413e2ec88" sha1="52ad58c1dd816b8afde8050f452bb0e6ba4e126f" sha256="1e7e2f688b63927c58065629594725329ff7e5bdaa4b8b47627477a297bbf937" status="verified" serial="CTR-P-AL5S"/>
 	</game>
 	<game name="LEGO Marvel Super Heroes - Universum in Gefahr (Germany) (En,Fr,De,Es,It,Nl,Da)" id="0571" cloneofid="0759">
 		<description>LEGO Marvel Super Heroes - Universum in Gefahr (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -6012,7 +6012,7 @@
 	<game name="Murder on the Titanic (Europe) (En,Fr,De,Nl)" id="0628">
 		<description>Murder on the Titanic (Europe) (En,Fr,De,Nl)</description>
 		<game_id>0004000000072B00</game_id>
-		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="2ec6b9aa" md5="53378794737348aa1f278e8ebc44e734" sha1="68e437c8c513f6d870664a4e6619845c1b09edb5" status="verified" serial="CTR-P-AM8P"/>
+		<rom name="Murder on the Titanic (Europe) (En,Fr,De,Nl).3ds" size="134217728" crc="2ec6b9aa" md5="53378794737348aa1f278e8ebc44e734" sha1="68e437c8c513f6d870664a4e6619845c1b09edb5" sha256="16c42054b91698b266b9f41379c5f2d252c1a03489e61c0bb6250801e4b74def" status="verified" serial="CTR-P-AM8P"/>
 	</game>
 	<game name="Mushi Bugyou (Japan)" id="0752">
 		<description>Mushi Bugyou (Japan)</description>
@@ -6122,7 +6122,7 @@
 	<game name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl)" id="0578">
 		<description>Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>00040000000C2A00</game_id>
-		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="93f37c52" md5="c3903c2b475ac881fcb122b88e272837" sha1="c134f72fdcc945c39c21e2690f5d0038439b1182" serial="CTR-P-ADHP"/>
+		<rom name="Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="93f37c52" md5="c3903c2b475ac881fcb122b88e272837" sha1="c134f72fdcc945c39c21e2690f5d0038439b1182" sha256="4751a5356e7b1b413ee424a573be6474a90a9d0cf319d0f1b2d52ac467b67bac" status="verified" serial="CTR-P-ADHP"/>
 	</game>
 	<game name="Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl)" id="0927">
 		<description>Mystery Case Files - Ravenhearst (Europe) (En,Fr,De,Nl)</description>
@@ -8023,7 +8023,7 @@
 	<game name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)" id="1867" cloneofid="0282">
 		<description>Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)</description>
 		<game_id>000400000005F600</game_id>
-		<rom name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1).3ds" size="536870912" crc="acd2d6d2" md5="7a96e63259d8dd77db319b192676d2ab" sha1="6e611f57728d109bb62983aa655cfd88fd3d1bfa" sha256="f003d35b0daf73cfb6e0585dd2e13653d18d115e19c629485229a5e0405dd635" serial="CTR-P-ARFP"/>
+		<rom name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1).3ds" size="536870912" crc="acd2d6d2" md5="7a96e63259d8dd77db319b192676d2ab" sha1="6e611f57728d109bb62983aa655cfd88fd3d1bfa" sha256="f003d35b0daf73cfb6e0585dd2e13653d18d115e19c629485229a5e0405dd635" status="verified" serial="CTR-P-ARFP"/>
 	</game>
 	<game name="Regular Show - Mordecai &amp; Rigby in 8-Bit Land (USA)" id="0473" cloneofid="0569">
 		<description>Regular Show - Mordecai &amp; Rigby in 8-Bit Land (USA)</description>
@@ -9349,7 +9349,7 @@
 	<game name="Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1820" cloneofid="z079">
 		<description>Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>00040000001A0500</game_id>
-		<rom name="Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="c3bfb618" md5="1baaa05724657dcafe53431faad95acd" sha1="94aac90f8b9d9c6f69d24c58ca53ecf205d1c248" serial="CTR-P-AJHP"/>
+		<rom name="Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="c3bfb618" md5="1baaa05724657dcafe53431faad95acd" sha1="94aac90f8b9d9c6f69d24c58ca53ecf205d1c248" sha256="7fb81e592307e56f7b2dc85d72a0bc668dca427d3c812737deda2fcac8adde62" status="verified" serial="CTR-P-AJHP"/>
 	</game>
 	<game name="Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)" id="z058" cloneofid="z079">
 		<description>Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)</description>
@@ -10713,7 +10713,7 @@
 	<game name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It)" id="0994">
 		<description>Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000132B00</game_id>
-		<rom name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="984b6f4e" md5="a44f8fcf74c3d7173f8f00355fb3ac9d" sha1="666f9726eced3948d945c20b13e860dd63a8cadd" status="verified" serial="CTR-P-AYXP"/>
+		<rom name="Yu-Gi-Oh! Zexal - World Duel Carnival (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="984b6f4e" md5="a44f8fcf74c3d7173f8f00355fb3ac9d" sha1="666f9726eced3948d945c20b13e860dd63a8cadd" sha256="18d1fb2d5c7c9d5f3fecf0986000ae92bc1a82c85cda2f351903351c03a846c2" status="verified" serial="CTR-P-AYXP"/>
 	</game>
 	<game name="Yuugen Gaisha Brave Company (Japan)" id="0421">
 		<description>Yuugen Gaisha Brave Company (Japan)</description>

@@ -4,7 +4,7 @@
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20260612-200253</version>
+		<version>20260613-225345</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -13113,12 +13113,6 @@
 		<rom name="MSOIlpdkWGyleJRJxXDSEyNuklvCtcgIQWiFrqlqxRTucqMyWYIHyakObSQSITlOgWevxIogZLvbqEqCfVBUkmjMZuYyhsvOfOqrp.pkg" size="4550162480" crc="48bc5e26" md5="9e6bac50691248548b0e139e8866ac58" sha1="59d2e3b347e2302dd1b06b9c70149839daf5b9b8"/>
 		<rom name="UP9000-NPUD20946_00-0000000000000000.rap" size="16" crc="4c0c4c3c" md5="f67222dca411e89824a3986eaed0cd4d" sha1="38b75364338e4aecc2ff9d9c6a1ea8dd3ca8fac4"/>
 	</game>
-	<game name="Grand Theft Auto - San Andreas (Germany) (PS2 Classics) (Alt)" id="13484">
-		<description>Grand Theft Auto - San Andreas (Germany) (PS2 Classics) (Alt)</description>
-		<game_id>EP1004-NPED00070_00-GGRANDTHEF000USK</game_id>
-		<rom name="boToieFBwQhFtXwKRSMTCWqzEmsAbnirzipUEpbmdcDRNJNIGdANkPGwaaMaZtEu.pkg" size="4546660384" crc="144e47d4" md5="f544c03cc814cfd0aa7b32f3afcac084" sha1="6d073cf31017833e973fe0313fa6becae0fc056d"/>
-		<rom name="EP1004-NPED00070_00-GGRANDTHEF000USK.rap" size="16" crc="932a5408" md5="0dcc792fd69521c06ab1ff57c136325f" sha1="473a054379088fe7f57bcec22bdea62c342d75d3"/>
-	</game>
 	<game name="Grand Theft Auto - San Andreas (Italy) (PS2 Classics)" id="13485">
 		<description>Grand Theft Auto - San Andreas (Italy) (PS2 Classics)</description>
 		<game_id>EP1004-NPED00070_00-GGRANDTHEF000ITA</game_id>
@@ -13130,11 +13124,11 @@
 		<game_id>EP1004-NPED00070_00-GGRANDTHEF000FRE</game_id>
 		<rom name="WoEqppQlMnTpXEvyldkJlFTkqKcXacEJQBwVnbGQkFIEHIHXupDACDibBMcQiIpx.pkg" size="4548981632" crc="e6f0230e" md5="3d705d024343086742d6f1c52d67f195" sha1="910d128ccbbf6a27b7b40faf0f04ddfacbad9573"/>
 	</game>
-	<game name="Grand Theft Auto - San Andreas (Germany) (PS2 Classics)" id="18151">
+	<game name="Grand Theft Auto - San Andreas (Germany) (PS2 Classics)" id="46029">
+		<category>Games</category>
 		<description>Grand Theft Auto - San Andreas (Germany) (PS2 Classics)</description>
-		<game_id>EP1004-NPED00070_00-GGRANDTHEF000USK</game_id>
-		<rom name="FMYgnqpAiyPxDoCBBvHsUuIpkOfmIqMyxYWtROYKcvviRxearoTMcTABNBHmDDiP.pkg" size="4528244768" crc="93510198" md5="048ed9560f79597b3ef18e21ec3029f5" sha1="4760c226dc4dd8a6bfd0137d315884e789695f9b"/>
-		<rom name="EP1004-NPED00070_00-GGRANDTHEF000USK.rap" size="16" crc="932a5408" md5="0dcc792fd69521c06ab1ff57c136325f" sha1="473a054379088fe7f57bcec22bdea62c342d75d3"/>
+		<game_id>EP1004-NPED00070_00-GGRANDTHEF000GER</game_id>
+		<rom name="LcNawiKrfvGxowgYFuspFNPseKqRyXapxUgtZShIbzSHtedqRZaeDbaOLbLXmqYM.pkg" size="4526901280" crc="8579abb3" md5="e462b7557f5e905a033a6c17829cbef2" sha1="c41492e897113c2ba09cb73081c34cd562a7c851" sha256="37def26c2eb58e85fb5af666328350d0e3da79c4e39d449d8bd024a597e19252"/>
 	</game>
 	<game name="Grand Theft Auto - San Andreas (Europe)" id="25376">
 		<description>Grand Theft Auto - San Andreas (Europe)</description>
@@ -13142,16 +13136,28 @@
 		<rom name="EP1004-NPEB02369_00-GTASANANDREASPS3.rap" size="16" crc="2ec70080" md5="e54fe716bb33126bc6414a7b1e809b8c" sha1="000a0b2ddb02ffc475dde6a787faf5f2e86169f8" sha256="336093c85fc8f186da88034171de8464492e926a1ec9df8cc32cf5e432b02d55"/>
 		<rom name="EP1004-NPEB02369_00-GTASANANDREASPS3_bg_1_f800803d6b6bed1931c6e024d66cbfb8148f4c7f.pkg" size="2220121744" crc="d6328b6f" md5="75828af3828c5b25e3577825475ea0e8" sha1="da09ef4af1e8ea648d70b93c0cab7b4e6ee8f8d8"/>
 	</game>
-	<game name="Grand Theft Auto - Vice City (Australia) (PS2 Classics)" id="35475">
-		<description>Grand Theft Auto - Vice City (Australia) (PS2 Classics)</description>
-		<game_id>EP1004-NPED00121_00-GGRANDTHEF000ANZ</game_id>
-		<rom name="XnmahAeWXwslcULuwTXzWxvFLibOmVoPzytjoNhEDCYviVfroJeOvAdSSBaQyXZO.pkg" size="4598388992" crc="be990385" md5="44e651aef053cb9833577e06104bf0d1" sha1="8926e58803103775814942a81243db70f39532c1"/>
+	<game name="Grand Theft Auto - San Andreas - USK Version (Germany) (PS2 Classics) (Alt)" id="13484">
+		<description>Grand Theft Auto - San Andreas - USK Version (Germany) (PS2 Classics) (Alt)</description>
+		<game_id>EP1004-NPED00070_00-GGRANDTHEF000USK</game_id>
+		<rom name="boToieFBwQhFtXwKRSMTCWqzEmsAbnirzipUEpbmdcDRNJNIGdANkPGwaaMaZtEu.pkg" size="4546660384" crc="144e47d4" md5="f544c03cc814cfd0aa7b32f3afcac084" sha1="6d073cf31017833e973fe0313fa6becae0fc056d"/>
+		<rom name="EP1004-NPED00070_00-GGRANDTHEF000USK.rap" size="16" crc="932a5408" md5="0dcc792fd69521c06ab1ff57c136325f" sha1="473a054379088fe7f57bcec22bdea62c342d75d3"/>
+	</game>
+	<game name="Grand Theft Auto - San Andreas - USK Version (Germany) (PS2 Classics)" id="18151">
+		<description>Grand Theft Auto - San Andreas - USK Version (Germany) (PS2 Classics)</description>
+		<game_id>EP1004-NPED00070_00-GGRANDTHEF000USK</game_id>
+		<rom name="FMYgnqpAiyPxDoCBBvHsUuIpkOfmIqMyxYWtROYKcvviRxearoTMcTABNBHmDDiP.pkg" size="4528244768" crc="93510198" md5="048ed9560f79597b3ef18e21ec3029f5" sha1="4760c226dc4dd8a6bfd0137d315884e789695f9b"/>
+		<rom name="EP1004-NPED00070_00-GGRANDTHEF000USK.rap" size="16" crc="932a5408" md5="0dcc792fd69521c06ab1ff57c136325f" sha1="473a054379088fe7f57bcec22bdea62c342d75d3"/>
 	</game>
 	<game name="Grand Theft Auto - Vice City (Europe) (PS2 Classics)" id="18153">
 		<description>Grand Theft Auto - Vice City (Europe) (PS2 Classics)</description>
 		<game_id>EP1004-NPED00121_00-GGRANDTHEF000ENG</game_id>
 		<rom name="eEKoqWOIjibhMRkeSuiBrtLUXcxbYwZCVKCqIZzFIzPtQumMNHblVVviDaHceibk.pkg" size="4598388992" crc="47d08dce" md5="e847937b2053e747471dd3647f16ea27" sha1="d51806bc1efdd2107f4c370a3576181cdd893488"/>
 		<rom name="EP1004-NPED00121_00-GGRANDTHEF000ENG.rap" size="16" crc="09e6960b" md5="334fbd4b35a65eaab546026109b58226" sha1="67b32e42f1e4b4b454469a139854d475c70946db" sha256="209cd1b418463fd387c8aca174165c68cca8f402bbccf9bbaf2fe8644ae06f35"/>
+	</game>
+	<game name="Grand Theft Auto - Vice City (Australia) (PS2 Classics)" id="35475">
+		<description>Grand Theft Auto - Vice City (Australia) (PS2 Classics)</description>
+		<game_id>EP1004-NPED00121_00-GGRANDTHEF000ANZ</game_id>
+		<rom name="XnmahAeWXwslcULuwTXzWxvFLibOmVoPzytjoNhEDCYviVfroJeOvAdSSBaQyXZO.pkg" size="4598388992" crc="be990385" md5="44e651aef053cb9833577e06104bf0d1" sha1="8926e58803103775814942a81243db70f39532c1"/>
 	</game>
 	<game name="Grand Theft Auto - Vice City (USA) (PS2 Classics)" id="09557">
 		<description>Grand Theft Auto - Vice City (USA) (PS2 Classics)</description>
@@ -13176,6 +13182,12 @@
 		<game_id>EP1004-NPED00063_00-GGRANDTHEF000ANZ</game_id>
 		<rom name="QkqonLBqgpkGBvRAAsIZDSvGARIeuLQUzEXrqbrQjzJUOnduhXVqyZYEnXZKHXSj.pkg" size="4727512784" crc="55caa6c8" md5="cec7a97e41fd8196f70e08895ffcb463" sha1="338351d630b1e4000ba4f3efcc9619a831e61eae"/>
 	</game>
+	<game name="Grand Theft Auto III (United Kingdom) (PS2 Classics)" id="18152">
+		<description>Grand Theft Auto III (United Kingdom) (PS2 Classics)</description>
+		<game_id>EP1004-NPED00063_00-GGRANDTHEF000ENG</game_id>
+		<rom name="WchRGsvgTlIhXkfjmOOdDRLUzYeKQNhTEMHSJHScreVwQdaMyEElNJnqBMPpujlY.pkg" size="4727512784" crc="dc3aeeaa" md5="cb310001048ba988dc9b396a41c9050a" sha1="e84a2c641bc319486cbc3d87e6c603ed9c27ca05"/>
+		<rom name="EP1004-NPED00063_00-GGRANDTHEF000ENG.rap" size="16" crc="fc36806f" md5="0b354f6630832fdaf44d0a228d448816" sha1="3fc783cc88012c23f686263988aca8653d607b10" sha256="b0e147295e1b135bfbd5b619f45321ed10da196bb0145b6c052238bb98fd793d"/>
+	</game>
 	<game name="Grand Theft Auto III (Germany) (PS2 Classics)" id="00308">
 		<description>Grand Theft Auto III (Germany) (PS2 Classics)</description>
 		<game_id>EP1004-NPED00063_00-GGRANDTHEF000GER</game_id>
@@ -13188,11 +13200,17 @@
 		<rom name="wZsSERVJpnvmDiVHGUxCVoGAmzBflzozdlOomXHojXBHuMcYsPSLiEsECFCuqbVjUEdzkJlBMwbiliPUZogfjDCPClpeNLylpyCKJ.pkg" size="4674362448" crc="82952aa2" md5="6415645a7494b1feaae290dff1b87b45" sha1="142ea0677d00e61bc3fc2b91c392d41d7c395896"/>
 		<rom name="UP9000-NPUD20062_00-0000000000000000.rap" size="16" crc="ddee24f5" md5="2a0208d772c1f34d978bb2643431e1b0" sha1="a6e7d148c181ac64796ebc5e8473dca71708c800"/>
 	</game>
-	<game name="Grand Theft Auto III (United Kingdom) (PS2 Classics)" id="18152">
-		<description>Grand Theft Auto III (United Kingdom) (PS2 Classics)</description>
-		<game_id>EP1004-NPED00063_00-GGRANDTHEF000ENG</game_id>
-		<rom name="WchRGsvgTlIhXkfjmOOdDRLUzYeKQNhTEMHSJHScreVwQdaMyEElNJnqBMPpujlY.pkg" size="4727512784" crc="dc3aeeaa" md5="cb310001048ba988dc9b396a41c9050a" sha1="e84a2c641bc319486cbc3d87e6c603ed9c27ca05"/>
-		<rom name="EP1004-NPED00063_00-GGRANDTHEF000ENG.rap" size="16" crc="fc36806f" md5="0b354f6630832fdaf44d0a228d448816" sha1="3fc783cc88012c23f686263988aca8653d607b10" sha256="b0e147295e1b135bfbd5b619f45321ed10da196bb0145b6c052238bb98fd793d"/>
+	<game name="Grand Theft Auto IV (Europe) (v1.01)" id="09559">
+		<description>Grand Theft Auto IV (Europe) (v1.01)</description>
+		<game_id>EP1017-NPEB00882_00-GTAIVDIGITAL0001</game_id>
+		<rom name="cEnOKhGHeMCLXSZehWVvCDLNnwGUgxLILSwzqjVlVnTVqiqmwALXqenjYTRuDmTg.pkg" size="11022785472" crc="ef91f967" md5="cec2b516e2f02b0a056b04f0cce94573" sha1="22ef70ef2c4fcda41bc4cb7e856bd264de2b79ed"/>
+		<rom name="EP1017-NPEB00882_00-GTAIVDIGITAL0001.rap" size="16" crc="1fa1889a" md5="d1053a744c1ea733be331953c2fe27ff" sha1="d40af657ff815c357f981d1754202b6fe24bd121"/>
+	</game>
+	<game name="Grand Theft Auto IV (USA) (v1.00)" id="09568">
+		<description>Grand Theft Auto IV (USA) (v1.00)</description>
+		<game_id>UP1017-NPUB30702_00-GTAIVDIGITAL0001</game_id>
+		<rom name="tgkBIYYIBRHfxyuEfyYwkkxDsMiOLVCLTJHBWZsnfIaQxaNenWsOkiaagvdwgKEAhTqrjsLoXgMzGESWknIdoApRZMUXsvziXezPl.pkg" size="11022785456" crc="f2b179ce" md5="b9e215c0618f059f9c6a78c0e43dcb63" sha1="d8626829b585abafc6187795e0d3e61a0793484c"/>
+		<rom name="UP1017-NPUB30702_00-GTAIVDIGITAL0001.rap" size="16" crc="399b7551" md5="5225b5f12a9b69421c4aac8d80713c86" sha1="66064aaf9f2d9e53c8b74bccc644e3b38a301c0a"/>
 	</game>
 	<game name="Grand Theft Auto IV (Europe) (v2.00)" id="34067">
 		<description>Grand Theft Auto IV (Europe) (v2.00)</description>
@@ -13205,18 +13223,6 @@
 		<game_id>UP1017-NPUB30702_00-GTAIVDIGITAL0001</game_id>
 		<rom name="UP1017-NPUB30702_00-GTAIVDIGITAL0001.rap" size="16" crc="399b7551" md5="5225b5f12a9b69421c4aac8d80713c86" sha1="66064aaf9f2d9e53c8b74bccc644e3b38a301c0a"/>
 		<rom name="UP1017-NPUB30702_00-GTAIVDIGITAL0001_bg_2_9b064f933b0ec5abb7fea40a8daf7814c46ef332.pkg" size="10920240400" crc="4a8bbdd1" md5="28d68c7fa98066dcba3ce148ab3d24f3" sha1="c4add74eb318667dc4f0c56e0693277b56cc40dd"/>
-	</game>
-	<game name="Grand Theft Auto IV (Europe) (v1.01)" id="09559">
-		<description>Grand Theft Auto IV (Europe) (v1.01)</description>
-		<game_id>EP1017-NPEB00882_00-GTAIVDIGITAL0001</game_id>
-		<rom name="cEnOKhGHeMCLXSZehWVvCDLNnwGUgxLILSwzqjVlVnTVqiqmwALXqenjYTRuDmTg.pkg" size="11022785472" crc="ef91f967" md5="cec2b516e2f02b0a056b04f0cce94573" sha1="22ef70ef2c4fcda41bc4cb7e856bd264de2b79ed"/>
-		<rom name="EP1017-NPEB00882_00-GTAIVDIGITAL0001.rap" size="16" crc="1fa1889a" md5="d1053a744c1ea733be331953c2fe27ff" sha1="d40af657ff815c357f981d1754202b6fe24bd121"/>
-	</game>
-	<game name="Grand Theft Auto IV (USA) (v1.00)" id="09568">
-		<description>Grand Theft Auto IV (USA) (v1.00)</description>
-		<game_id>UP1017-NPUB30702_00-GTAIVDIGITAL0001</game_id>
-		<rom name="tgkBIYYIBRHfxyuEfyYwkkxDsMiOLVCLTJHBWZsnfIaQxaNenWsOkiaagvdwgKEAhTqrjsLoXgMzGESWknIdoApRZMUXsvziXezPl.pkg" size="11022785456" crc="f2b179ce" md5="b9e215c0618f059f9c6a78c0e43dcb63" sha1="d8626829b585abafc6187795e0d3e61a0793484c"/>
-		<rom name="UP1017-NPUB30702_00-GTAIVDIGITAL0001.rap" size="16" crc="399b7551" md5="5225b5f12a9b69421c4aac8d80713c86" sha1="66064aaf9f2d9e53c8b74bccc644e3b38a301c0a"/>
 	</game>
 	<game name="Grand Theft Auto V (Europe)" id="09581">
 		<description>Grand Theft Auto V (Europe)</description>
@@ -13248,12 +13254,6 @@
 		<rom name="FDwhmZQKKoKgLVQBrtsamMdOmZQFNWKPLEsGVFUBHujHmZwJNpJLVFyOKtbFFMyGSBWCzzmEniFjbCOqBseQRDXqfCMbvVIMhzIBE.pkg" size="2100170352" crc="508f4811" md5="4209188cbae2fd8fb238356a49416989" sha1="cca52a1e8e138c5857f5879d745ad11c38683ef5"/>
 		<rom name="JP0184-NPJD00069_00-0000000000000000.rap" size="16" crc="bf014f1d" md5="7136b36ff2d9f28c50ac0bd8c8918174" sha1="4b3568ed36bf57423d89509cace4d28b5eab0317"/>
 	</game>
-	<game name="Gravity Crash (USA) (Unlock Key)" id="19037">
-		<description>Gravity Crash (USA) (Unlock Key)</description>
-		<game_id>UP9000-NPUA80292_00-KGRAVITYCR000001</game_id>
-		<rom name="FndONHVu5VQdkSkMyrW7V1ViI2puG6yTmhjab9qddDNf0YwbKBKa7LsTNGmaC5I4phulrYIsVsoiRBDnm9ttqOyYIqJtxw0MtuQHY.pkg" size="6080" crc="f1b59bc6" md5="dfab254b52af31cfe6317833d38a64e9" sha1="0666dba422a0d280b3f9d449e24f15be719d8578"/>
-		<rom name="UP9000-NPUA80292_00-KGRAVITYCR000001.rap" size="16" crc="e6965e21" md5="e27a85aa8c8044ab07d3063d082af432" sha1="68f381b276049550ff73c12923975ca2fde19ff4"/>
-	</game>
 	<game name="Gravity Crash (Asia) (Trial)" id="09672">
 		<description>Gravity Crash (Asia) (Trial)</description>
 		<game_id>HP9000-NPHA80076_00-UGRAVITYCR000001</game_id>
@@ -13274,6 +13274,12 @@
 		<game_id>UP9000-NPUA80292_00-UGRAVITYCR000001</game_id>
 		<rom name="u18VSJaNLeV3c2c1ijIa9VUAP3L8smSleLmc4A37MoeTFYC1MeMVAiiOd7N3c6xYP9HbWWV7hWbE2do6DTiY8Gi7uRe1uvE91ct8h.pkg" size="185735312" crc="7f033434" md5="4c1522dfc3f7797fffca268ef777d3a8" sha1="a1a6ccc110483104c3601d7cee67624bfa76ae0c"/>
 	</game>
+	<game name="Gravity Crash (USA) (Unlock Key)" id="19037">
+		<description>Gravity Crash (USA) (Unlock Key)</description>
+		<game_id>UP9000-NPUA80292_00-KGRAVITYCR000001</game_id>
+		<rom name="FndONHVu5VQdkSkMyrW7V1ViI2puG6yTmhjab9qddDNf0YwbKBKa7LsTNGmaC5I4phulrYIsVsoiRBDnm9ttqOyYIqJtxw0MtuQHY.pkg" size="6080" crc="f1b59bc6" md5="dfab254b52af31cfe6317833d38a64e9" sha1="0666dba422a0d280b3f9d449e24f15be719d8578"/>
+		<rom name="UP9000-NPUA80292_00-KGRAVITYCR000001.rap" size="16" crc="e6965e21" md5="e27a85aa8c8044ab07d3063d082af432" sha1="68f381b276049550ff73c12923975ca2fde19ff4"/>
+	</game>
 	<game name="Grease Dance (USA) (Demo)" id="18488">
 		<description>Grease Dance (USA) (Demo)</description>
 		<game_id>UP4040-NPUB90692_00-GREASEDEMOAMERIA</game_id>
@@ -13289,17 +13295,17 @@
 		<game_id>EP4104-NPEB90205_00-GREEDCORP0000000</game_id>
 		<rom name="IPkXLeqbLSG6obY7Q5hkqPqHOQHDmvrD8IOf44aqXHP0sCCgKHqrqE1pFcC3iP2DWms3uJFySXdNIl3429bnY6K1aMBwAUfPDlNIQ.pkg" size="184222032" crc="4641f507" md5="35c6db45969a542f09d6fbc67c1d101b" sha1="b7be999d51299282f554f1f8226ede61200f1ebb"/>
 	</game>
-	<game name="Greed Corp (USA)" id="09679">
-		<description>Greed Corp (USA)</description>
-		<game_id>UP4104-NPUB30130_00-GREEDCORP0000000</game_id>
-		<rom name="kwE7yj7JRMvYeE52CaSlxD4mJ09fk8NmkOkojOgNnMkf2Wvlb8W5E2rJFtuJ6J0k2W7QOhsD0Nrcuc7iu0Y0SMPDOXFNyRD1PckkG.pkg" size="314324208" crc="c3ee9f67" md5="e1afb2dc2e0f4e59f411c8d688071a86" sha1="7f5d5f5cd7db3e687c9cc0d4f2530fca0f3405ca"/>
-		<rom name="UP4104-NPUB30130_00-GREEDCORP0000000.rap" size="16" crc="648e14cb" md5="844b89bb85d8b655bab12a7cc98ff8ea" sha1="8bdcfff6748bec73027457c11c44675eebe17d8c"/>
-	</game>
 	<game name="Greed Corp (Japan)" id="19038">
 		<description>Greed Corp (Japan)</description>
 		<game_id>JP0604-NPJB00075_00-GREEDCORP0000000</game_id>
 		<rom name="o9JCb7hj7LH68jDcRm0AMMTyM8rybMtXUcm5jblJQAKh3Y3H0rsp4w81o8USOuy311yPM12e9LEygpcmiqSbpQJ02Uhp106vJP6LD.pkg" size="333798896" crc="ae4c9865" md5="869bcbdd7ff425b01a43ad675dd6a3e4" sha1="9eb38372f7549b3d520731a120e6c189f333baa9"/>
 		<rom name="JP0604-NPJB00075_00-GREEDCORP0000000.rap" size="16" crc="d740e970" md5="4a377b4776f3c7211577608893af63cf" sha1="b69d908001964a07d4d28f5188130a0e3a8857d0"/>
+	</game>
+	<game name="Greed Corp (USA)" id="09679">
+		<description>Greed Corp (USA)</description>
+		<game_id>UP4104-NPUB30130_00-GREEDCORP0000000</game_id>
+		<rom name="kwE7yj7JRMvYeE52CaSlxD4mJ09fk8NmkOkojOgNnMkf2Wvlb8W5E2rJFtuJ6J0k2W7QOhsD0Nrcuc7iu0Y0SMPDOXFNyRD1PckkG.pkg" size="314324208" crc="c3ee9f67" md5="e1afb2dc2e0f4e59f411c8d688071a86" sha1="7f5d5f5cd7db3e687c9cc0d4f2530fca0f3405ca"/>
+		<rom name="UP4104-NPUB30130_00-GREEDCORP0000000.rap" size="16" crc="648e14cb" md5="844b89bb85d8b655bab12a7cc98ff8ea" sha1="8bdcfff6748bec73027457c11c44675eebe17d8c"/>
 	</game>
 	<game name="Green Day - Rock Band (USA) (Demo)" id="34327">
 		<description>Green Day - Rock Band (USA) (Demo)</description>
@@ -13362,17 +13368,17 @@
 		<game_id>EP4001-NPEB90519_00-0000000GRID2DEMO</game_id>
 		<rom name="ZvXZUxOFHoodpmgskphGpGXPutNxHcotZYZVLIDVEwXzRBsQZcSrgxrlJbwjIimB.pkg" size="1105746800" crc="776b805b" md5="5cc3e2e60a6e68107551ed2215892d6d" sha1="9babf28e857dbd1221c7e74d203a46cc284a4640" sha256="7b7ff763eda2d3a500c18304bd76a45d04203ed3e39a4b85f34261fb4a5acb7e"/>
 	</game>
-	<game name="Grid Autosport (Europe)" id="19039">
-		<description>Grid Autosport (Europe)</description>
-		<game_id>EP4001-NPEB02033_00-000GRIDAUTOSPORT</game_id>
-		<rom name="FCCPFalOxpzfAaxJYDoHkcRYQHffALFHoyuSpIYwOXWyGMgOkyEViGIfUyukcXisJCJpnUIuWqbqmUVmzsLbMZKGuezsBSnqEMrEt.pkg" size="8212387856" crc="eeb36e58" md5="9ebc86cc412e1849f74e0e8b7513bb20" sha1="851805ea25618dad5ff79d1075631b9737cc2c73"/>
-		<rom name="EP4001-NPEB02033_00-000GRIDAUTOSPORT.rap" size="16" crc="de24526a" md5="f3012b90a894635491f27ef67c81eb0c" sha1="7d8a3f1ae78154eb19f170b9f370a43cd15e282e"/>
-	</game>
 	<game name="Grid Autosport (USA)" id="09686">
 		<description>Grid Autosport (USA)</description>
 		<game_id>UP4001-NPUB31527_00-000GRIDAUTOSPORT</game_id>
 		<rom name="kbeSgeHdwPeJoLSVTUEHheLttBvGeTlqsBVxynxOMbUQyKsJpoztXZRTfDwGGNUVFsSfNlpAIigKGsSHimOURAcmCQlVsOsdQBuKw.pkg" size="7833008464" crc="02750788" md5="38032195ee889ecd7f33c31d79e98d03" sha1="82da98fb729c1a43900130565a9c0bd359ac76a2"/>
 		<rom name="UP4001-NPUB31527_00-000GRIDAUTOSPORT.rap" size="16" crc="009b0d96" md5="0c9a162bacaafe89566c65e6780a21c5" sha1="ee8e2739c8931c8e5be40e4efdf4d5108e3217de"/>
+	</game>
+	<game name="Grid Autosport (Europe)" id="19039">
+		<description>Grid Autosport (Europe)</description>
+		<game_id>EP4001-NPEB02033_00-000GRIDAUTOSPORT</game_id>
+		<rom name="FCCPFalOxpzfAaxJYDoHkcRYQHffALFHoyuSpIYwOXWyGMgOkyEViGIfUyukcXisJCJpnUIuWqbqmUVmzsLbMZKGuezsBSnqEMrEt.pkg" size="8212387856" crc="eeb36e58" md5="9ebc86cc412e1849f74e0e8b7513bb20" sha1="851805ea25618dad5ff79d1075631b9737cc2c73"/>
+		<rom name="EP4001-NPEB02033_00-000GRIDAUTOSPORT.rap" size="16" crc="de24526a" md5="f3012b90a894635491f27ef67c81eb0c" sha1="7d8a3f1ae78154eb19f170b9f370a43cd15e282e"/>
 	</game>
 	<game name="Grim Grimoire (USA) (PS2 Classics)" id="09726">
 		<description>Grim Grimoire (USA) (PS2 Classics)</description>
@@ -14198,6 +14204,12 @@
 		<rom name="uaOGLVuHnKmBaUMLhHwcXDuMmNMPjMxEJqhBUeBVOxSoYErZqJCJFkqPVtXCZaQz.pkg" size="17311060144" crc="49d4b71d" md5="f14d1e717448fceeae53cc89476a0973" sha1="9234065cf46bb5c24a77f5c981d667599c21f9fb"/>
 		<rom name="UP0082-NPUB30744_00-HITMANABSOLUTION.rap" size="16" crc="ba89ad90" md5="1e39747d32f74c0a8626a7d1a74649a6" sha1="f65db45fc8909898bc9c0db4547e7cf950bba52c"/>
 	</game>
+	<game name="Hitman - Absolution (Japan)" id="41480">
+		<description>Hitman - Absolution (Japan)</description>
+		<game_id>JP0082-NPJB00206_00-HITMANABSOLUTION</game_id>
+		<rom name="JP0082-NPJB00206_00-HITMANABSOLUTION.rap" size="16" crc="2fe4d792" md5="5f058f399a64fe8a0eed53f3af6256b4" sha1="5fdd016c776df880f170e2fe483fa75d7fd30164" sha256="c3287c21d9346ab919c430016246e938fd5e66aa29bb9848cf0fdf5f1ece1eb2"/>
+		<rom name="pAzRNLFUlYzvWKjVgHYtVqdLPKTfQZKDpLfxWogQdhqYVaChjfSNyQJtliRzIoxOYtCjpNmEKajWPUaKOOzSIdmDeWCrDMFqbDRVK.pkg" size="14841882224" crc="74741223" md5="64fdf418ff89b6e961d77e256ededb69" sha1="16c4bd6205e12b87dcbae628ea53bb33f704e51b" sha256="58fb43cdc15125b03c0873f52e69493f65e06c07246acf2b634af2ecc265dd93"/>
+	</game>
 	<game name="Hitman - Absolution (Europe) (En,Fr,Es)" id="13507">
 		<description>Hitman - Absolution (Europe) (En,Fr,Es)</description>
 		<game_id>EP0082-NPEB00914_00-HITMANABSOLUTION</game_id>
@@ -14215,12 +14227,6 @@
 		<game_id>EP0082-NPEB00993_00-HITMANABSOLUTION</game_id>
 		<rom name="XbAZiMkRjnbvvWnugZbEpnLVACmUZrxWfChJRkyDgIMkvWcRQxyZKUKTUQTSFMnz.pkg" size="17546604800" crc="f4387afd" md5="6dc9e8b7d8f909a25d39b28d805361fb" sha1="41b74a25a5c41681a3a667d9d0e9b526cf7402d6"/>
 		<rom name="EP0082-NPEB00993_00-HITMANABSOLUTION.rap" size="16" crc="ecfe6f1b" md5="855b0afb7049e7c0e649c24aa90b156a" sha1="3918f21beebb44a14507cdd3bcf8fc4d9b3ec468"/>
-	</game>
-	<game name="Hitman - Absolution (Japan)" id="41480">
-		<description>Hitman - Absolution (Japan)</description>
-		<game_id>JP0082-NPJB00206_00-HITMANABSOLUTION</game_id>
-		<rom name="JP0082-NPJB00206_00-HITMANABSOLUTION.rap" size="16" crc="2fe4d792" md5="5f058f399a64fe8a0eed53f3af6256b4" sha1="5fdd016c776df880f170e2fe483fa75d7fd30164" sha256="c3287c21d9346ab919c430016246e938fd5e66aa29bb9848cf0fdf5f1ece1eb2"/>
-		<rom name="pAzRNLFUlYzvWKjVgHYtVqdLPKTfQZKDpLfxWogQdhqYVaChjfSNyQJtliRzIoxOYtCjpNmEKajWPUaKOOzSIdmDeWCrDMFqbDRVK.pkg" size="14841882224" crc="74741223" md5="64fdf418ff89b6e961d77e256ededb69" sha1="16c4bd6205e12b87dcbae628ea53bb33f704e51b" sha256="58fb43cdc15125b03c0873f52e69493f65e06c07246acf2b634af2ecc265dd93"/>
 	</game>
 	<game name="Hitman - Blood Money HD (Europe)" id="13867">
 		<description>Hitman - Blood Money HD (Europe)</description>
@@ -15641,6 +15647,20 @@
 		<rom name="VoMyrXCrWATePvUyryZuDHHxDALraMWTDGFGwFnaHKyopFrDccwRrCTXAvAPxcje.pkg" size="3664353264" crc="964fb5d6" md5="96347358fa099c6ae5457756adbccabf" sha1="249dcffe9c2ebeca18a58f492ab815157b052935"/>
 		<rom name="EP0082-NPED00074_00-GJUSTCAUSE000ENG.rap" size="16" crc="35d7c5c0" md5="26321e37b5ffe8da5f99cdb1f8f2dd9f" sha1="918ac47f287b07be5d124303da8f1c18f84968cc"/>
 	</game>
+	<game name="Just Cause (Italy) (PS2 Classics)" id="46030">
+		<category>Games</category>
+		<description>Just Cause (Italy) (PS2 Classics)</description>
+		<game_id>EP0082-NPED00074_00-GJUSTCAUSE000ITA</game_id>
+		<rom name="aseIPxXIpxwxpYCqAbGGZNpucVkWPOePMGTcGNucTYmDOmIwEvMdYHPJQGuXahgu.pkg" size="3664370240" crc="715079c5" md5="ccddf27faeea0792e1b6a51c2fca6912" sha1="75815f2c0fa3df61570b9e4dda0551d9c3682eea" sha256="3b1d0e1d14a98b8e5389d135d47c90f0386d731dd2d877d5c085f93f083a7d74"/>
+		<rom name="EP0082-NPED00074_00-GJUSTCAUSE000ITA.rap" size="16" crc="bce43089" md5="890a7101a6088bd01cdb02c5067f1b45" sha1="fa2abcaec40091c8930232f0872fd9ed9f290481" sha256="e906fc042bafccbd6da3c994fe329d74f1c3470e6776c1c2ed1712c0617b8711"/>
+	</game>
+	<game name="Just Cause 2 (Japan) (Demo)" id="45312">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Just Cause 2 (Japan) (Demo)</description>
+		<game_id>JP0082-NPJB90259_00-JUSTCAUSE2DEMOXX</game_id>
+		<rom name="SYBB3ey55grWPLoW9NFflWMtTp9XCV2twE3FLdmHYXh2mIkgbDuA6KSAvtmFPuefIXKXHfSAFYHpaBW6OBor9nfGw4i2MS2l7OqnH.pkg" size="1368428624" crc="df329db4" md5="c7c2a3082420cd264a2438fb4c5fb518" sha1="43840ab5d9040de6126ae562dc491b3de5711062" sha256="1b5251163d713c4a3bdfad6999f3644ce0c432fbe10ecd33bc37121f471a5e19"/>
+	</game>
 	<game name="Just Cause 2 (USA)" id="10416">
 		<description>Just Cause 2 (USA)</description>
 		<game_id>UP0082-NPUB30606_00-JUSTCAUSE2PSNVER</game_id>
@@ -15651,13 +15671,6 @@
 		<description>Just Cause 2 (USA) (Demo)</description>
 		<game_id>UP0082-NPUB90359_00-JUSTCAUSE2DEMOXX</game_id>
 		<rom name="U2DU78vDMfdKBiVPV8PdOMkH34PvuI74bequw1theIP0CWIDX72QvCyppASngPj82dSbTIpVMfyP5M4hgWOo6yd5PkIFX63asLPDd.pkg" size="1507924704" crc="aae14412" md5="a14e6cf8952812b4cef72421b2a59965" sha1="8b874208c12665f53dc26f9e3810a452098ec44a"/>
-	</game>
-	<game name="Just Cause 2 (Japan) (Demo)" id="45312">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Just Cause 2 (Japan) (Demo)</description>
-		<game_id>JP0082-NPJB90259_00-JUSTCAUSE2DEMOXX</game_id>
-		<rom name="SYBB3ey55grWPLoW9NFflWMtTp9XCV2twE3FLdmHYXh2mIkgbDuA6KSAvtmFPuefIXKXHfSAFYHpaBW6OBor9nfGw4i2MS2l7OqnH.pkg" size="1368428624" crc="df329db4" md5="c7c2a3082420cd264a2438fb4c5fb518" sha1="43840ab5d9040de6126ae562dc491b3de5711062" sha256="1b5251163d713c4a3bdfad6999f3644ce0c432fbe10ecd33bc37121f471a5e19"/>
 	</game>
 	<game name="Just Cause 2 (Europe)" id="13532">
 		<description>Just Cause 2 (Europe)</description>
@@ -17123,7 +17136,7 @@
 		<description>LEGO Marvel Avengers (USA)</description>
 		<game_id>UP1018-NPUB31708_00-LEGOMARVELAVENGE</game_id>
 		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE_bg_1_34b6b1df12431f46737afe65385fac5ab5681664.pkg" size="8279000544" crc="197ba688" md5="e38e48e0b3049968a96e939fc2b1d6b4" sha1="b781386b953c18ccd0cc2167f3ad1604cb42370b"/>
-		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE.rap" size="16" crc="a3043fc7" md5="2241e0e747bf0047cfeac0e1fa35e3d9" sha1="7ebd002ecd98b418cf8ed21f4b16ffa0fb73a397"/>
+		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE.rap" size="16" crc="7c2433d7" md5="b3fe80faadcb635a7a201eb33b965626" sha1="855322f9f763dfb907c409fa53a1fe57e0f976fb" sha256="f31ef8ce6f2c82319bd9a1ae5ffdf07aad62de1ae5f659aa0d6d38a66bd14265"/>
 	</game>
 	<game name="LEGO Marvel Avengers (Europe) (Demo)" id="18522">
 		<description>LEGO Marvel Avengers (Europe) (Demo)</description>
@@ -18634,6 +18647,12 @@
 		<rom name="kyBlphTkKJaqkFTxZtNSHEtgpesemUcXBOAZlYJxJHsrXbMyNvKLVYJdnWiZTnBP.pkg" size="6080" crc="e81cb5da" md5="9b4599c7d5581705c37ea0bbd5f90878" sha1="c9fff11966e3b84eede6044055bb0f697fc2e270" sha256="92a78b91709fa72c16be8d24d208b43b51f2b952d0b81a244f2d9ecd3a36bd10" status="verified"/>
 		<rom name="EP0102-NPEB00869_00-MVC2011040100002.rap" size="16" crc="a2f9dcce" md5="714867ab69d5a4458f98148d1c6082e8" sha1="431f3cc9832be18d2b9512977d63ae1a31eb63eb" sha256="a797fdbd9956ea58355e2eacc8d316f3eff3348e8f4697dbb39b577044d4a4c0" status="verified"/>
 	</game>
+	<game name="Marvel vs. Capcom 2 - New Age of Heroes (Europe) (Unlock Key)" id="46028">
+		<description>Marvel vs. Capcom 2 - New Age of Heroes (Europe) (Unlock Key)</description>
+		<game_id>EP0102-NPEB00087_00-MVC2PURCHASE0000</game_id>
+		<rom name="0sppvgk4tKvBEyLOriS7778VmUuHvuf8WNjqXbDdwrCK2QTe63TjrA0Lt8wpb2aSsP1UWGMdDlGuBFbjiHapuC34O6rVl5QkBVTiY.pkg" size="6048" crc="cd8cedf1" md5="9c3345e93cd4ba933c6c79846e46f56d" sha1="13176e420422ae0a281b46caa367cd91d0ea4ff0" sha256="d489acad1d572669d26f3fbe965ad866431733a103be7a7a2166d9df0e03d93c"/>
+		<rom name="EP0102-NPEB00087_00-MVC2PURCHASE0000.rap" size="16" crc="ad6615d2" md5="47492529902d4917160692af8a811917" sha1="622e81d6acab13d5dd9c06a4e558372e9abd527e" sha256="aed5cb67948abf47a04e9ef9fec4171f843edb1b83db206938109c8deadebdb3"/>
+	</game>
 	<game name="Marvel vs. Capcom 2 - New Age of Heroes (Europe) (Trial)" id="03906">
 		<description>Marvel vs. Capcom 2 - New Age of Heroes (Europe) (Trial)</description>
 		<game_id>EP0102-NPEB00087_00-MARVELVCAPCOM2FG</game_id>
@@ -18665,16 +18684,16 @@
 		<game_id>JP0102-NPJB00025_00-MARVELVCAPCOM2FG</game_id>
 		<rom name="geBNRmYLd6V0uUnDs4VratyrE0wCfD5aunYJIS2NdhXKto2Sck4mrwi99Yk0IXC7uC2sIFvkYUTiO0YNpQr5gvMwsgDgSMRtDfM8P.pkg" size="209646160" crc="f9ca727e" md5="17d3fcb758e624c18f0bf2872ae97ba5" sha1="b33a9e7ffe4db63dfa381f0c841d7b7bcac06d7f"/>
 	</game>
-	<game name="Masquerade - The Baubles of Doom (Europe)" id="19106">
-		<description>Masquerade - The Baubles of Doom (Europe)</description>
-		<game_id>EP4249-NPEB01933_00-MASQUERADE000001</game_id>
-		<rom name="EP4249-NPEB01933_00-MASQUERADE000001_bg_1_f51d1cc44e4c011fc039753a28b55385099fa295.pkg" size="3348000224" crc="95fa1da0" md5="1ccb9543e3f40100ec7ebb6c428be292" sha1="7b91ebe8c838397ad31a8f66c98f9bd6af54b7a7"/>
-	</game>
 	<game name="Masquerade - The Baubles of Doom (USA)" id="45974">
 		<description>Masquerade - The Baubles of Doom (USA)</description>
 		<game_id>UP4249-NPUB31516_00-MASQUERADE000001</game_id>
 		<rom name="UP4249-NPUB31516_00-MASQUERADE000001_bg_1_cf6410cf31c6d253592c8b75f9d75d579c23da25.pkg" size="3348000160" crc="925689ab" md5="1330192a50b8cedbe4e1998d247802aa" sha1="a9f25aadcec5d81f0d135c2d1556fc3fe36fd3e4"/>
 		<rom name="UP4249-NPUB31516_00-MASQUERADE000001.rap" size="16" crc="463b1077" md5="dbaed1d44d07c110a42b567cb7dff8a2" sha1="ca7bf525ef86bbff18d1a417e938519f9b3f7c6d"/>
+	</game>
+	<game name="Masquerade - The Baubles of Doom (Europe)" id="19106">
+		<description>Masquerade - The Baubles of Doom (Europe)</description>
+		<game_id>EP4249-NPEB01933_00-MASQUERADE000001</game_id>
+		<rom name="EP4249-NPEB01933_00-MASQUERADE000001_bg_1_f51d1cc44e4c011fc039753a28b55385099fa295.pkg" size="3348000224" crc="95fa1da0" md5="1ccb9543e3f40100ec7ebb6c428be292" sha1="7b91ebe8c838397ad31a8f66c98f9bd6af54b7a7"/>
 	</game>
 	<game name="Mass Effect (Europe)" id="13574">
 		<description>Mass Effect (Europe)</description>
@@ -18704,6 +18723,11 @@
 		<game_id>UP0006-NPUB90506_00-DEMOSHIP00000000</game_id>
 		<rom name="MbuDqHbndBbmcMdYdMbdkVlhEwufxsxbxKmAnvOeWXAuqQoVdmKIUCHjQBOEljySlDaxcwpHgGashREznAOUacIQoDgDrmejWpIiR.pkg" size="2557666608" crc="54b45d6b" md5="afe7f47c0b2f50ec46b8fbc1dd0ae722" sha1="cea70e306dd7a08181354ab20e157fe25efc1e7c"/>
 	</game>
+	<game name="Mass Effect 2 (Europe) (Alt)" id="34201">
+		<description>Mass Effect 2 (Europe) (Alt)</description>
+		<game_id>EP0006-NPEB00503_00-MASSEFFECT200000</game_id>
+		<rom name="EP0006-NPEB00503_00-MASSEFFECT200000_bg_1_a2b87a3381f41b3fde6c6968b31c6bd571bb9d79.pkg" size="12778435056" crc="9481744c" md5="a4013d6e1a0c2a0768ce5805660277f6" sha1="8ff01b1e283c389798adda003ea1f6434f520d44" sha256="8afac9b5cb3dc0b587bb26c1944825f957f4ff1513911c7f622260ccaa46bdde"/>
+	</game>
 	<game name="Mass Effect 2 (Europe)" id="13575">
 		<description>Mass Effect 2 (Europe)</description>
 		<game_id>EP0006-NPEB00503_00-MASSEFFECT200000</game_id>
@@ -18714,11 +18738,6 @@
 		<description>Mass Effect 2 (Europe) (Demo)</description>
 		<game_id>EP0006-NPEB90300_00-DEMOSHIP00000000</game_id>
 		<rom name="zqlUhefYaRMNAjgLJMjteWxxWaiABSrEwHdYJmIeFfyOEmlbmwjFavUsHghByyUz.pkg" size="2579300528" crc="755d3717" md5="fe68da364ccebdb264c741861b0567d2" sha1="cb5cbb77c7c20ed8f18697fd073a5ea5a4e34eed"/>
-	</game>
-	<game name="Mass Effect 2 (Europe) (Alt)" id="34201">
-		<description>Mass Effect 2 (Europe) (Alt)</description>
-		<game_id>EP0006-NPEB00503_00-MASSEFFECT200000</game_id>
-		<rom name="EP0006-NPEB00503_00-MASSEFFECT200000_bg_1_a2b87a3381f41b3fde6c6968b31c6bd571bb9d79.pkg" size="12778435056" crc="9481744c" md5="a4013d6e1a0c2a0768ce5805660277f6" sha1="8ff01b1e283c389798adda003ea1f6434f520d44" sha256="8afac9b5cb3dc0b587bb26c1944825f957f4ff1513911c7f622260ccaa46bdde"/>
 	</game>
 	<game name="Mass Effect 3 (Europe)" id="13890">
 		<description>Mass Effect 3 (Europe)</description>
@@ -18760,12 +18779,6 @@
 		<rom name="V34BC7rLJDqJAQsvAtev8TFBuxG3GceHQFkdvU37ESKe5tqP4Swbb2or27qS0NyBF8LOPMUfejbqo36mkD3dxMY0E384C9UBXp2VL.pkg" size="551347968" crc="4ffc3f89" md5="80d13f2bbde641b71c1506a549151dbc" sha1="55544dbd58b62872b8d5c2df653e2c9da7e44b9a"/>
 		<rom name="JP0367-NPJB00036_00-MATTHAZARDFULL00.rap" size="16" crc="04e4f762" md5="353d64b36b7b0c50216e193afc335db6" sha1="befcccc5b3de57a0cc254357d944461a866293bf"/>
 	</game>
-	<game name="Matt Hazard - Blood Bath and Beyond (Europe) (Unlock Key)" id="41032">
-		<description>Matt Hazard - Blood Bath and Beyond (Europe) (Unlock Key)</description>
-		<game_id>EP0367-NPEB00133_00-MATTHAZARDFULL00</game_id>
-		<rom name="3w7xnSwuYCHGHEW5gLFkhsgf4Cq7saPkGIi2RcjO1d2Xt87Cvm581JI6ybY7bmDklUvXdDnJQgvIcqPhf2RdEeprOYlg71sqBP81I.pkg" size="6080" crc="6e1e7300" md5="7235880b35a7528036bedad52508f332" sha1="10caf6893a0dc1b384acc03b78dc1cb2d2093f19" sha256="8f3a0b9757bdca5e47f36a5a84267314b86d5c509b5eef906f719df616ec6f18"/>
-		<rom name="EP0367-NPEB00133_00-MATTHAZARDFULL00.rap" size="16" crc="201bf5bd" md5="799d58ba0fee48124bea485b277e6ab2" sha1="845379cf94e47efaa5544538d19c20736e27f508" sha256="fc8242e18184c8e1085c69cbe502513200d2b96c43be1387caad75c04399de0c"/>
-	</game>
 	<game name="Matt Hazard - Blood Bath and Beyond (Europe) (Trial)" id="03965">
 		<description>Matt Hazard - Blood Bath and Beyond (Europe) (Trial)</description>
 		<game_id>EP0367-NPEB00133_00-MATTHAZARDDEMO00</game_id>
@@ -18781,6 +18794,12 @@
 		<game_id>UP0367-NPUB30102_00-MATTHAZARDFULL00</game_id>
 		<rom name="VoWgxAUa4FhMh3lqUj7kT90SiQE3qpTVs9u5XpB1W466DfhU6TU2MnMdkn8uqV9uwnGqTc0fPHWuqTJybmPsNfVB5oiFSRjdLmpwR.pkg" size="6080" crc="12396462" md5="83bfca2ef637f81261eea04257c93945" sha1="dcdbe75092324e3857e32e19361245698038174f"/>
 		<rom name="UP0367-NPUB30102_00-MATTHAZARDFULL00.rap" size="16" crc="b0e0aceb" md5="29aaba31af639f1b188ca4eabc9a42e2" sha1="86b1eadcf2b8c8a356a125b0e68af917f5961e57"/>
+	</game>
+	<game name="Matt Hazard - Blood Bath and Beyond (Europe) (Unlock Key)" id="41032">
+		<description>Matt Hazard - Blood Bath and Beyond (Europe) (Unlock Key)</description>
+		<game_id>EP0367-NPEB00133_00-MATTHAZARDFULL00</game_id>
+		<rom name="3w7xnSwuYCHGHEW5gLFkhsgf4Cq7saPkGIi2RcjO1d2Xt87Cvm581JI6ybY7bmDklUvXdDnJQgvIcqPhf2RdEeprOYlg71sqBP81I.pkg" size="6080" crc="6e1e7300" md5="7235880b35a7528036bedad52508f332" sha1="10caf6893a0dc1b384acc03b78dc1cb2d2093f19" sha256="8f3a0b9757bdca5e47f36a5a84267314b86d5c509b5eef906f719df616ec6f18"/>
+		<rom name="EP0367-NPEB00133_00-MATTHAZARDFULL00.rap" size="16" crc="201bf5bd" md5="799d58ba0fee48124bea485b277e6ab2" sha1="845379cf94e47efaa5544538d19c20736e27f508" sha256="fc8242e18184c8e1085c69cbe502513200d2b96c43be1387caad75c04399de0c"/>
 	</game>
 	<game name="Max Anarchy (Japan)" id="35570">
 		<description>Max Anarchy (Japan)</description>
@@ -18815,16 +18834,16 @@
 		<rom name="rHwahUrDEQSPHdxsPwnyKywzwXYdevJqyzFWfHyFwwDNdyqIsDjSygSBiExFbnby.pkg" size="4348495184" crc="d0e27396" md5="a6ae90854c7ec7133e473f277c1de1f9" sha1="d9994c56d0bd9537b7a23cc6d840d509ba5cd90c"/>
 		<rom name="EP1004-NPED00145_00-GMAXPAYNEX000ENG.rap" size="16" crc="f0200499" md5="782051c2850b49dd9a2a506fcb601ea3" sha1="9cd1e2c9e76893d5700245f19c6fe88d332e10b8"/>
 	</game>
-	<game name="Max Payne (Europe)" id="46007">
-		<description>Max Payne (Europe)</description>
-		<game_id>EP1004-NPED00145_00-GMAXPAYNEX000SPA</game_id>
-		<rom name="BEKFeQOeDfJvVvnpggqasykUmXsyfQKEWxKKHaDQOXONiVNrSPHpCBpysEPcJxMb.pkg" size="4514917664" crc="a3a04477" md5="928c0b8cf74b3de7ed169522fbcfcd71" sha1="b5fb881b92a9f18e69713028a6a3826719c602b0"/>
-	</game>
 	<game name="Max Payne (USA) (PS2 Classics)" id="28914">
 		<description>Max Payne (USA) (PS2 Classics)</description>
 		<game_id>UP9000-NPUD20230_00-0000000000000000</game_id>
 		<rom name="MbEmqUJUkXVlJrCksvzQIHfJKJOYPnIWovDCopsjJzgXWGBugAFFATDnUSVlwtOlQJPCPGxTPzQTlbsuydTOvxTfvEaWJAkrxgqQN.pkg" size="4407351408" crc="1f9afd4e" md5="77f3ba718280734657b9deb2bb713f78" sha1="f624cca8475ffbd3c9c82016b1d3ed0f52b10942"/>
 		<rom name="UP9000-NPUD20230_00-0000000000000000.rap" size="16" crc="91e962bb" md5="0d72343e37fad97536cc32484bb83bec" sha1="5b071957d0ab7b514a2bc1310e8a6898b0d510b5"/>
+	</game>
+	<game name="Max Payne (Europe)" id="46007">
+		<description>Max Payne (Europe)</description>
+		<game_id>EP1004-NPED00145_00-GMAXPAYNEX000SPA</game_id>
+		<rom name="BEKFeQOeDfJvVvnpggqasykUmXsyfQKEWxKKHaDQOXONiVNrSPHpCBpysEPcJxMb.pkg" size="4514917664" crc="a3a04477" md5="928c0b8cf74b3de7ed169522fbcfcd71" sha1="b5fb881b92a9f18e69713028a6a3826719c602b0"/>
 	</game>
 	<game name="Max Payne 2 (Germany) (PS2 Classics)" id="03970">
 		<description>Max Payne 2 (Germany) (PS2 Classics)</description>
@@ -18894,12 +18913,6 @@
 		<rom name="EP0006-NPED00104_00-GMEDALOFHO001ENG.rap" size="16" crc="d65d47b8" md5="4a782acb052ab9c1e2034deb0435962b" sha1="5d4cd3ec3bf0cecdaf136a7367e662ad48251414"/>
 		<rom name="UNGFsICMDICUxRmSkxAEsvvuruevnWjOKZiwROJjyKgsroAQXINrTOryXEwXNPHf.pkg" size="3738661120" crc="374e13bb" md5="b20cb5ed470ba22b7cfbd70db99121dd" sha1="dad1540643893563107ff318f979710e317e376d"/>
 	</game>
-	<game name="Medal of Honor - Frontline (USA)" id="04012">
-		<description>Medal of Honor - Frontline (USA)</description>
-		<game_id>UP0006-NPUB30288_00-MEDOFHONFL002010</game_id>
-		<rom name="VWAbctBuxuuPYAYOffoEAGxNbjRsLEplnFcVXREzQkqCCnHrScMcpitSMmsPipxMpLWsblLswLbQpwiAqTGTAglawQQcmauczrkoC.pkg" size="4659203872" crc="dbd2a9dd" md5="0f6277a6c812a139b702a0e8dae09d8d" sha1="499dffb8bb5d497ed17533a5a94a9b390f3723a9"/>
-		<rom name="UP0006-NPUB30288_00-MEDOFHONFL002010.rap" size="16" crc="387080ca" md5="e8bb569d39cdfa0c52a6f696e81b2f06" sha1="256399d4f2cb047791fa596802957c81b7cd592d"/>
-	</game>
 	<game name="Medal of Honor - Frontline (Germany)" id="36188">
 		<description>Medal of Honor - Frontline (Germany)</description>
 		<game_id>EP0006-NPEB00327_00-MEDOFHONFL002010</game_id>
@@ -18912,17 +18925,23 @@
 		<rom name="vTAeeQLXGtRnnWFkurfrWHbsNMHpUUZAmmVKqbEwNCyWdHjKturFhLZkSXJhVNLB.pkg" size="6401225168" crc="90875e4a" md5="9700e34be8b618a209cc61a06a799410" sha1="1e9fe11a006b1cf295c716e95a54f7910a3da6a9" sha256="afd7e37ceabb315367b70430b29dc95d48dde5000cf664299de209d9b92c2bb4"/>
 		<rom name="EP0006-NPEB00308_00-MEDOFHONFL002010.rap" size="16" crc="0a21e91f" md5="f7fe9434035e631fcff484725244c20e" sha1="099e7cc4c4d23a6c35ce4a8c6189cdc2612075f5" sha256="fd1511c29525c2ed99e1659d5fea559902974a62c2168879e3c70d8b4dac58cd"/>
 	</game>
-	<game name="Medal of Honor - Warfighter (Europe)" id="13578">
-		<description>Medal of Honor - Warfighter (Europe)</description>
-		<game_id>EP0006-NPEB01193_00-MOHW000000000000</game_id>
-		<rom name="qWshqiwLTZqfANieqHtWniipTbNzGZpHhzDMYndPheoughXcELICgUuxkNbiqbRE.pkg" size="13376339424" crc="ec84c6b6" md5="15fdf9efb17e87f24b1931efc3ba4741" sha1="ef1fb34bf2841bdc25cb6950a5b50dd3c29ff3b5"/>
-		<rom name="EP0006-NPEB01193_00-MOHW000000000000.rap" size="16" crc="42739de0" md5="bf0b73ec348a2c9f9345f47ca734b80f" sha1="80757de26c86212b038e3bda94cc66d52ab833de"/>
+	<game name="Medal of Honor - Frontline (USA)" id="04012">
+		<description>Medal of Honor - Frontline (USA)</description>
+		<game_id>UP0006-NPUB30288_00-MEDOFHONFL002010</game_id>
+		<rom name="VWAbctBuxuuPYAYOffoEAGxNbjRsLEplnFcVXREzQkqCCnHrScMcpitSMmsPipxMpLWsblLswLbQpwiAqTGTAglawQQcmauczrkoC.pkg" size="4659203872" crc="dbd2a9dd" md5="0f6277a6c812a139b702a0e8dae09d8d" sha1="499dffb8bb5d497ed17533a5a94a9b390f3723a9"/>
+		<rom name="UP0006-NPUB30288_00-MEDOFHONFL002010.rap" size="16" crc="387080ca" md5="e8bb569d39cdfa0c52a6f696e81b2f06" sha1="256399d4f2cb047791fa596802957c81b7cd592d"/>
 	</game>
 	<game name="Medal of Honor - Warfighter (USA)" id="04017">
 		<description>Medal of Honor - Warfighter (USA)</description>
 		<game_id>UP0006-NPUB30759_00-MOHW000000000000</game_id>
 		<rom name="ytSUfzNHaLhgsCXrWzwnJxFrqcyzvXtxVFZntCjATDYnGXlwzMOioeTiCNpKnpQt.pkg" size="12451805808" crc="0285aeda" md5="462e2c4b1dcb7e06ead367965d680d5d" sha1="8abc0f68f5f3b36867c9981dd69d3f4bb1c48cb6"/>
 		<rom name="UP0006-NPUB30759_00-MOHW000000000000.rap" size="16" crc="f9b936bc" md5="67136adfa3dfa2021c374e3479813173" sha1="530cfecefb038604c8d3a6af919c2182d0b29080"/>
+	</game>
+	<game name="Medal of Honor - Warfighter (Europe)" id="13578">
+		<description>Medal of Honor - Warfighter (Europe)</description>
+		<game_id>EP0006-NPEB01193_00-MOHW000000000000</game_id>
+		<rom name="qWshqiwLTZqfANieqHtWniipTbNzGZpHhzDMYndPheoughXcELICgUuxkNbiqbRE.pkg" size="13376339424" crc="ec84c6b6" md5="15fdf9efb17e87f24b1931efc3ba4741" sha1="ef1fb34bf2841bdc25cb6950a5b50dd3c29ff3b5"/>
+		<rom name="EP0006-NPEB01193_00-MOHW000000000000.rap" size="16" crc="42739de0" md5="bf0b73ec348a2c9f9345f47ca734b80f" sha1="80757de26c86212b038e3bda94cc66d52ab833de"/>
 	</game>
 	<game name="Medieval Moves (Europe)" id="00456">
 		<description>Medieval Moves (Europe)</description>
@@ -18945,17 +18964,28 @@
 		<game_id>UP9000-NPUA70163_00-DQ00000000000001</game_id>
 		<rom name="gvvodzbbrvnlKtExzcGlkHOFVxreALPFyhXUjvBeBmEElBcqNZwUtcKuDpQSULxyxKRkeMbdrybVvirLultHHXnwQgjoVYfIjjSQy.pkg" size="1663474896" crc="1e8b62c4" md5="507c4e4021aef45ed2fa80872cb89c6c" sha1="74c2071551e737d169ec922af1972a7463909d76"/>
 	</game>
+	<game name="Meet the Robinsons (USA) (PS2 Classics)" id="24641">
+		<description>Meet the Robinsons (USA) (PS2 Classics)</description>
+		<game_id>UP9000-NPUD21453_00-0000000000000000</game_id>
+		<rom name="oXgUaotgUgNwxUHVyGORFhgxigsvMnvtyMzztNgcBVkRrTZnOyhxPWaFfrUoYtTp.pkg" size="1617097920" crc="c1b78cef" md5="5079ffccbf76d6f37af1093d2e6d7067" sha1="86fef74e351ce050905cffdabd8d45fa423a46bc"/>
+		<rom name="UP9000-NPUD21453_00-0000000000000000.rap" size="16" crc="1465a84a" md5="08a675b208acc3d80d0be237d537e22f" sha1="c94637280fa0221e554ab9f3ba214131fc322c05"/>
+	</game>
 	<game name="Meet the Robinsons (Europe) (PS2 Classics)" id="36673">
 		<description>Meet the Robinsons (Europe) (PS2 Classics)</description>
 		<game_id>EP1006-NPED00051_00-GMEETTHERO000ENG</game_id>
 		<rom name="prvNJPQIRGsJtEbwTfVUQtweWqBXphCWOfUOlNyeRTTAADkRDhoChXoluLXcrusE.pkg" size="4239417392" crc="832c2d83" md5="724cd9beebd91379efa94b1cd1816a29" sha1="34f1a3cdaf98c5b5b7edef2aae0e8ddaf7179668" sha256="0a098df4516eb8a8dee53a48ee0dd4d72c6594e3419be8338c25087b6667e153"/>
 		<rom name="EP1006-NPED00051_00-GMEETTHERO000ENG.rap" size="16" crc="4bdf604a" md5="f54a57c65295033d8930c0db69ae484b" sha1="ad02e061e67e9ab329e9c329ce4d5b326a5760dd" sha256="1ff2d69bc0cd3f4f77910d4c6152044c08dbc84c48bd83c3933a7688aae6529e"/>
 	</game>
-	<game name="Meet the Robinsons (USA) (PS2 Classics)" id="24641">
-		<description>Meet the Robinsons (USA) (PS2 Classics)</description>
-		<game_id>UP9000-NPUD21453_00-0000000000000000</game_id>
-		<rom name="oXgUaotgUgNwxUHVyGORFhgxigsvMnvtyMzztNgcBVkRrTZnOyhxPWaFfrUoYtTp.pkg" size="1617097920" crc="c1b78cef" md5="5079ffccbf76d6f37af1093d2e6d7067" sha1="86fef74e351ce050905cffdabd8d45fa423a46bc"/>
-		<rom name="UP9000-NPUD21453_00-0000000000000000.rap" size="16" crc="1465a84a" md5="08a675b208acc3d80d0be237d537e22f" sha1="c94637280fa0221e554ab9f3ba214131fc322c05"/>
+	<game name="Mega Man 10 (USA) (Trial)" id="04034">
+		<description>Mega Man 10 (USA) (Trial)</description>
+		<game_id>UP0102-NPUB30114_00-INTIRM10DEMO0000</game_id>
+		<rom name="Aeymj6xS9nLnkis5DT4KlWiG9IuKBMJurduloIcTiTT6puLNPBUMYYwSUThvakUBxL51Y6ATFqCgr63DAmvJkot59ig8R65bOSSSF.pkg" size="149554896" crc="0122863c" md5="ab7512949fb16598891938b1ac6827e0" sha1="738c12511157e584e28ec3f0b6fdbbfb73da55bb"/>
+	</game>
+	<game name="Mega Man 10 (USA)" id="04035">
+		<description>Mega Man 10 (USA)</description>
+		<game_id>UP0102-NPUB30114_00-INTIROCKMAN10000</game_id>
+		<rom name="BPOxkiNI2ajfRD9hYNxmMQOXHLln4wRqcjKUnvrypKIW9eekPXxUkMcy9QxiaVh4YRLc71LbjNc3YdhDyLTMb9dVQxhjCfKjHPNar.pkg" size="149555296" crc="ed51d4a5" md5="ffbd8c1df9ebb945d6d02a8cba9049bf" sha1="95743be5fe8b042e1bc89709c73dd7b40dd9393c"/>
+		<rom name="UP0102-NPUB30114_00-INTIROCKMAN10000.rap" size="16" crc="158f9b53" md5="a2102f3495710b10d070b2b0e8482a3a" sha1="bc2338f476a5d8ffef08e2c309b060d1942e3456"/>
 	</game>
 	<game name="Mega Man 10 (Europe)" id="19108">
 		<description>Mega Man 10 (Europe)</description>
@@ -18969,16 +18999,28 @@
 		<rom name="JB24itE7HbTVjIQRINLWeDdW74ac7DSBO57Bmrq8bXAoUvCyXmf1JhQlPUNfcs4RIrUb0TqfMbxDlxssUpbYAratq3SUSFiYKG3tI.pkg" size="1157680" crc="a31976e5" md5="beaa9c07b6fa3aa6293bb02ce5a474c7" sha1="738b73f19d6236418bf96913458e28c0a2a9c1ec"/>
 		<rom name="UP0102-NPUB30114_00-INTIRM10AKEY0000.rap" size="16" crc="f9943d61" md5="39709a52f3196a2ac197f6a9536ab8fe" sha1="9dc9e266fac53ae8faf9543015369c42b9700c54"/>
 	</game>
-	<game name="Mega Man 10 (USA) (Trial)" id="04034">
-		<description>Mega Man 10 (USA) (Trial)</description>
-		<game_id>UP0102-NPUB30114_00-INTIRM10DEMO0000</game_id>
-		<rom name="Aeymj6xS9nLnkis5DT4KlWiG9IuKBMJurduloIcTiTT6puLNPBUMYYwSUThvakUBxL51Y6ATFqCgr63DAmvJkot59ig8R65bOSSSF.pkg" size="149554896" crc="0122863c" md5="ab7512949fb16598891938b1ac6827e0" sha1="738c12511157e584e28ec3f0b6fdbbfb73da55bb"/>
+	<game name="Mega Man 9 (Europe)" id="19109">
+		<description>Mega Man 9 (Europe)</description>
+		<game_id>EP0102-NPEB00037_00-INTIRM9P00000000</game_id>
+		<rom name="eQsM9Lp46pyGscQ4sNEmH4iWE9RFxrdH23isBUyAhQ7ftrf7S1FpXO0H4DAdYgSpd9GvBeD3lGvQ3FiQVuwmM5Via5jWfr5PDaScp.pkg" size="67297792" crc="fd26c459" md5="123725ea168a80a55ff125f4c51ba4cb" sha1="d5efbb029f3c79b96611165f3f609ec3f7754ab4"/>
+		<rom name="EP0102-NPEB00037_00-INTIRM9P00000000.rap" size="16" crc="fe10033e" md5="5165de7b00a24bb947d69999591bce1c" sha1="c496babbfb53ae362dce7b81e43bcc64c76aa8a0"/>
 	</game>
-	<game name="Mega Man 10 (USA)" id="04035">
-		<description>Mega Man 10 (USA)</description>
-		<game_id>UP0102-NPUB30114_00-INTIROCKMAN10000</game_id>
-		<rom name="BPOxkiNI2ajfRD9hYNxmMQOXHLln4wRqcjKUnvrypKIW9eekPXxUkMcy9QxiaVh4YRLc71LbjNc3YdhDyLTMb9dVQxhjCfKjHPNar.pkg" size="149555296" crc="ed51d4a5" md5="ffbd8c1df9ebb945d6d02a8cba9049bf" sha1="95743be5fe8b042e1bc89709c73dd7b40dd9393c"/>
-		<rom name="UP0102-NPUB30114_00-INTIROCKMAN10000.rap" size="16" crc="158f9b53" md5="a2102f3495710b10d070b2b0e8482a3a" sha1="bc2338f476a5d8ffef08e2c309b060d1942e3456"/>
+	<game name="Mega Man 9 (Asia)" id="36221">
+		<description>Mega Man 9 (Asia)</description>
+		<game_id>HP0102-NPHB00048_00-INTIRM9A00000000</game_id>
+		<rom name="4M9NqvvF30dw7GSpfyMkq2Ps81JTyWuMdA20ymtS0t11BHlu7LbbL3OWfP6jFNmQ3Ya4OmQLYoc24iIM09G9EtxWN8VMStkoN63m3.pkg" size="66008640" crc="fc59ea26" md5="b6f3d9bdcf4b7510819b09c78ec04c01" sha1="12bbcd83fbdddfeed40fe9728a5c801e2808f87e" sha256="cfe1bd7c89bca1a22ce54aef491f71c7d0963673108b044e09a29bb2a141a22a"/>
+		<rom name="HP0102-NPHB00048_00-INTIRM9A00000000.rap" size="16" crc="eb8a940d" md5="14cc43a9c6c9f6f5693c7652cb99b085" sha1="9f8d53e80365229d374d1eb82992771a4febfd14" sha256="1ce2ec6f8937b5c897b3fd46e66cc4e4a703766c11700299e18b3760dcf4c91a"/>
+	</game>
+	<game name="Mega Man 9 (USA) (Unlock Key)" id="32800">
+		<description>Mega Man 9 (USA) (Unlock Key)</description>
+		<game_id>UP0102-NPUB30036_00-INTIRM9EKEY00000</game_id>
+		<rom name="7XYkSpYSFPVQ87knN0f0H053cqShpR1eMs82GbNLOo3YFWpBlLBOt4XIQu2qFHH3gBFI1qh8Qc8Ua4dsVLUHmvckA8cVObl4kFFLY.pkg" size="102400" crc="43fcd303" md5="9f6302c395f1f5e12baf2e737b7cb97e" sha1="e6260a2e483b320ccc88fbc31e60aad58b230713" sha256="a6fab8d5835d3b79478a874c161f860e28f3cd8621ce8f7634b2e60b93ba693a"/>
+		<rom name="UP0102-NPUB30036_00-INTIRM9EKEY00000.rap" size="16" crc="35c21b1b" md5="8fff58ff59595d8fc10579b031886e3c" sha1="9d214469d5e29ba7985e32509d423717095bfcbe" sha256="26a794f4c74395fb6b30664e84a4326c121f65539ea1891a375170a643d0b976"/>
+	</game>
+	<game name="Mega Man 9 (Asia) (Demo)" id="06786">
+		<description>Mega Man 9 (Asia) (Demo)</description>
+		<game_id>HP0102-NPHB00048_00-INTIRM9ADEMO0000</game_id>
+		<rom name="MbdIEMWMB0bdFVQUbOW2NpR1xM555WTOnEUq5WPBLYqjl14LXfQeDBpSPuj0w6piCe4wJkq5M7OwgaxnccWFcPAEuQWvWLmt5kN0D.pkg" size="66008240" crc="34a14099" md5="f4374ddd9f3673ed04f90600fa8682a5" sha1="bd66efdc55ea735eca1068de0268e452ab1d4703"/>
 	</game>
 	<game name="Mega Man 9 (USA) (Trial)" id="04040">
 		<description>Mega Man 9 (USA) (Trial)</description>
@@ -18991,33 +19033,10 @@
 		<rom name="Gs9jIyRV2fiAC8RjPILQ4w36NY04SaDfeFEPspj2qSdEPivGlp8tHw69epBMeP1Fe5gnbOoDdgtA3HBQY3wknolgsTsnTKiHNFfvK.pkg" size="66018112" crc="4408bdee" md5="e74c58e5ae5ce70222504dd61d2739ed" sha1="8d0ef274b448352f97c22626c5b98f9f2ea6d2fb"/>
 		<rom name="UP0102-NPUB30036_00-INTIRM9E00000000.rap" size="16" crc="99189f46" md5="23fb2e8b6143c9ca440437dd60953902" sha1="aa077317e454c8ffc7facd0009ca2026a55219d0"/>
 	</game>
-	<game name="Mega Man 9 (Europe)" id="19109">
-		<description>Mega Man 9 (Europe)</description>
-		<game_id>EP0102-NPEB00037_00-INTIRM9P00000000</game_id>
-		<rom name="eQsM9Lp46pyGscQ4sNEmH4iWE9RFxrdH23isBUyAhQ7ftrf7S1FpXO0H4DAdYgSpd9GvBeD3lGvQ3FiQVuwmM5Via5jWfr5PDaScp.pkg" size="67297792" crc="fd26c459" md5="123725ea168a80a55ff125f4c51ba4cb" sha1="d5efbb029f3c79b96611165f3f609ec3f7754ab4"/>
-		<rom name="EP0102-NPEB00037_00-INTIRM9P00000000.rap" size="16" crc="fe10033e" md5="5165de7b00a24bb947d69999591bce1c" sha1="c496babbfb53ae362dce7b81e43bcc64c76aa8a0"/>
-	</game>
-	<game name="Mega Man 9 (Asia) (Demo)" id="06786">
-		<description>Mega Man 9 (Asia) (Demo)</description>
-		<game_id>HP0102-NPHB00048_00-INTIRM9ADEMO0000</game_id>
-		<rom name="MbdIEMWMB0bdFVQUbOW2NpR1xM555WTOnEUq5WPBLYqjl14LXfQeDBpSPuj0w6piCe4wJkq5M7OwgaxnccWFcPAEuQWvWLmt5kN0D.pkg" size="66008240" crc="34a14099" md5="f4374ddd9f3673ed04f90600fa8682a5" sha1="bd66efdc55ea735eca1068de0268e452ab1d4703"/>
-	</game>
-	<game name="Mega Man 9 (Asia)" id="36221">
-		<description>Mega Man 9 (Asia)</description>
-		<game_id>HP0102-NPHB00048_00-INTIRM9A00000000</game_id>
-		<rom name="4M9NqvvF30dw7GSpfyMkq2Ps81JTyWuMdA20ymtS0t11BHlu7LbbL3OWfP6jFNmQ3Ya4OmQLYoc24iIM09G9EtxWN8VMStkoN63m3.pkg" size="66008640" crc="fc59ea26" md5="b6f3d9bdcf4b7510819b09c78ec04c01" sha1="12bbcd83fbdddfeed40fe9728a5c801e2808f87e" sha256="cfe1bd7c89bca1a22ce54aef491f71c7d0963673108b044e09a29bb2a141a22a"/>
-		<rom name="HP0102-NPHB00048_00-INTIRM9A00000000.rap" size="16" crc="eb8a940d" md5="14cc43a9c6c9f6f5693c7652cb99b085" sha1="9f8d53e80365229d374d1eb82992771a4febfd14" sha256="1ce2ec6f8937b5c897b3fd46e66cc4e4a703766c11700299e18b3760dcf4c91a"/>
-	</game>
 	<game name="Mega Man 9 (Europe) (Trial)" id="13892">
 		<description>Mega Man 9 (Europe) (Trial)</description>
 		<game_id>EP0102-NPEB00037_00-INTIRM9PDEMO0000</game_id>
 		<rom name="xkXMe98lQIRtS3H0jy0khW736gFknguuQ1hTgGsbIoFfv68XAneXMGfA9DAXNqab8Ojqk50xPMIrKaRVLNh9CNpSlmp3D6rkX7kEL.pkg" size="67389936" crc="2c57f327" md5="71e550943e5c7a89eec441ee81af89b9" sha1="83dcb8061f7f122943e4db1f2d7a3699cd5654aa"/>
-	</game>
-	<game name="Mega Man 9 (USA) (Unlock Key)" id="32800">
-		<description>Mega Man 9 (USA) (Unlock Key)</description>
-		<game_id>UP0102-NPUB30036_00-INTIRM9EKEY00000</game_id>
-		<rom name="7XYkSpYSFPVQ87knN0f0H053cqShpR1eMs82GbNLOo3YFWpBlLBOt4XIQu2qFHH3gBFI1qh8Qc8Ua4dsVLUHmvckA8cVObl4kFFLY.pkg" size="102400" crc="43fcd303" md5="9f6302c395f1f5e12baf2e737b7cb97e" sha1="e6260a2e483b320ccc88fbc31e60aad58b230713" sha256="a6fab8d5835d3b79478a874c161f860e28f3cd8621ce8f7634b2e60b93ba693a"/>
-		<rom name="UP0102-NPUB30036_00-INTIRM9EKEY00000.rap" size="16" crc="35c21b1b" md5="8fff58ff59595d8fc10579b031886e3c" sha1="9d214469d5e29ba7985e32509d423717095bfcbe" sha256="26a794f4c74395fb6b30664e84a4326c121f65539ea1891a375170a643d0b976"/>
 	</game>
 	<game name="Mensa Academy (Europe) (Trial)" id="04048">
 		<description>Mensa Academy (Europe) (Trial)</description>
@@ -19045,6 +19064,12 @@
 		<game_id>EP0006-NPEB90109_00-MERCS2WIFDEMOAL1</game_id>
 		<rom name="eGmGfCf4V5jrPgtEntROfLqpTDJmJ6U7A6DeWc8dBDibfEDyM4TPcyeo8yD6YCFsLsjqFkbpMDWRRQxIK2U6n6O3OtFgFCieEe55Y.pkg" size="1439570640" crc="a3f96e20" md5="3eb63f4f0dba6249b5103d9a61fdd47e" sha1="b7287928dd5f28039bb788d67f6d932fc43cd90c"/>
 	</game>
+	<game name="Mercury Hg (Europe) (Unlock Key)" id="41047">
+		<description>Mercury Hg (Europe) (Unlock Key)</description>
+		<game_id>EP4002-NPEB00473_00-MERCURYHGUNLOCK0</game_id>
+		<rom name="xVegToLjADCUTpjiGkiOiioIUZsiduWmpBiutFBVGPrBEyrhvmbhGeqjCilUbyJc.pkg" size="6080" crc="40d794bf" md5="f880faaf500006af8bfa47af76ee21f6" sha1="cfbfb0f96856885c321bf507ca8ce85a01178dc4" sha256="88f4a1fcb2c1053989d554443fb45fde9a29a1e877658ba987fff39e30f53a8d"/>
+		<rom name="EP4002-NPEB00473_00-MERCURYHGUNLOCK0.rap" size="16" crc="f3a323a1" md5="ddb063edaeedb6636dd7541a5568e8ec" sha1="07b86b92ac7fb01394e6676de331c7c5b7002a38" sha256="0eb7bf8de65736524192f009c4c454e5b0352d7ee865d543f4ed9c76d7460eed"/>
+	</game>
 	<game name="Mercury Hg (Europe) (Trial)" id="04056">
 		<description>Mercury Hg (Europe) (Trial)</description>
 		<game_id>EP4002-NPEB00473_00-MERCURYHG0000001</game_id>
@@ -19054,12 +19079,6 @@
 		<description>Mercury Hg (USA) (Trial)</description>
 		<game_id>UP4002-NPUB30419_00-MERCURYHG0000001</game_id>
 		<rom name="yYBsgtpUnzghzYDmgcEgwtrBLYyVSHlGrYbtAdOFEXzLZJDLNAZQyVzWkRuLWikUQTIwEjXkQGfafvEDTDYmcsJekbNBRKRndmjQF.pkg" size="118802496" crc="72d5ed6d" md5="cc93d8feae181d82655613734111b83a" sha1="c0e3587d0ab4a8c2ccb7b10d7429fdeeb969657b"/>
-	</game>
-	<game name="Mercury Hg (Europe) (Unlock Key)" id="41047">
-		<description>Mercury Hg (Europe) (Unlock Key)</description>
-		<game_id>EP4002-NPEB00473_00-MERCURYHGUNLOCK0</game_id>
-		<rom name="xVegToLjADCUTpjiGkiOiioIUZsiduWmpBiutFBVGPrBEyrhvmbhGeqjCilUbyJc.pkg" size="6080" crc="40d794bf" md5="f880faaf500006af8bfa47af76ee21f6" sha1="cfbfb0f96856885c321bf507ca8ce85a01178dc4" sha256="88f4a1fcb2c1053989d554443fb45fde9a29a1e877658ba987fff39e30f53a8d"/>
-		<rom name="EP4002-NPEB00473_00-MERCURYHGUNLOCK0.rap" size="16" crc="f3a323a1" md5="ddb063edaeedb6636dd7541a5568e8ec" sha1="07b86b92ac7fb01394e6676de331c7c5b7002a38" sha256="0eb7bf8de65736524192f009c4c454e5b0352d7ee865d543f4ed9c76d7460eed"/>
 	</game>
 	<game name="Meruru no Atelier Plus - Arland no Renkinjutsushi 3 (Japan) (PlayView)" id="25388">
 		<description>Meruru no Atelier Plus - Arland no Renkinjutsushi 3 (Japan) (PlayView)</description>
@@ -19245,22 +19264,16 @@
 		<rom name="QDBKYkDUMrmuexUWLTUbMXNWyOBiHdrlKtTfZJDQClAeUcQEGNXZZzNtTIVJLbao.pkg" size="1949394768" crc="1c7925a8" md5="f7cfe3ac4082853ff31f8cfc59c5d412" sha1="849791c426a1304a965eae21ab2ee5e6d28aefd9"/>
 		<rom name="UP0101-NPUB31318_00-MAINGAME00000000.rap" size="16" crc="c2f6b751" md5="7b1e6bfc8d4ba23ec1dce038d307facd" sha1="ae6bf43a5fbd29be86992094f0fcb142d149233c"/>
 	</game>
-	<game name="Metal Gear Solid V - Ground Zeroes (Asia) (Zh,Ko)" id="19111">
-		<description>Metal Gear Solid V - Ground Zeroes (Asia) (Zh,Ko)</description>
-		<game_id>HP0101-NPHB00732_00-MAINGAME00000000</game_id>
-		<rom name="HP0101-NPHB00732_00-MAINGAME00000000_bg_1_50a204f064c5e5454209719eb15b82b1fc180346.pkg" size="2215778960" crc="89bb2185" md5="0237969c5b4d25dc00fcaf074177dd3f" sha1="f0da3a8ee9afbd69bf0102fc7a1af3115244bfd3"/>
-	</game>
 	<game name="Metal Gear Solid V - Ground Zeroes (Japan)" id="28493">
 		<description>Metal Gear Solid V - Ground Zeroes (Japan)</description>
 		<game_id>JP0101-NPJB00396_00-MAINGAME00000000</game_id>
 		<rom name="rQGPsHNxefBCCuEuOzmfmnVGegRCKMYLFIRwQIkMvZVrhUrBejjjGjkKJulkmVpmayMoIVNzNsvzfNUUdhKKajZCrmIbaQuEEeRVH.pkg" size="1972720736" crc="16572e41" md5="3975135684e8bb62769497b5ab93c859" sha1="eb25aa770876d0e45c7094f5ff380a2f39a86b44"/>
 		<rom name="JP0101-NPJB00396_00-MAINGAME00000000.rap" size="16" crc="0575deea" md5="be61362af1ff933bf6fcf0afd56d83c1" sha1="3abadbbb8453d1382ab2885d2f0f816629cd4f60" sha256="9fb23793c133ab7cedfd8f4fef43d6f201ce438a63c8863cfef4291ab3f65bb2"/>
 	</game>
-	<game name="Metal Gear Solid V - The Phantom Pain (Japan)" id="35753">
-		<category>Games</category>
-		<description>Metal Gear Solid V - The Phantom Pain (Japan)</description>
-		<game_id>JP0101-NPJB00673_00-MAINGAME00000000</game_id>
-		<rom name="JP0101-NPJB00673_00-MAINGAME00000000_bg_1_c9c28622efb2a6855da78436c895bd551c9bb3b3.pkg" size="12607227520" crc="d0104501" md5="22911beb8eb2216a03bfa708f80609ee" sha1="6e0114cf29676737168aebdc1de8a2d84d1fcd78" sha256="4b9998f8d201e325d07da74dd87af934a6d1bead7802acf18728468083e0b7ec"/>
+	<game name="Metal Gear Solid V - Ground Zeroes (Asia) (Zh,Ko)" id="19111">
+		<description>Metal Gear Solid V - Ground Zeroes (Asia) (Zh,Ko)</description>
+		<game_id>HP0101-NPHB00732_00-MAINGAME00000000</game_id>
+		<rom name="HP0101-NPHB00732_00-MAINGAME00000000_bg_1_50a204f064c5e5454209719eb15b82b1fc180346.pkg" size="2215778960" crc="89bb2185" md5="0237969c5b4d25dc00fcaf074177dd3f" sha1="f0da3a8ee9afbd69bf0102fc7a1af3115244bfd3"/>
 	</game>
 	<game name="Metal Gear Solid V - The Phantom Pain (USA)" id="20057">
 		<description>Metal Gear Solid V - The Phantom Pain (USA)</description>
@@ -19268,18 +19281,17 @@
 		<rom name="UP0101-NPUB31594_00-MAINGAME00000000_bg_1_8ef80bdeb67d443a5022111b38d367db19acbce2.pkg" size="12628218304" crc="d0d9eb22" md5="0f145c6d9f065fc77f8f4694e3cc68fe" sha1="7e715281bb0e2c30a4b57f873100337c973601c9"/>
 		<rom name="UP0101-NPUB31594_00-MAINGAME00000000.rap" size="16" crc="a0c1f273" md5="f98674f0bfca7de523cdae52e9f5ee83" sha1="00fdfbda69d1f3f6436f8232db239a930d811ae4"/>
 	</game>
+	<game name="Metal Gear Solid V - The Phantom Pain (Japan)" id="35753">
+		<category>Games</category>
+		<description>Metal Gear Solid V - The Phantom Pain (Japan)</description>
+		<game_id>JP0101-NPJB00673_00-MAINGAME00000000</game_id>
+		<rom name="JP0101-NPJB00673_00-MAINGAME00000000_bg_1_c9c28622efb2a6855da78436c895bd551c9bb3b3.pkg" size="12607227520" crc="d0104501" md5="22911beb8eb2216a03bfa708f80609ee" sha1="6e0114cf29676737168aebdc1de8a2d84d1fcd78" sha256="4b9998f8d201e325d07da74dd87af934a6d1bead7802acf18728468083e0b7ec"/>
+	</game>
 	<game name="Metal Gear Solid V - The Phantom Pain (Europe)" id="13581">
 		<description>Metal Gear Solid V - The Phantom Pain (Europe)</description>
 		<game_id>EP0101-NPEB02140_00-MAINGAME00000000</game_id>
 		<rom name="EP0101-NPEB02140_00-MAINGAME00000000_bg_1_fc739fb0ec448f0046340c580af19ef662697e04.pkg" size="12628218608" crc="5598c81a" md5="c5e6d8b59da18cd0151574b8d02d03d5" sha1="677867305e916f44b47c165edbe18724fd68821c"/>
 		<rom name="EP0101-NPEB02140_00-MAINGAME00000000.rap" size="16" crc="5cbcdb9e" md5="d208a7ecaad4392f0247933deb0ffdef" sha1="fe2c470a69f7d274608bd477280bc7474f842ce7"/>
-	</game>
-	<game name="Metal Slug (USA) (Neo Geo)" id="05045">
-		<category>Games</category>
-		<description>Metal Slug (USA) (Neo Geo)</description>
-		<game_id>UP0576-NPUB30258_00-NEOGEOSTATION005</game_id>
-		<rom name="adKsVqlFkDDJebgVhaGCEKfuSTdeRgRWsRinKDXImDhrvkZcGeGkEKInrQhfKOGiqvKjbOpXsQdAhlpAyQvINVbqGdPBvkRiGelWR.pkg" size="63656832" crc="9ff78d20" md5="1c550565b82a327868d5d64143210413" sha1="166ad3a968ad96628a02eb88c2ae39efb288d829"/>
-		<rom name="UP0576-NPUB30258_00-NEOGEOSTATION005.rap" size="16" crc="15ccf553" md5="03cace14024e99068a8034b457b4ed70" sha1="f313e8ea4196347ed54ef7db3f2b9248b4ac6a35"/>
 	</game>
 	<game name="Metal Slug (Japan) (Neo Geo)" id="20058">
 		<category>Games</category>
@@ -19288,10 +19300,12 @@
 		<rom name="WNfVGmfUQdsGtpGWtTLHNzsuKQAejVANUIHELdfJUqvGsMYShHBqCudmnYHWaqxgvwQgAVXLxnFZHOPvUHbqnSoFdnonPyXJNTMDm.pkg" size="65231744" crc="7b33ee5f" md5="13aecf8c745968f023e73f8e9c9bcf62" sha1="01615118f33ed428bb431a7329498b9e6335f14c"/>
 		<rom name="JP0576-NPJB70007_00-NEOGEOSTATION005.rap" size="16" crc="db2bf283" md5="603b6816a8b14165beb281972eac945f" sha1="3970fd2532140aef4e2f4e678dd965b5c2678bb0"/>
 	</game>
-	<game name="Metal Slug 2 (USA) (Neo Geo)" id="45526">
-		<description>Metal Slug 2 (USA) (Neo Geo)</description>
-		<game_id>UP0576-NPUB30567_00-NEOGEOSTATION021</game_id>
-		<rom name="JDyKVGuDpxqIrKaNcYqbmTPGiuEiGmVMYIkfHsxeUusiNdjTKlLYRrFxZbQXVlacQNpvTkjyiYXGePtTHCHgdEtgCxDIbevCvLvql.pkg" size="91979376" crc="c5793ada" md5="d2b70ed62e8b5d32926327b9b2581bb2" sha1="25ddb1d23c4059b0c09ea50f4656ca4b8dbe83f3" sha256="52592ef6779ccfef6c67c2b92da51968cb9abf7625af6fbec530147a9df5cae2"/>
+	<game name="Metal Slug (USA) (Neo Geo)" id="05045">
+		<category>Games</category>
+		<description>Metal Slug (USA) (Neo Geo)</description>
+		<game_id>UP0576-NPUB30258_00-NEOGEOSTATION005</game_id>
+		<rom name="adKsVqlFkDDJebgVhaGCEKfuSTdeRgRWsRinKDXImDhrvkZcGeGkEKInrQhfKOGiqvKjbOpXsQdAhlpAyQvINVbqGdPBvkRiGelWR.pkg" size="63656832" crc="9ff78d20" md5="1c550565b82a327868d5d64143210413" sha1="166ad3a968ad96628a02eb88c2ae39efb288d829"/>
+		<rom name="UP0576-NPUB30258_00-NEOGEOSTATION005.rap" size="16" crc="15ccf553" md5="03cace14024e99068a8034b457b4ed70" sha1="f313e8ea4196347ed54ef7db3f2b9248b4ac6a35"/>
 	</game>
 	<game name="Metal Slug 2 (Europe) (Neo Geo)" id="05046">
 		<category>Games</category>
@@ -19306,17 +19320,10 @@
 		<rom name="UVIwTJFKmjxsGSsBtRWXyjjlGsnjiTFGpDiqdOJQkMcViuFDUFfKiawxjNiXgDhnnieYbeTlDcNruidjLgqnNLvAkmQjlbmoHhauR.pkg" size="98518304" crc="84c07ee3" md5="c1bb10a915092a54c7b889bdb9b126e4" sha1="c70e6d814f91939b2b54eaefc7ce749510faed07" sha256="f15adc257d52af2623d5585372e9d1993ba769c01046dd9411566b29ed275e83" status="verified"/>
 		<rom name="JP0576-NPJB70016_00-NEOGEOSTATION021.rap" size="16" crc="a67a934f" md5="e493c7ce361ad108e72c23f25d55158a" sha1="36a3c1158bc48385d0912afda72449de84c5be62" sha256="6b1c32e467f8783daf5e2b77ba006bdc0567cf42353d4a4426a0919824dfbc7d" status="verified"/>
 	</game>
-	<game name="Metal Slug 3 (USA)" id="04106">
-		<description>Metal Slug 3 (USA)</description>
-		<game_id>UP0576-NPUB31698_00-METALSLUG3000000</game_id>
-		<rom name="UP0576-NPUB31698_00-METALSLUG3000000_bg_1_b17c6d7fa06d168e8ad292e944f86a8251a40334.pkg" size="133222816" crc="bfaf4866" md5="b5c9b2fab4825e5ffb6ac468000e0af5" sha1="f30bd782012d312e8c79c4fd486425116da93477"/>
-		<rom name="UP0576-NPUB31698_00-METALSLUG3000000.rap" size="16" crc="389ed3ca" md5="ef9bdc25eb271ae0b32230924866d47d" sha1="f6cb30c9e2c71e0e478801f0302b7250cb2fe622" sha256="2f8ea0b1095b585d787dbb295cd66c6a2e75152faba3b584f35ab8db4a7d01eb"/>
-	</game>
-	<game name="Metal Slug 3 (Europe)" id="13582">
-		<description>Metal Slug 3 (Europe)</description>
-		<game_id>EP0576-NPEB02252_00-METALSLUG3000000</game_id>
-		<rom name="EP0576-NPEB02252_00-METALSLUG3000000_bg_1_52a382f7fd2bbc1042e61becd7e5738aa30557a9.pkg" size="125938080" crc="bbd89895" md5="096955e77fc515c6f791618561373275" sha1="c978c7bc7d1d80bca1f7532ca0697460e185db86"/>
-		<rom name="EP0576-NPEB02252_00-METALSLUG3000000.rap" size="16" crc="79d8ae53" md5="bad880306b5f761581b9026447cd5a15" sha1="facedad6d654f4c87f6c7da5e66f2543bbc20a6a"/>
+	<game name="Metal Slug 2 (USA) (Neo Geo)" id="45526">
+		<description>Metal Slug 2 (USA) (Neo Geo)</description>
+		<game_id>UP0576-NPUB30567_00-NEOGEOSTATION021</game_id>
+		<rom name="JDyKVGuDpxqIrKaNcYqbmTPGiuEiGmVMYIkfHsxeUusiNdjTKlLYRrFxZbQXVlacQNpvTkjyiYXGePtTHCHgdEtgCxDIbevCvLvql.pkg" size="91979376" crc="c5793ada" md5="d2b70ed62e8b5d32926327b9b2581bb2" sha1="25ddb1d23c4059b0c09ea50f4656ca4b8dbe83f3" sha256="52592ef6779ccfef6c67c2b92da51968cb9abf7625af6fbec530147a9df5cae2"/>
 	</game>
 	<game name="Metal Slug 3 (Japan) (PS2 Classics)" id="36715">
 		<category>Games</category>
@@ -19330,6 +19337,18 @@
 		<game_id>JP0576-NPJB00718_00-METALSLUG3000000</game_id>
 		<rom name="JP0576-NPJB00718_00-METALSLUG3000000.rap" size="16" crc="e8e621d2" md5="0c7dc844e1dd2f3e798492a3f34a97ae" sha1="0e84c8c4601a0a8039f180992d42b36426956d53" sha256="096f37179d463c34351f5551fd2d421e9e381f356b76965f1708a6c6886ad8d5"/>
 		<rom name="JP0576-NPJB00718_00-METALSLUG3000000_bg_1_d03c61fa2e4587d78620c967abe8b4dd9572bd99.pkg" size="125938080" crc="18f58a7a" md5="4d8679c88dcba051930298b7be1d3477" sha1="3d76d79c5c60e984af6aa1f8c53c92038e45fe94" sha256="89a942e1ef2a15d50451106a892d0c3ddf856d565ba3bee66abd8555bca6273a"/>
+	</game>
+	<game name="Metal Slug 3 (Europe)" id="13582">
+		<description>Metal Slug 3 (Europe)</description>
+		<game_id>EP0576-NPEB02252_00-METALSLUG3000000</game_id>
+		<rom name="EP0576-NPEB02252_00-METALSLUG3000000_bg_1_52a382f7fd2bbc1042e61becd7e5738aa30557a9.pkg" size="125938080" crc="bbd89895" md5="096955e77fc515c6f791618561373275" sha1="c978c7bc7d1d80bca1f7532ca0697460e185db86"/>
+		<rom name="EP0576-NPEB02252_00-METALSLUG3000000.rap" size="16" crc="79d8ae53" md5="bad880306b5f761581b9026447cd5a15" sha1="facedad6d654f4c87f6c7da5e66f2543bbc20a6a"/>
+	</game>
+	<game name="Metal Slug 3 (USA)" id="04106">
+		<description>Metal Slug 3 (USA)</description>
+		<game_id>UP0576-NPUB31698_00-METALSLUG3000000</game_id>
+		<rom name="UP0576-NPUB31698_00-METALSLUG3000000_bg_1_b17c6d7fa06d168e8ad292e944f86a8251a40334.pkg" size="133222816" crc="bfaf4866" md5="b5c9b2fab4825e5ffb6ac468000e0af5" sha1="f30bd782012d312e8c79c4fd486425116da93477"/>
+		<rom name="UP0576-NPUB31698_00-METALSLUG3000000.rap" size="16" crc="389ed3ca" md5="ef9bdc25eb271ae0b32230924866d47d" sha1="f6cb30c9e2c71e0e478801f0302b7250cb2fe622" sha256="2f8ea0b1095b585d787dbb295cd66c6a2e75152faba3b584f35ab8db4a7d01eb"/>
 	</game>
 	<game name="Metal Slug 4 (Japan) (PS2 Classics)" id="36731">
 		<category>Games</category>
@@ -19462,6 +19481,25 @@
 		<rom name="bvdpGwqzHVdfmwYolMPmscdlLEJISVwQlmTFxyrcVCAecLAaXeeXMdxmzezhUmmPPoNOFEzgJbZrMFirjekVmnjkHcZnFOWjsuYGq.pkg" size="3276296720" crc="21daabc9" md5="829bd1cd4a1e94c5cc30148d976556f7" sha1="cc94ff94ae71dd9fc1a8be1d4e9a19dbab7cb7b6"/>
 		<rom name="UP9000-NPUD20209_00-0000000000000000.rap" size="16" crc="41e65a64" md5="a0be1a4196363f150f18820c374641f6" sha1="1da62c68bcf73eaedcd4119c05b79585c0c0a932"/>
 	</game>
+	<game name="Midnight Club II (Europe) (PS2 Classics)" id="46031">
+		<category>Games</category>
+		<description>Midnight Club II (Europe) (PS2 Classics)</description>
+		<game_id>EP1004-NPED00231_00-GMIDNIGHTC000ENG</game_id>
+		<rom name="aFmqkOKZKIPuVDRvHhgykkjXiWBKgIuPouYJYjFarvwrBqxtHtnCCEUYQRdNByWm.pkg" size="4611245200" crc="b8ebb78b" md5="bc861c3226a321dce3da4b70593a443a" sha1="c44a2bfef42b81b8c431ba7c8486cdfc857f12b6" sha256="d1532a153aee2f483d703c2e55f5b53eb9b5626b72c5ed4b50db5392c8b5cdc9"/>
+		<rom name="EP1004-NPED00231_00-GMIDNIGHTC000ENG.rap" size="16" crc="e0b0804d" md5="da456526bcb04795921ad7da5f1cbad2" sha1="c472bf532badc963ac01d82fe0ce9b3674e7c4f1" sha256="53a70616efc4dacf3dc81b4b40ff738cc41088e4c6519652c686a9f2e0273309"/>
+	</game>
+	<game name="Might &amp; Magic - Clash of Heroes (Europe) (Unlock Key)" id="44557">
+		<description>Might &amp; Magic - Clash of Heroes (Europe) (Unlock Key)</description>
+		<game_id>EP0001-NPEB00174_00-MMCLASHOFHEROES2</game_id>
+		<rom name="EP0001-NPEB00174_00-MMCLASHOFHEROES2.rap" size="16" crc="bceab4f4" md5="fd581462ff0ff859d8c9f5a0733ebd2b" sha1="07c9744446b777a81aa816da08108eaf50a86ee6" sha256="5c326752f8396de36283dd5ba79ff1a2553d800164b2c0ca195ecd6641bd7c16"/>
+		<rom name="XeMKFebNKcjWvRPNkyACqFytuizesUrpGlZEhtYtrcoXBHawxHfTsSszhkzmRTRS.pkg" size="6080" crc="7edaa8c5" md5="80fc3c1e52d7c3fc65cc4090d621f654" sha1="88f086c2ad2004acbefe1b638c5014640451408d" sha256="6122bd46a67f93ebea41c6c30135164d135c4193909cbce6b4a43a9cbee6a9f7"/>
+	</game>
+	<game name="Might &amp; Magic - Clash of Heroes (USA) (Unlock Key)" id="19113">
+		<description>Might &amp; Magic - Clash of Heroes (USA) (Unlock Key)</description>
+		<game_id>UP0001-NPUB30174_00-MMCLASHOFHEROES2</game_id>
+		<rom name="PszIIufrEkncbndNBLLEjwdRBULpSmQHrCsevClDmLpNnpcIfDFnSUCDApgDAWkcgjDbTdsSMMghXcOCfKWBRpctAztKqzPsdhjuz.pkg" size="6080" crc="d0b38cb5" md5="b5f3ac3d4078e94b9d25d0dac87def0d" sha1="fba8fae5f9d1d267b59052e9b706ca9118147e80"/>
+		<rom name="UP0001-NPUB30174_00-MMCLASHOFHEROES2.rap" size="16" crc="c5a82dc4" md5="33b5ad29e43ce65f427c3f534b8da957" sha1="442217667c430554d5907f00f92f9acb49ec150c"/>
+	</game>
 	<game name="Might &amp; Magic - Clash of Heroes (Europe) (Trial)" id="04145">
 		<description>Might &amp; Magic - Clash of Heroes (Europe) (Trial)</description>
 		<game_id>EP0001-NPEB00174_00-MMCLASHOFHEROES1</game_id>
@@ -19471,18 +19509,6 @@
 		<description>Might &amp; Magic - Clash of Heroes (USA) (Trial)</description>
 		<game_id>UP0001-NPUB30174_00-MMCLASHOFHEROES1</game_id>
 		<rom name="DQKAiNvYLzQgbWWbMgrUEZiehEqOcAbAToVaELudIYrZugtqlRhkBSENeRycxyugzqSLPdtUbcxhckuduKWBqtLbGNqjKnabeqiHS.pkg" size="1688362784" crc="89f674e3" md5="4de423cc48046f60a298e93c5a19a6e4" sha1="8b8335ce556e16caf5103f31dcc54bdaa79d41ef"/>
-	</game>
-	<game name="Might &amp; Magic - Clash of Heroes (USA) (Unlock Key)" id="19113">
-		<description>Might &amp; Magic - Clash of Heroes (USA) (Unlock Key)</description>
-		<game_id>UP0001-NPUB30174_00-MMCLASHOFHEROES2</game_id>
-		<rom name="PszIIufrEkncbndNBLLEjwdRBULpSmQHrCsevClDmLpNnpcIfDFnSUCDApgDAWkcgjDbTdsSMMghXcOCfKWBRpctAztKqzPsdhjuz.pkg" size="6080" crc="d0b38cb5" md5="b5f3ac3d4078e94b9d25d0dac87def0d" sha1="fba8fae5f9d1d267b59052e9b706ca9118147e80"/>
-		<rom name="UP0001-NPUB30174_00-MMCLASHOFHEROES2.rap" size="16" crc="c5a82dc4" md5="33b5ad29e43ce65f427c3f534b8da957" sha1="442217667c430554d5907f00f92f9acb49ec150c"/>
-	</game>
-	<game name="Might &amp; Magic - Clash of Heroes (Europe) (Unlock Key)" id="44557">
-		<description>Might &amp; Magic - Clash of Heroes (Europe) (Unlock Key)</description>
-		<game_id>EP0001-NPEB00174_00-MMCLASHOFHEROES2</game_id>
-		<rom name="EP0001-NPEB00174_00-MMCLASHOFHEROES2.rap" size="16" crc="bceab4f4" md5="fd581462ff0ff859d8c9f5a0733ebd2b" sha1="07c9744446b777a81aa816da08108eaf50a86ee6" sha256="5c326752f8396de36283dd5ba79ff1a2553d800164b2c0ca195ecd6641bd7c16"/>
-		<rom name="XeMKFebNKcjWvRPNkyACqFytuizesUrpGlZEhtYtrcoXBHawxHfTsSszhkzmRTRS.pkg" size="6080" crc="7edaa8c5" md5="80fc3c1e52d7c3fc65cc4090d621f654" sha1="88f086c2ad2004acbefe1b638c5014640451408d" sha256="6122bd46a67f93ebea41c6c30135164d135c4193909cbce6b4a43a9cbee6a9f7"/>
 	</game>
 	<game name="Might &amp; Magic - Duel of Champions - Forgotten Wars (USA)" id="04151">
 		<description>Might &amp; Magic - Duel of Champions - Forgotten Wars (USA)</description>
@@ -19550,12 +19576,6 @@
 		<rom name="xpNUmOuHMQkpMdfOUWbEeoYirFBnDDCGijFkVDYKyXZSzqQDAUFFzMWePPJhVYla.pkg" size="102400" crc="b69084c4" md5="5876cbd7648a854156457d52854e5231" sha1="70522a174e87f73171c964c78c057a385e47405d"/>
 		<rom name="EP4433-NPEB01899_00-TRIALUPGRADE0001.rap" size="16" crc="a753974b" md5="9d249d484b7ae669d058a38f6ae9271c" sha1="560081eed699e43c4245377b7421ef409bf88872"/>
 	</game>
-	<game name="Minecraft - Story Mode - Episode 1 - The Order of the Stone (USA) (Unlock Key)" id="29291">
-		<description>Minecraft - Story Mode - Episode 1 - The Order of the Stone (USA) (Unlock Key)</description>
-		<game_id>UP2026-NPUB31725_00-MSM000000000GAME</game_id>
-		<rom name="UP2026-NPUB31725_00-MSM000000000GAME.rap" size="16" crc="642a8bc9" md5="05dd23de97b2b6e93a31c00bf6c544a3" sha1="a1a4c94b3066b084f2824819b5972941ec4af10e"/>
-		<rom name="UP2026-NPUB31725_00-MSM000000000GAME_bg_1_e54746df44819841d2874a1a6b3453fed6f7ec3b.pkg" size="1292992" crc="be97f200" md5="54643b6621b34b63c913494d91a52dd9" sha1="d9755c6d553b446c8e247f068bb766e08efd0b1e"/>
-	</game>
 	<game name="Minecraft - Story Mode - Episode 1 - The Order of the Stone (Europe) (Trial)" id="13585">
 		<description>Minecraft - Story Mode - Episode 1 - The Order of the Stone (Europe) (Trial)</description>
 		<game_id>EP2026-NPEB02294_00-MSM00000000TRIAL</game_id>
@@ -19565,6 +19585,18 @@
 		<description>Minecraft - Story Mode - Episode 1 - The Order of the Stone (USA) (Trial)</description>
 		<game_id>UP2026-NPUB31725_00-MSM00000000TRIAL</game_id>
 		<rom name="UP2026-NPUB31725_00-MSM00000000TRIAL_bg_1_ec5e48c06dd788bfddd2f6df03bf69012b8bc862.pkg" size="766620784" crc="8aa5c833" md5="117492f1ca5ca180116d8c77f1fe879c" sha1="87278ad73b767885fd9304bdb6dfee8ea7b56a75"/>
+	</game>
+	<game name="Minecraft - Story Mode - Episode 1 - The Order of the Stone (USA) (Unlock Key)" id="29291">
+		<description>Minecraft - Story Mode - Episode 1 - The Order of the Stone (USA) (Unlock Key)</description>
+		<game_id>UP2026-NPUB31725_00-MSM000000000GAME</game_id>
+		<rom name="UP2026-NPUB31725_00-MSM000000000GAME.rap" size="16" crc="642a8bc9" md5="05dd23de97b2b6e93a31c00bf6c544a3" sha1="a1a4c94b3066b084f2824819b5972941ec4af10e"/>
+		<rom name="UP2026-NPUB31725_00-MSM000000000GAME_bg_1_e54746df44819841d2874a1a6b3453fed6f7ec3b.pkg" size="1292992" crc="be97f200" md5="54643b6621b34b63c913494d91a52dd9" sha1="d9755c6d553b446c8e247f068bb766e08efd0b1e"/>
+	</game>
+	<game name="Mini Ninjas (Europe)" id="34066">
+		<description>Mini Ninjas (Europe)</description>
+		<game_id>EP0776-NPEB00845_00-MINININJASEUHDD0</game_id>
+		<rom name="PvUNyDdpOYkTshXDXophVEqUKGKgfYXfkWIOZGaCKZmBvbSnaERqXHAPhDPDEwJL.pkg" size="6724811424" crc="ae097cf8" md5="81da11292b67913b896c31369ce5abe1" sha1="7095cf1c9aa35e5480811a0d2d38817c237a3f69" sha256="c6eb4ec925250fd754dd3f0437e44f8c5f4c20a1a50d00c7144ff3e27858c555" status="verified"/>
+		<rom name="EP0776-NPEB00845_00-MINININJASEUHDD0.rap" size="16" crc="62e213ae" md5="2ec1a74881bca434832a3fccddd14b9f" sha1="4440c7072d10cd3a367a032005fc0b24eb1c4dc0" sha256="4dfce38959e8ef1f563459b2cd93d0400d2e9752ebac4c43db02765c475a9233" status="verified"/>
 	</game>
 	<game name="Mini Ninjas (Europe) (Demo)" id="04189">
 		<description>Mini Ninjas (Europe) (Demo)</description>
@@ -19581,12 +19613,6 @@
 		<description>Mini Ninjas (USA) (Demo)</description>
 		<game_id>UP0776-NPUB90253_00-MINININJASUSDEMO</game_id>
 		<rom name="da0D2HO8jJUqXfhmBgLQcn5QVoFpd3vvMANBEj55QBRcj09lkEssl1YQxLYvnMyj2Eg3k02ovGWmwO9bi6H097n6rwJGWvn5Lil39.pkg" size="1121498944" crc="41b7abc7" md5="a0c684ae6f38af72a03f975397233c8d" sha1="1cd281ee3f1cee01e1b6e004ec9095429e0e1b67"/>
-	</game>
-	<game name="Mini Ninjas (Europe)" id="34066">
-		<description>Mini Ninjas (Europe)</description>
-		<game_id>EP0776-NPEB00845_00-MINININJASEUHDD0</game_id>
-		<rom name="PvUNyDdpOYkTshXDXophVEqUKGKgfYXfkWIOZGaCKZmBvbSnaERqXHAPhDPDEwJL.pkg" size="6724811424" crc="ae097cf8" md5="81da11292b67913b896c31369ce5abe1" sha1="7095cf1c9aa35e5480811a0d2d38817c237a3f69" sha256="c6eb4ec925250fd754dd3f0437e44f8c5f4c20a1a50d00c7144ff3e27858c555" status="verified"/>
-		<rom name="EP0776-NPEB00845_00-MINININJASEUHDD0.rap" size="16" crc="62e213ae" md5="2ec1a74881bca434832a3fccddd14b9f" sha1="4440c7072d10cd3a367a032005fc0b24eb1c4dc0" sha256="4dfce38959e8ef1f563459b2cd93d0400d2e9752ebac4c43db02765c475a9233" status="verified"/>
 	</game>
 	<game name="Minna de Spelunker (Japan) (PS3 v2.50)" id="45588">
 		<description>Minna de Spelunker (Japan) (PS3 v2.50)</description>
@@ -19846,12 +19872,6 @@
 		<rom name="3Oh1P2YaUryT6hCYcbJX0opSIG0f8x5rpxvtTHy5N3WE9fAsC4YFlWMRs1wASnohlL5Q46pF9b2PrCSL3uad7rD8gmKoG7x1vs6vN.pkg" size="2109844432" crc="1f519c6f" md5="12a25c66413f2982641ce74e5cecb7d1" sha1="76f7bee19d9395b7a60ffd93ccac65749202ac87"/>
 		<rom name="EP9000-BCET70020_00-MODNATIONKART001.rap" size="16" crc="a3637a6a" md5="75b03f46a8d33a6a1bea1321822a0a68" sha1="5f1ad9e47afeb16625da926ad2577901a9e38f4f" sha256="9551d1236595a8ae89f23b7585171454fdf92a992f69d9757152a345f6b09488"/>
 	</game>
-	<game name="Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Unlock Key)" id="36155">
-		<description>Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Unlock Key)</description>
-		<game_id>EP1010-NPEB00253_00-MONKEY2LICENSE00</game_id>
-		<rom name="qEnhJXdLAEjBsSqw2V4DLWgf6d1gTQGtI4hc8TeW1MBI3mrIlsOtewPoD1ktAlygrQYsaLirv6cpbpgOjVCAOCVHPeIRbUTfQ2akq.pkg" size="6080" crc="aa3d2b9b" md5="e53f5b9471f4072a3bbad58b14f09751" sha1="943578e898009b6590ff572db1f598c20151353b" sha256="de4681b7a067fde3dcee6b9ef31b4ab1f254998b10a219e6433020619ef75d0a" status="verified"/>
-		<rom name="EP1010-NPEB00253_00-MONKEY2LICENSE00.rap" size="16" crc="57923856" md5="155404d1be4670e56c94eb4f0f97ee14" sha1="e071cb6c5d74667550493a99b6ab1f3efe8d6f61" sha256="77445932577b497476c31137cb26a351f270b5e1fc279dd080d9c0b58c8f8b25" status="verified"/>
-	</game>
 	<game name="Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Trial)" id="04319">
 		<description>Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Trial)</description>
 		<game_id>EP1010-NPEB00253_00-MONKEY2000000000</game_id>
@@ -19861,6 +19881,12 @@
 		<description>Monkey Island 2 - Special Edition - LeChuck's Revenge (USA) (Trial)</description>
 		<game_id>UP1010-NPUB30196_00-MONKEY2000000000</game_id>
 		<rom name="49kVch1Hn6jj7BUvNCe7FWVi5EqN8aQp3xkQrDSqTKacmV08TYxXxrB6UQadyXHCOaK0qiR8GF1jtScGELcGVEEtgfnJQxCCldSKF.pkg" size="1220701696" crc="b762c29c" md5="08610b3fe3c186981b8403fc0c48d462" sha1="c84b4255b3ea6a51aeebd0cb847ec627e11b9298"/>
+	</game>
+	<game name="Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Unlock Key)" id="36155">
+		<description>Monkey Island 2 - Special Edition - LeChuck's Revenge (Europe) (Unlock Key)</description>
+		<game_id>EP1010-NPEB00253_00-MONKEY2LICENSE00</game_id>
+		<rom name="qEnhJXdLAEjBsSqw2V4DLWgf6d1gTQGtI4hc8TeW1MBI3mrIlsOtewPoD1ktAlygrQYsaLirv6cpbpgOjVCAOCVHPeIRbUTfQ2akq.pkg" size="6080" crc="aa3d2b9b" md5="e53f5b9471f4072a3bbad58b14f09751" sha1="943578e898009b6590ff572db1f598c20151353b" sha256="de4681b7a067fde3dcee6b9ef31b4ab1f254998b10a219e6433020619ef75d0a" status="verified"/>
+		<rom name="EP1010-NPEB00253_00-MONKEY2LICENSE00.rap" size="16" crc="57923856" md5="155404d1be4670e56c94eb4f0f97ee14" sha1="e071cb6c5d74667550493a99b6ab1f3efe8d6f61" sha256="77445932577b497476c31137cb26a351f270b5e1fc279dd080d9c0b58c8f8b25" status="verified"/>
 	</game>
 	<game name="Monopoly Deal (Europe)" id="40861">
 		<description>Monopoly Deal (Europe)</description>
@@ -19958,6 +19984,12 @@
 		<game_id>EP1016-NPEB90076_00-MONMADNESSDEMO10</game_id>
 		<rom name="nyBY1iTFUX0fAnsPLWpPAsBgQig1rqRexK8NCgRRCF3IB3UEj0vCyRj4Sv71o6IiMbfb5FXxp0LeMl0ay9Yu7hrNFiaXMeX6wFQ6Q.pkg" size="749198080" crc="fdae26b3" md5="35476986555c175a3d117f0fe2bacdb4" sha1="8260f508accb1abfe1f4427b33e0d093bb226895"/>
 	</game>
+	<game name="Monster World IV (Japan)" id="19119">
+		<description>Monster World IV (Japan)</description>
+		<game_id>JP0177-NPJB00092_00-MNSTRWRLD4PSNJP1</game_id>
+		<rom name="rZaglxIUOudGCkvEyYBTAzKqfMpiCTnuGuXLMuzGJRrsalljotxevVACPMuKfDNChrwUEdhFcQyeJonjGfJmApwLtvMtHuYzqJxRB.pkg" size="89595584" crc="3f1acacc" md5="1fb99061dd1cbd534b5321f69212fee6" sha1="bdc5645bcde9ea42227defe1c72deaa1a4b7e3ff"/>
+		<rom name="JP0177-NPJB00092_00-MNSTRWRLD4PSNJP1.rap" size="16" crc="2eca31e5" md5="8ca647d5327409d8b3176ee2525bd9da" sha1="6b602ccf8ac8de2f417b58ddbc290d6c74e7da82"/>
+	</game>
 	<game name="Monster World IV (Europe)" id="04340">
 		<description>Monster World IV (Europe)</description>
 		<game_id>EP0177-NPEB00416_00-MNSTRWRLD4PSNEU1</game_id>
@@ -19969,12 +20001,6 @@
 		<game_id>UP0177-NPUB30324_00-MNSTRWRLD4PSNUS1</game_id>
 		<rom name="BAnRHYsElgKYJGtOlLtivmYMPbJbdzOHnXNYJzZUOTqbHTqkNyGZPoWgEQIeLruqnmedYDVdBuNxhxvrPInibiIaKXwMXskqmeUav.pkg" size="95847200" crc="1c3bb3a8" md5="45f2ba3fa46f3867a86e531f94df2236" sha1="02af7d486278b69819ec703044a319e4c74c0f79"/>
 		<rom name="UP0177-NPUB30324_00-MNSTRWRLD4PSNUS1.rap" size="16" crc="58c8bfe4" md5="666d2af7a8c9cb9eb6922c3bda7d245a" sha1="d92f1443559ef42a7ff439d44a0eb4d6dd9bcca5"/>
-	</game>
-	<game name="Monster World IV (Japan)" id="19119">
-		<description>Monster World IV (Japan)</description>
-		<game_id>JP0177-NPJB00092_00-MNSTRWRLD4PSNJP1</game_id>
-		<rom name="rZaglxIUOudGCkvEyYBTAzKqfMpiCTnuGuXLMuzGJRrsalljotxevVACPMuKfDNChrwUEdhFcQyeJonjGfJmApwLtvMtHuYzqJxRB.pkg" size="89595584" crc="3f1acacc" md5="1fb99061dd1cbd534b5321f69212fee6" sha1="bdc5645bcde9ea42227defe1c72deaa1a4b7e3ff"/>
-		<rom name="JP0177-NPJB00092_00-MNSTRWRLD4PSNJP1.rap" size="16" crc="2eca31e5" md5="8ca647d5327409d8b3176ee2525bd9da" sha1="6b602ccf8ac8de2f417b58ddbc290d6c74e7da82"/>
 	</game>
 	<game name="Monsters, Inc. (USA) (PS2 Classics)" id="29294">
 		<description>Monsters, Inc. (USA) (PS2 Classics)</description>
@@ -20117,16 +20143,16 @@
 		<game_id>UP0102-NPUB90556_00-MOTOGP1011DEMO00</game_id>
 		<rom name="QlLrqFjasGQenRlefxqsFpNaQusbpbXUTiKyKWquhlfklzTEYmMBZIROknsHoRgUWDBdUXsdCtLhGDmLrdQosEqPYbSmHOThVLdRT.pkg" size="412643808" crc="a1ff33ca" md5="5e2a875119d17f4a3bc454de60226f69" sha1="00ae886a9ff8cdc88f0c038fad176df5b10a94e9"/>
 	</game>
+	<game name="MotoGP 13 (Europe) (Demo)" id="18560">
+		<description>MotoGP 13 (Europe) (Demo)</description>
+		<game_id>EP4356-NPEB90504_00-MOTOGP13DEMO0000</game_id>
+		<rom name="dkQizRksGmzyLnIUJASDGRNVHqkPCGlFwhmCnzsZSwRWJYuptkEOWQokNIrrcctN.pkg" size="1649878928" crc="ca9fb808" md5="8e017c7d7645620d4bc2c943b917e1cc" sha1="1dc1dde4f559394b3e220ed8addac003d7e1521e"/>
+	</game>
 	<game name="MotoGP 13 (Europe)" id="40902">
 		<description>MotoGP 13 (Europe)</description>
 		<game_id>EP4356-NPEB01383_00-MOTOGP1300000000</game_id>
 		<rom name="dRMotXOsumDmqXEzOlerhXLLQFVYEXsFjAnqYdRoHDFLLQKZLAQaHrvlePesHvLhwHIDUNhhxQnneOWvatilxEcnyNzMLdGmipWAH.pkg" size="12272336000" crc="8d5d50c7" md5="2fb74a5d93ee150a3b4eb057c28639c4" sha1="ff09acae864244c22eaf8cfcabbc24df8961b831" sha256="b4ca4b75a1094b868c7ea02353db181285be5e41af098593169b44b7bed4bb55"/>
 		<rom name="EP4356-NPEB01383_00-MOTOGP1300000000.rap" size="16" crc="1af79e29" md5="e42bffe352b9b0c9394e94aa99d19642" sha1="95a1033add909df4573cd4d5bff203dcec8559a9" sha256="27b382e8e50a61fcd38b30fa9cf8704669fd302db500a9e6c23ad53daa99abbc"/>
-	</game>
-	<game name="MotoGP 13 (Europe) (Demo)" id="18560">
-		<description>MotoGP 13 (Europe) (Demo)</description>
-		<game_id>EP4356-NPEB90504_00-MOTOGP13DEMO0000</game_id>
-		<rom name="dkQizRksGmzyLnIUJASDGRNVHqkPCGlFwhmCnzsZSwRWJYuptkEOWQokNIrrcctN.pkg" size="1649878928" crc="ca9fb808" md5="8e017c7d7645620d4bc2c943b917e1cc" sha1="1dc1dde4f559394b3e220ed8addac003d7e1521e"/>
 	</game>
 	<game name="MotoGP 13 Compact (Europe)" id="20059">
 		<description>MotoGP 13 Compact (Europe)</description>
@@ -20305,6 +20331,11 @@
 		<rom name="YMNvsVzAGjKjbRBmMCLtcYGWoLlYBHcXyKStujfGFCUoexMFmWoiptGOaZnUiGrW.pkg" size="102400" crc="87d2e1f6" md5="a35e34ad32c99f7c742c503c3485fcd4" sha1="e26b311b42c4b989ba7936801511067e04262118"/>
 		<rom name="EP9000-NPEA00333_00-MSRCUPGRADE00000.rap" size="16" crc="5a88152e" md5="708f2a7eb5a5983aeb8f48649d010ee5" sha1="bddefb58fe85a4b01c06ebc5803c2e3fedaddcd8"/>
 	</game>
+	<game name="MotorStorm RC (Asia) (Unlock Key)" id="39266">
+		<description>MotorStorm RC (Asia) (Unlock Key)</description>
+		<game_id>HP9000-NPHA80190_00-MSRCUPGRADE00000</game_id>
+		<rom name="fEZtfPdqgeKeMfbNVZPimjIKiaAjbPKYTBOuNMSGmNkNHBRvOnPLbwuHYqVXFCVkJgWsTRBznbzwiBBKFhlVhAHeYscPqXvDjSWaB.pkg" size="102400" crc="c6128f7e" md5="9722a938b7a248ea8cca4cefc9d1145d" sha1="310b46fb040c06ce2d8ca3ce8a086b2e497aef61" sha256="70bc245e29176f87ea52a0741c219e4eebdd11934be54101a2f86962551533ef"/>
+	</game>
 	<game name="MotorStorm RC (Asia) (Trial)" id="04507">
 		<description>MotorStorm RC (Asia) (Trial)</description>
 		<game_id>HP9000-NPHA80190_00-MOTORESCALED0000</game_id>
@@ -20331,21 +20362,10 @@
 		<rom name="BipQdWFQKbMAnJYuTENGAZJzDUYgPJfrhRCYzmxEUzrAqSiXwmIvPthNoBxpYUCuCsJZnVjdPsBAksdcIofPZhHZVcxfYTqASBFIu.pkg" size="102400" crc="39ddfc36" md5="39cae42dd10016d85c1a73c837afd8bf" sha1="25bdbf4d2a91b4cf4ed4cdf7e7975b7cd90a1c48"/>
 		<rom name="UP9000-NPUA80678_00-MSRCUPGRADE00000.rap" size="16" crc="e10d0c97" md5="4411912707fe81ba14dcd9b26223ef24" sha1="d30ff3da825e6bc05f15c1055bbfc6c8b8dda357" sha256="bd055d08753835f7b686d5b87fa7876882b0ef6e8c5f1aaff9a7c1a6337e3fee"/>
 	</game>
-	<game name="MotorStorm RC (Asia) (Unlock Key)" id="39266">
-		<description>MotorStorm RC (Asia) (Unlock Key)</description>
-		<game_id>HP9000-NPHA80190_00-MSRCUPGRADE00000</game_id>
-		<rom name="fEZtfPdqgeKeMfbNVZPimjIKiaAjbPKYTBOuNMSGmNkNHBRvOnPLbwuHYqVXFCVkJgWsTRBznbzwiBBKFhlVhAHeYscPqXvDjSWaB.pkg" size="102400" crc="c6128f7e" md5="9722a938b7a248ea8cca4cefc9d1145d" sha1="310b46fb040c06ce2d8ca3ce8a086b2e497aef61" sha256="70bc245e29176f87ea52a0741c219e4eebdd11934be54101a2f86962551533ef"/>
-	</game>
 	<game name="MotorStorm RC - Music from the Game (Europe) (Soundtrack)" id="46009">
 		<description>MotorStorm RC - Music from the Game (Europe) (Soundtrack)</description>
 		<game_id>EP9000-NPEA00428_00-MSRCDLCMUSIC0000</game_id>
 		<rom name="ywHTyySPgZMFGIwyBjdOdCYTLDohOIQYEZMFBTiAvuusWONLtqRgZoNbqXePDEyw.pkg" size="73960416" crc="c3028781" md5="d1047a348889139fdf1c86628bedde4e" sha1="ce00ba4280689f6da78d9b114190f6101bc7dc3d"/>
-	</game>
-	<game name="Mountain Crime - Requital (Europe) (Unlock Key)" id="41055">
-		<description>Mountain Crime - Requital (Europe) (Unlock Key)</description>
-		<game_id>EP4173-NPEB01161_00-MOUNTAINCRIMEPD0</game_id>
-		<rom name="mKsmbXCPdZGoQQdmERXFxDSPZQYFEgvmrVssDDtGzkFysImmTTbYfCdAhOPHGKut.pkg" size="6080" crc="ccf972c9" md5="8e4e184447ea624da003cc9edbb77f41" sha1="dea96399a13b54e91c8774ba9ae4ffccd9d0dcaf" sha256="21557b1ac215308a8977058f964b6a540af1149e4b6f39feef7ce5bbcd2e1e29"/>
-		<rom name="EP4173-NPEB01161_00-MOUNTAINCRIMEPD0.rap" size="16" crc="12e26a51" md5="ce1e01e161c0fb471bada4e7202f62f3" sha1="daa608e55270f9abbd48ea0de2be432254fec405" sha256="655fa5754c03b935da2c47799687127592997295a50955e3f9efa9f1f67a4219"/>
 	</game>
 	<game name="Mountain Crime - Requital (Europe) (Trial)" id="04625">
 		<description>Mountain Crime - Requital (Europe) (Trial)</description>
@@ -20361,6 +20381,12 @@
 		<description>Mountain Crime - Requital (USA) (Unlock Key)</description>
 		<game_id>UP4173-NPUB30919_00-MOUNTAINCRIMEPD0</game_id>
 		<rom name="ICLJMakiwuMRQajYveDnasfmcVNieWNAUqJjQISxlVQAQwItrhFNTjOiOZxNgEQe.pkg" size="6080" crc="e94e9f68" md5="0ac06db17f861893e1508a073cdbc2bf" sha1="df5a462a932c9fbabab23b562834817aa2179782"/>
+	</game>
+	<game name="Mountain Crime - Requital (Europe) (Unlock Key)" id="41055">
+		<description>Mountain Crime - Requital (Europe) (Unlock Key)</description>
+		<game_id>EP4173-NPEB01161_00-MOUNTAINCRIMEPD0</game_id>
+		<rom name="mKsmbXCPdZGoQQdmERXFxDSPZQYFEgvmrVssDDtGzkFysImmTTbYfCdAhOPHGKut.pkg" size="6080" crc="ccf972c9" md5="8e4e184447ea624da003cc9edbb77f41" sha1="dea96399a13b54e91c8774ba9ae4ffccd9d0dcaf" sha256="21557b1ac215308a8977058f964b6a540af1149e4b6f39feef7ce5bbcd2e1e29"/>
+		<rom name="EP4173-NPEB01161_00-MOUNTAINCRIMEPD0.rap" size="16" crc="12e26a51" md5="ce1e01e161c0fb471bada4e7202f62f3" sha1="daa608e55270f9abbd48ea0de2be432254fec405" sha256="655fa5754c03b935da2c47799687127592997295a50955e3f9efa9f1f67a4219"/>
 	</game>
 	<game name="MouseCraft (Europe)" id="04628">
 		<description>MouseCraft (Europe)</description>
@@ -20495,28 +20521,22 @@
 		<rom name="JkKODsCHAYNTosQhZiPZyyttnHvUwIFxKECalfCWcyUGqRKKxWlXmIpKNSvVmOwm.pkg" size="9126619952" crc="cabd5e3c" md5="2f909bdf474198065a3dda8c9f51d03d" sha1="d7e16b78af914668a712e106bba5f227447e11f6"/>
 		<rom name="UP1063-NPUB31464_00-HDDGAME000000001.rap" size="16" crc="aaee2382" md5="5be6b162a34e867f604a91a13ef46081" sha1="4e76cd5139a33ff1a322af772f76cd23f9283599" sha256="7c75ce33b28c2bcd7b880446ca2b91c3ea8ccad4f7c643fc473c2afef9c1e3e0"/>
 	</game>
-	<game name="Mugen Souls Z (Europe)" id="28500">
-		<description>Mugen Souls Z (Europe)</description>
-		<game_id>EP1063-NPEB01998_00-HDDGAME000000001</game_id>
-		<rom name="EP1063-NPEB01998_00-HDDGAME000000001.rap" size="16" crc="7597a647" md5="5b2cb4cfaee0eed4c83e797ac72f14d6" sha1="46c1fced94de8e10b2a6b7f1de9872d80e738464"/>
-		<rom name="QyJvkJLUwEZSTMoejehVBsSlXgurZXGOSKpNIwfIPVpnINvaJVqypNAmkvycKZLn.pkg" size="9113592864" crc="cf07461c" md5="0f32bb0d6d125670d3c31da6abdc2f3b" sha1="807eea8f86854693677601cf25c7e7855c97fde7"/>
-	</game>
 	<game name="Mugen Souls Z (Korea)" id="45525">
 		<category>Games</category>
 		<description>Mugen Souls Z (Korea)</description>
 		<game_id>KP0004-NPHB00598_00-HDDGAME000000001</game_id>
 		<rom name="aYoPxjuJlmYgYzNdUaRArGCsfRJzYOnHnQeJMWPhncJEWGflltMfEwwILVWgZXbvseLsyANZcQezdNqWFfLwcrFjNQGvvxdqaYKqS.pkg" size="7955185568" crc="cb6b2eb7" md5="87de7a0f25985374faf65e8d54ebfc9f" sha1="b37700797382a0e717ba5acea12f11620d1d8e72" sha256="e5593649de2c75651893be2469bc1f135076cfeabd05117fcafdf41a59199d4c"/>
 	</game>
+	<game name="Mugen Souls Z (Europe)" id="28500">
+		<description>Mugen Souls Z (Europe)</description>
+		<game_id>EP1063-NPEB01998_00-HDDGAME000000001</game_id>
+		<rom name="EP1063-NPEB01998_00-HDDGAME000000001.rap" size="16" crc="7597a647" md5="5b2cb4cfaee0eed4c83e797ac72f14d6" sha1="46c1fced94de8e10b2a6b7f1de9872d80e738464"/>
+		<rom name="QyJvkJLUwEZSTMoejehVBsSlXgurZXGOSKpNIwfIPVpnINvaJVqypNAmkvycKZLn.pkg" size="9113592864" crc="cf07461c" md5="0f32bb0d6d125670d3c31da6abdc2f3b" sha1="807eea8f86854693677601cf25c7e7855c97fde7"/>
+	</game>
 	<game name="Multiplayer.it (Italy)" id="34083">
 		<description>Multiplayer.it (Italy)</description>
 		<game_id>EP4462-NPEB01990_00-WEBMAF00000MULTI</game_id>
 		<rom name="gKNfvszuEQFgPYquYgGiZjZvYLAgxLPECTtiVLEXzOsRhrFVUGuBMlGtLjQGzEmJ.pkg" size="39616144" crc="3fb8562c" md5="baa69d70aa036b9daa5107db53adf748" sha1="cee9640dd9004b5062603dcc8b6dffb5422cfdf0" sha256="3e35bb8fde0118dad142ca6defe059e89ab9c895e59178233bc0d3d9ac1e9d0b"/>
-	</game>
-	<game name="Murdered - Soul Suspect (USA)" id="04662">
-		<description>Murdered - Soul Suspect (USA)</description>
-		<game_id>UP0082-NPUB31285_00-MURDEREDHDDGAME0</game_id>
-		<rom name="evydDjCmGzXkLBsxEOfpoOtkbxGmuTbuYxGszUaevFXicMZXpnWGdJMatCeRjcXG.pkg" size="10446484784" crc="318f1963" md5="cfb909904b2b68c864e24b9fe84727e9" sha1="30ad3e269ac3dc922fce509390dd88b2c1940590"/>
-		<rom name="UP0082-NPUB31285_00-MURDEREDHDDGAME0.rap" size="16" crc="74808d7e" md5="1881eb85d5422d485fb3dfb7f545e6fa" sha1="9c79fb07c18936723699a3b1190d8c0ba9f324ad"/>
 	</game>
 	<game name="Murdered - Soul Suspect (Europe)" id="19123">
 		<description>Murdered - Soul Suspect (Europe)</description>
@@ -20524,10 +20544,21 @@
 		<rom name="OVyJenzvsKPAgYSQtLwMUtiShCRgjhhWckdtXgJDErvgAjqYbpjTxYanxUJwgWtkipwmpHnRbixRyZeZIeeQrGehirsesBxvNbSFZ.pkg" size="10671598160" crc="d701ad48" md5="19127c49e69313fbffac9a40b3d7f40f" sha1="ad6ed6cbdaeaa568095b30da43951c88f6694359"/>
 		<rom name="EP0082-NPEB01432_00-MURDEREDHDDGAME0.rap" size="16" crc="319c13eb" md5="be78adb18fd1e2bd0d6719f4cd561641" sha1="50c24adbb6e77dd302553a5af79e5e90453e72cf"/>
 	</game>
+	<game name="Murdered - Soul Suspect (USA)" id="04662">
+		<description>Murdered - Soul Suspect (USA)</description>
+		<game_id>UP0082-NPUB31285_00-MURDEREDHDDGAME0</game_id>
+		<rom name="evydDjCmGzXkLBsxEOfpoOtkbxGmuTbuYxGszUaevFXicMZXpnWGdJMatCeRjcXG.pkg" size="10446484784" crc="318f1963" md5="cfb909904b2b68c864e24b9fe84727e9" sha1="30ad3e269ac3dc922fce509390dd88b2c1940590"/>
+		<rom name="UP0082-NPUB31285_00-MURDEREDHDDGAME0.rap" size="16" crc="74808d7e" md5="1881eb85d5422d485fb3dfb7f545e6fa" sha1="9c79fb07c18936723699a3b1190d8c0ba9f324ad"/>
+	</game>
 	<game name="Museum of Killer Is Dead, The (Japan) (PlayView)" id="19124">
 		<description>Museum of Killer Is Dead, The (Japan) (PlayView)</description>
 		<game_id>JP0117-NPJB60173_00-KILLERISDEAD0000</game_id>
 		<rom name="qGsdVIbzwRLkKwYhqPsYMPZkCWuVZKwenZbyxvBYMmqZXYXcRCloomGsFRTxmjxDwrvPtxyobBbSxQltGcgPDZzqtpOuwVgzUQpWM.pkg" size="3122143968" crc="5c727a8c" md5="c12275301ce9b1fa295d0a71bcd35d2d" sha1="d8df1cf3a91b04cd0f4488fcf57e51991b3df2b8"/>
+	</game>
+	<game name="Mushroom Wars (Europe) (Demo)" id="18566">
+		<description>Mushroom Wars (Europe) (Demo)</description>
+		<game_id>EP4073-NPEB90204_00-MUSHROOMS0000000</game_id>
+		<rom name="pSnM6Jkn66XGpx9RMw5b4ir6ap9TggDP0Lgy29yLErs1W1RlbJB38JGnoFyE7okuWcP8AjlX6ApJhuNS8UFewMNYCmCpADsEBLP9o.pkg" size="105954128" crc="eded6703" md5="faa9475ff5883dcdb0ef723583da2709" sha1="9ec2fa15c6e12d433adeac5ac886998aba05913c"/>
 	</game>
 	<game name="Mushroom Wars (Europe)" id="04663">
 		<description>Mushroom Wars (Europe)</description>
@@ -20545,11 +20576,6 @@
 		<description>Mushroom Wars (USA) (Demo)</description>
 		<game_id>UP4073-NPUB90352_00-MUSHROOMS0000000</game_id>
 		<rom name="jYLtCckwcd88jQfds6WIYhgOOpyTgXm3PRoGD3SfcxmpE6rEcqGTV3p2IuOHcXjV5P8H4jYhAjRKIJ2NxljO8av1aIaR2sUIC7BLC.pkg" size="105891488" crc="af01af18" md5="5d15a0478c5ded825386535b7f5a3875" sha1="e35afc1dcae5d5047aa9a6f9e2b7902f3198d416"/>
-	</game>
-	<game name="Mushroom Wars (Europe) (Demo)" id="18566">
-		<description>Mushroom Wars (Europe) (Demo)</description>
-		<game_id>EP4073-NPEB90204_00-MUSHROOMS0000000</game_id>
-		<rom name="pSnM6Jkn66XGpx9RMw5b4ir6ap9TggDP0Lgy29yLErs1W1RlbJB38JGnoFyE7okuWcP8AjlX6ApJhuNS8UFewMNYCmCpADsEBLP9o.pkg" size="105954128" crc="eded6703" md5="faa9475ff5883dcdb0ef723583da2709" sha1="9ec2fa15c6e12d433adeac5ac886998aba05913c"/>
 	</game>
 	<game name="Music Unlimited (World)" id="29374">
 		<category>Applications</category>
@@ -20754,6 +20780,11 @@
 		<game_id>UP0700-NPUB31587_00-NARUTOUNSRDLC050</game_id>
 		<rom name="flxGcgIjrqFWNuCtKYYSXDTcsrStlruArxaOwRleOQRpypGzGjqyONyfZYGHqtbN.pkg" size="435799808" crc="d2180384" md5="9edfceffd6b6831efe731f29264b61cf" sha1="a037fc0c00c166585f0d54e642fb914e6a832a0f"/>
 	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm (Europe) (Demo)" id="13903">
+		<description>Naruto Shippuden - Ultimate Ninja Storm (Europe) (Demo)</description>
+		<game_id>EP0700-NPEB90080_00-NARUTOSTORMDEMO1</game_id>
+		<rom name="YxLG2WYFaFuoSWD2jlOwQoak0G5dQ4nkBPNwuubQam4bPdc5nyBf9wtH97nubyQHttEA9LLTAF2FHanv8LKCqMaKnJMQIfFwvTxmf.pkg" size="584052384" crc="3dbab9a6" md5="885e3ed988a91b0ce285b4c80fc50533" sha1="d97265e6a7ddcbe3915c8f4b12f79066abcf7f22"/>
+	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm (USA) (Demo)" id="04740">
 		<description>Naruto Shippuden - Ultimate Ninja Storm (USA) (Demo)</description>
 		<game_id>UP0700-NPUB90107_00-NARUTOSTORMDEMO1</game_id>
@@ -20764,10 +20795,10 @@
 		<game_id>UP9000-NPUA80191_00-NARUTOSTORMDEMO1</game_id>
 		<rom name="HrOsg0V8FeDutv8fmgaGuXHnY7RnrtysQX1gIRMfLCkEsMMG3vx1m05xVnYEJaT9MirBl8S9ApbF98l5NWEcfbsyLjxTVUwvbbDeT.pkg" size="584077232" crc="4c33063e" md5="a65f94ec228b7b042c3e537fc1099a44" sha1="4b2b06051cc15478472cd1e91eafd8ac1d62d524"/>
 	</game>
-	<game name="Naruto Shippuden - Ultimate Ninja Storm (Europe) (Demo)" id="13903">
-		<description>Naruto Shippuden - Ultimate Ninja Storm (Europe) (Demo)</description>
-		<game_id>EP0700-NPEB90080_00-NARUTOSTORMDEMO1</game_id>
-		<rom name="YxLG2WYFaFuoSWD2jlOwQoak0G5dQ4nkBPNwuubQam4bPdc5nyBf9wtH97nubyQHttEA9LLTAF2FHanv8LKCqMaKnJMQIfFwvTxmf.pkg" size="584052384" crc="3dbab9a6" md5="885e3ed988a91b0ce285b4c80fc50533" sha1="d97265e6a7ddcbe3915c8f4b12f79066abcf7f22"/>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm 2 (Japan) (Demo)" id="04762">
+		<description>Naruto Shippuden - Ultimate Ninja Storm 2 (Japan) (Demo)</description>
+		<game_id>JP0700-NPJB90253_00-0000000000000000</game_id>
+		<rom name="NSSOUaq3UwmkEoTgOI4JHujAdLY0r8h0VW3emlBTStFAGrL8VjXq3OkuAw7iI9guJ7uLOIUMR0n3JWcRcagR7KuDleUW667GGijUy.pkg" size="262145696" crc="396bdf37" md5="c03be860fff3b24c17dcc10b1e18b86f" sha1="bac3a0ab1ec87b8b9d7767f75995b4550cf78cc0"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm 2 (Europe) (Demo)" id="18575">
 		<description>Naruto Shippuden - Ultimate Ninja Storm 2 (Europe) (Demo)</description>
@@ -20779,30 +20810,25 @@
 		<game_id>UP0700-NPUB90433_00-0000000000000000</game_id>
 		<rom name="9SqldUK0EUOfJ6xJanqERGokQbetvnxnsB6N6pYr9Ce2lYWkJIr9tagRl0bOpAHaA402bIfgGQduLC6XMGHkkxxbm5U1YX3pLVlOv.pkg" size="261750944" crc="e43afd12" md5="a26d8bd80527da6f2d5540ba56438d37" sha1="a153e365b6a2103db8ed5226668bb84380638f97"/>
 	</game>
-	<game name="Naruto Shippuden - Ultimate Ninja Storm 2 (Japan) (Demo)" id="04762">
-		<description>Naruto Shippuden - Ultimate Ninja Storm 2 (Japan) (Demo)</description>
-		<game_id>JP0700-NPJB90253_00-0000000000000000</game_id>
-		<rom name="NSSOUaq3UwmkEoTgOI4JHujAdLY0r8h0VW3emlBTStFAGrL8VjXq3OkuAw7iI9guJ7uLOIUMR0n3JWcRcagR7KuDleUW667GGijUy.pkg" size="262145696" crc="396bdf37" md5="c03be860fff3b24c17dcc10b1e18b86f" sha1="bac3a0ab1ec87b8b9d7767f75995b4550cf78cc0"/>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 (Europe) (Demo)" id="13596">
+		<description>Naruto Shippuden - Ultimate Ninja Storm 3 (Europe) (Demo)</description>
+		<game_id>EP0700-NPEB90474_00-NARUTOUNS3DEMO00</game_id>
+		<rom name="eJYRNfROZataHbbwhxjMOOMszPrzegUjYHzhJEhjXhzNeRYloMxfROMsbnDABwKL.pkg" size="1403995648" crc="192801b5" md5="9c091c931d5e58ae9b96c072d3cc39fa" sha1="b7292af2480b68399e4db60cc3ce232e88b6707b"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 (USA) (Demo)" id="04769">
 		<description>Naruto Shippuden - Ultimate Ninja Storm 3 (USA) (Demo)</description>
 		<game_id>UP0700-NPUB90939_00-NARUTOUNS3DEMO00</game_id>
 		<rom name="hTVNsguJnHkLKQfbWyyUoKywPZjqjOzUeEBctLrlGcgQtUXHEPaWLSHfFuttBfQQ.pkg" size="1397622128" crc="aaee6694" md5="685832c6e534b684c5efd8b31d935632" sha1="1c85458fc61ae40c8f3952421b5d3028eae7350d"/>
 	</game>
-	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 (Europe) (Demo)" id="13596">
-		<description>Naruto Shippuden - Ultimate Ninja Storm 3 (Europe) (Demo)</description>
-		<game_id>EP0700-NPEB90474_00-NARUTOUNS3DEMO00</game_id>
-		<rom name="eJYRNfROZataHbbwhxjMOOMszPrzegUjYHzhJEhjXhzNeRYloMxfROMsbnDABwKL.pkg" size="1403995648" crc="192801b5" md5="9c091c931d5e58ae9b96c072d3cc39fa" sha1="b7292af2480b68399e4db60cc3ce232e88b6707b"/>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)" id="04808">
+		<description>Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)</description>
+		<game_id>UP0700-NPUB90746_00-NARUTOUNSGDEMO00</game_id>
+		<rom name="rhUqILeEPdYgViICfSTeLwmDmKmUiXAcqMvWIDYinLvWnGVlRpPheXibtrJTxbvsPTvsLvHXbrouOtUXpgqLGTmkWqecHFppcguMw.pkg" size="461440720" crc="ee9f31a8" md5="888750ce56dcdd83d81edae13558a6a6" sha1="92412c8c5be80cfc986337e85bdebd080d78efac"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm Generations (Europe) (Demo)" id="18577">
 		<description>Naruto Shippuden - Ultimate Ninja Storm Generations (Europe) (Demo)</description>
 		<game_id>EP0700-NPEB90396_00-NARUTOUNSGDEMO00</game_id>
 		<rom name="gRYVAtZRtlGqZbfjTCPpawTCWPpggHQEpXhtmEmnwoMNPNvxjvRmjmEsFwXwXTGx.pkg" size="985800848" crc="fb0df2a7" md5="ba4ee81591bfcdfc64a2339c2d896248" sha1="f07971cb244dce932cc2a8391a7107b188449b82"/>
-	</game>
-	<game name="Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)" id="04808">
-		<description>Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (Demo)</description>
-		<game_id>UP0700-NPUB90746_00-NARUTOUNSGDEMO00</game_id>
-		<rom name="rhUqILeEPdYgViICfSTeLwmDmKmUiXAcqMvWIDYinLvWnGVlRpPheXibtrJTxbvsPTvsLvHXbrouOtUXpgqLGTmkWqecHFppcguMw.pkg" size="461440720" crc="ee9f31a8" md5="888750ce56dcdd83d81edae13558a6a6" sha1="92412c8c5be80cfc986337e85bdebd080d78efac"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm Revolution (Japan) (Demo)" id="04737">
 		<description>Naruto Shippuden - Ultimate Ninja Storm Revolution (Japan) (Demo)</description>
@@ -20819,17 +20845,17 @@
 		<game_id>UP0700-NPUB91011_00-NARUTOUNSR000000</game_id>
 		<rom name="cNpRujvqLuPNDkKDXStejdGgwOWEIHhHXKutuiNoMAHfgQKlUDeWUGEvEzVsRUxc.pkg" size="1131874480" crc="6c735655" md5="45d3e2a11d35c166274b39ac4c02c771" sha1="c04af2602c80f51b0418b2e55324131211a0cc89"/>
 	</game>
-	<game name="Naruto Shippuden - Ultimate Ninja Storm Revolution (Europe)" id="00485">
-		<description>Naruto Shippuden - Ultimate Ninja Storm Revolution (Europe)</description>
-		<game_id>EP0700-NPEB01986_00-NARUTOUNSR000000</game_id>
-		<rom name="YsUncktxqybefotbczEcypnXhEjsoaVjPBUzjhpsIeBhKTjwmJJcNyGOZNYWDreG.pkg" size="7989384048" crc="50d75842" md5="19eb056691db530559f2a252dfffc503" sha1="22991212578c0d6406376574bab2aa6a7bdd3edc"/>
-		<rom name="EP0700-NPEB01986_00-NARUTOUNSR000000.rap" size="16" crc="45e605fa" md5="f860475b549f32c9fd95b77b857e83fb" sha1="6e105cc8900dcf334de7c98f7ed782dbc21c7177"/>
-	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm Revolution (USA)" id="35371">
 		<description>Naruto Shippuden - Ultimate Ninja Storm Revolution (USA)</description>
 		<game_id>UP0700-NPUB31472_00-NARUTOUNSR000000</game_id>
 		<rom name="CCTkHHQXNhjBiNcVNjiwdvBgnTWKNUKOsSIiYNPnbcgbDRSBAZNwRktfQnoTMBWg.pkg" size="7940188224" crc="27d8dfc3" md5="bc9eac12fb5d30cd50a794769815f8ea" sha1="4ab7d008ac9ee19df7578350465bcbc6cd50db7b"/>
 		<rom name="UP0700-NPUB31472_00-NARUTOUNSR000000.rap" size="16" crc="eca584b4" md5="2f564cd46b2e4a04ef972fe0b2f9bb94" sha1="2d26bb254ac8ade9753d65bdad70bd653cd5c7c8"/>
+	</game>
+	<game name="Naruto Shippuden - Ultimate Ninja Storm Revolution (Europe)" id="00485">
+		<description>Naruto Shippuden - Ultimate Ninja Storm Revolution (Europe)</description>
+		<game_id>EP0700-NPEB01986_00-NARUTOUNSR000000</game_id>
+		<rom name="YsUncktxqybefotbczEcypnXhEjsoaVjPBUzjhpsIeBhKTjwmJJcNyGOZNYWDreG.pkg" size="7989384048" crc="50d75842" md5="19eb056691db530559f2a252dfffc503" sha1="22991212578c0d6406376574bab2aa6a7bdd3edc"/>
+		<rom name="EP0700-NPEB01986_00-NARUTOUNSR000000.rap" size="16" crc="45e605fa" md5="f860475b549f32c9fd95b77b857e83fb" sha1="6e105cc8900dcf334de7c98f7ed782dbc21c7177"/>
 	</game>
 	<game name="Naruto Shippuuden - Narutimate Storm Generation (Japan) (Demo)" id="40965">
 		<description>Naruto Shippuuden - Narutimate Storm Generation (Japan) (Demo)</description>
@@ -20848,16 +20874,16 @@
 		<rom name="UP0777-NPUB91029_00-NASCAR2015DEMO01_bg_1_859deb3a841a0b94860d4c23078783eb980c0616.pkg" size="883282368" crc="f91ba732" md5="4e271fb644ae932b70460d3473c45d67" sha1="55a6fdb3a0468a20c6641f57727dfeba65290d6c"/>
 		<rom name="UP0777-NPUB91029_00-NASCAR2015DEMO01.rap" size="16" crc="62ee3455" md5="b01583a087040ee8733ec4d4ac1a9426" sha1="eb426fdc69813cbd9ee54ce1a94e43bbf35cf4d9"/>
 	</game>
-	<game name="NASCAR '15 - Victory Edition (USA)" id="20061">
-		<description>NASCAR '15 - Victory Edition (USA)</description>
-		<game_id>UP0777-NPUB31780_00-NASCAR15VEHDD001</game_id>
-		<rom name="UP0777-NPUB31780_00-NASCAR15VEHDD001_bg_1_b0d0fbe61cd2e92cc55f67f5b196ece4d533302e.pkg" size="1967218160" crc="d37788a1" md5="657403f5efa2bbef70c419f07b3238ec" sha1="2d371bbf41c71ae08d29296b3263d8c5a0cc5ead"/>
-	</game>
 	<game name="NASCAR '15 - Victory Edition (USA) (Demo)" id="18578">
 		<description>NASCAR '15 - Victory Edition (USA) (Demo)</description>
 		<game_id>UP0777-NPUB91034_00-NASCAR15VEDEMO01</game_id>
 		<rom name="UP0777-NPUB91034_00-NASCAR15VEDEMO01_bg_1_80b04093fa19b7ce37fc1bc9620f5cce1c72411d.pkg" size="895543632" crc="b0b91efc" md5="e4f53458327247437f580863bb877ee7" sha1="daad8e92d518d005521cc7ccd7996f53e5ede273"/>
 		<rom name="UP0777-NPUB91034_00-NASCAR15VEDEMO01.rap" size="16" crc="8ecf0a8f" md5="ba2470c80aa8c9e36feaacd3dfca463a" sha1="e74827afa4693464d2c014663b942cbb396e513c"/>
+	</game>
+	<game name="NASCAR '15 - Victory Edition (USA)" id="20061">
+		<description>NASCAR '15 - Victory Edition (USA)</description>
+		<game_id>UP0777-NPUB31780_00-NASCAR15VEHDD001</game_id>
+		<rom name="UP0777-NPUB31780_00-NASCAR15VEHDD001_bg_1_b0d0fbe61cd2e92cc55f67f5b196ece4d533302e.pkg" size="1967218160" crc="d37788a1" md5="657403f5efa2bbef70c419f07b3238ec" sha1="2d371bbf41c71ae08d29296b3263d8c5a0cc5ead"/>
 	</game>
 	<game name="NASCAR 08 (USA) (Demo)" id="04821">
 		<description>NASCAR 08 (USA) (Demo)</description>
@@ -20898,16 +20924,16 @@
 		<rom name="chYqWIMaCzALePIkKtjYAEVbFGfhUZDIfHHDsYKZgfnuFeEoniDXHtuiuNBbGBMp.pkg" size="1003033296" crc="1d2eacde" md5="655f7ca83cff51915853a28270c618e0" sha1="a144e0be357e7ab0cc8cbab6481c868596e3e0c7"/>
 		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f"/>
 	</game>
-	<game name="Naughty Bear - Panic in Paradise (Europe) (Trial)" id="13597">
-		<description>Naughty Bear - Panic in Paradise (Europe) (Trial)</description>
-		<game_id>EP4040-NPEB01054_00-TRIALGAME0000001</game_id>
-		<rom name="lRzlqVGcYNMLpbHbRkRhYXfYGCPnumysheiNdbmmubcNbKzMzVTHjQsMNvyHDsJW.pkg" size="1003033296" crc="5fd4e115" md5="a6d10e7b20bdeb1eb8e9467776a5ac99" sha1="7d489a5e9ae360ad40b72341daf4b8d8e80abad0"/>
-	</game>
 	<game name="Naughty Bear - Panic in Paradise (USA) (Unlock Key)" id="19126">
 		<description>Naughty Bear - Panic in Paradise (USA) (Unlock Key)</description>
 		<game_id>UP4040-NPUB30828_00-GAMELICENSE00001</game_id>
 		<rom name="aQFnWDQCPnIknypowJZUMonrawsypbrexVNCLPAuOQNeTaoJSeUeTpkTwRmFRfaH.pkg" size="6080" crc="738a73be" md5="c536606a874c72d27db7ac223e020d01" sha1="84c00ba0cf926597b1d016c6629e7641597eae19"/>
 		<rom name="UP4040-NPUB30828_00-GAMELICENSE00001.rap" size="16" crc="908a434c" md5="17b3a10548b91646d9a7c60921bb9c5e" sha1="5dc3ae2725e770f106caf8e9770f2d1722c0a99f"/>
+	</game>
+	<game name="Naughty Bear - Panic in Paradise (Europe) (Trial)" id="13597">
+		<description>Naughty Bear - Panic in Paradise (Europe) (Trial)</description>
+		<game_id>EP4040-NPEB01054_00-TRIALGAME0000001</game_id>
+		<rom name="lRzlqVGcYNMLpbHbRkRhYXfYGCPnumysheiNdbmmubcNbKzMzVTHjQsMNvyHDsJW.pkg" size="1003033296" crc="5fd4e115" md5="a6d10e7b20bdeb1eb8e9467776a5ac99" sha1="7d489a5e9ae360ad40b72341daf4b8d8e80abad0"/>
 	</game>
 	<game name="Naval Ops - Commander (USA) (PS2 Classics)" id="35574">
 		<description>Naval Ops - Commander (USA) (PS2 Classics)</description>
@@ -20966,16 +20992,16 @@
 		<game_id>EP8801-NPEB90260_00-NBA2K11DEM000000</game_id>
 		<rom name="8u32pqNEhvXlEuNjW5nQ4P14mEcjkEvKYFnwTVBVsupQU0a8Kke5iw1JOdYGFj26.pkg" size="743775424" crc="0b84573c" md5="f6a8cb94aeeab754515cba3f580a4cc2" sha1="f501070cbb524037acc9db45bc1573a8b8cbde20"/>
 	</game>
+	<game name="NBA 2K12 (USA) (Demo)" id="04866">
+		<description>NBA 2K12 (USA) (Demo)</description>
+		<game_id>UP8801-NPUB90677_00-NBA2K12DEM000000</game_id>
+		<rom name="GiFAzXPXRulcAUSQyGoAcTqojffeuEkiNWFbULdmgUEgajhHbzKjNnOnNMUYuHYKqhkEbRMQbieZqSBVGrdVveNZYhYblRqCmnGJb.pkg" size="1293570624" crc="862f9364" md5="4a77fa9c41f989de6638aebb9590d71b" sha1="b24ae0687f7c0bd05cd0b9f479406d62e1992c3a"/>
+	</game>
 	<game name="NBA 2K12 (Europe) (Demo)" id="45494">
 		<category>Demos</category>
 		<description>NBA 2K12 (Europe) (Demo)</description>
 		<game_id>EP8801-NPEB90368_00-NBA2K12DEM000000</game_id>
 		<rom name="enzsiXJpJDvKVnUNVRlJgoRnpjmaxXkqwrZKJhSuIRaSxXvdWkNDoAaVQKSEpXHv.pkg" size="1295832640" crc="b7e0dc9e" md5="a889e2acb7dbb3402581add9472d80e6" sha1="d7ac79c691d01857c76867f539ac10c4d3553f0a" sha256="031433b07d20046290c55ca377b287035529e69973283875ffcecc37e23fa42d"/>
-	</game>
-	<game name="NBA 2K12 (USA) (Demo)" id="04866">
-		<description>NBA 2K12 (USA) (Demo)</description>
-		<game_id>UP8801-NPUB90677_00-NBA2K12DEM000000</game_id>
-		<rom name="GiFAzXPXRulcAUSQyGoAcTqojffeuEkiNWFbULdmgUEgajhHbzKjNnOnNMUYuHYKqhkEbRMQbieZqSBVGrdVveNZYhYblRqCmnGJb.pkg" size="1293570624" crc="862f9364" md5="4a77fa9c41f989de6638aebb9590d71b" sha1="b24ae0687f7c0bd05cd0b9f479406d62e1992c3a"/>
 	</game>
 	<game name="NBA 2K13 (USA) (Demo)" id="04871">
 		<description>NBA 2K13 (USA) (Demo)</description>
@@ -20998,17 +21024,17 @@
 		<rom name="mfdUTumDTDkihvoAjZywlQdioHzAHugAdCnFwiMjLiFBnQDnrmresBAMNfYzhkDo.pkg" size="9687081104" crc="e4493ee3" md5="49c8435a134b46a463cce986440af087" sha1="b36ff5dbb2fbc66fbacffe18207ddcdfaf82f794"/>
 		<rom name="EP1001-NPEB01200_00-NBA2K13DIGITAL00.rap" size="16" crc="c59096b0" md5="0fdfdbde40acdd40a9024baf3ab9fcbd" sha1="66149210fef42c00afb1b6d479ee8df0b3466439" sha256="e3f5ca10947cb7e59d2e2adfe61f27f9bc1ea75bee7599254188450b99ff07c8"/>
 	</game>
-	<game name="NBA 2K14 (USA)" id="04874">
-		<description>NBA 2K14 (USA)</description>
-		<game_id>UP1001-NPUB31311_00-NBA2K14DIGITAL00</game_id>
-		<rom name="GIZCmQpNSRiIIrwcGgqIRlrOsFhHmqjgfTGcqXHlKQlcCZuveGqRhXroLGMHsBza.pkg" size="9294075056" crc="93f63750" md5="42646f12be93774604c6f1662faa1c61" sha1="9f39b6146d737ed54713cb872f39daa59249cf86"/>
-		<rom name="UP1001-NPUB31311_00-NBA2K14DIGITAL00.rap" size="16" crc="0f9406bb" md5="a5ca4bb5f681ed516526304241bb4df2" sha1="d099c002fe45d344e77be38dfe6d0756fdc5989a"/>
-	</game>
 	<game name="NBA 2K14 (Europe)" id="00491">
 		<description>NBA 2K14 (Europe)</description>
 		<game_id>EP1001-NPEB01801_00-NBA2K14DIGITAL00</game_id>
 		<rom name="ufcnCsTMlSQpizZacUZzGyqalPfDxuEyiUDNmZLFxiArjpxApDlNwkefuGBoOXbH.pkg" size="9294075088" crc="04c9976f" md5="bfb8ea5e7782626c4c51f1ca0d5387d8" sha1="eec7b8aa9f60cad4d80520a3bd8b98d00a9e3fed"/>
 		<rom name="EP1001-NPEB01801_00-NBA2K14DIGITAL00.rap" size="16" crc="f3dcc6a2" md5="fb99ceb90411e12b41837a4bbe477d12" sha1="ea6b23fc22451c0c55a8ccb9fe2d328766e50f8d"/>
+	</game>
+	<game name="NBA 2K14 (USA)" id="04874">
+		<description>NBA 2K14 (USA)</description>
+		<game_id>UP1001-NPUB31311_00-NBA2K14DIGITAL00</game_id>
+		<rom name="GIZCmQpNSRiIIrwcGgqIRlrOsFhHmqjgfTGcqXHlKQlcCZuveGqRhXroLGMHsBza.pkg" size="9294075056" crc="93f63750" md5="42646f12be93774604c6f1662faa1c61" sha1="9f39b6146d737ed54713cb872f39daa59249cf86"/>
+		<rom name="UP1001-NPUB31311_00-NBA2K14DIGITAL00.rap" size="16" crc="0f9406bb" md5="a5ca4bb5f681ed516526304241bb4df2" sha1="d099c002fe45d344e77be38dfe6d0756fdc5989a"/>
 	</game>
 	<game name="NBA 2K15 (USA)" id="34214">
 		<description>NBA 2K15 (USA)</description>
@@ -21063,28 +21089,17 @@
 		<game_id>HA0002-NPHA80272_00-NBAGAMETIMEPS300</game_id>
 		<rom name="MZlrjdHrHxxqXyhmtXgGCZxdZUWRcSLjnmqHfwEDveTevzJLoVnqEATEVxcDiJPvSLVauMHPdUIAxpNBbjBNyfuxSCDBStRmXHrez.pkg" size="13629424" crc="81ff15d8" md5="23d6bb10a2e84d7943af37f135674838" sha1="59d1283646d7f449128b2fa4f8f3496653c804f3" sha256="75f5115dc9c578278a4845917211597541c308579b7b42d24472a4276dd98e73"/>
 	</game>
-	<game name="NBA Game Time (Asia)" id="04882">
-		<category>Applications</category>
-		<description>NBA Game Time (Asia)</description>
-		<game_id>HA0002-NPHA80272_00-NBAGAMETIMEPS300</game_id>
-		<rom name="BvqUbgKxmEjUXEZFSQlCSfppCQwbDHKNmZgdLVloSwyMGHBCmdQVaKAGQqxBIkilnRpKcwhkvirqHcpscqwrikGZMYTKPUNnlMsWD.pkg" size="15013952" crc="8a65c8f5" md5="40d53aaba9681e9b1ae8749ed1611fcf" sha1="0130b4570abbdbb13f967973c9a9186ef89282b9"/>
-	</game>
 	<game name="NBA Game Time (USA)" id="25391">
 		<category>Applications</category>
 		<description>NBA Game Time (USA)</description>
 		<game_id>UP9002-NPUO00030_00-NBAGAMETIMEPS300</game_id>
 		<rom name="ciVEeeXpOpTRWEcpmhmSFhrWmsfQiVFpmYasHJheFREgtJvxllUXeWOWOvRFwMGT.pkg" size="13946928" crc="25c3e765" md5="dd96694b798f176fc54fb7c1f3e8f2ec" sha1="4236e9afbd440eae7ce9c2adca03b8817c7e40cb"/>
 	</game>
-	<game name="NBA Jam - On Fire Edition (Asia) (Trial)" id="35575">
-		<description>NBA Jam - On Fire Edition (Asia) (Trial)</description>
-		<game_id>HP0006-NPHB00271_00-NBAJAMROA0000000</game_id>
-		<rom name="HUwWLuUNUwvnKTYwzjuCgouxnePZwROeYHJXfbtwVuBIJWuaWkJcoheXSrgkdqEWHhHJJdmeuOasmvQSMKgqBymsQsjkAbSKULKmg.pkg" size="900340784" crc="ba2aac1c" md5="9139d9b8435fdf83bec1cb9152ade1be" sha1="e00da6b8bd17d499e2eeb46693ca45299ba9db83"/>
-	</game>
-	<game name="NBA Jam - On Fire Edition (Europe) (Unlock Key)" id="41018">
-		<description>NBA Jam - On Fire Edition (Europe) (Unlock Key)</description>
-		<game_id>EP0006-NPEB00650_00-NBAJAMEU00000001</game_id>
-		<rom name="nDrHYIpWZzHJDlpgtQWwDHIXHrBlKHckWWqYNWEkWnRQFOznffJDjRMHyiaqXKKC.pkg" size="6080" crc="747b94d1" md5="f3b84a4b8ca0fe4212dd3e412ba70369" sha1="d7ca11b9dea87f6b144986e65968090b0981bb47" sha256="67d0d24b023fc05e1dfdc9a68f3b85d75d193c75f1078b3010d461b73cad2b08"/>
-		<rom name="EP0006-NPEB00650_00-NBAJAMEU00000001.rap" size="16" crc="1680670d" md5="a21ddbe65d34802dfc8bffb512cbe617" sha1="50dc8c0a9406a1333d7601959286a5d6ea198267" sha256="c8c5a19c7e12bac5808d34c9e53a8523ceabad053e53f3dedb0a512511364de6"/>
+	<game name="NBA Game Time (Asia)" id="04882">
+		<category>Applications</category>
+		<description>NBA Game Time (Asia)</description>
+		<game_id>HA0002-NPHA80272_00-NBAGAMETIMEPS300</game_id>
+		<rom name="BvqUbgKxmEjUXEZFSQlCSfppCQwbDHKNmZgdLVloSwyMGHBCmdQVaKAGQqxBIkilnRpKcwhkvirqHcpscqwrikGZMYTKPUNnlMsWD.pkg" size="15013952" crc="8a65c8f5" md5="40d53aaba9681e9b1ae8749ed1611fcf" sha1="0130b4570abbdbb13f967973c9a9186ef89282b9"/>
 	</game>
 	<game name="NBA Jam - On Fire Edition (Europe) (Trial)" id="04886">
 		<description>NBA Jam - On Fire Edition (Europe) (Trial)</description>
@@ -21101,6 +21116,17 @@
 		<game_id>UP0006-NPUB30558_00-NBAJAMNA00000001</game_id>
 		<rom name="CchuMGIUNCmJbVtvGMORCsESaFxaDDAhAoAUYVHftkHEjwyTYwTVWycjMHLPHpoIYsLULHNqOoYvpPFvCxLfzZZAbRucOWzqGdnGn.pkg" size="6080" crc="c6e31e9c" md5="83cb3f536b73c6ef94408cc48e73472b" sha1="95335c0b2f10d353bf4edb039de66263a1869f78"/>
 		<rom name="UP0006-NPUB30558_00-NBAJAMNA00000001.rap" size="16" crc="bd63b51b" md5="78c64fe8caea8cfa2f7f01fdf5f5ed86" sha1="edbf75a523217d33a6d12beb1e68b8cc765acc7d"/>
+	</game>
+	<game name="NBA Jam - On Fire Edition (Europe) (Unlock Key)" id="41018">
+		<description>NBA Jam - On Fire Edition (Europe) (Unlock Key)</description>
+		<game_id>EP0006-NPEB00650_00-NBAJAMEU00000001</game_id>
+		<rom name="nDrHYIpWZzHJDlpgtQWwDHIXHrBlKHckWWqYNWEkWnRQFOznffJDjRMHyiaqXKKC.pkg" size="6080" crc="747b94d1" md5="f3b84a4b8ca0fe4212dd3e412ba70369" sha1="d7ca11b9dea87f6b144986e65968090b0981bb47" sha256="67d0d24b023fc05e1dfdc9a68f3b85d75d193c75f1078b3010d461b73cad2b08"/>
+		<rom name="EP0006-NPEB00650_00-NBAJAMEU00000001.rap" size="16" crc="1680670d" md5="a21ddbe65d34802dfc8bffb512cbe617" sha1="50dc8c0a9406a1333d7601959286a5d6ea198267" sha256="c8c5a19c7e12bac5808d34c9e53a8523ceabad053e53f3dedb0a512511364de6"/>
+	</game>
+	<game name="NBA Jam - On Fire Edition (Asia) (Trial)" id="35575">
+		<description>NBA Jam - On Fire Edition (Asia) (Trial)</description>
+		<game_id>HP0006-NPHB00271_00-NBAJAMROA0000000</game_id>
+		<rom name="HUwWLuUNUwvnKTYwzjuCgouxnePZwROeYHJXfbtwVuBIJWuaWkJcoheXSrgkdqEWHhHJJdmeuOasmvQSMKgqBymsQsjkAbSKULKmg.pkg" size="900340784" crc="ba2aac1c" md5="9139d9b8435fdf83bec1cb9152ade1be" sha1="e00da6b8bd17d499e2eeb46693ca45299ba9db83"/>
 	</game>
 	<game name="NBA Live 08 (USA) (Demo)" id="04889">
 		<description>NBA Live 08 (USA) (Demo)</description>
@@ -21528,15 +21554,21 @@
 		<game_id>UP0006-NPUB90280_00-NHL10DEMO0000000</game_id>
 		<rom name="pEDhcUO9pX0vnxTjpa298sIGNsURDn6qpCCLYcoo9SaL72NylSOr5yy89NF2ehEOwpcabB03OTTp2Ehj2cNFGpEGHGNEKt0IbtQ5A.pkg" size="858952944" crc="bfc2b823" md5="d880b281379b420f6f27cc71135d8503" sha1="d99326969cc6de4a678a62e64adec0a382ce9b4d"/>
 	</game>
+	<game name="NHL 11 (USA) (Demo)" id="18592">
+		<description>NHL 11 (USA) (Demo)</description>
+		<game_id>UP0006-NPUB90444_00-NHL11DEMO0000000</game_id>
+		<rom name="RFUeJHUR7EFDLyXlTf0WW9yyaWraDF4yyh9tPwf5iwoX2SdJdPvtNgky1ffG8EuSMatn4UgWapBG5Uq1Re0nWNltagXRHPnk2a3rQ.pkg" size="1349258784" crc="52025263" md5="e47397379d12bd3fca992260273e4650" sha1="518ae10fd9a084cadcf96e2cba4c43cc1e050cf5"/>
+	</game>
 	<game name="NHL 11 (Europe) (Demo)" id="34310">
 		<description>NHL 11 (Europe) (Demo)</description>
 		<game_id>EP0006-NPEB90256_00-NHL11DEMO0000000</game_id>
 		<rom name="8pCCYOrFAO6S7yIFnBrTCqbhsaX8UfFB8Pndcg0K5o6GvBVJknGJSNftmJ3DONWB.pkg" size="1354618352" crc="2bfc6ba3" md5="1564437320f780ae4249e98fddd2e93b" sha1="f63790f4a2287414225bfec7cb18c43d8a4d6ba7" sha256="c56d8e903260330fb599d774065db3b8dde3415370217732cc2b2faddcb4e0ae"/>
 	</game>
-	<game name="NHL 11 (USA) (Demo)" id="18592">
-		<description>NHL 11 (USA) (Demo)</description>
-		<game_id>UP0006-NPUB90444_00-NHL11DEMO0000000</game_id>
-		<rom name="RFUeJHUR7EFDLyXlTf0WW9yyaWraDF4yyh9tPwf5iwoX2SdJdPvtNgky1ffG8EuSMatn4UgWapBG5Uq1Re0nWNltagXRHPnk2a3rQ.pkg" size="1349258784" crc="52025263" md5="e47397379d12bd3fca992260273e4650" sha1="518ae10fd9a084cadcf96e2cba4c43cc1e050cf5"/>
+	<game name="NHL 12 (Europe)" id="34113">
+		<description>NHL 12 (Europe)</description>
+		<game_id>EP0006-NPEB00961_00-N12HDDEU00000000</game_id>
+		<rom name="vGehOFRFcjHQopSdXlAyhEVdRgRotktoWBEkkIKmPwmNTqAKqDDrmrtDuVhjRqFf.pkg" size="7391636352" crc="14acd572" md5="23324e47bca21f4e8529bc5b0a411796" sha1="238a867a8de55b463ddc12b8a57774b5da6a0426" sha256="a013ec7e12a46f826cfa9115ecc25b361994c87abf50647140f68f0e3dd20f0b" status="verified"/>
+		<rom name="EP0006-NPEB00961_00-N12HDDEU00000000.rap" size="16" crc="583f055b" md5="9b21dd45358bec8f0ba756ff882d0e97" sha1="36b9b51a17c11b7692ba1170bfa68b6e350f7796" sha256="73936f3262534e42d683aeea310548629298de4b9f4392a4a96408a461d19f4c" status="verified"/>
 	</game>
 	<game name="NHL 12 (USA) (Demo)" id="18593">
 		<description>NHL 12 (USA) (Demo)</description>
@@ -21555,11 +21587,11 @@
 		<rom name="NBmfeTQmzzKRdgejHtcaKjsRjHYQzrmdejtyhWoPQvlnFDauvtMboIoaCbJMEGQNOplTiKNkkbXhxbYoAAkjLOnEgvUjinRiKBvwq.pkg" size="7347034704" crc="b9b2bbda" md5="02ac3d37994836adf181618721597973" sha1="5ebea32555bc9db0577957450ad77f9e806c89c7"/>
 		<rom name="UP0006-NPUB30761_00-N12HDDNA00000000.rap" size="16" crc="db97c922" md5="7b5ccbde906be1e0e7db13da04adc042" sha1="5a30c4a2ea4054f3cff4bbf0880daaed0b0177ce"/>
 	</game>
-	<game name="NHL 12 (Europe)" id="34113">
-		<description>NHL 12 (Europe)</description>
-		<game_id>EP0006-NPEB00961_00-N12HDDEU00000000</game_id>
-		<rom name="vGehOFRFcjHQopSdXlAyhEVdRgRotktoWBEkkIKmPwmNTqAKqDDrmrtDuVhjRqFf.pkg" size="7391636352" crc="14acd572" md5="23324e47bca21f4e8529bc5b0a411796" sha1="238a867a8de55b463ddc12b8a57774b5da6a0426" sha256="a013ec7e12a46f826cfa9115ecc25b361994c87abf50647140f68f0e3dd20f0b" status="verified"/>
-		<rom name="EP0006-NPEB00961_00-N12HDDEU00000000.rap" size="16" crc="583f055b" md5="9b21dd45358bec8f0ba756ff882d0e97" sha1="36b9b51a17c11b7692ba1170bfa68b6e350f7796" sha256="73936f3262534e42d683aeea310548629298de4b9f4392a4a96408a461d19f4c" status="verified"/>
+	<game name="NHL 13 (USA)" id="05079">
+		<description>NHL 13 (USA)</description>
+		<game_id>UP0006-NPUB30792_00-NHL13EARLYCOPY00</game_id>
+		<rom name="jpfWeMChHxQSazxRzjJusVmOTkMTspxPDxIERhlfWKRxTDMFucJsYFQcpBqdjvMOVfqXitGDOeUFmyqSXaGJYSDPWgyoYrYshZRJP.pkg" size="7788885536" crc="90a8bebb" md5="d1c68d402ac100d97c4da19be24d7e1a" sha1="a45ecf2effbcbf2361ec671bf6af3c25fe2895dc"/>
+		<rom name="UP0006-NPUB30792_00-NHL13EARLYCOPY00.rap" size="16" crc="81053424" md5="083b2ec55a24adb31124129fefc9010e" sha1="1c7691eb874d3265d77ec5d2259f5b8023fdafd3"/>
 	</game>
 	<game name="NHL 13 (Europe) (Demo)" id="18595">
 		<description>NHL 13 (Europe) (Demo)</description>
@@ -21577,21 +21609,15 @@
 		<rom name="zFstDWsZOIddpWikmaZLIbgLXVUhCSsOBoQCrByoSFTfFiRYHFMWXRcIZxfZszstJmXloWElkfgFkyvumXTvEABYRZzUAVHEUivLX.pkg" size="6080" crc="b7fb9fd5" md5="3f39debe01bb0aa5456784de5764793d" sha1="a36dad6fab9e2f5dbf6c89a71bdb68a76c9d22a9"/>
 		<rom name="UP0006-NPUB30792_00-NHL13DOWNLOAD000.rap" size="16" crc="afba075e" md5="2ec8c8de44355f1fe38a5e321110a858" sha1="9d13dabb7682aae6682540629070d927eaf9c1e0"/>
 	</game>
-	<game name="NHL 13 (USA)" id="05079">
-		<description>NHL 13 (USA)</description>
-		<game_id>UP0006-NPUB30792_00-NHL13EARLYCOPY00</game_id>
-		<rom name="jpfWeMChHxQSazxRzjJusVmOTkMTspxPDxIERhlfWKRxTDMFucJsYFQcpBqdjvMOVfqXitGDOeUFmyqSXaGJYSDPWgyoYrYshZRJP.pkg" size="7788885536" crc="90a8bebb" md5="d1c68d402ac100d97c4da19be24d7e1a" sha1="a45ecf2effbcbf2361ec671bf6af3c25fe2895dc"/>
-		<rom name="UP0006-NPUB30792_00-NHL13EARLYCOPY00.rap" size="16" crc="81053424" md5="083b2ec55a24adb31124129fefc9010e" sha1="1c7691eb874d3265d77ec5d2259f5b8023fdafd3"/>
+	<game name="NHL 14 (Europe) (Demo)" id="18597">
+		<description>NHL 14 (Europe) (Demo)</description>
+		<game_id>EP0006-NPEB90494_00-NHL14DEMO0000000</game_id>
+		<rom name="LXyBFhTCSFSmHtPYuYgGzGYFQTPcAiLsnAetQghCHzwhLyAzJbSpSQNXQvqruoir.pkg" size="1678474304" crc="e99223df" md5="481253bf3731b5090d16552f9d0ffbce" sha1="bee66e6e46a9f76036d783af395ee5eeb3a45f73"/>
 	</game>
 	<game name="NHL 14 (USA) (Demo)" id="05084">
 		<description>NHL 14 (USA) (Demo)</description>
 		<game_id>UP0006-NPUB90954_00-NHL14DEMO0000000</game_id>
 		<rom name="QywnCbulnTpIgVjauRuKCmoJXQvPrZTJbVxZkVZRoSrLMBnKelOeFXyIoFyAWJuS.pkg" size="1678477776" crc="cd97602c" md5="c5ebe2eacd5f604b8f14521c9ae20216" sha1="14ae0ccc07da3f4c73b265bca3c0229b21bdc0d6"/>
-	</game>
-	<game name="NHL 14 (Europe) (Demo)" id="18597">
-		<description>NHL 14 (Europe) (Demo)</description>
-		<game_id>EP0006-NPEB90494_00-NHL14DEMO0000000</game_id>
-		<rom name="LXyBFhTCSFSmHtPYuYgGzGYFQTPcAiLsnAetQghCHzwhLyAzJbSpSQNXQvqruoir.pkg" size="1678474304" crc="e99223df" md5="481253bf3731b5090d16552f9d0ffbce" sha1="bee66e6e46a9f76036d783af395ee5eeb3a45f73"/>
 	</game>
 	<game name="NHL 14 (USA)" id="45543">
 		<category>Games</category>
@@ -21652,21 +21678,15 @@
 		<rom name="EOVcdnvsoijEIWxwvfIbzZFbpuatXUNRvMxrxzXYjFrYxngUmyubroxLqyBKbxqQKEuGuRUvIEBPBWRPDDchSmWGyzSrAqodtdtNy.pkg" size="19730575696" crc="b2b178ee" md5="23f9ef40c859d9aeeb3e0b7d0712755b" sha1="efd64058514908f09755d20194962f00826d3372"/>
 		<rom name="JP0720-NPJB00238_00-HARDDISCGAME300R.rap" size="16" crc="4bc9b898" md5="a76df69b04c5c8975a9276a85d8432d8" sha1="7226044a23d1a6e5f23f040caa8447cea4b14b47" sha256="75c828df3a7f7e9cf523e6971a1974452b93145fbe4a92df3d03be1974469ef6"/>
 	</game>
-	<game name="Ni no Kuni - Wrath of the White Witch (USA) (Demo)" id="05095">
-		<description>Ni no Kuni - Wrath of the White Witch (USA) (Demo)</description>
-		<game_id>UP0700-NPUB90846_00-DEMOVERSION00002</game_id>
-		<rom name="MWycuXnMrdkqUtQvGmAdkMkMjnICgAJnEFVBPlkIeDFqwJZrYuRdYGrSDDsKZzig.pkg" size="2754823072" crc="2cd941cd" md5="ae4418188659ed02eccb89a4ab2f132c" sha1="8e956fc00004596c1e996f59e40882232fece034"/>
-	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch (Europe) (Demo)" id="13599">
 		<description>Ni no Kuni - Wrath of the White Witch (Europe) (Demo)</description>
 		<game_id>EP0700-NPEB90452_00-DEMOVERSION00002</game_id>
 		<rom name="JgNetdwIwmgkoPJepgzFOQpcTcSybQNzBRBTXxrGUvtxVKCDpkzQPCqnLuexwhDr.pkg" size="2754761664" crc="c81ac123" md5="9939845d96a04c728ca3b6cc4f81d7e4" sha1="f5694d3953492df97e17002f8f6f079c4b5a5e2b"/>
 	</game>
-	<game name="Ni no Kuni - Wrath of the White Witch - 1 of 2 (Europe)" id="13600">
-		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (Europe)</description>
-		<game_id>EP0700-NPEB01158_00-NNKDLFULLGAMEPTB</game_id>
-		<rom name="fAwycMHfiDUZNXCPniJGPKfWRhiVNsKXbaSJQBkfPkRoorneSGwvsscdSaAWrDaq.pkg" size="17036329328" crc="86b86c5c" md5="a3511d91918504ed6fe32b34b00346d2" sha1="89621f532df6c17c638c2b7f7b34cb0022e44854"/>
-		<rom name="EP0700-NPEB01158_00-NNKDLFULLGAMEPTA.rap" size="16" crc="b47c2716" md5="e717314258ffcaa625859930fbf6e537" sha1="aedbc2d16d602c6e0934964f326dee72fd1646b9"/>
+	<game name="Ni no Kuni - Wrath of the White Witch (USA) (Demo)" id="05095">
+		<description>Ni no Kuni - Wrath of the White Witch (USA) (Demo)</description>
+		<game_id>UP0700-NPUB90846_00-DEMOVERSION00002</game_id>
+		<rom name="MWycuXnMrdkqUtQvGmAdkMkMjnICgAJnEFVBPlkIeDFqwJZrYuRdYGrSDDsKZzig.pkg" size="2754823072" crc="2cd941cd" md5="ae4418188659ed02eccb89a4ab2f132c" sha1="8e956fc00004596c1e996f59e40882232fece034"/>
 	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch - 1 of 2 (USA)" id="05096">
 		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (USA)</description>
@@ -21674,17 +21694,29 @@
 		<rom name="dHPqDdrjEEzaIbFvSScSltWzTsOsgNkBpmkoHFbTMJVkMVWPFBzipDGnSfbpkLdc.pkg" size="17035368816" crc="363e5d8a" md5="2a3d6477f64dda7092703d252b8ee839" sha1="f450cb5efb7bb02b5dfbfe1af4c7febca42fa12c"/>
 		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b"/>
 	</game>
-	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)" id="05097">
-		<description>Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)</description>
-		<game_id>UP0700-NPUB30932_00-NNKDLFULLGAMEPTA</game_id>
-		<rom name="AaOqRBZNNMQtqSBBWyRKCfpAIbOjigmGgEzUnjCKyXMrimqnwotzBIgEtmnBUkae.pkg" size="6256119008" crc="ef9b8289" md5="15b6cc43253e49832dc2d05da93b39b7" sha1="00b4cfe15339641b14569bb71229c4b432360f82"/>
-		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b"/>
+	<game name="Ni no Kuni - Wrath of the White Witch - 1 of 2 (Europe)" id="13600">
+		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (Europe)</description>
+		<game_id>EP0700-NPEB01158_00-NNKDLFULLGAMEPTB</game_id>
+		<rom name="fAwycMHfiDUZNXCPniJGPKfWRhiVNsKXbaSJQBkfPkRoorneSGwvsscdSaAWrDaq.pkg" size="17036329328" crc="86b86c5c" md5="a3511d91918504ed6fe32b34b00346d2" sha1="89621f532df6c17c638c2b7f7b34cb0022e44854"/>
+		<rom name="EP0700-NPEB01158_00-NNKDLFULLGAMEPTA.rap" size="16" crc="b47c2716" md5="e717314258ffcaa625859930fbf6e537" sha1="aedbc2d16d602c6e0934964f326dee72fd1646b9"/>
 	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (Europe)" id="13601">
 		<description>Ni no Kuni - Wrath of the White Witch - 2 of 2 (Europe)</description>
 		<game_id>EP0700-NPEB01158_00-NNKDLFULLGAMEPTA</game_id>
 		<rom name="LFiHAPbjITvYSCIFgugiEekyuukqpiUdUCZHvMffzEZODhhumQbgXUsTSkChmeGFCYsBOoRKrYXiIeCoIXRVwzdJzeoooQJdQKERS.pkg" size="6311528160" crc="68ea5ead" md5="eebd484741c831c749213b6e0c0c15d3" sha1="0c20118e1198bd70453995f2c77dc59fb744a66b"/>
 		<rom name="EP0700-NPEB01158_00-NNKDLFULLGAMEPTA.rap" size="16" crc="b47c2716" md5="e717314258ffcaa625859930fbf6e537" sha1="aedbc2d16d602c6e0934964f326dee72fd1646b9"/>
+	</game>
+	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)" id="05097">
+		<description>Ni no Kuni - Wrath of the White Witch - 2 of 2 (USA)</description>
+		<game_id>UP0700-NPUB30932_00-NNKDLFULLGAMEPTA</game_id>
+		<rom name="AaOqRBZNNMQtqSBBWyRKCfpAIbOjigmGgEzUnjCKyXMrimqnwotzBIgEtmnBUkae.pkg" size="6256119008" crc="ef9b8289" md5="15b6cc43253e49832dc2d05da93b39b7" sha1="00b4cfe15339641b14569bb71229c4b432360f82"/>
+		<rom name="UP0700-NPUB30932_00-NNKDLFULLGAMEPTA.rap" size="16" crc="cc8d416b" md5="f6602c6b97ec0499e1ccf9a1d11d49fb" sha1="d9d3b44f13f1aa0c1742d533e2f7fe25c5a05c0b"/>
+	</game>
+	<game name="NiGHTS into Dreams... (USA)" id="05107">
+		<description>NiGHTS into Dreams... (USA)</description>
+		<game_id>UP0177-NPUB30798_00-NIGHTSINTODREAMS</game_id>
+		<rom name="XumhCblviqGogXxmqdkessLYGfXBcMsAcVMkOseSiTWcjYBjfPXCJABPVHSDbXJh.pkg" size="2121907680" crc="0d22f4ef" md5="7d16dafa27348eb13c9f22ca43efd772" sha1="80385e03b04c343b351a1165e327024c58e624d0"/>
+		<rom name="UP0177-NPUB30798_00-NIGHTSINTODREAMS.rap" size="16" crc="9ead4bb7" md5="f9827496e59a0584ec79c715d2139d15" sha1="06c108b8bc418191d1c21a2f103b5097a38553cd"/>
 	</game>
 	<game name="NiGHTS into Dreams... (Asia)" id="19132">
 		<description>NiGHTS into Dreams... (Asia)</description>
@@ -21696,12 +21728,6 @@
 		<game_id>JP0177-NPJB00226_00-NIGHTSINTODREAMS</game_id>
 		<rom name="caNiawBfIuHcLFYCJdHPehVHhUKpmyCAfpdjnQAOUSHGAZCUJMvXEcirUXpEpgYUmQBXOfJobJyukdAnBDnYKHLQhVIktDcVaRoMs.pkg" size="2114238512" crc="2b3af4f9" md5="80bc36ae34f060743bf9c849935a4fec" sha1="7aaa42d4f71dc29d6586944539a2f1f3337ae8f9"/>
 		<rom name="JP0177-NPJB00226_00-NIGHTSINTODREAMS.rap" size="16" crc="d98bd9d2" md5="3f415414813f5016da3f2e12fe85edb4" sha1="352c188eea4dc43bbf34525fc88c0460777acb6f"/>
-	</game>
-	<game name="NiGHTS into Dreams... (USA)" id="05107">
-		<description>NiGHTS into Dreams... (USA)</description>
-		<game_id>UP0177-NPUB30798_00-NIGHTSINTODREAMS</game_id>
-		<rom name="XumhCblviqGogXxmqdkessLYGfXBcMsAcVMkOseSiTWcjYBjfPXCJABPVHSDbXJh.pkg" size="2121907680" crc="0d22f4ef" md5="7d16dafa27348eb13c9f22ca43efd772" sha1="80385e03b04c343b351a1165e327024c58e624d0"/>
-		<rom name="UP0177-NPUB30798_00-NIGHTSINTODREAMS.rap" size="16" crc="9ead4bb7" md5="f9827496e59a0584ec79c715d2139d15" sha1="06c108b8bc418191d1c21a2f103b5097a38553cd"/>
 	</game>
 	<game name="NiGHTS into Dreams... (Europe)" id="35577">
 		<description>NiGHTS into Dreams... (Europe)</description>
@@ -21878,17 +21904,17 @@
 		<game_id>EP4442-NPEB02333_00-WEBMAF0000000NOS</game_id>
 		<rom name="EP4442-NPEB02333_00-WEBMAF0000000NOS_bg_1_d6a3bc28a9a60e592a5e2c159d08953d61e2e87c.pkg" size="44582064" crc="ca8faf1b" md5="f3d1da4bf77d377510d122a22499f2cf" sha1="875363bd030ac58de8b7a2b236b814d560d4de18" sha256="09e794a5949abce886b0c1b115de1d234ba77a4dcd87fa47fbe1ea4a23487e51"/>
 	</game>
-	<game name="Nova-111 (USA)" id="05167">
-		<description>Nova-111 (USA)</description>
-		<game_id>UP4395-NPUB31719_00-NOVA111PS3US0000</game_id>
-		<rom name="UP4395-NPUB31719_00-NOVA111PS3US0000_bg_1_8751e1bc9955c5998afc681a3b1a751e21fdc40a.pkg" size="250261472" crc="9cfe92b6" md5="ecf2350e32f14580f27d3ee9a46df8f1" sha1="62b116f2c8f2c2492bfe40a6b370ebd523eec3ac"/>
-		<rom name="UP4395-NPUB31719_00-NOVA111PS3US0000.rap" size="16" crc="37eb37e4" md5="dbf5c9e8ec6254c0367c904cc4778d1c" sha1="aed8d8541ca5729107a9ab1ff1ce7c4861414797"/>
-	</game>
 	<game name="Nova-111 (Europe)" id="19135">
 		<description>Nova-111 (Europe)</description>
 		<game_id>EP4395-NPEB02285_00-GNOVA111XX000001</game_id>
 		<rom name="EP4395-NPEB02285_00-GNOVA111XX000001_bg_1_fc8ef41f83c400413e3e8a4f4b362f2a77dedc08.pkg" size="250261472" crc="c5e59ff5" md5="5faa02b014a1d7be45f1fc0ad0824811" sha1="8af647c70ad1d4e6e75cd60d5be684234e9a4b1e"/>
 		<rom name="EP4395-NPEB02285_00-GNOVA111XX000001.rap" size="16" crc="7c5700c7" md5="e71f6c24490ac0c6393dcee9a2b17231" sha1="e2a906c548bc06e7a745d9be5a038b359fe85ae7"/>
+	</game>
+	<game name="Nova-111 (USA)" id="05167">
+		<description>Nova-111 (USA)</description>
+		<game_id>UP4395-NPUB31719_00-NOVA111PS3US0000</game_id>
+		<rom name="UP4395-NPUB31719_00-NOVA111PS3US0000_bg_1_8751e1bc9955c5998afc681a3b1a751e21fdc40a.pkg" size="250261472" crc="9cfe92b6" md5="ecf2350e32f14580f27d3ee9a46df8f1" sha1="62b116f2c8f2c2492bfe40a6b370ebd523eec3ac"/>
+		<rom name="UP4395-NPUB31719_00-NOVA111PS3US0000.rap" size="16" crc="37eb37e4" md5="dbf5c9e8ec6254c0367c904cc4778d1c" sha1="aed8d8541ca5729107a9ab1ff1ce7c4861414797"/>
 	</game>
 	<game name="NovaStrike (Europe)" id="05168">
 		<description>NovaStrike (Europe)</description>
@@ -21944,6 +21970,18 @@
 		<game_id>EP9000-NPEA00015_00-NUCLEUS000000001</game_id>
 		<rom name="1OLPK0RHhUdfYIY8V3aphsoCN6L5gXP9AvreEDJQ78uKce2d8Bk1FFGT5ixLidsQWc6LQCUTp4Ocq4p08Cfl7ffRVMvGUfBgSHMie.pkg" size="154645392" crc="6b6707f2" md5="f6076401169550468aa29e88fce9df21" sha1="078738e8280fd141f9bc095d277a1bb422bd774f"/>
 	</game>
+	<game name="Numblast (Europe)" id="31791">
+		<description>Numblast (Europe)</description>
+		<game_id>EP9000-NPEA00121_00-0000000000000000</game_id>
+		<rom name="wsf7fFXx3hXf9mqvgXNOWaHTsHmwte4XmIphqk5fNsEF71A24lD14JRETwtb9EeH0WHi0grYICJOXJHTyo2AGWY2n55sIe6DRkEHs.pkg" size="621363920" crc="0b8a7d1c" md5="8c361a156ea14aa9fde66ef366de5d0f" sha1="7ce8432c1b96a4f0b273a09f408070f8574d8d2d" sha256="aa421596a10787e0dacf5087c93f37f328f1aff07fcc4a65d68bbb1db523cbe3" status="verified"/>
+		<rom name="EP9000-NPEA00121_00-0000000000000000.rap" size="16" crc="13498212" md5="ffd89426623a779c0ed1699d7d9621e5" sha1="dd00924f374753e9e1d2139bac1bf4636d597eec" sha256="59a7be53a094b231ff2eda0abec15222805a0aef9723ccd0a59941942d1ca02d" status="verified"/>
+	</game>
+	<game name="Numblast (Asia)" id="36215">
+		<description>Numblast (Asia)</description>
+		<game_id>HP9000-NPHA80064_00-0000000000000000</game_id>
+		<rom name="XYYm6Uq498Un0orHFssToFu23j6N8c5wgMMMO1nT5LMOcTPWqWi7wUEvWo3KGarrIDxSwcHqavE8wM2PiWLI6jdIPSuFEw5nkdCf3.pkg" size="314421552" crc="5397342e" md5="28d4108a87267c2648a47dfa44d1f20a" sha1="95777d690d9aa829a4fc689599c04f91de4c9b81" sha256="4d609ea67ab6bcd6bab78e385afa084a22c3e6ceeb0ccd099fbd8864817d316f"/>
+		<rom name="HP9000-NPHA80064_00-0000000000000000.rap" size="16" crc="44da7cef" md5="a3871f72cfe360ad7dbc8985149bfc5f" sha1="88350f295b472586af3ac62dc60d549e7d83ef89" sha256="c79352cf9fe9d09a5bb1ec2c45f12a07738e7241a73c281b943005256040bade"/>
+	</game>
 	<game name="Numblast (Asia) (Demo)" id="05179">
 		<description>Numblast (Asia) (Demo)</description>
 		<game_id>HP9000-NPHA80069_00-0000000000000000</game_id>
@@ -21962,23 +22000,17 @@
 		<rom name="bXfT0nnuC6KTRPpuAhWnlMvKHWPwlBeUhvM564AwmfF0hRflMIdoB4TUknhAMRCYHicsSTONX81aPiOqwcO4VTsEgOLLXmSH6xt8Y.pkg" size="345269968" crc="fb101980" md5="e802801ab2d4b8bdd67019f38e68a567" sha1="8c28a8b143656284b89bcd1cead4e65bf99f707a"/>
 		<rom name="UP9000-NPUA80319_00-0000000000000000.rap" size="16" crc="299bf1c8" md5="a8c2b8b3a50577e5b6c4f43446e946fa" sha1="90034150474c914eda4de9ef6543131df31bcce5"/>
 	</game>
-	<game name="Numblast (Europe)" id="31791">
-		<description>Numblast (Europe)</description>
-		<game_id>EP9000-NPEA00121_00-0000000000000000</game_id>
-		<rom name="wsf7fFXx3hXf9mqvgXNOWaHTsHmwte4XmIphqk5fNsEF71A24lD14JRETwtb9EeH0WHi0grYICJOXJHTyo2AGWY2n55sIe6DRkEHs.pkg" size="621363920" crc="0b8a7d1c" md5="8c361a156ea14aa9fde66ef366de5d0f" sha1="7ce8432c1b96a4f0b273a09f408070f8574d8d2d" sha256="aa421596a10787e0dacf5087c93f37f328f1aff07fcc4a65d68bbb1db523cbe3" status="verified"/>
-		<rom name="EP9000-NPEA00121_00-0000000000000000.rap" size="16" crc="13498212" md5="ffd89426623a779c0ed1699d7d9621e5" sha1="dd00924f374753e9e1d2139bac1bf4636d597eec" sha256="59a7be53a094b231ff2eda0abec15222805a0aef9723ccd0a59941942d1ca02d" status="verified"/>
-	</game>
-	<game name="Numblast (Asia)" id="36215">
-		<description>Numblast (Asia)</description>
-		<game_id>HP9000-NPHA80064_00-0000000000000000</game_id>
-		<rom name="XYYm6Uq498Un0orHFssToFu23j6N8c5wgMMMO1nT5LMOcTPWqWi7wUEvWo3KGarrIDxSwcHqavE8wM2PiWLI6jdIPSuFEw5nkdCf3.pkg" size="314421552" crc="5397342e" md5="28d4108a87267c2648a47dfa44d1f20a" sha1="95777d690d9aa829a4fc689599c04f91de4c9b81" sha256="4d609ea67ab6bcd6bab78e385afa084a22c3e6ceeb0ccd099fbd8864817d316f"/>
-		<rom name="HP9000-NPHA80064_00-0000000000000000.rap" size="16" crc="44da7cef" md5="a3871f72cfe360ad7dbc8985149bfc5f" sha1="88350f295b472586af3ac62dc60d549e7d83ef89" sha256="c79352cf9fe9d09a5bb1ec2c45f12a07738e7241a73c281b943005256040bade"/>
-	</game>
 	<game name="OCS 100% Cinema Series (France)" id="45539">
 		<category>Applications</category>
 		<description>OCS 100% Cinema Series (France)</description>
 		<game_id>EP8000-NPEB02241_00-WEBMAF0000000OCS</game_id>
 		<rom name="EP8000-NPEB02241_00-WEBMAF0000000OCS_bg_1_6b92cac83fc4bc85403b50af420c9f8b00697308.pkg" size="45745280" crc="3178f99d" md5="0d7dd19f0aa99cd726b6904e15a120f7" sha1="1130003489061b7e848c2db70b9e91b66fb64a73" sha256="44c0817bd930051fd5666a4e0b90399fba8aa4d8d0de7413dba2c6bd14c1bcbb"/>
+	</game>
+	<game name="Oddworld - Munch's Oddysee HD (Europe) (Unlock Key)" id="19136">
+		<description>Oddworld - Munch's Oddysee HD (Europe) (Unlock Key)</description>
+		<game_id>EP4134-NPEB01114_00-MUNCHODDYSEEHD02</game_id>
+		<rom name="cjCWFwvgpYrSQOhnsiBUYcEJmCyuJANrvmaRrBFrLRMNRWObpHfDnrRTaEjKeQpQ.pkg" size="6080" crc="0970012b" md5="aade9e4a756afc7ef1f1e9b7360a672a" sha1="90cbb7b32360a154202b05b7aed0ceac5f4f84d0"/>
+		<rom name="EP4134-NPEB01114_00-MUNCHODDYSEEHD02.rap" size="16" crc="2812d103" md5="1c54b49c34e8a3500994ad701e56e1ea" sha1="9a307b63f9f7a19dc3afd96fa88da70f149cf3f0"/>
 	</game>
 	<game name="Oddworld - Munch's Oddysee HD (Europe) (Trial)" id="05183">
 		<description>Oddworld - Munch's Oddysee HD (Europe) (Trial)</description>
@@ -21995,12 +22027,6 @@
 		<game_id>UP4134-NPUB30935_00-ODDMOHDGAME00002</game_id>
 		<rom name="ncERKHubuVXoLdttSRXexBsxDjYpPzDpORNGipCluYGtKzYlQvCeeoZMEYvfXJxJ.pkg" size="6080" crc="d3f9da0c" md5="23236636ef46804d2637f7ac46707a77" sha1="362a16d830cd52702a40120697397d096c9fb784"/>
 		<rom name="UP4134-NPUB30935_00-ODDMOHDGAME00002.rap" size="16" crc="772c0fbb" md5="a454cd5b902c2ce0e3b43cacc1c2ec46" sha1="73b29d9f8bc5b64df65bd41d2a3c88842fd26743"/>
-	</game>
-	<game name="Oddworld - Munch's Oddysee HD (Europe) (Unlock Key)" id="19136">
-		<description>Oddworld - Munch's Oddysee HD (Europe) (Unlock Key)</description>
-		<game_id>EP4134-NPEB01114_00-MUNCHODDYSEEHD02</game_id>
-		<rom name="cjCWFwvgpYrSQOhnsiBUYcEJmCyuJANrvmaRrBFrLRMNRWObpHfDnrRTaEjKeQpQ.pkg" size="6080" crc="0970012b" md5="aade9e4a756afc7ef1f1e9b7360a672a" sha1="90cbb7b32360a154202b05b7aed0ceac5f4f84d0"/>
-		<rom name="EP4134-NPEB01114_00-MUNCHODDYSEEHD02.rap" size="16" crc="2812d103" md5="1c54b49c34e8a3500994ad701e56e1ea" sha1="9a307b63f9f7a19dc3afd96fa88da70f149cf3f0"/>
 	</game>
 	<game name="Oddworld - New 'n' Tasty (Europe)" id="05188">
 		<description>Oddworld - New 'n' Tasty (Europe)</description>
@@ -22064,17 +22090,17 @@
 		<game_id>JP0005-NPJB00681_00-ODINSPHEREDL0000</game_id>
 		<rom name="JP0005-NPJB00681_00-ODINSPHEREDL0000_bg_1_11ad62157f55a3a8053dfaa1d50d1eb449f20889.pkg" size="2737938128" crc="7a5eb3fa" md5="ff01ee51f8a57f6eb83e08eb3f9eeed6" sha1="7202d32c61b8f751ad5842eb29ecad384ec7a636"/>
 	</game>
-	<game name="Odin Sphere - Leifthrasir (USA)" id="20069">
-		<description>Odin Sphere - Leifthrasir (USA)</description>
-		<game_id>UP0177-NPUB31840_00-ODINSPHEREDL0000</game_id>
-		<rom name="UP0177-NPUB31840_00-ODINSPHEREDL0000_bg_1_135007820c3a0fafa74a331d48246fdb211e5f75.pkg" size="3629776528" crc="4a5bf41f" md5="e7037c9f7299d9ec66e963947876b440" sha1="8a98873c62204f6dea096515f3e467f48fe5d3f1"/>
-		<rom name="UP0177-NPUB31840_00-ODINSPHEREDL0000.rap" size="16" crc="fcbe8de7" md5="45d9b5956d63eee9b90a4c88a0b762a8" sha1="71cbc55365ec76d5d3ecc76014af08690e13660f"/>
-	</game>
 	<game name="Odin Sphere - Leifthrasir (Japan) (Demo)" id="18600">
 		<description>Odin Sphere - Leifthrasir (Japan) (Demo)</description>
 		<game_id>JP0005-NPJB90858_00-ODINSPHERELEDEM0</game_id>
 		<rom name="JP0005-NPJB90858_00-ODINSPHERELEDEM0_bg_1_653758965d6b3781f15aa9d7ac946131f9a757e1.pkg" size="443387024" crc="d6bebb6f" md5="b341e7fc281c71a8b6218c2e989298b6" sha1="30d16d59f1afee36d33829351025148b83039440"/>
 		<rom name="JP0005-NPJB90858_00-ODINSPHERELEDEM0.rap" size="16" crc="21ee0147" md5="b6b654b3b6298441e42acd3ad35beebe" sha1="08d5c0956e9bd58c8f7d02a0c45303758f0cfe37"/>
+	</game>
+	<game name="Odin Sphere - Leifthrasir (USA)" id="20069">
+		<description>Odin Sphere - Leifthrasir (USA)</description>
+		<game_id>UP0177-NPUB31840_00-ODINSPHEREDL0000</game_id>
+		<rom name="UP0177-NPUB31840_00-ODINSPHEREDL0000_bg_1_135007820c3a0fafa74a331d48246fdb211e5f75.pkg" size="3629776528" crc="4a5bf41f" md5="e7037c9f7299d9ec66e963947876b440" sha1="8a98873c62204f6dea096515f3e467f48fe5d3f1"/>
+		<rom name="UP0177-NPUB31840_00-ODINSPHEREDL0000.rap" size="16" crc="fcbe8de7" md5="45d9b5956d63eee9b90a4c88a0b762a8" sha1="71cbc55365ec76d5d3ecc76014af08690e13660f"/>
 	</game>
 	<game name="Of Orcs and Men (USA)" id="05198">
 		<description>Of Orcs and Men (USA)</description>
@@ -22104,6 +22130,12 @@
 		<rom name="FwGHBWRmpHfRzbdLbhjfgrGybmaijEwYrPlQQTElKnfQHyLNTOFPdPTaPyZwXPFcLeQMUiJyveHpcyjLrOirddKbAUCoIyhkOHQKq.pkg" size="251017728" crc="4a3b10e9" md5="8361c729a2ed68b13b0fe5990dbef7cd" sha1="4c3e57ff79eafdb0fdba47ad7ef25d535109522c"/>
 		<rom name="JP0102-NPJB60088_00-OKAMI00000008131.rap" size="16" crc="a1f5993e" md5="bc23c2e3e9c157ce9d39a677befce925" sha1="b7ea662bc9d6f1a3b32714f937ea8858f94f5a01" sha256="aec2725ed995118650bae3e4e42be77ad023120341ecd13e123c80b237303f1e"/>
 	</game>
+	<game name="Okami HD (USA)" id="05203">
+		<description>Okami HD (USA)</description>
+		<game_id>UP0102-NPUB30720_00-0000000000000000</game_id>
+		<rom name="xCpOoHcXQLJhMdFoTIIMLfsSSrolTbYvlQUzngaxmVbsxHVgsfYcsvdLdSKluYjo.pkg" size="6649318816" crc="3b56bad6" md5="51f6305adb54f4774ef61068d1f86b24" sha1="86e8e48e7a2bcee7b872ad32b6269b6606a54b99"/>
+		<rom name="UP0102-NPUB30720_00-0000000000000000.rap" size="16" crc="8a0dbf72" md5="b0b89c2b9eec6bf6e4c428617ea7366f" sha1="4c90f9a30cf4b2f376da8f2a270b7d3904a4862e"/>
+	</game>
 	<game name="Okami HD (Asia)" id="40919">
 		<description>Okami HD (Asia)</description>
 		<game_id>HP0102-NPHB00495_00-0000000000000000</game_id>
@@ -22114,12 +22146,6 @@
 		<game_id>EP0102-NPEB00900_00-0000000000000000</game_id>
 		<rom name="ZnbJdXEVaazSHEIPUFNZzIalsyyDinyRzPIRTePlKPpLupuwPeyLYKvvCOHPNPcm.pkg" size="6649318816" crc="cd486965" md5="ff72f91f9597685165ec4aef81c9a932" sha1="330113d3d1d615595cd626e3fe099853ac9faefd"/>
 		<rom name="EP0102-NPEB00900_00-0000000000000000.rap" size="16" crc="e5274ca4" md5="f4815dc5512a1142a1c96938804d581c" sha1="b3bbba8312ad64dc49563e6710da5f8f963b9ffd"/>
-	</game>
-	<game name="Okami HD (USA)" id="05203">
-		<description>Okami HD (USA)</description>
-		<game_id>UP0102-NPUB30720_00-0000000000000000</game_id>
-		<rom name="xCpOoHcXQLJhMdFoTIIMLfsSSrolTbYvlQUzngaxmVbsxHVgsfYcsvdLdSKluYjo.pkg" size="6649318816" crc="3b56bad6" md5="51f6305adb54f4774ef61068d1f86b24" sha1="86e8e48e7a2bcee7b872ad32b6269b6606a54b99"/>
-		<rom name="UP0102-NPUB30720_00-0000000000000000.rap" size="16" crc="8a0dbf72" md5="b0b89c2b9eec6bf6e4c428617ea7366f" sha1="4c90f9a30cf4b2f376da8f2a270b7d3904a4862e"/>
 	</game>
 	<game name="OlliOlli (USA)" id="05204">
 		<description>OlliOlli (USA)</description>
@@ -22145,6 +22171,12 @@
 		<rom name="jPjXKWFjmBUtZVDGXzErmdZgyiIAmoGQgMaOXZQYrAdcVNQAcpZAZMMdSKhqeDmZ.pkg" size="11510532320" crc="84e971c3" md5="eed8eb2e3c4aa6fa3d3b41a42373b42d" sha1="243547b1727a5c4bf6a4a2eb92fd0f94b5990556" sha256="3a087bd691d762926d1b74bfa914f822f5a018a847333638c82128b11cc8eec5"/>
 		<rom name="EP0700-NPEB01039_00-ONEPIECEPWHDDPKG.rap" size="16" crc="9a682433" md5="169e9756b5499fb522544f193de39fcb" sha1="7ad2d449f15003bd419997b4d6097662236c4ce0" sha256="9b9779a7a701b084ab09d2c4ae10298f9323adbc27cbee8f9351214821519835"/>
 	</game>
+	<game name="One Piece - Pirate Warriors 2 (Europe)" id="35588">
+		<description>One Piece - Pirate Warriors 2 (Europe)</description>
+		<game_id>EP0700-NPEB01795_00-OP2EUXXXXXHDDPKG</game_id>
+		<rom name="EP0700-NPEB01795_00-OP2EUXXXXXHDDPKG.rap" size="16" crc="0c13679c" md5="899935da0e4e9adfa47b29c2a6e41147" sha1="c30eb1e8270b7dfcbdd8d68164fc3318ced7aa34"/>
+		<rom name="vujSJOpeIFqruABXmDjUdPfitfxyeXghUscFPRIBUsIJcsTcGsxyZwrSrYUKlWzZ.pkg" size="8406404128" crc="5ddb8f1f" md5="92bd839ef6d9f1dbb9d0cce7f8d89969" sha1="6d6cfcb955927d157ac33599c15c4e9ee76d30ec"/>
+	</game>
 	<game name="One Piece - Pirate Warriors 2 (USA)" id="05210">
 		<description>One Piece - Pirate Warriors 2 (USA)</description>
 		<game_id>UP0700-NPUB31295_00-OP2NAXXXXXHDDPKG</game_id>
@@ -22155,12 +22187,6 @@
 		<description>One Piece - Pirate Warriors 2 (Japan) (Demo)</description>
 		<game_id>JP0700-NPJB90591_00-OP2TRIALXXHDDPKG</game_id>
 		<rom name="xEdyHvcOaxApUrIfWDZypuSobYdVaMexhVOxlwzBKCDczpHCvQAejQJSJzrxHLusgKVWHyQQPceMPGXrifPAJOFmhSJCPJWkGtciJ.pkg" size="1435904000" crc="ea0c16da" md5="95959abce6b86d3f461c0ce759dd8318" sha1="fdc693c4cc470697b4f1c133d938af79301b2a73"/>
-	</game>
-	<game name="One Piece - Pirate Warriors 2 (Europe)" id="35588">
-		<description>One Piece - Pirate Warriors 2 (Europe)</description>
-		<game_id>EP0700-NPEB01795_00-OP2EUXXXXXHDDPKG</game_id>
-		<rom name="EP0700-NPEB01795_00-OP2EUXXXXXHDDPKG.rap" size="16" crc="0c13679c" md5="899935da0e4e9adfa47b29c2a6e41147" sha1="c30eb1e8270b7dfcbdd8d68164fc3318ced7aa34"/>
-		<rom name="vujSJOpeIFqruABXmDjUdPfitfxyeXghUscFPRIBUsIJcsTcGsxyZwrSrYUKlWzZ.pkg" size="8406404128" crc="5ddb8f1f" md5="92bd839ef6d9f1dbb9d0cce7f8d89969" sha1="6d6cfcb955927d157ac33599c15c4e9ee76d30ec"/>
 	</game>
 	<game name="One Piece - Pirate Warriors 3 (USA)" id="20070">
 		<description>One Piece - Pirate Warriors 3 (USA)</description>
@@ -22219,6 +22245,12 @@
 		<rom name="yXSLsfvLtDKrACquRLYipHDcQSVmHXDsVlRJUYdpGsxHrTAYMIakyDIstaBqeBawjVTqOToGbxBDuxIeWwGlwRgbMrfxOASvkMhMq.pkg" size="6578186496" crc="c4d7e2a1" md5="097b0eb1cfdb7bda5c158485194f416f" sha1="d2b71b2a8f05610a56465b6293e3f3a6ea8d028c" sha256="40038b9591cd5876252253c66d1484b417aec4918f292dfdbbd3d2560d6bb178"/>
 		<rom name="JP0700-NPJB00412_00-OREIMOHAPPYENDHG.rap" size="16" crc="f29b4424" md5="9595e27868f698915e4ac78fd43c8292" sha1="069909c7936dfac30cd716904fd21455760184a1" sha256="29f973702877d074846e783a6a9c1ae06e3dea856c9be53ad6c54c2db0958604"/>
 	</game>
+	<game name="Outland (Europe) (Unlock Key)" id="19139">
+		<description>Outland (Europe) (Unlock Key)</description>
+		<game_id>EP0001-NPEB00463_00-OUTLAND0PURCHASE</game_id>
+		<rom name="haGhiNJobiTPGoLqUhGgxsPDWGjMfWfnGVbsupAbSzSNPdLLLdefSCjxXdQwVnUK.pkg" size="6080" crc="c3b7119b" md5="2a621af56069e1c40766187e4c2d4833" sha1="ca26d979d9059bea9711e98c33263ccbea90fa87"/>
+		<rom name="EP0001-NPEB00463_00-OUTLAND0PURCHASE.rap" size="16" crc="6204ae8f" md5="7eca0cdec2416bc4a748c6df4e9c5d57" sha1="df6ac6ad48c1fc38df7b509d3908dd53bb7ed492"/>
+	</game>
 	<game name="Outland (Europe) (Trial)" id="05241">
 		<description>Outland (Europe) (Trial)</description>
 		<game_id>EP0001-NPEB00463_00-OUTLAND0DEMO0001</game_id>
@@ -22235,12 +22267,6 @@
 		<game_id>UP0001-NPUB30163_00-OUTLAND0PURCHASE</game_id>
 		<rom name="UnaSLZYhMAeBEagDtmJPnnHRmBGpucbCMAJtvJhShejiltnOcIdahEjGRPJLXXvbQqtzXxRuHPNUKkflsHZqGlNQtnbgHgXGZuftB.pkg" size="6080" crc="d53d79b1" md5="ebe0d7fdd10e2cfb55e7e9b320e439dc" sha1="2289ff6de108af3aa497088c04babcde5a216175"/>
 		<rom name="UP0001-NPUB30163_00-OUTLAND0PURCHASE.rap" size="16" crc="5f5b1755" md5="e90cb4a9bba425f86a7bc141f5886b34" sha1="d149b3855b41655c996f61f049d23f5da101e6d0"/>
-	</game>
-	<game name="Outland (Europe) (Unlock Key)" id="19139">
-		<description>Outland (Europe) (Unlock Key)</description>
-		<game_id>EP0001-NPEB00463_00-OUTLAND0PURCHASE</game_id>
-		<rom name="haGhiNJobiTPGoLqUhGgxsPDWGjMfWfnGVbsupAbSzSNPdLLLdefSCjxXdQwVnUK.pkg" size="6080" crc="c3b7119b" md5="2a621af56069e1c40766187e4c2d4833" sha1="ca26d979d9059bea9711e98c33263ccbea90fa87"/>
-		<rom name="EP0001-NPEB00463_00-OUTLAND0PURCHASE.rap" size="16" crc="6204ae8f" md5="7eca0cdec2416bc4a748c6df4e9c5d57" sha1="df6ac6ad48c1fc38df7b509d3908dd53bb7ed492"/>
 	</game>
 	<game name="OutRun - Online Arcade (Europe)" id="05244">
 		<description>OutRun - Online Arcade (Europe)</description>
@@ -22410,6 +22436,12 @@
 		<rom name="EP4372-NPEB01184_00-HDDPAGECHRONICA1.rap" size="16" crc="cea1e3cf" md5="b27d4b629af6b4ea1b6349e7ccbb8f86" sha1="3eee1382cfd6340e25413792130bfcdcc4dabb92" sha256="7d7ca0247585e7d23348d1049a1ade5eeb0f49e9d949c21c2dc78e2584ed3996"/>
 		<rom name="xqAVcPrHCLacyteKqfnQoAiGTGfEBjGLybJahcOhpzjvDqXOfAhjjqdOKMnznrKc.pkg" size="1532970624" crc="8661b7be" md5="e587e5fba1fb411671b8360837e753fc" sha1="b459f307b82fb38b5c0dfa06ef74e3d555bbffa6" sha256="3670b3014221aee4f6447964c22b1b4c3d7644e53d828dfc80b712d53cd9072f"/>
 	</game>
+	<game name="Pain (USA) (v4.00)" id="13616">
+		<description>Pain (USA) (v4.00)</description>
+		<game_id>UP9000-NPUA80073_00-PAIN000100000000</game_id>
+		<rom name="Kr8hlAE3HL5vMuiNAYxFhJxUkR7M5PrdRWMGVpFH8VxPA9RgcOn7TEV1qbkqG1s3dcgJLHHhqILm33XukGLLVwjcjohaX9pBwxgPq.pkg" size="2041948368" crc="2c11e320" md5="0a687dee23c98c15a03b363124e5822d" sha1="9f53792a727996c27f892cf5916eec236a466004"/>
+		<rom name="UP9000-NPUA80073_00-PAIN000100000000.rap" size="16" crc="2ee737de" md5="ddc2f58ff64271b1e6acb67eac448594" sha1="c880727a94c0458d6f6179867f0b71cad32af460"/>
+	</game>
 	<game name="Pain (Europe)" id="05291">
 		<description>Pain (Europe)</description>
 		<game_id>EP9000-NPEA00054_00-PAIN000100000000</game_id>
@@ -22433,12 +22465,6 @@
 		<game_id>EP9000-BCET70059_00-PAIN000100000000</game_id>
 		<rom name="MikSJfjCqlbJruBzwQQbScSLwdwhrRHOwkXJZpYRiekXfNjPMvdhMbHEkiEVlLMl.pkg" size="2284427312" crc="0cf0d53b" md5="2625a889ddc665f7ddef0d146bbab1b3" sha1="dcfc9721da705356e7ccfc61bbde81689e365b86"/>
 	</game>
-	<game name="Pain (USA) (v4.00)" id="13616">
-		<description>Pain (USA) (v4.00)</description>
-		<game_id>UP9000-NPUA80073_00-PAIN000100000000</game_id>
-		<rom name="Kr8hlAE3HL5vMuiNAYxFhJxUkR7M5PrdRWMGVpFH8VxPA9RgcOn7TEV1qbkqG1s3dcgJLHHhqILm33XukGLLVwjcjohaX9pBwxgPq.pkg" size="2041948368" crc="2c11e320" md5="0a687dee23c98c15a03b363124e5822d" sha1="9f53792a727996c27f892cf5916eec236a466004"/>
-		<rom name="UP9000-NPUA80073_00-PAIN000100000000.rap" size="16" crc="2ee737de" md5="ddc2f58ff64271b1e6acb67eac448594" sha1="c880727a94c0458d6f6179867f0b71cad32af460"/>
-	</game>
 	<game name="Pain - Amusement Park (USA) (Unlock Key)" id="21067">
 		<description>Pain - Amusement Park (USA) (Unlock Key)</description>
 		<game_id>UP9000-NPUA80073_00-PAINAMUSEMENTPRK</game_id>
@@ -22454,23 +22480,17 @@
 		<game_id>UP9000-NPUA80073_00-PAIN0FWEXPLOSIVE</game_id>
 		<rom name="iu9xCBoeI2UeeVENxky2jJoyLr8eLFoWHkVSLLFcPMeQXI7Tl7MjVUE18VsyFBKiDV4fRyFSIesmcHDyJU4ooNGlk6slomomFcQSd.pkg" size="102400" crc="88e29832" md5="451f1bfedd2e14d4b4c5a32e544c7994" sha1="f36a892118bc7b03a1acda771956a02060f82ee3"/>
 	</game>
-	<game name="Painkiller - Hell &amp; Damnation (USA)" id="05326">
-		<description>Painkiller - Hell &amp; Damnation (USA)</description>
-		<game_id>UP4389-NPUB31259_00-PPAINKILLERFULL1</game_id>
-		<rom name="LOcZOjVwCwTcYoWTVgMAVOoTeSlFnXacOqTfAWHOgcnLgYqRtwLEMqnOlrosEVNS.pkg" size="2112804768" crc="ae344ed6" md5="118672b4377774ef8b1c6d0bf21e3aeb" sha1="1c361d24526b274dd37995ffd2624c44ace6849a"/>
-		<rom name="UP4389-NPUB31259_00-PPAINKILLERFULL1.rap" size="16" crc="11ede2cd" md5="a3e7a74f8301094083f9b5e0d1891a65" sha1="ec8fabc9cec1552e8c317ada1e792bee26dbf4fb"/>
-	</game>
 	<game name="Painkiller - Hell &amp; Damnation (Europe)" id="40906">
 		<description>Painkiller - Hell &amp; Damnation (Europe)</description>
 		<game_id>EP4389-NPEB01390_00-PPAINKILLERFULL1</game_id>
 		<rom name="ArlkkKkkyVEnvzTMbWHaPNbyqPzdznYvbgNwHkFRThMUjNcWKLNgiffKPGgNGbBK.pkg" size="2112804768" crc="56bd718e" md5="5f3428fbe42825ed462e5ade200e37be" sha1="06fd048bf1743459e71b8896499797bfe1901131" sha256="2308d24851d5b556ce17f259e15db79c5b73c807a9dac649006ccd64708fa8ff"/>
 		<rom name="EP4389-NPEB01390_00-PPAINKILLERFULL1.rap" size="16" crc="8f871c30" md5="da63038840c9389110bd9bc80eeafcce" sha1="46a8b474a10283b65108f044eda5ea09867bbee4" sha256="0ac4d13c4b5a7759700613f4d3724e3cc1898fe1a4c6d1232ca9a862738c2e82"/>
 	</game>
-	<game name="Papo &amp; Yo (Europe) (Soundtrack)" id="41389">
-		<description>Papo &amp; Yo (Europe) (Soundtrack)</description>
-		<game_id>EP2055-NPEB01265_00-MINORITYPPYOMUS0</game_id>
-		<rom name="PDWwkvOyjYiZrJLcyMvGBxvQSTJaWdJCbMwtGYDYerUxSBHxQaCcJxKSLzSrxwIu.pkg" size="137705280" crc="a6070668" md5="06b052661d110e43b1cb8347729df812" sha1="05396e37c19d8708cd058377799d8b5462047691" sha256="88be446e22bb0cff2c1479593c253baab88ba2d27a07cc5ac6b77d0d58c22c98"/>
-		<rom name="EP2055-NPEB01265_00-MINORITYPPYOMUS0.rap" size="16" crc="a278398d" md5="438c5f4414a24efae56e634ccb21a617" sha1="2de47661c0097983999585978530260beb072789" sha256="900cbda08b91e6001c7bd96ad83d3fb9d5fd9ef3c95c6bc04af7c2366c9505d9"/>
+	<game name="Painkiller - Hell &amp; Damnation (USA)" id="05326">
+		<description>Painkiller - Hell &amp; Damnation (USA)</description>
+		<game_id>UP4389-NPUB31259_00-PPAINKILLERFULL1</game_id>
+		<rom name="LOcZOjVwCwTcYoWTVgMAVOoTeSlFnXacOqTfAWHOgcnLgYqRtwLEMqnOlrosEVNS.pkg" size="2112804768" crc="ae344ed6" md5="118672b4377774ef8b1c6d0bf21e3aeb" sha1="1c361d24526b274dd37995ffd2624c44ace6849a"/>
+		<rom name="UP4389-NPUB31259_00-PPAINKILLERFULL1.rap" size="16" crc="11ede2cd" md5="a3e7a74f8301094083f9b5e0d1891a65" sha1="ec8fabc9cec1552e8c317ada1e792bee26dbf4fb"/>
 	</game>
 	<game name="Papo &amp; Yo (Europe) (Trial)" id="05327">
 		<description>Papo &amp; Yo (Europe) (Trial)</description>
@@ -22493,6 +22513,12 @@
 		<game_id>UP2055-NPUB30620_00-MINORITYPPYOLICN</game_id>
 		<rom name="pGTZVrEieZoSyDTXFUaDNyNMpqmuBDqeWlsyoPvdPbXFZaFJebIVCVyOwBNuwcpCqrclLZVahHXwOfwMqJtoDlvYqZfIRiINKiRvL.pkg" size="6080" crc="23e049d4" md5="bfb6a173f7b97981f6f4b1e2dcb2843c" sha1="2e023b1e71704dddbd28220c82c5f3c08d515db9"/>
 		<rom name="UP2055-NPUB30620_00-MINORITYPPYOLICN.rap" size="16" crc="a61a7594" md5="a4965dfa93218ddd63efc68176a7cfcd" sha1="ba593a591d38ea81514a5b096cea03f849afd7d6"/>
+	</game>
+	<game name="Papo &amp; Yo (Europe) (Soundtrack)" id="41389">
+		<description>Papo &amp; Yo (Europe) (Soundtrack)</description>
+		<game_id>EP2055-NPEB01265_00-MINORITYPPYOMUS0</game_id>
+		<rom name="PDWwkvOyjYiZrJLcyMvGBxvQSTJaWdJCbMwtGYDYerUxSBHxQaCcJxKSLzSrxwIu.pkg" size="137705280" crc="a6070668" md5="06b052661d110e43b1cb8347729df812" sha1="05396e37c19d8708cd058377799d8b5462047691" sha256="88be446e22bb0cff2c1479593c253baab88ba2d27a07cc5ac6b77d0d58c22c98"/>
+		<rom name="EP2055-NPEB01265_00-MINORITYPPYOMUS0.rap" size="16" crc="a278398d" md5="438c5f4414a24efae56e634ccb21a617" sha1="2de47661c0097983999585978530260beb072789" sha256="900cbda08b91e6001c7bd96ad83d3fb9d5fd9ef3c95c6bc04af7c2366c9505d9"/>
 	</game>
 	<game name="Paranormal Pursuit (Europe)" id="05331">
 		<description>Paranormal Pursuit (Europe)</description>
@@ -22885,6 +22911,21 @@
 		<game_id>UP0101-NPUB91037_00-PES2017DEMO00000</game_id>
 		<rom name="UP0101-NPUB91037_00-PES2017DEMO00000_bg_1_ed8b9c3efb67f46a7c10f9ded7a3f69f81124170.pkg" size="1609986816" crc="7b9d8cd2" md5="7d9ce4134def33d5a6ef592cfe1fbd6b" sha1="a55c3130439edc96878c55cd9f1c355d2189f64d"/>
 	</game>
+	<game name="PES 2018 - Pro Evolution Soccer (Asia) (Demo)" id="19168">
+		<description>PES 2018 - Pro Evolution Soccer (Asia) (Demo)</description>
+		<game_id>HP0101-NPHB10005_00-PES2018DEMO00000</game_id>
+		<rom name="HP0101-NPHB10005_00-PES2018DEMO00000_bg_1_f4c448e598c6cde8c801b1ee0ffb6f866ec36acd.pkg" size="1886921728" crc="1f7f7fc9" md5="5b5357cfc0688c208d23fecd92831065" sha1="8e5109912075631a98d799947766068002384ca0"/>
+	</game>
+	<game name="PES 2018 - Pro Evolution Soccer (USA) (Demo)" id="20084">
+		<description>PES 2018 - Pro Evolution Soccer (USA) (Demo)</description>
+		<game_id>UP0101-NPUB91038_00-PES2018DEMO00000</game_id>
+		<rom name="UP0101-NPUB91038_00-PES2018DEMO00000_bg_1_223cfcdb5bf2d20c09f37e1ded46bbec73795c13.pkg" size="1836924928" crc="cef9f133" md5="2b93349795d4f39d55b115aa49a2d073" sha1="69beab0cc441e432f9c82750feb54414947a5c5b"/>
+	</game>
+	<game name="PES 2018 - Pro Evolution Soccer (Europe) (Demo)" id="25406">
+		<description>PES 2018 - Pro Evolution Soccer (Europe) (Demo)</description>
+		<game_id>EP0101-NPEB90569_00-PES2018DEMO00000</game_id>
+		<rom name="EP0101-NPEB90569_00-PES2018DEMO00000_bg_1_e25cc0ca5181d1174bd8d8090844536297dc09b6.pkg" size="1893357072" crc="4763fcf3" md5="1fd3b6ec7eac0a6d2bbeeb5bc024c9db" sha1="7ac9e25721945c0952e76ee040a14132e556fd2b"/>
+	</game>
 	<game name="PES 2018 - Pro Evolution Soccer (Asia) (Lite)" id="28506">
 		<description>PES 2018 - Pro Evolution Soccer (Asia) (Lite)</description>
 		<game_id>HP0101-NPHB10007_00-PES2018F2P000000</game_id>
@@ -22905,21 +22946,6 @@
 		<description>PES 2018 - Pro Evolution Soccer (Europe)</description>
 		<game_id>EP0101-NPEB02460_00-PES2018F2P000000</game_id>
 		<rom name="EP0101-NPEB02460_00-PES2018F2P000000_bg_1_0121bb2a9d3cc9c3e21f545d6ca12e4465cfc1b2.pkg" size="9487755888" crc="4fc4d5c1" md5="f5b0aeca1d327dbaf8dacb893972053f" sha1="001327bc5b688f64d83cc547217447506fd9732d" sha256="194825b91b3e21bd9079674c92f4e9d1d40b081504d62e2bd982edd4533c579a"/>
-	</game>
-	<game name="PES 2018 - Pro Evolution Soccer (Asia) (Demo)" id="19168">
-		<description>PES 2018 - Pro Evolution Soccer (Asia) (Demo)</description>
-		<game_id>HP0101-NPHB10005_00-PES2018DEMO00000</game_id>
-		<rom name="HP0101-NPHB10005_00-PES2018DEMO00000_bg_1_f4c448e598c6cde8c801b1ee0ffb6f866ec36acd.pkg" size="1886921728" crc="1f7f7fc9" md5="5b5357cfc0688c208d23fecd92831065" sha1="8e5109912075631a98d799947766068002384ca0"/>
-	</game>
-	<game name="PES 2018 - Pro Evolution Soccer (USA) (Demo)" id="20084">
-		<description>PES 2018 - Pro Evolution Soccer (USA) (Demo)</description>
-		<game_id>UP0101-NPUB91038_00-PES2018DEMO00000</game_id>
-		<rom name="UP0101-NPUB91038_00-PES2018DEMO00000_bg_1_223cfcdb5bf2d20c09f37e1ded46bbec73795c13.pkg" size="1836924928" crc="cef9f133" md5="2b93349795d4f39d55b115aa49a2d073" sha1="69beab0cc441e432f9c82750feb54414947a5c5b"/>
-	</game>
-	<game name="PES 2018 - Pro Evolution Soccer (Europe) (Demo)" id="25406">
-		<description>PES 2018 - Pro Evolution Soccer (Europe) (Demo)</description>
-		<game_id>EP0101-NPEB90569_00-PES2018DEMO00000</game_id>
-		<rom name="EP0101-NPEB90569_00-PES2018DEMO00000_bg_1_e25cc0ca5181d1174bd8d8090844536297dc09b6.pkg" size="1893357072" crc="4763fcf3" md5="1fd3b6ec7eac0a6d2bbeeb5bc024c9db" sha1="7ac9e25721945c0952e76ee040a14132e556fd2b"/>
 	</game>
 	<game name="Phantasy Star 1 (Japan) (PS2 Classics)" id="28936">
 		<description>Phantasy Star 1 (Japan) (PS2 Classics)</description>
@@ -22997,12 +23023,6 @@
 		<rom name="EP4003-NPED00160_00-GPILOTDOWN000ENG.rap" size="16" crc="d645d494" md5="40f5e9ce82040a71e3c4697d1ac6d49e" sha1="d12930486fb3c168c4896a708cb6f4aec3116798"/>
 		<rom name="PSuIaiNPHEVBWkutQOBrNJBdhZbeCjAEXBFHzOdIGqNAGIKmdWHCsIVPWOvwhiVc.pkg" size="2754426192" crc="0fa7fd96" md5="fa6b3698eb7ab3c74ee3dc56ce6c8105" sha1="4110d177008db936e63c2f3719eaa0fac38b012d"/>
 	</game>
-	<game name="Pinball Arcade, The (Europe) (Unlock Key)" id="18325">
-		<description>Pinball Arcade, The (Europe) (Unlock Key)</description>
-		<game_id>EP2058-NPEB00894_00-GAMEPURCHASE0001</game_id>
-		<rom name="AxGspqvMDGSObZjgFgkMFnUhCnDJXgYIthxpGEoMmrPbogxbbiIlsTlKKPOAtHwq.pkg" size="6080" crc="b560f2e8" md5="9d435345e7ae788f13642cd7fed3d7b3" sha1="53e523724a03830b9210480afb18f74e2ed6cf8d"/>
-		<rom name="EP2058-NPEB00894_00-GAMEPURCHASE0001.rap" size="16" crc="db81d38d" md5="24a5aec74badf38fa578f8988792fd3c" sha1="adde1f3c901ef48a9b9f4aec677a8be5bb8a41b1"/>
-	</game>
 	<game name="Pinball Arcade, The (Europe) (Trial)" id="05399">
 		<description>Pinball Arcade, The (Europe) (Trial)</description>
 		<game_id>EP2058-NPEB00894_00-HDDBOOTPINBALL01</game_id>
@@ -23024,23 +23044,29 @@
 		<rom name="wbPytfHoQwJQVBsXXTGhFEkwzBLhBTbJXnoBgYMWFXMSoHDKguuUtKZtqMbTVxgVaUyXJtCCVmGrrMcAqqWtLXiwetzyLaTyDUHIi.pkg" size="6080" crc="236139b7" md5="4a5f39165a8eb7464aacd42539ce0049" sha1="05f0162a3eb29d7d378e9a1172d571a215892969"/>
 		<rom name="UP2058-NPUB30713_00-GAMEPURCHASE0001.rap" size="16" crc="74c8a749" md5="66c033b3292354f245e687490b1ff9c1" sha1="08a18985e82adb807cb9ccabbfdceedac319e253"/>
 	</game>
+	<game name="Pinball Arcade, The (Europe) (Unlock Key)" id="18325">
+		<description>Pinball Arcade, The (Europe) (Unlock Key)</description>
+		<game_id>EP2058-NPEB00894_00-GAMEPURCHASE0001</game_id>
+		<rom name="AxGspqvMDGSObZjgFgkMFnUhCnDJXgYIthxpGEoMmrPbogxbbiIlsTlKKPOAtHwq.pkg" size="6080" crc="b560f2e8" md5="9d435345e7ae788f13642cd7fed3d7b3" sha1="53e523724a03830b9210480afb18f74e2ed6cf8d"/>
+		<rom name="EP2058-NPEB00894_00-GAMEPURCHASE0001.rap" size="16" crc="db81d38d" md5="24a5aec74badf38fa578f8988792fd3c" sha1="adde1f3c901ef48a9b9f4aec677a8be5bb8a41b1"/>
+	</game>
 	<game name="Pinball Hall of Fame - The Gottlieb Collection (Europe) (PS2 Classics)" id="45901">
 		<description>Pinball Hall of Fame - The Gottlieb Collection (Europe) (PS2 Classics)</description>
 		<game_id>EP4037-NPED00158_00-GPINBALLHA000ENG</game_id>
 		<rom name="EP4037-NPED00158_00-GPINBALLHA000ENG.rap" size="16" crc="1190abfa" md5="0411ca24554b920fe463ba1133e78272" sha1="f75940938319d834da442a82ec33acdb3b2884c2" sha256="8ad5d37c54c2c194539459a56a54358808250bdb67ee93edc3f73dc20eb48e67"/>
 		<rom name="PbrdEdCJUVtFYYiCvSjgijHxogqvWoXLhELUOCtPGgeCyVvIraEVSEoZLGQAwyer.pkg" size="388651168" crc="2f6e4d7c" md5="984d66297e1f52ea083c09a074d66a96" sha1="331c704e3e695e833ea97fe16cc8d9b1bb7a5fdf" sha256="ca4aac0e6e72a29e64b47cec7f5b1a6a3224a169e259e1b0498374d7de7dbf55"/>
 	</game>
-	<game name="Pinballistik (USA)" id="05443">
-		<description>Pinballistik (USA)</description>
-		<game_id>UP4073-NPUB30110_00-PINBALLISTIK0000</game_id>
-		<rom name="AfChJJcLHQqooVikzYrPOEVVkdigKXlJuyCarsjPZjqFwreYRezqQXYDSCyQktVKpeLdAVAwdsKKxTnIjJVJiTRgZVQvGBkOLmaCQ.pkg" size="327969392" crc="5dc5f424" md5="93bf37206e51df72bbd057786f246919" sha1="378785a6f07479f14b412035fdccf1d5c34a08b0"/>
-		<rom name="UP4073-NPUB30110_00-PINBALLISTIK0000.rap" size="16" crc="4360c275" md5="d6bdef2cfe31011014e3dc150605d1ca" sha1="a56f605140ec746ee8daf04d714e712f94f2fcfa"/>
-	</game>
 	<game name="Pinballistik (Europe)" id="13618">
 		<description>Pinballistik (Europe)</description>
 		<game_id>EP4073-NPEB00222_00-PINBALLISTIK0000</game_id>
 		<rom name="rBSyrDwUktrupcYxIMbmWebwtqIXgmDdDNmxEzhZwBsutOegsWhGLXXBXPuTjpmL.pkg" size="328011904" crc="6ec51a4f" md5="2b274e5fbc2668ec0f10c69f5e237d7d" sha1="ed0c9dc88a8c7b35d9e46a49cd3fff6b20e57396"/>
 		<rom name="EP4073-NPEB00222_00-PINBALLISTIK0000.rap" size="16" crc="d6ada55d" md5="035cfe0e12c2b17d37e7f41c3a938b81" sha1="df6b412cce59d67d84152cf7bcced6677c427680"/>
+	</game>
+	<game name="Pinballistik (USA)" id="05443">
+		<description>Pinballistik (USA)</description>
+		<game_id>UP4073-NPUB30110_00-PINBALLISTIK0000</game_id>
+		<rom name="AfChJJcLHQqooVikzYrPOEVVkdigKXlJuyCarsjPZjqFwreYRezqQXYDSCyQktVKpeLdAVAwdsKKxTnIjJVJiTRgZVQvGBkOLmaCQ.pkg" size="327969392" crc="5dc5f424" md5="93bf37206e51df72bbd057786f246919" sha1="378785a6f07479f14b412035fdccf1d5c34a08b0"/>
+		<rom name="UP4073-NPUB30110_00-PINBALLISTIK0000.rap" size="16" crc="4360c275" md5="d6bdef2cfe31011014e3dc150605d1ca" sha1="a56f605140ec746ee8daf04d714e712f94f2fcfa"/>
 	</game>
 	<game name="Pirates - Legend of the Black Buccaneer (USA) (PS2 Classics)" id="34752">
 		<description>Pirates - Legend of the Black Buccaneer (USA) (PS2 Classics)</description>
@@ -23053,17 +23079,6 @@
 		<game_id>EP1006-NPED00146_00-GPIRATESOF000ENG</game_id>
 		<rom name="EP1006-NPED00146_00-GPIRATESOF000ENG.rap" size="16" crc="70c6686a" md5="d3f028868bebf311bb4e7dbde4f5bcff" sha1="c15354f069bca7cf5e5bd688834ade9db8ab12d7"/>
 		<rom name="yzradUdkiZxWfhGJuHiifugksyrHvNGRpWxoHjBrtDDSnVvsuOfXzRJOuFlFKBKO.pkg" size="1769107072" crc="736ca226" md5="89a64f9aa8df2e217b8fe1e5b02c3ae2" sha1="ded2206596b5a9d186efaff79fa327c5f8375564"/>
-	</game>
-	<game name="PixelJunk 4am (Japan) (Unlock Key)" id="41026">
-		<description>PixelJunk 4am (Japan) (Unlock Key)</description>
-		<game_id>JP0743-NPJB00191_00-PJ4AMLICENSE0001</game_id>
-		<rom name="lZzYNuokGAVlBGNNHrVjgJnhlyvFkeAPQssWDSFSRQyXwxopdGPzuntxQDJMeWKIjFQXrnXSyBngpyWscrQbbCWAYVfMwHPQxgwbZ.pkg" size="6080" crc="100e7c73" md5="d591abfce7b4c2ab1f2a15314b06e094" sha1="c845424ba0e8231918d2343e6ead9f8a60812517" sha256="49a4a49cefe512fe47183e71440542679e0067b2a738e01c2d0cbd0309a59315"/>
-	</game>
-	<game name="PixelJunk 4am (USA) (Unlock Key)" id="41039">
-		<description>PixelJunk 4am (USA) (Unlock Key)</description>
-		<game_id>UP9000-NPUA80538_00-PJ4AMLICENSE0001</game_id>
-		<rom name="tUyvCmtPJDnEaOlsvkEyLWknIhNDogAvJzvbEDaInpRPmXlpvdmSBKvzUmVlGJSAnWBikKIDhzmYlzCHwpXHEvVzETSpujZJFRNSq.pkg" size="6080" crc="23236acc" md5="bcdd86558b05297d0cadfeef48e8639d" sha1="75be3e2b8fe5342e54d29af87ba207bac6afb592" sha256="63e81656a09a9be6def6e1cb12089d136e2c7ac44403d5929ad8dde2258eb650"/>
-		<rom name="UP9000-NPUA80538_00-PJ4AMLICENSE0001.rap" size="16" crc="1c41e3dd" md5="91c69957dcada9b25dea43b468ee098b" sha1="299c1aadd3993f4b929315958bc2d04bbb818567" sha256="281e173dae1c2a775d6f1407f18272bed6519a503371d219ec1a8e38fb3fce06"/>
 	</game>
 	<game name="PixelJunk 4am (Asia) (Trial)" id="05446">
 		<description>PixelJunk 4am (Asia) (Trial)</description>
@@ -23079,6 +23094,17 @@
 		<description>PixelJunk 4am (USA) (Trial)</description>
 		<game_id>UP9000-NPUA80538_00-PJ4AMDEMO0000001</game_id>
 		<rom name="QRFaWLZARrDIeeiLKAsMPNmGsBXjWacBTVRfpPRxBwqNMUjMALPDzcWHyXnWVlMWmuAWhDWlKLtkDvGootuEDveHpbeeAFhWmMdjP.pkg" size="292550848" crc="bf2a1d1d" md5="28fd4655f3c9a3e833c0e39909b02151" sha1="3686dbffa0e9fb65b3e68fbbc6aaa80b120b2715"/>
+	</game>
+	<game name="PixelJunk 4am (Japan) (Unlock Key)" id="41026">
+		<description>PixelJunk 4am (Japan) (Unlock Key)</description>
+		<game_id>JP0743-NPJB00191_00-PJ4AMLICENSE0001</game_id>
+		<rom name="lZzYNuokGAVlBGNNHrVjgJnhlyvFkeAPQssWDSFSRQyXwxopdGPzuntxQDJMeWKIjFQXrnXSyBngpyWscrQbbCWAYVfMwHPQxgwbZ.pkg" size="6080" crc="100e7c73" md5="d591abfce7b4c2ab1f2a15314b06e094" sha1="c845424ba0e8231918d2343e6ead9f8a60812517" sha256="49a4a49cefe512fe47183e71440542679e0067b2a738e01c2d0cbd0309a59315"/>
+	</game>
+	<game name="PixelJunk 4am (USA) (Unlock Key)" id="41039">
+		<description>PixelJunk 4am (USA) (Unlock Key)</description>
+		<game_id>UP9000-NPUA80538_00-PJ4AMLICENSE0001</game_id>
+		<rom name="tUyvCmtPJDnEaOlsvkEyLWknIhNDogAvJzvbEDaInpRPmXlpvdmSBKvzUmVlGJSAnWBikKIDhzmYlzCHwpXHEvVzETSpujZJFRNSq.pkg" size="6080" crc="23236acc" md5="bcdd86558b05297d0cadfeef48e8639d" sha1="75be3e2b8fe5342e54d29af87ba207bac6afb592" sha256="63e81656a09a9be6def6e1cb12089d136e2c7ac44403d5929ad8dde2258eb650"/>
+		<rom name="UP9000-NPUA80538_00-PJ4AMLICENSE0001.rap" size="16" crc="1c41e3dd" md5="91c69957dcada9b25dea43b468ee098b" sha1="299c1aadd3993f4b929315958bc2d04bbb818567" sha256="281e173dae1c2a775d6f1407f18272bed6519a503371d219ec1a8e38fb3fce06"/>
 	</game>
 	<game name="PixelJunk 4am - Live Viewer (Japan) (Demo)" id="05451">
 		<description>PixelJunk 4am - Live Viewer (Japan) (Demo)</description>
@@ -23112,44 +23138,6 @@
 		<rom name="YrKsETUyRqDOPwGVaNxTrN9gqiKgrOKe0v6Jn2af3IrJdO9IQJdyh3ITU0KjBFFQPEP1NqGLMIpA97NVlKDxYXbbIRf5minkOxcpt.pkg" size="199074512" crc="6e4be22a" md5="c7c12a06a6dc93a74676318d10e07b35" sha1="fb71e1f4e87fffe9902a8ab906dc72db67d94096"/>
 		<rom name="UP9000-NPUA80222_00-PIXJEDENMUSI0001.rap" size="16" crc="1bd89a94" md5="7bad05b9b8a97ec893afc6ea5769b2cd" sha1="97abf2fd9fe7adba70c86bfa9e8903859a0fc370"/>
 	</game>
-	<game name="PixelJunk Eden (Asia) (Demo)" id="05452">
-		<description>PixelJunk Eden (Asia) (Demo)</description>
-		<game_id>HP0743-NPHB00038_00-PIXJEDENDEMO0001</game_id>
-		<rom name="tRisRlNLVKWcuscbKlNkixeXrDBiGKYDBYVpbrhtWDYFHvdoNh15pqIha9OQ9ouDOFIGLdUD6s9Thbcx4UVK3RJODxxXd2OuU3co8.pkg" size="112033104" crc="0f9d7b2d" md5="8c2cb738426207232c48fee983307c0b" sha1="f67c4abfb8221c4ef6c67cfc24bda0bf1cfe1f78"/>
-	</game>
-	<game name="PixelJunk Eden (Europe) (Demo)" id="05454">
-		<description>PixelJunk Eden (Europe) (Demo)</description>
-		<game_id>EP9000-NPEA90026_00-PIXJEDENDEMO0001</game_id>
-		<rom name="r0aVlj7TwMIBsQGNtXNbtqNCViGyXp8kXhd1aNRMEoihAXGqXMfsavsq08UI4bjCrRIFGWNLDtBfuVsYBBjxHpKJYFblU0eKBTne0.pkg" size="111771632" crc="ed57da99" md5="ca5cfe924c1fbe4f537a5cf24f0607fc" sha1="b3af0ac95e26dba09ea3e934eac71b68dd6b99f4"/>
-	</game>
-	<game name="PixelJunk Eden (Japan)" id="05456">
-		<description>PixelJunk Eden (Japan)</description>
-		<game_id>JP0743-NPJB00007_00-PIXJEDENFULL0001</game_id>
-		<rom name="IRxuhxS2qKwV4m8AAXKeFIeYG1dWe8JBIqbkcBj0Q7WdC0fCPFBLhGcw17PKDA0Iy95kC2MgC5vjHna5vIWvlLWOi2U2YPIA95FuR.pkg" size="111834032" crc="016ce111" md5="f6f1a9951f7f4be65cf6819ad1b9f930" sha1="c8b91300d4423c63ef01fbdce967b1abb3d573ab"/>
-		<rom name="JP0743-NPJB00007_00-PIXJEDENFULL0001.rap" size="16" crc="da4d00b3" md5="ca2f51281a333e85cc6cea0b521c925b" sha1="54a76be4f24bc2ed652b9925a44fc7f06106fb99"/>
-	</game>
-	<game name="PixelJunk Eden (USA) (v1.00)" id="05458">
-		<description>PixelJunk Eden (USA) (v1.00)</description>
-		<game_id>UP9000-NPUA80160_00-PIXJEDENFULL0001</game_id>
-		<rom name="iYXh0cPk234s4erUkTL0Y9yojvdxhC4yKx0bBF0Q5cn7DrMlC53ma9jVHidVHE4rkVAKReO4TBkk4KAW5Jyp7aKTMpAFPXOPvCcer.pkg" size="111829504" crc="fbf25a07" md5="d537071ab2e0ef461ce163383ae42c91" sha1="aa208b1684a123a6826db8528eede3feed319bc5"/>
-		<rom name="UP9000-NPUA80160_00-PIXJEDENFULL0001.rap" size="16" crc="2cec9cf6" md5="70f496b931a07e087204e4dd5c0cf166" sha1="36656de7fe1f05f88f29ad3eb79ed830e59b7883"/>
-	</game>
-	<game name="PixelJunk Eden (USA) (Demo) (NPUA80160)" id="05459">
-		<description>PixelJunk Eden (USA) (Demo) (NPUA80160)</description>
-		<game_id>UP9000-NPUA80160_00-PIXJEDENDEMO0001</game_id>
-		<rom name="amBQIgJeD91u665vMXAqKPTAhr54rJKmTkjHKCnrpldk980SSLNJGASnXPVotnm7tfWJI0RpeKJ7Yl9icbMfgr1NQtS1hKk5lbpGr.pkg" size="111829152" crc="ce476c3e" md5="23e51f0d3fb3cd32f837099bec234be2" sha1="7fbbc9f8f4b02669f45955ca4dde96b0ce50ecfe"/>
-	</game>
-	<game name="PixelJunk Eden (USA) (Demo) (NPUA70021)" id="05460">
-		<description>PixelJunk Eden (USA) (Demo) (NPUA70021)</description>
-		<game_id>UP9000-NPUA70021_00-PIXJEDENDEMO0001</game_id>
-		<rom name="cCNCahtvTNut3VUisSHvLtdYE7vPf2jdDlX5kawAqsdKwlwOB3w4ianS8Qri44c6jhR6gOB0XUa6ocv6T5muSnjViI7i59SIAnQMH.pkg" size="111578640" crc="e810fafc" md5="8f3048516b14ed3e8aec31b6eafa28f8" sha1="036992afa62fd3e7f3b3cc5e4097dcde69a731b1"/>
-	</game>
-	<game name="PixelJunk Eden (Asia)" id="36220">
-		<description>PixelJunk Eden (Asia)</description>
-		<game_id>HP0743-NPHB00038_00-PIXJEDENFULL0001</game_id>
-		<rom name="M3m3Ic4dXD4LUIkpO5G8diVFflSLv1Ws09cVgMvwKim1gNQUDXdwIqBA77vgtmwcoV4pCs2Y8XChd31qGIb9k7qMw3iKmlRx2HgJB.pkg" size="112033456" crc="961b8250" md5="9ef89bead9566b8b36e83263bf17dee4" sha1="1c46ef2e2dc6ef5daae23aaa8d5fa0d5d222fc7c" sha256="f80ceb609c68ec7756002818fe667c8d1431941c2c855366cad75196136a53ca"/>
-		<rom name="HP0743-NPHB00038_00-PIXJEDENFULL0001.rap" size="16" crc="99cd6d47" md5="7ff3b375f1dd08a27a188b1ed9c8b3d1" sha1="b5f9b1e47c61120d2745d6eb4deef21dc556bd0d" sha256="a229136314abb043ba6bbadb5c7be7502830d6151842e83e090bd7372e33419a"/>
-	</game>
 	<game name="PixelJunk Eden (Europe)" id="13619">
 		<description>PixelJunk Eden (Europe)</description>
 		<game_id>EP9000-NPEA00089_00-PIXJEDENFULL0001</game_id>
@@ -23181,38 +23169,43 @@
 		<game_id>UP9000-NPUA80160_00-PIXJEDENDEMO0001</game_id>
 		<rom name="aOiHeMjX4pIS6NRVjgiQRRxIMUPrUNQG39tRQsk7mwvYtVKFX4isTegGpSTYpuLFAlcPSS2iXNGP3XMoRqA5KNhUvjcACf8YShuPA.pkg" size="112028576" crc="6c1e4f7d" md5="f88c18e9de6e0202531a286ef7aad786" sha1="cceaa72c6a5ed79f0858a3f88d6ebfbf3da025ee"/>
 	</game>
-	<game name="PixelJunk Monsters (Europe)" id="13620">
-		<description>PixelJunk Monsters (Europe)</description>
-		<game_id>EP9000-NPEA00068_00-PJMONSTSFULL0001</game_id>
-		<rom name="61kG89J3KlaDWAncAbUKmdI35syEiQ5N8deQDlMyXcOLPEBQsIXkOFDmF8DC1UTpn3LvOLMCok5LG7uKmuu71ABVX7eah705TSa3H.pkg" size="62212704" crc="ddc09b94" md5="8289587c58606c381e46a24962829d23" sha1="9bdd3f980cec8cba79f4c767fc8f831fa8a73f40"/>
-		<rom name="EP9000-NPEA00068_00-PJMONSTSFULL0001.rap" size="16" crc="eda5a74f" md5="d7109d1bdc835df384f13f3cfefc8de2" sha1="7e97f9302f8c75415e5628807a36935d93a46bb8"/>
+	<game name="PixelJunk Eden (Asia)" id="36220">
+		<description>PixelJunk Eden (Asia)</description>
+		<game_id>HP0743-NPHB00038_00-PIXJEDENFULL0001</game_id>
+		<rom name="M3m3Ic4dXD4LUIkpO5G8diVFflSLv1Ws09cVgMvwKim1gNQUDXdwIqBA77vgtmwcoV4pCs2Y8XChd31qGIb9k7qMw3iKmlRx2HgJB.pkg" size="112033456" crc="961b8250" md5="9ef89bead9566b8b36e83263bf17dee4" sha1="1c46ef2e2dc6ef5daae23aaa8d5fa0d5d222fc7c" sha256="f80ceb609c68ec7756002818fe667c8d1431941c2c855366cad75196136a53ca"/>
+		<rom name="HP0743-NPHB00038_00-PIXJEDENFULL0001.rap" size="16" crc="99cd6d47" md5="7ff3b375f1dd08a27a188b1ed9c8b3d1" sha1="b5f9b1e47c61120d2745d6eb4deef21dc556bd0d" sha256="a229136314abb043ba6bbadb5c7be7502830d6151842e83e090bd7372e33419a"/>
 	</game>
-	<game name="PixelJunk Monsters (Japan) (Demo 3)" id="13908">
-		<description>PixelJunk Monsters (Japan) (Demo 3)</description>
-		<game_id>JP0743-NPJB00003_00-PJMONSTSDEMO0001</game_id>
-		<rom name="yPIQ4ecdbApP17MXwW8uhQ5Iy1jOUdcxlWUi4mfvg2rNlWxYPhtWMOMJpivTCpSGnf4vGpr1m2C3TXguMiRyrsAcOeLGcnvOh7ElH.pkg" size="66454304" crc="3ef03aee" md5="3e50d2cd3ffb636111933ee217a704be" sha1="05c6d55b370f96bed073b33246b22907ef3f56dc"/>
+	<game name="PixelJunk Eden (Asia) (Demo)" id="05452">
+		<description>PixelJunk Eden (Asia) (Demo)</description>
+		<game_id>HP0743-NPHB00038_00-PIXJEDENDEMO0001</game_id>
+		<rom name="tRisRlNLVKWcuscbKlNkixeXrDBiGKYDBYVpbrhtWDYFHvdoNh15pqIha9OQ9ouDOFIGLdUD6s9Thbcx4UVK3RJODxxXd2OuU3co8.pkg" size="112033104" crc="0f9d7b2d" md5="8c2cb738426207232c48fee983307c0b" sha1="f67c4abfb8221c4ef6c67cfc24bda0bf1cfe1f78"/>
 	</game>
-	<game name="PixelJunk Monsters (Japan) (Demo 2)" id="29145">
-		<description>PixelJunk Monsters (Japan) (Demo 2)</description>
-		<game_id>JP0743-NPJB00003_00-PJMONSTSDEMO0001</game_id>
-		<rom name="JB4praGrIqxyynwLOkVvcrGT5ftJ4S4QbJRj5fxQXp1dTVAp2tPgWqNM1G2Lc7vUkcXHN62BxqSKBEA6nYHR9ghnLmDO6YsncWFCK.pkg" size="62194688" crc="96e8a257" md5="f2c4a20563880d988884cb7513e7aed6" sha1="2b0e3c95b2ac8f4bea6f05cfa534f4b2f2e2d1e9"/>
+	<game name="PixelJunk Eden (Europe) (Demo)" id="05454">
+		<description>PixelJunk Eden (Europe) (Demo)</description>
+		<game_id>EP9000-NPEA90026_00-PIXJEDENDEMO0001</game_id>
+		<rom name="r0aVlj7TwMIBsQGNtXNbtqNCViGyXp8kXhd1aNRMEoihAXGqXMfsavsq08UI4bjCrRIFGWNLDtBfuVsYBBjxHpKJYFblU0eKBTne0.pkg" size="111771632" crc="ed57da99" md5="ca5cfe924c1fbe4f537a5cf24f0607fc" sha1="b3af0ac95e26dba09ea3e934eac71b68dd6b99f4"/>
 	</game>
-	<game name="PixelJunk Monsters (Asia)" id="36219">
-		<description>PixelJunk Monsters (Asia)</description>
-		<game_id>HP0743-NPHB00025_00-PJMONSTSFULL0001</game_id>
-		<rom name="uafAWvICgrjFMiB6PeGLdu00EySU2ojtsINCKCt7MwqFiOAf62xBMxky7loitbXFqh1xnuMSFyP01cwD1Jg5JASyhg1NAPNfKF2Rb.pkg" size="66454656" crc="bc04b377" md5="aeee571f483b7e10e23dcbacac67e427" sha1="7716900fe2fab74504755765448a6b16798d76d4" sha256="c7b1a281cb8df0be79006cc715ed2619d15cc88a5163a2768d5a3cf5b4081dd7"/>
-		<rom name="HP0743-NPHB00025_00-PJMONSTSFULL0001.rap" size="16" crc="949a6adf" md5="689ce064c879677851a1f2b83907be0a" sha1="fc3046131646bec67cd8441bc6195d23aa42ac22" sha256="72b968562ad6462c44578ae8c21d8d08cc0e45559e5d4199d5677e9703d3b10e"/>
+	<game name="PixelJunk Eden (Japan)" id="05456">
+		<description>PixelJunk Eden (Japan)</description>
+		<game_id>JP0743-NPJB00007_00-PIXJEDENFULL0001</game_id>
+		<rom name="IRxuhxS2qKwV4m8AAXKeFIeYG1dWe8JBIqbkcBj0Q7WdC0fCPFBLhGcw17PKDA0Iy95kC2MgC5vjHna5vIWvlLWOi2U2YPIA95FuR.pkg" size="111834032" crc="016ce111" md5="f6f1a9951f7f4be65cf6819ad1b9f930" sha1="c8b91300d4423c63ef01fbdce967b1abb3d573ab"/>
+		<rom name="JP0743-NPJB00007_00-PIXJEDENFULL0001.rap" size="16" crc="da4d00b3" md5="ca2f51281a333e85cc6cea0b521c925b" sha1="54a76be4f24bc2ed652b9925a44fc7f06106fb99"/>
 	</game>
-	<game name="PixelJunk Monsters (Japan)" id="40940">
-		<description>PixelJunk Monsters (Japan)</description>
-		<game_id>JP0743-NPJB00003_00-PJMONSTSFULL0001</game_id>
-		<rom name="pLyDxD2cp5Vsp8Xtw8WKMDLhEj3mpUNSjcF4QXNDd14O9Lq15LpQVJM6wH5l4E2ppqWVVjNMEnBXFtb5gkIMMVejt8xrMgiKPqDkU.pkg" size="66454656" crc="b681c8c0" md5="a37e90e71a9b779d623ca496acd9d6ce" sha1="2898bfefda81ab3d62dbbd61b309e0f3e54c63a7" sha256="1f1c5b92db729c52054c51ae35faeb692cf0f761d3fae9318a8da83cc1d203c4"/>
-		<rom name="JP0743-NPJB00003_00-PJMONSTSFULL0001.rap" size="16" crc="5cab2027" md5="db57619a8b31f29f6654175c41812333" sha1="ce7487c6f9118c055158af99e3ff5ae3331ccf8b" sha256="23556db50b1f0fdc9206c519720f86f581f95445c5b6eddfc48152bdd71fa160"/>
+	<game name="PixelJunk Eden (USA) (v1.00)" id="05458">
+		<description>PixelJunk Eden (USA) (v1.00)</description>
+		<game_id>UP9000-NPUA80160_00-PIXJEDENFULL0001</game_id>
+		<rom name="iYXh0cPk234s4erUkTL0Y9yojvdxhC4yKx0bBF0Q5cn7DrMlC53ma9jVHidVHE4rkVAKReO4TBkk4KAW5Jyp7aKTMpAFPXOPvCcer.pkg" size="111829504" crc="fbf25a07" md5="d537071ab2e0ef461ce163383ae42c91" sha1="aa208b1684a123a6826db8528eede3feed319bc5"/>
+		<rom name="UP9000-NPUA80160_00-PIXJEDENFULL0001.rap" size="16" crc="2cec9cf6" md5="70f496b931a07e087204e4dd5c0cf166" sha1="36656de7fe1f05f88f29ad3eb79ed830e59b7883"/>
 	</game>
-	<game name="PixelJunk Monsters (Japan) (Soundtrack)" id="45595">
-		<description>PixelJunk Monsters (Japan) (Soundtrack)</description>
-		<game_id>JP0743-NPJN00001_00-PJMONSTSMUSI0001</game_id>
-		<rom name="a25lfgxYxIFYIlma4bFXqNFAHup124oRuukVuIEK6e5QG5Eg5RN1q1K3V4uLUUd7irghUdMIi5aNnqEGTib9xaWRfSmQYXXQ0wb7H.pkg" size="65493088" crc="bbe4e4d1" md5="8722b59199e207a0c5b37cc273fe6645" sha1="822bf363f5fae0de9d071c7e73d3f8afb5183488" sha256="4057b354828e597711fe7be37994071227e242daffdceff3640e039c901a4e01"/>
+	<game name="PixelJunk Eden (USA) (Demo) (NPUA80160)" id="05459">
+		<description>PixelJunk Eden (USA) (Demo) (NPUA80160)</description>
+		<game_id>UP9000-NPUA80160_00-PIXJEDENDEMO0001</game_id>
+		<rom name="amBQIgJeD91u665vMXAqKPTAhr54rJKmTkjHKCnrpldk980SSLNJGASnXPVotnm7tfWJI0RpeKJ7Yl9icbMfgr1NQtS1hKk5lbpGr.pkg" size="111829152" crc="ce476c3e" md5="23e51f0d3fb3cd32f837099bec234be2" sha1="7fbbc9f8f4b02669f45955ca4dde96b0ce50ecfe"/>
+	</game>
+	<game name="PixelJunk Eden (USA) (Demo) (NPUA70021)" id="05460">
+		<description>PixelJunk Eden (USA) (Demo) (NPUA70021)</description>
+		<game_id>UP9000-NPUA70021_00-PIXJEDENDEMO0001</game_id>
+		<rom name="cCNCahtvTNut3VUisSHvLtdYE7vPf2jdDlX5kawAqsdKwlwOB3w4ianS8Qri44c6jhR6gOB0XUa6ocv6T5muSnjViI7i59SIAnQMH.pkg" size="111578640" crc="e810fafc" md5="8f3048516b14ed3e8aec31b6eafa28f8" sha1="036992afa62fd3e7f3b3cc5e4097dcde69a731b1"/>
 	</game>
 	<game name="PixelJunk Monsters (Asia) (Demo)" id="05462">
 		<description>PixelJunk Monsters (Asia) (Demo)</description>
@@ -23246,6 +23239,39 @@
 		<game_id>UP9000-NPUA80108_00-PJMONSTSDEMO0001</game_id>
 		<rom name="9yq31CmdrDqKUs3K39C4w9lxYjDe7JJN4sCRVAGFXQI6OYVc0UBIscmi9QRYbvqQfML7WEmSnmraMSca8vjt2kcT5R9LYYfG9xfcE.pkg" size="66485888" crc="c701d475" md5="e862567f2fb3d0c33b6163edac1ab991" sha1="f4faf0aa2e01bc6aefc595270bf6e1792e28dde2"/>
 	</game>
+	<game name="PixelJunk Monsters (Japan) (Demo 2)" id="29145">
+		<description>PixelJunk Monsters (Japan) (Demo 2)</description>
+		<game_id>JP0743-NPJB00003_00-PJMONSTSDEMO0001</game_id>
+		<rom name="JB4praGrIqxyynwLOkVvcrGT5ftJ4S4QbJRj5fxQXp1dTVAp2tPgWqNM1G2Lc7vUkcXHN62BxqSKBEA6nYHR9ghnLmDO6YsncWFCK.pkg" size="62194688" crc="96e8a257" md5="f2c4a20563880d988884cb7513e7aed6" sha1="2b0e3c95b2ac8f4bea6f05cfa534f4b2f2e2d1e9"/>
+	</game>
+	<game name="PixelJunk Monsters (Asia)" id="36219">
+		<description>PixelJunk Monsters (Asia)</description>
+		<game_id>HP0743-NPHB00025_00-PJMONSTSFULL0001</game_id>
+		<rom name="uafAWvICgrjFMiB6PeGLdu00EySU2ojtsINCKCt7MwqFiOAf62xBMxky7loitbXFqh1xnuMSFyP01cwD1Jg5JASyhg1NAPNfKF2Rb.pkg" size="66454656" crc="bc04b377" md5="aeee571f483b7e10e23dcbacac67e427" sha1="7716900fe2fab74504755765448a6b16798d76d4" sha256="c7b1a281cb8df0be79006cc715ed2619d15cc88a5163a2768d5a3cf5b4081dd7"/>
+		<rom name="HP0743-NPHB00025_00-PJMONSTSFULL0001.rap" size="16" crc="949a6adf" md5="689ce064c879677851a1f2b83907be0a" sha1="fc3046131646bec67cd8441bc6195d23aa42ac22" sha256="72b968562ad6462c44578ae8c21d8d08cc0e45559e5d4199d5677e9703d3b10e"/>
+	</game>
+	<game name="PixelJunk Monsters (Japan)" id="40940">
+		<description>PixelJunk Monsters (Japan)</description>
+		<game_id>JP0743-NPJB00003_00-PJMONSTSFULL0001</game_id>
+		<rom name="pLyDxD2cp5Vsp8Xtw8WKMDLhEj3mpUNSjcF4QXNDd14O9Lq15LpQVJM6wH5l4E2ppqWVVjNMEnBXFtb5gkIMMVejt8xrMgiKPqDkU.pkg" size="66454656" crc="b681c8c0" md5="a37e90e71a9b779d623ca496acd9d6ce" sha1="2898bfefda81ab3d62dbbd61b309e0f3e54c63a7" sha256="1f1c5b92db729c52054c51ae35faeb692cf0f761d3fae9318a8da83cc1d203c4"/>
+		<rom name="JP0743-NPJB00003_00-PJMONSTSFULL0001.rap" size="16" crc="5cab2027" md5="db57619a8b31f29f6654175c41812333" sha1="ce7487c6f9118c055158af99e3ff5ae3331ccf8b" sha256="23556db50b1f0fdc9206c519720f86f581f95445c5b6eddfc48152bdd71fa160"/>
+	</game>
+	<game name="PixelJunk Monsters (Japan) (Soundtrack)" id="45595">
+		<description>PixelJunk Monsters (Japan) (Soundtrack)</description>
+		<game_id>JP0743-NPJN00001_00-PJMONSTSMUSI0001</game_id>
+		<rom name="a25lfgxYxIFYIlma4bFXqNFAHup124oRuukVuIEK6e5QG5Eg5RN1q1K3V4uLUUd7irghUdMIi5aNnqEGTib9xaWRfSmQYXXQ0wb7H.pkg" size="65493088" crc="bbe4e4d1" md5="8722b59199e207a0c5b37cc273fe6645" sha1="822bf363f5fae0de9d071c7e73d3f8afb5183488" sha256="4057b354828e597711fe7be37994071227e242daffdceff3640e039c901a4e01"/>
+	</game>
+	<game name="PixelJunk Monsters (Europe)" id="13620">
+		<description>PixelJunk Monsters (Europe)</description>
+		<game_id>EP9000-NPEA00068_00-PJMONSTSFULL0001</game_id>
+		<rom name="61kG89J3KlaDWAncAbUKmdI35syEiQ5N8deQDlMyXcOLPEBQsIXkOFDmF8DC1UTpn3LvOLMCok5LG7uKmuu71ABVX7eah705TSa3H.pkg" size="62212704" crc="ddc09b94" md5="8289587c58606c381e46a24962829d23" sha1="9bdd3f980cec8cba79f4c767fc8f831fa8a73f40"/>
+		<rom name="EP9000-NPEA00068_00-PJMONSTSFULL0001.rap" size="16" crc="eda5a74f" md5="d7109d1bdc835df384f13f3cfefc8de2" sha1="7e97f9302f8c75415e5628807a36935d93a46bb8"/>
+	</game>
+	<game name="PixelJunk Monsters (Japan) (Demo 3)" id="13908">
+		<description>PixelJunk Monsters (Japan) (Demo 3)</description>
+		<game_id>JP0743-NPJB00003_00-PJMONSTSDEMO0001</game_id>
+		<rom name="yPIQ4ecdbApP17MXwW8uhQ5Iy1jOUdcxlWUi4mfvg2rNlWxYPhtWMOMJpivTCpSGnf4vGpr1m2C3TXguMiRyrsAcOeLGcnvOh7ElH.pkg" size="66454304" crc="3ef03aee" md5="3e50d2cd3ffb636111933ee217a704be" sha1="05c6d55b370f96bed073b33246b22907ef3f56dc"/>
+	</game>
 	<game name="PixelJunk Monsters Album (USA)" id="45964">
 		<category>Miscellaneous</category>
 		<description>PixelJunk Monsters Album (USA)</description>
@@ -23259,15 +23285,15 @@
 		<rom name="nH436O2nfLUYL5gRborHDhIdQneqDpMypVhNwnC82tDkg5sBWC1O4nDxgYasyrUWM3aATCUteeFGlxeRw7QBLeK0XaPXb4QykVlyH.pkg" size="44332208" crc="b257800b" md5="6d1db1b9e32de0731836f0b478dbc5d7" sha1="1ea201dc9fffae53b9bcfff7ca3c36181da7a137" sha256="3833ab8a7bd69be76fcd8a8626d8705e4e762e223a62697c188b38536870d7b9"/>
 		<rom name="EP9000-NPEA00053_00-PJRACERSFULL0001.rap" size="16" crc="14222cb7" md5="822d5b20bdcb5cba6504416d0f5bb86a" sha1="3909bb8b15ffab48ea427c11e4e8405867f4e483" sha256="7f190ebfa550e365c0ce243d69c93eaa13589a6bd9223a670c1ad6362ca347e3"/>
 	</game>
-	<game name="PixelJunk Racers (Asia) (Demo)" id="18610">
-		<description>PixelJunk Racers (Asia) (Demo)</description>
-		<game_id>HP0743-NPHB00011_00-PJRACERSDEMO0001</game_id>
-		<rom name="08a8sh37QTO202Aes2rlGVjGFyfntffxHC5PxvIDw46pc0Gnmh7WRwdRK9shTOIAEslFGGcX9mHFKGB4rRvVxpAUbfWu904rmLOlb.pkg" size="43577568" crc="e9dafd1c" md5="1a8f5dec7042f165ad86dc56661c2aa3" sha1="8f3cfa5aafbc6237992a0b8d2e9899912a0b4a9f"/>
-	</game>
 	<game name="PixelJunk Racers (USA) (Demo)" id="05473">
 		<description>PixelJunk Racers (USA) (Demo)</description>
 		<game_id>UP9000-NPUA80100_00-PJRACERSDEMO0001</game_id>
 		<rom name="uVJWMEnycbBjMj7ggfIgDmnslGhmQA201QxDp2a9a7Vu8HmWXmmwdEnok0kHj2c68e89UyLtffw6mPQdT17cQ4WuP4pX1xLIXrERX.pkg" size="43593760" crc="b9b51560" md5="232518ca0b6ee3b2f2327b5b181d0f4d" sha1="95734b3a8dcd605b816356d53c306fe1fa88daa6"/>
+	</game>
+	<game name="PixelJunk Racers (Asia) (Demo)" id="18610">
+		<description>PixelJunk Racers (Asia) (Demo)</description>
+		<game_id>HP0743-NPHB00011_00-PJRACERSDEMO0001</game_id>
+		<rom name="08a8sh37QTO202Aes2rlGVjGFyfntffxHC5PxvIDw46pc0Gnmh7WRwdRK9shTOIAEslFGGcX9mHFKGB4rRvVxpAUbfWu904rmLOlb.pkg" size="43577568" crc="e9dafd1c" md5="1a8f5dec7042f165ad86dc56661c2aa3" sha1="8f3cfa5aafbc6237992a0b8d2e9899912a0b4a9f"/>
 	</game>
 	<game name="PixelJunk Racers - 2nd Lap (Europe)" id="05474">
 		<description>PixelJunk Racers - 2nd Lap (Europe)</description>
@@ -32038,6 +32064,29 @@
 		<game_id>UP2045-NPUB30311_00-ABOUTABLOB000001</game_id>
 		<rom name="CJnDjZIcIPWbxfalwceSRIEYMDjhpNjUnFCCpYqTdvUDbvkokxCiLSNTRDrHcnNCaAQuPtkfScqrVPpUPuDJQNuhUgqUkOGCYttaQ.pkg" size="296523792" crc="93636b0a" md5="3bc7fef05e5d6c98205abdc3261c2ced" sha1="347c7c4fda76855fafe11004c2039d2bfc1a9382"/>
 	</game>
+	<game name="Tales from Space - About a Blob (Europe) (Unlock Key)" id="46027">
+		<description>Tales from Space - About a Blob (Europe) (Unlock Key)</description>
+		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000002</game_id>
+		<rom name="rwwsSYOCmzbrztSycMcCuuwyJNjQDoprJsTKFYfnaUQNlwMccxLxGArSnxdcOamy.pkg" size="6080" crc="d400cce9" md5="373b53e54e000791407847853eb4354a" sha1="98d62f1c812ccd61fd77c2ce7f8ee259e464d98c" sha256="5b8967a2bf452eb0ceb0e960c5cc905507b3995edc1709c324f4591f77449c38"/>
+		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000002.rap" size="16" crc="e18fff89" md5="8c80b9ab1eafd35deb0abad7dd66f048" sha1="2fb607f2787cbfce2f6daa8a32db2c02499aa86b" sha256="cc7ca957243b11c3231760ba80202987a31976fb659bc592de66a202d5217f76"/>
+	</game>
+	<game name="Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)" id="41395">
+		<description>Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)</description>
+		<game_id>EP2145-NPEB01902_00-MUTANTBLOBSOST00</game_id>
+		<rom name="xWRaDjwbuWtJNIgRrKsDwtyaWyLZSJzzrKWZkByeJXpurzkkOhDzcQasVkpXNYmU.pkg" size="72720528" crc="a14e0d04" md5="be5d1896e0933ce117f9e0d053f1dbc1" sha1="413955d1fe45ff4b31747e93e1afd74f871236b3" sha256="8521fc4f82852cf26d63b2e4633c8745442ee411dc8c239070282da20bd9241f"/>
+		<rom name="EP2145-NPEB01902_00-MUTANTBLOBSOST00.rap" size="16" crc="6cb9b8a2" md5="5ca7aec7fab3188894a3b2e0e855ed49" sha1="c3fea1c794e839eab572325c3cf946d826176fdb" sha256="afce9ef02f31f1808d32497272e9f228c2787ef8a22635fdfb059efe506b9800"/>
+	</game>
+	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)" id="18781">
+		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)</description>
+		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK01</game_id>
+		<rom name="DJTGEhivRiZqcXykSmXxJUNmbVVzRZdhUnQqEKTACnCfAYeHbgkdrZpCxhMNveRQ.pkg" size="254969072" crc="3be907b7" md5="7490ccbf634b91df885d40938a1460dd" sha1="43477cc3ab7aad0b20f850802331df59c6a83eaa"/>
+	</game>
+	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)" id="19303">
+		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)</description>
+		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK02</game_id>
+		<rom name="oNMyXYBIilABaxbagYBJWFHpPkGhxKruiaQghQOlrmxaDYkJlEqqBXJiqQfJsOiFhwYLtbaADpJKiJPsiFwiuzsSOLHIkKuNurodX.pkg" size="6080" crc="d513dd7f" md5="e061480a62a8ed9d3cabd96da82c43b3" sha1="f6168d463cf5175810c90cca7651e9d101a3d59b" sha256="97fbc5398b051158078ab5962efecf2dc59017cc50082344e3a53ab0a72804cc"/>
+		<rom name="UP2045-NPUB30617_00-MUTANTBLOBSATK02.rap" size="16" crc="8dcfbfed" md5="8d4579dfdc032459c91d9e29f83d20c7" sha1="4319914c4c33db60054e2ef5105577781f623584"/>
+	</game>
 	<game name="Tales from Space - Mutant Blobs Attack!!! (Europe) (Trial)" id="11753">
 		<description>Tales from Space - Mutant Blobs Attack!!! (Europe) (Trial)</description>
 		<game_id>EP2145-NPEB01824_00-MUTANTBLOBSATK01</game_id>
@@ -32054,35 +32103,6 @@
 		<rom name="BBLTEyrHQlTJKsKFaFJMttXKEEVaTszfbotsYNGIkJcEFIihLBxenQIHdcjaNMHj.pkg" size="72720528" crc="4cda9c86" md5="6f8037651649c9e3daa22f7c969d0910" sha1="a835124517dc67b2a882033e0266f7ce76497222"/>
 		<rom name="UP2045-NPUB31380_00-MUTANTBLOBSOST00.rap" size="16" crc="e750f553" md5="0b26bd596414a4f65de402fa7a9ea803" sha1="79882ff5a37bacde345f15de58a7ab70aa6588af" sha256="0af78897ee45d03f4cd83daa61970d84653f62c4242b3c1f97c00b2a97f2aec3"/>
 	</game>
-	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)" id="19303">
-		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (Unlock Key)</description>
-		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK02</game_id>
-		<rom name="oNMyXYBIilABaxbagYBJWFHpPkGhxKruiaQghQOlrmxaDYkJlEqqBXJiqQfJsOiFhwYLtbaADpJKiJPsiFwiuzsSOLHIkKuNurodX.pkg" size="6080" crc="d513dd7f" md5="e061480a62a8ed9d3cabd96da82c43b3" sha1="f6168d463cf5175810c90cca7651e9d101a3d59b" sha256="97fbc5398b051158078ab5962efecf2dc59017cc50082344e3a53ab0a72804cc"/>
-		<rom name="UP2045-NPUB30617_00-MUTANTBLOBSATK02.rap" size="16" crc="8dcfbfed" md5="8d4579dfdc032459c91d9e29f83d20c7" sha1="4319914c4c33db60054e2ef5105577781f623584"/>
-	</game>
-	<game name="Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)" id="18781">
-		<description>Tales from Space - Mutant Blobs Attack!!! (USA) (v1.01) (Trial)</description>
-		<game_id>UP2045-NPUB30617_00-MUTANTBLOBSATK01</game_id>
-		<rom name="DJTGEhivRiZqcXykSmXxJUNmbVVzRZdhUnQqEKTACnCfAYeHbgkdrZpCxhMNveRQ.pkg" size="254969072" crc="3be907b7" md5="7490ccbf634b91df885d40938a1460dd" sha1="43477cc3ab7aad0b20f850802331df59c6a83eaa"/>
-	</game>
-	<game name="Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)" id="41395">
-		<description>Tales from Space - Mutant Blobs Attack!!! (Europe) (Soundtrack)</description>
-		<game_id>EP2145-NPEB01902_00-MUTANTBLOBSOST00</game_id>
-		<rom name="xWRaDjwbuWtJNIgRrKsDwtyaWyLZSJzzrKWZkByeJXpurzkkOhDzcQasVkpXNYmU.pkg" size="72720528" crc="a14e0d04" md5="be5d1896e0933ce117f9e0d053f1dbc1" sha1="413955d1fe45ff4b31747e93e1afd74f871236b3" sha256="8521fc4f82852cf26d63b2e4633c8745442ee411dc8c239070282da20bd9241f"/>
-		<rom name="EP2145-NPEB01902_00-MUTANTBLOBSOST00.rap" size="16" crc="6cb9b8a2" md5="5ca7aec7fab3188894a3b2e0e855ed49" sha1="c3fea1c794e839eab572325c3cf946d826176fdb" sha256="afce9ef02f31f1808d32497272e9f228c2787ef8a22635fdfb059efe506b9800"/>
-	</game>
-	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)" id="22023">
-		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)</description>
-		<game_id>EP2026-NPEB01980_00-TFTBL00000000KEY</game_id>
-		<rom name="vvLKRNJtLzgocJzQctZmKPyTouQjvdszvDSVwrJOkwhGqQoVlpEwodWLgSxOPJUV.pkg" size="2091904" crc="949800d8" md5="f26ba7887847856b3100c28b84171ef7" sha1="dae4683701e86b68a0e5406b7a177fbcac7897a3"/>
-		<rom name="EP2026-NPEB01980_00-TFTBL00000000KEY.rap" size="16" crc="3f0d0b01" md5="1214f11b3a7e04c291bbb28803982b5d" sha1="b0cf1216653aa9d20e4f9c1e4995393f585ea7dc"/>
-	</game>
-	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)" id="28613">
-		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)</description>
-		<game_id>UP2026-NPUB31454_00-TFTBL00000000KEY</game_id>
-		<rom name="dhQqaJaRDpPhbAxYWEzrkYZSIAgvfWbzTThcaekxAvXjYkApgUEVyzzBvtlNCAHE.pkg" size="2091904" crc="754ce2c2" md5="25dbc0fc8ca010b48f199a38da163375" sha1="e965242a96e470a9d4f3e05e7298066247805f42"/>
-		<rom name="UP2026-NPUB31454_00-TFTBL00000000KEY.rap" size="16" crc="449a6f46" md5="fd0aa8134473468836eb4f1473b9e866" sha1="5a71d8f5c89705828239daac11a92862a2f1c198"/>
-	</game>
 	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial)" id="11756">
 		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial)</description>
 		<game_id>EP2026-NPEB01980_00-TFTBL0000000GAME</game_id>
@@ -32092,6 +32112,18 @@
 		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Trial)</description>
 		<game_id>UP2026-NPUB31454_00-TFTBL0000000GAME</game_id>
 		<rom name="eozMMJvBwXfYWVrCQwEjRKGIfGsTrRAHAawLqfUjYyBvYzuIPQUCjTpZnrHfSixW.pkg" size="911721184" crc="2768a445" md5="5982c2eaf4c7dfd1ac91a98c07c32d04" sha1="4ca26aa66aa9dde520607f748907147a33d8bd18"/>
+	</game>
+	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)" id="28613">
+		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (USA) (Unlock Key)</description>
+		<game_id>UP2026-NPUB31454_00-TFTBL00000000KEY</game_id>
+		<rom name="dhQqaJaRDpPhbAxYWEzrkYZSIAgvfWbzTThcaekxAvXjYkApgUEVyzzBvtlNCAHE.pkg" size="2091904" crc="754ce2c2" md5="25dbc0fc8ca010b48f199a38da163375" sha1="e965242a96e470a9d4f3e05e7298066247805f42"/>
+		<rom name="UP2026-NPUB31454_00-TFTBL00000000KEY.rap" size="16" crc="449a6f46" md5="fd0aa8134473468836eb4f1473b9e866" sha1="5a71d8f5c89705828239daac11a92862a2f1c198"/>
+	</game>
+	<game name="Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)" id="22023">
+		<description>Tales from the Borderlands - Episode 1 - Zer0 Sum (Europe) (Trial) (Unlock Key)</description>
+		<game_id>EP2026-NPEB01980_00-TFTBL00000000KEY</game_id>
+		<rom name="vvLKRNJtLzgocJzQctZmKPyTouQjvdszvDSVwrJOkwhGqQoVlpEwodWLgSxOPJUV.pkg" size="2091904" crc="949800d8" md5="f26ba7887847856b3100c28b84171ef7" sha1="dae4683701e86b68a0e5406b7a177fbcac7897a3"/>
+		<rom name="EP2026-NPEB01980_00-TFTBL00000000KEY.rap" size="16" crc="3f0d0b01" md5="1214f11b3a7e04c291bbb28803982b5d" sha1="b0cf1216653aa9d20e4f9c1e4995393f585ea7dc"/>
 	</game>
 	<game name="Tales of Berseria (Japan)" id="41450">
 		<description>Tales of Berseria (Japan)</description>
@@ -32186,29 +32218,29 @@
 		<rom name="EP2026-NPEB00269_00-MNK105000000GAME.rap" size="16" crc="944ff5ff" md5="98fc046a80757c103dc8715d23207221" sha1="43c79990454c8eea502bb789765f5b7d03e84b4e"/>
 		<rom name="qbuaprWKde2ApvXmn7uvry1Bsac3AgSwDuPgCYtr4DijyGcE5f8BSM9lXRuiy680BALgkWbtBXdUcSwwXURIfJt1kY4bYV7PhvDHt.pkg" size="225073696" crc="b20f7501" md5="ae57fd767ada7021e5ef14476cd30d59" sha1="9a70253d701fe817d442cff1aa7db510a42dc433"/>
 	</game>
-	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)" id="11770">
-		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)</description>
-		<game_id>UP0700-NPUB31194_00-TOSRATATOSKHDD01</game_id>
-		<rom name="dXTHLnKqUumYqhUDwfnDnhCjgHDLBWFrqoXbaTnJCPYQqImkGslWRpOhlGpxoqVC.pkg" size="4081356672" crc="8bf8aad1" md5="62dc717647600cd8cbc35eb8f0184431" sha1="1037dffc745cdd957aad5aacee2e8f0b4a4cbc3c"/>
-		<rom name="UP0700-NPUB31194_00-TOSRATATOSKHDD01.rap" size="16" crc="4083a54c" md5="82fe5384da69cf94a3bd2a2ebb41b737" sha1="67f518d2423a87c785167d7433e10ff9b46c13ee"/>
-	</game>
 	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)" id="13714">
 		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (Europe)</description>
 		<game_id>EP0700-NPEB01388_00-TOSRATATOSKHDD01</game_id>
 		<rom name="hFZdrzIlASshCLHRFvwIlSBLBYEpabphmyjxRWYZPRzcuVXzTsNKSMCMXOufWdrgehcoOrkcFIdGCceNqTaCdDHhtHfIyxYjwNPrF.pkg" size="4081356640" crc="b60b85a4" md5="890373562964870ec5975bea24259fbe" sha1="62205995799610ad5cc062fe233b9cfee66071a3"/>
 		<rom name="EP0700-NPEB01388_00-TOSRATATOSKHDD01.rap" size="16" crc="4fb949d4" md5="f36ed0bcab29b84aabe782d4f5208938" sha1="236edb3f4478d7847dc1cc21cb76f39f7727e444"/>
 	</game>
-	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)" id="13927">
-		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)</description>
-		<game_id>EP0700-NPEB01389_00-TOSYMPHONIAHDD01</game_id>
-		<rom name="BPKBoNUZeJtpzxiMdbCckxcodaPjescyjuAHKSJzJlCCTwvQFiXmAyMLFFMXYcnOHMAHeiuPJYemfjJvzwtHfuewAjyqWrugqhOBP.pkg" size="5754887136" crc="565715bd" md5="92e022bf5f22d79834629ea20b803d25" sha1="a120399a7901d1e375ccc23b8c69f9d3a788c263"/>
-		<rom name="EP0700-NPEB01389_00-TOSYMPHONIAHDD01.rap" size="16" crc="94d080f1" md5="d60f423b61d3ec291b44191c6c6a78ce" sha1="7f5611ed0fcda1c89c676752d1973f4f76aeb639"/>
+	<game name="Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)" id="11770">
+		<description>Tales of Symphonia - Chronicles - Dawn of the New World HD (USA)</description>
+		<game_id>UP0700-NPUB31194_00-TOSRATATOSKHDD01</game_id>
+		<rom name="dXTHLnKqUumYqhUDwfnDnhCjgHDLBWFrqoXbaTnJCPYQqImkGslWRpOhlGpxoqVC.pkg" size="4081356672" crc="8bf8aad1" md5="62dc717647600cd8cbc35eb8f0184431" sha1="1037dffc745cdd957aad5aacee2e8f0b4a4cbc3c"/>
+		<rom name="UP0700-NPUB31194_00-TOSRATATOSKHDD01.rap" size="16" crc="4083a54c" md5="82fe5384da69cf94a3bd2a2ebb41b737" sha1="67f518d2423a87c785167d7433e10ff9b46c13ee"/>
 	</game>
 	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)" id="11771">
 		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (USA)</description>
 		<game_id>UP0700-NPUB31193_00-TOSYMPHONIAHDD01</game_id>
 		<rom name="TFxFZLNxNARAdMqQEeNDPGPphHvWdsgwwyTjUZCBTIHjcpBagYIcXerqzMRsvyWk.pkg" size="5754887088" crc="77ec3188" md5="f2d2f6a2e1f22fa14bef688f675f0116" sha1="936810e3bf9e732011e1e38d7e0c703fce5fbc94"/>
 		<rom name="UP0700-NPUB31193_00-TOSYMPHONIAHDD01.rap" size="16" crc="6c3d3f4a" md5="2c03fbbe3f644cc1356f866c885eb877" sha1="10815c22e9abf3a9feb4c62e280796627bcaa781"/>
+	</game>
+	<game name="Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)" id="13927">
+		<description>Tales of Symphonia - Chronicles - Tales of Symphonia HD (Europe)</description>
+		<game_id>EP0700-NPEB01389_00-TOSYMPHONIAHDD01</game_id>
+		<rom name="BPKBoNUZeJtpzxiMdbCckxcodaPjescyjuAHKSJzJlCCTwvQFiXmAyMLFFMXYcnOHMAHeiuPJYemfjJvzwtHfuewAjyqWrugqhOBP.pkg" size="5754887136" crc="565715bd" md5="92e022bf5f22d79834629ea20b803d25" sha1="a120399a7901d1e375ccc23b8c69f9d3a788c263"/>
+		<rom name="EP0700-NPEB01389_00-TOSYMPHONIAHDD01.rap" size="16" crc="94d080f1" md5="d60f423b61d3ec291b44191c6c6a78ce" sha1="7f5611ed0fcda1c89c676752d1973f4f76aeb639"/>
 	</game>
 	<game name="Tales of Symphonia - Unisonant Pack - Knight of Ratatosk (Japan)" id="11772">
 		<description>Tales of Symphonia - Unisonant Pack - Knight of Ratatosk (Japan)</description>
@@ -34707,7 +34739,7 @@
 		<description>Unfinished Swan, The (Europe) (Unlock Key)</description>
 		<game_id>EP9000-NPEA00395_00-UNFINISHEDTRIAL0</game_id>
 		<rom name="LhGUJsQMmrxvIGvjNQBZWwrgdFxCJKBqksPVQIXmzYzuzCqUTcplxthUstTClkxS.pkg" size="6080" crc="a3e473c6" md5="1940c31dc1c4fb282ace93ed72d72ae4" sha1="5ed4b4e09e1a4d45bf0796c451966aedd1718642" sha256="d9c0b6400098dfd2b8f0f3662c2e62bdeaf841bb982d1fdcc78d6f1eff89f808"/>
-		<rom name="EP9000-NPEA00395_00-UNFINISHEDTRIAL0.rap" size="16" crc="69e68dc9" md5="20c0aade8c7b933e277236a9beed758a" sha1="64fd8682e2a0636a269813fe23488066025aa388"/>
+		<rom name="EP9000-NPEA00395_00-UNFINISHEDTRIAL0.rap" size="16" crc="69e68dc9" md5="20c0aade8c7b933e277236a9beed758a" sha1="64fd8682e2a0636a269813fe23488066025aa388" sha256="223e63934627d3576a5aaffd94b4f4f708b107c782e41ff7d6598e6a7f1f0122"/>
 	</game>
 	<game name="Unfinished Swan, The (Europe) (Trial)" id="00823">
 		<description>Unfinished Swan, The (Europe) (Trial)</description>
@@ -36644,6 +36676,13 @@
 		<description>Yakuza 0 - Chikai no Basho (Japan) (Location Demo)</description>
 		<game_id>JP0177-NPJB90764_00-RYUZEROJAPANT100</game_id>
 		<rom name="JP0177-NPJB90764_00-RYUZEROJAPANT100_bg_1_115407a58aa4b0115a4ce0b4975c759464a4233d.pkg" size="4757235920" crc="5ad6e00c" md5="bccf24b7fec87327619b8a9f0120e075" sha1="d789e910461ab72e848791b0f82047659496faca"/>
+	</game>
+	<game name="Yakuza 0 - Chikai no Basho (Japan)" id="46026">
+		<category>Games</category>
+		<description>Yakuza 0 - Chikai no Basho (Japan)</description>
+		<game_id>JP0177-NPJB00684_00-RYUZERORETAIL000</game_id>
+		<rom name="JP0177-NPJB00684_00-RYUZERORETAIL000_bg_1_2eb62e0dff7e7038a58fd25c5291c9ae9918aaef.pkg" size="24329219712" crc="235ca883" md5="c38d1165941a5191e826ca8e5733a4db" sha1="67837a82b90f1307b6ade52c8a34c0d12691749f" sha256="c1926f7f67f44359799766a1f60d8621dbb4402395f4137107cce13ca3bce3a7"/>
+		<rom name="JP0177-NPJB00684_00-RYUZERORETAIL000.rap" size="16" crc="dfb2baf0" md5="92a53b69b0def220708778a4fc776333" sha1="3ab8079584c52b68bbe39217655f9b77d5008c0c" sha256="0f0508e27415ce804a4375d7030da1128f5aa86db4d494414f5e04809f2ea7be"/>
 	</game>
 	<game name="Yakuza 3 (USA) (Demo)" id="13113">
 		<description>Yakuza 3 (USA) (Demo)</description>

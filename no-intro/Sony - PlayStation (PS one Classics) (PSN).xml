@@ -4,7 +4,7 @@
 		<id>133</id>
 		<name>Sony - PlayStation (PS one Classics) (PSN)</name>
 		<description>Sony - PlayStation (PS one Classics) (PSN)</description>
-		<version>20260612-220555</version>
+		<version>20260613-223534</version>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1995,6 +1995,13 @@
 		<game_id>JP0067-NPJJ00746_00-0000000000000001</game_id>
 		<rom name="IOujZZmCSYFlaKrlLcMbIBMmUvfInAQEjedRArfCBboXdHqqBVrhSnYgsoOoVbUoLckFJlYNSomLJOtAxwKtQKtypzBPsUwPEVFZC.pkg" size="278808528" crc="458b49d6" md5="ee7384780d777d3dfbcbe94c973cd2c2" sha1="af6a40a706d0f08063568d30bce20abc1fb55155"/>
 		<rom name="JP0067-NPJJ00746_00-0000000000000001.rap" size="16" crc="14f97dae" md5="629ada2d28ffe992d4662333306893a7" sha1="18241352c503e01e0ee57380f4885b0ee774de3c" sha256="1fbfe3579e9ff22563e35215e7aa7471e5d3f8c1f6583b6d56195bbd05b17882"/>
+	</game>
+	<game name="Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Japan)" id="1476">
+		<category>Games</category>
+		<description>Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Japan)</description>
+		<game_id>JP0404-NPJJ00594_00-0000000000000001</game_id>
+		<rom name="LEfVpUGZtwfDwiGJIqxmPwOifwMRLvrSNvmXmejzqwxRIwSIWItLLvXVYvnLpSwqQWJVOBsKZSbIjmZhQIHsDAwBcBpKXVjWWzlmq.pkg" size="197006176" crc="7ef2ac52" md5="f1b343a7b6cc939dfd0db467ae527e1e" sha1="4e5995489e07b3ca5a1d338e4cc02841e9eb863c" sha256="a9958583b670f8bb7876878bf1a7b61ba4cabae1e9e8be4e1f008fc27358d027"/>
+		<rom name="JP0404-NPJJ00594_00-0000000000000001.rap" size="16" crc="81d5f1ca" md5="bc2ae28cc792a1526744ea92e11a3927" sha1="85273f2ef1aace7a78604c4b1641d9b473cf3fa2" sha256="c6f3bfd296708005ce9dc2937381adf1d927188843885f7e48bcf281d9a8b2ab"/>
 	</game>
 	<game name="Doki Oki (Japan)" id="1271">
 		<description>Doki Oki (Japan)</description>
@@ -8165,6 +8172,12 @@
 		<description>Vib-Ribbon (Spain)</description>
 		<game_id>EP9000-NPEE00044_00-GVIBRIBBON000SPA</game_id>
 		<rom name="NnIFPvddOnrQbpCCkhnYrkiYtTtDlXoiaVXDXMJzNzljNXbTsMUKtBMfPdgZqZzG.pkg" size="26794864" crc="e85d885b" md5="fd37d6f9140f2b3a26582d9ed6bccbdb" sha1="c427f89c538776a749335e61b5298c11239badbb" sha256="a49a96f5dbe510434c4a28f94970e08158d67d7315871b684f09c36d6bb80237"/>
+	</game>
+	<game name="Vib-Ribbon (Italy)" id="1477">
+		<category>Games</category>
+		<description>Vib-Ribbon (Italy)</description>
+		<game_id>EP9000-NPEE00044_00-GVIBRIBBON000ITA</game_id>
+		<rom name="VkYhOSdsKnsOkZrNfJZeZxtNmlpBXEpUyATlQnpUXolxaqsSzvBDovqSFbncPvsY.pkg" size="26794576" crc="bbc61293" md5="793d56da559cc8a07dd88ebde39a25fa" sha1="facd9a7a04582d62d5befc2e89cab12194e0af1a" sha256="cad58124c3024661669c90d9e4d6b2255ee2e3f6c8669f64ef90ac027696b3a9"/>
 	</game>
 	<game name="Vigilante 8 (Japan)" id="1030">
 		<description>Vigilante 8 (Japan)</description>

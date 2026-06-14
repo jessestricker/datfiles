@@ -4,7 +4,7 @@
 		<id>443</id>
 		<name>Sony - PlayStation 3 (PSN) (DLC)</name>
 		<description>Sony - PlayStation 3 (PSN) (DLC)</description>
-		<version>20260612-222131</version>
+		<version>20260613-224500</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3366,6 +3366,12 @@
 		<game_id>UP0001-NPUB31244_00-ACLIBERATIONHDUL</game_id>
 		<rom name="AlDHzCiAWyBdfnSjASHiHDXKJPwTKYxuYAZMhPldBAtLiuSPuXLKOzdObhLwcVtf.pkg" size="102400" crc="e066c402" md5="98976da6db88710a879c9a1bfeae8f14" sha1="e38588aaab64e6648896fdd4552c01f9da4c5c2e"/>
 		<rom name="UP0001-NPUB31244_00-ACLIBERATIONHDUL.rap" size="16" crc="ded6b22c" md5="d7d34e37c10078d57f2cad7016741f7d" sha1="89c0b07365eb41a9713c32d6199e3fee630a3ab3"/>
+	</game>
+	<game name="Assassin's Creed - Liberation HD - Bonus Pack (Japan) (DLC)" id="23754">
+		<description>Assassin's Creed - Liberation HD - Bonus Pack (Japan) (DLC)</description>
+		<game_id>JP0001-NPJB00562_00-ACLIBERATIONHDUL</game_id>
+		<rom name="JP0001-NPJB00562_00-ACLIBERATIONHDUL.rap" size="16" crc="d274e672" md5="78602f8bbdc190f2a5dad3b08f422b42" sha1="7a34f74c677f2b006f6f81129b9102588c5b8d56" sha256="83dfa12da055a1ca3708ed4c37a99099e2ffc503105747ca9fc720089e4f8ed2"/>
+		<rom name="RsLDBHBFQpJIUZeOcbneVPlLlecOXdOmahdPoyDmwsgxQyDUWHlfCSQYQLZllGFDcfnSzWXxHZYiENQfzpZHidMXcDelBJUFYBbaW.pkg" size="102400" crc="c1cab828" md5="511e35d0e7e0cb7f10261b86f79067e5" sha1="c9edab6d7ba943b02d38b6faa204172a6846300e" sha256="b329103cf6f7bf28da39a93b20086e045d9ff84a028715244e4d30a1dd300339"/>
 	</game>
 	<game name="Assassin's Creed - Liberation HD - Bonus Pack (Europe) (DLC)" id="23021">
 		<description>Assassin's Creed - Liberation HD - Bonus Pack (Europe) (DLC)</description>
@@ -9046,12 +9052,6 @@
 		<rom name="TVQRfpiN6WR2c88JGBMjcC2EhppRF01UeQTIghtkjp5avlE7S2ragLKFuXc9FNySArJNsX3tAralaeRAtyyYHJhs7Mn0kvrfVfLD7.pkg" size="157384192" crc="9e36a1ec" md5="c91f02957235290afd9c38bf45108eef" sha1="34ba4c734e8829902984a5875a5da1239a1e7bd7"/>
 		<rom name="EP9000-BCES00098_00-BQC1POL0021PLSTN.rap" size="16" crc="615e2414" md5="5948c0d7add85697e02d6792ef469edb" sha1="30555e7a23bcb83d96714cd3cf8fa6585e1abc30"/>
 	</game>
-	<game name="Buzz! - Quiz TV - Polish '90s Quiz (Europe) (DLC)" id="23117">
-		<description>Buzz! - Quiz TV - Polish '90s Quiz (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00195_00-BQC1POL006590SQZ</game_id>
-		<rom name="H3DkPYHhV7xEsx2AJiVkHDIAtBqwvmsOgc5JBIiYo09aU75MAEE3m4NRpySJ0yAVs7ocWC4lrrAQA60X7Pj6JmH3hRL46VOkwVxmR.pkg" size="54742368" crc="107391cc" md5="adb9b14284dd9a216070c21358e42f85" sha1="88b8be43dd2ad24d8be4b9cea3404cbb4da3ac3b"/>
-		<rom name="EP9000-BCES00195_00-BQC1POL006590SQZ.rap" size="16" crc="0205439e" md5="5f6d9dc62aa981fc3f432026b49d97b3" sha1="9fa50524f7b669d957df67a3604c819be16a3d5d"/>
-	</game>
 	<game name="Buzz! Quiz TV - Celebrities Quiz (USA) (DLC)" id="20930">
 		<description>Buzz! Quiz TV - Celebrities Quiz (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98145_00-BQC1USA0064CELEB</game_id>
@@ -9116,6 +9116,12 @@
 		<rom name="ny2iYG64CcPMGvaQPow0Kb92rGTJTTDMtdkPqrskhg4LkW8RW2bikG2KYOvSGrPKQkg9DtP5o4XU2ESMxfQoECtJkHilbpHfWVs5x.pkg" size="61961584" crc="7e8766da" md5="77517b56572ce7e2b07f7a7f058f2f11" sha1="008bbfd626f7ff44446a1af7d219d8f0be006001" sha256="b6d5d7d44e4c4b9da230081e54fd71e82cace9b5d6853120b9fd9e3e0b4abd49"/>
 		<rom name="UP9000-BCUS98145_00-BQC1USA0060NGKID.rap" size="16" crc="762a61e5" md5="2ecbfab142d09975a89adabc27954978" sha1="22ebaee7c255a8b3c305f54540646b40a550a7df" sha256="094809fd1607aa72dcd24ee0e8d202862b1f981073a8d65269a4d7e3737859cd"/>
 	</game>
+	<game name="Buzz! Quiz TV - National Geographic - Kids Quiz Pack (Europe) (Fi) (DLC)" id="23460">
+		<description>Buzz! Quiz TV - National Geographic - Kids Quiz Pack (Europe) (Fi) (DLC)</description>
+		<game_id>EP9000-BCES00098_00-BQC1FIN0060NGKID</game_id>
+		<rom name="EP9000-BCES00098_00-BQC1FIN0060NGKID.rap" size="16" crc="e26a8bed" md5="c39caa63ce4442378996fd6668c7202a" sha1="41cdbf9b8ef3ad24a3c461f2415277fc73fdcee7" sha256="47d32e4681adbe986204f47539f6c09374c0ee5e40c08849d09907f87582af38"/>
+		<rom name="FBWeSqXbbykOfqABKRI6lVseqfcxt5t7LE4k0lrqdxqUQrxvApJSB09QxI7Ea10Dn2Bf1XEQ2nyomsm17GKkKEENrKiYkvuRim4cB.pkg" size="58843200" crc="c4317121" md5="8f003de293ffcd71f3cebe0e9e32372b" sha1="9887713c8a04f7e5f09c1c99059ece834f9e9d92" sha256="9e8ded2877f3fae1a507fe35bd3cee217cd378d731171c3b610f1555320ad0c4"/>
+	</game>
 	<game name="Buzz! Quiz TV - National Geographic - Prehistoric Pack (USA) (DLC)" id="20924">
 		<description>Buzz! Quiz TV - National Geographic - Prehistoric Pack (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98145_00-BQC1USA0031NGPRE</game_id>
@@ -9133,6 +9139,12 @@
 		<game_id>UP9000-BCUS98145_00-BQC1USA0025NGSEA</game_id>
 		<rom name="3SgwY7KpQ1RTh6PG4kI5j1kJq0qwmabVeQK1WevjWutjlpN0q6DhWQYxlv0UyTYbIFej7h2dcjq8X6UPqNA4FijOlY5lb5tordWmq.pkg" size="356374016" crc="2523d617" md5="6554ded9acc26b80fbf92cc6a0cdc240" sha1="69b57a3ea0fa854aa73282b7148ab31615104fe7" sha256="be575f89867342a2bc6123e1eab8a79c2c3d9639a147a71fe95a55bb0cd58df0"/>
 		<rom name="UP9000-BCUS98145_00-BQC1USA0025NGSEA.rap" size="16" crc="f69b745a" md5="2e855147ca96e80236f2f4185e7b7ca9" sha1="27236bf362a4583ece9531863d85442c1734bb77" sha256="3af7ed3ee3ebdba8401e65c02c8f716c685ee7f77e07a2996d79d12eb3258540"/>
+	</game>
+	<game name="Buzz! Quiz TV - Polish '90s Quiz (Europe) (DLC)" id="23117">
+		<description>Buzz! Quiz TV - Polish '90s Quiz (Europe) (DLC)</description>
+		<game_id>EP9000-BCES00195_00-BQC1POL006590SQZ</game_id>
+		<rom name="H3DkPYHhV7xEsx2AJiVkHDIAtBqwvmsOgc5JBIiYo09aU75MAEE3m4NRpySJ0yAVs7ocWC4lrrAQA60X7Pj6JmH3hRL46VOkwVxmR.pkg" size="54742368" crc="107391cc" md5="adb9b14284dd9a216070c21358e42f85" sha1="88b8be43dd2ad24d8be4b9cea3404cbb4da3ac3b"/>
+		<rom name="EP9000-BCES00195_00-BQC1POL006590SQZ.rap" size="16" crc="0205439e" md5="5f6d9dc62aa981fc3f432026b49d97b3" sha1="9fa50524f7b669d957df67a3604c819be16a3d5d"/>
 	</game>
 	<game name="Buzz! Quiz TV - Quiz of the Year 2008 Pack (USA) (DLC)" id="20923">
 		<description>Buzz! Quiz TV - Quiz of the Year 2008 Pack (USA) (DLC)</description>
@@ -9170,6 +9182,12 @@
 		<rom name="Hy6S0SiUmuAjnvguwM55arVVDY4yVmeJJRwvN6rmPKcAPvXOgrFhBqW5eDvgK8Ds6j6hpIUuDlJgpxpBjSLU4OT7XJDex4RKX4dTd.pkg" size="204290448" crc="f3c5439d" md5="6545df8b5fd70ee9d7437efdc9765f7f" sha1="ef55da6f75c543c82286b40636228fc89fbf2d84"/>
 		<rom name="UP9000-BCUS98145_00-BQC1USA0016SCIFI.rap" size="16" crc="3265164a" md5="37b7b3ab6913e39ace34c74069f866c6" sha1="f5025d402e37afd9fb9c6551162b976d0e2eb381" sha256="56aa9669fd89f2b8997332a19af3228bbbf5ed5daff267f04d66507d6a6639e1"/>
 	</game>
+	<game name="Buzz! Quiz TV - Sci-Fi Pack (Europe) (Fi) (DLC)" id="23458">
+		<description>Buzz! Quiz TV - Sci-Fi Pack (Europe) (Fi) (DLC)</description>
+		<game_id>EP9000-BCES00098_00-BQC1FIN0016SCIFI</game_id>
+		<rom name="EP9000-BCES00098_00-BQC1FIN0016SCIFI.rap" size="16" crc="8ba6b5b5" md5="0c20b816b36e83f6a32ccddacb6632e2" sha1="03d163c7ea743285ed991fa47528a5704ec18964" sha256="cc59cf4f8b659d41a64a50b8c73641b0aab3f264a695ad41b2e3fc7d8d5dcb92"/>
+		<rom name="2wSoRp0mH9Acuhnv6BqkXmagrkuaagSHmGAO4ipU61FVIqjbysqBBaKyfdk95Pl5pGbNJGRDdXIoeeWk5OHyVjA4owYTtUk8jaiod.pkg" size="202206000" crc="77b0b15d" md5="a51b64202faf5ea9976bccab294e01fb" sha1="f838f012616149861ae4144f5188eaad56808f14" sha256="233ea1335aeb466c936a2922deaa52b1aa21233c50c81290da1a22e738eb8ca0"/>
+	</game>
 	<game name="Buzz! Quiz TV - Science-Fiction-Filme-Quiz (Europe) (DLC)" id="05766">
 		<description>Buzz! Quiz TV - Science-Fiction-Filme-Quiz (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00098_00-BQC1DEU0016SCIFI</game_id>
@@ -9182,6 +9200,12 @@
 		<rom name="Q62Gm57eEjnNmiYKHrD1AFCEDluTYD57cxl0gs5Cvhavu3iHGTFS8b6N09bCqrYSXxhIf3ylGLacQ7MgMgiiPEljpxCbkoSWMNJOo.pkg" size="61934720" crc="ba910f5d" md5="0ab428b2e22f20846bd0a6d266f2fd42" sha1="b6d562ab43fca8e715e60242a1ed0e44ab20454f" sha256="3351ba8d259a40a203234b56a9b25bc76cd72b755243859e383d1508cf9ba747"/>
 		<rom name="EP9000-BCES00098_00-BQC1GBR0033SPACE.rap" size="16" crc="1027c40e" md5="894045dc060c86f1f4d17a056e315088" sha1="651bcb3c6d9830184d48f5b3b484f265e445ac20" sha256="ffe8be048c84e2459abd35a6577f2a292f431339a35dbed7335bdda7e7d000da"/>
 	</game>
+	<game name="Buzz! Quiz TV - Space Pack (Europe) (Fi) (DLC)" id="23461">
+		<description>Buzz! Quiz TV - Space Pack (Europe) (Fi) (DLC)</description>
+		<game_id>EP9000-BCES00098_00-BQC1FIN0033SPACE</game_id>
+		<rom name="EP9000-BCES00098_00-BQC1FIN0033SPACE.rap" size="16" crc="9eb5ae16" md5="cb3511e8898a35edfa3870ebbfb5de6e" sha1="187832c3924adc70f0d7a0bb281cd2ae5122ad9d" sha256="ceb428249f8fe99ca6e15d56958c17ab2c487e7d3bcb4ac7a9d6255d7238d331"/>
+		<rom name="fSrOmmC7GP89yhuX1mdIAy8hCiE3e0dqaNe0DmvR7Bi8lB4fPoRyy1xkPM0w0GjSV6pw24Lc7FLdrMmsdxOoXMROUf3jly2evH3iM.pkg" size="62193248" crc="34c09a93" md5="7e1100ddab461703bbff30cdd6635255" sha1="0e21325b3bd824e24fc75da3de7eac6f0809ea73" sha256="33c4af8df5834d5be521f73fc9df43181a77ac2c32c4876e91ec4378b699c56a"/>
+	</game>
 	<game name="Buzz! Quiz TV - Space Pack (USA) (DLC)" id="20925">
 		<description>Buzz! Quiz TV - Space Pack (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98145_00-BQC1USA0033SPACE</game_id>
@@ -9193,6 +9217,12 @@
 		<game_id>UP9000-BCUS98145_00-BQC1USA006100SQZ</game_id>
 		<rom name="KlH2QTdmmnUFrjjXCCNmkFkYbM7SyRysybk6YJnHa3HlTsXS3WG4XF7kvhuAjfnORgCXYM27WpJKqC4K0BxcJeAVV9TTONGIMLpHe.pkg" size="47597392" crc="9f93b9e8" md5="4d1e01eeb148b932b5eafff1a5b390f4" sha1="48ccd422a1f948d380c617fe5434dbe4f844460c" sha256="da54e2d9d9846fc20055ea7f646582be4a3cf25d92c45fe400ca81c01695bdf4"/>
 		<rom name="UP9000-BCUS98145_00-BQC1USA006100SQZ.rap" size="16" crc="6fdc9b4a" md5="df0a91c9a4e7d4bc3e76b424bf00d983" sha1="9d563b4472e6fc379d462b1768cde7e04d1d3e72" sha256="04f7d96992c21d1b2e9fd42c399b5afc64284636c450cbe4c0e0475e99707441"/>
+	</game>
+	<game name="Buzz! Quiz TV - The '00 Quiz Pack (Scandinavia) (Fi) (DLC)" id="23462">
+		<description>Buzz! Quiz TV - The '00 Quiz Pack (Scandinavia) (Fi) (DLC)</description>
+		<game_id>EP9000-BCES00099_00-BQC1FIN006100SQZ</game_id>
+		<rom name="EP9000-BCES00099_00-BQC1FIN006100SQZ.rap" size="16" crc="0c68f700" md5="c40c8ebc3f9c817baece5df560766c62" sha1="a79f5fc3a95c395c0776cc25a5b242e1c4cc9986" sha256="99343ec97f0df26df42e568066075f972992360cbe3248a06d89a083db025773"/>
+		<rom name="wcyT1RQrsOhItI03r4EigBHqDnNfSM0v9GgXqqwlNkTHdBlB7wGJDyMQqwHL1bA69CoC6TCK0d5G4y0K7UPlO17Gay6fMuy6IJHxH.pkg" size="48166992" crc="32fb5b53" md5="b8f78d9f829e1d5cf682ae6b3b5451f0" sha1="b5e406ba7eb7aef3af9ddcd425fb75e26e115a2b" sha256="a014a03b29292a1fcc58c927ea9d0df0e9ec742b8f401cdfc3772687a274e063"/>
 	</game>
 	<game name="Buzz! Quiz TV - The '00 Quiz Pack (Europe) (DLC)" id="05780">
 		<description>Buzz! Quiz TV - The '00 Quiz Pack (Europe) (DLC)</description>
@@ -9247,6 +9277,12 @@
 		<game_id>UP9000-BCUS98145_00-BQC1USA0023VIDGM</game_id>
 		<rom name="eO5Plynq8RYi5QopcXUxwQ9wHCYwJkdA0eJ2OVXUeWpycyP0JfrOKBqf3AD6IrUofiQP4idmtdwENPEXT99Hx804VxnjXmHQEahc5.pkg" size="124450384" crc="f539d0d4" md5="ea1d107a39f88574528596ae9b616856" sha1="f10ab3606fdcfde2bd800528f71428f1a1f6bc75"/>
 		<rom name="UP9000-BCUS98145_00-BQC1USA0023VIDGM.rap" size="16" crc="b6acd3f7" md5="76ca6cd919ca7a492639173685eeffa8" sha1="b24264b2f46d44b81eb54cbc7fbd8fd5880b4e2c" sha256="a06546540252ddf385e8a228abf39ee04241e196d2301cba3f5d7e56308a2e7d"/>
+	</game>
+	<game name="Buzz! Quiz TV - Video Games Pack (Europe) (Fi) (DLC)" id="23459">
+		<description>Buzz! Quiz TV - Video Games Pack (Europe) (Fi) (DLC)</description>
+		<game_id>EP9000-BCES00098_00-BQC1FIN0023VIDGM</game_id>
+		<rom name="EP9000-BCES00098_00-BQC1FIN0023VIDGM.rap" size="16" crc="bbbc4543" md5="feba5daa703abd089aff22447706673f" sha1="57b9763b3aa3734bbbb62972f1163325a82067e5" sha256="5f2e03361e493f1f91b2a8526e3bb4c07e86f40d8cc6491684bb5191642bca27"/>
+		<rom name="qpAcws4myrs3RHAJqnphUFeXKR3upNVDxfn6YV3Ai6NAtqyoAfsV63q1V7rk1eu4FJcBf6w8xcgTJim732AODY3BnEfls7g28gYmD.pkg" size="155029760" crc="c810aabd" md5="e4b6dfdb6116b9650c3ae0dbac2504d3" sha1="64c586a898c3a2e2cb7523c9728812179db3422b" sha256="6fa44fe76640728d20d0380669c07ccb79b12d566c1b6bba9870527248b58327"/>
 	</game>
 	<game name="Buzz! Quiz TV - Videogames-Quiz (Europe) (DLC)" id="05768">
 		<description>Buzz! Quiz TV - Videogames-Quiz (Europe) (DLC)</description>
@@ -13038,6 +13074,11 @@
 		<description>Cars 2 - The Video Game - Daredevil Lightning McQueen (USA) (DLC)</description>
 		<game_id>UP1082-BLUS30725_00-CARS20000CAR0007</game_id>
 		<rom name="nsikYRTOedbsINZvFMAaJQPhfkFHJkbBWHMlucVmZHAAlTYEoJJkjLJUNmHCnejGUxvnojvOvADTEORCRjLmtqVbTZNFFEyxJxxSq.pkg" size="5337296" crc="adddba43" md5="af7baefe2ba790b5ee6c113b0d7244b4" sha1="2a23fa0e2288d512305e15892ed932d6e3d8965b" sha256="baf824953b2f6b5e8ab273168e891a0846fb7ef33fc9b9987137c27577f564aa"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Flo (USA)" id="23942">
+		<description>Cars 2 - The Video Game - Flo (USA)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0011</game_id>
+		<rom name="znttxbnpLqYVOJGmIoBpCtCWwkerxUsIcvHBViVFGfkdfbaSZRpkYUdtGHRiotpFBwqPjkgEYYfQUyTuynXtbTMeNDtrxgqeQkoOi.pkg" size="35296640" crc="ca30e8f4" md5="51b8621c3a29c103e04288c4625ce8a3" sha1="0713dc27bccc76d335b0d45ac5051abc2fc0a0ae" sha256="69145b8c5d3851ade50b71038b381bc3842b6eae103c5f904d2641b971c7fd5e"/>
 	</game>
 	<game name="Cars 2 - The Video Game - Mater The Greater (USA) (DLC)" id="23440">
 		<description>Cars 2 - The Video Game - Mater The Greater (USA) (DLC)</description>
@@ -25454,6 +25495,24 @@
 		<rom name="RUhudegikAVIfkodfrCINRQfjGTRrialIKGueHUctKAEaQJHdCgubONohxaZrXLOzFCmiTExraSJHTVajHXcVGnIfAMoZslOsDcKL.pkg" size="9378128" crc="704bccc0" md5="438e61b55d134ce8231ec0184d43ce2d" sha1="c00fef50b18b35e7f4186c8e2659db934310e23c" sha256="64915e76529304ce2c2dd2333a5e7f9cd2397a0423118128ecfb9ca302eb463c"/>
 		<rom name="HP0106-BLAS50308_00-SM6DLC55BGMSET15.rap" size="16" crc="9604215e" md5="c3d79c166105d82b1b8a33949c6b88d0" sha1="364dfbf6d4bdfbfea8e6e462d86ee43ebf9568f4" sha256="120d9e88462e2c9e667262c0b5acfb4b758882d65c9adcbc00c6ab1cee931eaf"/>
 	</game>
+	<game name="Dynasty Warriors 7 - BGM Pack (Europe) (DLC)" id="23883">
+		<description>Dynasty Warriors 7 - BGM Pack (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC22BGMPACK0</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC22BGMPACK0.rap" size="16" crc="53129a55" md5="1353b754b6c7663324b31b24a54e38b5" sha1="52a38adb5c60aa736b4ff9d782be1061de19febe" sha256="e004a74c2c59459f8548bc4ba6dfdc40d8c46f9a5ebb118c6905db4e8d4f620e"/>
+		<rom name="ZPJXCcLFtKUmUGkhHdYDZRsYCuVVccnKUFqYKmUxWJQPadopdCInzePTXojwQHYB.pkg" size="52968224" crc="ccadc28e" md5="80366715893bfd025978323ffefe3a6d" sha1="31a2d9bca07abe93431b7064060000d36bf60bd7" sha256="906c533e1fbaccc563dbe9e0ff6e3707c0124b72e8336285c835f5ddf86d8b94"/>
+	</game>
+	<game name="Dynasty Warriors 7 - BGM Pack 2 (Europe) (DLC)" id="23859">
+		<description>Dynasty Warriors 7 - BGM Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7BGMPACK000002</game_id>
+		<rom name="EP4108-BLES01149_00-DW7BGMPACK000002.rap" size="16" crc="45663a1f" md5="629cbe5b2e07ddeb259f522eee095459" sha1="33fe02ccf5f618fa4d9b30e8a445d57983c742bd" sha256="4c63e8a1f91352a22218750ff4b8a600e1cac1409c1803fc047ad4a57218921d"/>
+		<rom name="dTvGyEjdFrTBVlywpdljZtrRbBHikVpZZnACWqPOdMbolwiUxcYOMbwuIwoJJZGH.pkg" size="43729600" crc="303ec3e8" md5="6d40d67e640c788e6bcb33a10cca3cda" sha1="d3a3fd32e0fd97a30c63509c03e829e05bb74b7b" sha256="d022390c810bb8bc282a55e62976abea2e3e9e7f6fb2fb6850b3c043f1a26ef0"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Costume Pack 1 (Europe) (DLC)" id="23873">
+		<description>Dynasty Warriors 7 - Costume Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC03OUTFIT01</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC03OUTFIT01.rap" size="16" crc="c855407a" md5="3a33e66bb9e627d8a4a7147c6ed2bb06" sha1="d955f7aee1381f7242dc48fc3d3aa05297c91b39" sha256="127452e4b187b647234d2ae23cf9fed300b954531665a96a2adbbb7d2e12ac7c"/>
+		<rom name="AyLXxUMUpAVFPcuaXTRqKGEuqwybQvwvtftlMcXyPKVgBMaBkUghylHkhMlhMbpQ.pkg" size="98861856" crc="c158781b" md5="f5c400a59f87a490483f68df896c347a" sha1="999a0b392820400aa50112fe95cbd0a5a9146d92" sha256="3e0ab9904e0787a5e763f56ded3d69509d14529cae5c11287fbc64b18ece796c"/>
+	</game>
 	<game name="Dynasty Warriors 7 - Costume Pack 1 (USA) (DLC)" id="19951">
 		<description>Dynasty Warriors 7 - Costume Pack 1 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7COSTUMEPACK01</game_id>
@@ -25464,6 +25523,24 @@
 		<description>Dynasty Warriors 7 - Costume Pack 2 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7COSTUMEPACK02</game_id>
 		<rom name="zWCGmdUZeTaJzaqxRDsxkOywZKYWtAJSgcfIZQoVKlRmCMXjRTLOleHCVQxfhPvjHxTNdbYvYpZVARjhxMHfFQDnSclIhxfVqshfx.pkg" size="95626304" crc="81177429" md5="c3ff0994fb519d3430a22a09a42a44ea" sha1="6fc699404b1521afef7f8df23c3774c01a343dec" sha256="d71effb40b73ec91de3a6dbfd620ab2c9d160a1762d60903b274c09443e6efcf"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Costume Pack 2 (Europe) (DLC)" id="23865">
+		<description>Dynasty Warriors 7 - Costume Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC07OUTFIT02</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC07OUTFIT02.rap" size="16" crc="d55b1d32" md5="7f088730d2172b76d1c87f8057c22284" sha1="21fc40db1c99e52666e2e5234fa6e69496520339" sha256="6151fcfdc6eeb3b5ffe82cf5243f50f5d599d63b8234f43a1498546621610e82"/>
+		<rom name="kvObWgtzJwXRZSNIggjDUDmRWqtnqqeVwOMVaUCwgrJYqkhuIHQpdFQhxbSHKOlY.pkg" size="95633920" crc="7416d37b" md5="3c1670eecd2167db919c6e8c203bd890" sha1="d9727bb1e514197d523065ffce248d1a419ac5c1" sha256="0937b887f0bcf8788d167ef0b276040e17e937d51ef2f73a519851e4cfea0bf1"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Costume Pack 3 (Europe) (DLC)" id="23871">
+		<description>Dynasty Warriors 7 - Costume Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC13OUTFIT04</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC13OUTFIT04.rap" size="16" crc="05ef9bbb" md5="cbfb26a1a7ad5d540f89c8899ef5fcc7" sha1="5d22a6a7b5fcfbd135bdaffd3fa6a61cd234620f" sha256="bbb09c1ab7fc8ce9d117e29feedea278c7ef73f799bca380625dfd1ecf350503"/>
+		<rom name="AxgkpBrFRMvuRUeOHOLvPyMYvzmQnhkKTiayLGgkArhLeNXwwxczwybuSDVuMRBx.pkg" size="98450544" crc="fd0d3608" md5="7f1946cb7f4bceee172b08b35fd98f19" sha1="2be73b92132c120f7f2a7935cfa19d213e101243" sha256="1b8cc95f8f8db3f4abf5a88226668a3dec0181fd648224b4d6e7aa28477cd862"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Costume Pack 4 (Europe) (DLC)" id="23877">
+		<description>Dynasty Warriors 7 - Costume Pack 4 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC19OUTFIT07</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC19OUTFIT07.rap" size="16" crc="df35edbf" md5="d3d45ea11645489c417f28725a4a66f8" sha1="91cc1f146d50b18077964d9ba6c36c2f7e65a34f" sha256="7bbb3ed11a1de3cb6cab36dcb53927ef1d520a778faec3a84eff4a18eda089af"/>
+		<rom name="fewXZAaTYoBqYEIROWoBrujnqOsOmUzPQfTOKrElgRgKIhQaTmzNYQImyYupJEAV.pkg" size="102178144" crc="7e258a0a" md5="44d177fcb2626c9ff11de276fbf8444c" sha1="7f9830ed60b648c4c7b08e1c5998eb6f052ef6d1" sha256="39a99caa348fa98dd77fac3344607222fa541cd87e5a666e6c596865de0c4f09"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Dynasty Warriors 4 Costume Set (Asia) (DLC)" id="07736">
 		<description>Dynasty Warriors 7 - Dynasty Warriors 4 Costume Set (Asia) (DLC)</description>
@@ -25939,10 +26016,64 @@
 		<rom name="sVmkKohjExglhJdmxpkbFtvdUumCdOKbXEHCRnuWyPdtkkdfglaavgXYOFjSMuGf.pkg" size="1763976368" crc="e86e2310" md5="8dbef2e6456fec4347f1f4fdd10229a3" sha1="22d55cb7ab8ef6398709f49a2f8775c65f405313" sha256="160e0a20d0a7bba07b9f7fa5b85b1e98904073c3a1955846b062d0c101e7e2b5"/>
 		<rom name="EP4108-BLES01149_00-DW7DLCVOICESETJP.rap" size="16" crc="b0772349" md5="15d29c7051bf78acacd14c9596422174" sha1="d1bec56975a6a981e657b6a9b05ebc82ac2946e8" sha256="b1aaa1ef0116f3e9ba698b58727b5150ac2e65498ea627d0abeed5c3f42f8e12"/>
 	</game>
+	<game name="Dynasty Warriors 7 - Legend Stage Pack 1 (Europe) (DLC)" id="23885">
+		<description>Dynasty Warriors 7 - Legend Stage Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE01</game_id>
+		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE01.rap" size="16" crc="967cf87c" md5="8f2b81acc442c83d300cc15a2802fdc7" sha1="6f8eb2b02f55ae551819d51028669387aa763f99" sha256="ba5be8cc349669a6ec7a573f6e54bca93e799c4e9a3db2976d0a6fba0ef31853"/>
+		<rom name="hNfvpCChJzfEXWKUdeNJWgfppiSKguqIdgFaFiaSxDVBllWwLIcvAPSSYcqGPlqp.pkg" size="62765520" crc="56e23aaa" md5="e3b656d67facf5f653c73e6a43359588" sha1="79694610b6ef217a80defd7bb6ba1d9cd99a80ff" sha256="6f30b8bae2529b5d02150814d89ac7e9d40e14f606db78257667ab1b948bf89d"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Legend Stage Pack 2 (Europe) (DLC)" id="23886">
+		<description>Dynasty Warriors 7 - Legend Stage Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE02</game_id>
+		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE02.rap" size="16" crc="52779666" md5="e98f91190c813b94583f2eca2cedf101" sha1="8f4f8853ca874572b7d52d5bc0cfd4ed604a3b89" sha256="c2e559a7e4dc75fb68848ba83ab2ad5ef78c9fbbba1837696736efa3315cc599"/>
+		<rom name="WBGOLlNqfuDxcfVQuBajkpwEdrnfcQRfkPhLiemLbHcBLehNyFexZcYVgtjbdrXs.pkg" size="63979344" crc="bd38be31" md5="7ba8ee9871e52771bb6d880d5d73fbca" sha1="264311376fa720af050fc81f26d47298adc0873e" sha256="5a1900ab19e4d3d945a25550c3631f1bbbf31b38183dabc6b4691485d698dad5"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Legend Stage Pack 3 (Europe) (DLC)" id="23887">
+		<description>Dynasty Warriors 7 - Legend Stage Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE03</game_id>
+		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE03.rap" size="16" crc="5f47f0af" md5="a6bb00151d759895608169100343133f" sha1="d41ab184261a907b7b5c50d5f54cd3bf36758e1a" sha256="c0c825657468a2845b39212f7c7b1f3cfae3bdd1fbcf35d8322a9a17b2e4269f"/>
+		<rom name="OyGXlkhTWSPXBsPCIQRTwzcqabgeiBMzzjepGPLfvBjUZDNOTVoMuFIQVXYzZaBo.pkg" size="58015824" crc="dd496d7e" md5="70b9a013d46fcf6bbaac0820eaa05b67" sha1="1777c06085aaca811720225353e253e613c0ef9d" sha256="19fb6160ba507dc4ecfe14400f303ae99e68301fa396d5ad14e3e66cefeadad8"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Stage and BGM Pack 1 (Europe) (DLC)" id="23861">
+		<description>Dynasty Warriors 7 - New Stage and BGM Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC01STAGE000</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC01STAGE000.rap" size="16" crc="81b69c46" md5="5bd45b957ad809a9f5e0367f8576cf96" sha1="bf9d3d2b913c24269f171a430717181503c857df" sha256="3fe9d836a913b76955b04517fc2e91d222b182f6ed41b0a880d5551e6dce9f45"/>
+		<rom name="aFHQicCafnMKntBpSUsFhqUOyBICrDdkIWtfEBiTfIJWwBdncXIHmAnhHweVzmec.pkg" size="48699616" crc="d9fd4dd5" md5="9f1c935b71e3c2ab00cf77f6159ea1e2" sha1="98f68a70f06c3ada7157817f6ff25548c5315240" sha256="f71ff7dac0e0bb53e8280f1599b9bad35ceb6941b72783122f619fd5839c2d9c"/>
+	</game>
 	<game name="Dynasty Warriors 7 - New Stage and BGM Pack 1 (USA) (DLC)" id="19965">
 		<description>Dynasty Warriors 7 - New Stage and BGM Pack 1 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7STAGEBGMPACK1</game_id>
 		<rom name="ewuZpUWGlJEjrOPtcleTTiobwrNfxHOLRbfOkOuNvhVAZUqHxhacwVGgeEVVCqVDXQXvZTUHWsRRAWqUHpkUKbgFadbiHxiWYHqrp.pkg" size="48391200" crc="bc128958" md5="05436dc826dc14a2bf5017d377703144" sha1="4fb4ee7b14e1f06c9c40ae91f5b6050d25362295" sha256="d14148208c89e418cf56e102e8b7d7c23abdfa8ef474bf7df25cc9fa816713ef"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Stage and BGM Pack 2 (Europe) (DLC)" id="23868">
+		<description>Dynasty Warriors 7 - New Stage and BGM Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC10STAGE003</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC10STAGE003.rap" size="16" crc="b1b57a6d" md5="3276e975fd82d6c10e3fbc34cd4356c4" sha1="a85547099c361c38f3a5b65f68173731dc27da3f" sha256="65347cf0f56674fa117bdaf15f80c713afbba19b3470bba2f5a011b82dff2d0b"/>
+		<rom name="QsGXdbDLxiynGhCkNlNwTsbUqAdjjgyisfyCWEKuKlBCjcZSsszwBFmphvjbnPJO.pkg" size="61006864" crc="94c0b7d9" md5="3d97deb1e9fab1017f7a051693b09740" sha1="f6f4354fe1c9ca9efe1308b83f4b2974ccf2fc88" sha256="6857cf6041aa5811e620efca201034e2d781bbef79e891874e9477f78fa343d8"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Stage and BGM Pack 3 (Europe) (DLC)" id="23875">
+		<description>Dynasty Warriors 7 - New Stage and BGM Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC16STAGE004</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC16STAGE004.rap" size="16" crc="061fee56" md5="1b4c050a40a976a9f79acd2ce4b53d6b" sha1="6b80183f246a4971e133dc6ca74babd42b464494" sha256="98af5a7bced571355c7464fb95e1ec776a55759930b4191c36a247ad71ad0228"/>
+		<rom name="YrTCWnrmaFLfiFqcyQtSWTflnMtgiGdfcNfSKEmonDMFpanCpbyWAeVyZYcNftPQ.pkg" size="58094400" crc="7ff19f6c" md5="e22df9c46c3acf4f3f8187edcf246788" sha1="c7816ca1c437964bd120a90888473f38ab822ebc" sha256="7638b794a0d2c5f0e78006e6d628519cf68087c23d65ea77b83f3c97d94bd2e6"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon - Flame Blade (Japan) (DLC)" id="23518">
+		<description>Dynasty Warriors 7 - New Weapon - Flame Blade (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEAPON00</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEAPON00.rap" size="16" crc="535ce921" md5="2a4de1b12c923fe1ee2faf4824ebbe23" sha1="f975730b0aab08b376f7baa5aaef21d4e01105f1" sha256="87fd8755760f810f53f5e15e61d18b0f0d7b5f284067c4f46bfdf2d7876c0ad0"/>
+		<rom name="VgklkUKfhuZhuYIoVmzupfmLmtRsqPZDQoOLlUhuimIzSeySAJZQOAcFvTpNqfWhcOfwwBCVbrkIwFykWCfwqKLPBxBIBESoHCAMM.pkg" size="2137184" crc="b2d13697" md5="69b6b4253891415009bee83c223160bd" sha1="c5cac37ae16baa8485b4695abf3a4850c17de070" sha256="8c012a13820ff0981adbc9308ca588cdc3b8530aa5c243e58bcc43aeafa26a36"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon - Great Axe (Europe) (DLC)" id="23880">
+		<description>Dynasty Warriors 7 - New Weapon - Great Axe (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC21WEAPON05</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC21WEAPON05.rap" size="16" crc="a150f978" md5="f330eb545e58a347b8bc7263d3c58da0" sha1="ba35f9d7dbc40d15a0935c5d5786167f7c3f1017" sha256="0bbbe1c3368824bf2296d3588fe2e10e21e289d404802591bd2eb4f32351d529"/>
+		<rom name="ViUQPDiBVzGuCbDqfyZvZkrNyIjUSraAicYYdabQSsaHLAFkWrQiCDzmrtkRywoC.pkg" size="3598816" crc="993318f9" md5="ed808cc29ffef1500311f925601453dd" sha1="c47a244f1560b56ba5fa18902e61a7255f036dfb" sha256="f3b16ffd73d22336339be233cd48b842e6bf6279c7cefe07543ce7deed96b462"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 1 (Europe) (DLC)" id="23862">
+		<description>Dynasty Warriors 7 - New Weapon Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC02WEAPON00</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC02WEAPON00.rap" size="16" crc="de542e74" md5="a0e4bed948f71b308941a069a74a68ea" sha1="3319ea2ab1ee0a0e59dda0194154c1bd7e86cf75" sha256="4c8f773cba59fe308078163f73a9efd3e1647b19b90b6011ec6ccf8e838f7a82"/>
+		<rom name="rgwVusrWeHgSwekZBTbHZWFjJbMBiJWjFynuGDlrVERMHFTynKBPufLblszxGyBj.pkg" size="7718256" crc="04b89da4" md5="28b7b4f3c42904c1fa1aca11ce244620" sha1="016190110ab0bad63bd003673fa3eedb9126cc01" sha256="19d0f5ebfd4cf4a33b7b59b97c9b45c5777be9ae39d6dd6fa4100e699cc73446"/>
 	</game>
 	<game name="Dynasty Warriors 7 - New Weapon Pack 1 (USA) (DLC)" id="19954">
 		<description>Dynasty Warriors 7 - New Weapon Pack 1 (USA) (DLC)</description>
@@ -25954,6 +26085,30 @@
 		<game_id>UP4108-BLUS30690_00-DW7NEWWEAPONPAC2</game_id>
 		<rom name="aoElrVwKzaGCghYLNktqhMkBkkxfkAHBJeniMXJxypAEorKnhRUoiXdeZVDNeTJjBsHfsQzZjbSFAxhaTNnMZgMkylCbrCfmlwQzf.pkg" size="6742944" crc="7ae5f89e" md5="a0eee5d993e45e6a4e6c71a51c640e70" sha1="137448d503029681af91e310d3c64aad44eddd59"/>
 		<rom name="UP4108-BLUS30690_00-DW7NEWWEAPONPAC2.rap" size="16" crc="9a416a79" md5="3a4d9b17c2399ac748f81673699f76c9" sha1="1c6441e1e85f6d3c739c83cde458cf809ef78be3"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 2 (Europe) (DLC)" id="23864">
+		<description>Dynasty Warriors 7 - New Weapon Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC05WEAPON01</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC05WEAPON01.rap" size="16" crc="833dc05c" md5="44234a94e2a3e704568574674ea88a56" sha1="92e2079aea05e6b4cdb015ee5e588cc9cbbdcc1f" sha256="95c542fe246427bf4022983d7037cee09735f36ed024b86e84ea1aaca471ac50"/>
+		<rom name="UGWgIGLmrokVPQXhWRYcdsLyseVwCxqaFeVnnYhQENHxUcdTxtabNstFIcuHvcgK.pkg" size="6866432" crc="5a87abcd" md5="d60348bec29347e696b8607be508e88d" sha1="9d20dd7eedae5857b621f04cb3f0827e6502220f" sha256="c64d30873935bd24b8cf55c4ca4679166927c3028e2889a5648b6b5562b388f6"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 4 (Europe) (DLC)" id="23890">
+		<description>Dynasty Warriors 7 - New Weapon Pack 4 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK04</game_id>
+		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK04.rap" size="16" crc="5336284f" md5="cbff74e6c105b6069eaf90445dcffd83" sha1="65e0f69e205c8feaa3dc4dffe8510c952b3abfba" sha256="0b272ecb58c8ec0a1632a59f89c8783164c0887f74aa43939c7f81769b95c00d"/>
+		<rom name="zUoPWuSjUYkvYAFUcAFqTrBoCfYLxqyhQwLUUajqBZaIQkihBijRHTSbDgSkTMMj.pkg" size="7811216" crc="6dbd1ce8" md5="f40953216d57580b02eead379c298866" sha1="6b60fd3166e19eed16311989d6e805e1da3dbf55" sha256="6280d1cba1db2c7148faf4fc4ea0b61417b5c3b0965bb55257e62083d83a138c"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 5 (Europe) (DLC)" id="23891">
+		<description>Dynasty Warriors 7 - New Weapon Pack 5 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK05</game_id>
+		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK05.rap" size="16" crc="31587dc7" md5="290908322d64ea4f2633d1f80d0b8f3c" sha1="fb63fd40932e73a3cf856889be7965d7633dd8f2" sha256="25ba2ee077232783e1fef04f7d42c7707e34af21426ad1309d6474208143f1d8"/>
+		<rom name="mpQlizebhZsTefVPhCeFOUDbmgbvsUDwtEpmdZybQYfMkxuSDEbEevknKhrpVJpU.pkg" size="12180640" crc="572fa548" md5="50e198fae4ad40f60d7ce610413d308f" sha1="0df6f8002c6a37f818c828ec89d24cc3d4e60d09" sha256="5dde69f4d2487a7452b3e2bf0f7e6d1fcc71a1b7330788baa7f0ec44ba478483"/>
+	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 6 (Europe) (DLC)" id="23893">
+		<description>Dynasty Warriors 7 - New Weapon Pack 6 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK06</game_id>
+		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK06.rap" size="16" crc="6a0c1d5f" md5="3a963531390e683491d12f3c6c3fdbe2" sha1="2c92143df608c9b84463cce2c0b34687b4bdd610" sha256="c87057ed38351aabb62719b75f6aee925e741a0a7652a30bb9b27b682f55f2c3"/>
+		<rom name="eXqLadWZVollbOeFdkwabzKYmohQvAVDHEpSOkBqiKCoFpjEFLVUWPsidFTKEsug.pkg" size="8458288" crc="dbc328f5" md5="8a3c7a8d2ca55a8c41d3234b45a08346" sha1="3d30ba3a24a453d9e8d516ce101031d729126933" sha256="8f61b973988a1f8c7711354672bd9b6df3f8d18ca6b498d42aeb52471493401b"/>
 	</game>
 	<game name="Dynasty Warriors 7 - New Weapon Pack 6 (USA) (DLC)" id="19956">
 		<description>Dynasty Warriors 7 - New Weapon Pack 6 (USA) (DLC)</description>
@@ -25967,6 +26122,24 @@
 		<rom name="UP4108-BLUS30690_00-DW7NEWWEAPONPK07.rap" size="16" crc="69719cf7" md5="6d35b0558c06a13cefee6f1d0f627b94" sha1="1f630ddaa87892a923ffd15741fd07b494d67265" sha256="377e3882725612f8dadc9ddb1e94837e970435a5566fe10e500526becf469de8"/>
 		<rom name="bikwASsXSvoroWnDkuZAyvsaEpAAGTxaJfzJaTkSbksgwlHDgOKptcAubbvMBbBXjxGPvEBezyfjnkegwNgVjADSGJSmfWVGpIwRD.pkg" size="8924768" crc="471c460e" md5="8bcba951f802d92ca19c1e8244bb9846" sha1="24e5d8704c0d53c2035092e65270e1f9586c820c" sha256="a0f3d24f1f4b83b690fd099bc501620785f9da0dec1b7ea7074317fab498bdba"/>
 	</game>
+	<game name="Dynasty Warriors 7 - New Weapon Pack 7 (Europe) (DLC)" id="23892">
+		<description>Dynasty Warriors 7 - New Weapon Pack 7 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK07</game_id>
+		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK07.rap" size="16" crc="90c86df0" md5="6ca7d7911332d34414f663a108b61e11" sha1="7b69fd129b1bbb91fdf9328ffa9c690465287041" sha256="b9d1ab6b6339d1882ad8c3542727fd13e0377f03d44cf198bef93f8095f9e4c9"/>
+		<rom name="ndbbxYpAmAGMBjPtcRXGeBOAMfCyIaLvxEADqlpfuTNTXoOoDyMnnuEFHvgaHMbW.pkg" size="8928400" crc="5453f2b7" md5="f91238f9b1a25a474ef1426b48e92cc3" sha1="7b200ebc8b42b915f52622ae069aa0d4c5f1d41a" sha256="52e92751eb8e095cb3b74138a8296af9604aab0e1cc780e6df4e5dfabc75d154"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Old Costume Pack (Europe) (DLC)" id="23860">
+		<description>Dynasty Warriors 7 - Old Costume Pack (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC00OUTFIT00</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC00OUTFIT00.rap" size="16" crc="abd7f6ac" md5="4a0849a55cd3ce7049df162e0fb8faa6" sha1="c030490f59dedd19be62b871e85889e3b550d330" sha256="938c3295e1b1b7b0e646e2cd7d15da344240888f60f48e3958fd612191aa7531"/>
+		<rom name="AUGDqdEFhoFluilYsogViKiOfgxPSYYHkatxNwPExwKBTFFZQNwpbEGJqxxGSVea.pkg" size="11285152" crc="fade37d1" md5="06de272b8ec04c96973e92897b5c97dd" sha1="b76e156ed9c953c86aec12cf3394acf8301a8b12" sha256="2d01ce0e3719ad8eaf9b34bf1941cb0cfea32b8a187bc0a3006df7f4f973e9a1"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 1 (Europe) (DLC)" id="23866">
+		<description>Dynasty Warriors 7 - Original Costume Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC08OUTFIT03</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC08OUTFIT03.rap" size="16" crc="5497d0d2" md5="bb5386a6fc8f3322dbea7ed12b68d204" sha1="afa27e35b272b02791d2e31894aa4f6cc16e5796" sha256="f3f129897718e46747787d551e6b32de2cdc27f5f8f30d663c01051bc3097c0e"/>
+		<rom name="HXUWmjELyRfCCbeDRJvLZaZoVnGYWwWWYjEUanmnDjILFcgEWRJkMSWOokwjwEVx.pkg" size="26852112" crc="0879f48c" md5="d8a7ee14574cbe28f554161e684f85ce" sha1="44f4d7b332868713dd713dc920c3e5d26a8c7a10" sha256="337106c1cdb72d7a4be258870b699191d248ff6603a8bcc71fe771a538496b01"/>
+	</game>
 	<game name="Dynasty Warriors 7 - Original Costume Pack 1 (USA) (DLC)" id="19961">
 		<description>Dynasty Warriors 7 - Original Costume Pack 1 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7ORIGINALPACK1</game_id>
@@ -25978,6 +26151,18 @@
 		<game_id>UP4108-BLUS30690_00-DW7ORIGINALPACK2</game_id>
 		<rom name="UP4108-BLUS30690_00-DW7ORIGINALPACK2.rap" size="16" crc="c59603ad" md5="8311a4eb59507be9c8dede286566d637" sha1="cba633aa3dba3ffa8d8a104f50c931672dcf27d7" sha256="78b4bdcedff61ba189d5119be0beb85a12209f71f02b26514ab9eca6e62134d3"/>
 		<rom name="XLIkQQBPeantyPUqJPTYRBuXmYzZmQFauboazrjOTxiDxuFAmXpNbJzEZJAAngJYKXFXZPGKSXOKGOXuKjEtZbmWfIGgOFIBBiOOn.pkg" size="33064672" crc="45f12715" md5="c5d08e44313870003d7c743d3aceea92" sha1="fd56d272578741c50f62c09665a52cefdd0d3edf" sha256="e6d4fdbcf05ec7768f411d7e39c232fbd65c7f90d867625fd78c2ef67bbc205b"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 2 (Europe) (DLC)" id="23872">
+		<description>Dynasty Warriors 7 - Original Costume Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC14OUTFIT05</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC14OUTFIT05.rap" size="16" crc="2e1cb999" md5="a3f2040c0b27fdecf8eee20ea9deef63" sha1="362e054731be3d1bed1bbf7b7826047bd30492cb" sha256="aaeac53a527508a9ad9c00dc71eee55229ede82793501122fa8bec74e66afbb2"/>
+		<rom name="ibgsyYAdsWxZmFybWodVWxkkaBTarDKIKRakKJmMgNCFHyGwwqPnyMSOQXIDrZgR.pkg" size="33067040" crc="9111ba75" md5="8cc96fbae22e80df9895ad0518f0db35" sha1="e3879cb2ef3fcc650b867c7d4fc42c2c14ff73b5" sha256="617a446704cade6faa268bfdef9409330a5f400eb12e302b900f88545392a11b"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 3 (Europe) (DLC)" id="23874">
+		<description>Dynasty Warriors 7 - Original Costume Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC15OUTFIT06</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC15OUTFIT06.rap" size="16" crc="43389ac5" md5="c7be27969c2201cadf4954c503662770" sha1="18ad840573c6ca9cb14ba1d9aa245c8dd461c224" sha256="413ab3ba2eb1d0920a320950b5bb0174eb312872c933f4c197e9014b2bf17322"/>
+		<rom name="hXithfEjOIjZlpQIEHjJOHoyieaNSzuZqEqlGxImnkAFHfyyuopAjHsQnKnvJrVj.pkg" size="35791424" crc="cced8cac" md5="9366ebb8b52d56416d7c02d308625396" sha1="0327658137a940fddd5893431c89691875da5458" sha256="e99d632a83b2b62fa1e57ebf2c75d9896f64333c0a538bf184b88f7d78ff6440"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Original Costume Pack 3 (USA) (DLC)" id="19963">
 		<description>Dynasty Warriors 7 - Original Costume Pack 3 (USA) (DLC)</description>
@@ -25991,6 +26176,18 @@
 		<rom name="UP4108-BLUS30690_00-DW7ORIGINALPACK4.rap" size="16" crc="da46d74a" md5="1523a5c1b6e82858df86a9609d19fe36" sha1="da0be1818f3ec9a15fc7abc383ea38047a10f1e4" sha256="dad77a8220349e1e59c93e395356fefa47a7ea751bac1e097090bcb43ed68cee"/>
 		<rom name="ysQAeJZGdBeQpJHqfTNGSqZyalLsGSLiqBfjJqussfEYfssipXmMHuQTnkCBhJUGdmTtiWKqrSNvodZHnNAHjBwyEmSVqIeiJkBlg.pkg" size="33998832" crc="6e70f539" md5="93787293352ca4d1c80cb10bbf5fb60c" sha1="e7a5edee2f30fc5e2c35d7e73655e0dd07b4ae1e" sha256="e5e67d591996ef4706b4673d019a7c7e1a6a6dd41f0755c7568cea4524491985"/>
 	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 4 (Europe) (DLC)" id="23879">
+		<description>Dynasty Warriors 7 - Original Costume Pack 4 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC20OUTFIT08</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC20OUTFIT08.rap" size="16" crc="bcea9556" md5="ff7895ae86744c877014bd08915a40ae" sha1="bd638d4e1129d95fa7cd8cbcb5fb240a404517f5" sha256="a490c958e1ed751db32a0e3162e343dd5ce87da4051ebfe3f1b279b4a3932ba9"/>
+		<rom name="DhaUqKpyQLxpCqKIBLlxSyrNzKnbIwtTrRjLVtxPOMjLOOrSgqtGcbOcUSeKmGHV.pkg" size="34001200" crc="e00c9d5d" md5="c56289cf15e3c2de4afea35490eb08db" sha1="89a824bbf233d2db9cc55c3a6536c88d91d491a1" sha256="92e21eade312ffce1a31988b1c5b771617a51f72bf2fb60c155b19a1153b5cb2"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 5 (Europe) (DLC)" id="23894">
+		<description>Dynasty Warriors 7 - Original Costume Pack 5 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK05</game_id>
+		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK05.rap" size="16" crc="a31236b4" md5="2b294a22136cc31dd1c2a4016a26e75b" sha1="d0a0ef18236fd2c4bca59c0b1ee673d168115a8e" sha256="ce6ddedb9195b76bb402e1a213d68e3281fe0c4f30fb23b0eb937c3af893d216"/>
+		<rom name="RPkxaMRFfryOIRzkhJVvdQdtLutqOilEvdSBQQGdSRQpTbFMmriNwtpQtfMpTQnV.pkg" size="35343856" crc="be61dfe6" md5="5ce9fc0b96da392b8fe2817c2d852fe8" sha1="c87a72a1e65de23fd83200aff93af1eeaa0a7128" sha256="81153d819785e647fad70f0431962876ccc2a8279c75ad08687eec28c8d3d9a6"/>
+	</game>
 	<game name="Dynasty Warriors 7 - Original Costume Pack 5 (USA) (DLC)" id="19958">
 		<description>Dynasty Warriors 7 - Original Costume Pack 5 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7OGCOSTUMEPK05</game_id>
@@ -26003,16 +26200,124 @@
 		<rom name="UP4108-BLUS30690_00-DW7OGCOSTUMEPK06.rap" size="16" crc="a4163f5f" md5="c7da006ce150419c65300386c16112ac" sha1="52479919567a8b27c3b28b568e46831edd5b8b09" sha256="2e9f65b2bd9db767874493f746892c143f1e8bd77534ce3b733fa71525544469"/>
 		<rom name="LCcdJkIWFCovRQkPZqWKoOGRcFjqNyaJHncNLhMcmkCCHFtBazLOYigBtjEfXFAERAbzELOpSbKgdQQVaAcvnXKqnnyumZgTizisb.pkg" size="28329664" crc="945387c2" md5="a5d67e0000ba93bff5980ed2757cb754" sha1="28d4bd18db5c8dbdda858596c6095a497de0f002" sha256="a0362e6568209530add85fdd7b2bd34b405cb1be3cbe0282743ef2ec96f683d0"/>
 	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 6 (Europe) (DLC)" id="23895">
+		<description>Dynasty Warriors 7 - Original Costume Pack 6 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK06</game_id>
+		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK06.rap" size="16" crc="711c5817" md5="9252ccc3227222bc236c87fa2e449380" sha1="483f742756e0882a8d79a673f270afaab86d653d" sha256="d9b2b7beb2d174f1af70725d91422902dfe1e4f966088d44b98e0e377786fa0c"/>
+		<rom name="FiHOvznLjWPVhsVdAwCHkIoWcIXtVzfCNsuVTrYtLPtDDdCHgUvtbxCyozpDNXEq.pkg" size="28331712" crc="e473ea8c" md5="18433910b4f0f8126de07f3b76cb429d" sha1="30264322d22e35b00fb3eec4fa5084c43a65c834" sha256="490bdb815cce32339731286a90d5cbbf4e7c3de640a0f1d6dee4080adade4c74"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 7 (Europe) (DLC)" id="23896">
+		<description>Dynasty Warriors 7 - Original Costume Pack 7 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK07</game_id>
+		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK07.rap" size="16" crc="d718b710" md5="74b72c257e3c2a996f37253ff8341361" sha1="a79f363ae14aac952c3fb4dc5d9827f9c2e47375" sha256="ed1d648fab0564d8df0afc2591b9181bfb71cfc4ed0d75657a7e74cd1f457fa7"/>
+		<rom name="MyEdHdhidVJpgixGgVlrTqGaPUrDSRtbMIgLTQsoWNlLVMUOkkFsxsWQKtOcgbZq.pkg" size="34692048" crc="94a77562" md5="626f30ebc3e462cfce8e30327bc4b383" sha1="7b0c21cedec307788ecb66d8bfd3101b107ee241" sha256="eeb148d5fa93fc5bb4e583e732000bade0931ab7777282a28f232db900865c95"/>
+	</game>
 	<game name="Dynasty Warriors 7 - Original Costume Pack 7 (USA) (DLC)" id="19960">
 		<description>Dynasty Warriors 7 - Original Costume Pack 7 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7OGCOSTUMEPK07</game_id>
 		<rom name="UP4108-BLUS30690_00-DW7OGCOSTUMEPK07.rap" size="16" crc="4600ac2c" md5="dabeb44a430f12c52659842c3fbc81a6" sha1="e4bf2fd441a066bc5d45a06900da77e903bb51a1" sha256="ed717ff0ac1766393aa478b20a63862d992ba9ef7e1d7fce559b98967ef2480e"/>
 		<rom name="YvIwJlaApyMpVIJVIsaQSTXbWxQTmYzNFZedHrOhFWsAZcnTnSIbdpxtfHoXhzNAmyRGlhYduHONHVivdtWNyDQQIbGsviYAkqsBC.pkg" size="34689616" crc="2e38ef2b" md5="5b86c02b177be0724c2e4be09b484045" sha1="c1da65545d0d573d6c5536959170016f85d10307" sha256="743afe13d4c2f7b4818da479594a700630887d6097e2d9ef732895dd8a4d1e70"/>
 	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 8 (Europe) (DLC)" id="23897">
+		<description>Dynasty Warriors 7 - Original Costume Pack 8 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK08</game_id>
+		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK08.rap" size="16" crc="ea527756" md5="f6a91aaa4590ce4ba7aac6306faa2c9e" sha1="6921319f9bc03514324cd7c01d98d3e861445c6f" sha256="b73f10cff0aea954646ff3bfcd77eaa401984cb3c151c862574a91d8a4d1344f"/>
+		<rom name="gurAmkcGKbCnqcmVQgGDBezmUhtgcDlzGxtqmqnOcxeHaLxjCFhBJWypxcpdlmHB.pkg" size="38868048" crc="be8c0f45" md5="c5b4d02263e68b3e34f75fa1f208cfd2" sha1="73f9a1cad9c5411e17e08874aec62446d97d8992" sha256="ea18c162114e8f39e43df02c4d228773ef015ac454419cc512a9e901e1cad83c"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Original Costume Pack 9 (Europe) (DLC)" id="23898">
+		<description>Dynasty Warriors 7 - Original Costume Pack 9 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK09</game_id>
+		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK09.rap" size="16" crc="447fbea0" md5="c711b38b822f19a06ba2c8275ae138ac" sha1="4adbe0f6b198e913ef627b2672df964ccc3c1f8e" sha256="8ce53b171fde7ec03a6ef15b90833bae408cb0922155a7489ac8d989b489919d"/>
+		<rom name="aQMYUlblvVhfrJDwYZWDvFZdSMFxclPsdHRpiYGZRKYZuBgvtBxftlcPUSuOQabK.pkg" size="36093296" crc="60e14f57" md5="850ec3fbacdbb9979c29e034de7e5817" sha1="a1d892a4203128ac1887dd8355221d93f728a3ca" sha256="8885a7058e1da6c27a58787dbb5260c22a5f1778e4636b98e7c7c4d2a96f4b58"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Powerful Weapon Set 2 (Japan) (DLC)" id="23499">
+		<description>Dynasty Warriors 7 - Powerful Weapon Set 2 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET01</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET01.rap" size="16" crc="ea5d23f4" md5="77a8b2ae672658f2913a57fb02a5b15d" sha1="d04a0d57aa862425f4b5ca74a66c620fb575b8b8" sha256="1a48dac112c354dcc1cc5bcc1470642eb2680d0f4394f6bc84b54353a558e0e6"/>
+		<rom name="gWoMPVlJTalareFmtMCMMLxdPBkBVpkMJibBINyqnKziwbyxHdVMXuPywGNBwFlQHCbIYGjAAUmWMbuGjqOgWGAJlKkfpdhmobZxU.pkg" size="3174848" crc="5c4d2130" md5="ad20f74ceecb60bf0a0e60d10a84b032" sha1="2270252b55334a7bd5a1c4c0a19641bee853a10d" sha256="d92f15f9c46137f94cc7a9a71e0a9b2f130575de99e6a505b499c2712eef2c8b"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Powerful Weapon Set 3 (Japan) (DLC)" id="23498">
+		<description>Dynasty Warriors 7 - Powerful Weapon Set 3 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET02</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET02.rap" size="16" crc="3c7cf43a" md5="a135d7e521b0288a9c455caffb547b7c" sha1="bdc1591c5b6a2eb717921e7c25bf378956783958" sha256="e2a4bb4aab11fa71018da78128168591e376aa6b9b81cbe99c70c2fa77c7daad"/>
+		<rom name="teJeiJQpfUXzmlNVgALNFIRXlfSCYKmWOFpmeecVJLSIMleNxaBcUvlVXjmZeeYByzhMjYzllnfAOZUIPGXSkKJpBHPvhWfOMwDdA.pkg" size="3114752" crc="5a33d041" md5="413a77f1499a3564bc98ca5d5885d430" sha1="d9d782942dbbfaf17621e1a5930c252349cde66c" sha256="bf8f06c266f675c5626c2a047241cd3cd81ee567244af53eb5a8305fc64dc4c7"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Powerful Weapon Set 4 (Japan) (DLC)" id="23500">
+		<description>Dynasty Warriors 7 - Powerful Weapon Set 4 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET03</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET03.rap" size="16" crc="a8a8a218" md5="a9d840a08b16a632c9f25fc28bb9b8aa" sha1="7d82a4bfdbd81598c73a64ea515f78f98611572a" sha256="4a02bd4c16e25d4332eaa8b64222aafe9d7a65879864b1350752505fae9e94f7"/>
+		<rom name="ILtieXuqkSGgLzSuscVtZFgtiFWKPCRkEyqcHEUZNzJEibPdSgocffQRRJmuonvHUbQQAPMBvIgxJQDnQWTqcDWncFwWNqznqEEIe.pkg" size="2655904" crc="99b77f70" md5="94fe16380b791641abc9531315383218" sha1="fc9e8aa94f99bbef4aadc4275ebf4ba49bccc5a8" sha256="7cd0f8300ea34b5a0cca231881050a52890f502becbb9cc1f97132021b0d8433"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Powerful Weapon Set 5 (Japan) (DLC)" id="23501">
+		<description>Dynasty Warriors 7 - Powerful Weapon Set 5 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET04</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET04.rap" size="16" crc="45fb66d5" md5="6672dd50bdc09a524f131dfd1e7af379" sha1="21cff55a10869077629958d997645a24035170f3" sha256="67e95db4d663805c5f95f481d1e6cb34c940ed2dd6292b1154eecd061db22821"/>
+		<rom name="tnqzMKVUewWRUbFtRfjpIJPFOlHrGbkPGnqmSANItMDUejmeLjhYCAKtKLlpIWycGbJpuZokbyvcredBTBkyPXhOyAyfHObrVODqM.pkg" size="3409056" crc="907955bb" md5="333f7cb40481c4ea57168dba458a3c6c" sha1="71e7a891cd7d7d52a39709be89441e058fca4585" sha256="cf21dd3250182b8315f3a2f26022b216270f98ae2e981385a8c977bb174db09f"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Powerful Weapon Set 6 (Japan) (DLC)" id="23497">
+		<description>Dynasty Warriors 7 - Powerful Weapon Set 6 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET05</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET05.rap" size="16" crc="e3932b4e" md5="1e39843576ea3bd7ae2ad2ae01f6eed8" sha1="d9c20248f49984f1981b1a462df31fc1f44ef540" sha256="51dae1536155cf59434acac3bd314a445e2870467e1a005c7538ce93518320e1"/>
+		<rom name="LbhQVYembgLYcJwyWfKNznpLEMUBEJhBvIwOPMTfcCOFLsMfgqRkILJPkSWtnsnVYjEhOnpStaXHMczemHhQkduKyQKqaOkzBkMio.pkg" size="2792176" crc="ee7140fb" md5="c5a449591d970562219988faa189c973" sha1="c44ae6e5757838646890042adc66084c3a170fab" sha256="dd105cc884bbabc6a0f0bc957f3709f095da56cb44d7cdd539c772c782f9dd35"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 3 - Guan Yu's Escape &amp; Mammoth (Japan) (DLC)" id="23515">
+		<description>Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 3 - Guan Yu's Escape &amp; Mammoth (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE001</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE001.rap" size="16" crc="eefe8a1d" md5="dcb50b878373dc0a3380a3c85e791164" sha1="2108abfc6bdab5c244df7264b4583262d4f1cc35" sha256="e887bb1f55ba9a0b4c55c617cc17f32421d83e8f8282a77afab5cf832534d0e3"/>
+		<rom name="XBxLCJYvVPHasoJnSnjfbsmgovQSlMTDXhyoQCTpOghLHabSlRvENzvRyUtWkNOKyWEaxHUwiTNonluNURtGnSuzZBFHBlMJLvyCf.pkg" size="72972560" crc="4a65a078" md5="1a8e2d1549d9eab3dfea69c991d29151" sha1="37727da11fc83e03ebd2cf1ee158480b546b4ab9" sha256="9f4aaf0713c14cc7d16dd6c7f34e1a280141a3d099bf548b182f0da801a237a1"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 5 - Liang Province &amp; Polar Bear (Japan) (DLC)" id="23517">
+		<description>Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 5 - Liang Province &amp; Polar Bear (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE006</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE006.rap" size="16" crc="5ea3b536" md5="aad8b8836d896a0adfabce8433ffef89" sha1="688d112692531114b11fbccdbb8ad37028cb5d04" sha256="3921db5e10b1d85e5ae30d96784fa5280ec985b69edb88bd93e1e485d9498652"/>
+		<rom name="ioKdgLXUfpsTNSMSWzTYNtLPfTmMpauIzNDbPSngNeyStwfNHRXdivDGqaJmnwcWFcZgkEcPQDFegrpgNAogEsaBGDNbFFSftRgdb.pkg" size="47755456" crc="d8268fdb" md5="52c8897c44e790274134b89b5795d3a5" sha1="4dca5e74e79ffeeafe7fc418818c2d6fcb097951" sha256="58048003dd3133be55754eacf6394d4eb6246128a97155473146592f41fd73f2"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 5 - Xtreme Legends - Yangping Gate &amp; Speckled Mahogany (Japan) (DLC)" id="23516">
+		<description>Dynasty Warriors 7 - Scenario Set - Dynasty Warriors 5 - Xtreme Legends - Yangping Gate &amp; Speckled Mahogany (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE005</game_id>
+		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE005.rap" size="16" crc="509274c6" md5="70eff1a0a34da79b08fd871fcedaab77" sha1="920429d08eeec2495f47e6c6894e85aab051e216" sha256="1f340da579e8f6fe7fefdeb8a3e5f149c499fbaebb1f140bc879a560ed4d58ae"/>
+		<rom name="cXgOJgCsfTAtuzgkNjotxDNSfMmjsKtPlsWzxVivJYRehWVfYybiXiIKOYjmUpxufHAZYkJAZVpqxfsmSINyoNZgPDwAcssdXnMFo.pkg" size="64097696" crc="e1656de7" md5="f3bb02f93800617bf145b63cf8f80460" sha1="7318f0fef3ebdecfc71367e1c704e506d5e4de47" sha256="fa3b05648d97e15e7adafae62f995d0f529e7de172265523936d0cd0fc7eca31"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Stage Pack 1 (Europe) (DLC)" id="23863">
+		<description>Dynasty Warriors 7 - Stage Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC04STAGE001</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC04STAGE001.rap" size="16" crc="bd2da9ec" md5="541e368302d3957a00edd86dbeae1ac0" sha1="43c9748e324e29e3e05fec9c398a76cb4b533d09" sha256="1cb00e3cbb6a34007e9b878f04824ec0878b312c4f1685700f288c959065d0fc"/>
+		<rom name="HrkEhOkPCEXdzwrtvctjavCJRoLpaLJaOYAgetbKNCQfOHpGVlcooOoVXLovbJCh.pkg" size="53146848" crc="b586f573" md5="2b4f6b8f6c15abc600f585c5b032f63c" sha1="c451bc33e7a279a26a49839a539d05609c10e197" sha256="7c7838d42162416546e2352ee2aae5e2b2421ed82f04d34c4674c092ed51ab75"/>
+	</game>
 	<game name="Dynasty Warriors 7 - Stage Pack 1 (USA) (DLC)" id="19966">
 		<description>Dynasty Warriors 7 - Stage Pack 1 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30690_00-DW7STAGEPACK0001</game_id>
 		<rom name="NAnqnzPUulMsWKeRFjQXUnQNlzQTjFRhQZsZrYqEUPFvSjZPDtUFwUwnBsaKtEtoIQlQBmyzhyGVNCQnMTEuVRntjMrXtlQmNRHFt.pkg" size="52528112" crc="0f640a01" md5="d424e38648da3021b6f33d7765514ddf" sha1="8847551e2cf39320036b86cb15300a367b79709f" sha256="a691adaf2717098ebaf290180a73075df4251cb2cb73a450d1b769220e72c6d0"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Stage Pack 2 (Europe) (DLC)" id="23867">
+		<description>Dynasty Warriors 7 - Stage Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC09STAGE002</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC09STAGE002.rap" size="16" crc="1ffbda0f" md5="8f9c32d12ead25a2abb2b21ed239e898" sha1="4ea79ce57323721141c8f40a9b839ab955b36009" sha256="ab7ada899cdc5901fdb145fd513954b114c8816421047581c0f839e114b230a5"/>
+		<rom name="rwguWcfhSClrWoCrTdzbpKWSNiCNAhzuytGaZYPPNiZYxhgnEPsYwuPbsdGEJbVL.pkg" size="53937200" crc="f5185454" md5="9d5b01b4b72b490423d8657eb1b5f730" sha1="2aee230b227bdb9986a294f66740991f8bc3473d" sha256="c082431fddbc57b98eec923489c5a1a3b22ae0f8a4d81886af1679624564562b"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Stage Pack 3 (Europe) (DLC)" id="23876">
+		<description>Dynasty Warriors 7 - Stage Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC17STAGE005</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC17STAGE005.rap" size="16" crc="c1f422fc" md5="38e543b77b9b5ee1bed46c6092928c3b" sha1="1d54c8d936b84f3c4aa7fa54e7a5e0fc05dc2dfc" sha256="55a8e2818f7f48a7b5d42001a687ef777230325c16c9d6592c1d9f575badaf52"/>
+		<rom name="tWZgyoIPZonlaiKQslSFWHyHzOwtdbalmJpsbpIZrnFsDKscMLNaPawIlHmHfOJm.pkg" size="64618336" crc="ca70f8cf" md5="362c2e2a48e5b1826ef43875f7f11e0b" sha1="b2d2e6b2ced8b42454368ae43980820d97c5c48f" sha256="5ce0a6b213bc01e85bc1f714c126bacac0c51d6afef30d8f72d16b8cf62e6364"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Stage Pack 4 (Europe) (DLC)" id="23878">
+		<description>Dynasty Warriors 7 - Stage Pack 4 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC18STAGE006</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC18STAGE006.rap" size="16" crc="a7ba69b4" md5="5be97b2e2200c9b6b3bfd2d6a583c10e" sha1="4fbca4965ddffe44612b91498f22e0bc5aecdeae" sha256="2c865105bb157f7397194b7232e01056d2aead2f35c557d4d70ea16ae87f4891"/>
+		<rom name="mHjDHmRvmDqQwvrKNAUiojWIyqjpydEFSEUZglWJCkJzOhXLqAzajJTwXMZOfkRO.pkg" size="69956864" crc="3217b4b9" md5="b4ffc646950a5fef35e641e4db1f2a07" sha1="66ece6f302274d394abad78aa25f50aa36992423" sha256="21b14a2c710d245746e73c279eee85dcb7710c9fea53dc0628c9cea26c041c46"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Weapon Rank Pack 1 (Europe) (DLC)" id="23869">
+		<description>Dynasty Warriors 7 - Weapon Rank Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC11WEAPON03</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC11WEAPON03.rap" size="16" crc="b71aff0d" md5="83f23ae61ef38990302693b5b75393a3" sha1="8fa848483186812e4462c5166e37cdd2a2528187" sha256="629e79600448a8e69f7306c05e6d76a22464b6cee8de182a4b43fedfea0e9b32"/>
+		<rom name="HedWdoHXUExtAZyshaYTsxMqUkWciywmKkKmKQBuJxcryGfchlOBVfAkwkMRLFlN.pkg" size="10515760" crc="2220ed67" md5="e4016a93e996cd56b10b080296cd755b" sha1="6b4d32ca0b9a273037f2f667f39d50589046a2bf" sha256="873b7843ecee6eedff4e7f9428d7ca78b378ad6c624db6dcafe14b133cc71919"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Weapon Rank Pack 2 (Europe) (DLC)" id="23870">
+		<description>Dynasty Warriors 7 - Weapon Rank Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7DLC12WEAPON04</game_id>
+		<rom name="EP4108-BLES01149_00-DW7DLC12WEAPON04.rap" size="16" crc="c1337dc0" md5="e0e790f83e79d71aabd411831075d57b" sha1="423286bdde38ef18ee2057e8e0c73e06e6d063a0" sha256="ab5f62a315ef131a3e861f11fae89f12f34802e549c7faf6a748ed2be2d8cbf7"/>
+		<rom name="ugjUXoGWQmvjygjqQyheznodeukcrdPqBuEPgzkRizOoqXXNBRFtoeEInoMktSnj.pkg" size="8767616" crc="e83f76d8" md5="607ea39ee4ac5175de635512e6920904" sha1="e865365eedcade44e9143a94932760790eab7f7e" sha256="60951cb14520afede41eea89b626bcc805b7ffb712e7800c6b4bdf0d1270da4d"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Xtreme Legends - Chinese Ver. - Fantasy Costume Set (Asia) (DLC)" id="07749">
 		<description>Dynasty Warriors 7 - Xtreme Legends - Chinese Ver. - Fantasy Costume Set (Asia) (DLC)</description>
@@ -26191,6 +26496,36 @@
 		<description>Dynasty Warriors 7 - Xtreme Legends - Xtreme Stage Pack 5 (USA) (DLC)</description>
 		<game_id>UP4108-BLUS30873_00-DWXLXTREMESTAGE5</game_id>
 		<rom name="LlwlfyVgNGNqcihvHOYYRjfUtMuVkEUgHznLrWYhcmsQrueMlcdNzwfPbGlDCKGMidVYNCDvZYuGMkTtUjnYPwfDZVdIHHTtoGfld.pkg" size="130209168" crc="ae829d13" md5="a5a3b04dfd93cf16bacaaad416761b1f" sha1="3549b4ccb745d5b634135bd1b08f5260c6ec0629"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 1 (Europe) (DLC)" id="23881">
+		<description>Dynasty Warriors 7 - Xtreme Stage Pack 1 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK1</game_id>
+		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK1.rap" size="16" crc="7034f676" md5="fad9445485c989a23d385b88b543b7ed" sha1="1d98ae055583566ec61246a3fad06789e739d22b" sha256="e43800fe33a7519bed9d215c0d6389d8d28eb04ea2da529e0175e43d78892efc"/>
+		<rom name="QqVNpzVuVAboDLToJqJgndXaLUXyMgOPYrxnaCGtPqFQZvUEwgGDvRkWcpIUrUfT.pkg" size="1117344" crc="c1d1be69" md5="1a376eb137ae5cfc8ec4aa0b8b108a68" sha1="77669aa951275480d438c485f04b5f81b4623d24" sha256="ec69ffbe401c13a9b659954cc30130d2cba773c8c55e91828612a0ceb35c2ed2"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 2 (Europe) (DLC)" id="23882">
+		<description>Dynasty Warriors 7 - Xtreme Stage Pack 2 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK2</game_id>
+		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK2.rap" size="16" crc="44e1ed21" md5="18739c0e8b46385c5bdb04df2643ec51" sha1="d245d44dedaefcf5dc65edc0e60fbe63ed892b14" sha256="c8e80274695dd3a4d3e1015c9abf7a182b3c9b6ee703fb0d2b504694fb6ecf3c"/>
+		<rom name="QmJyIIcMfmXQqYwbiZrdQMfzzERPFngiotMhpXheXISQABVystIYWNnUHVVTfmeQ.pkg" size="924352" crc="2c8b443c" md5="d6df0e79fd2d0c75ff8eef2dc8f2b21a" sha1="2c2db1a3d7fc3945cd64e9c2e1b83ed907898511" sha256="6d1db14a647fe44499ec3837536191f4b17f9e19ef375d7bc5dc01d080c8fae7"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 3 (Europe) (DLC)" id="23884">
+		<description>Dynasty Warriors 7 - Xtreme Stage Pack 3 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK3</game_id>
+		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK3.rap" size="16" crc="d23a282d" md5="05c554a583cef08464ed81bbbc112692" sha1="b7abd98480b37d810e8399b1e892fa38e8ac2d6a" sha256="8c3bc7c3a360239b5734716f8b01e7aad27c26d897f38876bcd3c4042bed6089"/>
+		<rom name="fBChDTqUWIedLSlLvkduHmpZpfzfGJBAVlobhrwuMYetzgqnGmyjRvtpWYIfXBxC.pkg" size="993696" crc="7877b155" md5="0c5b432cc41b314bc540b59e07ddff0e" sha1="3a229e268e009c3f112a1ae3e250bd68eea6cf3b" sha256="bbd12a48d97270187d3ff24dd378d5740240fc3e8fe458d72080ec25d90d0ae1"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 4 (Europe) (DLC)" id="23888">
+		<description>Dynasty Warriors 7 - Xtreme Stage Pack 4 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK4</game_id>
+		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK4.rap" size="16" crc="64d25741" md5="3507a585b68ca29732b2bb6db3e94738" sha1="7ba3c52e607456aed1652dd4e884bdb2e6f6cb40" sha256="4badcfbbe2dddb8140d269b2df420b986c56a5dcc9dacb4cda44ca947f0e0dc7"/>
+		<rom name="LHfAIsNaeUQYjrFyNEdLcLcoTcPVRymoUuSlSQUGXkFKzitMwDjRTaSuLURsvpYz.pkg" size="1066208" crc="7c2fca3a" md5="546355506646fad0a79e0b3c51313378" sha1="90570d7d1725526cf0e9d01863a16dc72ae4326b" sha256="83c73495997bf8bf5aab03ccd4f681af18d0262beb8a7035ff9f7dfd3fe2662f"/>
+	</game>
+	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 5 (Europe) (DLC)" id="23889">
+		<description>Dynasty Warriors 7 - Xtreme Stage Pack 5 (Europe) (DLC)</description>
+		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK5</game_id>
+		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK5.rap" size="16" crc="5ac7faca" md5="366d7b9c0217761fbad2abe7b401411e" sha1="2bafcaf55d7c4c50fd632a32903903b5b819c0e0" sha256="86e451a235bb5cbc1af026681ad5eded247ce5d6dbf8ef3afbfba42dc85697c5"/>
+		<rom name="XHSsZIoTZFjtMMBDNNiJeuYiGigibvinveYpKTPGOqCNWmsBWNOEuPfuSYZnrkqD.pkg" size="1025616" crc="f0786d07" md5="2ea3d9b46674ad502442d7cac988e822" sha1="c4bcf827f77a361e677df265101bab32afdb7ebb" sha256="1d05c80b96656803fbf6e86e828c27786b824628424947b3e57b97eeb7e01015"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Xtreme Stage Pack 5 (USA) (DLC)" id="19967">
 		<description>Dynasty Warriors 7 - Xtreme Stage Pack 5 (USA) (DLC)</description>
@@ -27565,6 +27900,12 @@
 		<rom name="IyUxInzPEVJAQSNFboukUQbbrVVYxUaHivyhibqYFgxmDJuXSKiQaKwPTCcKcBjXaAqNdRpwsSBighWEazTUxiQGWAWpGuKSliKeV.pkg" size="1645936" crc="32bd23d6" md5="1d183c4875230fe9646eee77cbacac58" sha1="46d349224190010db1858415aff4183048a388da" sha256="a85504340dc175f258b22d6dcc5ba314c96ad0f4512b3ce068e59da51bc233a6"/>
 		<rom name="HP0106-NPHB00607_00-SM7EXDLCSYMBOL01.rap" size="16" crc="e9a9c14e" md5="08fee8901f891b846d80a1dd462f1616" sha1="2f82b33ced8f852d1aa11ced01a62f287b8a84ae" sha256="2e9e850d91a4b49caa6e9db30b3428a02e89a3cc30833bd05934fa36c339a0a1"/>
 	</game>
+	<game name="Dynasty Warriors 8 - Xtreme Legends - Camp Symbol - The Qiao Sisters (Japan) (DLC)" id="23519">
+		<description>Dynasty Warriors 8 - Xtreme Legends - Camp Symbol - The Qiao Sisters (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00510_00-SM7EXDLCSYMBOL01</game_id>
+		<rom name="JP0106-NPJB00510_00-SM7EXDLCSYMBOL01.rap" size="16" crc="9b486762" md5="9fa24a1120e0aafba0db4cba695c5f9c" sha1="04559f5e1a83f64d062126d95fc30924db517440" sha256="04c1b1467e6ec48dc814691d95c57f64c17d157238ed18da3c96ef03a5d35459"/>
+		<rom name="gJYzXQJiSpGiXdDYPfZVQDCDmQPoMdkCXauXtwtRuGzxtOlVvDMEmRAApcfUNDSvxqZHlOQFjQktxTePiOUfhVrOUiGQmvNIfVybx.pkg" size="1638224" crc="71e40139" md5="744ec017962a4c7bcb428833a155b9dc" sha1="cb4b21539b0ec360443d304dc4717c77f15f94f9" sha256="2f9063cbc175d2450a94bf2f916aeb4942da7b7a5e8c2c8951e57077db5c14f1"/>
+	</game>
 	<game name="Dynasty Warriors 8 - Xtreme Legends - Camp Symbol - Tiger Generals (Asia) (DLC)" id="07892">
 		<description>Dynasty Warriors 8 - Xtreme Legends - Camp Symbol - Tiger Generals (Asia) (DLC)</description>
 		<game_id>HP0106-NPHB00607_00-SM7EXDLCSYMBOL03</game_id>
@@ -27797,6 +28138,12 @@
 		<game_id>HP0106-NPHB00607_00-SM7EXDLCSCNSET02</game_id>
 		<rom name="nNUSHutlyRyNCfGBdRScrgBygrHwUOkYlcxUzrmCuNiVHPmePauDpVRekxCDbeMhMZCxqXjqaqDWEULsAhQZweTNwMEcmFCSXzSIR.pkg" size="393152" crc="7e13c020" md5="42eae12c4b0fc23cde683404d0cad6f0" sha1="9ea5fadfebee5483026b98eefbf30fe79d39acca" sha256="a2925524f8ad7261e9f80e550908b9267d6f759fbd6472d7873ca9203b4edad8"/>
 		<rom name="HP0106-NPHB00607_00-SM7EXDLCSCNSET02.rap" size="16" crc="012e5e61" md5="2677999071ebdbcdf4eca11c9e9f0ef5" sha1="7e8ebebedaf1c7d250bf43705ef7cd86c6eabc6e" sha256="014a568eeb0f8c38c3d80c3c8b71d9d7430f7b38daedfe033030611f37fea77c"/>
+	</game>
+	<game name="Dynasty Warriors 8 - Xtreme Legends - Scenario Set 4 (Japan) (DLC)" id="23520">
+		<description>Dynasty Warriors 8 - Xtreme Legends - Scenario Set 4 (Japan) (DLC)</description>
+		<game_id>JP0106-NPJB00510_00-SM7EXDLCSCNSET03</game_id>
+		<rom name="JP0106-NPJB00510_00-SM7EXDLCSCNSET03.rap" size="16" crc="ed7b329c" md5="8fdd28924d5cf3f00420e27252b039cf" sha1="7f622a5bc80660354cc612a63e7789fd827d9558" sha256="092593b965e5a766e8f0096ea16c1c69ff31c5f53117949855213e5d1de10377"/>
+		<rom name="bsGMqUyPWWwLDWkbgDCOtOyrsmIMfdtNNlYyGPGpoTYraRSXOXbMvCczCqbwRXyBUxAUCYAzMhcWqaeMwSyKCpnEnyfUEddVGxvtX.pkg" size="361888" crc="53932468" md5="4258ca8c6491984c93e0b4af82dea038" sha1="780b233385eaea6ae6785df9089590e69e875e22" sha256="4766c3979eff603a13824cbe98f7e828d6b12e53b916bbf622b81c3fb2040d6e"/>
 	</game>
 	<game name="Dynasty Warriors 8 - Xtreme Legends - Scenario Set 4 &amp; The Qiao Sisters Camp Symbol (Asia) (DLC)" id="07853">
 		<description>Dynasty Warriors 8 - Xtreme Legends - Scenario Set 4 &amp; The Qiao Sisters Camp Symbol (Asia) (DLC)</description>
@@ -29044,258 +29391,6 @@
 		<rom name="EP1063-BLES01593_00-PARTYRUFES000001.rap" size="16" crc="5f7ae28a" md5="be0aa94f3515bdd7640b03b21c30ffec" sha1="71991c7f3eea94c9d399423ecc00316308276331" sha256="da66868e5b7270a40a7a8776635beef698db068f1a6bd5dae237924436b9f684"/>
 		<rom name="RlQhYDvXFPxFUgYdeBJeTqRfXciWSmlOioqmZldITdvhcawQbwaoQztOgozAORrm.pkg" size="113248" crc="1bec188e" md5="be37f432b38934fd991737a0c088ef75" sha1="a1de027549b2826d2f47c95ee926c22d39669282" sha256="69913af690f7601402a7748bba587685c97098b48916327fd916a3cc01224449"/>
 	</game>
-	<game name="EP2145-NPEB00388_00-ABOUTABLOB000004 (Europe) (DLC)" id="23920">
-		<description>EP2145-NPEB00388_00-ABOUTABLOB000004 (Europe) (DLC)</description>
-		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000004</game_id>
-		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000004.rap" size="16" crc="948acd9b" md5="5ced7eadecb1eb5fac71f82609aa5ef3" sha1="85acbcfafcd4240df5e512100e4d6a290edddf7b" sha256="bd5c860dd5d70ae0185ed99e11cbd48fbc3b4d2e223d456160061f1d842df634"/>
-		<rom name="ZvhoApdAXJCudCIhmeUBNXGKvctXGDztBhDvBTtQFsOnVZztYoMgCedboQKgexIs.pkg" size="102400" crc="4b708c88" md5="aa4057ec047352f571a71bb4a84513e3" sha1="1d81ce10fb743abe200beb8c4394126857af0ca5" sha256="46833ffaf1ad2b9e769794f82189e58fb45b1fb0a9974503b56b7968082ef9b9"/>
-	</game>
-	<game name="EP2145-NPEB00388_00-ABOUTABLOB000006 (Europe) (DLC)" id="23921">
-		<description>EP2145-NPEB00388_00-ABOUTABLOB000006 (Europe) (DLC)</description>
-		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000006</game_id>
-		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000006.rap" size="16" crc="0821ef6f" md5="b8c903287dabcee10381d94f1e04fcab" sha1="77499dcaff16394f72ec3ab8cdce26a230e2829e" sha256="811503c3950cc54b816d7670232e13fdcaa9306b6d9619b33aac5074fd756df0"/>
-		<rom name="ghJConJMgAFIhiMQOHtWTXICUYDaORjfWiFmGtvldbtiEQXBbizIthHiSQivmBXT.pkg" size="13535456" crc="99d28813" md5="070a176e23556539b3f97b00e4563005" sha1="d25093b71892eebb290747dae60b52dfc87bc62f" sha256="2854106327981b021136084daf2d23554bdebfcaaefb11c1376863801bb47f27"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7BGMPACK000002 (Europe) (DLC)" id="23859">
-		<description>EP4108-BLES01149_00-DW7BGMPACK000002 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7BGMPACK000002</game_id>
-		<rom name="EP4108-BLES01149_00-DW7BGMPACK000002.rap" size="16" crc="45663a1f" md5="629cbe5b2e07ddeb259f522eee095459" sha1="33fe02ccf5f618fa4d9b30e8a445d57983c742bd" sha256="4c63e8a1f91352a22218750ff4b8a600e1cac1409c1803fc047ad4a57218921d"/>
-		<rom name="dTvGyEjdFrTBVlywpdljZtrRbBHikVpZZnACWqPOdMbolwiUxcYOMbwuIwoJJZGH.pkg" size="43729600" crc="303ec3e8" md5="6d40d67e640c788e6bcb33a10cca3cda" sha1="d3a3fd32e0fd97a30c63509c03e829e05bb74b7b" sha256="d022390c810bb8bc282a55e62976abea2e3e9e7f6fb2fb6850b3c043f1a26ef0"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC00OUTFIT00 (Europe) (DLC)" id="23860">
-		<description>EP4108-BLES01149_00-DW7DLC00OUTFIT00 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC00OUTFIT00</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC00OUTFIT00.rap" size="16" crc="abd7f6ac" md5="4a0849a55cd3ce7049df162e0fb8faa6" sha1="c030490f59dedd19be62b871e85889e3b550d330" sha256="938c3295e1b1b7b0e646e2cd7d15da344240888f60f48e3958fd612191aa7531"/>
-		<rom name="AUGDqdEFhoFluilYsogViKiOfgxPSYYHkatxNwPExwKBTFFZQNwpbEGJqxxGSVea.pkg" size="11285152" crc="fade37d1" md5="06de272b8ec04c96973e92897b5c97dd" sha1="b76e156ed9c953c86aec12cf3394acf8301a8b12" sha256="2d01ce0e3719ad8eaf9b34bf1941cb0cfea32b8a187bc0a3006df7f4f973e9a1"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC01STAGE000 (Europe) (DLC)" id="23861">
-		<description>EP4108-BLES01149_00-DW7DLC01STAGE000 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC01STAGE000</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC01STAGE000.rap" size="16" crc="81b69c46" md5="5bd45b957ad809a9f5e0367f8576cf96" sha1="bf9d3d2b913c24269f171a430717181503c857df" sha256="3fe9d836a913b76955b04517fc2e91d222b182f6ed41b0a880d5551e6dce9f45"/>
-		<rom name="aFHQicCafnMKntBpSUsFhqUOyBICrDdkIWtfEBiTfIJWwBdncXIHmAnhHweVzmec.pkg" size="48699616" crc="d9fd4dd5" md5="9f1c935b71e3c2ab00cf77f6159ea1e2" sha1="98f68a70f06c3ada7157817f6ff25548c5315240" sha256="f71ff7dac0e0bb53e8280f1599b9bad35ceb6941b72783122f619fd5839c2d9c"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC02WEAPON00 (Europe) (DLC)" id="23862">
-		<description>EP4108-BLES01149_00-DW7DLC02WEAPON00 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC02WEAPON00</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC02WEAPON00.rap" size="16" crc="de542e74" md5="a0e4bed948f71b308941a069a74a68ea" sha1="3319ea2ab1ee0a0e59dda0194154c1bd7e86cf75" sha256="4c8f773cba59fe308078163f73a9efd3e1647b19b90b6011ec6ccf8e838f7a82"/>
-		<rom name="rgwVusrWeHgSwekZBTbHZWFjJbMBiJWjFynuGDlrVERMHFTynKBPufLblszxGyBj.pkg" size="7718256" crc="04b89da4" md5="28b7b4f3c42904c1fa1aca11ce244620" sha1="016190110ab0bad63bd003673fa3eedb9126cc01" sha256="19d0f5ebfd4cf4a33b7b59b97c9b45c5777be9ae39d6dd6fa4100e699cc73446"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC03OUTFIT01 (Europe) (DLC)" id="23873">
-		<description>EP4108-BLES01149_00-DW7DLC03OUTFIT01 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC03OUTFIT01</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC03OUTFIT01.rap" size="16" crc="c855407a" md5="3a33e66bb9e627d8a4a7147c6ed2bb06" sha1="d955f7aee1381f7242dc48fc3d3aa05297c91b39" sha256="127452e4b187b647234d2ae23cf9fed300b954531665a96a2adbbb7d2e12ac7c"/>
-		<rom name="AyLXxUMUpAVFPcuaXTRqKGEuqwybQvwvtftlMcXyPKVgBMaBkUghylHkhMlhMbpQ.pkg" size="98861856" crc="c158781b" md5="f5c400a59f87a490483f68df896c347a" sha1="999a0b392820400aa50112fe95cbd0a5a9146d92" sha256="3e0ab9904e0787a5e763f56ded3d69509d14529cae5c11287fbc64b18ece796c"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC04STAGE001 (Europe) (DLC)" id="23863">
-		<description>EP4108-BLES01149_00-DW7DLC04STAGE001 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC04STAGE001</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC04STAGE001.rap" size="16" crc="bd2da9ec" md5="541e368302d3957a00edd86dbeae1ac0" sha1="43c9748e324e29e3e05fec9c398a76cb4b533d09" sha256="1cb00e3cbb6a34007e9b878f04824ec0878b312c4f1685700f288c959065d0fc"/>
-		<rom name="HrkEhOkPCEXdzwrtvctjavCJRoLpaLJaOYAgetbKNCQfOHpGVlcooOoVXLovbJCh.pkg" size="53146848" crc="b586f573" md5="2b4f6b8f6c15abc600f585c5b032f63c" sha1="c451bc33e7a279a26a49839a539d05609c10e197" sha256="7c7838d42162416546e2352ee2aae5e2b2421ed82f04d34c4674c092ed51ab75"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC05WEAPON01 (Europe) (DLC)" id="23864">
-		<description>EP4108-BLES01149_00-DW7DLC05WEAPON01 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC05WEAPON01</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC05WEAPON01.rap" size="16" crc="833dc05c" md5="44234a94e2a3e704568574674ea88a56" sha1="92e2079aea05e6b4cdb015ee5e588cc9cbbdcc1f" sha256="95c542fe246427bf4022983d7037cee09735f36ed024b86e84ea1aaca471ac50"/>
-		<rom name="UGWgIGLmrokVPQXhWRYcdsLyseVwCxqaFeVnnYhQENHxUcdTxtabNstFIcuHvcgK.pkg" size="6866432" crc="5a87abcd" md5="d60348bec29347e696b8607be508e88d" sha1="9d20dd7eedae5857b621f04cb3f0827e6502220f" sha256="c64d30873935bd24b8cf55c4ca4679166927c3028e2889a5648b6b5562b388f6"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC07OUTFIT02 (Europe) (DLC)" id="23865">
-		<description>EP4108-BLES01149_00-DW7DLC07OUTFIT02 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC07OUTFIT02</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC07OUTFIT02.rap" size="16" crc="d55b1d32" md5="7f088730d2172b76d1c87f8057c22284" sha1="21fc40db1c99e52666e2e5234fa6e69496520339" sha256="6151fcfdc6eeb3b5ffe82cf5243f50f5d599d63b8234f43a1498546621610e82"/>
-		<rom name="kvObWgtzJwXRZSNIggjDUDmRWqtnqqeVwOMVaUCwgrJYqkhuIHQpdFQhxbSHKOlY.pkg" size="95633920" crc="7416d37b" md5="3c1670eecd2167db919c6e8c203bd890" sha1="d9727bb1e514197d523065ffce248d1a419ac5c1" sha256="0937b887f0bcf8788d167ef0b276040e17e937d51ef2f73a519851e4cfea0bf1"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC08OUTFIT03 (Europe) (DLC)" id="23866">
-		<description>EP4108-BLES01149_00-DW7DLC08OUTFIT03 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC08OUTFIT03</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC08OUTFIT03.rap" size="16" crc="5497d0d2" md5="bb5386a6fc8f3322dbea7ed12b68d204" sha1="afa27e35b272b02791d2e31894aa4f6cc16e5796" sha256="f3f129897718e46747787d551e6b32de2cdc27f5f8f30d663c01051bc3097c0e"/>
-		<rom name="HXUWmjELyRfCCbeDRJvLZaZoVnGYWwWWYjEUanmnDjILFcgEWRJkMSWOokwjwEVx.pkg" size="26852112" crc="0879f48c" md5="d8a7ee14574cbe28f554161e684f85ce" sha1="44f4d7b332868713dd713dc920c3e5d26a8c7a10" sha256="337106c1cdb72d7a4be258870b699191d248ff6603a8bcc71fe771a538496b01"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC09STAGE002 (Europe) (DLC)" id="23867">
-		<description>EP4108-BLES01149_00-DW7DLC09STAGE002 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC09STAGE002</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC09STAGE002.rap" size="16" crc="1ffbda0f" md5="8f9c32d12ead25a2abb2b21ed239e898" sha1="4ea79ce57323721141c8f40a9b839ab955b36009" sha256="ab7ada899cdc5901fdb145fd513954b114c8816421047581c0f839e114b230a5"/>
-		<rom name="rwguWcfhSClrWoCrTdzbpKWSNiCNAhzuytGaZYPPNiZYxhgnEPsYwuPbsdGEJbVL.pkg" size="53937200" crc="f5185454" md5="9d5b01b4b72b490423d8657eb1b5f730" sha1="2aee230b227bdb9986a294f66740991f8bc3473d" sha256="c082431fddbc57b98eec923489c5a1a3b22ae0f8a4d81886af1679624564562b"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC10STAGE003 (Europe) (DLC)" id="23868">
-		<description>EP4108-BLES01149_00-DW7DLC10STAGE003 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC10STAGE003</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC10STAGE003.rap" size="16" crc="b1b57a6d" md5="3276e975fd82d6c10e3fbc34cd4356c4" sha1="a85547099c361c38f3a5b65f68173731dc27da3f" sha256="65347cf0f56674fa117bdaf15f80c713afbba19b3470bba2f5a011b82dff2d0b"/>
-		<rom name="QsGXdbDLxiynGhCkNlNwTsbUqAdjjgyisfyCWEKuKlBCjcZSsszwBFmphvjbnPJO.pkg" size="61006864" crc="94c0b7d9" md5="3d97deb1e9fab1017f7a051693b09740" sha1="f6f4354fe1c9ca9efe1308b83f4b2974ccf2fc88" sha256="6857cf6041aa5811e620efca201034e2d781bbef79e891874e9477f78fa343d8"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC11WEAPON03 (Europe) (DLC)" id="23869">
-		<description>EP4108-BLES01149_00-DW7DLC11WEAPON03 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC11WEAPON03</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC11WEAPON03.rap" size="16" crc="b71aff0d" md5="83f23ae61ef38990302693b5b75393a3" sha1="8fa848483186812e4462c5166e37cdd2a2528187" sha256="629e79600448a8e69f7306c05e6d76a22464b6cee8de182a4b43fedfea0e9b32"/>
-		<rom name="HedWdoHXUExtAZyshaYTsxMqUkWciywmKkKmKQBuJxcryGfchlOBVfAkwkMRLFlN.pkg" size="10515760" crc="2220ed67" md5="e4016a93e996cd56b10b080296cd755b" sha1="6b4d32ca0b9a273037f2f667f39d50589046a2bf" sha256="873b7843ecee6eedff4e7f9428d7ca78b378ad6c624db6dcafe14b133cc71919"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC12WEAPON04 (Europe) (DLC)" id="23870">
-		<description>EP4108-BLES01149_00-DW7DLC12WEAPON04 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC12WEAPON04</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC12WEAPON04.rap" size="16" crc="c1337dc0" md5="e0e790f83e79d71aabd411831075d57b" sha1="423286bdde38ef18ee2057e8e0c73e06e6d063a0" sha256="ab5f62a315ef131a3e861f11fae89f12f34802e549c7faf6a748ed2be2d8cbf7"/>
-		<rom name="ugjUXoGWQmvjygjqQyheznodeukcrdPqBuEPgzkRizOoqXXNBRFtoeEInoMktSnj.pkg" size="8767616" crc="e83f76d8" md5="607ea39ee4ac5175de635512e6920904" sha1="e865365eedcade44e9143a94932760790eab7f7e" sha256="60951cb14520afede41eea89b626bcc805b7ffb712e7800c6b4bdf0d1270da4d"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC13OUTFIT04 (Europe) (DLC)" id="23871">
-		<description>EP4108-BLES01149_00-DW7DLC13OUTFIT04 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC13OUTFIT04</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC13OUTFIT04.rap" size="16" crc="05ef9bbb" md5="cbfb26a1a7ad5d540f89c8899ef5fcc7" sha1="5d22a6a7b5fcfbd135bdaffd3fa6a61cd234620f" sha256="bbb09c1ab7fc8ce9d117e29feedea278c7ef73f799bca380625dfd1ecf350503"/>
-		<rom name="AxgkpBrFRMvuRUeOHOLvPyMYvzmQnhkKTiayLGgkArhLeNXwwxczwybuSDVuMRBx.pkg" size="98450544" crc="fd0d3608" md5="7f1946cb7f4bceee172b08b35fd98f19" sha1="2be73b92132c120f7f2a7935cfa19d213e101243" sha256="1b8cc95f8f8db3f4abf5a88226668a3dec0181fd648224b4d6e7aa28477cd862"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC14OUTFIT05 (Europe) (DLC)" id="23872">
-		<description>EP4108-BLES01149_00-DW7DLC14OUTFIT05 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC14OUTFIT05</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC14OUTFIT05.rap" size="16" crc="2e1cb999" md5="a3f2040c0b27fdecf8eee20ea9deef63" sha1="362e054731be3d1bed1bbf7b7826047bd30492cb" sha256="aaeac53a527508a9ad9c00dc71eee55229ede82793501122fa8bec74e66afbb2"/>
-		<rom name="ibgsyYAdsWxZmFybWodVWxkkaBTarDKIKRakKJmMgNCFHyGwwqPnyMSOQXIDrZgR.pkg" size="33067040" crc="9111ba75" md5="8cc96fbae22e80df9895ad0518f0db35" sha1="e3879cb2ef3fcc650b867c7d4fc42c2c14ff73b5" sha256="617a446704cade6faa268bfdef9409330a5f400eb12e302b900f88545392a11b"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC15OUTFIT06 (Europe) (DLC)" id="23874">
-		<description>EP4108-BLES01149_00-DW7DLC15OUTFIT06 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC15OUTFIT06</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC15OUTFIT06.rap" size="16" crc="43389ac5" md5="c7be27969c2201cadf4954c503662770" sha1="18ad840573c6ca9cb14ba1d9aa245c8dd461c224" sha256="413ab3ba2eb1d0920a320950b5bb0174eb312872c933f4c197e9014b2bf17322"/>
-		<rom name="hXithfEjOIjZlpQIEHjJOHoyieaNSzuZqEqlGxImnkAFHfyyuopAjHsQnKnvJrVj.pkg" size="35791424" crc="cced8cac" md5="9366ebb8b52d56416d7c02d308625396" sha1="0327658137a940fddd5893431c89691875da5458" sha256="e99d632a83b2b62fa1e57ebf2c75d9896f64333c0a538bf184b88f7d78ff6440"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC16STAGE004 (Europe) (DLC)" id="23875">
-		<description>EP4108-BLES01149_00-DW7DLC16STAGE004 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC16STAGE004</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC16STAGE004.rap" size="16" crc="061fee56" md5="1b4c050a40a976a9f79acd2ce4b53d6b" sha1="6b80183f246a4971e133dc6ca74babd42b464494" sha256="98af5a7bced571355c7464fb95e1ec776a55759930b4191c36a247ad71ad0228"/>
-		<rom name="YrTCWnrmaFLfiFqcyQtSWTflnMtgiGdfcNfSKEmonDMFpanCpbyWAeVyZYcNftPQ.pkg" size="58094400" crc="7ff19f6c" md5="e22df9c46c3acf4f3f8187edcf246788" sha1="c7816ca1c437964bd120a90888473f38ab822ebc" sha256="7638b794a0d2c5f0e78006e6d628519cf68087c23d65ea77b83f3c97d94bd2e6"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC17STAGE005 (Europe) (DLC)" id="23876">
-		<description>EP4108-BLES01149_00-DW7DLC17STAGE005 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC17STAGE005</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC17STAGE005.rap" size="16" crc="c1f422fc" md5="38e543b77b9b5ee1bed46c6092928c3b" sha1="1d54c8d936b84f3c4aa7fa54e7a5e0fc05dc2dfc" sha256="55a8e2818f7f48a7b5d42001a687ef777230325c16c9d6592c1d9f575badaf52"/>
-		<rom name="tWZgyoIPZonlaiKQslSFWHyHzOwtdbalmJpsbpIZrnFsDKscMLNaPawIlHmHfOJm.pkg" size="64618336" crc="ca70f8cf" md5="362c2e2a48e5b1826ef43875f7f11e0b" sha1="b2d2e6b2ced8b42454368ae43980820d97c5c48f" sha256="5ce0a6b213bc01e85bc1f714c126bacac0c51d6afef30d8f72d16b8cf62e6364"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC18STAGE006 (Europe) (DLC)" id="23878">
-		<description>EP4108-BLES01149_00-DW7DLC18STAGE006 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC18STAGE006</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC18STAGE006.rap" size="16" crc="a7ba69b4" md5="5be97b2e2200c9b6b3bfd2d6a583c10e" sha1="4fbca4965ddffe44612b91498f22e0bc5aecdeae" sha256="2c865105bb157f7397194b7232e01056d2aead2f35c557d4d70ea16ae87f4891"/>
-		<rom name="mHjDHmRvmDqQwvrKNAUiojWIyqjpydEFSEUZglWJCkJzOhXLqAzajJTwXMZOfkRO.pkg" size="69956864" crc="3217b4b9" md5="b4ffc646950a5fef35e641e4db1f2a07" sha1="66ece6f302274d394abad78aa25f50aa36992423" sha256="21b14a2c710d245746e73c279eee85dcb7710c9fea53dc0628c9cea26c041c46"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC19OUTFIT07 (Europe) (DLC)" id="23877">
-		<description>EP4108-BLES01149_00-DW7DLC19OUTFIT07 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC19OUTFIT07</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC19OUTFIT07.rap" size="16" crc="df35edbf" md5="d3d45ea11645489c417f28725a4a66f8" sha1="91cc1f146d50b18077964d9ba6c36c2f7e65a34f" sha256="7bbb3ed11a1de3cb6cab36dcb53927ef1d520a778faec3a84eff4a18eda089af"/>
-		<rom name="fewXZAaTYoBqYEIROWoBrujnqOsOmUzPQfTOKrElgRgKIhQaTmzNYQImyYupJEAV.pkg" size="102178144" crc="7e258a0a" md5="44d177fcb2626c9ff11de276fbf8444c" sha1="7f9830ed60b648c4c7b08e1c5998eb6f052ef6d1" sha256="39a99caa348fa98dd77fac3344607222fa541cd87e5a666e6c596865de0c4f09"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC20OUTFIT08 (Europe) (DLC)" id="23879">
-		<description>EP4108-BLES01149_00-DW7DLC20OUTFIT08 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC20OUTFIT08</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC20OUTFIT08.rap" size="16" crc="bcea9556" md5="ff7895ae86744c877014bd08915a40ae" sha1="bd638d4e1129d95fa7cd8cbcb5fb240a404517f5" sha256="a490c958e1ed751db32a0e3162e343dd5ce87da4051ebfe3f1b279b4a3932ba9"/>
-		<rom name="DhaUqKpyQLxpCqKIBLlxSyrNzKnbIwtTrRjLVtxPOMjLOOrSgqtGcbOcUSeKmGHV.pkg" size="34001200" crc="e00c9d5d" md5="c56289cf15e3c2de4afea35490eb08db" sha1="89a824bbf233d2db9cc55c3a6536c88d91d491a1" sha256="92e21eade312ffce1a31988b1c5b771617a51f72bf2fb60c155b19a1153b5cb2"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC21WEAPON05 (Europe) (DLC)" id="23880">
-		<description>EP4108-BLES01149_00-DW7DLC21WEAPON05 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC21WEAPON05</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC21WEAPON05.rap" size="16" crc="a150f978" md5="f330eb545e58a347b8bc7263d3c58da0" sha1="ba35f9d7dbc40d15a0935c5d5786167f7c3f1017" sha256="0bbbe1c3368824bf2296d3588fe2e10e21e289d404802591bd2eb4f32351d529"/>
-		<rom name="ViUQPDiBVzGuCbDqfyZvZkrNyIjUSraAicYYdabQSsaHLAFkWrQiCDzmrtkRywoC.pkg" size="3598816" crc="993318f9" md5="ed808cc29ffef1500311f925601453dd" sha1="c47a244f1560b56ba5fa18902e61a7255f036dfb" sha256="f3b16ffd73d22336339be233cd48b842e6bf6279c7cefe07543ce7deed96b462"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7DLC22BGMPACK0 (Europe) (DLC)" id="23883">
-		<description>EP4108-BLES01149_00-DW7DLC22BGMPACK0 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7DLC22BGMPACK0</game_id>
-		<rom name="EP4108-BLES01149_00-DW7DLC22BGMPACK0.rap" size="16" crc="53129a55" md5="1353b754b6c7663324b31b24a54e38b5" sha1="52a38adb5c60aa736b4ff9d782be1061de19febe" sha256="e004a74c2c59459f8548bc4ba6dfdc40d8c46f9a5ebb118c6905db4e8d4f620e"/>
-		<rom name="ZPJXCcLFtKUmUGkhHdYDZRsYCuVVccnKUFqYKmUxWJQPadopdCInzePTXojwQHYB.pkg" size="52968224" crc="ccadc28e" md5="80366715893bfd025978323ffefe3a6d" sha1="31a2d9bca07abe93431b7064060000d36bf60bd7" sha256="906c533e1fbaccc563dbe9e0ff6e3707c0124b72e8336285c835f5ddf86d8b94"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7EXCELSTAGEPK1 (Europe) (DLC)" id="23881">
-		<description>EP4108-BLES01149_00-DW7EXCELSTAGEPK1 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK1</game_id>
-		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK1.rap" size="16" crc="7034f676" md5="fad9445485c989a23d385b88b543b7ed" sha1="1d98ae055583566ec61246a3fad06789e739d22b" sha256="e43800fe33a7519bed9d215c0d6389d8d28eb04ea2da529e0175e43d78892efc"/>
-		<rom name="QqVNpzVuVAboDLToJqJgndXaLUXyMgOPYrxnaCGtPqFQZvUEwgGDvRkWcpIUrUfT.pkg" size="1117344" crc="c1d1be69" md5="1a376eb137ae5cfc8ec4aa0b8b108a68" sha1="77669aa951275480d438c485f04b5f81b4623d24" sha256="ec69ffbe401c13a9b659954cc30130d2cba773c8c55e91828612a0ceb35c2ed2"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7EXCELSTAGEPK2 (Europe) (DLC)" id="23882">
-		<description>EP4108-BLES01149_00-DW7EXCELSTAGEPK2 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK2</game_id>
-		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK2.rap" size="16" crc="44e1ed21" md5="18739c0e8b46385c5bdb04df2643ec51" sha1="d245d44dedaefcf5dc65edc0e60fbe63ed892b14" sha256="c8e80274695dd3a4d3e1015c9abf7a182b3c9b6ee703fb0d2b504694fb6ecf3c"/>
-		<rom name="QmJyIIcMfmXQqYwbiZrdQMfzzERPFngiotMhpXheXISQABVystIYWNnUHVVTfmeQ.pkg" size="924352" crc="2c8b443c" md5="d6df0e79fd2d0c75ff8eef2dc8f2b21a" sha1="2c2db1a3d7fc3945cd64e9c2e1b83ed907898511" sha256="6d1db14a647fe44499ec3837536191f4b17f9e19ef375d7bc5dc01d080c8fae7"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7EXCELSTAGEPK3 (Europe) (DLC)" id="23884">
-		<description>EP4108-BLES01149_00-DW7EXCELSTAGEPK3 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK3</game_id>
-		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK3.rap" size="16" crc="d23a282d" md5="05c554a583cef08464ed81bbbc112692" sha1="b7abd98480b37d810e8399b1e892fa38e8ac2d6a" sha256="8c3bc7c3a360239b5734716f8b01e7aad27c26d897f38876bcd3c4042bed6089"/>
-		<rom name="fBChDTqUWIedLSlLvkduHmpZpfzfGJBAVlobhrwuMYetzgqnGmyjRvtpWYIfXBxC.pkg" size="993696" crc="7877b155" md5="0c5b432cc41b314bc540b59e07ddff0e" sha1="3a229e268e009c3f112a1ae3e250bd68eea6cf3b" sha256="bbd12a48d97270187d3ff24dd378d5740240fc3e8fe458d72080ec25d90d0ae1"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7EXCELSTAGEPK4 (Europe) (DLC)" id="23888">
-		<description>EP4108-BLES01149_00-DW7EXCELSTAGEPK4 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK4</game_id>
-		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK4.rap" size="16" crc="64d25741" md5="3507a585b68ca29732b2bb6db3e94738" sha1="7ba3c52e607456aed1652dd4e884bdb2e6f6cb40" sha256="4badcfbbe2dddb8140d269b2df420b986c56a5dcc9dacb4cda44ca947f0e0dc7"/>
-		<rom name="LHfAIsNaeUQYjrFyNEdLcLcoTcPVRymoUuSlSQUGXkFKzitMwDjRTaSuLURsvpYz.pkg" size="1066208" crc="7c2fca3a" md5="546355506646fad0a79e0b3c51313378" sha1="90570d7d1725526cf0e9d01863a16dc72ae4326b" sha256="83c73495997bf8bf5aab03ccd4f681af18d0262beb8a7035ff9f7dfd3fe2662f"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7EXCELSTAGEPK5 (Europe) (DLC)" id="23889">
-		<description>EP4108-BLES01149_00-DW7EXCELSTAGEPK5 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7EXCELSTAGEPK5</game_id>
-		<rom name="EP4108-BLES01149_00-DW7EXCELSTAGEPK5.rap" size="16" crc="5ac7faca" md5="366d7b9c0217761fbad2abe7b401411e" sha1="2bafcaf55d7c4c50fd632a32903903b5b819c0e0" sha256="86e451a235bb5cbc1af026681ad5eded247ce5d6dbf8ef3afbfba42dc85697c5"/>
-		<rom name="XHSsZIoTZFjtMMBDNNiJeuYiGigibvinveYpKTPGOqCNWmsBWNOEuPfuSYZnrkqD.pkg" size="1025616" crc="f0786d07" md5="2ea3d9b46674ad502442d7cac988e822" sha1="c4bcf827f77a361e677df265101bab32afdb7ebb" sha256="1d05c80b96656803fbf6e86e828c27786b824628424947b3e57b97eeb7e01015"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7LEGENDSTAGE01 (Europe) (DLC)" id="23885">
-		<description>EP4108-BLES01149_00-DW7LEGENDSTAGE01 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE01</game_id>
-		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE01.rap" size="16" crc="967cf87c" md5="8f2b81acc442c83d300cc15a2802fdc7" sha1="6f8eb2b02f55ae551819d51028669387aa763f99" sha256="ba5be8cc349669a6ec7a573f6e54bca93e799c4e9a3db2976d0a6fba0ef31853"/>
-		<rom name="hNfvpCChJzfEXWKUdeNJWgfppiSKguqIdgFaFiaSxDVBllWwLIcvAPSSYcqGPlqp.pkg" size="62765520" crc="56e23aaa" md5="e3b656d67facf5f653c73e6a43359588" sha1="79694610b6ef217a80defd7bb6ba1d9cd99a80ff" sha256="6f30b8bae2529b5d02150814d89ac7e9d40e14f606db78257667ab1b948bf89d"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7LEGENDSTAGE02 (Europe) (DLC)" id="23886">
-		<description>EP4108-BLES01149_00-DW7LEGENDSTAGE02 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE02</game_id>
-		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE02.rap" size="16" crc="52779666" md5="e98f91190c813b94583f2eca2cedf101" sha1="8f4f8853ca874572b7d52d5bc0cfd4ed604a3b89" sha256="c2e559a7e4dc75fb68848ba83ab2ad5ef78c9fbbba1837696736efa3315cc599"/>
-		<rom name="WBGOLlNqfuDxcfVQuBajkpwEdrnfcQRfkPhLiemLbHcBLehNyFexZcYVgtjbdrXs.pkg" size="63979344" crc="bd38be31" md5="7ba8ee9871e52771bb6d880d5d73fbca" sha1="264311376fa720af050fc81f26d47298adc0873e" sha256="5a1900ab19e4d3d945a25550c3631f1bbbf31b38183dabc6b4691485d698dad5"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7LEGENDSTAGE03 (Europe) (DLC)" id="23887">
-		<description>EP4108-BLES01149_00-DW7LEGENDSTAGE03 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7LEGENDSTAGE03</game_id>
-		<rom name="EP4108-BLES01149_00-DW7LEGENDSTAGE03.rap" size="16" crc="5f47f0af" md5="a6bb00151d759895608169100343133f" sha1="d41ab184261a907b7b5c50d5f54cd3bf36758e1a" sha256="c0c825657468a2845b39212f7c7b1f3cfae3bdd1fbcf35d8322a9a17b2e4269f"/>
-		<rom name="OyGXlkhTWSPXBsPCIQRTwzcqabgeiBMzzjepGPLfvBjUZDNOTVoMuFIQVXYzZaBo.pkg" size="58015824" crc="dd496d7e" md5="70b9a013d46fcf6bbaac0820eaa05b67" sha1="1777c06085aaca811720225353e253e613c0ef9d" sha256="19fb6160ba507dc4ecfe14400f303ae99e68301fa396d5ad14e3e66cefeadad8"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7NEWWEAPONPK04 (Europe) (DLC)" id="23890">
-		<description>EP4108-BLES01149_00-DW7NEWWEAPONPK04 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK04</game_id>
-		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK04.rap" size="16" crc="5336284f" md5="cbff74e6c105b6069eaf90445dcffd83" sha1="65e0f69e205c8feaa3dc4dffe8510c952b3abfba" sha256="0b272ecb58c8ec0a1632a59f89c8783164c0887f74aa43939c7f81769b95c00d"/>
-		<rom name="zUoPWuSjUYkvYAFUcAFqTrBoCfYLxqyhQwLUUajqBZaIQkihBijRHTSbDgSkTMMj.pkg" size="7811216" crc="6dbd1ce8" md5="f40953216d57580b02eead379c298866" sha1="6b60fd3166e19eed16311989d6e805e1da3dbf55" sha256="6280d1cba1db2c7148faf4fc4ea0b61417b5c3b0965bb55257e62083d83a138c"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7NEWWEAPONPK05 (Europe) (DLC)" id="23891">
-		<description>EP4108-BLES01149_00-DW7NEWWEAPONPK05 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK05</game_id>
-		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK05.rap" size="16" crc="31587dc7" md5="290908322d64ea4f2633d1f80d0b8f3c" sha1="fb63fd40932e73a3cf856889be7965d7633dd8f2" sha256="25ba2ee077232783e1fef04f7d42c7707e34af21426ad1309d6474208143f1d8"/>
-		<rom name="mpQlizebhZsTefVPhCeFOUDbmgbvsUDwtEpmdZybQYfMkxuSDEbEevknKhrpVJpU.pkg" size="12180640" crc="572fa548" md5="50e198fae4ad40f60d7ce610413d308f" sha1="0df6f8002c6a37f818c828ec89d24cc3d4e60d09" sha256="5dde69f4d2487a7452b3e2bf0f7e6d1fcc71a1b7330788baa7f0ec44ba478483"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7NEWWEAPONPK06 (Europe) (DLC)" id="23893">
-		<description>EP4108-BLES01149_00-DW7NEWWEAPONPK06 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK06</game_id>
-		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK06.rap" size="16" crc="6a0c1d5f" md5="3a963531390e683491d12f3c6c3fdbe2" sha1="2c92143df608c9b84463cce2c0b34687b4bdd610" sha256="c87057ed38351aabb62719b75f6aee925e741a0a7652a30bb9b27b682f55f2c3"/>
-		<rom name="eXqLadWZVollbOeFdkwabzKYmohQvAVDHEpSOkBqiKCoFpjEFLVUWPsidFTKEsug.pkg" size="8458288" crc="dbc328f5" md5="8a3c7a8d2ca55a8c41d3234b45a08346" sha1="3d30ba3a24a453d9e8d516ce101031d729126933" sha256="8f61b973988a1f8c7711354672bd9b6df3f8d18ca6b498d42aeb52471493401b"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7NEWWEAPONPK07 (Europe) (DLC)" id="23892">
-		<description>EP4108-BLES01149_00-DW7NEWWEAPONPK07 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7NEWWEAPONPK07</game_id>
-		<rom name="EP4108-BLES01149_00-DW7NEWWEAPONPK07.rap" size="16" crc="90c86df0" md5="6ca7d7911332d34414f663a108b61e11" sha1="7b69fd129b1bbb91fdf9328ffa9c690465287041" sha256="b9d1ab6b6339d1882ad8c3542727fd13e0377f03d44cf198bef93f8095f9e4c9"/>
-		<rom name="ndbbxYpAmAGMBjPtcRXGeBOAMfCyIaLvxEADqlpfuTNTXoOoDyMnnuEFHvgaHMbW.pkg" size="8928400" crc="5453f2b7" md5="f91238f9b1a25a474ef1426b48e92cc3" sha1="7b200ebc8b42b915f52622ae069aa0d4c5f1d41a" sha256="52e92751eb8e095cb3b74138a8296af9604aab0e1cc780e6df4e5dfabc75d154"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7OGCOSTUMEPK05 (Europe) (DLC)" id="23894">
-		<description>EP4108-BLES01149_00-DW7OGCOSTUMEPK05 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK05</game_id>
-		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK05.rap" size="16" crc="a31236b4" md5="2b294a22136cc31dd1c2a4016a26e75b" sha1="d0a0ef18236fd2c4bca59c0b1ee673d168115a8e" sha256="ce6ddedb9195b76bb402e1a213d68e3281fe0c4f30fb23b0eb937c3af893d216"/>
-		<rom name="RPkxaMRFfryOIRzkhJVvdQdtLutqOilEvdSBQQGdSRQpTbFMmriNwtpQtfMpTQnV.pkg" size="35343856" crc="be61dfe6" md5="5ce9fc0b96da392b8fe2817c2d852fe8" sha1="c87a72a1e65de23fd83200aff93af1eeaa0a7128" sha256="81153d819785e647fad70f0431962876ccc2a8279c75ad08687eec28c8d3d9a6"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7OGCOSTUMEPK06 (Europe) (DLC)" id="23895">
-		<description>EP4108-BLES01149_00-DW7OGCOSTUMEPK06 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK06</game_id>
-		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK06.rap" size="16" crc="711c5817" md5="9252ccc3227222bc236c87fa2e449380" sha1="483f742756e0882a8d79a673f270afaab86d653d" sha256="d9b2b7beb2d174f1af70725d91422902dfe1e4f966088d44b98e0e377786fa0c"/>
-		<rom name="FiHOvznLjWPVhsVdAwCHkIoWcIXtVzfCNsuVTrYtLPtDDdCHgUvtbxCyozpDNXEq.pkg" size="28331712" crc="e473ea8c" md5="18433910b4f0f8126de07f3b76cb429d" sha1="30264322d22e35b00fb3eec4fa5084c43a65c834" sha256="490bdb815cce32339731286a90d5cbbf4e7c3de640a0f1d6dee4080adade4c74"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7OGCOSTUMEPK07 (Europe) (DLC)" id="23896">
-		<description>EP4108-BLES01149_00-DW7OGCOSTUMEPK07 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK07</game_id>
-		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK07.rap" size="16" crc="d718b710" md5="74b72c257e3c2a996f37253ff8341361" sha1="a79f363ae14aac952c3fb4dc5d9827f9c2e47375" sha256="ed1d648fab0564d8df0afc2591b9181bfb71cfc4ed0d75657a7e74cd1f457fa7"/>
-		<rom name="MyEdHdhidVJpgixGgVlrTqGaPUrDSRtbMIgLTQsoWNlLVMUOkkFsxsWQKtOcgbZq.pkg" size="34692048" crc="94a77562" md5="626f30ebc3e462cfce8e30327bc4b383" sha1="7b0c21cedec307788ecb66d8bfd3101b107ee241" sha256="eeb148d5fa93fc5bb4e583e732000bade0931ab7777282a28f232db900865c95"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7OGCOSTUMEPK08 (Europe) (DLC)" id="23897">
-		<description>EP4108-BLES01149_00-DW7OGCOSTUMEPK08 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK08</game_id>
-		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK08.rap" size="16" crc="ea527756" md5="f6a91aaa4590ce4ba7aac6306faa2c9e" sha1="6921319f9bc03514324cd7c01d98d3e861445c6f" sha256="b73f10cff0aea954646ff3bfcd77eaa401984cb3c151c862574a91d8a4d1344f"/>
-		<rom name="gurAmkcGKbCnqcmVQgGDBezmUhtgcDlzGxtqmqnOcxeHaLxjCFhBJWypxcpdlmHB.pkg" size="38868048" crc="be8c0f45" md5="c5b4d02263e68b3e34f75fa1f208cfd2" sha1="73f9a1cad9c5411e17e08874aec62446d97d8992" sha256="ea18c162114e8f39e43df02c4d228773ef015ac454419cc512a9e901e1cad83c"/>
-	</game>
-	<game name="EP4108-BLES01149_00-DW7OGCOSTUMEPK09 (Europe) (DLC)" id="23898">
-		<description>EP4108-BLES01149_00-DW7OGCOSTUMEPK09 (Europe) (DLC)</description>
-		<game_id>EP4108-BLES01149_00-DW7OGCOSTUMEPK09</game_id>
-		<rom name="EP4108-BLES01149_00-DW7OGCOSTUMEPK09.rap" size="16" crc="447fbea0" md5="c711b38b822f19a06ba2c8275ae138ac" sha1="4adbe0f6b198e913ef627b2672df964ccc3c1f8e" sha256="8ce53b171fde7ec03a6ef15b90833bae408cb0922155a7489ac8d989b489919d"/>
-		<rom name="aQMYUlblvVhfrJDwYZWDvFZdSMFxclPsdHRpiYGZRKYZuBgvtBxftlcPUSuOQabK.pkg" size="36093296" crc="60e14f57" md5="850ec3fbacdbb9979c29e034de7e5817" sha1="a1d892a4203128ac1887dd8355221d93f728a3ca" sha256="8885a7058e1da6c27a58787dbb5260c22a5f1778e4636b98e7c7c4d2a96f4b58"/>
-	</game>
 	<game name="EP4108-BLES01793_00-A14EXTRAMAP00001 (Europe) (DLC)" id="23809">
 		<description>EP4108-BLES01793_00-A14EXTRAMAP00001 (Europe) (DLC)</description>
 		<game_id>EP4108-BLES01793_00-A14EXTRAMAP00001</game_id>
@@ -29595,41 +29690,6 @@
 		<game_id>EP4108-NPEB02221_00-COSTUME0WILBE0WS</game_id>
 		<rom name="EP4108-NPEB02221_00-COSTUME0WILBE0WS.rap" size="16" crc="b9c30103" md5="50b9658d65d84f0021d3cb65e09cc07a" sha1="c96131a13bf3a848fff0709d9d6770df0f78eca1" sha256="6f72090a7cd80cbea180aa136f3f0cc9c7a524e858fb7a0546810b75200a2790"/>
 		<rom name="EP4108-NPEB02221_00-COSTUME0WILBE0WS_bg_1_8884c220f452573c61e734280792f088d7bca95b.pkg" size="113696" crc="eab96487" md5="7da04622ff6f04a160541355a78dc32f" sha1="546d5f848e118e760131d9227b662468515c9eaa" sha256="69c3ad4d7dcb974680cbec275b4fc1bb9e460186e371dc1b3d26e631da6f2646"/>
-	</game>
-	<game name="EP9000-BCES00098_00-BQC1FIN0016SCIFI (Europe) (DLC)" id="23458">
-		<description>EP9000-BCES00098_00-BQC1FIN0016SCIFI (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00098_00-BQC1FIN0016SCIFI</game_id>
-		<rom name="EP9000-BCES00098_00-BQC1FIN0016SCIFI.rap" size="16" crc="8ba6b5b5" md5="0c20b816b36e83f6a32ccddacb6632e2" sha1="03d163c7ea743285ed991fa47528a5704ec18964" sha256="cc59cf4f8b659d41a64a50b8c73641b0aab3f264a695ad41b2e3fc7d8d5dcb92"/>
-		<rom name="2wSoRp0mH9Acuhnv6BqkXmagrkuaagSHmGAO4ipU61FVIqjbysqBBaKyfdk95Pl5pGbNJGRDdXIoeeWk5OHyVjA4owYTtUk8jaiod.pkg" size="202206000" crc="77b0b15d" md5="a51b64202faf5ea9976bccab294e01fb" sha1="f838f012616149861ae4144f5188eaad56808f14" sha256="233ea1335aeb466c936a2922deaa52b1aa21233c50c81290da1a22e738eb8ca0"/>
-	</game>
-	<game name="EP9000-BCES00098_00-BQC1FIN0023VIDGM (Europe) (DLC)" id="23459">
-		<description>EP9000-BCES00098_00-BQC1FIN0023VIDGM (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00098_00-BQC1FIN0023VIDGM</game_id>
-		<rom name="EP9000-BCES00098_00-BQC1FIN0023VIDGM.rap" size="16" crc="bbbc4543" md5="feba5daa703abd089aff22447706673f" sha1="57b9763b3aa3734bbbb62972f1163325a82067e5" sha256="5f2e03361e493f1f91b2a8526e3bb4c07e86f40d8cc6491684bb5191642bca27"/>
-		<rom name="qpAcws4myrs3RHAJqnphUFeXKR3upNVDxfn6YV3Ai6NAtqyoAfsV63q1V7rk1eu4FJcBf6w8xcgTJim732AODY3BnEfls7g28gYmD.pkg" size="155029760" crc="c810aabd" md5="e4b6dfdb6116b9650c3ae0dbac2504d3" sha1="64c586a898c3a2e2cb7523c9728812179db3422b" sha256="6fa44fe76640728d20d0380669c07ccb79b12d566c1b6bba9870527248b58327"/>
-	</game>
-	<game name="EP9000-BCES00098_00-BQC1FIN0033SPACE (Europe) (DLC)" id="23461">
-		<description>EP9000-BCES00098_00-BQC1FIN0033SPACE (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00098_00-BQC1FIN0033SPACE</game_id>
-		<rom name="EP9000-BCES00098_00-BQC1FIN0033SPACE.rap" size="16" crc="9eb5ae16" md5="cb3511e8898a35edfa3870ebbfb5de6e" sha1="187832c3924adc70f0d7a0bb281cd2ae5122ad9d" sha256="ceb428249f8fe99ca6e15d56958c17ab2c487e7d3bcb4ac7a9d6255d7238d331"/>
-		<rom name="fSrOmmC7GP89yhuX1mdIAy8hCiE3e0dqaNe0DmvR7Bi8lB4fPoRyy1xkPM0w0GjSV6pw24Lc7FLdrMmsdxOoXMROUf3jly2evH3iM.pkg" size="62193248" crc="34c09a93" md5="7e1100ddab461703bbff30cdd6635255" sha1="0e21325b3bd824e24fc75da3de7eac6f0809ea73" sha256="33c4af8df5834d5be521f73fc9df43181a77ac2c32c4876e91ec4378b699c56a"/>
-	</game>
-	<game name="EP9000-BCES00098_00-BQC1FIN0060NGKID (Europe) (DLC)" id="23460">
-		<description>EP9000-BCES00098_00-BQC1FIN0060NGKID (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00098_00-BQC1FIN0060NGKID</game_id>
-		<rom name="EP9000-BCES00098_00-BQC1FIN0060NGKID.rap" size="16" crc="e26a8bed" md5="c39caa63ce4442378996fd6668c7202a" sha1="41cdbf9b8ef3ad24a3c461f2415277fc73fdcee7" sha256="47d32e4681adbe986204f47539f6c09374c0ee5e40c08849d09907f87582af38"/>
-		<rom name="FBWeSqXbbykOfqABKRI6lVseqfcxt5t7LE4k0lrqdxqUQrxvApJSB09QxI7Ea10Dn2Bf1XEQ2nyomsm17GKkKEENrKiYkvuRim4cB.pkg" size="58843200" crc="c4317121" md5="8f003de293ffcd71f3cebe0e9e32372b" sha1="9887713c8a04f7e5f09c1c99059ece834f9e9d92" sha256="9e8ded2877f3fae1a507fe35bd3cee217cd378d731171c3b610f1555320ad0c4"/>
-	</game>
-	<game name="EP9000-BCES00099_00-BQC1FIN006100SQZ (Europe) (DLC)" id="23462">
-		<description>EP9000-BCES00099_00-BQC1FIN006100SQZ (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00099_00-BQC1FIN006100SQZ</game_id>
-		<rom name="EP9000-BCES00099_00-BQC1FIN006100SQZ.rap" size="16" crc="0c68f700" md5="c40c8ebc3f9c817baece5df560766c62" sha1="a79f5fc3a95c395c0776cc25a5b242e1c4cc9986" sha256="99343ec97f0df26df42e568066075f972992360cbe3248a06d89a083db025773"/>
-		<rom name="wcyT1RQrsOhItI03r4EigBHqDnNfSM0v9GgXqqwlNkTHdBlB7wGJDyMQqwHL1bA69CoC6TCK0d5G4y0K7UPlO17Gay6fMuy6IJHxH.pkg" size="48166992" crc="32fb5b53" md5="b8f78d9f829e1d5cf682ae6b3b5451f0" sha1="b5e406ba7eb7aef3af9ddcd425fb75e26e115a2b" sha256="a014a03b29292a1fcc58c927ea9d0df0e9ec742b8f401cdfc3772687a274e063"/>
-	</game>
-	<game name="EP9000-BCES00757_00-UNCHARTED2SPE001 (Europe) (DLC)" id="23489">
-		<description>EP9000-BCES00757_00-UNCHARTED2SPE001 (Europe) (DLC)</description>
-		<game_id>EP9000-BCES00757_00-UNCHARTED2SPE001</game_id>
-		<rom name="jx5fyiKA5mVi66aIAjNg7n3l3ctQmV2LVX6bxoIuYKmT9pANRtDVfC1FE0CHfrevBlfCdnsGLDoUMX0PBrRRSyxXxnhnMEm9SUQdG.pkg" size="102400" crc="d62a93bb" md5="c999fe1b5ac7959b43d55d7e1e526f19" sha1="970d31393a63a3fd51cb6eac950119c7c284db7a" sha256="0a5c1d255b50c75c69e20e2a72f9e33c7405c6662cca85319f62c76d2aff82af"/>
 	</game>
 	<game name="Escape Dead Island - Underwater Labs (USA) (DLC)" id="19580">
 		<description>Escape Dead Island - Underwater Labs (USA) (DLC)</description>
@@ -34302,29 +34362,29 @@
 		<rom name="MxGLujBubYrmdfrnXBwMPUZDyDomPRMUkxJxRrbgHSBfnGoMKzgItGEUVKBCulSb.pkg" size="102400" crc="8b62c801" md5="5400b82a54f704df7a2fb858487cfdd7" sha1="67fee84919829bea7d0453453253e6694fec0bc7" sha256="e906f1ad853325e3501272b851ec279f803eba02372d89b1b036c219ab5434d1"/>
 		<rom name="EP4151-NPEB00987_00-PS3DRM0000TRICK3.rap" size="16" crc="b6753ecb" md5="afe2cc0743f01b754ed53719372f1744" sha1="e2b9001467d72f9c5c9fad772c1ced2ae2c45a7c" sha256="11e2c39ff78dd269d19890f9fe946fc80c6d92a3af142f922a4c564bdb0a2bb7"/>
 	</game>
-	<game name="Front Mission Evolved - Last Stand (Europe) (DLC)" id="23089">
-		<description>Front Mission Evolved - Last Stand (Europe) (DLC)</description>
-		<game_id>EP0082-BLES00788_00-CONT600000100000</game_id>
-		<rom name="BhzVATFhIUImXPeOpFvOBlFxzbdcpumpdFBmoXRjiEkgfAhnhozFOLATQgfEHCub.pkg" size="108253664" crc="1009b0c5" md5="876ade5774d9decbc2f17dfeefff241e" sha1="43e3067910932f5b4984a6274fda1817921e56e7"/>
-		<rom name="EP0082-BLES00788_00-CONT600000100000.rap" size="16" crc="6b56786b" md5="8dac430734a27f1b6126b601a4532410" sha1="594376d77909c6b13ab11d730d402c7d85df8de2"/>
-	</game>
 	<game name="Front Mission Evolved - Last Stand (USA) (DLC)" id="16110">
 		<description>Front Mission Evolved - Last Stand (USA) (DLC)</description>
 		<game_id>UP0082-BLUS30395_00-CONT600000100000</game_id>
 		<rom name="UP0082-BLUS30395_00-CONT600000100000.rap" size="16" crc="d5af8099" md5="f1fd6f9cc3559bc44266dd842b80acb4" sha1="faa9648203b3fa6ec7ae2c7296a53547d1604055" sha256="adbd7c67f6399db83cb58771b29bea9851a57b7f8898e3be0e5f7c5aeffeb490"/>
 		<rom name="hVfMXhgLtLBgYlcyubBxwrSqWHVpmJsPQcRVlzQpaAbkHrOmLghrHFohElhFMIbgKrxtBeitybBcBYvxHNieFKTnQhFhgXNdYSycc.pkg" size="108253664" crc="ff9ad438" md5="e82d0feeead30c52f8b31ee2bf6133d4" sha1="54c4c904be353d8702d598b5f766f0aab7154678" sha256="d36442b471ca7b29d63b7b5ee0a979dd9e12581e33749bf5de72aca95e97ceb3"/>
 	</game>
-	<game name="Front Mission Evolved - Map Pack (USA) (DLC)" id="16109">
-		<description>Front Mission Evolved - Map Pack (USA) (DLC)</description>
-		<game_id>UP0082-BLUS30395_00-CONT500000010000</game_id>
-		<rom name="UP0082-BLUS30395_00-CONT500000010000.rap" size="16" crc="8228d414" md5="7e264daa1500d6855a2be361852bf29a" sha1="65a262a02ffc76fd381fb4db67790d3ff1439f83" sha256="a83f79233209bc2f99992c36c68eb4a399134e7992e3fdac066c9775e4bc861b"/>
-		<rom name="OHFuPwFGFFWUzhNSLbHfimOmLgPXVcxaplAajkRYQluFMXIooJcWxfpprJiOmTxwfbVmBkoXlhIHYjAyUhDwxpFNIPzpJUjmPbGKV.pkg" size="230405920" crc="52a2e31b" md5="4a1285d3431c93cd19377bebe8755672" sha1="71e562018ff1bfd68b8940098bb90ad0eb249f37" sha256="9bb7fbb67a7f6e2680a28c86ce12f888e66afbc9a4785f7839ad49f68f6183f3"/>
+	<game name="Front Mission Evolved - Last Stand (Europe) (DLC)" id="23089">
+		<description>Front Mission Evolved - Last Stand (Europe) (DLC)</description>
+		<game_id>EP0082-BLES00788_00-CONT600000100000</game_id>
+		<rom name="BhzVATFhIUImXPeOpFvOBlFxzbdcpumpdFBmoXRjiEkgfAhnhozFOLATQgfEHCub.pkg" size="108253664" crc="1009b0c5" md5="876ade5774d9decbc2f17dfeefff241e" sha1="43e3067910932f5b4984a6274fda1817921e56e7"/>
+		<rom name="EP0082-BLES00788_00-CONT600000100000.rap" size="16" crc="6b56786b" md5="8dac430734a27f1b6126b601a4532410" sha1="594376d77909c6b13ab11d730d402c7d85df8de2"/>
 	</game>
 	<game name="Front Mission Evolved - Map Pack (Europe) (DLC)" id="23088">
 		<description>Front Mission Evolved - Map Pack (Europe) (DLC)</description>
 		<game_id>EP0082-BLES00788_00-CONT500000010000</game_id>
 		<rom name="HefrdklEbcMjgDBTbzeHsYYXaZJdhyMyjQGkWPjJKzEKnopTtVjRrpgvLhHnLNqBSPijRLcgIMiiapxugqyTzXRdOfJroeHSTmZoD.pkg" size="230406144" crc="7b580292" md5="c20c2152e9df3c40a72aa3f1b468490e" sha1="14b809766665be84f36ab1bd6289efa69a17adb9"/>
 		<rom name="EP0082-BLES00788_00-CONT500000010000.rap" size="16" crc="df79ae1e" md5="9ce5902734b608b54f32201d2adda82d" sha1="fabcce5ec776b263f89d28009c85d8fe37de7cda"/>
+	</game>
+	<game name="Front Mission Evolved - Map Pack (USA) (DLC)" id="16109">
+		<description>Front Mission Evolved - Map Pack (USA) (DLC)</description>
+		<game_id>UP0082-BLUS30395_00-CONT500000010000</game_id>
+		<rom name="UP0082-BLUS30395_00-CONT500000010000.rap" size="16" crc="8228d414" md5="7e264daa1500d6855a2be361852bf29a" sha1="65a262a02ffc76fd381fb4db67790d3ff1439f83" sha256="a83f79233209bc2f99992c36c68eb4a399134e7992e3fdac066c9775e4bc861b"/>
+		<rom name="OHFuPwFGFFWUzhNSLbHfimOmLgPXVcxaplAajkRYQluFMXIooJcWxfpprJiOmTxwfbVmBkoXlhIHYjAyUhDwxpFNIPzpJUjmPbGKV.pkg" size="230405920" crc="52a2e31b" md5="4a1285d3431c93cd19377bebe8755672" sha1="71e562018ff1bfd68b8940098bb90ad0eb249f37" sha256="9bb7fbb67a7f6e2680a28c86ce12f888e66afbc9a4785f7839ad49f68f6183f3"/>
 	</game>
 	<game name="Front Mission Evolved - Wanzer Pack 1 (USA) (DLC)" id="16105">
 		<description>Front Mission Evolved - Wanzer Pack 1 (USA) (DLC)</description>
@@ -47038,12 +47098,6 @@
 		<rom name="JP0001-BLJM61208_00-ACROMICRODLC0005.rap" size="16" crc="523f8409" md5="16bd0c7e31cd22862e0b1571b6b7c044" sha1="e00928b639e19fca6606b64912dcd95585ac1590" sha256="a6d6653b9ea5dee8f7921aaba11781e81ae03c848096ef8ceedc77593e10c07f"/>
 		<rom name="PJBdtNvfthlQNvkDUDfwjWuzbzIBnVlLUsZQPUYacDiIUqxNorCXMgpIoqAVGnjVrdZLLlRskPIZXjvSqhRACbycCsQiLdkOYaFDg.pkg" size="2023936" crc="77129d25" md5="2a19f4b7938e3251e6ed295504027799" sha1="da143c47b02c15f18b2f177fc35cb5692eba60cc" sha256="2aca90c6e0dcd47c7187be161277df16a6af37c776b8ddf4dcec016af3d7c8eb"/>
 	</game>
-	<game name="JP0001-NPJB00562_00-ACLIBERATIONHDUL (Japan) (DLC)" id="23754">
-		<description>JP0001-NPJB00562_00-ACLIBERATIONHDUL (Japan) (DLC)</description>
-		<game_id>JP0001-NPJB00562_00-ACLIBERATIONHDUL</game_id>
-		<rom name="JP0001-NPJB00562_00-ACLIBERATIONHDUL.rap" size="16" crc="d274e672" md5="78602f8bbdc190f2a5dad3b08f422b42" sha1="7a34f74c677f2b006f6f81129b9102588c5b8d56" sha256="83dfa12da055a1ca3708ed4c37a99099e2ffc503105747ca9fc720089e4f8ed2"/>
-		<rom name="RsLDBHBFQpJIUZeOcbneVPlLlecOXdOmahdPoyDmwsgxQyDUWHlfCSQYQLZllGFDcfnSzWXxHZYiENQfzpZHidMXcDelBJUFYBbaW.pkg" size="102400" crc="c1cab828" md5="511e35d0e7e0cb7f10261b86f79067e5" sha1="c9edab6d7ba943b02d38b6faa204172a6846300e" sha256="b329103cf6f7bf28da39a93b20086e045d9ff84a028715244e4d30a1dd300339"/>
-	</game>
 	<game name="JP0102-BLJM61063_00-DLCXPLCOSX000X03 (Japan) (DLC)" id="23770">
 		<description>JP0102-BLJM61063_00-DLCXPLCOSX000X03 (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX000X03</game_id>
@@ -47343,72 +47397,6 @@
 		<game_id>JP0106-BLJM61000_00-SM6XLDLC00WPN000</game_id>
 		<rom name="JP0106-BLJM61000_00-SM6XLDLC00WPN000.rap" size="16" crc="910b14ae" md5="f11ebaab98fac9a9539b9f757cb0fec3" sha1="6bf875ed39c02c533254e226b66c8c143f529b7d" sha256="a1498b8796f9b592a5afaf7dd83f6a452bc8deb46471c15ce55b33f025dd7979"/>
 		<rom name="IVCPrjzfwZRvUXeyNdcSeizqPTBGmufnIGZyoQnMPscurHxkRPBwRGgesjcuaxaYwhBDvfJFNjGOlwFXbcDmgIREqMfuiSgxbdSvK.pkg" size="288976" crc="2c994f5a" md5="457505524c29726744de6b83237bfe5d" sha1="50c6749529972ffd3b8872146fc25669b936ee2f" sha256="f8982f5c3f56af27ff537891cc42283e2177269a6909bc2364fdd9af2d7dfc7d"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00STAGE001 (Japan) (DLC)" id="23515">
-		<description>JP0106-NPJB00325_00-SM7DLC00STAGE001 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE001</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE001.rap" size="16" crc="eefe8a1d" md5="dcb50b878373dc0a3380a3c85e791164" sha1="2108abfc6bdab5c244df7264b4583262d4f1cc35" sha256="e887bb1f55ba9a0b4c55c617cc17f32421d83e8f8282a77afab5cf832534d0e3"/>
-		<rom name="XBxLCJYvVPHasoJnSnjfbsmgovQSlMTDXhyoQCTpOghLHabSlRvENzvRyUtWkNOKyWEaxHUwiTNonluNURtGnSuzZBFHBlMJLvyCf.pkg" size="72972560" crc="4a65a078" md5="1a8e2d1549d9eab3dfea69c991d29151" sha1="37727da11fc83e03ebd2cf1ee158480b546b4ab9" sha256="9f4aaf0713c14cc7d16dd6c7f34e1a280141a3d099bf548b182f0da801a237a1"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00STAGE005 (Japan) (DLC)" id="23516">
-		<description>JP0106-NPJB00325_00-SM7DLC00STAGE005 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE005</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE005.rap" size="16" crc="509274c6" md5="70eff1a0a34da79b08fd871fcedaab77" sha1="920429d08eeec2495f47e6c6894e85aab051e216" sha256="1f340da579e8f6fe7fefdeb8a3e5f149c499fbaebb1f140bc879a560ed4d58ae"/>
-		<rom name="cXgOJgCsfTAtuzgkNjotxDNSfMmjsKtPlsWzxVivJYRehWVfYybiXiIKOYjmUpxufHAZYkJAZVpqxfsmSINyoNZgPDwAcssdXnMFo.pkg" size="64097696" crc="e1656de7" md5="f3bb02f93800617bf145b63cf8f80460" sha1="7318f0fef3ebdecfc71367e1c704e506d5e4de47" sha256="fa3b05648d97e15e7adafae62f995d0f529e7de172265523936d0cd0fc7eca31"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00STAGE006 (Japan) (DLC)" id="23517">
-		<description>JP0106-NPJB00325_00-SM7DLC00STAGE006 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00STAGE006</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00STAGE006.rap" size="16" crc="5ea3b536" md5="aad8b8836d896a0adfabce8433ffef89" sha1="688d112692531114b11fbccdbb8ad37028cb5d04" sha256="3921db5e10b1d85e5ae30d96784fa5280ec985b69edb88bd93e1e485d9498652"/>
-		<rom name="ioKdgLXUfpsTNSMSWzTYNtLPfTmMpauIzNDbPSngNeyStwfNHRXdivDGqaJmnwcWFcZgkEcPQDFegrpgNAogEsaBGDNbFFSftRgdb.pkg" size="47755456" crc="d8268fdb" md5="52c8897c44e790274134b89b5795d3a5" sha1="4dca5e74e79ffeeafe7fc418818c2d6fcb097951" sha256="58048003dd3133be55754eacf6394d4eb6246128a97155473146592f41fd73f2"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEAPON00 (Japan) (DLC)" id="23518">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEAPON00 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEAPON00</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEAPON00.rap" size="16" crc="535ce921" md5="2a4de1b12c923fe1ee2faf4824ebbe23" sha1="f975730b0aab08b376f7baa5aaef21d4e01105f1" sha256="87fd8755760f810f53f5e15e61d18b0f0d7b5f284067c4f46bfdf2d7876c0ad0"/>
-		<rom name="VgklkUKfhuZhuYIoVmzupfmLmtRsqPZDQoOLlUhuimIzSeySAJZQOAcFvTpNqfWhcOfwwBCVbrkIwFykWCfwqKLPBxBIBESoHCAMM.pkg" size="2137184" crc="b2d13697" md5="69b6b4253891415009bee83c223160bd" sha1="c5cac37ae16baa8485b4695abf3a4850c17de070" sha256="8c012a13820ff0981adbc9308ca588cdc3b8530aa5c243e58bcc43aeafa26a36"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEASET01 (Japan) (DLC)" id="23499">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEASET01 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET01</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET01.rap" size="16" crc="ea5d23f4" md5="77a8b2ae672658f2913a57fb02a5b15d" sha1="d04a0d57aa862425f4b5ca74a66c620fb575b8b8" sha256="1a48dac112c354dcc1cc5bcc1470642eb2680d0f4394f6bc84b54353a558e0e6"/>
-		<rom name="gWoMPVlJTalareFmtMCMMLxdPBkBVpkMJibBINyqnKziwbyxHdVMXuPywGNBwFlQHCbIYGjAAUmWMbuGjqOgWGAJlKkfpdhmobZxU.pkg" size="3174848" crc="5c4d2130" md5="ad20f74ceecb60bf0a0e60d10a84b032" sha1="2270252b55334a7bd5a1c4c0a19641bee853a10d" sha256="d92f15f9c46137f94cc7a9a71e0a9b2f130575de99e6a505b499c2712eef2c8b"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEASET02 (Japan) (DLC)" id="23498">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEASET02 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET02</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET02.rap" size="16" crc="3c7cf43a" md5="a135d7e521b0288a9c455caffb547b7c" sha1="bdc1591c5b6a2eb717921e7c25bf378956783958" sha256="e2a4bb4aab11fa71018da78128168591e376aa6b9b81cbe99c70c2fa77c7daad"/>
-		<rom name="teJeiJQpfUXzmlNVgALNFIRXlfSCYKmWOFpmeecVJLSIMleNxaBcUvlVXjmZeeYByzhMjYzllnfAOZUIPGXSkKJpBHPvhWfOMwDdA.pkg" size="3114752" crc="5a33d041" md5="413a77f1499a3564bc98ca5d5885d430" sha1="d9d782942dbbfaf17621e1a5930c252349cde66c" sha256="bf8f06c266f675c5626c2a047241cd3cd81ee567244af53eb5a8305fc64dc4c7"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEASET03 (Japan) (DLC)" id="23500">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEASET03 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET03</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET03.rap" size="16" crc="a8a8a218" md5="a9d840a08b16a632c9f25fc28bb9b8aa" sha1="7d82a4bfdbd81598c73a64ea515f78f98611572a" sha256="4a02bd4c16e25d4332eaa8b64222aafe9d7a65879864b1350752505fae9e94f7"/>
-		<rom name="ILtieXuqkSGgLzSuscVtZFgtiFWKPCRkEyqcHEUZNzJEibPdSgocffQRRJmuonvHUbQQAPMBvIgxJQDnQWTqcDWncFwWNqznqEEIe.pkg" size="2655904" crc="99b77f70" md5="94fe16380b791641abc9531315383218" sha1="fc9e8aa94f99bbef4aadc4275ebf4ba49bccc5a8" sha256="7cd0f8300ea34b5a0cca231881050a52890f502becbb9cc1f97132021b0d8433"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEASET04 (Japan) (DLC)" id="23501">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEASET04 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET04</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET04.rap" size="16" crc="45fb66d5" md5="6672dd50bdc09a524f131dfd1e7af379" sha1="21cff55a10869077629958d997645a24035170f3" sha256="67e95db4d663805c5f95f481d1e6cb34c940ed2dd6292b1154eecd061db22821"/>
-		<rom name="tnqzMKVUewWRUbFtRfjpIJPFOlHrGbkPGnqmSANItMDUejmeLjhYCAKtKLlpIWycGbJpuZokbyvcredBTBkyPXhOyAyfHObrVODqM.pkg" size="3409056" crc="907955bb" md5="333f7cb40481c4ea57168dba458a3c6c" sha1="71e7a891cd7d7d52a39709be89441e058fca4585" sha256="cf21dd3250182b8315f3a2f26022b216270f98ae2e981385a8c977bb174db09f"/>
-	</game>
-	<game name="JP0106-NPJB00325_00-SM7DLC00WEASET05 (Japan) (DLC)" id="23497">
-		<description>JP0106-NPJB00325_00-SM7DLC00WEASET05 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00325_00-SM7DLC00WEASET05</game_id>
-		<rom name="JP0106-NPJB00325_00-SM7DLC00WEASET05.rap" size="16" crc="e3932b4e" md5="1e39843576ea3bd7ae2ad2ae01f6eed8" sha1="d9c20248f49984f1981b1a462df31fc1f44ef540" sha256="51dae1536155cf59434acac3bd314a445e2870467e1a005c7538ce93518320e1"/>
-		<rom name="LbhQVYembgLYcJwyWfKNznpLEMUBEJhBvIwOPMTfcCOFLsMfgqRkILJPkSWtnsnVYjEhOnpStaXHMczemHhQkduKyQKqaOkzBkMio.pkg" size="2792176" crc="ee7140fb" md5="c5a449591d970562219988faa189c973" sha1="c44ae6e5757838646890042adc66084c3a170fab" sha256="dd105cc884bbabc6a0f0bc957f3709f095da56cb44d7cdd539c772c782f9dd35"/>
-	</game>
-	<game name="JP0106-NPJB00510_00-SM7EXDLCSCNSET03 (Japan) (DLC)" id="23520">
-		<description>JP0106-NPJB00510_00-SM7EXDLCSCNSET03 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00510_00-SM7EXDLCSCNSET03</game_id>
-		<rom name="JP0106-NPJB00510_00-SM7EXDLCSCNSET03.rap" size="16" crc="ed7b329c" md5="8fdd28924d5cf3f00420e27252b039cf" sha1="7f622a5bc80660354cc612a63e7789fd827d9558" sha256="092593b965e5a766e8f0096ea16c1c69ff31c5f53117949855213e5d1de10377"/>
-		<rom name="bsGMqUyPWWwLDWkbgDCOtOyrsmIMfdtNNlYyGPGpoTYraRSXOXbMvCczCqbwRXyBUxAUCYAzMhcWqaeMwSyKCpnEnyfUEddVGxvtX.pkg" size="361888" crc="53932468" md5="4258ca8c6491984c93e0b4af82dea038" sha1="780b233385eaea6ae6785df9089590e69e875e22" sha256="4766c3979eff603a13824cbe98f7e828d6b12e53b916bbf622b81c3fb2040d6e"/>
-	</game>
-	<game name="JP0106-NPJB00510_00-SM7EXDLCSYMBOL01 (Japan) (DLC)" id="23519">
-		<description>JP0106-NPJB00510_00-SM7EXDLCSYMBOL01 (Japan) (DLC)</description>
-		<game_id>JP0106-NPJB00510_00-SM7EXDLCSYMBOL01</game_id>
-		<rom name="JP0106-NPJB00510_00-SM7EXDLCSYMBOL01.rap" size="16" crc="9b486762" md5="9fa24a1120e0aafba0db4cba695c5f9c" sha1="04559f5e1a83f64d062126d95fc30924db517440" sha256="04c1b1467e6ec48dc814691d95c57f64c17d157238ed18da3c96ef03a5d35459"/>
-		<rom name="gJYzXQJiSpGiXdDYPfZVQDCDmQPoMdkCXauXtwtRuGzxtOlVvDMEmRAApcfUNDSvxqZHlOQFjQktxTePiOUfhVrOUiGQmvNIfVybx.pkg" size="1638224" crc="71e40139" md5="744ec017962a4c7bcb428833a155b9dc" sha1="cb4b21539b0ec360443d304dc4717c77f15f94f9" sha256="2f9063cbc175d2450a94bf2f916aeb4942da7b7a5e8c2c8951e57077db5c14f1"/>
 	</game>
 	<game name="JP0367-BLJS10203_00-DLC0000000000006 (Japan) (DLC)" id="23526">
 		<description>JP0367-BLJS10203_00-DLC0000000000006 (Japan) (DLC)</description>
@@ -73913,6 +73901,7 @@
 		<description>MX vs. ATV Alive - Honda CRF250R MX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0007OEMCRF250</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0007OEMCRF250.rap" size="16" crc="d93780d3" md5="8895a2bf92a2a0ffa29600d6376f713a" sha1="af9ea82893e3fc321bd744bffab3c270609c341e" sha256="583055b9988580f4f84b696d3a42df9fdb1d3f38043359734a1be196ea833230"/>
+		<rom name="LnbiItSaqmNsLGJncnzGtzBsvcvUtKrHkPfKTwaytMTATxoPGEmxzvrlKcXTVDXlkkZvhUjeokoPsagnaJicwspSWuvYOtTKQwzOd.pkg" size="102400" crc="88550c3e" md5="3acc1894585d58d3a0aa2c7d6bffea6c" sha1="51dfccf7ab06869d3d75667edeab57bacabf94e2" sha256="d001face64cf0e1bc619a612d6feefe9a8d1ff34102b0278fcb7f45252c9b003"/>
 	</game>
 	<game name="MX vs. ATV Alive - Honda CRF450R MX (USA) (En,Fr,De,Es,It) (DLC)" id="23027">
 		<description>MX vs. ATV Alive - Honda CRF450R MX (USA) (En,Fr,De,Es,It) (DLC)</description>
@@ -73924,6 +73913,7 @@
 		<description>MX vs. ATV Alive - Honda TRX450R ATV (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0007OEMTRX450</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0007OEMTRX450.rap" size="16" crc="984a01e5" md5="62a6cce310cdb60f7139cdb21e2c3f6e" sha1="bceaa5829ae2fe5b59807f3599d89a60537ffb86" sha256="544187359550ea3dd25b4713b050386234b1e74c4a5128bb262c44ffdd3a97d1"/>
+		<rom name="HBsUMQNiKpeenqKclTShWAdflBAwPhhViaKqlvDZIOCINtofhUgaLwhkstyfZyshvmxLYnMEABxpUHOQjadMmmCErLdEqqkoSCRSf.pkg" size="102400" crc="621eeecf" md5="9ac97a770c648a69885ff5b11409c65f" sha1="3ef74f3a891b919b963aeb8289ffec1c7a2f51a1" sha256="7c3dfb817bff48b8a06d56563ebbb538a837459f7ed16a0a65bc9ae6bdf8d713"/>
 	</game>
 	<game name="MX vs. ATV Alive - In Nitro Carbin (USA) (DLC)" id="17906">
 		<description>MX vs. ATV Alive - In Nitro Carbin (USA) (DLC)</description>
@@ -73935,6 +73925,7 @@
 		<description>MX vs. ATV Alive - Kawasaki KFX450 ATV (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0008OEMKFX450</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0008OEMKFX450.rap" size="16" crc="e9528341" md5="0605ea985133618fc3041a5cf80bd542" sha1="314d1ad4cb91937562ddcc4e0666aef3bbc704c1" sha256="d02f78430cce54431c2766120236266ae8adb99688002131c09467a56aeb465f"/>
+		<rom name="HznGmBKzGybTYHSoGGBMzyJkLpHvtEzwUDwPKpEHCrdhJutFmhSGrIUmgetnatJJjpJjyWmbNbKrfpSiqmrezCKsUbtiUCsWpwWQK.pkg" size="102400" crc="82b56896" md5="e225c1676958c704510296199a627a90" sha1="9ab3db397b91d5f86b662912721478037eae6bd7" sha256="828d4ace8d24bec8332f900b928ccc6351d6e04cacb433930c718816f599b692"/>
 	</game>
 	<game name="MX vs. ATV Alive - Kawasaki KX125 MX (USA) (DLC)" id="23447">
 		<description>MX vs. ATV Alive - Kawasaki KX125 MX (USA) (DLC)</description>
@@ -73946,11 +73937,13 @@
 		<description>MX vs. ATV Alive - Kawasaki KX250F MX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0008OEMKXF250</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0008OEMKXF250.rap" size="16" crc="ec8ff356" md5="f08459e108f6478a3fc340c59d76b541" sha1="69d4991aea6955d7c2b6b0720a0c149dffd9bad0" sha256="9fe63e49f6c68b66586abc513b5dc2b867205f7205e83c9af63eb99b53cec583"/>
+		<rom name="nGvZIejvdXNXDqcXgYjpxCHenbyOkUcHNvyxcMbbMgspGZpSKXLqwbnARTUulzSNNeVBYOIHqbvmGmNmdeUWspmMHdCZkGcFcFgmL.pkg" size="102400" crc="7e9e6196" md5="6ba61adf630f6da0c8c1d62c9b33bdfd" sha1="69ca9e9360646f28e99c623bca18e58f3ca72708" sha256="e9366cbd9f727cb8d59e725f35f21e7fefdfa18d43bf9e241a089567cd5d74a9"/>
 	</game>
 	<game name="MX vs. ATV Alive - Kawasaki KX450F MX (USA) (DLC)" id="17899">
 		<description>MX vs. ATV Alive - Kawasaki KX450F MX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0008OEMKXF450</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0008OEMKXF450.rap" size="16" crc="f0835e49" md5="46abd02c7c3b9561857c48fdef937d0d" sha1="e011cd9d96ff066ef38215bff75673b1f7cb311f" sha256="7d5d98aca82aa02179f4df5dcda06091d094ab0bab5efb96fcf96d77555cd5df"/>
+		<rom name="zhtHiIrZyPLooKEiICYILQwABCWVZWvOjjyzLnFfqxKFOcMgkBQmGaSkMYhAOxwkDnQbUSqTAfLgRjUawLFdfjSaLcFNxktpUtMnA.pkg" size="102400" crc="885f89a2" md5="b49ba21d2057b2f2fef5753aa0f1233e" sha1="ce05770300e7ae1558ada0795afbef88d4cdd081" sha256="c4323c71d35721dd5c416e0ed5b14842870731d2d781b019b1ff069f3934b9fa"/>
 	</game>
 	<game name="MX vs. ATV Alive - KTM 250SXF MX (USA) (DLC)" id="17900">
 		<description>MX vs. ATV Alive - KTM 250SXF MX (USA) (DLC)</description>
@@ -73992,6 +73985,7 @@
 		<description>MX vs. ATV Alive - MotoClub Pro - KTM Gravity FX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0004PJGKTMGRA</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0004PJGKTMGRA.rap" size="16" crc="50105c6b" md5="3618a95beff0331f22893bcbcddbeabd" sha1="0ab65bfb9d53ec333d459dd0b0351ddb74c613f6" sha256="06e40d7204ef736914eb6c1cb1910cf76a3599411698de7b0bed66f484e14189"/>
+		<rom name="ythRHuGtyckZOHaNedWhqWgdSZIyiVkNKVuFwRxjJwEiEtxlGGCkySVhfdVZAxmfhkCNqLjQEiSkzXboQcaxeVKmXByAgOGDlSDWb.pkg" size="102400" crc="a2ecf004" md5="09b3cf6eedf09c068c4c343efdcc64d0" sha1="8542d64a44985207204482e39556cca2dec3bd23" sha256="d97580aba409af268767c110ba5d3a3fe62bc36cd3de0cb92f84bdd59ac05303"/>
 	</game>
 	<game name="MX vs. ATV Alive - MotoClub Pro - Stewart Compound (USA) (En,Fr,De,Es,It) (DLC)" id="17887">
 		<description>MX vs. ATV Alive - MotoClub Pro - Stewart Compound (USA) (En,Fr,De,Es,It) (DLC)</description>
@@ -74003,11 +73997,13 @@
 		<description>MX vs. ATV Alive - MotoClub Pro - THQ T3 (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0004HEMTHQT03</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0004HEMTHQT03.rap" size="16" crc="b543fe9d" md5="f35a534cc98fb32977d306645515e3a5" sha1="94c2b8fd03c06fb64e49504bd847e561a69791ea" sha256="199c7cd5e737da8d1d695ccea354fe958c2c83c827ae705e100c871542de30c0"/>
+		<rom name="dHyhUKZvUMaeZdvigUJpSMaNNNEdZhaEnOxVswgXazMGzwLRibMZOnartqcQPSSgEPctUlQsXpvkdvXjDvjVtxZicZNmqJEXQhMhk.pkg" size="102400" crc="ad748fe5" md5="7e8dca13fc74797b3a3098ad9f7f660f" sha1="f8575cec694a76f873c70294418284996feaff51" sha256="fa617204d9fc20d04bd4498bccaf35f71bd823d8980c616996ea6c1f7677d956"/>
 	</game>
 	<game name="MX vs. ATV Alive - No Fear Optimal 2 (USA) (DLC)" id="17889">
 		<description>MX vs. ATV Alive - No Fear Optimal 2 (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0004HEMNOFEAR</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0004HEMNOFEAR.rap" size="16" crc="44902b61" md5="41e90eb466e8d9542a52cf05a8eb6bc1" sha1="b7e7bbd15f5b676902cad1dd09eb88c2c63c6f18" sha256="764303593ed887bfc5970c74406e825e8062f4b395082c2b858edc7f8864038a"/>
+		<rom name="dtWMokBiKPvIpBxunMWxocYNmXiBukgAedEjytZkgIERwHzSHAwLedUHFUmueqgOJPnbEHSlDvvDnEHwwoTLhIBsYgKGyrxZKqqqG.pkg" size="102400" crc="bbfd0510" md5="7d640f1e5aa7590dd529066d838d6bf6" sha1="23233056230482e08ebf299580a0b0c697b45ccc" sha256="3c6cdfd529b9f52925719f11c373997a5cfdf1e236ca69093b6b70bb3dcfa2d9"/>
 	</game>
 	<game name="MX vs. ATV Alive - Sliderock Canyon Free Ride Event (USA) (En,Fr,De,Es,It) (DLC)" id="17901">
 		<description>MX vs. ATV Alive - Sliderock Canyon Free Ride Event (USA) (En,Fr,De,Es,It) (DLC)</description>
@@ -74043,11 +74039,13 @@
 		<description>MX vs. ATV Alive - Yamaha YFZ450 ATV (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0006OEMYFZ450</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0006OEMYFZ450.rap" size="16" crc="db8604e1" md5="f9763bcc7c204bb69d92d754f595ed88" sha1="17fce68d5824a9b792b32bac6786987339d1cea1" sha256="4a4772f0fdbd26ff2ba6c34aaff19f39ccda46fa19601e22fc55b29fbf9cb25e"/>
+		<rom name="UhgQKOqZYLJpPjHdBElBaoJxOcHJjKakInugKZwvTMDRYqUUySuCXAuDIjhbmtEtGThdOXGRtGkSFEBnKmfogEsYapSMiCnXrrWTy.pkg" size="102400" crc="c033ef19" md5="2ec5c3ad5079ad7b074aad93f0cbfa71" sha1="9c71e92a435a7f2d438e73ebf7777a4f321c626d" sha256="e6b310aa8e2e1d1b4654b8b8c3f1e06c3e8e7401695e19c2c4ce76b4369df1ae"/>
 	</game>
 	<game name="MX vs. ATV Alive - Yamaha YZ450F MX (USA) (DLC)" id="17893">
 		<description>MX vs. ATV Alive - Yamaha YZ450F MX (USA) (DLC)</description>
 		<game_id>UP1005-BLUS30707_00-DLC0006OEMYZ450F</game_id>
 		<rom name="UP1005-BLUS30707_00-DLC0006OEMYZ450F.rap" size="16" crc="ad922150" md5="545e51e28b6c2b89360956087f4346f2" sha1="ec1160531083b227ba70f3b93d1072889f37f294" sha256="ba26c61f0ac947d82427f1138b63a40cf3a3c8c1eb53978297185b569e1bfc79"/>
+		<rom name="vpIRfcTjyuXzVZqvdQILLImhTDQtVfYmeFRFvmHxEncwWYyWSPmAOmNbEpeZODlfLMTkFNqlTfIEnvisQozvcEJwipMOjTAUHjyaW.pkg" size="102400" crc="5918653e" md5="37ca5e0ceb35523230462bfe8b7ad121" sha1="24928a91da09656f2ff9b13ee1cedc050d3e0594" sha256="a4213ab71155b98ead8107575fd3494e60067fcdd34f196ed7a992023aa61ee3"/>
 	</game>
 	<game name="MX vs. ATV Reflex - Special Series (USA) (DLC)" id="17812">
 		<description>MX vs. ATV Reflex - Special Series (USA) (DLC)</description>
@@ -111551,6 +111549,18 @@
 		<rom name="JCPrLzjROrKjmHkwJyvoSQzCiFjEbUtfejxULuCxrcNZYcijxYKahOdAUTfRhnWiCICheukuJmgwRoVKGTqrWSUEawmFoGklAgTdB.pkg" size="102400" crc="86697641" md5="ed882d7236a275df6b81e1b85bb5bc49" sha1="78342c7e6df6b3c185f8084dce39fdc56fa9d150"/>
 		<rom name="UP2045-NPUB30311_00-ABOUTABLOB000004.rap" size="16" crc="26e7b844" md5="951eea07ac884a35408eeb4e677b1b5a" sha1="6098318c3c88793e79b6424d734c438564b47ce4"/>
 	</game>
+	<game name="Tales from Space - About a Blob - Blob Costumes (Europe) (DLC)" id="23920">
+		<description>Tales from Space - About a Blob - Blob Costumes (Europe) (DLC)</description>
+		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000004</game_id>
+		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000004.rap" size="16" crc="948acd9b" md5="5ced7eadecb1eb5fac71f82609aa5ef3" sha1="85acbcfafcd4240df5e512100e4d6a290edddf7b" sha256="bd5c860dd5d70ae0185ed99e11cbd48fbc3b4d2e223d456160061f1d842df634"/>
+		<rom name="ZvhoApdAXJCudCIhmeUBNXGKvctXGDztBhDvBTtQFsOnVZztYoMgCedboQKgexIs.pkg" size="102400" crc="4b708c88" md5="aa4057ec047352f571a71bb4a84513e3" sha1="1d81ce10fb743abe200beb8c4394126857af0ca5" sha256="46833ffaf1ad2b9e769794f82189e58fb45b1fb0a9974503b56b7968082ef9b9"/>
+	</game>
+	<game name="Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)" id="23921">
+		<description>Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)</description>
+		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000006</game_id>
+		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000006.rap" size="16" crc="0821ef6f" md5="b8c903287dabcee10381d94f1e04fcab" sha1="77499dcaff16394f72ec3ab8cdce26a230e2829e" sha256="811503c3950cc54b816d7670232e13fdcaa9306b6d9619b33aac5074fd756df0"/>
+		<rom name="ghJConJMgAFIhiMQOHtWTXICUYDaORjfWiFmGtvldbtiEQXBbizIthHiSQivmBXT.pkg" size="13535456" crc="99d28813" md5="070a176e23556539b3f97b00e4563005" sha1="d25093b71892eebb290747dae60b52dfc87bc62f" sha256="2854106327981b021136084daf2d23554bdebfcaaefb11c1376863801bb47f27"/>
+	</game>
 	<game name="Tales from Space - About a Blob - Co-Op Level Pack (USA) (DLC)" id="19530">
 		<description>Tales from Space - About a Blob - Co-Op Level Pack (USA) (DLC)</description>
 		<game_id>UP2045-NPUB30311_00-ABOUTABLOB000006</game_id>
@@ -120328,6 +120338,11 @@
 		<game_id>UP9000-NPUA80698_00-UNCHARTED2PCKSPA</game_id>
 		<rom name="hOMaMzUttkzhimhTpfglTZGPoslTRARHltwRxKOiHUDDfdgcsdOthDCufObdUbUntbHpYKvtvZxnXWLmKdkJPicKZdCLFPQJIOSul.pkg" size="955743200" crc="3d8d3275" md5="6d59b0bf2afe41d23b454fad07441f33" sha1="d4637aff8fbcac60ad59e9808c20960fd8d118d0"/>
 	</game>
+	<game name="Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (DLC)" id="23489">
+		<description>Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (DLC)</description>
+		<game_id>EP9000-BCES00757_00-UNCHARTED2SPE001</game_id>
+		<rom name="jx5fyiKA5mVi66aIAjNg7n3l3ctQmV2LVX6bxoIuYKmT9pANRtDVfC1FE0CHfrevBlfCdnsGLDoUMX0PBrRRSyxXxnhnMEm9SUQdG.pkg" size="102400" crc="d62a93bb" md5="c999fe1b5ac7959b43d55d7e1e526f19" sha1="970d31393a63a3fd51cb6eac950119c7c284db7a" sha256="0a5c1d255b50c75c69e20e2a72f9e33c7405c6662cca85319f62c76d2aff82af"/>
+	</game>
 	<game name="Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (En,Fr,De,It,Nl) (DLC)" id="06032">
 		<description>Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (En,Fr,De,It,Nl) (DLC)</description>
 		<game_id>EP9000-BCES00509_00-UNCHARTED2SPE001</game_id>
@@ -120364,12 +120379,6 @@
 		<rom name="EP9000-BCES01176_00-1DLCAGENTCONSTAB.rap" size="16" crc="0c5c66d7" md5="6f2931eb859890bd26e81613ef7d6f83" sha1="aac7fee8edf202528bbaba2fc9922bd5f9cd80ed"/>
 		<rom name="rTySvfgVBJLzCHwjiJndMZLXXQLYYSdOAVZKJIlzhrvDeRXWHglBAeuhSuRoOETQ.pkg" size="568656" crc="4f851a4a" md5="d71a81dc0a8edaf90458aa26f186e152" sha1="8e49d9a8193e905639bdeb60ca901882ab88370a"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception - Agent - Constable Hat (USA) (En,Fr,Es,Pt) (DLC)" id="21849">
-		<description>Uncharted 3 - Drake's Deception - Agent - Constable Hat (USA) (En,Fr,Es,Pt) (DLC)</description>
-		<game_id>UP9000-BCUS98233_00-1DLCAGENTCONSTAB</game_id>
-		<rom name="JmefWMsRmUAIWnHYnbwCUMmKpVMFJMSNIyNNekjAomerorMMeYmrHrZONjwxoondlgYWAlxiKnJFFzQukjLvagdmVKxlFxKmBCzNv.pkg" size="568208" crc="76e8b230" md5="a8f0a1277afeb12b0d40afdef36c8b7f" sha1="ee905e3c072fb71a7add6c2e3661501d27ed8090"/>
-		<rom name="UP9000-BCUS98233_00-1DLCAGENTCONSTAB.rap" size="16" crc="17d9bab9" md5="5299f2069dc1ba1142e18c024cb8436d" sha1="0501317ba695b41291fa80ad39915fca8947f1fe"/>
-	</game>
 	<game name="Uncharted 3 - Drake's Deception - Agent - Constable Hat (Japan) (DLC)" id="12806">
 		<description>Uncharted 3 - Drake's Deception - Agent - Constable Hat (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS37004_00-1DLCAGENTCONSTAB</game_id>
@@ -120380,6 +120389,24 @@
 		<description>Uncharted 3 - Drake's Deception - Agent - Constable Hat (Asia) (DLC)</description>
 		<game_id>HP9000-BCAS25009_00-1DLCAGENTCONSTAB</game_id>
 		<rom name="hYnTloLttjpDsSflpKyIwlxauFuGkHMMEqeFAxlbyLnqOrkLEltqPicNcqVFpYUJLKZFwghyVSsumGQzLfbKAtUWydmRUzdIWJeve.pkg" size="568352" crc="c95c4df9" md5="d62e07f96060295c6e0d5a763fbd0540" sha1="b8ebc225837ea9f3b12d7e416183fe30350a491b" sha256="151cc442fd9af854f94ed3b8901bfd51d9f8f11b9ce1040b4710602f6bcd6329"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - Agent - Constable Hat (USA) (En,Fr,Es,Pt) (DLC)" id="21849">
+		<description>Uncharted 3 - Drake's Deception - Agent - Constable Hat (USA) (En,Fr,Es,Pt) (DLC)</description>
+		<game_id>UP9000-BCUS98233_00-1DLCAGENTCONSTAB</game_id>
+		<rom name="JmefWMsRmUAIWnHYnbwCUMmKpVMFJMSNIyNNekjAomerorMMeYmrHrZONjwxoondlgYWAlxiKnJFFzQukjLvagdmVKxlFxKmBCzNv.pkg" size="568208" crc="76e8b230" md5="a8f0a1277afeb12b0d40afdef36c8b7f" sha1="ee905e3c072fb71a7add6c2e3661501d27ed8090"/>
+		<rom name="UP9000-BCUS98233_00-1DLCAGENTCONSTAB.rap" size="16" crc="17d9bab9" md5="5299f2069dc1ba1142e18c024cb8436d" sha1="0501317ba695b41291fa80ad39915fca8947f1fe"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - Agent - Metal Glasses (USA) (En,Fr,Es,Pt) (DLC)" id="21854">
+		<description>Uncharted 3 - Drake's Deception - Agent - Metal Glasses (USA) (En,Fr,Es,Pt) (DLC)</description>
+		<game_id>UP9000-BCUS98233_00-1DLCAGENTSTEAMPU</game_id>
+		<rom name="jPInZFFYILaeJnBQOJGjKvzeIVDgrpVPCvZTpeYzRvuIfnIDZFkKBVefLXlhIwlxjmKJYaOdUhnlNchHrJyoWFabLJfOYSQlfdHNX.pkg" size="568208" crc="4aff9a81" md5="9f1ffbe1c5141f9a9566c48ef86e9507" sha1="c9af625a15952ba5045104cf68bd6d814a0b5944"/>
+		<rom name="UP9000-BCUS98233_00-1DLCAGENTSTEAMPU.rap" size="16" crc="ddc6df1f" md5="006d0d6f18d2f33a98d77d24ea3450a1" sha1="96c12383bfb073d46292722d2c44e481652140cc"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - Agent - Metal Glasses (United Kingdom) (DLC)" id="06368">
+		<description>Uncharted 3 - Drake's Deception - Agent - Metal Glasses (United Kingdom) (DLC)</description>
+		<game_id>EP9000-BCES01176_00-1DLCAGENTSTEAMPU</game_id>
+		<rom name="EP9000-BCES01176_00-1DLCAGENTSTEAMPU.rap" size="16" crc="108636d3" md5="5c95fb6798aedd5023d1b48669f52f00" sha1="d669b080a277270288309b466a878a7abe11a965"/>
+		<rom name="wICGyeXBIiymNtfKKGCRMzpwGniPrCXWdDHADgkLXOkFYtcsyiskDDhVippsttyw.pkg" size="568656" crc="de6a26aa" md5="f8a1043ba6adc976d5b086d017f41531" sha1="7577d1428496d4014d0e731f29096f1649aa0c01"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - Agent - Metal Glasses (Asia) (DLC)" id="08767">
 		<description>Uncharted 3 - Drake's Deception - Agent - Metal Glasses (Asia) (DLC)</description>
@@ -120392,24 +120419,6 @@
 		<rom name="imwWmxRxeFizilfVmzWrDlarawBlewBOVDyHRgCdjydlveEtnmpspCdKapmMmBVaxdwlFNzDLtAXSmCLFIYYHxCiSKgumvKfKXfvg.pkg" size="568048" crc="9788af4a" md5="189c2998475f5edc78775be792268297" sha1="14d060a8626eb61d58d8578472bffb29987e6b8e" sha256="c5a788082e2e65e2e68c38eb4f3d2e9ae0fef972ea9aafaa4b092873c021f787"/>
 		<rom name="JP9000-BCJS37004_00-1DLCAGENTSTEAMPU.rap" size="16" crc="0b130454" md5="1e24619e1e2bc267abd4804f7b4f7e1b" sha1="9d7422eb237f6e507a027259c76739e001d1181f" sha256="aa0fdb34515617389674f8b68f4ab32e62af11b6728df3938966923ddd67a0c5"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception - Agent - Metal Glasses (United Kingdom) (DLC)" id="06368">
-		<description>Uncharted 3 - Drake's Deception - Agent - Metal Glasses (United Kingdom) (DLC)</description>
-		<game_id>EP9000-BCES01176_00-1DLCAGENTSTEAMPU</game_id>
-		<rom name="EP9000-BCES01176_00-1DLCAGENTSTEAMPU.rap" size="16" crc="108636d3" md5="5c95fb6798aedd5023d1b48669f52f00" sha1="d669b080a277270288309b466a878a7abe11a965"/>
-		<rom name="wICGyeXBIiymNtfKKGCRMzpwGniPrCXWdDHADgkLXOkFYtcsyiskDDhVippsttyw.pkg" size="568656" crc="de6a26aa" md5="f8a1043ba6adc976d5b086d017f41531" sha1="7577d1428496d4014d0e731f29096f1649aa0c01"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception - Agent - Metal Glasses (USA) (En,Fr,Es,Pt) (DLC)" id="21854">
-		<description>Uncharted 3 - Drake's Deception - Agent - Metal Glasses (USA) (En,Fr,Es,Pt) (DLC)</description>
-		<game_id>UP9000-BCUS98233_00-1DLCAGENTSTEAMPU</game_id>
-		<rom name="jPInZFFYILaeJnBQOJGjKvzeIVDgrpVPCvZTpeYzRvuIfnIDZFkKBVefLXlhIwlxjmKJYaOdUhnlNchHrJyoWFabLJfOYSQlfdHNX.pkg" size="568208" crc="4aff9a81" md5="9f1ffbe1c5141f9a9566c48ef86e9507" sha1="c9af625a15952ba5045104cf68bd6d814a0b5944"/>
-		<rom name="UP9000-BCUS98233_00-1DLCAGENTSTEAMPU.rap" size="16" crc="ddc6df1f" md5="006d0d6f18d2f33a98d77d24ea3450a1" sha1="96c12383bfb073d46292722d2c44e481652140cc"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception - Agent - Police Hat (USA) (En,Fr,Es,Pt) (DLC)" id="21850">
-		<description>Uncharted 3 - Drake's Deception - Agent - Police Hat (USA) (En,Fr,Es,Pt) (DLC)</description>
-		<game_id>UP9000-BCUS98233_00-1DLCAGENTPOLICEH</game_id>
-		<rom name="EeYSBpCmdtyirNCLgRwEUIVdyPNkUYNJjqPHUVvgqrMkwEeyiCwhdIdVPbgmmogXuwsjhaaUFbrWrEPhVxbgwxQbpEIKbFCXYxweh.pkg" size="568208" crc="317368e2" md5="3913c15424484e140694256134c285b5" sha1="cbe8161a8fa09fdc1648f5118c406afeb101c8f1"/>
-		<rom name="UP9000-BCUS98233_00-1DLCAGENTPOLICEH.rap" size="16" crc="63c3309f" md5="f8a6abfe234fee47261526b7b61a2a77" sha1="d6d23d662f47fc7d38e1c674c2fb288256a89e98"/>
-	</game>
 	<game name="Uncharted 3 - Drake's Deception - Agent - Police Hat (Japan) (DLC)" id="12807">
 		<description>Uncharted 3 - Drake's Deception - Agent - Police Hat (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS37004_00-1DLCAGENTPOLICEH</game_id>
@@ -120420,6 +120429,12 @@
 		<description>Uncharted 3 - Drake's Deception - Agent - Police Hat (Asia) (DLC)</description>
 		<game_id>HP9000-BCAS25009_00-1DLCAGENTPOLICEH</game_id>
 		<rom name="xcEyuWCZaiRpijhGazTpOxKztMspkADfuAQcdxyyDjpjHECwPSODqeAGJsDvCEOLcXpEOxbMPHAONBfhhDkPRITvXdycrFFUqLDmq.pkg" size="568352" crc="7ef8131a" md5="9ed3e830639c4c64c4280cc95852a6bf" sha1="ff25e64be05febe6e4ea992a560302ec21f2a8a7" sha256="6453e6a88b230162eefb94ab25f7a8af1ae36ffd5fe1a4738d731bb09d9c7769"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - Agent - Police Hat (USA) (En,Fr,Es,Pt) (DLC)" id="21850">
+		<description>Uncharted 3 - Drake's Deception - Agent - Police Hat (USA) (En,Fr,Es,Pt) (DLC)</description>
+		<game_id>UP9000-BCUS98233_00-1DLCAGENTPOLICEH</game_id>
+		<rom name="EeYSBpCmdtyirNCLgRwEUIVdyPNkUYNJjqPHUVvgqrMkwEeyiCwhdIdVPbgmmogXuwsjhaaUFbrWrEPhVxbgwxQbpEIKbFCXYxweh.pkg" size="568208" crc="317368e2" md5="3913c15424484e140694256134c285b5" sha1="cbe8161a8fa09fdc1648f5118c406afeb101c8f1"/>
+		<rom name="UP9000-BCUS98233_00-1DLCAGENTPOLICEH.rap" size="16" crc="63c3309f" md5="f8a6abfe234fee47261526b7b61a2a77" sha1="d6d23d662f47fc7d38e1c674c2fb288256a89e98"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - Agent - Police Hat (United Kingdom) (DLC)" id="06364">
 		<description>Uncharted 3 - Drake's Deception - Agent - Police Hat (United Kingdom) (DLC)</description>
@@ -120462,12 +120477,6 @@
 		<game_id>UP9000-BCUS98233_00-5DLCAMERICANFLAG</game_id>
 		<rom name="MqVODspFKOVshSqyOUxrpPeiGstSnFQqMxfNFbjtuWHyXhPwdXIGdmLPbULCvdnJCOgQTxrDvSVTduMpNmUMaDiQdoaHpFIgbJkLz.pkg" size="568208" crc="0effd2db" md5="c3fead83d1710ba9be4b9cadc4a5e15b" sha1="b1e36bc2d2156cda14ef4a3fc561ffb8cd4a20f1" sha256="6b9f743e7098a96f99940e2ec8629a5aa954078f570040866ed428716f68b175"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (United Kingdom) (DLC)" id="06498">
-		<description>Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (United Kingdom) (DLC)</description>
-		<game_id>EP9000-BCES01176_00-5DLCAMERICANFLAG</game_id>
-		<rom name="EP9000-BCES01176_00-5DLCAMERICANFLAG.rap" size="16" crc="5a84d74c" md5="7ed65ee7b77703ba85c32586f0569953" sha1="82eb049ec0e9fe327e01139ff25bab61e85acb6e"/>
-		<rom name="RKVXLwxHUJyHQbAXCdKKpFnJngEEPEKhwLSXwtRjFRFCHUhZiqhJiooWlYgjVAUv.pkg" size="568656" crc="99b358ce" md5="8306793919be9f588482fc6b1ee25680" sha1="0bbb519ca360b6ee8d47f28fd78152a7f96adf96"/>
-	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (Asia) (DLC)" id="08898">
 		<description>Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (Asia) (DLC)</description>
 		<game_id>HP9000-BCAS25009_00-5DLCAMERICANFLAG</game_id>
@@ -120478,6 +120487,23 @@
 		<game_id>JP9000-BCJS37004_00-5DLCAMERICANFLAG</game_id>
 		<rom name="NYJapwCVJKtfaCbtUgJMBonhdbJhqhqqFBfBhCdOXMzBQOVFpOFinLLcsKyOGhQqSVyHRUHNNlwmmyABKhiWfzrxTUtjvyRNzybRR.pkg" size="568048" crc="d258fda0" md5="f91f5ab56af2d793f9461018bc73cb64" sha1="3686e71440e3c841984402a5723eedd37a94e398" sha256="7987fbf505e7e8c2aa907aa633c047ef23b5c162c883ea8be3487bd99319fa88"/>
 		<rom name="JP9000-BCJS37004_00-5DLCAMERICANFLAG.rap" size="16" crc="827cfc31" md5="4ed1add58c5e141003fc1bfffd8f527f" sha1="17fcb50a57d89984d6db07ac6dcf904965032eba" sha256="a91b922f0e486ea2fff5d4417cc438d5d8c92bb9f2a3fe3aeef9d7d73714e751"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (United Kingdom) (DLC)" id="06498">
+		<description>Uncharted 3 - Drake's Deception - All Characters - American Flag Shirt (United Kingdom) (DLC)</description>
+		<game_id>EP9000-BCES01176_00-5DLCAMERICANFLAG</game_id>
+		<rom name="EP9000-BCES01176_00-5DLCAMERICANFLAG.rap" size="16" crc="5a84d74c" md5="7ed65ee7b77703ba85c32586f0569953" sha1="82eb049ec0e9fe327e01139ff25bab61e85acb6e"/>
+		<rom name="RKVXLwxHUJyHQbAXCdKKpFnJngEEPEKhwLSXwtRjFRFCHUhZiqhJiooWlYgjVAUv.pkg" size="568656" crc="99b358ce" md5="8306793919be9f588482fc6b1ee25680" sha1="0bbb519ca360b6ee8d47f28fd78152a7f96adf96"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (United Kingdom) (DLC)" id="06499">
+		<description>Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (United Kingdom) (DLC)</description>
+		<game_id>EP9000-BCES01176_00-5DLCBRAZILFLAG00</game_id>
+		<rom name="EP9000-BCES01176_00-5DLCBRAZILFLAG00.rap" size="16" crc="5d76544b" md5="3832350bf9e0007dd444bf0296660168" sha1="1d77706287f67a87f62ab210d7d57d82009b578f"/>
+		<rom name="FtMPMUtQRhlWBuHNDhwrHYLDvbcTNtASgfpqYXSJuPzMxILHJcCHDOwXgtEOQjmo.pkg" size="568656" crc="f3a62376" md5="ed3c3376085b7861fb0b28074491d14d" sha1="2b31ab380269dbf8a96dffaea031dd1eb8337058"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (USA) (DLC)" id="21986">
+		<description>Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (USA) (DLC)</description>
+		<game_id>UP9000-BCUS98233_00-5DLCBRAZILFLAG00</game_id>
+		<rom name="mTaAZdPPvEcnlwsARiamnyZbbObjRCKEsypoTykrAPDUPZFxAUHAmMWHkZNiJvgcUAkmyjIIuhBbGXINojRiGfsEoqFGdSewaODUj.pkg" size="568208" crc="6f3c48fb" md5="dfd29b5c085e5cd38e5f50f0911a5905" sha1="675866c2948172e267a2dbfff0fd91926ff4fb6d" sha256="43e88a93146b31a033e1aeb30a3acaaad9797521bfe136335bda4486e0cc8e00"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (Japan) (DLC)" id="12943">
 		<description>Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (Japan) (DLC)</description>
@@ -120490,23 +120516,6 @@
 		<game_id>HP9000-BCAS25009_00-5DLCBRAZILFLAG00</game_id>
 		<rom name="SkSMNmDjHGkLuJCcXUQTqwWTnnkpQgFJAmDBeVupxTLuTFxYNdHhbUYVAaoflPjuTGnrIpQalZtFOTATECQrGcwNUrFfxJSZCBgBk.pkg" size="568352" crc="585096db" md5="992dc4f6df354b627e138a7a213e8b39" sha1="b7fa71cacc5ed1be0f2b30170c33cd3ed11b4f96" sha256="8b23b13bd0a75f4c9c0b74caee69a225079ad9008d1bc7b1b677f8567302734b"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (USA) (DLC)" id="21986">
-		<description>Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (USA) (DLC)</description>
-		<game_id>UP9000-BCUS98233_00-5DLCBRAZILFLAG00</game_id>
-		<rom name="mTaAZdPPvEcnlwsARiamnyZbbObjRCKEsypoTykrAPDUPZFxAUHAmMWHkZNiJvgcUAkmyjIIuhBbGXINojRiGfsEoqFGdSewaODUj.pkg" size="568208" crc="6f3c48fb" md5="dfd29b5c085e5cd38e5f50f0911a5905" sha1="675866c2948172e267a2dbfff0fd91926ff4fb6d" sha256="43e88a93146b31a033e1aeb30a3acaaad9797521bfe136335bda4486e0cc8e00"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (United Kingdom) (DLC)" id="06499">
-		<description>Uncharted 3 - Drake's Deception - All Characters - Brazilian Flag Shirt (United Kingdom) (DLC)</description>
-		<game_id>EP9000-BCES01176_00-5DLCBRAZILFLAG00</game_id>
-		<rom name="EP9000-BCES01176_00-5DLCBRAZILFLAG00.rap" size="16" crc="5d76544b" md5="3832350bf9e0007dd444bf0296660168" sha1="1d77706287f67a87f62ab210d7d57d82009b578f"/>
-		<rom name="FtMPMUtQRhlWBuHNDhwrHYLDvbcTNtASgfpqYXSJuPzMxILHJcCHDOwXgtEOQjmo.pkg" size="568656" crc="f3a62376" md5="ed3c3376085b7861fb0b28074491d14d" sha1="2b31ab380269dbf8a96dffaea031dd1eb8337058"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (United Kingdom) (DLC)" id="06500">
-		<description>Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (United Kingdom) (DLC)</description>
-		<game_id>EP9000-BCES01176_00-5DLCBRITISHFLAG0</game_id>
-		<rom name="EP9000-BCES01176_00-5DLCBRITISHFLAG0.rap" size="16" crc="3659b195" md5="c927549800e55e157be4eb47ee403816" sha1="c5a8f19ffdf14ce89d5013e62789041e9b50a73d"/>
-		<rom name="IOWVNtuifDlBzHeLOyLtQZLjGEaNCFtfQnhHyDZIomVHtMAqyCxHwRTLKpFFCBFR.pkg" size="568656" crc="dab3a804" md5="a84c005fc802975d57d01aa9e6ae324c" sha1="5faf5306f4daaea9f439d6fce349d6dd1b5f875f"/>
-	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (Asia) (DLC)" id="08900">
 		<description>Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (Asia) (DLC)</description>
 		<game_id>HP9000-BCAS25009_00-5DLCBRITISHFLAG0</game_id>
@@ -120518,16 +120527,16 @@
 		<rom name="zLgLzmQbcRIxtHEFnzhShqIEvTpFuiUvlAfhmQPzUejzfnOZYbzAMVOTGnrmTKaJqNnhqzvWDQkYqrgXXtQjaUkaXqsTzjvsJFLGT.pkg" size="568048" crc="f1ec0e20" md5="41146f879bddce4cbd7eec1b2849e475" sha1="eb2125e6e52c183408e329e112bd3ac4591649f4" sha256="f2000dcb8fc0334b07fa7f8445ed43ed191f132a2e8930d135897fc13e92da1a"/>
 		<rom name="JP9000-BCJS37004_00-5DLCBRITISHFLAG0.rap" size="16" crc="86aec5d0" md5="93d2faced88a6a8194333261d0c32977" sha1="ea6736100eb68ad03d40ec1c72eb2ab90bcecf22" sha256="8d023cc0064f2d332feeebaaf10e6bd4c399dee868bdd640f36c9e485be68717"/>
 	</game>
+	<game name="Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (United Kingdom) (DLC)" id="06500">
+		<description>Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (United Kingdom) (DLC)</description>
+		<game_id>EP9000-BCES01176_00-5DLCBRITISHFLAG0</game_id>
+		<rom name="EP9000-BCES01176_00-5DLCBRITISHFLAG0.rap" size="16" crc="3659b195" md5="c927549800e55e157be4eb47ee403816" sha1="c5a8f19ffdf14ce89d5013e62789041e9b50a73d"/>
+		<rom name="IOWVNtuifDlBzHeLOyLtQZLjGEaNCFtfQnhHyDZIomVHtMAqyCxHwRTLKpFFCBFR.pkg" size="568656" crc="dab3a804" md5="a84c005fc802975d57d01aa9e6ae324c" sha1="5faf5306f4daaea9f439d6fce349d6dd1b5f875f"/>
+	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (USA) (DLC)" id="21987">
 		<description>Uncharted 3 - Drake's Deception - All Characters - British Flag Shirt (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98233_00-5DLCBRITISHFLAG0</game_id>
 		<rom name="sDaBLpFhgKgvXhYREKUwvVecknxhcmwWbwIYlNnPzLdBOSERAKaqQKSPZoVLIuhSOlJhazSrORENnIOVzNcKvuAsTYDXtknKBsSIO.pkg" size="568208" crc="7afe701a" md5="920c27c0f6a73db745cc15cd9bc560b2" sha1="426952e9c5fa82c58f9effa7f8df52464208f2e3" sha256="d2157683cfec84da7bb35530c7f9b3d8019410119e46338c46a335d9875a573a"/>
-	</game>
-	<game name="Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (United Kingdom) (DLC)" id="06512">
-		<description>Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (United Kingdom) (DLC)</description>
-		<game_id>EP9000-BCES01176_00-5DLCDANISHFLAG00</game_id>
-		<rom name="EP9000-BCES01176_00-5DLCDANISHFLAG00.rap" size="16" crc="4bb1d027" md5="94640b3f781ed5ac28533d907bca0562" sha1="7f519041f42f0b9943533608eec4d39ebc7a3500"/>
-		<rom name="KjWwCftKJyLoxEpyChyBUlGCAOHzJvLXvafnoRsvyRDRrDSGxGwqdaQllyoAuArg.pkg" size="568656" crc="d63e7a8b" md5="2bbcdea9f39cde99cf64c3bdbbd52d34" sha1="3ce44f2e44b041c387b7b912a42a2c4284e5349b"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (Japan) (DLC)" id="12955">
 		<description>Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (Japan) (DLC)</description>
@@ -120539,6 +120548,12 @@
 		<description>Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (Asia) (DLC)</description>
 		<game_id>HP9000-BCAS25009_00-5DLCDANISHFLAG00</game_id>
 		<rom name="jPzSJFdliTklkVMwokNYXMQuxSFxyQXYmxOTvYsdhOuBsVRbhiVPOsmxInBcQgtAMlwTkxzjcLfsltLVbJXaGGqwCTlBAzJRpKAIn.pkg" size="568352" crc="72d2494a" md5="79eaaeac01a52d03adab997911647769" sha1="b31a6672d4e5570c247f47700e54c1e80076adb5" sha256="aa8b734c0f28092285fcb89be5aef004ea12b3cb6460a4acf75d5a7a93bf867a"/>
+	</game>
+	<game name="Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (United Kingdom) (DLC)" id="06512">
+		<description>Uncharted 3 - Drake's Deception - All Characters - Danish Flag Shirt (United Kingdom) (DLC)</description>
+		<game_id>EP9000-BCES01176_00-5DLCDANISHFLAG00</game_id>
+		<rom name="EP9000-BCES01176_00-5DLCDANISHFLAG00.rap" size="16" crc="4bb1d027" md5="94640b3f781ed5ac28533d907bca0562" sha1="7f519041f42f0b9943533608eec4d39ebc7a3500"/>
+		<rom name="KjWwCftKJyLoxEpyChyBUlGCAOHzJvLXvafnoRsvyRDRrDSGxGwqdaQllyoAuArg.pkg" size="568656" crc="d63e7a8b" md5="2bbcdea9f39cde99cf64c3bdbbd52d34" sha1="3ce44f2e44b041c387b7b912a42a2c4284e5349b"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception - All Characters - E3 Shirt (United Kingdom) (DLC)" id="06685">
 		<description>Uncharted 3 - Drake's Deception - All Characters - E3 Shirt (United Kingdom) (DLC)</description>
