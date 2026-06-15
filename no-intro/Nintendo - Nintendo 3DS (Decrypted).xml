@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260613-201526</version>
+		<version>20260614-125959</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2239,6 +2239,11 @@
 		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan)</description>
 		<game_id>0004000000074600</game_id>
 		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size="1073741824" crc="ac0db9d1" md5="2666971b4cea194e54e5566b41b7b863" sha1="c2bbaed25d57a844bc2516774c28ebc85f49e7ae" sha256="7098e4096b35a49ea0a5b6c841460813c7dde70cf8650734697c199a5836917c" status="verified" serial="CTR-P-ATWJ"/>
+	</game>
+	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)" id="z227" cloneofid="0203">
+		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)</description>
+		<game_id>0004000000074600</game_id>
+		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size="1073741824" crc="acab7721" md5="038299f26dac97f8ff66bec9d450916a" sha1="7d0cab0f61ec4ad5d86a2b8e67d2d8a2cf246cdd" sha256="48dcfe4fcf1e660294abd7e471ed95bea36b64bffa86e983f542213d510e9a45" serial="CTR-P-ATWJ"/>
 	</game>
 	<game name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)" id="0654">
 		<description>Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)</description>
@@ -4948,7 +4953,7 @@
 	<game name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)" id="0003">
 		<description>LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)</description>
 		<game_id>0004000000038C00</game_id>
-		<rom name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da).3ds" size="536870912" crc="b37fb646" md5="72899049c778c544609cb49a74f6db89" sha1="33f4be1b1bba1c372d1a8b95345488f79b95f54b" serial="CTR-P-ALGP"/>
+		<rom name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da).3ds" size="536870912" crc="b37fb646" md5="72899049c778c544609cb49a74f6db89" sha1="33f4be1b1bba1c372d1a8b95345488f79b95f54b" sha256="9976098dd3f907de670f9f99b471fedad9df32343904cbff1227596a837407ca" status="verified" serial="CTR-P-ALGP"/>
 	</game>
 	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)" id="0075" cloneofid="0003">
 		<description>LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)</description>
@@ -8063,7 +8068,7 @@
 	<game name="Resident Evil - The Mercenaries 3D (USA) (En,Fr)" id="0115" cloneofid="0008">
 		<description>Resident Evil - The Mercenaries 3D (USA) (En,Fr)</description>
 		<game_id>0004000000035900</game_id>
-		<rom name="Resident Evil - The Mercenaries 3D (USA) (En,Fr).3ds" size="1073741824" crc="da609646" md5="8e4a32f507629a9ab49a9818ffb42723" sha1="b5cd7d0fe8e436f4c3eea28ff232ad731d1f3f98" serial="CTR-P-ABME"/>
+		<rom name="Resident Evil - The Mercenaries 3D (USA) (En,Fr).3ds" size="1073741824" crc="da609646" md5="8e4a32f507629a9ab49a9818ffb42723" sha1="b5cd7d0fe8e436f4c3eea28ff232ad731d1f3f98" sha256="9d6ebd6a7e070d2782b1c6cd82e3d99ab39e86fac7b6795a8aaf2ebf597d9ab3" status="verified" serial="CTR-P-ABME"/>
 	</game>
 	<game name="Resident Evil - The Mercenaries 3D (USA) (En,Fr) (Rev 1)" id="z099" cloneofid="0008">
 		<description>Resident Evil - The Mercenaries 3D (USA) (En,Fr) (Rev 1)</description>
@@ -10145,7 +10150,7 @@
 		<game_id>0004000000086500</game_id>
 		<rom name="Twieonawayo Dongmul-ui Sup (Korea) (Rev 1).3ds" size="1073741824" crc="708872dc" md5="13456b82afb80c2761178e9d2981e838" sha1="6cfa0c2107a8f3c12932128a445b14d20149bc2e" serial="CTR-P-EGDK"/>
 	</game>
-	<game name="Twieonawayo Dongmul-ui Sup amiibo+ (Korea)" id="z050" cloneofid="1626">
+	<game name="Twieonawayo Dongmul-ui Sup amiibo+ (Korea)" id="z050" cloneofid="0270">
 		<description>Twieonawayo Dongmul-ui Sup amiibo+ (Korea)</description>
 		<rom name="Twieonawayo Dongmul-ui Sup amiibo+ (Korea).3ds" size="1073741824" crc="376d87a1" md5="cdbfb57d3022684697f02e4fc392310d" sha1="5339c3dab7f201183348305cedbf841ed987ab30" sha256="6da7046673e9c611ff064bc8cc6c1a50a4bc5329fb997b5326952d3b53c97d8d" serial="CTR-P-EAAK"/>
 	</game>
@@ -10461,7 +10466,7 @@
 	<game name="Yo-Kai Watch 2 - Psychic Specters (Australia)" id="1809" cloneofid="1755">
 		<description>Yo-Kai Watch 2 - Psychic Specters (Australia)</description>
 		<game_id>00040000001B2800</game_id>
-		<rom name="Yo-Kai Watch 2 - Psychic Specters (Australia).3ds" size="4294967296" crc="d6864003" md5="f7a3490653593417a5eaa07008eb06cf" sha1="d19823450e164de479fdd55ffb4f4619d97af8d7" status="verified" serial="CTR-P-BYSZ"/>
+		<rom name="Yo-Kai Watch 2 - Psychic Specters (Australia).3ds" size="4294967296" crc="d6864003" md5="f7a3490653593417a5eaa07008eb06cf" sha1="d19823450e164de479fdd55ffb4f4619d97af8d7" sha256="77cc203833815e960c88f2c2a6bc806b05c8acd352ad7a4e51f5121639655ea4" status="verified" serial="CTR-P-BYSZ"/>
 	</game>
 	<game name="Yo-Kai Watch 3 (Germany)" id="1844" cloneofid="1845">
 		<description>Yo-Kai Watch 3 (Germany)</description>

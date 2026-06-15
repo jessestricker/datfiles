@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260612-122408</version>
+		<version>20260614-071422</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -610,6 +610,12 @@
 		<description>Scrapyard Dog (USA, Europe)</description>
 		<rom name="Scrapyard Dog (USA, Europe).lyx" size="262144" crc="be166f3b" md5="0cf228912d2f8eeb29aa215abf416f6d" sha1="df57cd7f119fa6af8f9b24942f0f12314b301075" sha256="1aa866ef273ec04095beed27b07bd463d21f8814c38e41d29835eb4e5ad6cb41" status="verified"/>
 	</game>
+	<game name="Scrapyard Dog (USA, Europe) (Beta) (1991-07-03)" id="0445" cloneofid="0069">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Scrapyard Dog (USA, Europe) (Beta) (1991-07-03)</description>
+		<rom name="Scrapyard Dog (USA, Europe) (Beta) (1991-07-03).lyx" size="262144" crc="0433391a" md5="e9dc2e9e84b895484032c410836b799e" sha1="1da1b04398da444ce63e12f8b1c9d7fceb14f6da" sha256="45c60e4784a7904b69d23ffa63d084e6051096de9fb8ea121fd4174f9bb25fe0"/>
+	</game>
 	<game name="Shadow of the Beast (USA, Europe)" id="0070">
 		<category>Games</category>
 		<description>Shadow of the Beast (USA, Europe)</description>
@@ -619,6 +625,12 @@
 		<category>Games</category>
 		<description>Shanghai (World)</description>
 		<rom name="Shanghai (World).lyx" size="131072" crc="192bcd04" md5="46634eb87e6380d4d10f7b80d177c1ff" sha1="9e67e05545934a7d375597b0e8c469468c5748a4" sha256="65004ff9da1d69da2c11c39733dedb8680b43816f6c03d0c09f415cb7d028f22" status="verified"/>
+	</game>
+	<game name="Shanghai (World) (Beta) (1990-11-07)" id="0446" cloneofid="0071">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Shanghai (World) (Beta) (1990-11-07)</description>
+		<rom name="Shanghai (World) (Beta) (1990-11-07).lyx" size="131072" crc="452d2845" md5="b5f9e878abcf30e98b5205286be4df79" sha1="40547ea90a928af2822ed4cc5a9edb6340155b9b" sha256="4ea986a4626cd00c8f072f877bd105741621a742da319d80a82e2f21e116f30e"/>
 	</game>
 	<game name="Spacewar (USA) (Demo)" id="0130">
 		<category>Games</category>

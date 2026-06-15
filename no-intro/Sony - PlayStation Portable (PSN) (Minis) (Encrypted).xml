@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>445</id>
 		<name>Sony - PlayStation Portable (PSN) (Minis) (Encrypted)</name>
 		<description>Sony - PlayStation Portable (PSN) (Minis) (Encrypted)</description>
-		<version>20251222-175857</version>
-		<author>buckwheat, jimmsu, Landcross, norkmetnoil577, rarenight, xuom2</author>
+		<version>20260614-202729</version>
+		<author>buckwheat, emstan784, jimmsu, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="1000 Tiny Claws (Europe) (Minis)" id="0001">
@@ -1095,6 +1097,7 @@
 		<description>Fighting Fantasy - Talisman of Death (USA) (Minis)</description>
 		<game_id>UP4132-NPUZ00187_00-FF11TOD000000001</game_id>
 		<rom name="HqdrJZxmNzUVACcDPKMwipQENMHVFGdPXvNkscdteyCGZoOJEtSzgGWsWnlwLfjjthfVkRVNYvoEKgTQbbrMlIJvOjvRbSWlGUCeo.pkg" size="28693456" crc="36060667" md5="4dea0e99c6343f3b3198ca3e9a545d69" sha1="dda635d3728bd5dd64742f3c15457cb8e7ac96f5"/>
+		<rom name="UP4132-NPUZ00187_00-FF11TOD000000001.rap" size="16" crc="5e5b5aa2" md5="49a39c3a14f327d444d3039c01143511" sha1="66d04f3c93e882ef7c655cd5ced55fd9b9ca7fbd" sha256="9bed2d485ebb1ea67f037db752e297b160efc7f1bf8b99453bda5a2dc14bd1b7"/>
 	</game>
 	<game name="Fighting Fantasy - The Warlock of Firetop Mountain (Europe) (Minis)" id="0191">
 		<description>Fighting Fantasy - The Warlock of Firetop Mountain (Europe) (Minis)</description>
@@ -1589,6 +1592,7 @@
 		<description>JellyCar 2 (USA) (En,Fr,Es) (Minis)</description>
 		<game_id>UP1082-NPUZ00076_00-JELLYCAR2PSPMINI</game_id>
 		<rom name="kXdmGsfMbtJQpPEjHtUe1yLMGvod1Sku6JFWoSMCRl5YOKPsvY327YH8cWQBLAET7jvdTO1UVNhTi5sUGdk1C1Q4c2LHDj6lO5g2N.pkg" size="21344464" crc="e720f0af" md5="e67d10d44686e60a08571594e61ed9cc" sha1="71b8045347a33e20660364d1d75dba220f1e9676"/>
+		<rom name="UP1082-NPUZ00076_00-JELLYCAR2PSPMINI.rap" size="16" crc="3570f753" md5="9d15d38347222aca729a0e41d7939531" sha1="ac48ad2db9913a083b9992f2d8e3d43b654d3410" sha256="4c215b26c7b46989e4a3fd208542b23062a223eb5fb18b8788ab0b17c4ea1a8f"/>
 	</game>
 	<game name="Jetpack Joyride (Europe) (Minis)" id="0279">
 		<description>Jetpack Joyride (Europe) (Minis)</description>
@@ -1600,6 +1604,7 @@
 		<description>Jetpack Joyride (USA) (Minis)</description>
 		<game_id>UP4101-NPUZ00292_00-JETPACKJOYRIDE00</game_id>
 		<rom name="keZdlhHsTgLElklDhbvdCavcafikXJCryWHaVYLDnreTfrwqOkVfmeMlBMQhLGtT.pkg" size="21563184" crc="11ac90aa" md5="b5601b9f455168676201172918066814" sha1="aa9bb84a72c16b7db8012252040c72053e287ac4"/>
+		<rom name="UP4101-NPUZ00292_00-JETPACKJOYRIDE00.rap" size="16" crc="5b68c18d" md5="290eaaf81c9b0cb3538802367c98f8ca" sha1="4c1bddcb9d86a5d2c9820f47cb6639bb0b43bc04" sha256="66b99637c83c2abe084851df261c069886d8163bcb3f737724b2f6549e119e06"/>
 	</game>
 	<game name="Jetpack Joyride + 150K Coins (Europe) (v2.00) (Minis)" id="0281">
 		<description>Jetpack Joyride + 150K Coins (Europe) (v2.00) (Minis)</description>
@@ -2634,6 +2639,7 @@
 		<description>Sudoku (USA) (En,Fr,De,Es,It) (Minis)</description>
 		<game_id>UP0006-NPUZ00001_00-EASUDOKUDIGITALD</game_id>
 		<rom name="a9kKQoOtxEIHprMSKOfpCxpVd5VjThGSVKRw5nVvFKioPHBigE8f2B9CtSUgBOh0rmPxx0mQN21NK1QMAcip3GyqNQkkuNqQt8Dw1.pkg" size="31053648" crc="01d0e0b1" md5="ddaafa13753728aac734c91cc8bff91f" sha1="a2c241a6596296275462a5c2c0fd51fcfd343774"/>
+		<rom name="UP0006-NPUZ00001_00-EASUDOKUDIGITALD.rap" size="16" crc="4847aba0" md5="fe7dc908c8a5f13d671d9369e71a19db" sha1="deed7d304aded53164d42dc0557f23162df627f8" sha256="1fb85f6e92ca75c8733f3993c89155e851e641c0ea5665e0f2865e0617a197bd"/>
 	</game>
 	<game name="Sudoku und Kakuro - Welt Edition (Germany) (Minis)" id="0465">
 		<description>Sudoku und Kakuro - Welt Edition (Germany) (Minis)</description>

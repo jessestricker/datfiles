@@ -4,7 +4,7 @@
 		<id>443</id>
 		<name>Sony - PlayStation 3 (PSN) (DLC)</name>
 		<description>Sony - PlayStation 3 (PSN) (DLC)</description>
-		<version>20260613-224500</version>
+		<version>20260614-092122</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -111312,6 +111312,12 @@
 		<game_id>EP0102-BLES00770_00-USF40ANICATCOS0F</game_id>
 		<rom name="EP0102-BLES00770_00-USF40ANICATCOS0F_bg_1_e74d24f138dd7ef229d3f710ea1329395fa34c9b.pkg" size="587926784" crc="f2827f1c" md5="ce872b1114529ffb568ba8e0d100faf1" sha1="7dc027bc24cc3f6fb74b9609119b1f0f63c6b201"/>
 	</game>
+	<game name="Surfer, The - Monsters (Europe) (DLC)" id="23943">
+		<description>Surfer, The - Monsters (Europe) (DLC)</description>
+		<game_id>EP1379-NPEB02271_00-THESURFERMONSTER</game_id>
+		<rom name="EP1379-NPEB02271_00-THESURFERMONSTER_bg_1_18b0d23e93c53ee4de095ca3e4ea3c72a41b76ed.pkg" size="193519392" crc="82473a01" md5="23ad532fd8aa107b5aaed196d5af93db" sha1="194c92dd8a13a54710fd0f628a741bfcfcb392b6" sha256="bf6d0a7a3c88532f40c40cd2699d363f3c0c0d7a6c670bb8d18b809c55c1575b"/>
+		<rom name="EP1379-NPEB02271_00-THESURFERMONSTER.rap" size="16" crc="8b53e5e3" md5="9f78b280e9df787896ef18f02324cd7a" sha1="2a4a83a10a4a31ff85383f9c9299923e066610a8" sha256="5802b76e8871bd6e98bced6fa1a2f2f0ad1fadbaf246f9695641ec4430dccf70"/>
+	</game>
 	<game name="Sword Art Online - Lost Song - Additional Costume - Uniform (Japan) (DLC)" id="11749">
 		<description>Sword Art Online - Lost Song - Additional Costume - Uniform (Japan) (DLC)</description>
 		<game_id>JP0700-NPJB00709_00-PS3DLC0000000002</game_id>
@@ -111543,29 +111549,29 @@
 		<rom name="IamDCabADOnnpuOWeohRrAQlfibhrpQcytgJkCZucfTUxZojKQiMdmKyKevZsNHkXmMfLIxfxvWitJQybZJUGDOMtnXhYsyqYxoPD.pkg" size="102400" crc="ad6f0ff1" md5="6cb1ee518d9df8fb765ccbc71a2a4cbd" sha1="27906d2bf3c87095f534010bbcff84b3a2ad4680" sha256="31afe7b47e3ca4eac9ca471ed1a2b1bac937a368f29ae488b4d01ff013849603"/>
 		<rom name="JP0031-BLJM60444_00-YPHONESKINDATA04.rap" size="16" crc="70e2f4fd" md5="360fea3083ced5944b671a9d9e010531" sha1="9fc97fda469cbbba5deeba215fc8a1a76878854d" sha256="43fc9c58778404a5268aaed5d816501ac0bcda82e754d5d1f9066c7c38da1031"/>
 	</game>
-	<game name="Tales from Space - About a Blob - Blob Costumes (USA) (DLC)" id="19529">
-		<description>Tales from Space - About a Blob - Blob Costumes (USA) (DLC)</description>
-		<game_id>UP2045-NPUB30311_00-ABOUTABLOB000004</game_id>
-		<rom name="JCPrLzjROrKjmHkwJyvoSQzCiFjEbUtfejxULuCxrcNZYcijxYKahOdAUTfRhnWiCICheukuJmgwRoVKGTqrWSUEawmFoGklAgTdB.pkg" size="102400" crc="86697641" md5="ed882d7236a275df6b81e1b85bb5bc49" sha1="78342c7e6df6b3c185f8084dce39fdc56fa9d150"/>
-		<rom name="UP2045-NPUB30311_00-ABOUTABLOB000004.rap" size="16" crc="26e7b844" md5="951eea07ac884a35408eeb4e677b1b5a" sha1="6098318c3c88793e79b6424d734c438564b47ce4"/>
-	</game>
 	<game name="Tales from Space - About a Blob - Blob Costumes (Europe) (DLC)" id="23920">
 		<description>Tales from Space - About a Blob - Blob Costumes (Europe) (DLC)</description>
 		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000004</game_id>
 		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000004.rap" size="16" crc="948acd9b" md5="5ced7eadecb1eb5fac71f82609aa5ef3" sha1="85acbcfafcd4240df5e512100e4d6a290edddf7b" sha256="bd5c860dd5d70ae0185ed99e11cbd48fbc3b4d2e223d456160061f1d842df634"/>
 		<rom name="ZvhoApdAXJCudCIhmeUBNXGKvctXGDztBhDvBTtQFsOnVZztYoMgCedboQKgexIs.pkg" size="102400" crc="4b708c88" md5="aa4057ec047352f571a71bb4a84513e3" sha1="1d81ce10fb743abe200beb8c4394126857af0ca5" sha256="46833ffaf1ad2b9e769794f82189e58fb45b1fb0a9974503b56b7968082ef9b9"/>
 	</game>
-	<game name="Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)" id="23921">
-		<description>Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)</description>
-		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000006</game_id>
-		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000006.rap" size="16" crc="0821ef6f" md5="b8c903287dabcee10381d94f1e04fcab" sha1="77499dcaff16394f72ec3ab8cdce26a230e2829e" sha256="811503c3950cc54b816d7670232e13fdcaa9306b6d9619b33aac5074fd756df0"/>
-		<rom name="ghJConJMgAFIhiMQOHtWTXICUYDaORjfWiFmGtvldbtiEQXBbizIthHiSQivmBXT.pkg" size="13535456" crc="99d28813" md5="070a176e23556539b3f97b00e4563005" sha1="d25093b71892eebb290747dae60b52dfc87bc62f" sha256="2854106327981b021136084daf2d23554bdebfcaaefb11c1376863801bb47f27"/>
+	<game name="Tales from Space - About a Blob - Blob Costumes (USA) (DLC)" id="19529">
+		<description>Tales from Space - About a Blob - Blob Costumes (USA) (DLC)</description>
+		<game_id>UP2045-NPUB30311_00-ABOUTABLOB000004</game_id>
+		<rom name="JCPrLzjROrKjmHkwJyvoSQzCiFjEbUtfejxULuCxrcNZYcijxYKahOdAUTfRhnWiCICheukuJmgwRoVKGTqrWSUEawmFoGklAgTdB.pkg" size="102400" crc="86697641" md5="ed882d7236a275df6b81e1b85bb5bc49" sha1="78342c7e6df6b3c185f8084dce39fdc56fa9d150"/>
+		<rom name="UP2045-NPUB30311_00-ABOUTABLOB000004.rap" size="16" crc="26e7b844" md5="951eea07ac884a35408eeb4e677b1b5a" sha1="6098318c3c88793e79b6424d734c438564b47ce4"/>
 	</game>
 	<game name="Tales from Space - About a Blob - Co-Op Level Pack (USA) (DLC)" id="19530">
 		<description>Tales from Space - About a Blob - Co-Op Level Pack (USA) (DLC)</description>
 		<game_id>UP2045-NPUB30311_00-ABOUTABLOB000006</game_id>
 		<rom name="lAqybtcDzMtDGhcUsecDrQzzTNQiMsoenKBVbewolNBRZbrKVtVeEUMznokWtGDwcYnafDYhUBgSTUbrhzZARyZvKEZDtVVmHISoH.pkg" size="13535456" crc="5e96c4c4" md5="62bcbedd9d877576be99d9ee67b24d9f" sha1="6819042c68f8fe07155f86238ee6b867f797b770"/>
 		<rom name="UP2045-NPUB30311_00-ABOUTABLOB000006.rap" size="16" crc="b44b2a64" md5="ccbf6c60d666b8d16e71b2b601bd78fe" sha1="d0cd55c02892c445d0bcbca1b2bf15f1fb000e8b"/>
+	</game>
+	<game name="Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)" id="23921">
+		<description>Tales from Space - About a Blob - Co-Op Level Pack (Europe) (DLC)</description>
+		<game_id>EP2145-NPEB00388_00-ABOUTABLOB000006</game_id>
+		<rom name="EP2145-NPEB00388_00-ABOUTABLOB000006.rap" size="16" crc="0821ef6f" md5="b8c903287dabcee10381d94f1e04fcab" sha1="77499dcaff16394f72ec3ab8cdce26a230e2829e" sha256="811503c3950cc54b816d7670232e13fdcaa9306b6d9619b33aac5074fd756df0"/>
+		<rom name="ghJConJMgAFIhiMQOHtWTXICUYDaORjfWiFmGtvldbtiEQXBbizIthHiSQivmBXT.pkg" size="13535456" crc="99d28813" md5="070a176e23556539b3f97b00e4563005" sha1="d25093b71892eebb290747dae60b52dfc87bc62f" sha256="2854106327981b021136084daf2d23554bdebfcaaefb11c1376863801bb47f27"/>
 	</game>
 	<game name="Tales from Space - Mutant Blobs Attack!!! - EP2145-NPEB01824_00-MUTANTBLOBSATK02 (Europe) (DLC)" id="23370">
 		<description>Tales from Space - Mutant Blobs Attack!!! - EP2145-NPEB01824_00-MUTANTBLOBSATK02 (Europe) (DLC)</description>
@@ -111975,23 +111981,17 @@
 		<game_id>JP0700-NPJB00796_00-PS3TOBVIS0000060</game_id>
 		<rom name="JP0700-NPJB00796_00-PS3TOBVIS0000060_bg_1_9353e834232b088da8aca84ba6cd92f670764730.pkg" size="102400" crc="092c14e4" md5="660e6e7978cb896bbd7da90253614cd9" sha1="2653c81d2f9b8b0ce6e7715a6f55d09b621cc047" sha256="7c426774b444f32d3799c4f25f57ba85b42e99228132e96eba3140f1663e3a83"/>
 	</game>
-	<game name="Tales of Graces f - 300,000 Gald #1 (Europe) (DLC)" id="02375">
-		<description>Tales of Graces f - 300,000 Gald #1 (Europe) (DLC)</description>
-		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0058</game_id>
-		<rom name="YBNAhmkQRYoxpguiSQqicFNdeURSmiXTGXCBLxmNdBqrwRqoBzZQuYesKxMwHwFJ.pkg" size="102400" crc="5e95b02a" md5="11bfe4b8fb15cc95567a5038ecf4f922" sha1="d1acebffc0cd383cc28c1cb5aab78c29b66c85c4"/>
-		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0058.rap" size="16" crc="52a699bf" md5="4c0388a7cb0b5d8feabab7a8c72dace3" sha1="f7008642a9a8ad75ca88f6be43304c745d234aed"/>
-	</game>
 	<game name="Tales of Graces f - 300,000 Gald #1 (USA) (DLC)" id="17123">
 		<description>Tales of Graces f - 300,000 Gald #1 (USA) (DLC)</description>
 		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0073</game_id>
 		<rom name="jSQSeztOMcsSPYxHoCSZWFPUHCZPcnEtJLYJOYQVOiEpDLyyEdJqnGKhYRAElyqvGlXowSmJRPYjngPsmJEySJKEhPPuUKvOndHdf.pkg" size="102400" crc="eef35b80" md5="0048cc93865468ae0faee8da7960c553" sha1="b4d139220294147331a80aa57b3f867b5f990e59"/>
 		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0073.rap" size="16" crc="f96e0a00" md5="b3bc5e300a6a3fd06240b2172fc0d5d0" sha1="d774d677d3a455bd2de50591df82d375cf55cd1c"/>
 	</game>
-	<game name="Tales of Graces f - 300,000 Gald #2 (USA) (DLC)" id="17124">
-		<description>Tales of Graces f - 300,000 Gald #2 (USA) (DLC)</description>
-		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0074</game_id>
-		<rom name="eMCCrzQfEcscrBwwBKRkGqgBuPVNRTqgkJHeSZsYEvMKLEHJrFdGBnEhWdszREjVkmCCGHPXRkiYfOfXyfZARqxkPzezvJUdZetyQ.pkg" size="102400" crc="344949dd" md5="b93a76662ccd9b4f494e4985c4e31774" sha1="007fbf81fff2d5e8a8bd237fada504695717ce24"/>
-		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0074.rap" size="16" crc="505137a3" md5="e35e8f1ebd79a070a20dfa9dbb0dcc7e" sha1="bd90a9ef319cf1aafe277c78a0ef414d7ea73c91"/>
+	<game name="Tales of Graces f - 300,000 Gald #1 (Europe) (DLC)" id="02375">
+		<description>Tales of Graces f - 300,000 Gald #1 (Europe) (DLC)</description>
+		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0058</game_id>
+		<rom name="YBNAhmkQRYoxpguiSQqicFNdeURSmiXTGXCBLxmNdBqrwRqoBzZQuYesKxMwHwFJ.pkg" size="102400" crc="5e95b02a" md5="11bfe4b8fb15cc95567a5038ecf4f922" sha1="d1acebffc0cd383cc28c1cb5aab78c29b66c85c4"/>
+		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0058.rap" size="16" crc="52a699bf" md5="4c0388a7cb0b5d8feabab7a8c72dace3" sha1="f7008642a9a8ad75ca88f6be43304c745d234aed"/>
 	</game>
 	<game name="Tales of Graces f - 300,000 Gald #2 (Europe) (DLC)" id="02376">
 		<description>Tales of Graces f - 300,000 Gald #2 (Europe) (DLC)</description>
@@ -111999,11 +111999,11 @@
 		<rom name="FHxbUwcRjOQYxzudnjyIqwySCaiNqQMrMeuTnrgjcRXHupVAAUSWUHQwRGKoqADF.pkg" size="102400" crc="e3cec2f3" md5="d05f9ea1b8e76fc752342a578439b6d3" sha1="e7c97f14c4e2178c12b3f596493d40f24285c3c0"/>
 		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0059.rap" size="16" crc="0e06e761" md5="d5884dac40ce83062a14f85185c954a0" sha1="2fa0edc465ec32d4b9ce75c6bc2fe72701ac42a0" sha256="bb7a8d082a5f284329fa5b642ab37aeb3d211b6093d93db8d00c177de5f6af07"/>
 	</game>
-	<game name="Tales of Graces f - 300,000 Gald #3 (Europe) (DLC)" id="02377">
-		<description>Tales of Graces f - 300,000 Gald #3 (Europe) (DLC)</description>
-		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0060</game_id>
-		<rom name="qgFpGIjedAvEtnUaQYhKvQrEiUgytJXrsAxNQdNtydEFiqNEXEpbANqqloGYWJCi.pkg" size="102400" crc="1936d6cd" md5="85ef99da0a041674da0b86a525aba8b1" sha1="7b5f2be7827ab10506c9a68ef880f1a376f4b1af"/>
-		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0060.rap" size="16" crc="703d34a7" md5="acfa2ad59d72c400b767d6df929a97fd" sha1="4bd73f966f4e43e188d669cc92fb40b20d9c3698" sha256="3f974fa07fa9a52755f92fcf988291c56149995cc1d2a65038fc8d7aaa609ffe"/>
+	<game name="Tales of Graces f - 300,000 Gald #2 (USA) (DLC)" id="17124">
+		<description>Tales of Graces f - 300,000 Gald #2 (USA) (DLC)</description>
+		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0074</game_id>
+		<rom name="eMCCrzQfEcscrBwwBKRkGqgBuPVNRTqgkJHeSZsYEvMKLEHJrFdGBnEhWdszREjVkmCCGHPXRkiYfOfXyfZARqxkPzezvJUdZetyQ.pkg" size="102400" crc="344949dd" md5="b93a76662ccd9b4f494e4985c4e31774" sha1="007fbf81fff2d5e8a8bd237fada504695717ce24"/>
+		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0074.rap" size="16" crc="505137a3" md5="e35e8f1ebd79a070a20dfa9dbb0dcc7e" sha1="bd90a9ef319cf1aafe277c78a0ef414d7ea73c91"/>
 	</game>
 	<game name="Tales of Graces f - 300,000 Gald #3 (USA) (DLC)" id="17125">
 		<description>Tales of Graces f - 300,000 Gald #3 (USA) (DLC)</description>
@@ -112011,17 +112011,17 @@
 		<rom name="sahaqeSqoFemjKgOAJSLmdZvcPCnVQjhMdMdBotQIZnTUghKKbpYYEMNrIlhhlDLpJxdKevDDlXimfmkGvlDQnJKBmsQxXPfCbAuz.pkg" size="102400" crc="30ab0ee3" md5="f3298a74cbb96482f272297c87cb9004" sha1="d6ae9a15af244a13b136970354e80a5e0f0ed18e"/>
 		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0075.rap" size="16" crc="83cdc0ee" md5="7403b92737456b4de2862ec6993508be" sha1="3caefabee34c96ef3d9a36d69cb978fa4d3bcac7"/>
 	</game>
+	<game name="Tales of Graces f - 300,000 Gald #3 (Europe) (DLC)" id="02377">
+		<description>Tales of Graces f - 300,000 Gald #3 (Europe) (DLC)</description>
+		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0060</game_id>
+		<rom name="qgFpGIjedAvEtnUaQYhKvQrEiUgytJXrsAxNQdNtydEFiqNEXEpbANqqloGYWJCi.pkg" size="102400" crc="1936d6cd" md5="85ef99da0a041674da0b86a525aba8b1" sha1="7b5f2be7827ab10506c9a68ef880f1a376f4b1af"/>
+		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0060.rap" size="16" crc="703d34a7" md5="acfa2ad59d72c400b767d6df929a97fd" sha1="4bd73f966f4e43e188d669cc92fb40b20d9c3698" sha256="3f974fa07fa9a52755f92fcf988291c56149995cc1d2a65038fc8d7aaa609ffe"/>
+	</game>
 	<game name="Tales of Graces f - 300,000 Gardos (Japan) (DLC)" id="11070">
 		<description>Tales of Graces f - 300,000 Gardos (Japan) (DLC)</description>
 		<game_id>JP0700-BLJS10093_00-DOWNLOADDATA0106</game_id>
 		<rom name="JP0700-BLJS10093_00-DOWNLOADDATA0106.rap" size="16" crc="c0f992bb" md5="4e8f85dbcd1e0476c5dc85ddef96c3cd" sha1="881bc366ee4d4520a267e7b0ef57b1204cba220e" sha256="5f6035484a98d33721b383a121a8086d90a36511e77e373b611e476dd0be835b"/>
 		<rom name="AQBojnNogfNHuHbEhvgVVZtFTAOdCByLMyBtjXtScxEKKMOXYjLKLADcFPJVyLYyADJZzfxllyyjqnXnKBLncWFlrdcLRgdLanOpP.pkg" size="102400" crc="184c0a77" md5="456775b129bae6edefda2543f25664e7" sha1="5e277f36fe0ac8031cfbc124749a87da1ffdbbd2" sha256="4bd566421a82d999f20a0148e4cc1983432f2120e9813bed881d2d3aaf5eaf49"/>
-	</game>
-	<game name="Tales of Graces f - Advanced Spellbook Set (USA) (DLC)" id="17114">
-		<description>Tales of Graces f - Advanced Spellbook Set (USA) (DLC)</description>
-		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0053</game_id>
-		<rom name="SfuaPfMmdXpdOPCpdrWVmPrbXHQQuMyIToVbyjObGpyxDZrfcRXsPVsfQnsymizpOntXoFOgWVLwJCtHRFdDdEPJgToPjRZFDkArF.pkg" size="102400" crc="652b9264" md5="89f8e901fa15ba508392e07bf8f77de5" sha1="b6b02f942be50f243f5cc483af75a8b05520de16" sha256="ed5ddb39397c2c3803910dd92545307cbc20aa2fde985481b4a4146c40dda409" status="verified"/>
-		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0053.rap" size="16" crc="5d0c8ce9" md5="6003c8768b5f6b375bb03add4ad1a30f" sha1="4042b485d7ba2f165d9fdf6e491f772b18638be4" sha256="4d56e6682b617868ccf38b22abb004e692272630af0e32a7a39a63468a14aa7c" status="verified"/>
 	</game>
 	<game name="Tales of Graces f - Advanced Spellbook Set (Europe) (DLC)" id="02366">
 		<description>Tales of Graces f - Advanced Spellbook Set (Europe) (DLC)</description>
@@ -112029,17 +112029,11 @@
 		<rom name="JqJFjUkudKhpGzfxgeSZApwysBUHzOeSvmxHPzclLirsolZEcqECzhsVFftJBlig.pkg" size="102400" crc="86de99f5" md5="5bb0d99b556046f53edc54e506678c46" sha1="282040c606a55851638e63a7da237f66e8e8ebba"/>
 		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0049.rap" size="16" crc="fda5c114" md5="5c2ea9836687e7f6f07c635b578887bb" sha1="edddfd8c2ba1747a3992a4af1b472edb682d3218"/>
 	</game>
-	<game name="Tales of Graces f - Adventurer's Nest Egg (Europe) (En,Fr,De) (DLC)" id="02320">
-		<description>Tales of Graces f - Adventurer's Nest Egg (Europe) (En,Fr,De) (DLC)</description>
-		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0003</game_id>
-		<rom name="qKyRMiZHZycvHphCxNsakWldjzfgMUqObvOEYwpeonLuotlJGOhBWAtyYmZXgcso.pkg" size="102400" crc="940b7903" md5="21a627d16159878fca1a07291ffa7e42" sha1="1973a974ea72766fae06532bd2c04eab00f380e6" sha256="4b96eb2bdd9ffc62a754c6720343e289f13c3c9db37361d46453b96c06bfaea7"/>
-		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0003.rap" size="16" crc="65ffb742" md5="e3fb53beed69676392edf6f00dbea7e3" sha1="f3d1a658ac240fc8d9e94c9e3226e328cca1bdfd" sha256="eb84fbe6a1434d140d55f63d15d1cb2eb7023fffebaaf330d27d5f55c5dbe0a8"/>
-	</game>
-	<game name="Tales of Graces f - Adventurer's Nest Egg (Japan) (DLC)" id="11046">
-		<description>Tales of Graces f - Adventurer's Nest Egg (Japan) (DLC)</description>
-		<game_id>JP0700-BLJS10093_00-DOWNLOADDATA0005</game_id>
-		<rom name="nvaKFNtSCwzTaoHyJJWtJDKMmiKYliQQIEhIwMtsJvwLxjqABbGrOiWdYeeieENBzgMHTXgFjJJLVYlZlFzrKqKVMylWaswZNkPYH.pkg" size="102400" crc="674d1e4e" md5="c51cfd9d55d53d102f0b1d5e2ed7091e" sha1="bef7118120af7f268261f2fc7a2bede681846e1d"/>
-		<rom name="JP0700-BLJS10093_00-DOWNLOADDATA0005.rap" size="16" crc="68ae8f81" md5="64c54e0492c0e2fb369efe2f210be65f" sha1="2df291490330050e6f5e47d4297d856abf14b16e"/>
+	<game name="Tales of Graces f - Advanced Spellbook Set (USA) (DLC)" id="17114">
+		<description>Tales of Graces f - Advanced Spellbook Set (USA) (DLC)</description>
+		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0053</game_id>
+		<rom name="SfuaPfMmdXpdOPCpdrWVmPrbXHQQuMyIToVbyjObGpyxDZrfcRXsPVsfQnsymizpOntXoFOgWVLwJCtHRFdDdEPJgToPjRZFDkArF.pkg" size="102400" crc="652b9264" md5="89f8e901fa15ba508392e07bf8f77de5" sha1="b6b02f942be50f243f5cc483af75a8b05520de16" sha256="ed5ddb39397c2c3803910dd92545307cbc20aa2fde985481b4a4146c40dda409" status="verified"/>
+		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0053.rap" size="16" crc="5d0c8ce9" md5="6003c8768b5f6b375bb03add4ad1a30f" sha1="4042b485d7ba2f165d9fdf6e491f772b18638be4" sha256="4d56e6682b617868ccf38b22abb004e692272630af0e32a7a39a63468a14aa7c" status="verified"/>
 	</game>
 	<game name="Tales of Graces f - Adventurer's Nest Egg (USA) (DLC)" id="17068">
 		<description>Tales of Graces f - Adventurer's Nest Egg (USA) (DLC)</description>
@@ -112047,11 +112041,17 @@
 		<rom name="fnoyESBHJkvyufqaAhWPYQpRuuEKMpATSCiiRUXxVcDfrLqBkaiIoTcHGRjwHvScyZACxlXvxYxtsZtGoCWmeyUmANeXJrHqLIIHW.pkg" size="102400" crc="205bc83c" md5="cd217dc7d796e1a21edf3d2c6a158815" sha1="1ae414750fec7a9a2ffe68ffb2fe69538e95a301"/>
 		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0005.rap" size="16" crc="9e519140" md5="c3dd26fe85f179b9435912c834062ae9" sha1="9d16bde5f4965893673c0336fd3087059d8c5130"/>
 	</game>
-	<game name="Tales of Graces f - Asbel's Leon Costume (USA) (DLC)" id="17089">
-		<description>Tales of Graces f - Asbel's Leon Costume (USA) (DLC)</description>
-		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0027</game_id>
-		<rom name="kJrPFjblZdfSTAfWaqXLTDIQWyEraUqSIWQYNPrhtyscLTYDiRIzySASjgiElROTMlFKJJBoWWReDljGhpprsOBiSNTEtXSYnjSww.pkg" size="1869344" crc="92b3c094" md5="ff9ae18cedbba983c8bdb8108ae8c8d6" sha1="7444448a48a71eb12d51b5133992a22589fc0723" sha256="d331abc030edd421d84d815413e74f756dd91d7e5e091a8f1a0afcec1426071a"/>
-		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0027.rap" size="16" crc="249f228c" md5="72f6bf7a8a9a641471d33a6507673476" sha1="71e81fbca5a2cc4d6f282d68eb99650b9f9fe627" sha256="ad58c5cf95900f84fd106b47741b17d20a574138b091925d86f842732ce6d44a"/>
+	<game name="Tales of Graces f - Adventurer's Nest Egg (Japan) (DLC)" id="11046">
+		<description>Tales of Graces f - Adventurer's Nest Egg (Japan) (DLC)</description>
+		<game_id>JP0700-BLJS10093_00-DOWNLOADDATA0005</game_id>
+		<rom name="nvaKFNtSCwzTaoHyJJWtJDKMmiKYliQQIEhIwMtsJvwLxjqABbGrOiWdYeeieENBzgMHTXgFjJJLVYlZlFzrKqKVMylWaswZNkPYH.pkg" size="102400" crc="674d1e4e" md5="c51cfd9d55d53d102f0b1d5e2ed7091e" sha1="bef7118120af7f268261f2fc7a2bede681846e1d"/>
+		<rom name="JP0700-BLJS10093_00-DOWNLOADDATA0005.rap" size="16" crc="68ae8f81" md5="64c54e0492c0e2fb369efe2f210be65f" sha1="2df291490330050e6f5e47d4297d856abf14b16e"/>
+	</game>
+	<game name="Tales of Graces f - Adventurer's Nest Egg (Europe) (En,Fr,De) (DLC)" id="02320">
+		<description>Tales of Graces f - Adventurer's Nest Egg (Europe) (En,Fr,De) (DLC)</description>
+		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0003</game_id>
+		<rom name="qKyRMiZHZycvHphCxNsakWldjzfgMUqObvOEYwpeonLuotlJGOhBWAtyYmZXgcso.pkg" size="102400" crc="940b7903" md5="21a627d16159878fca1a07291ffa7e42" sha1="1973a974ea72766fae06532bd2c04eab00f380e6" sha256="4b96eb2bdd9ffc62a754c6720343e289f13c3c9db37361d46453b96c06bfaea7"/>
+		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0003.rap" size="16" crc="65ffb742" md5="e3fb53beed69676392edf6f00dbea7e3" sha1="f3d1a658ac240fc8d9e94c9e3226e328cca1bdfd" sha256="eb84fbe6a1434d140d55f63d15d1cb2eb7023fffebaaf330d27d5f55c5dbe0a8"/>
 	</game>
 	<game name="Tales of Graces f - Asbel's Leon Costume (Europe) (DLC)" id="02341">
 		<description>Tales of Graces f - Asbel's Leon Costume (Europe) (DLC)</description>
@@ -112059,11 +112059,11 @@
 		<rom name="ZxBqutepKwltXiusQbaaCrtxAXNemdVpkwTVHUQfsZhocUVTAoXBdDVXWkjfxfqJ.pkg" size="1870944" crc="8f94a2d5" md5="18b09502bfc5b3f67e95e36e231a3ca6" sha1="513306027e883b5aa13d79658476917244931070"/>
 		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0024.rap" size="16" crc="0c670226" md5="435ef3af8b5c6a2b8bdd1b4929c5840e" sha1="007d32667b62fdcfa679b8f0a91cf29fcd96712b" sha256="30ceadeeca5802d987823a3a03a662efd9b19947c5aa753cec9bcb17455a5203"/>
 	</game>
-	<game name="Tales of Graces f - Asbel's Pilot Costume (Europe) (DLC)" id="02329">
-		<description>Tales of Graces f - Asbel's Pilot Costume (Europe) (DLC)</description>
-		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0012</game_id>
-		<rom name="yaBXjnmEvrIzIWiltnVfYoKXCgtjBaruewarKtaZSmEYqoXgdVmvKyNDxHKXfcyE.pkg" size="804448" crc="fffd3459" md5="e66e87dc611751d93a807fc7a882856c" sha1="675f496535b8da6f2c1593e49c7d523d1fe2edfd"/>
-		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0012.rap" size="16" crc="b9f222fe" md5="620f6cfac86e759c9a1a55cda8f438b7" sha1="17d13e53cf1b9f7ad8e59074cd5979c66b441ec2" sha256="ea0f46e6e5b0ee74a0911686304b1d7c16193580a03b46ab63b17a837f038f61"/>
+	<game name="Tales of Graces f - Asbel's Leon Costume (USA) (DLC)" id="17089">
+		<description>Tales of Graces f - Asbel's Leon Costume (USA) (DLC)</description>
+		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0027</game_id>
+		<rom name="kJrPFjblZdfSTAfWaqXLTDIQWyEraUqSIWQYNPrhtyscLTYDiRIzySASjgiElROTMlFKJJBoWWReDljGhpprsOBiSNTEtXSYnjSww.pkg" size="1869344" crc="92b3c094" md5="ff9ae18cedbba983c8bdb8108ae8c8d6" sha1="7444448a48a71eb12d51b5133992a22589fc0723" sha256="d331abc030edd421d84d815413e74f756dd91d7e5e091a8f1a0afcec1426071a"/>
+		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0027.rap" size="16" crc="249f228c" md5="72f6bf7a8a9a641471d33a6507673476" sha1="71e81fbca5a2cc4d6f282d68eb99650b9f9fe627" sha256="ad58c5cf95900f84fd106b47741b17d20a574138b091925d86f842732ce6d44a"/>
 	</game>
 	<game name="Tales of Graces f - Asbel's Pilot Costume (USA) (DLC)" id="17077">
 		<description>Tales of Graces f - Asbel's Pilot Costume (USA) (DLC)</description>
@@ -112071,11 +112071,11 @@
 		<rom name="otVzRgGbdoMNvqLMkOlzQHMOaPIvkmzSfSfgNMECOLPKBGdsTGjkBtVfSoeQcpvENltGoIDJDESguyXKatTIiAHudySglsJXrWNjh.pkg" size="802848" crc="2af8af69" md5="45ba7800533eb0e40b71aacff536fc26" sha1="b70311dc55497b47696934cec00c0bed7a901b0d" sha256="2676401641dd151bfad1f48092802327b322f6d51ae68b68bc7057e22e09b204"/>
 		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0015.rap" size="16" crc="e0f3965a" md5="66fae627bb5e1a422dd6a9b5eb72d3f7" sha1="b5df4045debc9c2957f6fe2cb68949835b32d462" sha256="71674c8d9665c7efc38405d8cf149a3d5df04278c8938737b510d63e466b8aea"/>
 	</game>
-	<game name="Tales of Graces f - Asbel's School Costume (USA) (DLC)" id="17082">
-		<description>Tales of Graces f - Asbel's School Costume (USA) (DLC)</description>
-		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0020</game_id>
-		<rom name="UFBPYLuFiTttkmMAehLdgjAllOVHPOaVTkhujIDjMVQpmqSkkxeqihybFZIcJtYTgtKsnJtdNxrBhPkGbEIFzzpXJWJvxYVzPLDcr.pkg" size="1826816" crc="ce4f5eed" md5="b648d9006ece3589f4e0b10aa1932cf1" sha1="43761ec204cbdc5b5b3c68df125686eaf6ae2506" sha256="ffb4e7b07c167632228038b1545e847825265e2ccf7426a018dcb6abaf62bd1b"/>
-		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0020.rap" size="16" crc="9f546849" md5="577ce611ea4959531d579a19e73fe797" sha1="3145494d6a5444ac7ab276ee2dff86c50bdd8ec0" sha256="8e235071394f26ae18d8c1e8a4d079be830b1c0fe8a91dba236d4def127f5a40"/>
+	<game name="Tales of Graces f - Asbel's Pilot Costume (Europe) (DLC)" id="02329">
+		<description>Tales of Graces f - Asbel's Pilot Costume (Europe) (DLC)</description>
+		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0012</game_id>
+		<rom name="yaBXjnmEvrIzIWiltnVfYoKXCgtjBaruewarKtaZSmEYqoXgdVmvKyNDxHKXfcyE.pkg" size="804448" crc="fffd3459" md5="e66e87dc611751d93a807fc7a882856c" sha1="675f496535b8da6f2c1593e49c7d523d1fe2edfd"/>
+		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0012.rap" size="16" crc="b9f222fe" md5="620f6cfac86e759c9a1a55cda8f438b7" sha1="17d13e53cf1b9f7ad8e59074cd5979c66b441ec2" sha256="ea0f46e6e5b0ee74a0911686304b1d7c16193580a03b46ab63b17a837f038f61"/>
 	</game>
 	<game name="Tales of Graces f - Asbel's School Costume (Europe) (DLC)" id="02334">
 		<description>Tales of Graces f - Asbel's School Costume (Europe) (DLC)</description>
@@ -112083,17 +112083,23 @@
 		<rom name="eQIOPnlQJWrcJDFXTaqxOAwszXbiecDjJTqaFKnLcPqsctWMByjqtavNuWGGUQTl.pkg" size="1828416" crc="3f72f58d" md5="82ec9ef315331a6550ccc2f2ad9f2c5b" sha1="b728119a2d374a52d805483c23837db1fe89c321" sha256="5db169ae790eaaaccc524da7495d276c312a35bbf73d23d3e47c997130cf276a"/>
 		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0017.rap" size="16" crc="54a30654" md5="3c0d95836e002b3c66748df41d341b81" sha1="3badc474fb595ec9dd5cc3759931b36d547d01a1" sha256="fcb629bb6693bda2ac1782bd2eddd6dbec2f14fbb689d482892b18dce14320d8"/>
 	</game>
-	<game name="Tales of Graces f - Asbel's Suit Costume (Europe) (DLC)" id="02326">
-		<description>Tales of Graces f - Asbel's Suit Costume (Europe) (DLC)</description>
-		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0009</game_id>
-		<rom name="NaXgTfDKesNtbpWFATBCSZgoWxpqLPkolVugFZKmRrpaNqEyhfFeQTbJMkyiHKgF.pkg" size="661728" crc="def16d9d" md5="804ea4c393208ad411e824fee53c7950" sha1="9a5d9e0ed87cdbe4d03959dc6377d8bf32d3530c" sha256="88e5866a16fac27737eb352ee7bd4f78c27a96d1419a8a00764195b647050b95"/>
-		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0009.rap" size="16" crc="8599460e" md5="3a79fbe00cbc0e86a65ae23ea13d2792" sha1="431e58b8acaeec70bfed04d376b531f43cb4da76" sha256="193befb5d18196cb476e2a823f1e7d184c2ff4a53207ff6df62956c786be5df6"/>
+	<game name="Tales of Graces f - Asbel's School Costume (USA) (DLC)" id="17082">
+		<description>Tales of Graces f - Asbel's School Costume (USA) (DLC)</description>
+		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0020</game_id>
+		<rom name="UFBPYLuFiTttkmMAehLdgjAllOVHPOaVTkhujIDjMVQpmqSkkxeqihybFZIcJtYTgtKsnJtdNxrBhPkGbEIFzzpXJWJvxYVzPLDcr.pkg" size="1826816" crc="ce4f5eed" md5="b648d9006ece3589f4e0b10aa1932cf1" sha1="43761ec204cbdc5b5b3c68df125686eaf6ae2506" sha256="ffb4e7b07c167632228038b1545e847825265e2ccf7426a018dcb6abaf62bd1b"/>
+		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0020.rap" size="16" crc="9f546849" md5="577ce611ea4959531d579a19e73fe797" sha1="3145494d6a5444ac7ab276ee2dff86c50bdd8ec0" sha256="8e235071394f26ae18d8c1e8a4d079be830b1c0fe8a91dba236d4def127f5a40"/>
 	</game>
 	<game name="Tales of Graces f - Asbel's Suit Costume (USA) (DLC)" id="17074">
 		<description>Tales of Graces f - Asbel's Suit Costume (USA) (DLC)</description>
 		<game_id>UP0700-BLUS30903_00-DOWNLOADDATA0012</game_id>
 		<rom name="CnQwknmfLHPvHQBoPHphBWXifBwUqSQWEItruYMHKntwfzHdbOVpFmlomVMCRGmtvuGkAMVxPgGKTfizKqPwHVBgASUTWxDiTaakh.pkg" size="660128" crc="88b1ebae" md5="e1a2b08632e09ea9958ee3b167719c45" sha1="19b9e9ba0dc3a19544a311a315ad7e5dbccd76f1" sha256="0557961b1608aec2c9cd02017ee2a2cf8fa424d121ddaff9c732c6982ee8c875"/>
 		<rom name="UP0700-BLUS30903_00-DOWNLOADDATA0012.rap" size="16" crc="d54ad77b" md5="07d97a123c3c462712c412cb5af5409a" sha1="f7e222af047f1aea4d551e28896c8235e6292896" sha256="94b23abf25562aaee5eb85abec4341053450acb8b499d5a4780340fcc4f1be12"/>
+	</game>
+	<game name="Tales of Graces f - Asbel's Suit Costume (Europe) (DLC)" id="02326">
+		<description>Tales of Graces f - Asbel's Suit Costume (Europe) (DLC)</description>
+		<game_id>EP0700-BLES01617_00-DOWNLOADDATA0009</game_id>
+		<rom name="NaXgTfDKesNtbpWFATBCSZgoWxpqLPkolVugFZKmRrpaNqEyhfFeQTbJMkyiHKgF.pkg" size="661728" crc="def16d9d" md5="804ea4c393208ad411e824fee53c7950" sha1="9a5d9e0ed87cdbe4d03959dc6377d8bf32d3530c" sha256="88e5866a16fac27737eb352ee7bd4f78c27a96d1419a8a00764195b647050b95"/>
+		<rom name="EP0700-BLES01617_00-DOWNLOADDATA0009.rap" size="16" crc="8599460e" md5="3a79fbe00cbc0e86a65ae23ea13d2792" sha1="431e58b8acaeec70bfed04d376b531f43cb4da76" sha256="193befb5d18196cb476e2a823f1e7d184c2ff4a53207ff6df62956c786be5df6"/>
 	</game>
 	<game name="Tales of Graces f - Attachment - Cardboard Mask (Europe) (DLC)" id="02353">
 		<description>Tales of Graces f - Attachment - Cardboard Mask (Europe) (DLC)</description>

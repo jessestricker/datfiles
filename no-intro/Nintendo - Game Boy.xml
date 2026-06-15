@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260613-130304</version>
+		<version>20260614-084436</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5627,9 +5627,47 @@
 		<description>Populous (Europe)</description>
 		<rom name="Populous (Europe).gb" size="131072" crc="453057ac" md5="ab5fac354726b7b0710cfdba22d7142f" sha1="4e3976fe32f4db8f2e56eae539d7cae04d1b64cb" sha256="22d0895001c8d29834b929f2f538ec476970d9dabd546116b50f4880a31c56a7" status="verified"/>
 	</game>
-	<game name="Populous (Europe) (Sample)" id="1680" cloneofid="1052">
-		<description>Populous (Europe) (Sample)</description>
-		<rom name="Populous (Europe) (Sample).gb" size="131072" crc="ecf2dd6f" md5="25fbb082dc9bb9e86c0abb03ca5cc168" sha1="76a08b4a0448641a263ce4dc65a2181192a0a621" sha256="a5b778bab9de5add5ad947f3024b5b891cfda119b5905f8901ff1d9485db5f22"/>
+	<game name="Populous (Europe) (Beta 6)" id="1680" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 6)</description>
+		<rom name="Populous (Europe) (Beta 6).gb" size="131072" crc="ecf2dd6f" md5="25fbb082dc9bb9e86c0abb03ca5cc168" sha1="76a08b4a0448641a263ce4dc65a2181192a0a621" sha256="a5b778bab9de5add5ad947f3024b5b891cfda119b5905f8901ff1d9485db5f22"/>
+	</game>
+	<game name="Populous (Europe) (Beta 1)" id="2593" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 1)</description>
+		<rom name="Populous (Europe) (Beta 1).gb" size="131072" crc="802c25a9" md5="d954d26c65db54e1beab8a5088c6bd41" sha1="7e9d320a363821f452a9ddf0fd6aa694c55611e7" sha256="e1ee1cf6b7457ad3c920a4e494e0a584c3538e56b26a60a78307b3739a5d34d9"/>
+	</game>
+	<game name="Populous (Europe) (Beta 2)" id="2594" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 2)</description>
+		<rom name="Populous (Europe) (Beta 2).gb" size="131072" crc="17b1601d" md5="6845ab21adfac40606e7a0b6cdd38874" sha1="ce9990c1444a5777dba2c1d756e28812ba2e2995" sha256="513471a8c9eee7fc139658785a6e3a0e12673fda63832442e6b3b7c2702d9b3c"/>
+	</game>
+	<game name="Populous (Europe) (Beta 3) (1992-11-26)" id="2595" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 3) (1992-11-26)</description>
+		<rom name="Populous (Europe) (Beta 3) (1992-11-26).gb" size="131072" crc="a4a9741c" md5="99fc0cb1befe77bbc6d25f6be0dbb4f9" sha1="6b1443e633e4ecea8e14c30c9fe4215f7ca0c1dd" sha256="63ebcbcb8fc618017df366679776c26c98e044bd2011cbd826e8f5005efdd7fa"/>
+	</game>
+	<game name="Populous (Europe) (Beta 4) (1992-12-10)" id="2596" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 4) (1992-12-10)</description>
+		<rom name="Populous (Europe) (Beta 4) (1992-12-10).gb" size="131072" crc="1b8ba30c" md5="0d10c2cca969d208336d34e44f02a216" sha1="dd26381735a63f16e34b7e02358ca5fe3abe61af" sha256="acbd43ddbdc874c264058ed5463d91fe441ffde69c59114857cbc6e14917f93f"/>
+	</game>
+	<game name="Populous (Europe) (Beta 5) (1993-02-17)" id="2597" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous (Europe) (Beta 5) (1993-02-17)</description>
+		<rom name="Populous (Europe) (Beta 5) (1993-02-17).gb" size="131072" crc="3207b26e" md5="e9a55c7b3223c85b6589cb1e7f8fce37" sha1="0da3c5e67e0ad0b6568dc74c3aca9a6b28c7533b" sha256="cb61b0ffa28259eed83fce489b3fe02dbdce3cd3101273f6e77c6c6e0460fc37"/>
+	</game>
+	<game name="Populous Gaiden (Japan) (En) (Beta) (1993-02-15)" id="2598" cloneofid="1052">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Populous Gaiden (Japan) (En) (Beta) (1993-02-15)</description>
+		<rom name="Populous Gaiden (Japan) (En) (Beta) (1993-02-15).gb" size="131072" crc="e93f4cbd" md5="622c7398073c1fdb66b80aec37d69fdf" sha1="7bb17e74e70b0bdcb060aa0f4462c20ab7c6042a" sha256="b7b8edb903c82827f26d640619607bce8619d8243a272bdf92407bd092847872"/>
 	</game>
 	<game name="Populous Gaiden (Japan) (En)" id="1053" cloneofid="1052">
 		<category>Games</category>

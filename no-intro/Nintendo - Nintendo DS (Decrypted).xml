@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260611-040530</version>
+		<version>20260614-083744</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6708,7 +6708,7 @@
 	</game>
 	<game name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)" id="3396">
 		<description>Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="214c3931" md5="87215d7ddf71304f80afbbfd7b8a8455" sha1="2b9c82283776026d931075de8b87994cd0ee948e" sha256="15ac0888fbcda0fcfef0623ddbb47630ed8d8bb5968d2f2e563c3d9243362be7" serial="YV5P"/>
+		<rom name="Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="215caac1" md5="97977930360fe31be67c6a4ffe515c28" sha1="12115429ce70683278dda1938285f160202c39ba" sha256="528137145aa280668394b473f1471818536365ce9a9a5c5a28f834bf14fe965d" serial="YV5P"/>
 	</game>
 	<game name="Dragon Quest Heroes - Rocket Slime (USA)" id="0569">
 		<description>Dragon Quest Heroes - Rocket Slime (USA)</description>
@@ -6772,11 +6772,11 @@
 	</game>
 	<game name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)" id="3424" cloneofid="3396">
 		<description>Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)</description>
-		<rom name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).nds" size="134217728" crc="6f455159" md5="a4fa4d54864b14829cdbe2fb53b2bb94" sha1="0f11ff6fcd9ef150c620a5fe071b30f80a7a2e40" status="verified" serial="YV5E"/>
+		<rom name="Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).nds" size="134217728" crc="a29bbfe2" md5="6f53f1244a30c7357bbd08d196a79b78" sha1="2b98ec8245efd6759271088ed2f8e91c79b71967" serial="YV5E"/>
 	</game>
 	<game name="Dragon Quest V - Tenkuu no Hanayome (Japan)" id="2472" cloneofid="3396">
 		<description>Dragon Quest V - Tenkuu no Hanayome (Japan)</description>
-		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan).nds" size="134217728" crc="6ea97058" md5="18b7954bb3e57b228fffbf3d1ad7c95c" sha1="eae1149b515829863bed646cb08526786c6b8d5b" sha256="18a1bdd38810bda91950267eb36d39f458c3a4837a8dc98f956da340a1b0b8f5" status="verified" serial="YV5J"/>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan).nds" size="134217728" crc="154a8ada" md5="6917c34db65d460c51a8464842512467" sha1="003c0982fa4ec3352f75a4c9784763136b84aff7" sha256="52652020d6fa6f681b26d6041444e5469317a51553bc6ff532c09711f3c6c21c" serial="YV5J"/>
 	</game>
 	<game name="Dragon Quest VI - Maboroshi no Daichi (Japan)" id="4680" cloneofid="5692">
 		<description>Dragon Quest VI - Maboroshi no Daichi (Japan)</description>
@@ -22215,11 +22215,11 @@
 	</game>
 	<game name="Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)" id="3107">
 		<description>Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5d104eb6" md5="481c83b3eda3d05653ded6a48c8931d2" sha1="85c7a669932663a544ebb9710c5ba33cfbea57d2" status="verified" serial="CP5P"/>
+		<rom name="Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="e1f82ac0" md5="668791baa4c92189ba1991ffd564ef63" sha1="8a117fd9551b51b66fe7d2b0d49e9aa4cab1a0dc" serial="CP5P"/>
 	</game>
 	<game name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)" id="3247" cloneofid="3107">
 		<description>Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="9b1a5290" md5="b2ef4da23ce799c359f341b7930573f6" sha1="6d0ad285af2f7c649ec20f85e7fd0f253f1db2c5" status="verified" serial="CP5E"/>
+		<rom name="Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="9a403e13" md5="0b04f84d9c5345c7d22e7292722eb126" sha1="6bf3eeeffbcf823b0bcdda3f3b1dc993ee1b7be0" serial="CP5E"/>
 	</game>
 	<game name="Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="4951">
 		<description>Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>203</id>
 		<name>Atari - 8-bit Family</name>
 		<description>Atari - 8-bit Family</description>
-		<version>20260516-045836</version>
+		<version>20260614-065043</version>
 		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, smesgr, SonGoku</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="3-D Tic-Tac-Toe (USA)" id="0002">
@@ -127,6 +129,10 @@
 	<game name="Pac-Man (Europe)" id="0018">
 		<description>Pac-Man (Europe)</description>
 		<rom name="Pac-Man (Europe).bin" size="8192" crc="61cf6167" md5="e66e9af9af01b019cd4e54aba813fbac" sha1="bc600ef63f8d1bdd3911981c2752ea23db959960" sha256="a99b2dd10b546d90d14de56d73a58a9d38e19ec411e37e33dcbd7e0633d8a56a"/>
+	</game>
+	<game name="Pengo (USA, Europe)" id="0043">
+		<description>Pengo (USA, Europe)</description>
+		<rom name="Pengo (USA, Europe).bin" size="16384" crc="d8a9fe0a" md5="5761a63513222a5095650ee769644dd1" sha1="2c0cb48caeb77b25551d27fade419454fa2fd114" sha256="e5113b93868f01f899583c5d7915e27cc3ebd97a066be3da8a73cc93987a07e2"/>
 	</game>
 	<game name="Pole Position (Europe)" id="0019">
 		<description>Pole Position (Europe)</description>
