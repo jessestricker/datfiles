@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260614-071422</version>
+		<version>20260615-135344</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -223,6 +223,12 @@
 		<category>Games</category>
 		<description>Fidelity Ultimate Chess Challenge, The (USA, Europe)</description>
 		<rom name="Fidelity Ultimate Chess Challenge, The (USA, Europe).lyx" size="131072" crc="7e4b5945" md5="19eb0ca77284b5d91a63eb02f6962930" sha1="f6afa50f161fffe5975cf5688a9314b8039d940f" sha256="c5dfdd84b5137fbe3ee3518f51f64420a0fffec45c9568f0412b4aa25f5edcfb"/>
+	</game>
+	<game name="Fidelity Ultimate Chess Challenge, The (USA, Europe) (Beta)" id="0447" cloneofid="0030">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Fidelity Ultimate Chess Challenge, The (USA, Europe) (Beta)</description>
+		<rom name="Fidelity Ultimate Chess Challenge, The (USA, Europe) (Beta).lyx" size="131072" crc="fd65ee0d" md5="6edd668c78bf790f93c3c800aa14238e" sha1="9ec09a4fc10916d19092e1fc9897ed40a351f865" sha256="59739f09f1cbd1271055c7bb9aa6ba13ab03b8174132639c48ac98e763ea2f98"/>
 	</game>
 	<game name="Friendly (World) (Demo) (Unl)" id="0117">
 		<category>Video</category>
@@ -753,5 +759,11 @@
 		<category>Games</category>
 		<description>Zarlor Mercenary (World)</description>
 		<rom name="Zarlor Mercenary (World).lyx" size="131072" crc="cb27199d" md5="d008f41ec119e2c5c6a0782aebf148a8" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069" sha256="d64d37a4a3a934260e9602f57907a8e1fff9533ce4a492a90d677d465fcecafc"/>
+	</game>
+	<game name="Zarlor Mercenary (World) (Beta)" id="0448" cloneofid="0086">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Zarlor Mercenary (World) (Beta)</description>
+		<rom name="Zarlor Mercenary (World) (Beta).lyx" size="131072" crc="6d953304" md5="700ed5d5f9a3bcefa04727b2383ce269" sha1="7c9d84bd1dc2b1aaaa10d1d307d5efa5d1dfb2d5" sha256="30ef7576a15fac0cdbaa279eb489b57654b9d926fcb574c4a149e14b08bdaf5f"/>
 	</game>
 </datafile>

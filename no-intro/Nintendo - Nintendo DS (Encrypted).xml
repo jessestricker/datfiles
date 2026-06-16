@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260614-083744</version>
+		<version>20260615-154536</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3780,7 +3780,7 @@
 	</game>
 	<game name="Captain America - Super Soldier (Europe) (En,Fr,De,Es,It)" id="5770">
 		<description>Captain America - Super Soldier (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Captain America - Super Soldier (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="51fcc8e4" md5="dfd94b33df6ad0e7903e7a465b0aeeef" sha1="e1543e91c4008438fefb39185a6277e4c11d400f" sha256="a050a5d3b9872858be7732d654742da792391455eb37aa08c5c325f8e3155813" serial="BQNP"/>
+		<rom name="Captain America - Super Soldier (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="51fcc8e4" md5="dfd94b33df6ad0e7903e7a465b0aeeef" sha1="e1543e91c4008438fefb39185a6277e4c11d400f" sha256="8863c972f5905a0fa92adc038e3ba274bbb4958edebf6153c6629119f31e7142" status="verified" serial="BQNP"/>
 	</game>
 	<game name="Captain America - Super Soldier (USA) (En,Fr,Es)" id="5781" cloneofid="5770">
 		<description>Captain America - Super Soldier (USA) (En,Fr,Es)</description>
@@ -8673,7 +8673,7 @@
 	</game>
 	<game name="Freddi Fish - ABC under the Sea (Europe) (En,Fr,De,Es,It,Nl)" id="3252">
 		<description>Freddi Fish - ABC under the Sea (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Freddi Fish - ABC under the Sea (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e58c236b" md5="5d08eda3d8dea6f29fc179434a5d6cba" sha1="274773a1527a8ddcb45b1dabac09614e8c4c0025" serial="CF3P"/>
+		<rom name="Freddi Fish - ABC under the Sea (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e58c236b" md5="5d08eda3d8dea6f29fc179434a5d6cba" sha1="274773a1527a8ddcb45b1dabac09614e8c4c0025" sha256="4870b5502fd5fa15306c3d7a797377d5f81af76cca39fc2f61d9346c877cdf81" status="verified" serial="CF3P"/>
 	</game>
 	<game name="Freddi Fish - ABC under the Sea (USA)" id="5679" cloneofid="3252">
 		<description>Freddi Fish - ABC under the Sea (USA)</description>
@@ -14374,7 +14374,7 @@
 	</game>
 	<game name="LEGO Battles (Europe) (En,Fr,De,Es,It,Da)" id="3871">
 		<description>LEGO Battles (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="LEGO Battles (Europe) (En,Fr,De,Es,It,Da).nds" size="134217728" crc="8047ef2c" md5="548d79742034c4629fa752b82a3e5ebe" sha1="3e195cdcbe43cc194e2eb129f9fdfcfc1b265623" serial="C5SP"/>
+		<rom name="LEGO Battles (Europe) (En,Fr,De,Es,It,Da).nds" size="134217728" crc="8047ef2c" md5="548d79742034c4629fa752b82a3e5ebe" sha1="3e195cdcbe43cc194e2eb129f9fdfcfc1b265623" sha256="babd02f747ab3eaf2d4f722b615bd5548afdce487f854681e774a3a4c9ccf00a" status="verified" serial="C5SP"/>
 	</game>
 	<game name="LEGO Battles - Castle (USA) (Proto)" id="z606">
 		<category>Preproduction</category>
@@ -14431,7 +14431,7 @@
 	</game>
 	<game name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)" id="4445">
 		<description>LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da).nds" size="67108864" crc="d9e5b82b" md5="8695fcd0dd914f93da77028dba081945" sha1="1b4a0ae656f1b342c3ef01c0b3b519ddea0efb90" status="verified" serial="BLJP"/>
+		<rom name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da).nds" size="67108864" crc="d9e5b82b" md5="8695fcd0dd914f93da77028dba081945" sha1="1b4a0ae656f1b342c3ef01c0b3b519ddea0efb90" sha256="272e4e9046c94b1025a5b81677a154680e931bdc4a6a874d3dc0daa41144a9ee" status="verified" serial="BLJP"/>
 	</game>
 	<game name="LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)" id="4491" cloneofid="4445">
 		<description>LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)</description>
@@ -14728,7 +14728,7 @@
 	</game>
 	<game name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)" id="3260">
 		<description>Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b" serial="C2HP"/>
+		<rom name="Let's Play Pet Hospitals (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="cc8aafc5" md5="31d54de99ef5c48314e760bea1b2efd8" sha1="31803d329358286307bb76fccf92885c794dab0b" sha256="7c6469642e02254d2867e45261a553c8ed567b9112e67259734e1c256d981c70" status="verified" serial="C2HP"/>
 	</game>
 	<game name="Let's Play Schools (Europe) (En,Fr,De,Es,It)" id="3253">
 		<description>Let's Play Schools (Europe) (En,Fr,De,Es,It)</description>
@@ -15565,7 +15565,7 @@
 	</game>
 	<game name="Magische Labyrinth, Das (Germany)" id="5198">
 		<description>Magische Labyrinth, Das (Germany)</description>
-		<rom name="Magische Labyrinth, Das (Germany).nds" size="16777216" crc="231c5ffc" md5="4697218330c39c891c8e3dd8752745b5" sha1="22bcfc2a78daa336e23364893751ac947826baeb" serial="BLVD"/>
+		<rom name="Magische Labyrinth, Das (Germany).nds" size="16777216" crc="231c5ffc" md5="4697218330c39c891c8e3dd8752745b5" sha1="22bcfc2a78daa336e23364893751ac947826baeb" sha256="e4a3d02ba61cbc155ce86eb8081eaee28ee7336a6d67f246a65c69c4a3459ab1" status="verified" serial="BLVD"/>
 	</game>
 	<game name="Magnetica (USA)" id="0461" cloneofid="0833">
 		<description>Magnetica (USA)</description>
@@ -16426,7 +16426,7 @@
 	</game>
 	<game name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany)" id="6424">
 		<description>Mathematik und Deutsch 1.-4. Klasse 2013 (Germany)</description>
-		<rom name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany).nds" size="8388608" crc="53af08c3" md5="c7c8f70c8d8967e426f2e1133cb11f15" sha1="15371555394dce151c66cdbb738efcf9491b956e" serial="TMED"/>
+		<rom name="Mathematik und Deutsch 1.-4. Klasse 2013 (Germany).nds" size="8388608" crc="53af08c3" md5="c7c8f70c8d8967e426f2e1133cb11f15" sha1="15371555394dce151c66cdbb738efcf9491b956e" sha256="53f05a5930803666c5bb32479088b11828062f5cc081be87e561cf65a4ef0ab0" serial="TMED"/>
 	</game>
 	<game name="Maths Made Simple (Europe) (En,Fr,De,Es,It)" id="2864">
 		<description>Maths Made Simple (Europe) (En,Fr,De,Es,It)</description>
@@ -23442,7 +23442,7 @@
 	</game>
 	<game name="Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It)" id="4818">
 		<description>Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="c808f72b" md5="de643673440a7980482e81a18d308284" sha1="3f1e0309587ef4a6ecb4e0018f494544cbf9ae0c" serial="BRLX"/>
+		<rom name="Ringling Bros. and Barnum &amp; Bailey - It's My Circus - Elephant Friend (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="c808f72b" md5="de643673440a7980482e81a18d308284" sha1="3f1e0309587ef4a6ecb4e0018f494544cbf9ae0c" sha256="4c3bb21628846d0e96c63ef2ff1b44be629ef9e44471524fbc6534ece43437c9" serial="BRLX"/>
 	</game>
 	<game name="Rio (USA) (Beta) (2010-07-09)" id="z668" cloneofid="5655">
 		<category>Games</category>
@@ -23854,7 +23854,7 @@
 	</game>
 	<game name="Sam Power - Firefighter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="2946">
 		<description>Sam Power - Firefighter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Sam Power - Firefighter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="2b3a8380" md5="a537e472b99ec1f9072c5cad678cf256" sha1="a4e4ab22babcb49758faa8f1a4455b5c6e6919f2" serial="CRCP"/>
+		<rom name="Sam Power - Firefighter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="2b3a8380" md5="a537e472b99ec1f9072c5cad678cf256" sha1="a4e4ab22babcb49758faa8f1a4455b5c6e6919f2" sha256="e5d520d8aad8449ca03cad5c937e2b4cb587bc5ceb7cd025fa6954d5db4f20a4" status="verified" serial="CRCP"/>
 	</game>
 	<game name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3500">
 		<description>Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -28170,7 +28170,7 @@
 	</game>
 	<game name="Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)" id="0664">
 		<description>Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="74b7ca94" md5="ab8f9fce7cc5a82e51eef26d87409fc2" sha1="5569576275440ef0269e1bad95f2376985339ce7" sha256="eb5f1f66cb69fa25feb300e5ce50085f78ace443bc47b0dd9b0475b6276427f2" serial="AWKP"/>
+		<rom name="Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="74b7ca94" md5="ab8f9fce7cc5a82e51eef26d87409fc2" sha1="5569576275440ef0269e1bad95f2376985339ce7" sha256="eb5f1f66cb69fa25feb300e5ce50085f78ace443bc47b0dd9b0475b6276427f2" status="verified" serial="AWKP"/>
 	</game>
 	<game name="Tony Hawk's Motion (Europe)" id="3006">
 		<description>Tony Hawk's Motion (Europe)</description>

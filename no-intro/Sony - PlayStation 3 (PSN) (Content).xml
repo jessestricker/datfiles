@@ -4,7 +4,7 @@
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20260615-000627</version>
+		<version>20260615-042114</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1895,8 +1895,7 @@
 	<game name="Atelier Shallie - Alchemists of the Dusk Sea (Asia)" id="34134">
 		<description>Atelier Shallie - Alchemists of the Dusk Sea (Asia)</description>
 		<game_id>HP0106-NPHB00700_00-SHALLY00MASTER00</game_id>
-		<rom name="HP0106-NPHB00700_00-SHALLY00MASTER00_bg_1_fa2917d98c6839d6da274dee9a3cd7b82c6e6057.pkg" size="7304385728" crc="fb23a89c" md5="24f7d8a607c2e0d8c6764fb138b44579" sha1="399e6a2fa14ec15ca8e8e29e714d8093390521ac" sha256="881ec2676651ea22c51f130c965365dd6a3bc5c447fd4e2d5e437846d31e2741" status="verified"/>
-		<rom name="HP0106-NPHB00700_00-SHALLY00MASTER00.rap" size="16" status="verified" mia="yes"/>
+		<rom name="HP0106-NPHB00700_00-SHALLY00MASTER00_bg_1_fa2917d98c6839d6da274dee9a3cd7b82c6e6057.pkg" size="7304385728" crc="fb23a89c" md5="24f7d8a607c2e0d8c6764fb138b44579" sha1="399e6a2fa14ec15ca8e8e29e714d8093390521ac" sha256="881ec2676651ea22c51f130c965365dd6a3bc5c447fd4e2d5e437846d31e2741"/>
 	</game>
 	<game name="Atelier Shallie - Alchemists of the Dusk Sea (USA)" id="13333">
 		<description>Atelier Shallie - Alchemists of the Dusk Sea (USA)</description>

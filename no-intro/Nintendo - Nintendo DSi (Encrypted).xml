@@ -4,7 +4,7 @@
 		<id>54</id>
 		<name>Nintendo - Nintendo DSi (Encrypted)</name>
 		<description>Nintendo - Nintendo DSi (Encrypted)</description>
-		<version>20260612-071250</version>
+		<version>20260615-155654</version>
 		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -73,11 +73,13 @@
 	</game>
 	<game name="Monster Finder (Japan)" id="0001">
 		<description>Monster Finder (Japan)</description>
+		<game_id>00030000444D464A</game_id>
 		<rom name="Monster Finder (Japan).dsi" size="33554432" crc="65eecb91" md5="1aa0d5a6d9accd263dae7477e00cc9cd" sha1="f4f9a460d848b75c6feb0c2920770668412f1f63" sha256="19a372e5fe6bf10668188de34e1a3406379a01ffb0c572dce192fe868baa5578" status="verified" serial="DMFJ"/>
 	</game>
-	<game name="MySims (Unknown) (Proto)" id="z017">
-		<description>MySims (Unknown) (Proto)</description>
-		<rom name="MySims (Unknown) (Proto).dsi" size="33554432" crc="3735a91a" md5="5ad66e2c18d18248678a565d2ee4b15a" sha1="628169f84f680483f330f5f48d70471f8328ec93" sha256="282f091e4d9eb5e9505f2a2c354fed44685c397c9587ed468e55c8b2cd8adbb1"/>
+	<game name="MySims (World) (Proto)" id="z017">
+		<description>MySims (World) (Proto)</description>
+		<game_id>000300004E54524A</game_id>
+		<rom name="MySims (World) (Proto).dsi" size="33554432" crc="3735a91a" md5="5ad66e2c18d18248678a565d2ee4b15a" sha1="628169f84f680483f330f5f48d70471f8328ec93" sha256="282f091e4d9eb5e9505f2a2c354fed44685c397c9587ed468e55c8b2cd8adbb1" serial="NTRJ"/>
 	</game>
 	<game name="Nintendo DSi XL Demo Video (USA)" id="0010">
 		<category>Demos</category>
@@ -99,6 +101,7 @@
 	</game>
 	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004" cloneofid="0006">
 		<description>System - Flaw (USA) (En,Fr,Es)</description>
+		<game_id>0003000044535945</game_id>
 		<rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="a7e5e0b8" md5="42b6408a8ad39ba72e373056387e8d73" sha1="1d644465d6547a4a69aa82eabccae6e51e9cff1e" sha256="27a177e768e3d8a909b0bef4cad6caf20de7aaed770418c406b3a3bb2326ce9f" status="verified" serial="DSYE"/>
 	</game>
 	<game name="System - Flaw (Europe) (En,Fr,De,Es,It)" id="0006">
@@ -302,6 +305,7 @@
 	<game name="WRFU Tester (World) (v3.01) (2010-06-17) (Program)" id="z001">
 		<category>Applications</category>
 		<description>WRFU Tester (World) (v3.01) (2010-06-17) (Program)</description>
+		<game_id>000300114142434A</game_id>
 		<rom name="WRFU Tester (World) (v3.01) (2010-06-17) (Program).dsi" size="268435456" crc="eb638291" md5="edab04f62d562ba8421f7eddeade6601" sha1="329a255a946bdcb70bc76077ab6ddad75617519d" sha256="06e42b845323f4729952489090d8d8d1b1582fc64897c66ad1dd0dc417f6dc37" status="verified" serial="NTRJ"/>
 	</game>
 	<game name="WRFU Tester (World) (v0.60) (2008-08-21) (Program)" id="z012" cloneofid="z001">

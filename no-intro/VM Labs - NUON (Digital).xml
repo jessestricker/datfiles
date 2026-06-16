@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>272</id>
 		<name>VM Labs - NUON (Digital)</name>
 		<description>VM Labs - NUON (Digital)</description>
-		<version>20241204-163311</version>
-		<author>NovaAurora, rarenight</author>
+		<version>20260615-163558</version>
+		<author>1988reload, NovaAurora, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Samsung DVD-N501 Firmware Update (USA)" id="0001">
@@ -63,7 +65,8 @@
 	</game>
 	<game name="Insta Death (World) (Unl)" id="0024">
 		<description>Insta Death (World) (Unl)</description>
-		<rom name="Nuon-Insta-death.zip" size="4473864" crc="6b8d4440" md5="49f265c187c95032606bb2af13c19ce2" sha1="3c6ae8b0ceed0b790097fecbe6621adac3822a91" sha256="3047213b3508d3fcf900c4e75f765ed83f7b1b97500eaa5fd93281302209206e"/>
+		<rom name="NUON-INSTA-DEATH.ISO" size="5775360" crc="27506ba7" md5="a28b4883bc6c4820859b070f8a4a55f8" sha1="15a0ef200ff28eccd24be5789f2366869001074d" sha256="53c6dc3c10bd1621923b9f6279598bf5c2f7801d5f38bde26f94a8e487b5d42c"/>
+		<rom name="Nuon-InstaDeath.run" size="796136" crc="75f0273f" md5="b0c9bdccb9d93751a891d8ba47b2e549" sha1="b68f3952eb707ab2adad884d4a4fb514d2cf1b80" sha256="49eebaa30aa284bbd90c78c36b70d292f4304b551b188b600371d5a28ff8b23b"/>
 	</game>
 	<game name="Jjangguneun Monmallyeo 3 - Doraon Jjanggu (Korea) (Re-signed)" id="0023">
 		<category>Games</category>
