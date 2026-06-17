@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260601-015226</version>
+		<version>20260616-171244</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5271,17 +5271,17 @@
 	<game name="Ikari II - Dogosoken (Japan)" id="1038" cloneofid="1044">
 		<category>Games</category>
 		<description>Ikari II - Dogosoken (Japan)</description>
-		<rom name="Ikari II - Dogosoken (Japan).nes" size="262160" crc="5d93c0de" md5="23105c71298a221c82059efafe66e214" sha1="25e0ad89692c8a18c929a6311e2d7ec2b30ad671" sha256="bc45f9186f80c16f6609653107a01e16fc491e08a5dca1468decfaec7adfd4c7" status="verified" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
+		<rom name="Ikari II - Dogosoken (Japan).nes" size="262160" crc="5d93c0de" md5="23105c71298a221c82059efafe66e214" sha1="25e0ad89692c8a18c929a6311e2d7ec2b30ad671" sha256="bc45f9186f80c16f6609653107a01e16fc491e08a5dca1468decfaec7adfd4c7" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="Ikari III (Japan) (En)" id="1039" cloneofid="1040">
 		<category>Games</category>
 		<description>Ikari III (Japan) (En)</description>
-		<rom name="Ikari III (Japan) (En).nes" size="262160" crc="0b4bca07" md5="924c1646e44ff92115f1c0c790255b3f" sha1="fe5c6e7a554d201b4ea35720437927123078c62e" sha256="76aa4a5d88d8adefb25ff95684890865fc89d85d2b1e1b73c17085defed22c43" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Ikari III (Japan) (En).nes" size="262160" crc="0b4bca07" md5="924c1646e44ff92115f1c0c790255b3f" sha1="fe5c6e7a554d201b4ea35720437927123078c62e" sha256="76aa4a5d88d8adefb25ff95684890865fc89d85d2b1e1b73c17085defed22c43" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Ikari III - The Rescue (USA)" id="1040">
 		<category>Games</category>
 		<description>Ikari III - The Rescue (USA)</description>
-		<rom name="Ikari III - The Rescue (USA).nes" size="262160" crc="aae7dda6" md5="3240b6f579445bf90f57968ece120822" sha1="7ee312dfdb9bb2d205b263e145e13cd4f9e35594" sha256="8e189a3d8f587dcdf6d3ad596e78b59fbae9edbc6b46b5a45769e2da13e64d6c" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Ikari III - The Rescue (USA).nes" size="262160" crc="aae7dda6" md5="3240b6f579445bf90f57968ece120822" sha1="7ee312dfdb9bb2d205b263e145e13cd4f9e35594" sha256="8e189a3d8f587dcdf6d3ad596e78b59fbae9edbc6b46b5a45769e2da13e64d6c" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Ikari Warriors (Europe)" id="1041">
 		<category>Games</category>

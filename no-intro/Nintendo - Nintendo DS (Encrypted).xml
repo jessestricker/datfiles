@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Encrypted)</name>
 		<description>Nintendo - Nintendo DS (Encrypted)</description>
-		<version>20260615-154536</version>
+		<version>20260616-200331</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1808,7 +1808,7 @@
 	</game>
 	<game name="Avatar - Der Herr der Elemente - Die Erde Brennt (Germany)" id="1838" cloneofid="1557">
 		<description>Avatar - Der Herr der Elemente - Die Erde Brennt (Germany)</description>
-		<rom name="Avatar - Der Herr der Elemente - Die Erde Brennt (Germany).nds" size="67108864" crc="63e26215" md5="ff95d909114f2c338978bf4b578ce70c" sha1="137d8e4a53ed14eb1ea89abb39a4878a4f8c7b2c" serial="YAVD"/>
+		<rom name="Avatar - Der Herr der Elemente - Die Erde Brennt (Germany).nds" size="67108864" crc="63e26215" md5="ff95d909114f2c338978bf4b578ce70c" sha1="137d8e4a53ed14eb1ea89abb39a4878a4f8c7b2c" sha256="3d3ee51860ff46412f9b9d5f748229e8961e37e22f529ae65d06a359b077be6d" serial="YAVD"/>
 	</game>
 	<game name="Avatar - The Last Airbender (USA) (Beta) (2007-07-10)" id="z656" cloneofid="0948">
 		<category>Games</category>
@@ -1834,7 +1834,7 @@
 	</game>
 	<game name="Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)" id="0948">
 		<description>Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).nds" size="67108864" crc="d7b5a563" md5="849c18919bef7ad74c34f9bfea500da3" sha1="5e57583180005435796efb0a972fe66c92f6e6eb" sha256="9883c86604798e70c0b2e09c38de7736bfa56c2e31e66d489433db5b088f553f" serial="AVAP"/>
+		<rom name="Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).nds" size="67108864" crc="d7b5a563" md5="849c18919bef7ad74c34f9bfea500da3" sha1="5e57583180005435796efb0a972fe66c92f6e6eb" sha256="9883c86604798e70c0b2e09c38de7736bfa56c2e31e66d489433db5b088f553f" status="verified" serial="AVAP"/>
 	</game>
 	<game name="Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl)" id="2855">
 		<description>Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl)</description>
@@ -3016,7 +3016,7 @@
 	</game>
 	<game name="Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl)" id="2909">
 		<description>Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="2ea5af71" md5="82c2a4f9c6be1397a30969f22c6eb240" sha1="2318471a1babf80ba5a36c5a09c6bfd0dbbe7e51" serial="YBBP"/>
+		<rom name="Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="2ea5af71" md5="82c2a4f9c6be1397a30969f22c6eb240" sha1="2318471a1babf80ba5a36c5a09c6bfd0dbbe7e51" sha256="1e95d43100b93ae3ea7d754a3bbbd429a5966f992c259cd323412d23e0e717fd" status="verified" serial="YBBP"/>
 	</game>
 	<game name="Boing! Docomodake DS (Europe) (En,Fr,De,Es,It)" id="2725">
 		<description>Boing! Docomodake DS (Europe) (En,Fr,De,Es,It)</description>
@@ -12281,7 +12281,7 @@
 	</game>
 	<game name="Jewel Match (Europe) (En,Fr,De)" id="3779">
 		<description>Jewel Match (Europe) (En,Fr,De)</description>
-		<rom name="Jewel Match (Europe) (En,Fr,De).nds" size="8388608" crc="8106178b" md5="746b229a1af5fadc3761968e582d1ad2" sha1="dc1707e6874293133fb3aa0bec697e19db406ba9" status="verified" serial="C3HP"/>
+		<rom name="Jewel Match (Europe) (En,Fr,De).nds" size="8388608" crc="8106178b" md5="746b229a1af5fadc3761968e582d1ad2" sha1="dc1707e6874293133fb3aa0bec697e19db406ba9" sha256="a77339928a54304aa395a6d833dd73369431592bd885075070a6d35a3071ede4" status="verified" serial="C3HP"/>
 	</game>
 	<game name="Jewel Match (Europe) (En,Fr,Nl)" id="5498" cloneofid="3779">
 		<description>Jewel Match (Europe) (En,Fr,Nl)</description>
@@ -12600,6 +12600,10 @@
 		<description>Josefiina Alkupolku - Seikkailumaa - Unelmien peili (Finland)</description>
 		<rom name="Josefiina Alkupolku - Seikkailumaa - Unelmien peili (Finland).nds" size="33554432" crc="d2f1304b" md5="eef3d2645adae7c27462530fd0abc0f8" sha1="edfd0fac072c65e01aac3f930d5fcd41a967d364" sha256="2986c2c8850b31044e6c61f296ad11f06be3da65cc3e05ddec484c66c4036fc3" status="verified" serial="CQCX"/>
 	</game>
+	<game name="Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden)" id="6645" cloneofid="6201">
+		<description>Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden)</description>
+		<rom name="Josefin Skolhjaelp - Matematik - Dimma oever Sifferkoeping (Sweden).nds" size="33554432" crc="5fb9f412" md5="4a104a8e44bab583a202641fedc93c22" sha1="569dd8afab1e98abb68c2de709e912aa8515c0aa" serial="BP7M"/>
+	</game>
 	<game name="Josefin Skolhjaelp - Svenska - Kaos i Kommakoeping (Sweden)" id="6539" cloneofid="4158">
 		<description>Josefin Skolhjaelp - Svenska - Kaos i Kommakoeping (Sweden)</description>
 		<rom name="Josefin Skolhjaelp - Svenska - Kaos i Kommakoeping (Sweden).nds" size="67108864" crc="e6c4e99d" md5="6bae9c8adb2409ba1735cb75fae925d7" sha1="06a00643c51a6f09eaa3ccf2f044083cebcee987" serial="BP8M"/>
@@ -12611,10 +12615,6 @@
 	<game name="Josefin Skolhjalp - Lar Dig Stava - Stavning eller Kaos (Sweden)" id="z051" cloneofid="6647">
 		<description>Josefin Skolhjalp - Lar Dig Stava - Stavning eller Kaos (Sweden)</description>
 		<rom name="Josefin Skolhjalp - Lar Dig Stava - Stavning eller Kaos (Sweden).nds" size="33554432" crc="4dec3f34" md5="962446b29694fded1fefda5c05cb6c90" sha1="36d257b923d9575d79f06de96f17e131f7ea24af" serial="B6PM"/>
-	</game>
-	<game name="Josefin Skolhjalp - Matematik - Dimma over Sifferkoping (Sweden)" id="6645" cloneofid="6201">
-		<description>Josefin Skolhjalp - Matematik - Dimma over Sifferkoping (Sweden)</description>
-		<rom name="Josefin Skolhjalp - Matematik - Dimma over Sifferkoping (Sweden).nds" size="33554432" crc="5fb9f412" md5="4a104a8e44bab583a202641fedc93c22" sha1="569dd8afab1e98abb68c2de709e912aa8515c0aa" serial="BP7M"/>
 	</game>
 	<game name="Josefin Skolhjalp och Dromspegeln (Sweden)" id="6538" cloneofid="6202">
 		<description>Josefin Skolhjalp och Dromspegeln (Sweden)</description>
@@ -14085,7 +14085,7 @@
 	</game>
 	<game name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It)" id="5212">
 		<description>Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="a697cc41" md5="cbd045ef1d2ca56884c1354de78a1c2f" sha1="3aa28e91e2c9a24071ef9c9933db041015ea741c" status="verified" serial="YLUP"/>
+		<rom name="Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="a697cc41" md5="cbd045ef1d2ca56884c1354de78a1c2f" sha1="3aa28e91e2c9a24071ef9c9933db041015ea741c" sha256="de50ee26eb21771ada10b9ec56705d35307e2e791f6a8f0531fb6ff17ec9e18b" status="verified" serial="YLUP"/>
 	</game>
 	<game name="Layton Gyosuwa Angmaui Sangja (Korea)" id="5820" cloneofid="4213">
 		<description>Layton Gyosuwa Angmaui Sangja (Korea)</description>
@@ -15970,7 +15970,7 @@
 	</game>
 	<game name="Mario &amp; Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It)" id="1997">
 		<description>Mario &amp; Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Mario &amp; Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="ad50015d" md5="913140ae22796beb94aec14102878c93" sha1="c3e4aee2ccfd316ec9358223074c5f86249482c4" status="verified" serial="AY9P"/>
+		<rom name="Mario &amp; Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="ad50015d" md5="913140ae22796beb94aec14102878c93" sha1="c3e4aee2ccfd316ec9358223074c5f86249482c4" sha256="9e6f69e321b907dfc42999e0cb5fb7668e83c38c71f5b96fca7b551a4c384cad" status="verified" serial="AY9P"/>
 	</game>
 	<game name="Mario &amp; Sonic at the Olympic Games (USA) (Demo) (Kiosk)" id="z070" cloneofid="1997">
 		<description>Mario &amp; Sonic at the Olympic Games (USA) (Demo) (Kiosk)</description>
@@ -18796,7 +18796,7 @@
 	</game>
 	<game name="Naruto Shippuden - Ninja Council 3 - European Version (Europe) (En,Fr,De,Es,It)" id="4186">
 		<description>Naruto Shippuden - Ninja Council 3 - European Version (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Naruto Shippuden - Ninja Council 3 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="78fed85e" md5="d646cea6e401589f47ead7442307ae89" sha1="73f153e90687ba69e0dd87329c5c4190ab338df4" serial="AENP"/>
+		<rom name="Naruto Shippuden - Ninja Council 3 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="78fed85e" md5="d646cea6e401589f47ead7442307ae89" sha1="73f153e90687ba69e0dd87329c5c4190ab338df4" sha256="2f68ac3f5ca20e767c56254a96e4dbcc353bd8938211464ab5de22c60ae83e08" status="verified" serial="AENP"/>
 	</game>
 	<game name="Naruto Shippuden - Ninja Council 4 (USA) (En,Fr,Es)" id="3828" cloneofid="4186">
 		<description>Naruto Shippuden - Ninja Council 4 (USA) (En,Fr,Es)</description>
@@ -19363,7 +19363,7 @@
 	</game>
 	<game name="Ninjatown (Europe) (En,Fr,De,Es,It)" id="3061">
 		<description>Ninjatown (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ninjatown (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="e6e16856" md5="00035c456de43c9771f416015b65b10d" sha1="bb2db098b29def693f6c66bcbaa9edfbd656b866" status="verified" serial="CNJP"/>
+		<rom name="Ninjatown (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="e6e16856" md5="00035c456de43c9771f416015b65b10d" sha1="bb2db098b29def693f6c66bcbaa9edfbd656b866" sha256="258dcece5ce6884493d667d5113c26f02927727d3ed069e2cbde5bd3fe16582a" status="verified" serial="CNJP"/>
 	</game>
 	<game name="Nintama Rantarou - Gakunen Taikousen Puzzle! no Dan (Japan)" id="5383">
 		<description>Nintama Rantarou - Gakunen Taikousen Puzzle! no Dan (Japan)</description>
@@ -23858,7 +23858,7 @@
 	</game>
 	<game name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3500">
 		<description>Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="6726dd37" md5="aa26f2a6c626f691826c6f4f0a5ca319" sha1="ffa60e43cd206b0a007e77c033734edb30090142" serial="CJIP"/>
+		<rom name="Sam Power - Footballer (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="6726dd37" md5="aa26f2a6c626f691826c6f4f0a5ca319" sha1="ffa60e43cd206b0a007e77c033734edb30090142" sha256="89efb391e861e588a946c6c0bf1cc62ae079815b11f9f472d9510ed8b79f6409" status="verified" serial="CJIP"/>
 	</game>
 	<game name="Sam Power - Handyman (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="2970">
 		<description>Sam Power - Handyman (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -24243,7 +24243,7 @@
 	</game>
 	<game name="SEGA Presents - Touch Darts (Europe)" id="1146">
 		<description>SEGA Presents - Touch Darts (Europe)</description>
-		<rom name="SEGA Presents - Touch Darts (Europe).nds" size="8388608" crc="a49c4e33" md5="6c96008c02d06f5fb46f1a8efa721cb2" sha1="07d8d96728c8c0c95f832cc49546df638665a067" serial="A4ZP"/>
+		<rom name="SEGA Presents - Touch Darts (Europe).nds" size="8388608" crc="a49c4e33" md5="6c96008c02d06f5fb46f1a8efa721cb2" sha1="07d8d96728c8c0c95f832cc49546df638665a067" sha256="aaa1c071fb44ab54d8023962b953577e56c7fd21fb1fedec70f130dee73df59a" status="verified" serial="A4ZP"/>
 	</game>
 	<game name="SEGA Superstars Tennis (Europe) (En,Fr,De,Es,It)" id="2152">
 		<description>SEGA Superstars Tennis (Europe) (En,Fr,De,Es,It)</description>
@@ -24637,7 +24637,7 @@
 	</game>
 	<game name="Shrek - Oger und Dresel (Germany)" id="1733" cloneofid="1831">
 		<description>Shrek - Oger und Dresel (Germany)</description>
-		<rom name="Shrek - Oger und Dresel (Germany).nds" size="67108864" crc="e1611042" md5="9ae9c2d4cb3bb2ca6bae40bffa5413a8" sha1="2c30e208b6d8b9b06e8ffb0b2cfc8d95e5f40cc4" serial="YQ3D"/>
+		<rom name="Shrek - Oger und Dresel (Germany).nds" size="67108864" crc="e1611042" md5="9ae9c2d4cb3bb2ca6bae40bffa5413a8" sha1="2c30e208b6d8b9b06e8ffb0b2cfc8d95e5f40cc4" sha256="342d2e56baf8267ddebe622ad16c65be36c7fa885f184d5e47d860070065b519" serial="YQ3D"/>
 	</game>
 	<game name="Shrek - Ogres &amp; Dronkeys (USA)" id="1690" cloneofid="1831">
 		<description>Shrek - Ogres &amp; Dronkeys (USA)</description>

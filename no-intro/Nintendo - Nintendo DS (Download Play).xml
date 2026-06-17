@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>65</id>
 		<name>Nintendo - Nintendo DS (Download Play)</name>
 		<description>Nintendo - Nintendo DS (Download Play)</description>
-		<version>20240712-120512</version>
-		<author>Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, SonGoku, xNo, xuom2</author>
+		<version>20260616-164550</version>
+		<author>1988reload, Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, root, SonGoku, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="100 Classic Book Collection - Alice's Adventures in Wonderland (Europe) (Demo) (DS Broadcast)" id="0395">
@@ -189,7 +191,6 @@
 	</game>
 	<game name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)" id="0381">
 		<description>Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)</description>
-		<game_id>NTRJ</game_id>
 		<rom name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast).nds" size="420040" crc="c7b9f1cc" md5="72bad364aebf2884f9aa46f02c6e1437" sha1="e6f4b8eaf8431c9ae1eb3d640e1f4e434f1599f0" sha256="d5352fce66f348c26a3b957f5cbb37d57676cb3a1be0d547d0309477bdbc3f5e" serial="NTRJ"/>
 	</game>
 	<game name="Animal Crossing - Let's Go to the City - Moving Van (Europe) (Wii Broadcast)" id="0384">
