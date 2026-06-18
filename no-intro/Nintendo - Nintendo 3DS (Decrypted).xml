@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260614-125959</version>
+		<version>20260617-113318</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1411,17 +1411,29 @@
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Acc (World) (v1.21) (2017-03-21) (Program).3ds" size="2147483648" crc="816c16c3" md5="f691673a559e92b4ad14c368c10edda7" sha1="8773736e50af8a0b7fbd18c3923ec13adc5becbb" sha256="25e7ecd28414339926da7a15cb9debbb6a7b7d887e2a2231d80af7cc9b7f7709" serial="CTR-P-3S00"/>
 	</game>
+	<game name="CTR Eva - Acc (World) (v1.01) (2015-06-30) (Program)" id="z229">
+		<category>Applications</category>
+		<description>CTR Eva - Acc (World) (v1.01) (2015-06-30) (Program)</description>
+		<game_id>000400000F980000</game_id>
+		<rom name="CTR Eva - Acc (World) (v1.01) (2015-06-30) (Program).3ds" size="2147483648" crc="0131e6df" md5="a2fa0b1848fd6f35feb9e2b54eb1cf23" sha1="8ca22ad6c9b5c66be226fc610853261f8bd0930c" sha256="c18096b351746598de8eceaf94e97a24cecc89f48c2b24cf9209cab40a89971c" serial="CTR-P-3S00"/>
+	</game>
+	<game name="CTR Eva - AgingImport (World) (v5.70) (2014-11-21) (Program)" id="z228">
+		<category>Applications</category>
+		<description>CTR Eva - AgingImport (World) (v5.70) (2014-11-21) (Program)</description>
+		<game_id>000400000F980000</game_id>
+		<rom name="CTR Eva - AgingImport (World) (v5.70) (2014-11-21) (Program).3ds" size="2147483648" crc="5a4623e1" md5="63ae07bd91c2d6d9897ad3327d6b7054" sha1="618b100692ad051fc5f8c90bbcff1fb9ab73f6a3" sha256="8564c2405ae10e8bf7763086fa96e2cb14dbfd96662cc3a290b06376f7be106f" serial="CTR-P-3S00"/>
+	</game>
 	<game name="CTR Eva - AppImport (World) (v1.00) (2014-12-03) (Program)" id="z195">
 		<category>Applications</category>
 		<description>CTR Eva - AppImport (World) (v1.00) (2014-12-03) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - AppImport (World) (v1.00) (2014-12-03) (Program).3ds" size="268435456" crc="86d4edb0" md5="91c8505f5912a8b01987979605904ae6" sha1="4ab50d492e65398151efb298c8625873dd06d3a5" sha256="25bf173494e3e77123a67919a4fc52bad9380c66e9039cff26ae843996481771" serial="CTR-P-3S00"/>
 	</game>
-	<game name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04) (Program)" id="z187">
+	<game name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-35-34) (Program)" id="z187">
 		<category>Applications</category>
-		<description>CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04) (Program)</description>
+		<description>CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-35-34) (Program)</description>
 		<game_id>000400000F980000</game_id>
-		<rom name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04) (Program).3ds" size="2147483648" crc="fd20929e" md5="90b4a382ba84876da2b3b733f36b5628" sha1="7d0f50fd337e0575f52d3fde7d88546690c12b7c" sha256="acce46d9169851b5b21550b9ff73c909b367c606e33ae91dd4e95ad3332b6142" serial="CTR-P-3S00"/>
+		<rom name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-35-34) (Program).3ds" size="2147483648" crc="fd20929e" md5="90b4a382ba84876da2b3b733f36b5628" sha1="7d0f50fd337e0575f52d3fde7d88546690c12b7c" sha256="acce46d9169851b5b21550b9ff73c909b367c606e33ae91dd4e95ad3332b6142" serial="CTR-P-3S00"/>
 	</game>
 	<game name="CTR Eva - Board-Interface Checker (World) (v3.00) (2011-06-07) (Program)" id="z188">
 		<category>Applications</category>
@@ -1434,6 +1446,12 @@
 		<description>CTR Eva - Board-Interface Checker (World) (v4.00) (2011-09-30) (Program)</description>
 		<game_id>000400000F980000</game_id>
 		<rom name="CTR Eva - Board-Interface Checker (World) (v4.00) (2011-09-30) (Program).3ds" size="2147483648" crc="4c2d6acc" md5="8dec982a31392cb2781cf2cfd02e292b" sha1="cbd47a8cfed13fe98c0cd3e05274d14392b51f80" sha256="8ce4872c855814f37e78e71db05b314dbe0df5ebb8165c378f140f4b8d4436a7" serial="CTR-P-3S00"/>
+	</game>
+	<game name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-44-12) (Program)" id="z230">
+		<category>Applications</category>
+		<description>CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-44-12) (Program)</description>
+		<game_id>000400000F980000</game_id>
+		<rom name="CTR Eva - Board-Interface Checker (World) (v5.02) (2013-07-04 20-44-12) (Program).3ds" size="2147483648" crc="74baa645" md5="b6a302035bf7631389fb5ddba8ffbdb5" sha1="af5f28937af19db2074b88117013dc717934bd8c" sha256="43e883544fb1a03172c933fa34cead59efb298ac3e64c4a4fd6cd686d6c3d8c7" serial="CTR-P-3S00"/>
 	</game>
 	<game name="CTR Eva - Camera Checker (World) (v4.00) (Program)" id="z194">
 		<category>Applications</category>

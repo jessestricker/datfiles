@@ -4,7 +4,7 @@
 		<id>54</id>
 		<name>Nintendo - Nintendo DSi (Decrypted)</name>
 		<description>Nintendo - Nintendo DSi (Decrypted)</description>
-		<version>20260615-155654</version>
+		<version>20260617-075944</version>
 		<author>1988reload, aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -60,18 +60,22 @@
 	</game>
 	<game name="Face Training (Europe) (En,Fr,De,Es,It)" id="0009">
 		<description>Face Training (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0003000055534B56</game_id>
 		<rom name="Face Training (Europe) (En,Fr,De,Es,It).dsi" size="134217728" crc="eaa58bcd" md5="0a020966db338bb0eb2c68112da5d8ec" sha1="90816e7aac1d61fd88de02074abf2e6639c2ec94" sha256="c97a690c4abb9868dcd9a43cfad338f56bc8a681c94b3fbfb07cb56f1acb46ed" status="verified" serial="USKV"/>
 	</game>
 	<game name="Foto Showdown (USA)" id="0005" cloneofid="0001">
 		<description>Foto Showdown (USA)</description>
+		<game_id>00030000444D4645</game_id>
 		<rom name="Foto Showdown (USA).dsi" size="33554432" crc="5da3fe1e" md5="8f253dddef53fa682c48cb168e59b160" sha1="46f55062c1b4f7d489f3b75dc587d2108d8d9f12" sha256="3cdf3251ddc1d5042baf152c858fb6d7ef80a6b7cd3b7230ae4bb218876fccea" status="verified" serial="DMFE"/>
 	</game>
 	<game name="Hair Salon (Europe) (En,Fr,De,Es,It)" id="0002">
 		<description>Hair Salon (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0003000044485356</game_id>
 		<rom name="Hair Salon (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="7e0b1ce4" md5="4fa4f1edfc97373d3e218d796a5391cd" sha1="774e69102cf32f7013166f5ba2cde08599ccc1e5" sha256="6c2efe11181fac362e641da1b20d527ff69f05bac82183727de16299ccedb46e" serial="DHSV"/>
 	</game>
 	<game name="Hidden Photo (Europe) (En,Fr,Es,It)" id="0007">
 		<description>Hidden Photo (Europe) (En,Fr,Es,It)</description>
+		<game_id>0003000044443350</game_id>
 		<rom name="Hidden Photo (Europe) (En,Fr,Es,It).dsi" size="33554432" crc="850f299d" md5="79cb43b40988a5210b916101cb723a54" sha1="5388272c092e31fc34b1c7958f1110d33f43fb7c" sha256="0faf87f6fa532dc6288e2b72b10de00da0a6a8ea5cc04d4b69b4daa8376a469c" status="verified" serial="DD3P"/>
 	</game>
 	<game name="MCU FIRM WRITER (World) (Program)" id="z042">
@@ -92,19 +96,23 @@
 	<game name="Nintendo DSi XL Demo Video (USA)" id="0010">
 		<category>Demos</category>
 		<description>Nintendo DSi XL Demo Video (USA)</description>
+		<game_id>00030000444D4545</game_id>
 		<rom name="Nintendo DSi XL Demo Video (USA).dsi" size="536870912" crc="d01a06f5" md5="1b43bf617b1f168de512833dfed2e7eb" sha1="14fda323f6e5132777f033f1912078cab51ce9f9" sha256="86e0d3adacd269ce4fc49fecd46c2f1e2734c0a0f649130af11e7a187174d7b9" status="verified" serial="DMEE"/>
 	</game>
 	<game name="Nintendo DSi XL Demo Video Volume 2 (USA)" id="0011">
 		<category>Demos</category>
 		<description>Nintendo DSi XL Demo Video Volume 2 (USA)</description>
+		<game_id>00030000444D4445</game_id>
 		<rom name="Nintendo DSi XL Demo Video Volume 2 (USA).dsi" size="536870912" crc="d9a938ec" md5="0f75373b187adb45fc0ae89c5fc74e27" sha1="ed3b0e4148928067fcdb1804d760d97091413ca1" sha256="5c285d8fd3b31d22e4c27929d843747f6c435c198c22b9e3ef7394af1dbf7fcb" status="verified" serial="DMDE"/>
 	</game>
 	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
 		<description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>00030000444D5050</game_id>
 		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="434f423b" md5="f277a49a1a108d8bdda1c50f406db812" sha1="e589cab2eb62b1938dd3aeafc764e0454c99c5aa" sha256="a9920e197528722faa2fec34e152eaf7f574ec112758efef55a64a0f37a85b3f" serial="DMPP"/>
 	</game>
 	<game name="Picture Perfect Hair Salon (USA) (En,Fr,Es)" id="0003" cloneofid="0002">
 		<description>Picture Perfect Hair Salon (USA) (En,Fr,Es)</description>
+		<game_id>0003000044485345</game_id>
 		<rom name="Picture Perfect Hair Salon (USA) (En,Fr,Es).dsi" size="33554432" crc="92bdc940" md5="23b9f85d5c5aac0cc58e91f9c8903a8c" sha1="712e784b185b31388452202a4003ae7859dfcc4b" sha256="9bfbcc1f513ec9b4d42b2a7431125b23538d0d5b345d57ff7e5b9fe7cb198598" serial="DHSE"/>
 	</game>
 	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004" cloneofid="0006">
@@ -114,11 +122,13 @@
 	</game>
 	<game name="System - Flaw (Europe) (En,Fr,De,Es,It)" id="0006">
 		<description>System - Flaw (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>0003000044535950</game_id>
 		<rom name="System - Flaw (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="ac1b0e9b" md5="7bcb9dc3a5bad4ebfbd6fed6e892e20e" sha1="29ae360e84de1eaaff7ebdb41866353f39ee2f3b" sha256="7a884b0a5b8bffeb42e27be8d0929e78a6a17d430880f3621787f41b05025966" status="verified" serial="DSYP"/>
 	</game>
 	<game name="TWL EVA. AGING (World) (Ver1.0) (2008-06-26) (Program)" id="z044">
 		<category>Applications</category>
 		<description>TWL EVA. AGING (World) (Ver1.0) (2008-06-26) (Program)</description>
+		<game_id>0003001154574C41</game_id>
 		<rom name="TWL EVA. AGING (World) (Ver1.0) (2008-06-26) (Program).dsi" size="134217728" crc="0195b5a7" md5="8330ee54cd139659c45acc4800f27307" sha1="07bd503b91b54def22b87398913576bd6bb9dac8" sha256="205dcfd2dae939fb7bad8f5cd2323ba06e01478b2246a37b7bbe5e096c4e3f74" status="verified" serial="NTRJ"/>
 	</game>
 	<game name="TWL EVA. CAMERA (World) (Ver2.1) (2008-11-27) (Program)" id="z014" cloneofid="z016">
@@ -274,6 +284,7 @@
 	<game name="TWL EVA. UTL IMPORT JPN_A (World) (Ver1.0) (2010-01-19) (Program)" id="z038">
 		<category>Applications</category>
 		<description>TWL EVA. UTL IMPORT JPN_A (World) (Ver1.0) (2010-01-19) (Program)</description>
+		<game_id>0003001154574C41</game_id>
 		<rom name="TWL EVA. UTL IMPORT JPN_A (World) (Ver1.0) (2010-01-19) (Program).dsi" size="134217728" crc="2ec98f68" md5="a436be11816e2f9013541979d6e64c42" sha1="53dcefc464183031b733fd6d242c7864f398f5d8" sha256="f75f4f0579737c7ed2f51509b6665dff4c66e6fecc193e1056571b13e50fdc0c" status="verified" serial="NTRJ"/>
 	</game>
 	<game name="TWL EVA. UTL IMPORT USA (World) (Ver1.0) (2009-12-28) (Program)" id="z039">
@@ -303,6 +314,7 @@
 	</game>
 	<game name="Wimmelbild-Creator (Germany)" id="0008" cloneofid="0007">
 		<description>Wimmelbild-Creator (Germany)</description>
+		<game_id>0003000044443344</game_id>
 		<rom name="Wimmelbild-Creator (Germany).dsi" size="33554432" crc="d686f0bc" md5="33e9db9a240cba9902b6547d1404e92e" sha1="5f068ea1f7d2559e74b85bc6f52c5266b985e3b6" sha256="bf4de7588904010727b483065b5534f877c95e9852d6c391ffeff248745889bf" serial="DD3D"/>
 	</game>
 	<game name="WRFU Tester (World) (v2.01) (2009-05-18) (Program)" id="z011" cloneofid="z001">

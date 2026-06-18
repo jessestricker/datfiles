@@ -4,7 +4,7 @@
 		<id>443</id>
 		<name>Sony - PlayStation 3 (PSN) (DLC)</name>
 		<description>Sony - PlayStation 3 (PSN) (DLC)</description>
-		<version>20260616-213458</version>
+		<version>20260617-200800</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4774,11 +4774,10 @@
 		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET001_bg_1_eb2d4b85d00940a8bdde00f2e5c25d785c8f44b4.pkg" size="23477024" crc="4cdbc789" md5="fcbdf7857eb46423a7c965794aaf7d0c" sha1="26bec7c1e2ba3570b9bb4669fafb19b464637eb4" sha256="3015be98767932c090acba1d5a6ffe56a3a40f3944f59ba110ae7859ab41e7da"/>
 		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET001.rap" size="16" crc="9fbd9919" md5="60b0f54c71cfbf4c69fc20121d72a141" sha1="be63cd9191cc4f0953419a0379f54dfa6867a834" sha256="6116b893d15783661f38b56949db626cbf74b02847958071b0a959f74977430a"/>
 	</game>
-	<game name="Attack on Titan - Costume Set - Japanese New Year (USA) (DLC) [b]" id="12189">
-		<description>Attack on Titan - Costume Set - Japanese New Year (USA) (DLC) [b]</description>
+	<game name="Attack on Titan - Costume Set - Japanese New Year (USA) (DLC)" id="12189">
+		<description>Attack on Titan - Costume Set - Japanese New Year (USA) (DLC)</description>
 		<game_id>UP4108-NPUB31791_00-AT1COSTUMESET003</game_id>
 		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET003_bg_1_d2e8a55f19ee9645f747f69479bc276901a66ee8.pkg" size="21172288" crc="9fd12160" md5="4915fd1c4fe9cabc3f01f78b63167680" sha1="7af3cdf76b5559c1a86c1ba11081daa3773fe5ec" sha256="10ed1c01ab13e51482ef109f733f4909be4b03f8485e0fe102872b65cbd4ee9f"/>
-		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET003.rap" size="16" crc="0451fc57" md5="c096f9c68c2cf5064ae44e81bfa13ac3" sha1="317a706c134053ed028d86b028324871f1b4d09e" sha256="d72a28a0e2e5659215fc38f3d2ec8849f42b1235014eeef469891c94ae203783" status="baddump"/>
 	</game>
 	<game name="Attack on Titan - Costume Set - Japanese New Year (Europe) (DLC)" id="05451">
 		<description>Attack on Titan - Costume Set - Japanese New Year (Europe) (DLC)</description>
@@ -4864,11 +4863,10 @@
 		<rom name="EP4108-NPEB02365_00-AT1WEAPON0000002_bg_1_64d01441b4c13d2bc578682cc0744e6ad6b11419.pkg" size="6673584" crc="82a20673" md5="8c0fee28440507c2dcba374b923d975a" sha1="63697feaac5f39e27d153a659906aee98e3223b9" sha256="42dde4d535d471dc55672d7777384b01625b0f725c48fddd03e72729a539acb3" status="verified"/>
 		<rom name="EP4108-NPEB02365_00-AT1WEAPON0000002.rap" size="16" crc="680f828f" md5="277098c643e935503ca5e3b422db812c" sha1="a6c199fc5017498d7f572c65f830b29d6cb23898" sha256="5e8b99c08fce50008eedebe65b6bc990c79ab78ba3d8b123ff15d4f64d5ed490" status="verified"/>
 	</game>
-	<game name="Attack on Titan - Weapon - Halloween (USA) (DLC) [b]" id="12195">
-		<description>Attack on Titan - Weapon - Halloween (USA) (DLC) [b]</description>
+	<game name="Attack on Titan - Weapon - Halloween (USA) (DLC)" id="12195">
+		<description>Attack on Titan - Weapon - Halloween (USA) (DLC)</description>
 		<game_id>UP4108-NPUB31791_00-AT1WEAPON0000002</game_id>
 		<rom name="UP4108-NPUB31791_00-AT1WEAPON0000002_bg_1_69f6d74380ba83796ccb41be463cf7cbdc6e6c29.pkg" size="6649456" crc="c4c4f513" md5="2bac7bd941e5f14b7409f49a7ecd30f2" sha1="2a7695029e2b56112b8571ba266912ea8dc82e17" sha256="3f7d77ed18cb1a46c96e08ba371dceb659d700ee87d294755f44516756b96946"/>
-		<rom name="UP4108-NPUB31791_00-AT1WEAPON0000002.rap" size="16" crc="b63cf8e6" md5="de6b253f839b065945fdf9bc10cd1fb1" sha1="58e08118149e88e5f9dcd3118d627939efa3bbc1" sha256="2f9210b5ef83c93c948ce858fc8d857f91d8672cacc69723fbffe4296b29a889" status="baddump"/>
 	</game>
 	<game name="Attack on Titan - Weapon - Japanese New Year (USA) (DLC)" id="12193">
 		<description>Attack on Titan - Weapon - Japanese New Year (USA) (DLC)</description>
@@ -5785,8 +5783,7 @@
 	<game name="Batman - Arkham Origins - Knightfall Pack (Brazil) (En,Es,Pt) (DLC)" id="18110">
 		<description>Batman - Arkham Origins - Knightfall Pack (Brazil) (En,Es,Pt) (DLC)</description>
 		<game_id>UP1018-BLUS31207_00-BOKNIGHTFALLPACK</game_id>
-		<rom name="tDaQkfqnPSeewPyrMQAYglXHKPkfCupDcBehzooeKEPtnauslEeDdbytIivEEcxF.pkg" size="237175984" crc="e2fc6000" md5="155bcf4a67fcfb83725b7f0f785f2da8" sha1="863e3ec585d32d559f5f2510054344a453cd77ee" sha256="733359b0785c53ee601cdc10f8ff9f2509ba4b5f28f9920c520d2be9030bb784" status="verified"/>
-		<rom name="UP1018-BLUS31207_00-BOKNIGHTFALLPACK.rap" size="16" crc="0b10e092" md5="9ba9c280ebada0a26cb7264de6c1caa8" sha1="9b92e190f89bf519dca7354eca95a4f3de77bcad" status="verified"/>
+		<rom name="tDaQkfqnPSeewPyrMQAYglXHKPkfCupDcBehzooeKEPtnauslEeDdbytIivEEcxF.pkg" size="237175984" crc="e2fc6000" md5="155bcf4a67fcfb83725b7f0f785f2da8" sha1="863e3ec585d32d559f5f2510054344a453cd77ee" sha256="733359b0785c53ee601cdc10f8ff9f2509ba4b5f28f9920c520d2be9030bb784"/>
 	</game>
 	<game name="Batman - Arkham Origins - Knightfall Pack (Europe) (DLC)" id="03501">
 		<description>Batman - Arkham Origins - Knightfall Pack (Europe) (DLC)</description>
@@ -10395,11 +10392,10 @@
 		<rom name="gviQhGIYKvjJZlJGXmQJxfqzBQzcvgAkxeLRwDYnzWpgMzNkNuaAOgvnHNzxTUfveuQxMsVTNjbGSddjPtpGTAxmoPVGVsHOjwWqH.pkg" size="1739574032" crc="72da3358" md5="9d587e6d7045ddb6937a42cd89f903b9" sha1="4fd773de22532d0d3d11c32f2baabb9a3b7c4db2"/>
 		<rom name="JP0082-BLJM60548_00-CODBLACKOPS2DLC4.rap" size="16" crc="fc6654c3" md5="fc6475d644641c7d00646dbc662a26ef" sha1="546a6cf0881d83c119a9446eb544287c1811a821"/>
 	</game>
-	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (En,Fr) (DLC) [b]" id="00498">
-		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (En,Fr) (DLC) [b]</description>
+	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (En,Fr) (DLC)" id="00498">
+		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (En,Fr) (DLC)</description>
 		<game_id>EP0002-BLES01717_00-CODBLACKOPS2DLC4</game_id>
 		<rom name="QJFAdLnpVhVVwTRUxCsvUGYHiHUBJZdXbfwYKqxSurrfWsQmPUEDPievMGjemsQO.pkg" size="1834733440" crc="11ce7aee" md5="d1645e202ded874f1b94cec39480b2a3" sha1="14cd041d8de59d4d943c5ed5c27eb75f1ff305b0"/>
-		<rom name="EP0002-BLES01717_00-CODBLACKOPS2DLC4.rap" size="16" crc="a8843eef" md5="85e6e01e97f2f2ae55f9b5159b91bfae" sha1="b6f8b9526fb78618239ba7dc40aafaae7c05a951" status="baddump"/>
 	</game>
 	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC) [b]" id="00525">
 		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC) [b]</description>
@@ -10966,7 +10962,6 @@
 	<game name="Call of Duty - Black Ops II - Paladin Pack (Europe) (BLES01717) (DLC)" id="00509">
 		<description>Call of Duty - Black Ops II - Paladin Pack (Europe) (BLES01717) (DLC)</description>
 		<game_id>EP0002-BLES01717_00-MTXWEAPON0000010</game_id>
-		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="7fccd842" md5="f05c47cfc7e701b23392c5893b868a87" sha1="fa69497943105e5a430476cf57d4d27a4d647d48" sha256="896c1b4b9e34ef32e93a9e5eefb38d3c41e6ae42ad07da574e00a3376c16cf4c" status="verified"/>
 		<rom name="LUkKAkrsIhDmAiygMknubUidaxHbbYjQeFVVZwOtagKjdNQiKDvazdRDcMnOygWn.pkg" size="102400" crc="2ad3d104" md5="ed72e20a1dfed74e868a30b69d3610f3" sha1="fcb8bd6fe9a108b7156e0e309578bd97aadf3bad" sha256="fb5aa521f3ddc31a25a2911878658bf6a8437d11734938a79f93b15b46048a39" status="verified"/>
 		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="87d36b10" md5="4e1978c2f2625e334da7d60524fa7099" sha1="11722217cc1b74599a85c8ed978a958a7c5a20f6" sha256="0d405a7c5aa79a55d79460b910097781790616b02f492a22a5e417a9499cd008" status="verified"/>
 	</game>
@@ -34209,38 +34204,50 @@
 		<rom name="aVYF77XUSjlDW8YXqXWF504U6ykBoE0PlR9HEA8DUC40gha5REuXq1cCqWkbycALbh84814VvqNytJFSrrKNHuutVYLHJgQHUbqof.pkg" size="79704464" crc="d9cf3f50" md5="a2f28cf1c3cfb2c62e492600bba6cc37" sha1="f4f4345faf6a0301aac58e50f179e89d06b0ffc5" sha256="d68084869454c5e70c5ab2f0a73a3f417c576f053387c99f2fdff7e644a0f460"/>
 		<rom name="EP9000-BCES00050_00-FOLKLORE20000006.rap" size="16" crc="27a792cc" md5="306734ec5e3889e55e68361b824a731d" sha1="7212b0e85df4a127f2933d3f1d63f07c634677a1" sha256="1bb99354dd387940498a2ec9aa1227dfd0592a495725ada1eb97212bd565bc76"/>
 	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 1 (Japan) (DLC)" id="23973">
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 1 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000001</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000001.rap" size="16" crc="bda5905b" md5="86f3febe5e5d76d01cb819a199602945" sha1="e48b81231c43706f9ca379c5212909a2975696ea"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 2 (Japan) (DLC)" id="23974">
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 2 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000002</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000002.rap" size="16" crc="b58f33fa" md5="eb234f7d4cce0b206c1f2e40e514c40b" sha1="2081fb7300560824b0a0146317d42e7518217956"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 3 (Japan) (DLC)" id="23975">
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 3 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000003</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000003.rap" size="16" crc="eae72b3e" md5="3766d044a5463cf1f9a700ae52e807c4" sha1="2115d984233c11abeb1b16fdf3be657c15dc53fd"/>
+	</game>
 	<game name="FolksSoul - Ushinawareta Denshou - Bonus 1 (Japan) (DLC)" id="11906">
 		<description>FolksSoul - Ushinawareta Denshou - Bonus 1 (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000001</game_id>
 		<rom name="3aU8G5Kt4VhkCRh1hL6DsWiauNANQhnak4CLxTQF49mYBGSMuc9HGUvjmLywosekdwYAsdSr6SPQxAhAOqRHFxVSjFBaqa9v0XGkn.pkg" size="16900240" crc="1dc3c8ef" md5="c687b1502917cc52149977fe2433f45f" sha1="155f912fe6ba3c7797da23132f482caa2bbf63d2"/>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000001.rap" size="16" crc="bda5905b" md5="86f3febe5e5d76d01cb819a199602945" sha1="e48b81231c43706f9ca379c5212909a2975696ea"/>
 	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Bonus 2 (Japan) (DLC)" id="11908">
-		<description>FolksSoul - Ushinawareta Denshou - Bonus 2 (Japan) (DLC)</description>
-		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000002</game_id>
-		<rom name="eGUp1I4x2j6wUATOSLRg1OHNpCk6OA5cYLnVY9E02l8PmPExFcHPVlDLWGJCUEkwCEqUuUtBhD8kNjJdGJMOQbxPNi3im5Fcn38BM.pkg" size="24339296" crc="e1f5533d" md5="834a8793a98807998e46f8058c8f9f4a" sha1="f247783d80b10b85804fef3d7eb53d1f018c7a77"/>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000002.rap" size="16" crc="b58f33fa" md5="eb234f7d4cce0b206c1f2e40e514c40b" sha1="2081fb7300560824b0a0146317d42e7518217956"/>
-	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Bonus 3 (Japan) (DLC)" id="11910">
-		<description>FolksSoul - Ushinawareta Denshou - Bonus 3 (Japan) (DLC)</description>
-		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000003</game_id>
-		<rom name="Mbcr6uDwtwpP7uBfTlwri1e8KNDGKJjIEr8P99Hjloe3V8uRdIRGAbmopYNAs8cH95mbvA2324AvX2UFSojudD28VwbQGW6rSraLe.pkg" size="24294064" crc="3fb6c037" md5="ea083446d6b93d8a5bede27fee202cdc" sha1="38868d51a927d7bc270f4725940cc67093092df1"/>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000003.rap" size="16" crc="eae72b3e" md5="3766d044a5463cf1f9a700ae52e807c4" sha1="2115d984233c11abeb1b16fdf3be657c15dc53fd"/>
-	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)" id="11909">
-		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)</description>
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (v1.60) (DLC)" id="11909">
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (v1.60) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000003</game_id>
 		<rom name="grLBux1k4koTvTBtaMxgRXVtmrNQxERUQ7J4T6n1GoFqfoUC6rTONuVPtsSP57BEF5PHKeg875emx8JEKuehu1Motwb8jOmfmESr1.pkg" size="24310752" crc="52294b9f" md5="ba30179eedacaab696053ccd562ee41e" sha1="130d06e3e94254bf430e1e7b8adcacae613d401f"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)" id="11910">
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000003</game_id>
+		<rom name="Mbcr6uDwtwpP7uBfTlwri1e8KNDGKJjIEr8P99Hjloe3V8uRdIRGAbmopYNAs8cH95mbvA2324AvX2UFSojudD28VwbQGW6rSraLe.pkg" size="24294064" crc="3fb6c037" md5="ea083446d6b93d8a5bede27fee202cdc" sha1="38868d51a927d7bc270f4725940cc67093092df1"/>
 	</game>
 	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Gemaga (Japan) (DLC)" id="11911">
 		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Gemaga (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000004</game_id>
 		<rom name="oebLFUqtlawrrvEi9guyt0M3WUcKbN4lP1YPbfWjvnWN5svSUjOIVrJP7bdLpVNgehsFM2Ln8BrFDcbuMYdD7rYq1Tee1oA9loCoD.pkg" size="24423152" crc="af1cafad" md5="d3b847251f96f997103fc2c731f79455" sha1="57bb7ea10c892ff616bd0cd70080192039894769"/>
 	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)" id="11907">
-		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)</description>
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (v1.60) (DLC)" id="11907">
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (v1.60) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000002</game_id>
 		<rom name="e4Q1bbdRQkjAOGK845A7nVV0XqAcTBNTAna8tJikE6F8RVyfVaq6wgOrLWvIeiYuW9bCxA7H0kLLHYNoOykOPbdpyPKVAQDr3YgLf.pkg" size="24358768" crc="644c105e" md5="fdc0fc771fd3599eb8c59c50d32ce0f0" sha1="6d71f9252ec7d318609c458849880841aba13092"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)" id="11908">
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000002</game_id>
+		<rom name="eGUp1I4x2j6wUATOSLRg1OHNpCk6OA5cYLnVY9E02l8PmPExFcHPVlDLWGJCUEkwCEqUuUtBhD8kNjJdGJMOQbxPNi3im5Fcn38BM.pkg" size="24339296" crc="e1f5533d" md5="834a8793a98807998e46f8058c8f9f4a" sha1="f247783d80b10b85804fef3d7eb53d1f018c7a77"/>
 	</game>
 	<game name="Foosball 2012 - Bonus Cities (USA) (DLC)" id="12220">
 		<description>Foosball 2012 - Bonus Cities (USA) (DLC)</description>
@@ -34297,29 +34304,29 @@
 		<rom name="MxGLujBubYrmdfrnXBwMPUZDyDomPRMUkxJxRrbgHSBfnGoMKzgItGEUVKBCulSb.pkg" size="102400" crc="8b62c801" md5="5400b82a54f704df7a2fb858487cfdd7" sha1="67fee84919829bea7d0453453253e6694fec0bc7" sha256="e906f1ad853325e3501272b851ec279f803eba02372d89b1b036c219ab5434d1"/>
 		<rom name="EP4151-NPEB00987_00-PS3DRM0000TRICK3.rap" size="16" crc="b6753ecb" md5="afe2cc0743f01b754ed53719372f1744" sha1="e2b9001467d72f9c5c9fad772c1ced2ae2c45a7c" sha256="11e2c39ff78dd269d19890f9fe946fc80c6d92a3af142f922a4c564bdb0a2bb7"/>
 	</game>
-	<game name="Front Mission Evolved - Last Stand (USA) (DLC)" id="16110">
-		<description>Front Mission Evolved - Last Stand (USA) (DLC)</description>
-		<game_id>UP0082-BLUS30395_00-CONT600000100000</game_id>
-		<rom name="UP0082-BLUS30395_00-CONT600000100000.rap" size="16" crc="d5af8099" md5="f1fd6f9cc3559bc44266dd842b80acb4" sha1="faa9648203b3fa6ec7ae2c7296a53547d1604055" sha256="adbd7c67f6399db83cb58771b29bea9851a57b7f8898e3be0e5f7c5aeffeb490"/>
-		<rom name="hVfMXhgLtLBgYlcyubBxwrSqWHVpmJsPQcRVlzQpaAbkHrOmLghrHFohElhFMIbgKrxtBeitybBcBYvxHNieFKTnQhFhgXNdYSycc.pkg" size="108253664" crc="ff9ad438" md5="e82d0feeead30c52f8b31ee2bf6133d4" sha1="54c4c904be353d8702d598b5f766f0aab7154678" sha256="d36442b471ca7b29d63b7b5ee0a979dd9e12581e33749bf5de72aca95e97ceb3"/>
-	</game>
 	<game name="Front Mission Evolved - Last Stand (Europe) (DLC)" id="23089">
 		<description>Front Mission Evolved - Last Stand (Europe) (DLC)</description>
 		<game_id>EP0082-BLES00788_00-CONT600000100000</game_id>
 		<rom name="BhzVATFhIUImXPeOpFvOBlFxzbdcpumpdFBmoXRjiEkgfAhnhozFOLATQgfEHCub.pkg" size="108253664" crc="1009b0c5" md5="876ade5774d9decbc2f17dfeefff241e" sha1="43e3067910932f5b4984a6274fda1817921e56e7"/>
 		<rom name="EP0082-BLES00788_00-CONT600000100000.rap" size="16" crc="6b56786b" md5="8dac430734a27f1b6126b601a4532410" sha1="594376d77909c6b13ab11d730d402c7d85df8de2"/>
 	</game>
-	<game name="Front Mission Evolved - Map Pack (Europe) (DLC)" id="23088">
-		<description>Front Mission Evolved - Map Pack (Europe) (DLC)</description>
-		<game_id>EP0082-BLES00788_00-CONT500000010000</game_id>
-		<rom name="HefrdklEbcMjgDBTbzeHsYYXaZJdhyMyjQGkWPjJKzEKnopTtVjRrpgvLhHnLNqBSPijRLcgIMiiapxugqyTzXRdOfJroeHSTmZoD.pkg" size="230406144" crc="7b580292" md5="c20c2152e9df3c40a72aa3f1b468490e" sha1="14b809766665be84f36ab1bd6289efa69a17adb9"/>
-		<rom name="EP0082-BLES00788_00-CONT500000010000.rap" size="16" crc="df79ae1e" md5="9ce5902734b608b54f32201d2adda82d" sha1="fabcce5ec776b263f89d28009c85d8fe37de7cda"/>
+	<game name="Front Mission Evolved - Last Stand (USA) (DLC)" id="16110">
+		<description>Front Mission Evolved - Last Stand (USA) (DLC)</description>
+		<game_id>UP0082-BLUS30395_00-CONT600000100000</game_id>
+		<rom name="UP0082-BLUS30395_00-CONT600000100000.rap" size="16" crc="d5af8099" md5="f1fd6f9cc3559bc44266dd842b80acb4" sha1="faa9648203b3fa6ec7ae2c7296a53547d1604055" sha256="adbd7c67f6399db83cb58771b29bea9851a57b7f8898e3be0e5f7c5aeffeb490"/>
+		<rom name="hVfMXhgLtLBgYlcyubBxwrSqWHVpmJsPQcRVlzQpaAbkHrOmLghrHFohElhFMIbgKrxtBeitybBcBYvxHNieFKTnQhFhgXNdYSycc.pkg" size="108253664" crc="ff9ad438" md5="e82d0feeead30c52f8b31ee2bf6133d4" sha1="54c4c904be353d8702d598b5f766f0aab7154678" sha256="d36442b471ca7b29d63b7b5ee0a979dd9e12581e33749bf5de72aca95e97ceb3"/>
 	</game>
 	<game name="Front Mission Evolved - Map Pack (USA) (DLC)" id="16109">
 		<description>Front Mission Evolved - Map Pack (USA) (DLC)</description>
 		<game_id>UP0082-BLUS30395_00-CONT500000010000</game_id>
 		<rom name="UP0082-BLUS30395_00-CONT500000010000.rap" size="16" crc="8228d414" md5="7e264daa1500d6855a2be361852bf29a" sha1="65a262a02ffc76fd381fb4db67790d3ff1439f83" sha256="a83f79233209bc2f99992c36c68eb4a399134e7992e3fdac066c9775e4bc861b"/>
 		<rom name="OHFuPwFGFFWUzhNSLbHfimOmLgPXVcxaplAajkRYQluFMXIooJcWxfpprJiOmTxwfbVmBkoXlhIHYjAyUhDwxpFNIPzpJUjmPbGKV.pkg" size="230405920" crc="52a2e31b" md5="4a1285d3431c93cd19377bebe8755672" sha1="71e562018ff1bfd68b8940098bb90ad0eb249f37" sha256="9bb7fbb67a7f6e2680a28c86ce12f888e66afbc9a4785f7839ad49f68f6183f3"/>
+	</game>
+	<game name="Front Mission Evolved - Map Pack (Europe) (DLC)" id="23088">
+		<description>Front Mission Evolved - Map Pack (Europe) (DLC)</description>
+		<game_id>EP0082-BLES00788_00-CONT500000010000</game_id>
+		<rom name="HefrdklEbcMjgDBTbzeHsYYXaZJdhyMyjQGkWPjJKzEKnopTtVjRrpgvLhHnLNqBSPijRLcgIMiiapxugqyTzXRdOfJroeHSTmZoD.pkg" size="230406144" crc="7b580292" md5="c20c2152e9df3c40a72aa3f1b468490e" sha1="14b809766665be84f36ab1bd6289efa69a17adb9"/>
+		<rom name="EP0082-BLES00788_00-CONT500000010000.rap" size="16" crc="df79ae1e" md5="9ce5902734b608b54f32201d2adda82d" sha1="fabcce5ec776b263f89d28009c85d8fe37de7cda"/>
 	</game>
 	<game name="Front Mission Evolved - Wanzer Pack 1 (USA) (DLC)" id="16105">
 		<description>Front Mission Evolved - Wanzer Pack 1 (USA) (DLC)</description>
@@ -34357,17 +34364,17 @@
 		<rom name="EklRPXu9IdBoW651xSdhyyx72Q0DpsW5ywth8Jn1WJc3mssdxJgrqQ31jS3nF7kFVXU0dGliY4cTeyJPl4NCSkRKyS5Y6EwscCR6e.pkg" size="775648" crc="1aecaed3" md5="4f6cd1e78d8d0ccff33e4874973437d9" sha1="524baa35a3f45b955f515b493fccb3f465d5faa2"/>
 		<rom name="UP0082-BLUS30395_00-CONT300000000100.rap" size="16" crc="e8a62658" md5="c7da90c59ecdce627ce777ed54f111be" sha1="fd8b0e53015126c8c3f6f9d4da0442b60b0a3a72"/>
 	</game>
-	<game name="Front Mission Evolved - Wanzer Weapons Pack 1 (Europe) (DLC)" id="01497">
-		<description>Front Mission Evolved - Wanzer Weapons Pack 1 (Europe) (DLC)</description>
-		<game_id>EP0082-BLES00788_00-CONT300000000100</game_id>
-		<rom name="l2fJaytCrTm3y8IQJvejE9Wk6CWEHMQdKncC7PwlRKUMYLkaoelW4IoT1ttJu4SitSq3nw2lW6F18XtQvto4TE2gb1vQneNL8BuT3.pkg" size="775648" crc="37eff267" md5="37cdee0ca7bec66f075b6493c0794fbe" sha1="0556452bad3b491b9fb934d04ccd58eaca45929e"/>
-		<rom name="EP0082-BLES00788_00-CONT300000000100.rap" size="16" crc="bf11d387" md5="b71cb38339d6bae8ac62d8b45fde1f9f" sha1="64eeb83db60da59622311e2c328663113344641c"/>
-	</game>
 	<game name="Front Mission Evolved - Wanzer Weapons Pack 1 (Japan) (DLC)" id="09725">
 		<description>Front Mission Evolved - Wanzer Weapons Pack 1 (Japan) (DLC)</description>
 		<game_id>JP0082-BLJM60206_00-CONT300000000100</game_id>
 		<rom name="H1oTCXqc9B0fYjFX6cqnPiPFee5naU1Mos9lkMe3YlLd04hrl4gPkHIgdUyTNViHx0BeTpw1DYhGEO7FoKwueoEstl4IPqPuRtgLH.pkg" size="1013616" crc="53f08b4b" md5="6ec28c8cc89c00008b60deecfd27fcd8" sha1="d11920499718476e5cc844b1153f851de43c3360"/>
 		<rom name="JP0082-BLJM60206_00-CONT300000000100.rap" size="16" crc="410354e6" md5="1736b70eb5eebe4b0e3017ef212dbc20" sha1="445bda8a29175a001800d96cd05333cc1e0eb2bc"/>
+	</game>
+	<game name="Front Mission Evolved - Wanzer Weapons Pack 1 (Europe) (DLC)" id="01497">
+		<description>Front Mission Evolved - Wanzer Weapons Pack 1 (Europe) (DLC)</description>
+		<game_id>EP0082-BLES00788_00-CONT300000000100</game_id>
+		<rom name="l2fJaytCrTm3y8IQJvejE9Wk6CWEHMQdKncC7PwlRKUMYLkaoelW4IoT1ttJu4SitSq3nw2lW6F18XtQvto4TE2gb1vQneNL8BuT3.pkg" size="775648" crc="37eff267" md5="37cdee0ca7bec66f075b6493c0794fbe" sha1="0556452bad3b491b9fb934d04ccd58eaca45929e"/>
+		<rom name="EP0082-BLES00788_00-CONT300000000100.rap" size="16" crc="bf11d387" md5="b71cb38339d6bae8ac62d8b45fde1f9f" sha1="64eeb83db60da59622311e2c328663113344641c"/>
 	</game>
 	<game name="Front Mission Evolved - Wanzer Weapons Pack 2 (USA) (DLC)" id="16108">
 		<description>Front Mission Evolved - Wanzer Weapons Pack 2 (USA) (DLC)</description>
@@ -34386,25 +34393,25 @@
 		<game_id>UP1082-NPUB31726_00-UNLOCKSVENFFFFFF</game_id>
 		<rom name="UP1082-NPUB31726_00-UNLOCKSVENFFFFFF_bg_1_8477a698f623ef6abef761954a77f1d522b9c06a.pkg" size="130224" crc="f128430c" md5="aa56faf922775ed7fd1a0498898296b5" sha1="ab5fa3622832fdb823ab9feb1a32a7f0e7b59cd9"/>
 	</game>
-	<game name="Fuel Overdose - Mercenary Vehicle Pack (USA) (DLC)" id="12235">
-		<description>Fuel Overdose - Mercenary Vehicle Pack (USA) (DLC)</description>
-		<game_id>UP4349-NPUB30785_00-MERCENARYVEHICLE</game_id>
-		<rom name="JrEbnREzVUpXZTAWDPjdNWPsrlaLRNkAJuFcwbLYNqBrdAaSQJhecFKvfQMiJfna.pkg" size="2545616" crc="deee46d8" md5="13d2099c74b881a871714bb978aa2126" sha1="300e137bfbb259b4060bae0e6c48642540467f78"/>
-	</game>
 	<game name="Fuel Overdose - Mercenary Vehicle Pack (Europe) (DLC)" id="05556">
 		<description>Fuel Overdose - Mercenary Vehicle Pack (Europe) (DLC)</description>
 		<game_id>EP4349-NPEB00876_00-MERCENARYVEHICLE</game_id>
 		<rom name="SpXRiJiRmUziUSgwvvgiVrZUUsdjvwXlaqdwtyRuircqTwwtPkIheTjGdZsKXIoM.pkg" size="2545616" crc="5840328e" md5="1f5bf2568414e69ab6b40146eb92f073" sha1="b101d9aeefab9c612d3db565f4c4831bf3022645"/>
 	</game>
-	<game name="Fuel Overdose - Wanderer Vehicle Pack (Europe) (DLC)" id="05557">
-		<description>Fuel Overdose - Wanderer Vehicle Pack (Europe) (DLC)</description>
-		<game_id>EP4349-NPEB00876_00-WANDERERVEHICLEP</game_id>
-		<rom name="nOukRFwsYInOSEMhSmFzviWKutWymEYINnwBwFsBPwmEHfkEPPnzYZgyIUXPWjyw.pkg" size="2423040" crc="29d4cbc9" md5="2e579919f5d488cfc452fcc1caee7fbd" sha1="b3f889731f0a5217e3450656a2b8d0b968b07dc7"/>
+	<game name="Fuel Overdose - Mercenary Vehicle Pack (USA) (DLC)" id="12235">
+		<description>Fuel Overdose - Mercenary Vehicle Pack (USA) (DLC)</description>
+		<game_id>UP4349-NPUB30785_00-MERCENARYVEHICLE</game_id>
+		<rom name="JrEbnREzVUpXZTAWDPjdNWPsrlaLRNkAJuFcwbLYNqBrdAaSQJhecFKvfQMiJfna.pkg" size="2545616" crc="deee46d8" md5="13d2099c74b881a871714bb978aa2126" sha1="300e137bfbb259b4060bae0e6c48642540467f78"/>
 	</game>
 	<game name="Fuel Overdose - Wanderer Vehicle Pack (USA) (DLC)" id="12236">
 		<description>Fuel Overdose - Wanderer Vehicle Pack (USA) (DLC)</description>
 		<game_id>UP4349-NPUB30785_00-WANDERERVEHICLEP</game_id>
 		<rom name="nXaNkZYPwIGHGqlUmoPXyRlzeAIIVTESylDEPwywSdfLXWlidQslRDZxgVfjkrQW.pkg" size="2423040" crc="dfec98f4" md5="ec5900c66e4a128989af529a9b7e5238" sha1="596a815c8d62c2eb4992f0d0c34d0d0758309220"/>
+	</game>
+	<game name="Fuel Overdose - Wanderer Vehicle Pack (Europe) (DLC)" id="05557">
+		<description>Fuel Overdose - Wanderer Vehicle Pack (Europe) (DLC)</description>
+		<game_id>EP4349-NPEB00876_00-WANDERERVEHICLEP</game_id>
+		<rom name="nOukRFwsYInOSEMhSmFzviWKutWymEYINnwBwFsBPwmEHfkEPPnzYZgyIUXPWjyw.pkg" size="2423040" crc="29d4cbc9" md5="2e579919f5d488cfc452fcc1caee7fbd" sha1="b3f889731f0a5217e3450656a2b8d0b968b07dc7"/>
 	</game>
 	<game name="Funky Lab Rat - Even More Challenges (USA) (DLC)" id="12226">
 		<description>Funky Lab Rat - Even More Challenges (USA) (DLC)</description>
@@ -34568,11 +34575,11 @@
 		<rom name="81r9WlGGRdcWPx1T0SAnqc5K8GoU2R1hlSTgCHu0i9C3wy1Rr1JTVhVq5sNYg270gCe9HTmf9scMe9t9Kk4bwxrwMhw2pkkfqGv4w.pkg" size="18865184" crc="dd5be28a" md5="3d7957f9bda5446f3ab3d236d615f30d" sha1="7c471ca170d700b41d9c6ce0fa161039c1716814"/>
 		<rom name="UP9000-BCUS98131_00-GENJI00000010002.rap" size="16" crc="fb7e47c3" md5="413846f059513aad43cad4240daa6ea7" sha1="6509f26649eeca60896e73ad9255dfac7d9718ed" sha256="765381108eb6ddcfa09be585c287f1a9f25b752fbf5fdfaa165a4d179c9400b6"/>
 	</game>
-	<game name="Genji - Days of the Blade - Enemy Costume (Europe) (DLC) [b]" id="05724">
-		<description>Genji - Days of the Blade - Enemy Costume (Europe) (DLC) [b]</description>
+	<game name="Genji - Days of the Blade - Enemy Costume (Europe) (DLC)" id="05724">
+		<description>Genji - Days of the Blade - Enemy Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00002_00-GENJI00000010001</game_id>
 		<rom name="0T1fjFYRYNRNOFYCbvQ86hBYoPNXCnd6VRFI8XrUcSgtGmS1uXWu5bRLlxxPJPtEpxgmceSkoo3OxXsUMkBB9C4D12O46HlYBneG3.pkg" size="19715264" crc="1a079c46" md5="d8bec7fd364a8fe1deffd6946997a836" sha1="27005ea1f28293f5837c832c0d6c4ee2a36fdf0c"/>
-		<rom name="EP9000-BCES00002_00-GENJI00000010001.rap" size="16" crc="e726bcea" md5="e15d8254eae89a46816ff5b01156bc7d" sha1="550540e8cacd7e0f729cd9f5ac02dd46653ca333" status="baddump"/>
+		<rom name="EP9000-BCES00002_00-GENJI00000010001.rap" size="16" crc="e726bcea" md5="e15d8254eae89a46816ff5b01156bc7d" sha1="550540e8cacd7e0f729cd9f5ac02dd46653ca333"/>
 	</game>
 	<game name="Genji - Days of the Blade - Opera Costume (Europe) (DLC)" id="05728">
 		<description>Genji - Days of the Blade - Opera Costume (Europe) (DLC)</description>
@@ -34883,7 +34890,6 @@
 		<game_id>EP9000-BCES00799_00-00000000MORPHEUS</game_id>
 		<rom name="EP9000-BCES00799_00-00000000MORPHEUS.rap" size="16" crc="320b79c8" md5="db9634bdec0629627dd7b14fd7c21485" sha1="793a14544fc21402470ffd3c2e3291942a167a67"/>
 		<rom name="hmIDV8GOnS5cfEOMDywCUJAvpct5RxiD5yg3h0NKmHT7wO7m1h6b9qLoklrKJxO5.pkg" size="102400" crc="84eef081" md5="f09ed695bc72a639ab485e9369ceb6cf" sha1="66374810d77fc3be8c6840ae918f3602fab33539"/>
-		<rom name="EP9000-BCES00799_00-00000000MORPHEUS.rap" size="16" crc="41a8d9db" md5="73201b39f8582272d34abe0bca4ca3ab" sha1="5899dad9e14494b19a7341c728162215d421d61b" sha256="423c819d0c9c88781755552b94e9f64a599c93d637a731261db4120ad915b272"/>
 	</game>
 	<game name="God of War III - Phantom of Chaos Skin (Europe) (DLC)" id="06081">
 		<description>God of War III - Phantom of Chaos Skin (Europe) (DLC)</description>
@@ -35465,7 +35471,6 @@
 		<description>Grand Theft Auto IV - The Lost and Damned (Europe) (v1.02) (DLC)</description>
 		<game_id>EP1017-BLES00229_00-RCKLOSTANDDAMNED</game_id>
 		<rom name="s7Ng309OHgtmnMLbJaEaoctwEyffO4ExTu8uRolYcEcYAoVF1QSPtdD3qA9DBk4Kdj0ERi6iMIHADsEAX646ts0JkBwkeHDR23jPT.pkg" size="2136955360" crc="5bddf559" md5="44bcf38f23c575b3285ab95c7d84a9ed" sha1="602ebb23a989df0ef954a0ddc0750b102b2d5ef7"/>
-		<rom name="PbYbR8xFLspK7POvsw2vApH9NHl0j340gxuuF822PQTg2CHfHKr4snyoCxmjpJGxVJCHHTVjHBSEc9wIeGclkkB9j0dFqe4w8RgJJ.pkg" size="149487392" crc="6ee9f35f" md5="37215c79ed19455f4695b8ac4db96b59" sha1="2843b04ca62fcdbb32f373fe293dee8a94967f96"/>
 	</game>
 	<game name="Grand Theft Auto IV - The Lost and Damned (USA) (v2.00) (DLC)" id="18005">
 		<description>Grand Theft Auto IV - The Lost and Damned (USA) (v2.00) (DLC)</description>
@@ -40630,11 +40635,10 @@
 		<game_id>HP0177-NPHB00671_00-PJDF2DLCSKN25011</game_id>
 		<rom name="mvftrZHbQRPwEXSfPnHedHXZsTinVEQuzShtWLzmhNHixKrfBfnggHkDtKZCnoUTTJLxWMvCoihpHHBiQRgYZtzjRffoBJnuaGjHA.pkg" size="130848" crc="b9b201e8" md5="0ba7c10fc70f0f5657d4c873e4a28b56" sha1="4493452ce61b7bdc05db2f6c6ef702c112c37133" sha256="849488300992eeb47cbd7020110ff548bb5ccfa3670d7d175bdf71901d4c9834"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC) [b]" id="16744">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC)" id="16744">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN25011</game_id>
 		<rom name="ypWliApOfWnJEcftMIySxglKudmEYSItEQVGEAdiJKMzKDNgUkHzLqekSCXcexZN.pkg" size="130848" crc="03b5489b" md5="e86efc7457a05ed7a6ec52eff1d71599" sha1="3bd510931761759b6cbafa1e171077dc2909b75a"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN25011.rap" size="16" crc="ca83e2bf" md5="1397288598aadcf9bcadee18485437f6" sha1="8820ef4dc2a373c622d293235fb8c86ebf0f1cad" sha256="0b70260e8626f03ccc24c434eca8e74bfbc739fde5ac636dc752a9e35ed8a858" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Neko (Japan) (DLC)" id="10802">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Neko (Japan) (DLC)</description>
@@ -42565,7 +42569,6 @@
 		<description>Hyperdimension Neptunia - IF - Flower Hat (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01178_00-DL00000000000136</game_id>
 		<rom name="yGxofEYnZcsSwuPlhAHbsJCWnuundbBOLIYBdLJXDNGqbOKArDNdRxLMuGSfuooc.pkg" size="659696" crc="8f1a2656" md5="45abefa1c389b9eb1b6a1b66d5a95d24" sha1="3c7708c280bff2433e2d4bd2e80ba260a08ec89e" sha256="292f74933741db49a7d20f8286416774f89069d372898995a556a427aaaa5e00"/>
-		<rom name="EP1063-BLES01178_00-DL00000000000136.rap" size="16" crc="688dfcde" md5="0cf9483eacd1d44b6cc4cdb41406329c" sha1="1f083d59fbd16b2d6182b2be89fc13f9317f3709" sha256="bfb0124a73912319e0e6f9f879d0b499ffeb320264102f818976c6f7e3c88957"/>
 	</game>
 	<game name="Hyperdimension Neptunia - IF - Nurse's Cap (Europe) (DLC)" id="03728">
 		<description>Hyperdimension Neptunia - IF - Nurse's Cap (Europe) (DLC)</description>
@@ -42661,7 +42664,6 @@
 		<description>Hyperdimension Neptunia - Level Cap +200 (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01178_00-DL00000000000048</game_id>
 		<rom name="rhSBLQGaeYHCnIKYGsFNKWGQDMyOxXNhBOqAglBeLLURwBOKElaSRANIuTyocNvq.pkg" size="102400" crc="0fff867f" md5="6654150fc2a75e37a991406d90cf123b" sha1="95ff6382705c4e1b78646f8204f7dc38ccfde949" sha256="1bd5f641ef29e6539568f25734ca67c25cdda69c767e574edd6672c2397f2d71"/>
-		<rom name="EP1063-BLES01178_00-DL00000000000048.rap" size="16" crc="7792258d" md5="6a642c8d6ee59d66c5fa39cf5de2e51e" sha1="de4e7ce89478b32fd5af370b66e6dd28fe38a32e" sha256="b5e47065ded21b2f6af139541638c5daf3de38fc7f8f71add969fa73e1479f90"/>
 	</game>
 	<game name="Hyperdimension Neptunia - Level Cap +200 2 (Europe) (DLC)" id="03688">
 		<description>Hyperdimension Neptunia - Level Cap +200 2 (Europe) (DLC)</description>
@@ -56198,7 +56200,6 @@
 		<description>Life Is Strange - Episode 2 - Out of Time (Europe) (v1.00) (DLC)</description>
 		<game_id>EP0082-NPEB02197_00-PLIFEISSTR000001</game_id>
 		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000001_bg_1_04a0749cad9962420181f1f7958aa9d501633127.pkg" size="1093354400" crc="02177896" md5="8b03c6d0e9f96ee35efc12d91b2f8e24" sha1="001471723723e3e13cac43b8a4815596333a5aaa"/>
-		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000002_bg_3_e5a830bf4c93e45f95757127672da0cdbc9db119.pkg" size="1312846208" crc="b0b0d17c" md5="22b1e0efb79c3a3ded5a393c59c32d26" sha1="8fea63570d3f47d556c1144204933fa7b7edd17a" sha256="e7a6a0038e84eb11c4dedcb13bf2a5027c0ca16076ee35bff3c86919a2f85607"/>
 	</game>
 	<game name="Life Is Strange - Episode 3 - Chaos Theory (Europe) (v2.00) (DLC)" id="01641">
 		<category>Games</category>
@@ -56212,7 +56213,6 @@
 		<description>Life Is Strange - Episode 3 - Chaos Theory (Europe) (v1.01) (DLC)</description>
 		<game_id>EP0082-NPEB02197_00-PLIFEISSTR000002</game_id>
 		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000002_bg_2_f7fcbc44ea67e3bcb19db4f193d6bbbbbc11659e.pkg" size="1367657520" crc="d55abb96" md5="250977797f74d921e20bf98a0feebee9" sha1="f924c406dd1e5cf90830d557cd907e9a490c992a"/>
-		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000003_bg_2_b92ef78cbdb37913d556705453617d4961a40876.pkg" size="1777695728" crc="6fa57542" md5="07ab6da37063c47d550552877aaabd13" sha1="617ce8706bc39fa1950c95c21105a9339d89643b" sha256="ebd861263d7dd6b4d7ed538142403064dc251a888630141846dedb77d5f025a7"/>
 	</game>
 	<game name="Life Is Strange - Episode 3 - Chaos Theory (USA) (v2.00) (DLC)" id="16282">
 		<description>Life Is Strange - Episode 3 - Chaos Theory (USA) (v2.00) (DLC)</description>
@@ -56250,7 +56250,6 @@
 		<description>Life Is Strange - Episode 4 - Dark Room (Europe) (v1.00) (DLC)</description>
 		<game_id>EP0082-NPEB02197_00-PLIFEISSTR000003</game_id>
 		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000003_bg_1_2a7ffc44704fe395fb718d02ee67b05bf8e8c5c5.pkg" size="1782598864" crc="10ca13a4" md5="b2b139a716a281837117ec219b72f8b6" sha1="99057930fc7b83d23fd3df355a1fd181b53e5f2c"/>
-		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000004_bg_2_9f0ff85ec87a7f815261ccbfc3849c556e3be4f9.pkg" size="2017527248" crc="39011e53" md5="75820aa6f7674e5baf9d8a4ae2a0d15d" sha1="f51c61ff1febfb4c10f8c3ae2d3a061967e52cc8" sha256="9664cac13b762c6d7f2b5127e53dbeef0a405f832a0c491a9877e4ce03873b6b"/>
 	</game>
 	<game name="Life Is Strange - Episode 4 - Dark Room (USA) (v2.00) (DLC)" id="16284">
 		<description>Life Is Strange - Episode 4 - Dark Room (USA) (v2.00) (DLC)</description>
@@ -56292,7 +56291,6 @@
 		<description>Life Is Strange - Episode 5 - Polarized (Europe) (v1.00) (DLC)</description>
 		<game_id>EP0082-NPEB02197_00-PLIFEISSTR000004</game_id>
 		<rom name="EP0082-NPEB02197_00-PLIFEISSTR000004_bg_1_0f71f7eb9d4bcdb11742f90d4a74ccd5cc4fd2e2.pkg" size="2018885616" crc="177ea1fc" md5="04606d8e6454b2343a253a103e2a4fa2" sha1="12475bf628338c5242762634de76217ed04a6a56"/>
-		<rom name="OsyphELgqpuKmFiuQXvwTKnGQqGbjPNCJLZDkMknXoQdvkciFJyEuSKsUQXelepP.pkg" size="1097757440" crc="679f7efd" md5="b17d00cfdc2dc5354a65f0dcc7b4c9eb" sha1="40fbb3a71909cd46df4f12b715512bc19e6347f7"/>
 	</game>
 	<game name="Lightning Returns - Final Fantasy XIII - Art of War (Europe, Australia) (En,Fr,De,Es,It) (DLC)" id="01598">
 		<description>Lightning Returns - Final Fantasy XIII - Art of War (Europe, Australia) (En,Fr,De,Es,It) (DLC)</description>
@@ -58477,12 +58475,6 @@
 		<game_id>UP9000-BCUS98148_00-LBPDLCMARVCO0012</game_id>
 		<rom name="fmY3ccct7RWXNDlL6csLFmv5AKAtGVVBtTnFhsoh8fNYmLDxi7ppqY4tsX3pLBRmGLOx5EhAlxqSh9gk6pysQGxTJiPBFnWDPhR1U.pkg" size="1091584" crc="8399acbc" md5="e467b7c5f1d1e004a7deff76800deaa6" sha1="480ff47d9f9e7062b323a8399bacea897ee4b6ab" sha256="6894fb3a63f0505ea140f6e7787be4fa09d52f8b171531bab16b2d534de43494"/>
 	</game>
-	<game name="LittleBigPlanet - World Cup Sackboy - Brazil (USA) (DLC)" id="20747">
-		<description>LittleBigPlanet - World Cup Sackboy - Brazil (USA) (DLC)</description>
-		<game_id>UP9000-BCUS98148_00-AVALBPBRAZILSACK</game_id>
-		<rom name="9nE3GIT48PjQhm0q28nEAfhkBEbB9vLOIBaQBYKTQeXVohim4BU57qwmmMFY3KjRFy7ou54LdyeAh2Je55YtaGUUeW5o4TIOWcqob.pkg" size="102400" crc="2ebcd15f" md5="8ebbb79495f7f53c0e20bee6c22661da" sha1="9f87d8c69ed4de747fed3921f279b077c2371992"/>
-		<rom name="UP9000-BCUS98148_00-AVALBPBRAZILSACK.rap" size="16" crc="47cc1138" md5="f954e039ea638b331fa33e734b22e19d" sha1="e7374f79c3f2286154e918fa418bbeaeca9c13cf"/>
-	</game>
 	<game name="LittleBigPlanet - Yorda Costume (USA) (DLC)" id="20563">
 		<description>LittleBigPlanet - Yorda Costume (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98148_00-LBPDLCSONYCO0014</game_id>
@@ -59531,7 +59523,6 @@
 		<description>LittleBigPlanet 2 - Gonzo Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCDSMUCO0001</game_id>
 		<rom name="VETjOjnPZIPrwspdbYfVcRNQPIlDklKJfugmObFpBeeRHHXGPYdHCWcWSuVzugMD.pkg" size="1069120" crc="b129df8c" md5="470be47ab9ad0179f2b09e795d16fe75" sha1="528a900e197db4eef1c27dbf7b75e8d433443049"/>
-		<rom name="EP9000-BCES00850_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Good Knight Costume (USA) (DLC)" id="22445">
 		<description>LittleBigPlanet 2 - Good Knight Costume (USA) (DLC)</description>
@@ -60680,7 +60671,7 @@
 	<game name="LittleBigPlanet 2 - The Great Gonzo Costume (USA) (DLC)" id="22341">
 		<description>LittleBigPlanet 2 - The Great Gonzo Costume (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98245_00-LBPDLCDSMUCO0001</game_id>
-		<rom name="EP9000-BCES00850_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1" status="verified"/>
+		<rom name="UP9000-BCUS98245_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1" status="verified"/>
 		<rom name="VPzTnLYUMdinuenVGajcjGWGhvPAReQIICcpDXRvSVKTTSGMfAtztbYoXCfdmuRALjtgPwedABiZdKXhsgGtYaLYjyvTlbZtlASDu.pkg" size="1069120" crc="45092755" md5="fedc6347fc1031cb68c7dede3c873189" sha1="12e4347d71fce25f25697cecbc13da5c73adfb80" sha256="31cd50b3170fbbee012fde0ec7b5b5a005d1d7f3ec3f394ea613d5be02163b8e" status="verified"/>
 	</game>
 	<game name="LittleBigPlanet 2 - The Great Gonzo Costume (Asia) (DLC)" id="08475">
@@ -65514,16 +65505,16 @@
 		<rom name="ewUnmY4XnA93lhFbN2MqFxGpIFOW9wFP2BEyUnHtF7bdB578x4GN4rhARGtrpIPiAuvcSo4gYBdyNkqfPMtk8FuTsXW2UlFsHbRVC.pkg" size="76916176" crc="d2bd8f25" md5="e6a124a522c1bd3d263ff0c81b8f5ea6" sha1="7f1d307f9cff0d7cb373316439f267b6d81eef76" sha256="a1230c58e9c355aeec422dfdeef1ad373bc2ce614093783d64e1fef3028e7df3"/>
 		<rom name="EP0102-BLES00710_00-CONTENT0101DPACK.rap" size="16" crc="69a24315" md5="aed3c28141231f393d7f5b7abf70db34" sha1="950d9cc560eed7ec56a1c22ded89f567ab84f22e" sha256="e8a25126d8e5d11bf117921b016a64b6a08bfb2086d2851b828eb0100aa9d7bd"/>
 	</game>
+	<game name="Lost Planet 2 - Map Pack 2 (USA) (DLC)" id="16441">
+		<description>Lost Planet 2 - Map Pack 2 (USA) (DLC)</description>
+		<game_id>UP0102-BLUS30434_00-CONTENT0102DPACK</game_id>
+		<rom name="78lI32DcXl8aT6HvVvx5qhMfj6OpEWDCxUOvm1RWALW9XuMkd7MaScA1r1H4l7MrhhFexPtyQAmGRBfCcjhiiFc8XoOslkMqb6Po2.pkg" size="67622784" crc="0cb7c9bc" md5="dfb59ee176124d013e05319312296328" sha1="049822e82943308c992b499b5c8326cd275e7e81" sha256="2ce684d7863c73f3dd8ec360004af39cec6e75b3f2d570b557432e2af69776c6"/>
+	</game>
 	<game name="Lost Planet 2 - Map Pack 2 (Europe) (DLC)" id="23365">
 		<description>Lost Planet 2 - Map Pack 2 (Europe) (DLC)</description>
 		<game_id>EP0102-BLES00710_00-CONTENT0102DPACK</game_id>
 		<rom name="PUMTkEoMqTNqB4sa6DX3rifD5htYFoYEEXm54B7T8VmedCWmdekw3GwKVvnjLcpmIjWCGDO8kMaOrPQLJ8FFYRxSrT4oK8aUHvGea.pkg" size="67622784" crc="09a38f6d" md5="0d1fadb3d1caa763f4feb15d705db45e" sha1="ae7acdb24f8548451b89a777ff67af30f5c1ac75" status="verified"/>
 		<rom name="EP0102-BLES00710_00-CONTENT0102DPACK.rap" size="16" crc="bbcf92d0" md5="d57373b2685446e384fe138bf7ffd074" sha1="c1f8f1c17c86357e035c7fde62d4df3ed97dbf27" sha256="fb3efdd3d3e93b7613d2d8982a2f7ac82f0225bc7a6b723aa4f48b7a42e6c138" status="verified"/>
-	</game>
-	<game name="Lost Planet 2 - Map Pack 2 (USA) (DLC)" id="16441">
-		<description>Lost Planet 2 - Map Pack 2 (USA) (DLC)</description>
-		<game_id>UP0102-BLUS30434_00-CONTENT0102DPACK</game_id>
-		<rom name="78lI32DcXl8aT6HvVvx5qhMfj6OpEWDCxUOvm1RWALW9XuMkd7MaScA1r1H4l7MrhhFexPtyQAmGRBfCcjhiiFc8XoOslkMqb6Po2.pkg" size="67622784" crc="0cb7c9bc" md5="dfb59ee176124d013e05319312296328" sha1="049822e82943308c992b499b5c8326cd275e7e81" sha256="2ce684d7863c73f3dd8ec360004af39cec6e75b3f2d570b557432e2af69776c6"/>
 	</game>
 	<game name="Lost Planet 2 - Monster Hunter Armor (USA) (DLC)" id="16442">
 		<description>Lost Planet 2 - Monster Hunter Armor (USA) (DLC)</description>
@@ -68735,7 +68726,6 @@
 		<description>Mighty No. 9 - Ray Expansion (USA) (DLC)</description>
 		<game_id>UP2047-NPUB31733_00-MIGHTYNONINERAY0</game_id>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0_bg_1_1bfdb49e40b32617e2bdecd6242e311ac25f06e4.pkg" size="79709344" crc="701cd228" md5="41092d10296dcd2483ee588b6a3439d6" sha1="bf497e0ccff08515136375620fc3aae81a6500e6"/>
-		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="fccb6d08" md5="54d3d717011f32d83f768d37a4a78400" sha1="fd993a8affb562def459e8ecc4b2827b854ceda0"/>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="0cc24cf0" md5="2733af809d07c9f28d270286c163ccc0" sha1="18c84165d6735a37702220cf242185c53b6eb43b" sha256="3aaed6167c3abfcc116a79cc36b9fb87cdd323366280e3e298a79d216c441454"/>
 	</game>
 	<game name="Mighty No. 9 - Ray Expansion (Europe) (DLC)" id="04795">
@@ -73076,7 +73066,6 @@
 		<description>Mugen Souls - Point Pack 2 (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01723_00-DLCPACKAGE000009</game_id>
 		<rom name="ZFkQooFTlPadkktfWmtpZEFMCSopnUnfZPdxQkQPdQvFWWyKGtQuBZGScCsZjtmw.pkg" size="134448" crc="14e03776" md5="976121322b8801c4896f61c355d6bfbf" sha1="4d363004552142641cfe7914f6a248d436c021a2"/>
-		<rom name="UP4133-NPUB31150_00-MARSWARLOGS00KEY.rap" size="16" crc="d705e5ae" md5="dfcf7ac116c9fe58d5aa05dd5cd511ae" sha1="42052e800b981f50f80d6c7aa6cdea87c3aad867"/>
 	</game>
 	<game name="Mugen Souls - Point Pack 2 (USA) (DLC)" id="19011">
 		<description>Mugen Souls - Point Pack 2 (USA) (DLC)</description>
@@ -104661,7 +104650,6 @@
 		<description>Shin Hokuto Musou - Gensaku Comic Costume - Kaiou (Japan) (v2.00) (DLC)</description>
 		<game_id>JP0106-NPJB00316_00-COSTUME019000001</game_id>
 		<rom name="MOouhXryliJaNyVxtxrFoEAXeWwdYUunLVuodLgTmThPgkWHmcDVnDUNiRuLyRhzooqaSPIanoLvcrPNrJcWiRmFIyQiDvJPKvahK.pkg" size="21854784" crc="09f894a0" md5="153ba8b232fa5eab70c730116dcd4c0f" sha1="df6f58a3d1dd5ecbb1be6880df53d4d0862a5edb"/>
-		<rom name="mrEoulDrhAVgdTcHFmnxPjdzVRtctPMioXGjIpTvlmriMQmiZylugLfEwnbjsAwQTAbVENHiJKnceuXRZmicZPifRlWERdBLIlpXx.pkg" size="105360" crc="312e8551" md5="5c3c40a9f836f38eb44b982c4adebba8" sha1="137842c59fef7108f72a7644da367e0f6d0171bd"/>
 	</game>
 	<game name="Shin Hokuto Musou - Gensaku Comic Costume - Kenshirou (Japan) (DLC)" id="10293">
 		<description>Shin Hokuto Musou - Gensaku Comic Costume - Kenshirou (Japan) (DLC)</description>
@@ -104829,7 +104817,6 @@
 		<description>Shin Hokuto Musou - Playable Character - Han (Japan) (v2.00) (DLC)</description>
 		<game_id>JP0106-NPJB00316_00-CHARACTER0240000</game_id>
 		<rom name="XemqNjTZURDJSNFhrsRPFsSiWqRVxdBdYIluDVhbfEQigSfGcGmEdHUZRXSBuvsMWXBvyUfvFyrvdNQMsGuiYOjZKPLxsioncbDuS.pkg" size="9826992" crc="678ab374" md5="a4f2561faace1ad9a7aab9953af8b905" sha1="72ddbb26befd49e90eb6b785884e4495b244cce0"/>
-		<rom name="OdVlwjljCzkiguanbNXPGgYHfyXgTNfThdZZFwLYtYDnZjoCUAmuzOhbpxFDkZJlnTkgYrolwhZnOohqaRJpokiIzMoCUpbikJnJA.pkg" size="35208736" crc="1ef3cc1a" md5="9f48a68c093299abdbb251859b053aff" sha1="b9972142229c6c02a599a6b24b51cc3cf8aac1c5"/>
 	</game>
 	<game name="Shin Hokuto Musou - Playable Character - Namonaki Shura (Japan) (DLC)" id="10288">
 		<description>Shin Hokuto Musou - Playable Character - Namonaki Shura (Japan) (DLC)</description>
@@ -109695,9 +109682,8 @@
 	<game name="Star Wars - The Force Unleashed II - Costume Pack (Europe) (DLC)" id="03433">
 		<description>Star Wars - The Force Unleashed II - Costume Pack (Europe) (DLC)</description>
 		<game_id>EP1010-BLES00893_00-SWTFU2DLCEU00005</game_id>
-		<rom name="VttovRETXgZkxFuZhKnrZOJeBpXhznCSYboghRCaumOpVeqJGpebiHlgDUobMPyK.pkg" size="227376240" crc="a723b731" md5="56562651788e3bbceaa411153dd721d4" sha1="976fbf34f86c4a138c760db53ab6b785445d7846" status="verified"/>
-		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="d3c51a54" md5="270acb526aca7353fefa1031e9251b97" sha1="ffbbd0d7b887e15391e03b567ce263cb1e310825" sha256="68cd00e7c4b8dd089398b96aa64a254b4cbc25f92e5e5775319cf2cccf72c411" status="verified"/>
-		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="770904ab" md5="e0d010a84b2ec48e5ef008d068acc71d" sha1="43ccceedf4cd5c2addb8e502dd873b6827d3d1bc" sha256="e10c34d2a48993038b8d62ef49bcb110d7304e98df11e321ce0840b5c3edfd21" status="verified"/>
+		<rom name="VttovRETXgZkxFuZhKnrZOJeBpXhznCSYboghRCaumOpVeqJGpebiHlgDUobMPyK.pkg" size="227376240" crc="a723b731" md5="56562651788e3bbceaa411153dd721d4" sha1="976fbf34f86c4a138c760db53ab6b785445d7846"/>
+		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="770904ab" md5="e0d010a84b2ec48e5ef008d068acc71d" sha1="43ccceedf4cd5c2addb8e502dd873b6827d3d1bc" sha256="e10c34d2a48993038b8d62ef49bcb110d7304e98df11e321ce0840b5c3edfd21"/>
 	</game>
 	<game name="Star Wars - The Force Unleashed II - Costume Pack 1 (USA) (DLC)" id="18001">
 		<description>Star Wars - The Force Unleashed II - Costume Pack 1 (USA) (DLC)</description>
@@ -118839,17 +118825,17 @@
 		<game_id>EP0082-BLES01780_00-TOMBRPISTOLBURST</game_id>
 		<rom name="AkXMbtXyWkCcNaxTVDHWHYDveMoQfhVpoEnASESZkZSPlEPiwkIKhHEqnWDYypTI.pkg" size="971920" crc="a5edfda3" md5="02c8ec66cefc13595a4b80f82d4b1cd9" sha1="95790d77f483a37dd28721e2712c60d8aee89a0e"/>
 	</game>
-	<game name="Tomb Raider - Pistol Silencer (USA) (DLC) (Alt)" id="16207">
-		<description>Tomb Raider - Pistol Silencer (USA) (DLC) (Alt)</description>
+	<game name="Tomb Raider - Pistol Silencer (USA) (v1.00) (DLC)" id="16207">
+		<description>Tomb Raider - Pistol Silencer (USA) (v1.00) (DLC)</description>
 		<game_id>UP0082-BLUS31036_00-PISTOLSILENCER00</game_id>
 		<rom name="TsRjzXKiMFQPlFrEOTEeEoeoyIxtbYaEetZDEASwCGgANHGQuEGqFRQiGRfFpxAf.pkg" size="967808" crc="6e1ab2a9" md5="90ae5013b64f254d2f0a01e6bb268454" sha1="40ead3fd4d170e0809b18c5a68970eb573f66b31"/>
 		<rom name="UP0082-BLUS31036_00-PISTOLSILENCER00.rap" size="16" crc="2865806f" md5="7c834a2cd582e34825f8289828189c66" sha1="425c0718277d353025270564a0716684c6dfdcd9"/>
 	</game>
-	<game name="Tomb Raider - Pistol Silencer (USA) (DLC)" id="16208">
-		<description>Tomb Raider - Pistol Silencer (USA) (DLC)</description>
+	<game name="Tomb Raider - Pistol Silencer (USA) (v2.00) (DLC)" id="16208">
+		<description>Tomb Raider - Pistol Silencer (USA) (v2.00) (DLC)</description>
 		<game_id>UP0082-BLUS31036_00-PISTOLSILENCER00</game_id>
 		<rom name="eJAyOLMzryVYhHyGlSYGjdVBJxKDqVgFEJiMAmOYVmTnKuduwLBBEhbEGVrstpJm.pkg" size="971920" crc="adb6b380" md5="2698b47cc142ece28dd21f83f4286ba4" sha1="383a7540f2ba271d2ccd17e8c7d04ba8aa2682cc"/>
-		<rom name="UP0082-BLUS31036_00-SCAVEEXECUTIONER.rap" size="16" crc="913d7efe" md5="67761e055f88899b61c01c93f549d442" sha1="999c3314a09e66c286580ef29b19bf97e5da3844"/>
+		<rom name="UP0082-BLUS31036_00-PISTOLSILENCER00.rap" size="16" crc="2865806f" md5="7c834a2cd582e34825f8289828189c66" sha1="425c0718277d353025270564a0716684c6dfdcd9"/>
 	</game>
 	<game name="Tomb Raider - Scavenger Bandit (USA) (DLC)" id="16210">
 		<description>Tomb Raider - Scavenger Bandit (USA) (DLC)</description>
@@ -120651,6 +120637,7 @@
 		<description>Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00757_00-UNCHARTED2SPE001</game_id>
 		<rom name="jx5fyiKA5mVi66aIAjNg7n3l3ctQmV2LVX6bxoIuYKmT9pANRtDVfC1FE0CHfrevBlfCdnsGLDoUMX0PBrRRSyxXxnhnMEm9SUQdG.pkg" size="102400" crc="d62a93bb" md5="c999fe1b5ac7959b43d55d7e1e526f19" sha1="970d31393a63a3fd51cb6eac950119c7c284db7a" sha256="0a5c1d255b50c75c69e20e2a72f9e33c7405c6662cca85319f62c76d2aff82af"/>
+		<rom name="EP9000-BCES00757_00-UNCHARTED2SPE001.rap" size="16" crc="cca8fe8f" md5="8300c4b69cd422e4697702ab0bd0c877" sha1="1acac8eab9e24e3c559e0dec7bea8774a89c9b0d" sha256="945125a883826512c7a2f84a21da4f1fdbfa89c616057234f0aec698fed7c8c4"/>
 	</game>
 	<game name="Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (En,Fr,De,It,Nl) (DLC)" id="06032">
 		<description>Uncharted 2 - Among Thieves - Steelbook Bonus (Europe) (En,Fr,De,It,Nl) (DLC)</description>

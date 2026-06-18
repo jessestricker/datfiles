@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260616-200331</version>
+		<version>20260617-122122</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -500,7 +500,7 @@
 	</game>
 	<game name="50 Classic Games (Europe) (En,Fr,De,Es,It,Nl)" id="6359">
 		<description>50 Classic Games (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="50 Classic Games (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="3caf6644" md5="ed030d1bf4980966843cdf1f27f30949" sha1="d02f64966d619bb84504603597db4d73b7bd0bdc" serial="BB5P"/>
+		<rom name="50 Classic Games (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="3caf6644" md5="ed030d1bf4980966843cdf1f27f30949" sha1="d02f64966d619bb84504603597db4d73b7bd0bdc" sha256="d038debcf6db24258cdb1c28ffea63b9ac4f9d495bfad034ada7f0c329f1201c" status="verified" serial="BB5P"/>
 	</game>
 	<game name="50 Classic Games (USA)" id="4107" cloneofid="6478">
 		<description>50 Classic Games (USA)</description>
@@ -2646,7 +2646,7 @@
 	</game>
 	<game name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany)" id="5812">
 		<description>Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany)</description>
-		<rom name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany).nds" size="33554432" crc="19746a6a" md5="0273e08f932a76c4079eb773d7479763" sha1="6805baab3512e116b2dda580379f701d4103be55" serial="B4VD"/>
+		<rom name="Bibi Blocksberg - Grundschule Mathematik - Klasse 1 bis 4 (Germany).nds" size="33554432" crc="19746a6a" md5="0273e08f932a76c4079eb773d7479763" sha1="6805baab3512e116b2dda580379f701d4103be55" sha256="67e119c0fad352b37b7240504bc6d2df0d277cd3a6df36e05474178e7e088ad2" serial="B4VD"/>
 	</game>
 	<game name="Bibi Blocksberg - Neustadt im Hex-Chaos (Germany)" id="2941">
 		<description>Bibi Blocksberg - Neustadt im Hex-Chaos (Germany)</description>
@@ -3930,9 +3930,9 @@
 		<description>Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced)</description>
 		<rom name="Cars 2 (Europe) (Fr,Nl) (NDSi Enhanced).nds" size="67108864" crc="0e46e90b" md5="38329b8806978399067a89ac549ee30a" sha1="fbb7ed415ab96b875c2d068f10bafc2c99bc854b" sha256="53d7dd8f6d78231252cd0cf3338f8bc1ca615298ffa698fba4c8f183e642c1f4" status="verified" serial="VCAX"/>
 	</game>
-	<game name="Cars 2 (Europe) (Sv,No,Da) (NDSi Enhanced)" id="6515" cloneofid="6516">
-		<description>Cars 2 (Europe) (Sv,No,Da) (NDSi Enhanced)</description>
-		<rom name="Cars 2 (Europe) (Sv,No,Da) (NDSi Enhanced).nds" size="67108864" crc="8a19bb0f" md5="0244e5d11e16d6356683bfa77687eabf" sha1="940238881823ff8cb05b4a0e478d182dd59a6f0f" sha256="723624463ee48245a0e22a4d2a13012bd9a983a4361ea072a2aa57ac85118b95" status="verified" serial="VCAZ"/>
+	<game name="Cars 2 (Scandinavia) (Sv,No,Da) (NDSi Enhanced)" id="6515" cloneofid="6516">
+		<description>Cars 2 (Scandinavia) (Sv,No,Da) (NDSi Enhanced)</description>
+		<rom name="Cars 2 (Scandinavia) (Sv,No,Da) (NDSi Enhanced).nds" size="67108864" crc="8a19bb0f" md5="0244e5d11e16d6356683bfa77687eabf" sha1="940238881823ff8cb05b4a0e478d182dd59a6f0f" sha256="723624463ee48245a0e22a4d2a13012bd9a983a4361ea072a2aa57ac85118b95" status="verified" serial="VCAZ"/>
 	</game>
 	<game name="Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced)" id="5742" cloneofid="6516">
 		<description>Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced)</description>
@@ -5276,7 +5276,7 @@
 	</game>
 	<game name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It)" id="4345">
 		<description>Crazy Machines 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="b38dde1c" md5="92de53c72622dd5f1f9e61adece26ec8" sha1="31c3abf95ef4ade453c130f12cc5d692c3b21490" serial="BMZP"/>
+		<rom name="Crazy Machines 2 (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="b38dde1c" md5="92de53c72622dd5f1f9e61adece26ec8" sha1="31c3abf95ef4ade453c130f12cc5d692c3b21490" sha256="0e332e2ecb2d602b9b2053766c1935695bf1b3c347707fc584f7d39f4e4bc50d" status="verified" serial="BMZP"/>
 	</game>
 	<game name="Crazy Pig (Europe) (En,Fr,De,Es,It,Nl)" id="1700">
 		<description>Crazy Pig (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -6976,7 +6976,7 @@
 	</game>
 	<game name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany)" id="5350">
 		<description>Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany)</description>
-		<rom name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany).nds" size="16777216" crc="65ed94ee" md5="47158dafcb1aea882a088f34cdc4685c" sha1="c14368d14d74083bc981c481c97d2aa4c476ffc6" serial="BQQD"/>
+		<rom name="Drei Fragezeichen, Die - Das Geheimnis der Toten (Germany).nds" size="16777216" crc="65ed94ee" md5="47158dafcb1aea882a088f34cdc4685c" sha1="c14368d14d74083bc981c481c97d2aa4c476ffc6" sha256="fe7e748833413e28eee5d262ff2d0859a350a961178199a17766290983bd80ad" serial="BQQD"/>
 	</game>
 	<game name="Driver Dan's Story Train (Europe)" id="6313">
 		<description>Driver Dan's Story Train (Europe)</description>
@@ -9532,7 +9532,7 @@
 	</game>
 	<game name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It)" id="5078">
 		<description>Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="93776570" md5="4349272bc2e8f4a54ae9b91b1222b78d" sha1="b30e43d8a3c9411e727e5708467e11e8039cda14" serial="BOUP"/>
+		<rom name="Goldene Amulett des Pharao, Das (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="93776570" md5="4349272bc2e8f4a54ae9b91b1222b78d" sha1="b30e43d8a3c9411e727e5708467e11e8039cda14" sha256="87412c8055e091834b24e93b9067375a8d4da3a4d95db29b0c97890a47957641" status="verified" serial="BOUP"/>
 	</game>
 	<game name="GoldenEye - Au Service du Mal (France)" id="0147" cloneofid="0118">
 		<description>GoldenEye - Au Service du Mal (France)</description>
@@ -10879,7 +10879,7 @@
 	</game>
 	<game name="Hospital Giant (Europe) (En,Fr,De,Es,It)" id="5379">
 		<description>Hospital Giant (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Hospital Giant (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3426d70c" md5="26dae99953c693eed56645da39768468" sha1="f38289e4281766d30121da390fb63bc58b082c00" serial="CCJP"/>
+		<rom name="Hospital Giant (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3426d70c" md5="26dae99953c693eed56645da39768468" sha1="f38289e4281766d30121da390fb63bc58b082c00" sha256="9b6bfb0633058dee571334ddc69d1ef2c5f43b6e18e94143d30b52630f938c3a" serial="CCJP"/>
 	</game>
 	<game name="Hot Wheels - Battle Force 5 (Europe) (En,Fr,De,Es,It,Nl)" id="5201">
 		<description>Hot Wheels - Battle Force 5 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -12268,7 +12268,7 @@
 	</game>
 	<game name="Jewel Master - Cradle of Persia (Europe) (En,Fr,De,Es,It,Nl)" id="5980">
 		<description>Jewel Master - Cradle of Persia (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jewel Master - Cradle of Persia (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="849eb163" md5="9aa7cdae82e9cf987b0c4a5176bb9944" sha1="8ab927d1f413c8a972251832c0f8eab81d845e37" serial="TCRP"/>
+		<rom name="Jewel Master - Cradle of Persia (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="849eb163" md5="9aa7cdae82e9cf987b0c4a5176bb9944" sha1="8ab927d1f413c8a972251832c0f8eab81d845e37" sha256="815cd181b12c43a8b460d4f729acbed5aa64981ce1b16dc244445551937ff626" status="verified" serial="TCRP"/>
 	</game>
 	<game name="Jewel Master - Cradle of Persia (Europe) (En,Fr,Es,It)" id="6017" cloneofid="5980">
 		<description>Jewel Master - Cradle of Persia (Europe) (En,Fr,Es,It)</description>
@@ -14499,7 +14499,7 @@
 	</game>
 	<game name="LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="6559" cloneofid="5662">
 		<description>LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)</description>
-		<rom name="LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).nds" size="134217728" crc="42ed93be" md5="ab3ce313271cddf9bd517c478fea4661" sha1="dc36bad54d34e56f11be6d1aeafdfbf0735217e5" serial="BVYP"/>
+		<rom name="LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).nds" size="134217728" crc="42ed93be" md5="ab3ce313271cddf9bd517c478fea4661" sha1="dc36bad54d34e56f11be6d1aeafdfbf0735217e5" sha256="a8dfca9a24ca679db42322d6aea208d7bc9032c5ae7a1d69cd7a781782008b6d" status="verified" serial="BVYP"/>
 	</game>
 	<game name="LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da)" id="5662">
 		<description>LEGO Ninjago - The Videogame (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
@@ -27105,7 +27105,7 @@
 	</game>
 	<game name="Tamagotchi Connexion - Corner Shop (Europe) (En,Fr,De,Es,It)" id="0468">
 		<description>Tamagotchi Connexion - Corner Shop (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tamagotchi Connexion - Corner Shop (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="33f85a7e" md5="db3dfe1b4f79456b818396d4248a1b7f" sha1="44cb6a2e8410ea42c67fadf4e7c48cb862c27da1" serial="AG7P"/>
+		<rom name="Tamagotchi Connexion - Corner Shop (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="33f85a7e" md5="db3dfe1b4f79456b818396d4248a1b7f" sha1="44cb6a2e8410ea42c67fadf4e7c48cb862c27da1" sha256="7ba039c8165c776ecd57fdc464b09dbe314c8b04f01328a9e0e1761dd7844888" serial="AG7P"/>
 	</game>
 	<game name="Tamagotchi Connexion - Corner Shop 2 (Europe) (En,Fr,De,Es,It)" id="0949">
 		<description>Tamagotchi Connexion - Corner Shop 2 (Europe) (En,Fr,De,Es,It)</description>
@@ -30317,7 +30317,7 @@
 	</game>
 	<game name="XG Blast! (Europe) (En,Fr,De,Es,It)" id="3522">
 		<description>XG Blast! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="XG Blast! (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="513b59d7" md5="16081760ab36baaf7eaad4570e452fc0" sha1="f6b41404644e4f08af44ca5684c01d137da6af6d" serial="CXGP"/>
+		<rom name="XG Blast! (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="513b59d7" md5="16081760ab36baaf7eaad4570e452fc0" sha1="f6b41404644e4f08af44ca5684c01d137da6af6d" sha256="fdb00231e45307e3cf54ae3f05f811a4f649dd66b9ef2dfe7806cb9ba2a1ece8" status="verified" serial="CXGP"/>
 	</game>
 	<game name="XG Blast! (USA) (En,Fr,De,Es,It)" id="5060" cloneofid="3522">
 		<description>XG Blast! (USA) (En,Fr,De,Es,It)</description>
@@ -30454,7 +30454,7 @@
 	</game>
 	<game name="Yeti Quest - Crazy Penguins (Europe) (Fr,De,Nl)" id="6459" cloneofid="6411">
 		<description>Yeti Quest - Crazy Penguins (Europe) (Fr,De,Nl)</description>
-		<rom name="Yeti Quest - Crazy Penguins (Europe) (Fr,De,Nl).nds" size="8388608" crc="e7c04f92" md5="c39ec91edc13d31bebe1219f7bf0b8c1" sha1="b6597bc356e76e1659b82c5b5420255725fd767e" serial="TQUY"/>
+		<rom name="Yeti Quest - Crazy Penguins (Europe) (Fr,De,Nl).nds" size="8388608" crc="e7c04f92" md5="c39ec91edc13d31bebe1219f7bf0b8c1" sha1="b6597bc356e76e1659b82c5b5420255725fd767e" sha256="d89c27d2194f52c2f5e33e5d497d26158808bce727cd9b8b103218b9adef4021" status="verified" serial="TQUY"/>
 	</game>
 	<game name="Yggdra Unison - Seiken Buyuuden (Japan)" id="4511">
 		<description>Yggdra Unison - Seiken Buyuuden (Japan)</description>

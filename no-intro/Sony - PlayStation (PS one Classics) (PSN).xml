@@ -4,7 +4,7 @@
 		<id>133</id>
 		<name>Sony - PlayStation (PS one Classics) (PSN)</name>
 		<description>Sony - PlayStation (PS one Classics) (PSN)</description>
-		<version>20260613-223534</version>
+		<version>20260617-070306</version>
 		<author>Aringon, buckwheat, emstan784, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2437,11 +2437,10 @@
 		<rom name="1cXQPw4Uvlhd4YRvOXyCRiT8P25kDc9JiNcF70RSjud7dOr4Hku6YO0V1rUAHPVYLLlCnY4O8po95pNenyMeJ3KdR4FUwRvEmSj9A.pkg" size="1794432416" crc="4cc88f96" md5="4b155c72dcbc4eafcf4a0ed0b5d469e1" sha1="0b23d15ff10499695e797c456781fe0a02431f65"/>
 		<rom name="JP0082-NPJJ00260_00-0000000000000001.rap" size="16" crc="064aa618" md5="fada989cc6b336a908d633dbd065d146" sha1="a4a184592bf1c91138f67648b269b61a62235524"/>
 	</game>
-	<game name="Final Fantasy VII (Spain) [b]" id="0308">
-		<description>Final Fantasy VII (Spain) [b]</description>
+	<game name="Final Fantasy VII (Spain)" id="0308">
+		<description>Final Fantasy VII (Spain)</description>
 		<game_id>EP0082-NPEF00069_00-GFINALFANS000001</game_id>
 		<rom name="trf7wjH0lxyPBGXJVPk0QRNxRVjFeGYLYabUGRaj6vwIQ79ukGvTTjayOaBW0sMIWwVhVpYNfAEmi2aqK9KIY7Ug54NA1CBA025cu.pkg" size="1394261872" crc="1ddb3588" md5="3ed489d396043f6346bb16377ecb8f61" sha1="fc89a1c6721e6cecf8a91e1db70576a1f69e0218"/>
-		<rom name="EP0082-NPEF00069_00-GFINALFANS000001.rap" size="16" crc="06e7ad70" md5="ba79309802209fac24ec7f325a301e47" sha1="1d4e1b4d3f5613dc1396b8bde39a2f6184f2842c" status="baddump"/>
 	</game>
 	<game name="Final Fantasy VII (USA)" id="0309">
 		<description>Final Fantasy VII (USA)</description>
@@ -2472,11 +2471,10 @@
 		<rom name="40KvGOmBfiqrOf7WjJJ1iwcbCOUGWhtvgBbpqFn4vQAqX2OmeFr88RseLsLYo8G90fmvkHfdlg1O65nKxWeAH6s4s39ubOMsVHLha.pkg" size="1900541104" crc="95590db6" md5="10e180adfa11b1428d7e84f9d49f6ddc" sha1="91cd30b814487f22c0d7dbd84ae22d661784ad0b"/>
 		<rom name="JP0082-NPJJ00294_00-0000000000000001.rap" size="16" crc="66d8b77c" md5="717cfb7f41a86fdadf5fd9f50251648c" sha1="a91223295fa38fbf4f014e8f119ef5edc2d2320c"/>
 	</game>
-	<game name="Final Fantasy VIII (Spain) [b]" id="0314">
-		<description>Final Fantasy VIII (Spain) [b]</description>
+	<game name="Final Fantasy VIII (Spain)" id="0314">
+		<description>Final Fantasy VIII (Spain)</description>
 		<game_id>EP0082-NPEF00070_00-GFINALFANT000SPA</game_id>
 		<rom name="9NDKCLtCDWkWRx2kPn4aMsOkXbseyEY0nhilexWtpxhpEoKHmS7PSmVbBJ6gSpxashSWloVOQifgUtbBPlywMHfAAMDJxY3l9vVSQ.pkg" size="1888406512" crc="56392f52" md5="83f7896677828ff53dda996165922d42" sha1="52d95bb1099d94d62ec4cc321ba25af738719cf9"/>
-		<rom name="EP0082-NPEF00070_00-GFINALFANT000SPA.rap" size="16" crc="441f8ae9" md5="413a49709ab1961dfe197ce7485b1ca8" sha1="f7f101711d579d81d587a74d44bc2fa2c1873b73" status="baddump"/>
 	</game>
 	<game name="Final Fantasy VIII (USA)" id="0315">
 		<description>Final Fantasy VIII (USA)</description>

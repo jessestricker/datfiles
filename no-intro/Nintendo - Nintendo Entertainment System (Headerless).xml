@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-		<version>20260616-171244</version>
+		<version>20260617-064757</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21228,7 +21228,7 @@
 	<game name="Youkai Club (Japan) (Rev 1)" id="8498">
 		<category>Games</category>
 		<description>Youkai Club (Japan) (Rev 1)</description>
-		<rom name="Youkai Club (Japan) (Rev 1).unh" size="163856" crc="e3c9a393" md5="c87401b0d711091beae7beb19cb14961" sha1="3e65adf7ad22c942f74afa418464f51f969cfead" sha256="2052bca4ceefe338bb753a9afcd31a494f12c9c3a440fd0f2434708b8ec78eb7" status="verified" mia="yes"/>
+		<rom name="Youkai Club (Japan) (Rev 1).unh" size="163840" crc="e3c9a393" md5="c87401b0d711091beae7beb19cb14961" sha1="3e65adf7ad22c942f74afa418464f51f969cfead" sha256="2052bca4ceefe338bb753a9afcd31a494f12c9c3a440fd0f2434708b8ec78eb7" status="verified"/>
 	</game>
 	<game name="Zhili Pintu - Play Toy Pictures (China) (Pirate)" id="8012" cloneofid="5322">
 		<category>Games</category>
