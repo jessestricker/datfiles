@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260617-113318</version>
+		<version>20260618-163243</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -483,7 +483,7 @@
 	<game name="Art Academy - Lessons for Everyone! (USA) (En,Fr,Es)" id="0442" cloneofid="0273">
 		<description>Art Academy - Lessons for Everyone! (USA) (En,Fr,Es)</description>
 		<game_id>0004000000095800</game_id>
-		<rom name="Art Academy - Lessons for Everyone! (USA) (En,Fr,Es).3ds" size="536870912" crc="4e697148" md5="6da89ede8274493a375b501bc9d7162e" sha1="9aee0c878155def993a517657c4c84dacbef2daa" sha256="d3ad7b9d391f3e3b41a15a082ad6cdcfc0446f69d35a326bb94c19ec7f7d53c6" serial="CTR-P-AACE"/>
+		<rom name="Art Academy - Lessons for Everyone! (USA) (En,Fr,Es).3ds" size="536870912" crc="4e697148" md5="6da89ede8274493a375b501bc9d7162e" sha1="9aee0c878155def993a517657c4c84dacbef2daa" sha256="d3ad7b9d391f3e3b41a15a082ad6cdcfc0446f69d35a326bb94c19ec7f7d53c6" status="verified" serial="CTR-P-AACE"/>
 	</game>
 	<game name="Asonde Shogi ga Tsuyokunaru! Ginsei Shogi DX (Japan)" id="1332">
 		<description>Asonde Shogi ga Tsuyokunaru! Ginsei Shogi DX (Japan)</description>
@@ -613,7 +613,7 @@
 	<game name="Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="0313">
 		<description>Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
 		<game_id>0004000000087C00</game_id>
-		<rom name="Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="a19f4435" md5="191c603cfbfd385bd760dfdc6b8a1d34" sha1="4f6ed865b0daa3a4f5c7d8696fa72322805d60bb" serial="CTR-P-AB2P"/>
+		<rom name="Bella Sara - The Magical Horse Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="a19f4435" md5="191c603cfbfd385bd760dfdc6b8a1d34" sha1="4f6ed865b0daa3a4f5c7d8696fa72322805d60bb" sha256="2874509aeb49ee58806d83b8d9d9b74d84b8bf5958d20b43a216e57fdc471cf0" status="verified" serial="CTR-P-AB2P"/>
 	</game>
 	<game name="Bella Sara 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="0991">
 		<description>Bella Sara 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
@@ -911,7 +911,7 @@
 	<game name="Bratz - Fashion Boutique (USA)" id="0564">
 		<description>Bratz - Fashion Boutique (USA)</description>
 		<game_id>00040000000A7300</game_id>
-		<rom name="Bratz - Fashion Boutique (USA).3ds" size="134217728" crc="d464ff93" md5="bc4c56d2e0c02473e760f2a20cd82e9f" sha1="f8f67e0b937aacff512bac0d8945159a4e76039f" serial="CTR-P-AB5E"/>
+		<rom name="Bratz - Fashion Boutique (USA).3ds" size="134217728" crc="d464ff93" md5="bc4c56d2e0c02473e760f2a20cd82e9f" sha1="f8f67e0b937aacff512bac0d8945159a4e76039f" sha256="82f63e71063307194bdd37a555389156bef5f013648b2519a04d2b9d43f0b185" serial="CTR-P-AB5E"/>
 	</game>
 	<game name="Bravely Default (Europe) (En,Ja,Fr,De,Es,It)" id="0497">
 		<description>Bravely Default (Europe) (En,Ja,Fr,De,Es,It)</description>
@@ -1393,7 +1393,7 @@
 	<game name="Crosswords Plus (USA)" id="0436">
 		<description>Crosswords Plus (USA)</description>
 		<game_id>000400000005C800</game_id>
-		<rom name="Crosswords Plus (USA).3ds" size="134217728" crc="183bfe43" md5="5467d88f44f823aaf9a8bae9cdbfc480" sha1="735de955958beecd2fbd9664b242bef134ca5447" sha256="a428d5053c976cfb8860b4f03811b143e0bcadd20222d044fbe775fce86d72a1" serial="CTR-P-AQ8E"/>
+		<rom name="Crosswords Plus (USA).3ds" size="134217728" crc="183bfe43" md5="5467d88f44f823aaf9a8bae9cdbfc480" sha1="735de955958beecd2fbd9664b242bef134ca5447" sha256="a428d5053c976cfb8860b4f03811b143e0bcadd20222d044fbe775fce86d72a1" status="verified" serial="CTR-P-AQ8E"/>
 	</game>
 	<game name="Crush 3D (Europe) (En,Fr,De,Es,It)" id="0141">
 		<description>Crush 3D (Europe) (En,Fr,De,Es,It)</description>
@@ -2821,7 +2821,7 @@
 	<game name="Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es)" id="0615" cloneofid="0216">
 		<description>Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es)</description>
 		<game_id>000400000009FA00</game_id>
-		<rom name="Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es).3ds" size="134217728" crc="7ff479d9" md5="86f707423198aeac92b058595a700878" sha1="e9bbcc5f5e072e3f202bbae2e218dd902515b0b7" serial="CTR-P-ATQE"/>
+		<rom name="Freakyforms Deluxe - Your Creations, Alive! (USA) (En,Fr,Es).3ds" size="134217728" crc="7ff479d9" md5="86f707423198aeac92b058595a700878" sha1="e9bbcc5f5e072e3f202bbae2e218dd902515b0b7" sha256="cf1e771e2840c1ff43217d90fc66ba3b2e116d6489d35b95de1b13de1ab9d98c" status="verified" serial="CTR-P-ATQE"/>
 	</game>
 	<game name="Frogger 3D (USA) (En,Fr,Es)" id="0128" cloneofid="0276">
 		<description>Frogger 3D (USA) (En,Fr,Es)</description>
@@ -4061,7 +4061,7 @@
 	<game name="Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr)" id="0258" cloneofid="0201">
 		<description>Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr)</description>
 		<game_id>000400000008D300</game_id>
-		<rom name="Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr).3ds" size="2147483648" crc="d8727e04" md5="218de504e4ec60edd0995ef52df498c1" sha1="414fd00fad266760605c30405e19021284e92009" sha256="c59969057f3e69f6b5d91cc26da78a7953e92f22c7da61dddf95c351b2b838b8" serial="CTR-P-AKHE"/>
+		<rom name="Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr).3ds" size="2147483648" crc="d8727e04" md5="218de504e4ec60edd0995ef52df498c1" sha1="414fd00fad266760605c30405e19021284e92009" sha256="c59969057f3e69f6b5d91cc26da78a7953e92f22c7da61dddf95c351b2b838b8" status="verified" serial="CTR-P-AKHE"/>
 	</game>
 	<game name="Kiniro no Corda 3 - Full Voice Special (Japan)" id="1202">
 		<description>Kiniro no Corda 3 - Full Voice Special (Japan)</description>

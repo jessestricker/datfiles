@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>10</id>
 		<name>Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>20260202-122913</version>
-		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
+		<version>20260618-055428</version>
+		<author>1988reload, C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, nnssxx, number, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Kanji Rom - JIS 1st Class (Japan)" id="0009">
@@ -706,9 +708,9 @@
 		<description>Chugaku Hisshu Eibunpo 1 (Japan)</description>
 		<rom name="Chugaku Hisshu Eibunpo 1 (Japan).rom" size="32768" crc="097e4a7e" md5="0107c217236386593b307be7e5d07c91" sha1="20ce189d670c0fe5f2a945d73107df7d83070ff7"/>
 	</game>
-	<game name="Circus Charlie (Japan) (Wii U Virtual Console)" id="0225">
-		<description>Circus Charlie (Japan) (Wii U Virtual Console)</description>
-		<rom name="Circus Charlie (Japan) (Wii U Virtual Console).rom" size="16384" crc="83b8d8f3" md5="5995cc6f08fdc9e883ecce34d1398029" sha1="ae6d0efd55def94274f4cec459df8927d132675a" sha256="89e1badac10e65886590d55e735ed794e5ca3c41142e6637b3e7ac6b25d042c0"/>
+	<game name="Circus Charlie (Japan) (En) (Wii U Virtual Console)" id="0225">
+		<description>Circus Charlie (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Circus Charlie (Japan) (En) (Wii U Virtual Console).rom" size="16384" crc="83b8d8f3" md5="5995cc6f08fdc9e883ecce34d1398029" sha1="ae6d0efd55def94274f4cec459df8927d132675a" sha256="89e1badac10e65886590d55e735ed794e5ca3c41142e6637b3e7ac6b25d042c0"/>
 	</game>
 	<game name="City Connection (Japan) (Alt)" id="0227" cloneofid="0226">
 		<description>City Connection (Japan) (Alt)</description>

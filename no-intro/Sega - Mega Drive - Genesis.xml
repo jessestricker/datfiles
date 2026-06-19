@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260617-100531</version>
+		<version>20260618-104733</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -10449,7 +10449,7 @@
 	<game name="Shane Warne Cricket (Australia)" id="1165" cloneofid="2403">
 		<category>Games</category>
 		<description>Shane Warne Cricket (Australia)</description>
-		<rom name="Shane Warne Cricket (Australia).md" size="1048576" crc="68865f6f" md5="af952d8625ef75ddca524074fd4b772a" sha1="4264625be91c3d96edca9c5bfe6259d00ca8b737" sha256="eeaf416e3b8a3a0b486de1877ee8be35b757865cd4b8d41e19a96f22f2a1e023" serial="T-120146-50"/>
+		<rom name="Shane Warne Cricket (Australia).md" size="1048576" crc="68865f6f" md5="af952d8625ef75ddca524074fd4b772a" sha1="4264625be91c3d96edca9c5bfe6259d00ca8b737" sha256="eeaf416e3b8a3a0b486de1877ee8be35b757865cd4b8d41e19a96f22f2a1e023" status="verified" serial="T-120146-50"/>
 	</game>
 	<game name="Shanghai II - Dragon's Eye (USA)" id="1166">
 		<category>Games</category>

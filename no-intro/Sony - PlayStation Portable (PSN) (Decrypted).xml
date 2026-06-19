@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>91</id>
 		<name>Sony - PlayStation Portable (PSN) (Decrypted)</name>
 		<description>Sony - PlayStation Portable (PSN) (Decrypted)</description>
-		<version>20260415-170329</version>
-		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
+		<version>20260618-053345</version>
+		<author>1988reload, bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] PSP Go System Software Update (World) (v5.70)" id="5669">
@@ -61835,10 +61837,10 @@
 		<game_id>UP1022-NPUH90004_00-PUZZLEGUZZLEDEMO</game_id>
 		<rom name="Puzzle Guzzle (USA) (Demo).iso" size="123469824" crc="e1d7b23d" md5="f41f1786549733dffa84bd8b8e3423a3" sha1="c7fb4bf607d43715e3a4e4cb72e976f1ddcead0a" sha256="8da6ae4afa16767811c0b7f865c88f33f4465d147477bf80593f2903217e9c71" date="2025-05-28" serial="UP1022-NPUH90004_00-PUZZLEGUZZLEDEMO"/>
 	</game>
-	<game name="Puzzle Quest - Challenge of the Warlord (Europe)" id="2629">
-		<description>Puzzle Quest - Challenge of the Warlord (Europe)</description>
+	<game name="Puzzle Quest - Challenge of the Warlords (Europe)" id="2629">
+		<description>Puzzle Quest - Challenge of the Warlords (Europe)</description>
 		<game_id>EP0367-ULES00909_00-GPCPUZZLEQ000002</game_id>
-		<rom name="Puzzle Quest - Challenge of the Warlord (Europe).iso" size="164626432" crc="54df31d4" md5="d01f3abdc2583db164d481aa7e482f53" sha1="3c8d55ee5bfe6704a5248378a1231e1907658dc0" sha256="34655b39c7e16fc535aaebccda42e2ba7bae55053a76a7446f6dc3b44df6f3db" date="2025-05-28" serial="EP0367-ULES00909_00-GPCPUZZLEQ000002"/>
+		<rom name="Puzzle Quest - Challenge of the Warlords (Europe).iso" size="164626432" crc="54df31d4" md5="d01f3abdc2583db164d481aa7e482f53" sha1="3c8d55ee5bfe6704a5248378a1231e1907658dc0" sha256="34655b39c7e16fc535aaebccda42e2ba7bae55053a76a7446f6dc3b44df6f3db" date="2025-05-28" serial="EP0367-ULES00909_00-GPCPUZZLEQ000002"/>
 	</game>
 	<game name="Puzzle Quest - Challenge of the Warlords (USA)" id="2630">
 		<description>Puzzle Quest - Challenge of the Warlords (USA)</description>

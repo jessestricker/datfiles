@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>91</id>
 		<name>Sony - PlayStation Portable (PSN) (Encrypted)</name>
 		<description>Sony - PlayStation Portable (PSN) (Encrypted)</description>
-		<version>20260415-170329</version>
-		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
+		<version>20260618-053345</version>
+		<author>1988reload, bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] PSP Go System Software Update (World) (v5.70)" id="5669">
@@ -16344,8 +16346,8 @@
 		<rom name="s3tNHcgMI42NwjWjUXw7h4oJ8KqVYWrCVyGNaRTHFEO5rVqbepPeDObb5hbENaoDUkWq21KQUOC28rrmymPi4RiEiD94KuKY0dnh1.pkg" size="11767312" crc="36793a5d" md5="3142cf67ec1d57596bbc434ab49472bd" sha1="9f24766872565e91491efcd0d3cab1dabeeadf79" sha256="227d724aad6524998ba589e27098a129d11035a7fe0d1212f678cdde39127291"/>
 		<rom name="UP1022-NPUH90004_00-PUZZLEGUZZLEDEMO.rap" size="16" crc="06017748" md5="acfe506d412ffe80bdf3892c42612173" sha1="67b05808879508960318a74a53d70256f852af32" sha256="d147175e9183060ff0ae4fc77fa51ff7423f96cb03cf6be24de832e850309a40"/>
 	</game>
-	<game name="Puzzle Quest - Challenge of the Warlord (Europe)" id="2629">
-		<description>Puzzle Quest - Challenge of the Warlord (Europe)</description>
+	<game name="Puzzle Quest - Challenge of the Warlords (Europe)" id="2629">
+		<description>Puzzle Quest - Challenge of the Warlords (Europe)</description>
 		<game_id>EP0367-ULES00909_00-GPCPUZZLEQ000002</game_id>
 		<rom name="avNJ2pseWMDeKXtGBoShwb0IcV0jhcJ1oVxPcNUMgCNkr1MTvrIwsBg9wiP28AebAaOxg4B6dfjMSmQm4RH4OnJNBTKvBtk3vdgw4.pkg" size="81430992" crc="f84a345c" md5="3d1f1015ea4d812a41424f95f744f6ee" sha1="7ef2042a0a6687c1256ce3815c5136175862aab0" sha256="f3351bb2491e965975e95bff29735dfc8d2f791be78abb5ab9a314271a939396"/>
 	</game>

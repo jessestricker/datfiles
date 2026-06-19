@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260615-135344</version>
+		<version>20260618-134638</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -737,7 +737,19 @@
 	<game name="Xenophobe (World)" id="0084">
 		<category>Games</category>
 		<description>Xenophobe (World)</description>
-		<rom name="Xenophobe (World).lyx" size="131072" crc="9bed736d" md5="69fb597cb4db019c48fd2e0c1cc7b75c" sha1="a1b4f7a4697310cafea1271bd4b41eeafae60ffa" sha256="eba2006fab22de3ebf0179f4bc9febf6a4a03fcd78ffa125ec92b7f6ffdedf6f"/>
+		<rom name="Xenophobe (World).lyx" size="131072" crc="9bed736d" md5="69fb597cb4db019c48fd2e0c1cc7b75c" sha1="a1b4f7a4697310cafea1271bd4b41eeafae60ffa" sha256="eba2006fab22de3ebf0179f4bc9febf6a4a03fcd78ffa125ec92b7f6ffdedf6f" status="verified"/>
+	</game>
+	<game name="Xenophobe (World) (Beta 1)" id="0449" cloneofid="0084">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xenophobe (World) (Beta 1)</description>
+		<rom name="Xenophobe (World) (Beta 1).lyx" size="131072" crc="1504625f" md5="afd5b3073a90d2c55ad8eec7658bece3" sha1="ff5f8278d4db7c2fb19bae48e37e6ec3b6d14833" sha256="9841ab89ac3e92361e74a5309d8940997a565c0b08382706f37a52f68648c9d2"/>
+	</game>
+	<game name="Xenophobe (World) (Beta 2) (1990-11-12)" id="0451" cloneofid="0084">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xenophobe (World) (Beta 2) (1990-11-12)</description>
+		<rom name="Xenophobe (World) (Beta 2) (1990-11-12).lyx" size="131072" crc="b5406a9a" md5="b4fa8f436275f3fb4ab445cf5e29d097" sha1="1c6386c379f5e48f36b2252dbfbfd6a370d328b4" sha256="147b446932a209e23f0478b4e59d407f934fc6e1f29b3647981d94a137535b14"/>
 	</game>
 	<game name="Xybots (USA, Europe)" id="0085">
 		<category>Games</category>

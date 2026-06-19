@@ -4,7 +4,7 @@
 		<id>443</id>
 		<name>Sony - PlayStation 3 (PSN) (DLC)</name>
 		<description>Sony - PlayStation 3 (PSN) (DLC)</description>
-		<version>20260617-200800</version>
+		<version>20260618-031226</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6251,11 +6251,10 @@
 		<rom name="qpWiKsfEPMsovhBhwrqpDWrqnNxewxmlRPSHsETfkTBsJAopntsdVRUjwfAqYsvxyJSVDtWysoymznHNgHDMeuiIfaPAADUmqlJno.pkg" size="102400" crc="c2c69ed6" md5="99ae4239cef4575b2fdcb740d1c45cac" sha1="9f4052bc27aa0e4dc79a93b04411176c4f0e85c7" sha256="b36daa49e1b7e4e62741094654e8e13b5a4b89b9a2294d391f02b0dfaf9d9732" status="verified"/>
 		<rom name="UP0006-BLUS30762_00-BF3SCULTIMATE000.rap" size="16" crc="6493528c" md5="28402c42b98448d7c53503107511d2db" sha1="17cbb71c58b0ecec6e580a51e7b99acc05884bc0" sha256="575e4d72f84844e5cb59b88f8cb416e2a91333d942cd59ee3467a0296155e235" status="verified"/>
 	</game>
-	<game name="Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC) [b]" id="01359">
-		<description>Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC) [b]</description>
+	<game name="Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC)" id="01359">
+		<description>Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC)</description>
 		<game_id>EP0006-BLES01275_00-BF3SCULTIMATE000</game_id>
 		<rom name="UiBYLgYXqgBIjvLvtcTiSVSJbZSeCWNozXCvWkiifSrCEuYpJxLAmTJZRRcVqkkt.pkg" size="102400" crc="fe8e2f7a" md5="703724c85c96378c9cd9d13923d17997" sha1="b0b57fa4ebf214bc9f5e8472128220f60bfcc5ea"/>
-		<rom name="EP0006-BLES01275_00-BF3SCULTIMATE000.rap" size="16" crc="b27d294e" md5="d2256062476e66a1bcd17bbc324d846c" sha1="a0e47bb31ed1a03c8fa0eb81f181d6efd307f72a" status="baddump"/>
 	</game>
 	<game name="Battlefield 3 - Welcome Pack (Europe) (DLC)" id="01360">
 		<description>Battlefield 3 - Welcome Pack (Europe) (DLC)</description>
@@ -8484,17 +8483,15 @@
 		<rom name="KbhzaPeIHGPDIgvrqRMZJHWOOHSvvIidaCvIvBShMdwfipjWucfTiuXnHJCRRNOmYpIlavLdezawKcmIdAEAeoWlQopTBWVZigbUm.pkg" size="102400" crc="be5a2882" md5="44a7b57edbfc8b801dd9523ae54e4240" sha1="d1a538aceb6417d66dd1f8b190968957afc2e0b1"/>
 		<rom name="UP1001-BLUS30982_00-BORDERLANDPOGSTP.rap" size="16" crc="f252a3dc" md5="135969b74056a548575c05103e02ed09" sha1="809f19bf6e21492937b51ddd6cf7c8a23fc50668"/>
 	</game>
-	<game name="Borderlands 2 - Creature Slaughter Dome (Europe) (DLC) [b]" id="03142">
-		<description>Borderlands 2 - Creature Slaughter Dome (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Creature Slaughter Dome (Europe) (DLC)" id="03142">
+		<description>Borderlands 2 - Creature Slaughter Dome (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDPOGSTP</game_id>
-		<rom name="EP1001-BLES01684_00-BORDERLANDPOGSTP.rap" size="16" crc="fb8d85e9" md5="9a1ed71f7fa94cdf60613c73f0bc03f7" sha1="e38262e971aba155b16004bf2e608878b5e50761" status="baddump"/>
 		<rom name="OyEPjFAekEFCHNvJGtIHFSZuTITQFBfSLvydwzGutkXNWEsQciDdkWUQqbSYKBiT.pkg" size="102400" crc="bdaf7feb" md5="7f2c686a9a9869fc2edc2f2910245929" sha1="1a15aa22accc54d0db55ce5f8817c91069549d85"/>
 	</game>
-	<game name="Borderlands 2 - Gunzerker Dapper Gent Pack (Europe) (DLC) [b]" id="03136">
-		<description>Borderlands 2 - Gunzerker Dapper Gent Pack (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Gunzerker Dapper Gent Pack (Europe) (DLC)" id="03136">
+		<description>Borderlands 2 - Gunzerker Dapper Gent Pack (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BL2GRD0400000002</game_id>
 		<rom name="inviOpjBGMEcnuluOuRMnWFWpAxaBMVZWohEXGzWsAdBvVQMqmxfZuznpNKOMcNN.pkg" size="102400" crc="dba05b38" md5="6c0c5bd4fe605b4de3e0ee10ecedfede" sha1="e77e663cff380251e5d43c37c5ce4c459ddf233c"/>
-		<rom name="EP1001-BLES01684_00-BL2GRD0400000002.rap" size="16" crc="8353cd05" md5="237eac7366979f908cded70080e5ee8e" sha1="4032c859c317da30400ef10725ffbee4ab200df6" sha256="9a2403082558388346d2ef0e65ea70381db9f61f3ca8b2b908fc02cb7e230ca1" status="baddump"/>
 	</game>
 	<game name="Borderlands 2 - Gunzerker Dapper Gent Pack (USA) (DLC)" id="17649">
 		<description>Borderlands 2 - Gunzerker Dapper Gent Pack (USA) (DLC)</description>
@@ -8525,10 +8522,9 @@
 		<rom name="NAXmcCfmkvzODznWrKarUbEajwHCQPMpgNKFCLFrAUGQDbdAPmIiMSeScNLGhEzr.pkg" size="102400" crc="b9f133b1" md5="48bde83ea508f3ba8fc426c419179f68" sha1="2fc4042c4d492bb69a63d879241466ca1c96f140"/>
 		<rom name="UP1001-BLUS30982_00-BL2GRD0100000040.rap" size="16" crc="0f64608a" md5="57e8be9066afa6fa7ca5d3546a1910c7" sha1="750a78617bedd9f15218f3c9ff2b6388485d2521"/>
 	</game>
-	<game name="Borderlands 2 - Gunzerker Madness Pack (Europe) (DLC) [b]" id="03129">
-		<description>Borderlands 2 - Gunzerker Madness Pack (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Gunzerker Madness Pack (Europe) (DLC)" id="03129">
+		<description>Borderlands 2 - Gunzerker Madness Pack (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BL2GRD0100000040</game_id>
-		<rom name="EP1001-BLES01684_00-BL2GRD0100000040.rap" size="16" crc="9add18f3" md5="7b80b4fd1e910e299cbbd051cace2848" sha1="4e7cb6ba0bfb3fae3fa2f62bd5a73dfb9e10697c" status="baddump"/>
 		<rom name="MfnrOReZbMqXhutiFpfcgdnFCAfREmXcMIkzQskXHDvRsNYbOiLzHsNYukcowDYZ.pkg" size="102400" crc="5a4440c1" md5="04cb40bd4ae234e92da7b356fd7e5f33" sha1="825a31ed08e1b10cafa1e8f9db67888424264a9c"/>
 	</game>
 	<game name="Borderlands 2 - Gunzerker Supremacy Pack (USA) (DLC)" id="17640">
@@ -8537,17 +8533,15 @@
 		<rom name="SIiZCHFRCYWeClvompOmswNuRnSERKHqEQTNaaPLTXcziMwtjaDFbLhcpWMWiyTI.pkg" size="102400" crc="f41c85a7" md5="f00cd39a6f479a719b5623e3696b856d" sha1="760d43c90d21234f776ddebf51c888eb785036a4"/>
 		<rom name="UP1001-BLUS30982_00-BL2GRD0100000080.rap" size="16" crc="1f7c857f" md5="66bbe9bbd85544947e32db6aa1455f6a" sha1="a23388a4fdbc468513c0f831e511695cb3338158"/>
 	</game>
-	<game name="Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC) [b]" id="03141">
-		<description>Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC)" id="03141">
+		<description>Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BL2NSTRM0000000C</game_id>
-		<rom name="EP1001-BLES01684_00-BL2NSTRM0000000C.rap" size="16" crc="ed0f1a13" md5="e7a69b8823576e8e72865ae22b9ef1ad" sha1="30b768ac6c9b23b49a4a2a08544e0acd83c2e918" status="baddump"/>
 		<rom name="xFADkENCCNvAZoTtWtklOJvRXyFnmTMBPfmEbiNhUKLBxisanjvueqZSxGfOiYih.pkg" size="989352208" crc="fb9d604b" md5="dfd65f097a56571c3b8ecca617fb9e05" sha1="65ed7cf895cf6c70251a2f1e2ab0f279720653d0"/>
 	</game>
-	<game name="Borderlands 2 - How Marcus Saved Mercenary Day (Europe) (DLC) [b]" id="03125">
-		<description>Borderlands 2 - How Marcus Saved Mercenary Day (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - How Marcus Saved Mercenary Day (Europe) (DLC)" id="03125">
+		<description>Borderlands 2 - How Marcus Saved Mercenary Day (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BL2ALIUM0000000C</game_id>
 		<rom name="lJDobquCTKVMnmFfsinehNRUVjrJyfnzMbcERhWDyLAnCZVuUgTvdvAhpBQbYepb.pkg" size="999863456" crc="16496e9b" md5="8a5953f0f1a144e49cd657196a3a77a6" sha1="61c1ac4c43081c084b216b70e8517f62b80f0367"/>
-		<rom name="EP1001-BLES01684_00-BL2ALIUM0000000C.rap" size="16" crc="27149bc0" md5="c363dd74a0a85e72edad60070fc89b89" sha1="d5ad599cc3d4329806f83667b964fada2c1a50ff" sha256="419727d45c225b29541f6124896c38b593fde4d971fd15411fcecbe7bffdfda2" status="baddump"/>
 	</game>
 	<game name="Borderlands 2 - How Marcus Saved Mercenary Day (USA) (DLC)" id="17632">
 		<description>Borderlands 2 - How Marcus Saved Mercenary Day (USA) (DLC)</description>
@@ -8670,11 +8664,10 @@
 		<rom name="ZMSsSfJxfsPBoZYHYlxxbOnxxpFowBsevVHigEasjONvCGLfrZVYiVzwtwjTQdxa.pkg" size="102400" crc="ec91286e" md5="b526d4fd112ae3ae17faf72b669723ec" sha1="df731f1d861288de94b88270cce2ac995dabfac8"/>
 		<rom name="UP1001-BLUS30982_00-BORDERLANDS2LLAC.rap" size="16" crc="0802f770" md5="f1e7ec77dcc2e45c6bd76b7f4ac41886" sha1="3e162fe5424945edda9f89740aad147c3e62782c"/>
 	</game>
-	<game name="Borderlands 2 - Psycho Pack (Europe) (DLC) [b]" id="03149">
-		<description>Borderlands 2 - Psycho Pack (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Psycho Pack (Europe) (DLC)" id="03149">
+		<description>Borderlands 2 - Psycho Pack (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDS2LLAC</game_id>
 		<rom name="VudLlAGFwbMHGaaYzTBjVHFWIXjdXzCxxWnLSqIKJiwDatBRgmlqRvtgzaJCOEtO.pkg" size="102400" crc="c53a0ae1" md5="baf2d71e3385400be3875939022415d5" sha1="4b027ee5e56ca372428a26d2c19e870a276a158e"/>
-		<rom name="EP1001-BLES01684_00-BORDERLANDS2LLAC.rap" size="16" crc="b3182759" md5="eb19afc89471b8ffe7606004aa6556f8" sha1="95c0fbc11c18314116da0b9b4ad4cb679d5a41a5" sha256="5553229337a2e4efebfb5110267abcfbf7634db7822f5c83bc1786084acf41f2" status="baddump"/>
 	</game>
 	<game name="Borderlands 2 - Psycho Party Pack (USA) (DLC)" id="17659">
 		<description>Borderlands 2 - Psycho Party Pack (USA) (DLC)</description>
@@ -8693,10 +8686,9 @@
 		<game_id>EP1001-BLES01684_00-BL2GRD0400000010</game_id>
 		<rom name="ffMxLstgnbheyzpvIOcoIoPlWdbfbCUxuCLoHMpuglVSjGaDtyOJcWtFpKyaWvGW.pkg" size="102400" crc="31ca1ff9" md5="83a14729b4c197b6857d859316b7dda4" sha1="580dc1a535fb234e94b63ae3c1f5780f04306de7"/>
 	</game>
-	<game name="Borderlands 2 - Season Pass (Europe) (DLC) [b]" id="03152">
-		<description>Borderlands 2 - Season Pass (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Season Pass (Europe) (DLC)" id="03152">
+		<description>Borderlands 2 - Season Pass (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDSEAPA1</game_id>
-		<rom name="EP1001-BLES01684_00-BORDERLANDSEAPA1.rap" size="16" crc="6a5651e0" md5="609ac56c014c71c69a69edbded0974b8" sha1="f9026f614129ef378c1a816b275b2c7f44aef1b1" status="baddump"/>
 		<rom name="ffHWoQkxsVHOJVAiDIawrlncbXMIeotWTogLseLWGDszDQukBsHDuoPCekeXlMOa.pkg" size="102400" crc="468291ad" md5="306291e12440af926cea9f1c315fef11" sha1="eff4aa3990e27b401f3bcd87513d43b08b7fee13"/>
 	</game>
 	<game name="Borderlands 2 - Season Pass (USA) (DLC)" id="17675">
@@ -8769,17 +8761,15 @@
 		<rom name="sbgsRHddnFZazOhoTTUPWYVlMplWjpQYtGLcSXymAxtoQoSaEWhoreCHDKAWHaXY.pkg" size="999863456" crc="c1af28f5" md5="865f2478530219557d03af0f38c4da80" sha1="c1872dda96c7cb73b445a0092ba82a598d782e5f"/>
 		<rom name="UP1001-BLUS30982_00-BL2ALIUM00000003.rap" size="16" crc="e114ec62" md5="8c0ce08641b727fa9695f52aa5f28169" sha1="a869691db6e96abcbda196cac6e724f362b23776"/>
 	</game>
-	<game name="Borderlands 2 - The Horrible Hunger of the Ravenous Wattle Gobbler (Europe) (DLC) [b]" id="03124">
-		<description>Borderlands 2 - The Horrible Hunger of the Ravenous Wattle Gobbler (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - The Horrible Hunger of the Ravenous Wattle Gobbler (Europe) (DLC)" id="03124">
+		<description>Borderlands 2 - The Horrible Hunger of the Ravenous Wattle Gobbler (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BL2ALIUM00000003</game_id>
 		<rom name="HKCuCXzLMLGuZgRLTPDOwRzbWTUvAuyxyyJfBmARBqLSRchISQikeexhkSovErJC.pkg" size="999863456" crc="bdf05f5e" md5="533b1639c373358531c92c85762efd14" sha1="50857d5fe5dbf36d3ea77b1c5efdcbb29be4e77b"/>
-		<rom name="EP1001-BLES01684_00-BL2ALIUM00000003.rap" size="16" crc="20ae1cc5" md5="88caa71b02b719e29c04e9d1045fb9ea" sha1="f6b22b8f50d3c1a82542b618a1429505173d993d" sha256="963fdf3a1dcb2b9f00ef4cf049d2e06156fd9748cfa5d3a8abb9780ffbb3b8e2" status="baddump"/>
 	</game>
-	<game name="Borderlands 2 - Tiny Tina's Assault on Dragon Keep (Europe) (DLC) [b]" id="03144">
-		<description>Borderlands 2 - Tiny Tina's Assault on Dragon Keep (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Tiny Tina's Assault on Dragon Keep (Europe) (DLC)" id="03144">
+		<description>Borderlands 2 - Tiny Tina's Assault on Dragon Keep (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDS2ASTR</game_id>
 		<rom name="hNDcmHsBHagNAasYKETjKwzargmpwOMUkgQCyDVieaDObtHfOduUMygYjouljvOP.pkg" size="1772577696" crc="b68a76b7" md5="42238d2e31782af6442f4e81b7786933" sha1="2f3f06bcd9dbc8b619e8931ea78383d73723d2a2"/>
-		<rom name="EP1001-BLES01684_00-BORDERLANDS2ASTR.rap" size="16" crc="9c6b2189" md5="0ae63a04fc69ab25227e77f1569b6755" sha1="2d0659597a31b66ad3fac17b267b9bf7e66b7437" sha256="2187321dcbc2babc8b96edcf16445660b853c2915909474f0b183427803faeaf" status="baddump"/>
 	</game>
 	<game name="Borderlands 2 - Tiny Tina's Assault on Dragon Keep (USA) (DLC)" id="17667">
 		<description>Borderlands 2 - Tiny Tina's Assault on Dragon Keep (USA) (DLC)</description>
@@ -8793,16 +8783,14 @@
 		<rom name="MpzeUgkGxhZWdeQTYXDPhunrzhmMHjSSYCAlCaznNuAVhcIdUvQiVDpBgyLPeCnP.pkg" size="512286976" crc="bdff4f7a" md5="185dc9fd2315ad95286ebf4b0ec46b8c" sha1="af0f53b808c9e54675002f881fadb390b9e33a08"/>
 		<rom name="UP1001-BLUS30982_00-BORDERLANDS2FLAX.rap" size="16" crc="61ebfc45" md5="211d4c3e6631968b871c1d6f4e39e6ec" sha1="f3fa2fa900c791d0c79e278140e5a46265ea6260"/>
 	</game>
-	<game name="Borderlands 2 - TK Baha's Bloody Harvest (Europe) (DLC) [b]" id="03146">
-		<description>Borderlands 2 - TK Baha's Bloody Harvest (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - TK Baha's Bloody Harvest (Europe) (DLC)" id="03146">
+		<description>Borderlands 2 - TK Baha's Bloody Harvest (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDS2FLAX</game_id>
 		<rom name="MxhsbYBJthkdhNuWdGESIIUcIhwvxrCZEJGXJyikjoOAhpEluguzUWFCXykxAoTs.pkg" size="512286976" crc="112fe232" md5="78f071bc78f09787cd545f776d8f1312" sha1="9b065de4a7d93f50bf4a2e08075d1925926814ae"/>
-		<rom name="EP1001-BLES01684_00-BORDERLANDS2FLAX.rap" size="16" crc="eb0a86bc" md5="5df7e1eb7ef9b9a93394605ade3872f5" sha1="a8ab2cd22c95ffd8fadf50ab4961e65f503cea2d" sha256="eddae79042a6ff9dc9361509d3e94244e9ceb6c3858537f9f9e9258fcb17257a" status="baddump"/>
 	</game>
-	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (Europe) (DLC) [b]" id="03147">
-		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (Europe) (DLC)" id="03147">
+		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDS2GLAD</game_id>
-		<rom name="EP1001-BLES01684_00-BORDERLANDS2GLAD.rap" size="16" crc="1cdbe926" md5="4060fbfd4deba5f57bf0e06ca9dc7bb7" sha1="468318c17e5d15b07b77ef9dddcc1b1253136611" status="baddump"/>
 		<rom name="nkLXjSOSzHQkXMhFpUXSrqUECWpbSENRMVcQCEmQpeZmWzVCreXwvvBaNCrvTnOO.pkg" size="102400" crc="4ffadc2f" md5="ae0a96f00e6040b4fe633cc34e5c82bc" sha1="d7bd8db4ecd1266e13e364ed37f8cde7eec7492d"/>
 	</game>
 	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack (USA) (DLC)" id="17670">
@@ -8817,11 +8805,10 @@
 		<rom name="OntriFjAApKmBqmSZWmGvoPgafxfLhgfwVmNiugHzCxvNpNxdSDcpkXLvNyNdVvQ.pkg" size="632554512" crc="37dca990" md5="7d49ecd5aefdd82bcfffac32e15571dc" sha1="efd6a4aa93cb5c4c8ed9fbc991a037a4de82098b"/>
 		<rom name="UP1001-BLUS30982_00-BORDERLANDS2LOBL.rap" size="16" crc="c4e35ed7" md5="019e965ea839ccf888dc0e029bf976ea" sha1="c1d6abbf19b288b7cb7f17b25c8de3381682bd6d"/>
 	</game>
-	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (Europe) (DLC) [b]" id="03150">
-		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (Europe) (DLC) [b]</description>
+	<game name="Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (Europe) (DLC)" id="03150">
+		<description>Borderlands 2 - Ultimate Vault Hunter Upgrade Pack 2 (Europe) (DLC)</description>
 		<game_id>EP1001-BLES01684_00-BORDERLANDS2LOBL</game_id>
 		<rom name="aWYpFCklhRZfOfrLswvTfACipJAhZzSZwcmNdRiNprHtuefHsPggYqCqzhqWIObG.pkg" size="632554512" crc="a7aaba8e" md5="0f81aff54719e2662e7d0033bd6ad217" sha1="639b00f1ff8fd23c1dba40c4023dd1179e46c4b8"/>
-		<rom name="EP1001-BLES01684_00-BORDERLANDS2LOBL.rap" size="16" crc="a5585782" md5="3832753512073f4aaa93a79f6d07732b" sha1="8494d63a0945f8d294492699e1c48fc7bd6c3c68" status="baddump"/>
 	</game>
 	<game name="Brain Challenge - Expansion Pack (Europe) (NPEB00064) (DLC)" id="04309">
 		<description>Brain Challenge - Expansion Pack (Europe) (NPEB00064) (DLC)</description>
@@ -10397,23 +10384,20 @@
 		<game_id>EP0002-BLES01717_00-CODBLACKOPS2DLC4</game_id>
 		<rom name="QJFAdLnpVhVVwTRUxCsvUGYHiHUBJZdXbfwYKqxSurrfWsQmPUEDPievMGjemsQO.pkg" size="1834733440" crc="11ce7aee" md5="d1645e202ded874f1b94cec39480b2a3" sha1="14cd041d8de59d4d943c5ed5c27eb75f1ff305b0"/>
 	</game>
-	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC) [b]" id="00525">
-		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC) [b]</description>
+	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC)" id="00525">
+		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (Es,It) (DLC)</description>
 		<game_id>EP0002-BLES01718_00-CODBLACKOPS2DLC4</game_id>
 		<rom name="hGoTGdzkfUeCbmxeNQAMOCWVoRwSmqTIDaGyHDpujRnEUCIqkaKNrVWRFxsmEBgd.pkg" size="1838392976" crc="43ac0305" md5="63b82a0b7cc2a542916eb22d9680214e" sha1="e4f4a2387024a2a06d07c7dcf8599128eacf68ca"/>
-		<rom name="EP0002-BLES01718_00-CODBLACKOPS2DLC4.rap" size="16" crc="d1b2e69a" md5="44704032e63eaaf7f06f50e0d5c1bbe0" sha1="31878a2309d47f6500102f06688d0a1990de386b" status="baddump"/>
 	</game>
-	<game name="Call of Duty - Black Ops II - Apocalypse (Germany) (DLC) [b]" id="00550">
-		<description>Call of Duty - Black Ops II - Apocalypse (Germany) (DLC) [b]</description>
+	<game name="Call of Duty - Black Ops II - Apocalypse (Germany) (DLC)" id="00550">
+		<description>Call of Duty - Black Ops II - Apocalypse (Germany) (DLC)</description>
 		<game_id>EP0002-BLES01719_00-CODBLACKOPS2DLC4</game_id>
 		<rom name="cwPvYglRrsulxcEWBRWblhpwKqqmxqUGntxRJQvMklazVLVukvLbdCxMNNjXGwke.pkg" size="1748574800" crc="58542895" md5="4327f415e2c171883a220f000fd87f16" sha1="d4cf186b0a7cb44d3880649949ab4f5af483f34d"/>
-		<rom name="EP0002-BLES01719_00-CODBLACKOPS2DLC4.rap" size="16" crc="46c2ccd9" md5="1a075317df88b50954dd9f4ab72160f3" sha1="fbfeb92745709001dab7b437774df1aeaa76c582" status="baddump"/>
 	</game>
-	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (Pl,Ru) (DLC) [b]" id="00575">
-		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (Pl,Ru) (DLC) [b]</description>
+	<game name="Call of Duty - Black Ops II - Apocalypse (Europe) (Pl,Ru) (DLC)" id="00575">
+		<description>Call of Duty - Black Ops II - Apocalypse (Europe) (Pl,Ru) (DLC)</description>
 		<game_id>EP0002-BLES01720_00-CODBLACKOPS2DLC4</game_id>
 		<rom name="upSDQgkUVYlxhrDPFyIxZoXqQAwSkdBQJZMdXrEzvTdsPYaFEQtxAwftSRojZuWq.pkg" size="1853076848" crc="d7a6b352" md5="d0f557d1bac4c705c13de4c11c63046f" sha1="5ecbe56fba90591411a16dfc19f8b65f0e59970c"/>
-		<rom name="EP0002-BLES01720_00-CODBLACKOPS2DLC4.rap" size="16" crc="835aca24" md5="20625464b5ef427900ae38ff0c7bda49" sha1="d85c1bbc0837a381cb99b09ad1b09ca9a4ae40b0" status="baddump"/>
 	</game>
 	<game name="Call of Duty - Black Ops II - Aqua Pack (Europe) (En,Fr) (DLC)" id="00513">
 		<description>Call of Duty - Black Ops II - Aqua Pack (Europe) (En,Fr) (DLC)</description>
@@ -12890,11 +12874,10 @@
 		<rom name="AC2vGR9WpBlnYOrvjoTM97Pgd26P7WdfGHeCI1B31orbgIl4u8RXvwb8herLINkvXvFelXCIMxYTKWIWONxgNjhrrvt3uj4AV1XXc.pkg" size="735310704" crc="e8491a12" md5="38becdf49f10273bdf57675e7df1bdf5" sha1="3fa07228cfe271da53bda3abbbc147cddb15cd9f"/>
 		<rom name="EP0002-BLES00354_00-PCALLOFDUT000009.rap" size="16" crc="0d6d54a9" md5="39b1ec22acf162627e1606bcabb6fddb" sha1="077c30a12fd82de97f4d3f7e0bad23e6f1094885"/>
 	</game>
-	<game name="Call of Duty - World at War - Map Pack 1 (Europe) (Es,It) (DLC) [b]" id="00238">
-		<description>Call of Duty - World at War - Map Pack 1 (Europe) (Es,It) (DLC) [b]</description>
+	<game name="Call of Duty - World at War - Map Pack 1 (Europe) (Es,It) (DLC)" id="00238">
+		<description>Call of Duty - World at War - Map Pack 1 (Europe) (Es,It) (DLC)</description>
 		<game_id>EP0002-BLES00357_00-PCALLOFDUT000011</game_id>
 		<rom name="ybrj5oMAbCDLwVFfXS3gjGOY8vcNDHeKmqIU4n9OkLmIqeXEBrMs0mtAs2piB5HSCWhKQ2il3xg1EOH9vKkQ1QrHp5dc8fCmljoEe.pkg" size="734632208" crc="1ed6239b" md5="95d4203304f8d295dcd82a08817fa5f0" sha1="484f979281039c8e11bae197ccc717afeffd5ff6"/>
-		<rom name="EP0002-BLES00357_00-PCALLOFDUT000011.rap" size="16" crc="c391c731" md5="9e78422d319934c829c7ae6d6a4696bd" sha1="8eacc4cf69d6ad90fc8b0788690115418e70feb8" status="baddump"/>
 	</game>
 	<game name="Call of Duty - World at War - Map Pack 1 (USA) (DLC)" id="14285">
 		<description>Call of Duty - World at War - Map Pack 1 (USA) (DLC)</description>
@@ -12920,11 +12903,10 @@
 		<rom name="uTrnyudcU8qRtb4NT3DenUlpC7XCiHNRltxpQQwDdoShptfatsFC2JX8lelb3ajS5LDuKhlxEMuOeAYTR2fTksVgh0m9hobSMxjoA.pkg" size="216170768" crc="0e250c1d" md5="f964192961869739178c92a8b9a08cfb" sha1="b321367061ec58d5ca927a3ad0919764dca8d71e" sha256="23714f9f83aca7643d134142e1bb809b85c920d8f237cebbdedad29bd53080af"/>
 		<rom name="EP0002-BLES00355_00-CODWAWMAPPACK003.rap" size="16" crc="60e0db6d" md5="6bdf2c9ac92f65008b3972e0c0613121" sha1="8864140ec7284044623e688dc9f3fafbfd9a7a6a" sha256="f368bc21a1291cad66203a2f5d572bea135d9b5dd0cffaf16276aa65c49d19d1"/>
 	</game>
-	<game name="Call of Duty - World at War - Map Pack 2 (Europe) (Es,It) (DLC) [b]" id="00236">
-		<description>Call of Duty - World at War - Map Pack 2 (Europe) (Es,It) (DLC) [b]</description>
+	<game name="Call of Duty - World at War - Map Pack 2 (Europe) (Es,It) (DLC)" id="00236">
+		<description>Call of Duty - World at War - Map Pack 2 (Europe) (Es,It) (DLC)</description>
 		<game_id>EP0002-BLES00357_00-CODWAWMAPPACK003</game_id>
 		<rom name="2CssJWtkhoEDRkJiPUSx1a9RgrxTE2A7WRLTJ2a2mKh1Y3nQe4cTBXFleO734Rs7FGnOggSHCEHxcOHW0tRjAoVjd1huW8hyvfhsQ.pkg" size="764144528" crc="70bfe806" md5="bdf48385e05aea022e741a38ead9a9e2" sha1="44b2c580a0ab080a65dd54daff4a110d42aeb672"/>
-		<rom name="EP0002-BLES00357_00-CODWAWMAPPACK003.rap" size="16" crc="aa471966" md5="21fa51b60d0f8d93d9453d9eb4709f56" sha1="fee03be45e166bc3722493b27e1835b00f000e2d" status="baddump"/>
 	</game>
 	<game name="Call of Duty - World at War - Map Pack 2 (Europe) (BLES00404) (DLC)" id="00239">
 		<description>Call of Duty - World at War - Map Pack 2 (Europe) (BLES00404) (DLC)</description>
@@ -12937,11 +12919,10 @@
 		<rom name="HpMmyjYyHgUWivsElQkGmIgGL0BUYXo5Mi8UwgBY7mlvRnYI9BYILfgTjrqNEclOmLLNW9flgyq38DlEHnMCH8v82XJrcr4eqAOh6.pkg" size="936482256" crc="6d1aa5e0" md5="4f34c03f4c74822da6b29a01bd94f6d2" sha1="7f3db625e8586fd49f94ab8db14826e2c835ad38"/>
 		<rom name="EP0002-BLES00354_00-CODWAWMAPPACK004.rap" size="16" crc="10e60ce8" md5="471fa7433e866bdd1f2b9d7fc525e311" sha1="7903930b32e96c1dcb14b1d8ea01015efa8341c7"/>
 	</game>
-	<game name="Call of Duty - World at War - Map Pack 3 (Europe) (Es,It) (DLC) [b]" id="00237">
-		<description>Call of Duty - World at War - Map Pack 3 (Europe) (Es,It) (DLC) [b]</description>
+	<game name="Call of Duty - World at War - Map Pack 3 (Europe) (Es,It) (DLC)" id="00237">
+		<description>Call of Duty - World at War - Map Pack 3 (Europe) (Es,It) (DLC)</description>
 		<game_id>EP0002-BLES00357_00-CODWAWMAPPACK004</game_id>
 		<rom name="XVyqAlXsc5oqmW6DWegXo7vgKGOUikuRnyYomhdSO1Y05aLJx0YhTNfSsNkEYsRcTGFh6aE3fOojQT49Xw37D2oB8EmpcwpeALPSR.pkg" size="938785168" crc="fa028d4e" md5="190e0c8020f59d33d193521853c47c33" sha1="e237db10a1d666f31c4d7f570bbc30fb56fdc54a"/>
-		<rom name="EP0002-BLES00357_00-CODWAWMAPPACK004.rap" size="16" crc="31bbc855" md5="ec9bb55118b731c9eab596d7cab26b92" sha1="02c1c2a4d219649f5a7b2650cd965a2232ba752e" status="baddump"/>
 	</game>
 	<game name="Call of Duty - World at War - Map Pack 3 (Russia) (DLC)" id="00240">
 		<description>Call of Duty - World at War - Map Pack 3 (Russia) (DLC)</description>
@@ -13150,11 +13131,10 @@
 		<rom name="zFNnvLvxiLZeMhGvDaaWMtfhvVaRFRnLxeWaHnWvdiFyrPVmvmfspZVvImYDTjAV.pkg" size="102400" crc="89e57270" md5="109bd909cb9ba8e480ecf695762e95b3" sha1="a45f25f3784f0900b55f81a37d46c26ec39d92b8" sha256="1fb8121ed247a4a3291574bbd773d2ebd11fd47e8427d70e705d5e0ad1367126" status="verified"/>
 		<rom name="UP0102-NPUB30769_00-CACCLSSINGLEP013.rap" size="16" crc="16cbe0a6" md5="579287bcf1cfd9dc34b65809bd8be51d" sha1="4258228c26f26ddd806d89d1de2862b908910906" sha256="a2ea6dd5136fc724ba1c3904f4fa2f6bf82c4b07390b58f40489d02e5bf0a840" status="verified"/>
 	</game>
-	<game name="Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC) [b]" id="16577">
-		<description>Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC) [b]</description>
+	<game name="Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC)" id="16577">
+		<description>Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC)</description>
 		<game_id>UP0102-NPUB30769_00-CACCLSSINGLEP008</game_id>
-		<rom name="ecDKiCygGYRSvtvCrATIWeqswXuRYaUkxZYinBeVURJDLrJUJvcFeVGOJInUtdAg.pkg" size="102400" crc="abfd4a7a" md5="a53a0242ed5e624715f72214c044ac65" sha1="aa067804c5e5d26be5d18c5c3771d2cd04790f43" sha256="c24a9da10d2550b2a44b880b4a1bb73743064dd815eca10dd498f243b03555b0" status="verified"/>
-		<rom name="UP0102-NPUB30769_00-CACCLSSINGLEP008.rap" size="16" crc="40bb61c4" md5="5c598d83644a61afcb056fc8f17edfdb" sha1="44cc7d9f165088e2e4c6b5cbe3f5844c626bbdad" sha256="73d9a387561aa51b54fbaefbc5464ebac60673b1782bb4e6cf1e7512ca75510d" status="baddump"/>
+		<rom name="ecDKiCygGYRSvtvCrATIWeqswXuRYaUkxZYinBeVURJDLrJUJvcFeVGOJInUtdAg.pkg" size="102400" crc="abfd4a7a" md5="a53a0242ed5e624715f72214c044ac65" sha1="aa067804c5e5d26be5d18c5c3771d2cd04790f43" sha256="c24a9da10d2550b2a44b880b4a1bb73743064dd815eca10dd498f243b03555b0"/>
 	</game>
 	<game name="Capcom Arcade Cabinet - The Speed Rumbler (Europe) (DLC)" id="01915">
 		<description>Capcom Arcade Cabinet - The Speed Rumbler (Europe) (DLC)</description>
@@ -22744,11 +22724,10 @@
 		<rom name="UP0006-BLUS30997_00-DA3IP1BLACKEMPOR_bg_1_e21c4dbd2d47a831919192e0ae1e3b09aa24d917.pkg" size="34304672" crc="8f322fc1" md5="5e2e02d1983524bae72091b8e23de4bb" sha1="c7916bcf21bf2c46abf7bfa7c136207d7579a45d"/>
 		<rom name="UP0006-BLUS30997_00-DA3IP1BLACKEMPOR.rap" size="16" crc="6b8fed56" md5="a4d7945dea7a61eb2e5ba282a648d590" sha1="df7a474ee46dc429e1e2cf4941614ab404754db1"/>
 	</game>
-	<game name="Dragon Age - Origins - Amulet of the War Mage (USA) (DLC) [b]" id="15687">
-		<description>Dragon Age - Origins - Amulet of the War Mage (USA) (DLC) [b]</description>
+	<game name="Dragon Age - Origins - Amulet of the War Mage (USA) (DLC)" id="15687">
+		<description>Dragon Age - Origins - Amulet of the War Mage (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOWAR00</game_id>
-		<rom name="Bl3qxMi4yEM0G8LSp4wnJdaBsK3eDdEORymwi4769cFCEQe2p86fyKDFb4MPqhLRstEgIjEWYawOKPL6xuboqQGkNWunAwJ54JOyf.pkg" size="116080" crc="ec34987a" md5="f158f50fca08d37a42502a2b786b6b36" sha1="cfdf19e9a38b7a933d8829a855a11d3854d2355d" sha256="e5afde7a00c67555a1e4c634a4b5204e7adcf814b5fcc19f67b9b7cec9f0b9d5" status="verified"/>
-		<rom name="UP0006-BLUS30415_00-DAOPRCPROMOWAR00.rap" size="16" crc="a667c83d" md5="4697db08afd125125aa6be5a68c06a62" sha1="dace83d5691d9e097a1dc4ee7a8796f6ac7a646b" sha256="07502accccc935e312e154301cf35c614ca87620129f132f02e1a8bd1b15b7ce" status="baddump"/>
+		<rom name="Bl3qxMi4yEM0G8LSp4wnJdaBsK3eDdEORymwi4769cFCEQe2p86fyKDFb4MPqhLRstEgIjEWYawOKPL6xuboqQGkNWunAwJ54JOyf.pkg" size="116080" crc="ec34987a" md5="f158f50fca08d37a42502a2b786b6b36" sha1="cfdf19e9a38b7a933d8829a855a11d3854d2355d" sha256="e5afde7a00c67555a1e4c634a4b5204e7adcf814b5fcc19f67b9b7cec9f0b9d5"/>
 	</game>
 	<game name="Dragon Age - Origins - Amulet of the War Mage (Europe) (DLC)" id="01127">
 		<description>Dragon Age - Origins - Amulet of the War Mage (Europe) (DLC)</description>
@@ -22938,11 +22917,10 @@
 		<rom name="ROkokilBRQLXDSFhoRRgXYaxpdslpjP2SPAkKx5jYVnWwGcG5vaft2xwsoOybmek1AqGvjjRPoHfUROG36QGklJXPhNx07Sn4tSuY.pkg" size="102400" crc="f339f3df" md5="2d17ed42ea3b4937f76fc293eca39457" sha1="b962db5d3a8053b4e2a3ca1f4a23005233f68847" sha256="da559a1d284444c689f713690deb183dafcfb2b7817a4ea1f1f5a6180f5af53e"/>
 		<rom name="UP0006-BLUS30415_00-DAOPRCPROMO30000.rap" size="16" crc="71ecfd70" md5="3bbf69f0e3e5ed29ad3e1af39bb22b76" sha1="2b099a9c52c26d7c5944a6a03479a88207e52d80" sha256="1d181b220285a6ecab3ba29f594f6372d782af32f40a02874f0080155df77bbe"/>
 	</game>
-	<game name="Dragon Age - Origins - Helm of the Deep (USA) (DLC) [b]" id="15682">
-		<description>Dragon Age - Origins - Helm of the Deep (USA) (DLC) [b]</description>
+	<game name="Dragon Age - Origins - Helm of the Deep (USA) (DLC)" id="15682">
+		<description>Dragon Age - Origins - Helm of the Deep (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOHOD00</game_id>
 		<rom name="c7etGoceoPhSgOXs1C8YdBX1w7RdGF0y7hSBtxO5SKtssRo3gFHHfkm5Uw0qvqCPPAMobNKmuEj8TjdJpQkOR9XBXFGAIQbaRWP5d.pkg" size="118944" crc="5c9160e6" md5="ea593ebe5d6fe3f20066a63b3c391349" sha1="2a6e2febabad93a0841841e441b61d6f6c822f07" sha256="a8b504e55b9e86d20214c07fe35d6ef9303217d6dad5bb704142b279546c6aed"/>
-		<rom name="UP0006-BLUS30415_00-DAOPRCPROMOHOD00.rap" size="16" crc="a2af0ff9" md5="95dd0b012dc16ddc30689aa716700cdb" sha1="60cf44317638ef169833810fb310034f74d455d3" sha256="3e3e178bcb2e2d9ee5eff4eb7a2913b3ddd3fcfb1f1bc3ef6314286d43aa7190" status="baddump"/>
 	</game>
 	<game name="Dragon Age - Origins - Helm of the Deep (Europe) (DLC)" id="01122">
 		<description>Dragon Age - Origins - Helm of the Deep (Europe) (DLC)</description>
@@ -22962,11 +22940,10 @@
 		<rom name="tnAWmj4fahOVmgto8N0571RPLOotV7nD7fbTq2LA7563x0AD7uH9lGgcxlWVMUX10tUGtR4SBFQpxuoJ6bc9FPUe2HAW8iEPqM0xk.pkg" size="460101248" crc="12f01d38" md5="e5fda91986036f9ff95c8d2215fd8823" sha1="5a69a382ac4d7301fdad38e5c2e922823813c6d7"/>
 		<rom name="UP0006-BLUS30415_00-DAOPRCLEL0000000.rap" size="16" crc="dffd14ca" md5="4faf5bf0464a0989a328c16a8713f1da" sha1="f4778debaa9ac12a3fdddf4e37099f4945c080a9"/>
 	</game>
-	<game name="Dragon Age - Origins - Mark of Vigilance (USA) (DLC) [b]" id="15686">
-		<description>Dragon Age - Origins - Mark of Vigilance (USA) (DLC) [b]</description>
+	<game name="Dragon Age - Origins - Mark of Vigilance (USA) (DLC)" id="15686">
+		<description>Dragon Age - Origins - Mark of Vigilance (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOVGL00</game_id>
 		<rom name="29bsVPBWkXvp885h23mBpIqtBEfYMFhE1TItK4JrtX7opAlsGkgsBr7R8Wee5RHj9lQFdHaPTNToKHPSSImoUHDcEhAV0r8xnNiCN.pkg" size="118752" crc="a7e8b196" md5="5586b88758be718577bbed0d43402411" sha1="cef113e0ad104b7f0d9abe0b62d4110a3b8da5d1" sha256="15637f670dffd8cc53305c39afdda564774efbe2ea984db456135843624efe82"/>
-		<rom name="UP0006-BLUS30415_00-DAOPRCPROMOVGL00.rap" size="16" crc="e2a7f06d" md5="ed249837f606ddf4442a8aca8e68fdda" sha1="c73034bb394ecf2cc3048dbbdac1bb2885c3e9db" sha256="7345dd742a53aa92426d940ae119558e8fd58c710a3a97413852ca08aaa0b804" status="baddump"/>
 	</game>
 	<game name="Dragon Age - Origins - Mark of Vigilance (Europe) (DLC)" id="01126">
 		<description>Dragon Age - Origins - Mark of Vigilance (Europe) (DLC)</description>
@@ -23010,11 +22987,10 @@
 		<rom name="1De12EbGrP1Ppnu5xAiQFbcblmLw4hfAFpvdnA3G1v6DmA9iDqnlkUSYbYNMM378WPQ1xMmbLyXFD4TeXcitnxMAvL5nEJLMOs4IJ.pkg" size="356660784" crc="cd6deefe" md5="9126f4b940df5f182a908573b5b8c80d" sha1="3dd3971f100d210ad3af54dee9381ed348a79e59"/>
 		<rom name="UP0006-BLUS30415_00-DAOPRCDRK0000000.rap" size="16" crc="223b20cd" md5="e4c2201d7c8e6d340460810cfe0e7f40" sha1="59a06c0d76081b6cf6b4d18342a293a6337c39f7"/>
 	</game>
-	<game name="Dragon Age - Origins - The Edge (USA) (DLC) [b]" id="15680">
-		<description>Dragon Age - Origins - The Edge (USA) (DLC) [b]</description>
+	<game name="Dragon Age - Origins - The Edge (USA) (DLC)" id="15680">
+		<description>Dragon Age - Origins - The Edge (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOEDG00</game_id>
 		<rom name="UTG1oUtrUk7QMHm67sekpLT8BV5jdg25SunSs7Bpr91JHL68gjg9TrG2lJc9cNqISRrF7d07pECkbbxLXNL75i99rku9YgrFfqG5c.pkg" size="102400" crc="1d702ae2" md5="38b36166bb3416ffd629796c370fadb4" sha1="aba580575e73cf9e0a1caead3ef5c7f4507d77af" sha256="6e65e325022b153847568e1fa3f2aba46d308f1f0bf41b9c4c194ddbdbb0a814"/>
-		<rom name="UP0006-BLUS30415_00-DAOPRCPROMOEDG00.rap" size="16" crc="aef8fd65" md5="09cb19cc852a2d93d277c0177e90d4ed" sha1="973b18d7a57958a7ea57f077238c8eb970a680ec" sha256="58cfb6cf751871d0728f1a31696bd9caccb55a0fcad6bb2c9c582e7db448b35f" status="baddump"/>
 	</game>
 	<game name="Dragon Age - Origins - The Edge (Europe) (DLC)" id="01120">
 		<description>Dragon Age - Origins - The Edge (Europe) (DLC)</description>
@@ -40186,11 +40162,10 @@
 		<game_id>HP0177-NPHB00671_00-PJDF2DLCSKN49025</game_id>
 		<rom name="YYdQmpeuECkykTVXGrPghKJSqsyZPFbRHqabDeMXUxWbEkVWSXlrgfBLSICVNPmCwlJprIKTrVuljZERcnmSbcciCamBzvzwQFABA.pkg" size="198176" crc="e3f45345" md5="c325d6643321ca4f73def091f0f39bc9" sha1="a185e913217c7780c5309749115d2056aa3675d6" sha256="4c5fe8296434c9aca3fca285aea966c7379d0fc6b40e4919b84d46f95f9f3b00"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC) [b]" id="16754">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC)" id="16754">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN49025</game_id>
 		<rom name="SqoSdkqBDjiWjZgEzhhnsBTUnUasUIjZDhJKxdtCKsXNuqydeidNQVyhMFKErzOE.pkg" size="198176" crc="249b85ab" md5="cf331c7dcb3d76d0c37f5cd873c029a2" sha1="dd964c86870606edcf0f573f83014878ff011ac0"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN49025.rap" size="16" crc="98c60eaf" md5="d15d5e9a8ad80f15691985dfed102ba3" sha1="10c7d0165a8b9a65ca0913cbbec5cbaacdb9cd65" sha256="4f9f61ba7b218bf0aff9a0ebfc3c95b6f70b93060049d553c559ebdee54f51f0" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Black Star (USA) (DLC)" id="16805">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Black Star (USA) (DLC)</description>
@@ -40209,11 +40184,10 @@
 		<rom name="qMgPXZMlSRxRwXVntJLPMMdoyiMtXydWSqBANKohcZSeNIJwAHZQKNGgagkUOXccPHgRTUwgLluHCDTpCnWfHXJGNbFUCkqWrrYox.pkg" size="108832" crc="deb9512a" md5="4f592a6833cea5d46bfc020f859234f3" sha1="e551bcbc39fabd0b3e11c8270eb0a61f17de66c1"/>
 		<rom name="JP0177-NPJB00435_00-PJDF2SKN050ID835.rap" size="16" crc="5fa5c0ea" md5="43ac73f56c3bccea6ca9dd336bfc10d9" sha1="5b4fe98650024b1b2f7b829c816232593db6f632"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC) [b]" id="16806">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC)" id="16806">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2SKN051ID836</game_id>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN051ID836_bg_1_b5cde422f6450516853372f1198da4af1332413f.pkg" size="102400" crc="12377461" md5="284e060c59f47205f7b1dbfb2110dee3" sha1="cd7feeca08a508fa2cfd258438fb9d53de8c9ce6"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2SKN051ID836.rap" size="16" crc="a349dd7d" md5="7812d6bbcbca619d2b19194977ca285a" sha1="b1517a0a67d15cb456c7d5031602f2f1d9ff0b10" sha256="40a6f560ade9ffab8c65b47130f6e50271a0e70f13cb79d06425bb65acaaecf4" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (Europe) (DLC)" id="02131">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (Europe) (DLC)</description>
@@ -40272,11 +40246,10 @@
 		<game_id>HP0177-NPHB00671_00-PJDF2SKN054ID849</game_id>
 		<rom name="HP0177-NPHB00671_00-PJDF2SKN054ID849_bg_1_a1e5f688e428e19641bf3e610e56d7e5ade18c97.pkg" size="170208" crc="3ddec2b6" md5="5df921e2cd788a660d6599709c7bcdbb" sha1="ebe67362622a5e59bd2cc46672013fc22924a17d" sha256="2c04931bfb9faaf9f8b18335ed1b40222dbef202e4f0ad73846bc7c38799f7ce"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC) [b]" id="16809">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC)" id="16809">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2SKN054ID849</game_id>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN054ID849_bg_1_03595abe79c8701ee67f9ba9386a6e4f0fa7e3e1.pkg" size="170208" crc="5987ffa9" md5="3e37330a3224033f4a0a00d8bf5f7c1a" sha1="2e25983a98c8e5e1b0872b5ede17d49e762fd66e"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2SKN054ID849.rap" size="16" crc="4173c123" md5="6ebbda3c9dec470e87e07467af8e151d" sha1="6ff52a5da052e5101c16c867c04afdfb7f707cd1" sha256="b6e9a3cc564e2ffe7ff949855914c8247c22fef2308440cdfc6bcbeb9e2ef946" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Chou &amp; Hana - Colorful (Japan) (DLC)" id="10868">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Chou &amp; Hana - Colorful (Japan) (DLC)</description>
@@ -40478,17 +40451,15 @@
 		<rom name="ONvrZMevbSmZtkdgVutMidYRcZSvApQPcnoctEIceMjWZldnnDGZLtOunWiswoloTRzlxVfSMEpYOOPhuAmIzUSawyDxUmPLpajHH.pkg" size="250656" crc="3b7573da" md5="e6f9ee617a0b2b0d4c42088b2893c69f" sha1="c6edb223b6e9bd71b387f63ce147733d549654e7"/>
 		<rom name="JP0177-NPJB00435_00-PJDF2DLCSKN48024.rap" size="16" crc="7b88ceb7" md5="fae9ebeee0e82207f35e55b2278b9594" sha1="1ec007352fdb571147492d0dbc4d405a35d46acd"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC) [b]" id="16753">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC)" id="16753">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN48024</game_id>
 		<rom name="ZYNAWfABLwwVbwdNvgfrTVOaQWqxiSSPqKjIcuYuuAuBdYIpkaIcoCwuDodCGXck.pkg" size="250656" crc="f9b283bb" md5="1449d2419b50a3aee978fb103b2b21fc" sha1="0f842265a7144871671811fe4c04682a32eacedc"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN48024.rap" size="16" crc="9cdd9113" md5="4c05133cacc53dbdae2bc88da4c75aad" sha1="94ebf0881360dc5107dcbc0d66876de354ecf46a" sha256="ff3c2ae6098e6260ba4e40370c62e6952772e063aca8015261f982cfe397ee94" status="baddump"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC) [b]" id="16749">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC)" id="16749">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN35017</game_id>
 		<rom name="xfgZdHKjsefmdCrQcXRZCxcumFInaFVPTEkaWBxFyNyzZZjXIPRHrSKNdKWoiQKH.pkg" size="209184" crc="255673b3" md5="f544c1c0c95d765c624b84f73721d4b2" sha1="dad91a0bf95c8d2e8b9287fb053ffd3a961c354e"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN35017.rap" size="16" crc="80a4b741" md5="f7adc199279fcb73c9199db9505d705b" sha1="47f5367e210362932965e0c5d3575b0ac97035c7" sha256="514c04bd1f1e3e841ae2872e26f4365f8d8ba0a7c40b33854882e590499071d0" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (Europe) (DLC)" id="02074">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (Europe) (DLC)</description>
@@ -40594,11 +40565,10 @@
 		<rom name="EP0177-NPEB02013_00-PJDF2SKN052ID837_bg_1_db7fd77efa82e33a04ba724d9331c9f78c645f22.pkg" size="102400" crc="cfb598d3" md5="34e071cca73054e8f0602e35ef27ada2" sha1="352cacbea9d88f818d0e6a4107ae08325d0b770d"/>
 		<rom name="EP0177-NPEB02013_00-PJDF2SKN052ID837.rap" size="16" crc="b048a9e8" md5="51003bebbac59809c06508a95609d815" sha1="f7c0cdeae24623075134f3f122fb269551febe12"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC) [b]" id="16807">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC)" id="16807">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2SKN052ID837</game_id>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN052ID837_bg_1_afdf5d6a5cc469dd4139e313d0cdbd8933aa7212.pkg" size="102400" crc="eb32a00b" md5="7c8453be04bcf09c1127fe668b716ecc" sha1="e162255aafe02c80d034ca047aac3f8b7067a82c"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2SKN052ID837.rap" size="16" crc="9fb1f02a" md5="60f6f958f92288ca9f9000ac7e05f713" sha1="2f7b7ca9e70e91ee9c81c6e556b262cf3985b1ad" sha256="5c8b6ab655d30fb91c3c938a165f072bfed762e7b9435f6ea9a6a58a5deba1ac" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddy (Japan) (DLC)" id="10865">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddy (Japan) (DLC)</description>
@@ -40612,11 +40582,10 @@
 		<rom name="TIzLwTcvBnVXjTwIJGmqQjtemJlRHaunPeHZYPXqOkiTFvQmZnBSbwcmKyJJmufUTjUfnfQWvIYhZGVFlvXNtxBFEsScPpgBchOzD.pkg" size="180768" crc="e0bff036" md5="dcf9d3451c105fcdcc991de9c8a5a2ea" sha1="2dce57154d3eac5cad82ee556235d813424df668"/>
 		<rom name="JP0177-NPJB00435_00-PJDF2SKN015ID834.rap" size="16" crc="5b40843b" md5="d085ee24472de40c4e4f0f57faf675cd" sha1="ed6fbed891cced733129543c3b6964a6a769ff15"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC) [b]" id="16801">
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC) [b]</description>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC)" id="16801">
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC)</description>
 		<game_id>UP0177-NPUB31488_00-PJDF2SKN015ID834</game_id>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN015ID834_bg_1_a6db63b721e84bcc4180687832856d2d9eab9183.pkg" size="180768" crc="653d2670" md5="71d052634fb359e2e84c5f0fc4ce40fe" sha1="459cfbddc57800b7a2043c9ae20e24b603606049"/>
-		<rom name="UP0177-NPUB31488_00-PJDF2SKN015ID834.rap" size="16" crc="0b800bb4" md5="f30509421b5bd4424c7ea99e4b73900c" sha1="cfd293697976bd3011419453d1dfe90ff849a058" sha256="10b6b3ac274a94407edc015156c65c7f908329d15dd6e0109f9c33c42e400fb5" status="baddump"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (Europe) (DLC)" id="02126">
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (Europe) (DLC)</description>
@@ -83097,11 +83066,10 @@
 		<rom name="EP9000-BCES01436_00-COSTUME00000SLY4.rap" size="16" crc="e6c4fa18" md5="48058698070e10e3f7e5d7141531099c" sha1="33b1d00c03b58297d8ff5cec621896cafc8d9359" sha256="b871ee3bf574c1a60602e5939dacc131294cba0e7a1e1f5e64e89adff7f89231"/>
 		<rom name="viVWBPtpSdNdWPwaCcmlSDCtMjftvYiCShvCVAxFPxbXeBjcnAYzLETVHxcvmtAp.pkg" size="156656" crc="d29e9376" md5="943e87c0685bf867d68193d6c4c08367" sha1="e6c8c0ffbe424f1c77e82198f689e5da85ecbf40" sha256="58613b7b5f1d49c385c3af13304b059e0ab167b95d46a3c86db301b3ac8b853f"/>
 	</game>
-	<game name="PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (Europe) (DLC) [b]" id="07077">
-		<description>PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (Europe) (DLC) [b]</description>
+	<game name="PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (Europe) (DLC)" id="07077">
+		<description>PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01436_00-MINION0CARMELITA</game_id>
-		<rom name="QRVHOjIwmijrxcKLMdOxJumTHiPZxpnKVkQxCFxPTEerwlRWrkblwXrZywVeepme.pkg" size="156656" crc="b3aaaa09" md5="91de9ab2a69a940c848058780d77b03d" sha1="8e6b6f67c0c47cfb2fbadec356ab81e2f8d0803e" sha256="e0ef982efe8a795ac036c427a42834442193dc598e16e65855d3141342859daa" status="verified"/>
-		<rom name="EP9000-BCES01436_00-MINION0CARMELITA.rap" size="64" crc="43b52b2a" md5="17317c9d34dd928ce47aa2e0e163c1ba" sha1="c1fb8fd7956896d70bc44decd918ed915284534c" sha256="4c39eb168c5691df15465285834e760cb4d1bc72542f434a10f72385d7862030" status="baddump"/>
+		<rom name="QRVHOjIwmijrxcKLMdOxJumTHiPZxpnKVkQxCFxPTEerwlRWrkblwXrZywVeepme.pkg" size="156656" crc="b3aaaa09" md5="91de9ab2a69a940c848058780d77b03d" sha1="8e6b6f67c0c47cfb2fbadec356ab81e2f8d0803e" sha256="e0ef982efe8a795ac036c427a42834442193dc598e16e65855d3141342859daa"/>
 	</game>
 	<game name="PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (USA) (DLC)" id="22912">
 		<description>PlayStation All-Stars Battle Royale - Sly Cooper's Carmelita Fox Minion (USA) (DLC)</description>
@@ -120557,11 +120525,10 @@
 		<rom name="SgGcJSJaMCfVKYrlqkTfUikCVUDiiCOA8oB1KO9Uq5iJyMT2bC1JGcUakvdSTY8fFr4b7UoI872qJxlVtw1pA0mosU3pbXMEGKCcY.pkg" size="318864" crc="95b1529e" md5="82d23cad42fbfaa0d609e64e0f1eebff" sha1="2ca37ec361fbd563a43f3a9f2b3e3ac1c7ccc005"/>
 		<rom name="UP9000-BCUS98123_00-UNCHARTED2REV001.rap" size="16" crc="059c1594" md5="3a122b02585be295e1f516dbcfa715b8" sha1="cb14339c596a1837f6ab51326fa3702c4cd97dda"/>
 	</game>
-	<game name="Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC) [b]" id="06064">
-		<description>Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC) [b]</description>
+	<game name="Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC)" id="06064">
+		<description>Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00757_00-UNCHARTED2RIKPIN</game_id>
 		<rom name="r8QSGibu3Yw114muyk4upIf8Ui0MGaDuuaPDl9vKFaiFL5dFcSVLJPgHRtee2f2EMesOFq7YUqKjbN15lImoaQdKWhNwDO9V2vKGC.pkg" size="143792" crc="82dc7de7" md5="2b2ddc713b7b741812873d3b133b38ec" sha1="e8bb75026e73d4c0db7805aacf7ea583ff1dc393"/>
-		<rom name="EP9000-BCES00757_00-UNCHARTED2RIKPIN.rap" size="16" crc="874718aa" md5="aede5e6336e35a18e8a22f983a1fa66f" sha1="245802ec4328ca5f2b43dc43d024e33f7b7c96a4" status="baddump"/>
 	</game>
 	<game name="Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Asia) (DLC)" id="08435">
 		<description>Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Asia) (DLC)</description>

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>446</id>
 		<name>Sony - PlayStation 3 (PSN) (Themes)</name>
 		<description>Sony - PlayStation 3 (PSN) (Themes)</description>
-		<version>20251229-103408</version>
+		<version>20260618-031614</version>
 		<author>buckwheat, emstan784, FakeShemp, Landcross, norkmetnoil577, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="40's WWII Pinups (USA) (Theme)" id="00001">
@@ -93,10 +95,9 @@
 		<rom name="lSheKkEklHQxxftoVUkIjjdvSWZiFdSlLhmLJJtTmMIwcSTEKKIoRCHGcPVsgruR.pkg" size="978880" crc="06f2eb41" md5="696664aef8065faf41c57cb5c09703ed" sha1="5768547cf6f90b87c01161cfb266c2baaa44148b"/>
 		<rom name="EP9000-NPEO00154_00-300MOV00000EN001.rap" size="16" crc="a943075b" md5="ea34e9c4000cc6a4c3d59ad8e6391abe" sha1="cc710cc7c1ce0768b82ff8d572fed9b326322fde"/>
 	</game>
-	<game name="Ad Sales - 300 (Italy) (Static Theme) [b]" id="00015">
-		<description>Ad Sales - 300 (Italy) (Static Theme) [b]</description>
+	<game name="Ad Sales - 300 (Italy) (Static Theme)" id="00015">
+		<description>Ad Sales - 300 (Italy) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000IT002</game_id>
-		<rom name="EP9000-NPEO00154_00-300MOV00000IT001.rap" size="16" crc="7572bc5e" md5="eed7cc85018fe6af4b5ebf3a730cad54" sha1="f719e0ea7910af8af9961bfde9cbf681851c4f75" status="baddump"/>
 		<rom name="hPXMKRezHRZzTcAVFjfZlmbMdMelRrCtqnSpqEUJeAaDyaSvWtLEBSFvauGMXWGK.pkg" size="1007728" crc="59c49e5c" md5="f40a59ffe60bc4c05e24971e545bf66e" sha1="eb47bcdfdf06fc98f1f416340ad0c226e272ee42"/>
 		<rom name="EP9000-NPEO00154_00-300MOV00000IT002.rap" size="" mia="yes"/>
 	</game>
@@ -142,12 +143,10 @@
 		<rom name="QaOuQrNVKpAxrvIuUSIAZeohGxobpzpovoyyIIiSEAllPWWXYjpjouvgHnjlAdZC.pkg" size="1011552" crc="1f5d185f" md5="d2920db11b13003aaf79a13146f97e52" sha1="2e380131cc40f9a0cbe6425b121a6940a9f68443"/>
 		<rom name="EP9000-NPEO00154_00-300MOV00000ES002.rap" size="16" crc="9783aab5" md5="f609d31d2106c5c79d2fd7018f9bdaa8" sha1="912188440ca4ffeb923b5850f92ffc32bec916e2"/>
 	</game>
-	<game name="Ad Sales - 300 - Theme 2 (Italy) (Static Theme) [b]" id="00023">
-		<description>Ad Sales - 300 - Theme 2 (Italy) (Static Theme) [b]</description>
+	<game name="Ad Sales - 300 - Theme 2 (Italy) (Static Theme)" id="00023">
+		<description>Ad Sales - 300 - Theme 2 (Italy) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000IT001</game_id>
-		<rom name="EP9000-NPEO00154_00-300MOV00000IT002.rap" size="16" crc="78bbcf57" md5="3c20bbf7a5a0cefea0f992cd661aa6b9" sha1="1837c50aa6f5411e1b9d00b9733b174d6b01babf" status="baddump"/>
 		<rom name="YwdUmqqsUZzflzzJPgJoBXCBprCzhvvHtNmceKauCrAPPaNmSQVUyOZsDGXftWSi.pkg" size="979136" crc="6bb8bf05" md5="6ff1dfba4f328a1f0385942a38352701" sha1="34f34c53c77596e8b34fadd0f36c146cc4e8a320"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000IT001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 47 Ronin - Theme 1 (Netherlands) (Theme)" id="00024">
 		<description>Ad Sales - 47 Ronin - Theme 1 (Netherlands) (Theme)</description>
@@ -2628,11 +2627,10 @@
 		<rom name="QwQlWGFtdZaUdtOxmDrBAXfKpLKzJmveHpNVKPPDaSZtchlCjExKYmYEBxaAKhzD.pkg" size="940416" crc="61cff8e2" md5="f8cb84263cf43956b418e00db2f000d9" sha1="937713671f39f7c7c51b9cb11d6957f2a6606326"/>
 		<rom name="EP9000-NPEO00101_00-TGRANTURIS000001.rap" size="16" crc="4ed29a8c" md5="19ae9845620702491f4161a170dfda19" sha1="575e1877b4242d2d5356a62062967ab9c6d9307e"/>
 	</game>
-	<game name="Gran Turismo 5 (USA) (Dynamic Theme) [b]" id="00429">
-		<description>Gran Turismo 5 (USA) (Dynamic Theme) [b]</description>
+	<game name="Gran Turismo 5 (USA) (Dynamic Theme)" id="00429">
+		<description>Gran Turismo 5 (USA) (Dynamic Theme)</description>
 		<game_id>UP9000-NPUA70087_00-GT5SHICKDYNTHEME</game_id>
 		<rom name="AKXe2gUpkYPI399p6i4M2GtkRKmUeOA36vBsGxJGmsapuJJxaPQ68rW1bXu4TpNEH1cbBx7e01dijAcbugxC96e9AHqE6vhTHTue3.pkg" size="3366864" crc="6194460f" md5="5a7a2e55a4301af66dc5975df0c16666" sha1="d88571a0eff80b5d58cd24122dcb3ae8d7b48c38"/>
-		<rom name="UP9000-NPUA70087_00-GT5SHICKDYNTHEME.rap" size="16" crc="4b6577bb" md5="7d08e8bbb1ad5ee0940cb49978d14913" sha1="f6d5c6ae05c794782f359334c3bc3b05af64d92a" status="baddump"/>
 	</game>
 	<game name="Gran Turismo 5 - GT Academy Reward 4 (USA) (Theme)" id="00430">
 		<description>Gran Turismo 5 - GT Academy Reward 4 (USA) (Theme)</description>

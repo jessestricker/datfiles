@@ -4,7 +4,7 @@
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20260617-191943</version>
+		<version>20260618-043315</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7827,7 +7827,6 @@
 		<description>Disney Epic Mickey 2 - The Power of Two (Europe)</description>
 		<game_id>EP1006-NPEB00950_00-DISNEYEPICMICKEY</game_id>
 		<rom name="cXfpyLIGMjdjgNufopBLlwBNDBFYtVGgdGxDnZQNHimrbmJAojITyXNlAXbKYlmIDNTAgAwtWkFkANEXtMbxnoLYaNFDKcFJDZjpy.pkg" size="7667416192" crc="3536198a" md5="9ac01324a300529df1b2d847c8ffc21b" sha1="b09281083ae74bccb76ad2f31cfafbeab29f41fc"/>
-		<rom name="EP1006-NPEB00950_00-DISNEYEPICMICKEY.rap" size="16" crc="d6e21ba9" md5="6044b9c894133ccb4befa6b102ccbf04" sha1="efa582e8c9bda2851d1f78c040a4927478b27054"/>
 	</game>
 	<game name="Disney Epic Mickey 2 - The Power of Two (USA)" id="03415">
 		<description>Disney Epic Mickey 2 - The Power of Two (USA)</description>
@@ -7881,7 +7880,6 @@
 		<category>Games</category>
 		<description>Disney Universe - Ultimate Edition (Russia)</description>
 		<game_id>EP1006-NPEB00931_00-DISNEYUNIVERSE00</game_id>
-		<rom name="EP1006-NPEB00931_00-DISNEYUNIVERSE00.rap" size="16" crc="ddc9d43d" md5="14312acc2ddfdd809f16ad8ec9adc4f4" sha1="67cc310d9662b110c393cabc0649a478a841bb66" sha256="5419c3f8bb734b530b68bf3191eb65ade9a7e2f85156da2008c82c7d97bdd2bb"/>
 		<rom name="ZUmBAEbYYRCSYExDotEDiiuMtEalVLbTrAMckSRprtrpcVmLgNjUbWJRNQtMFmUJ.pkg" size="6907456608" crc="9bc9fe6c" md5="c4fc22131b71087b6217c24117825d32" sha1="79520409a049cc7d9f725f1180b9b7c22070b9ee" sha256="e81512efeac42edc6bc74f09371bb4a36312f8fcd3c0a40ad09742aacdc1d50d"/>
 	</game>
 	<game name="Disney Universe - Ultimate Edition (Europe)" id="46055">
@@ -8375,7 +8373,7 @@
 		<description>Dragon Ball Xenoverse (USA)</description>
 		<game_id>UP0700-NPUB31619_00-DRAGONBALLXV0000</game_id>
 		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000_bg_1_274f395a4f050ebfb4a8455e117e833e24d12573.pkg" size="6912425872" crc="c8490cd0" md5="0514c0bd4e607a1af1181d1715869e7e" sha1="86ac65b6f15d60d6d38a03ad0783e039aa48e85a" sha256="6b75a0ceed326ff19224b829a306b36d14b6a4c15149639f40168b0a161d0524" status="verified"/>
-		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000.rap" size="16" crc="065bba8d" md5="06ade52a3620868e1c3844c9bea469a2" sha1="1eed34aa1b30a148deeaac007bcc9e769374be14" sha256="c7fa06658fc4a75eaa5a41da5c0464ebe96e806de64389141d4ef1275c013ab4" status="verified"/>
+		<rom name="UP0700-NPUB31619_00-DRAGONBALLXV0000.rap" size="16" crc="edb603b2" md5="c76cad3a8ca06fc73b80c8fa19fe6fdb" sha1="5f007d22950fedfea0e9614fc84ba87c680109d3" sha256="797fb0afbb1bd24eb4f783a71cc22085bb68329ab1298ccb2316bca2528335ec" status="verified"/>
 	</game>
 	<game name="Dragon Ball Z - Battle of Z (Europe)" id="08133">
 		<description>Dragon Ball Z - Battle of Z (Europe)</description>
@@ -10158,7 +10156,6 @@
 		<description>Falling Skies - The Game (Europe)</description>
 		<game_id>EP4406-NPEB02043_00-FALLINGSKIESEU01</game_id>
 		<rom name="VCPSiSckSPZdaBjrmzvabdcmbeCkErCyWNJkilQqmFZcNLPUfQtninmUrzHFEckj.pkg" size="2193052016" crc="8a894df6" md5="4e674b021cb942b80561a039e6cfbcec" sha1="451a434b656d2a4f274a2e91b3767ce5ee075a49"/>
-		<rom name="EP4406-NPEB02043_00-FALLINGSKIESEU01.rap" size="16" crc="e802c45b" md5="95fa72de3ee10f2e92f3e0be23455b02" sha1="fb05a347ceb3de5bc4c4829ed5882663a7ae6eba"/>
 	</game>
 	<game name="Family Feud (USA)" id="08693">
 		<description>Family Feud (USA)</description>
@@ -10301,7 +10298,6 @@
 		<description>Far Cry 4 - Keys to Kryat (Europe) (Trial)</description>
 		<game_id>EP0001-NPEB01982_00-FC4GAMEPS3000001</game_id>
 		<rom name="ZOcQrUzxusjBuPiqwBDMiFaMSbPtipKkuQTxqpmDoSihZHLAHDHujFuryauzjdEhklBNMlPFAJleFSZQpjUKvTYlNgZFLbmGrpyOr.pkg" size="11348122608" crc="bc6436b1" md5="afd424569dc12bd06421d4d0df880b7c" sha1="a4eb5eb2116484e1a7e90d6b0e1e1ca79bc1faaf"/>
-		<rom name="EP0001-NPEB01982_00-FC4LICENSE000001.rap" size="16" crc="70389321" md5="c83279174bb98d07e72cdbbbde4170ef" sha1="631e6254b0243586161da9617281da89c7354be4"/>
 	</game>
 	<game name="Far Cry 4 - Keys to Kyrat (USA) (Trial)" id="08736">
 		<description>Far Cry 4 - Keys to Kyrat (USA) (Trial)</description>
@@ -11008,7 +11004,6 @@
 	</game>
 	<game name="Final Fantasy XIII-2 (Europe) (Demo)" id="08924">
 		<description>Final Fantasy XIII-2 (Europe) (Demo)</description>
-		<game_id>EP0082-NPEB01223_00-DLOADVERSION0100</game_id>
 		<game_id>EP0082-NPEB90359_00-TRIALVERSION0100</game_id>
 		<rom name="uvMqANjyNWWQSnfJjBgEVHyzavLVSkxmKTsUYERPlrktujZsbGnWMtsWBVSxyozL.pkg" size="1863458720" crc="ac8a60c6" md5="b27d59d2b44173566c30a050aceac72a" sha1="39030007826975c84ba319de9bf40ad92e4da181"/>
 	</game>
@@ -12475,7 +12470,7 @@
 	<game name="Go! Sports Ski (Japan)" id="42288">
 		<category>Games</category>
 		<description>Go! Sports Ski (Japan)</description>
-		<game_id>JP9000-NPJA00009_00-0000000010000101</game_id>
+		<game_id>JP9000-NPJA00009_00-0000000010000100</game_id>
 		<rom name="JP9000-NPJA00009_00-0000000010000100.rap" size="16" crc="26aa86ff" md5="6b8195dc63307276467dff631e3fa743" sha1="fbbf3751f72e0256a703109e8d61c7afb2db8e8e"/>
 		<rom name="kfCVQq6E8cVG9YJQm2fDIjgIqsD3UlgGKIbiQEoktMjumkldvAye6FddVt4xOeemKKM0eDEnDXJSeD4p08hLwyGDN8nIRxhwSbMmI.pkg" size="231735440" crc="228a585e" md5="a1fb17597dbb2d495892d1a6482cb4f6" sha1="13e1480ddcfe4886c40ef6ccb80cd53a9c2f93d2" sha256="e8893f588e936ea6c7e00bea28081876059e7cfd82a5edab469d1c55ad9ebaf5"/>
 	</game>
@@ -14153,7 +14148,6 @@
 		<description>Hell Yeah! Wrath of the Dead Rabbit (Europe) (Trial)</description>
 		<game_id>EP0177-NPEB00831_00-HELLYEAHTRIAL000</game_id>
 		<rom name="fFetMBtlgUFccpsUCgGlGDzCJwweHAqyGWAnBviVHRewrRGZXsbdxSKvAqbomyqG.pkg" size="2842205344" crc="40acc618" md5="8fa5ed8e9d8ad3b89623c11cce0f9ff5" sha1="1a20da2f6874e147ae36e8bbccd030922a6b9258"/>
-		<rom name="EP0177-NPEB00831_00-HELLYEAHKEY00000.rap" size="16" crc="7e694172" md5="6d2229b40c6ce6de8e413155785b2b37" sha1="c5c92f4f90994afc392993fb84585cdacc382442"/>
 	</game>
 	<game name="Hell Yeah! Wrath of the Dead Rabbit (Europe) (Unlock Key)" id="09950">
 		<description>Hell Yeah! Wrath of the Dead Rabbit (Europe) (Unlock Key)</description>
@@ -15460,7 +15454,6 @@
 		<description>Joe Danger 2 - The Movie (Europe) (Trial)</description>
 		<game_id>EP2034-NPEB01167_00-JOEDANGER2HG0001</game_id>
 		<rom name="qPJCwDgomCAStObQypSgUUGdKicmEFSztyMwHNyhitylcdaWjWPNvOARXVhFDnxX.pkg" size="1219688752" crc="0a058f8b" md5="2a5c3ed363ea3970d263a8110f51d225" sha1="49f2479403ee8da30c0452d36e85f191578e006c"/>
-		<rom name="EP2034-NPEB01167_00-JOEDANGER2HGKEY1.rap" size="16" crc="1f4c410a" md5="ab895b07611373ab9a7eb9f8695fe949" sha1="4a59da965c1dfdeae5f6a9a6c340731422776824"/>
 	</game>
 	<game name="Joe Danger 2 - The Movie (USA) (Trial)" id="10371">
 		<description>Joe Danger 2 - The Movie (USA) (Trial)</description>
@@ -15515,7 +15508,6 @@
 		<description>JoJo's Bizarre Adventure - All Star Battle (Europe)</description>
 		<game_id>EP0700-NPEB01922_00-DLG00000000ASB01</game_id>
 		<rom name="iXvJjGgzlmXsEjigzxgmtplCcxmUOViWDugrnVGcFdCThjhwHhaJGFuxnIQdTOAm.pkg" size="2826133312" crc="c73f6e38" md5="9f72804a23b637d717a76da9f08b840c" sha1="7f4bfd7b4d356a766e57ccd1e460da8775447109"/>
-		<rom name="EP0700-NPEB01922_00-DLG00000000ASB01.rap" size="16" crc="8211af34" md5="9759874187db37358f5c22ccfe9b21be" sha1="0a7e9c0607af4356130798a20404531bc35bc9f4"/>
 	</game>
 	<game name="JoJo's Bizarre Adventure - All Star Battle (USA) (Demo)" id="10382">
 		<description>JoJo's Bizarre Adventure - All Star Battle (USA) (Demo)</description>
@@ -18204,7 +18196,6 @@
 	<game name="Madden NFL 16 (Europe)" id="25386">
 		<description>Madden NFL 16 (Europe)</description>
 		<game_id>EP0006-NPEB02209_00-MADDEN16GN3DDREU</game_id>
-		<rom name="EP0006-NPEB02209_00-MADDEN16GN3DDREU.rap" size="16" crc="64722c64" md5="8a4c9aacc45685f2e466b874a7adc3e0" sha1="e4de859d52584afbb1242ce0c705cb8e73fc4208"/>
 		<rom name="EP0006-NPEB02209_00-MADDEN16GN3DDREU_bg_1_a9ae1c1ccdb1dfda6d3be25669640c94c3026cb3.pkg" size="8242765728" crc="bb86307d" md5="dd188a9d4a7b8e26de8d638534c2015f" sha1="9d43e5704ccc80d238cfd624cede8209a28b34f0"/>
 	</game>
 	<game name="Madden NFL 17 (Europe)" id="34124">
@@ -19989,7 +19980,6 @@
 		<description>Monopoly Streets (Europe)</description>
 		<game_id>EP0006-NPEB00750_00-MONOPOLYPSNEU000</game_id>
 		<rom name="qjySWvcpbCEqMopJUiLoLsRcQRKicsqUtfWZfnVTEKZvtpDCtLHuDhHBMJVIqTHL.pkg" size="1196783088" crc="3be8ad58" md5="3d76d7937102a3a9715edb5bb13f026e" sha1="a011fd138c2adcc623a1330df16f64554b525cae"/>
-		<rom name="EP0006-NPEB00750_00-MONOPOLYPSNEU000.rap" size="16" crc="91e66644" md5="7221acd55af2c184c1dfaf547f17dbbd" sha1="0343e3b535e8261b949f9baf56023a25dc5940fc"/>
 	</game>
 	<game name="Monopoly Streets (USA)" id="04328">
 		<description>Monopoly Streets (USA)</description>
@@ -21743,7 +21733,6 @@
 	<game name="NHL Legacy Edition (Europe)" id="25395">
 		<description>NHL Legacy Edition (Europe)</description>
 		<game_id>EP0006-NPEB02237_00-NHLHOCKEY2016DIG</game_id>
-		<rom name="EP0006-NPEB02237_00-NHLHOCKEY2016DIG.rap" size="16" crc="1a096544" md5="07f4bd666fa8013727127247180bae67" sha1="c395859b5f44d2fb3ef575ad27c4deb0218292fd"/>
 		<rom name="EP0006-NPEB02237_00-NHLHOCKEY2016DIG_bg_1_f62e3dbe3b827606e5188d6013b79cda1d5d6276.pkg" size="6700061472" crc="64f0514b" md5="01a2f642c7db4c020181649720ae17f0" sha1="aacc2c3366977c43e57b779f3c66021e2329e410"/>
 	</game>
 	<game name="NHL Legacy Edition (USA)" id="36161">
@@ -21778,7 +21767,6 @@
 		<description>Ni no Kuni - Wrath of the White Witch - 1 of 2 (Europe)</description>
 		<game_id>EP0700-NPEB01158_00-NNKDLFULLGAMEPTB</game_id>
 		<rom name="fAwycMHfiDUZNXCPniJGPKfWRhiVNsKXbaSJQBkfPkRoorneSGwvsscdSaAWrDaq.pkg" size="17036329328" crc="86b86c5c" md5="a3511d91918504ed6fe32b34b00346d2" sha1="89621f532df6c17c638c2b7f7b34cb0022e44854"/>
-		<rom name="EP0700-NPEB01158_00-NNKDLFULLGAMEPTA.rap" size="16" crc="b47c2716" md5="e717314258ffcaa625859930fbf6e537" sha1="aedbc2d16d602c6e0934964f326dee72fd1646b9"/>
 	</game>
 	<game name="Ni no Kuni - Wrath of the White Witch - 2 of 2 (Europe)" id="13601">
 		<description>Ni no Kuni - Wrath of the White Witch - 2 of 2 (Europe)</description>
@@ -21960,7 +21948,6 @@
 		<description>Nobunaga's Ambition - Sphere of Influence (USA)</description>
 		<game_id>UP4108-NPUB31701_00-SOUZOUWPK0000000</game_id>
 		<rom name="UP4108-NPUB31701_00-SOUZOUWPK0000000_bg_1_a1b1652df75461bb027f603ce8184a2ca3762e2e.pkg" size="6732304368" crc="4c62c4a7" md5="58a440232d16fa5605f9a89642600ef0" sha1="3aab54dbc3f88ebe664b3338ccd30a315076babc"/>
-		<rom name="UP4108-NPUB31701_00-SOUZOUWPK0000000.rap" size="16" crc="7b433cbc" md5="cef6b65e03ee0c6f6a7959f9e1cb3d30" sha1="319379000e06851febefcf46ed880781924ae4a3"/>
 	</game>
 	<game name="Noby Noby Boy (Europe)" id="05159">
 		<description>Noby Noby Boy (Europe)</description>
@@ -22347,7 +22334,6 @@
 		<description>Outland (Europe) (Unlock Key)</description>
 		<game_id>EP0001-NPEB00463_00-OUTLAND0PURCHASE</game_id>
 		<rom name="haGhiNJobiTPGoLqUhGgxsPDWGjMfWfnGVbsupAbSzSNPdLLLdefSCjxXdQwVnUK.pkg" size="6080" crc="c3b7119b" md5="2a621af56069e1c40766187e4c2d4833" sha1="ca26d979d9059bea9711e98c33263ccbea90fa87"/>
-		<rom name="EP0001-NPEB00463_00-OUTLAND0PURCHASE.rap" size="16" crc="6204ae8f" md5="7eca0cdec2416bc4a748c6df4e9c5d57" sha1="df6ac6ad48c1fc38df7b509d3908dd53bb7ed492"/>
 	</game>
 	<game name="OutRun - Online Arcade (Europe)" id="05244">
 		<description>OutRun - Online Arcade (Europe)</description>
@@ -22930,7 +22916,6 @@
 		<description>PES 2016 - Pro Evolution Soccer (Europe)</description>
 		<game_id>EP0101-NPEB02305_00-PES2016HG0000000</game_id>
 		<rom name="EP0101-NPEB02305_00-PES2016HG0000000_bg_1_4d7ad9bd02df2d6e656188f1a48708ea7215e37f.pkg" size="9663270720" crc="12b03201" md5="8ae50d3548bc5455b5f14824ed1d09d3" sha1="6d94065500b21a3773fb5ea18d80c64474bb95b6"/>
-		<rom name="EP0101-NPEB02305_00-PES2016HG0000000.rap" size="16" crc="5602ecc3" md5="1988c03fc808ae97dc79f4aaf6c3577d" sha1="c585ba24199d968de1e4251b5929f4db8f49e963"/>
 	</game>
 	<game name="PES 2016 - Pro Evolution Soccer (Asia) (En,Zh,Ko) (Demo)" id="18620">
 		<description>PES 2016 - Pro Evolution Soccer (Asia) (En,Zh,Ko) (Demo)</description>
@@ -24446,7 +24431,7 @@
 	</game>
 	<game name="Puppeteer (Asia) (Demo)" id="05785">
 		<description>Puppeteer (Asia) (Demo)</description>
-		<game_id>HP9000-NPHA80250_00-0000000000000000</game_id>
+		<game_id>HP9000-NPHA80263_00-0000000000000000</game_id>
 		<rom name="LdHVFOxnwpkKbvUzGOMepSIWJWcdExcCnseETucQXlfOoprfrFbNpCfZnDfKChnedoqZVUVcVFXDAwkkFpAYwfBiPUycEqfuBvDsf.pkg" size="1542661136" crc="21c97f81" md5="6b85ad0f18cb1234a5c5427785719755" sha1="5223b3ac62766da60e376a1e31ca5995f258da52"/>
 	</game>
 	<game name="Puppeteer (Europe) (Demo)" id="05786">
@@ -24521,7 +24506,7 @@
 	</game>
 	<game name="Puyo Puyo Tetris (Japan) (Demo)" id="05803">
 		<description>Puyo Puyo Tetris (Japan) (Demo)</description>
-		<game_id>JP0177-NPJB00462_00-PUYOTETRIS000000</game_id>
+		<game_id>JP0177-NPJB90614_00-PUYOTETRIS000000</game_id>
 		<rom name="xlfrUmxkKmSKnBsWpYFhlHMrfVPdovIBlTtzLSAVGfmxZDTEWQDhFwpyyESvrjYliWMYjhMzszUIwZDXAUigtpUFvoOBCxFwvyGOb.pkg" size="381435408" crc="03fd7a55" md5="dbd9650a903c7a21f7754be7bc04905f" sha1="229b6be02cfb0833df573140c58e38ab24bc9f69"/>
 	</game>
 	<game name="Puyo Puyo Tetris (Japan)" id="35374">
@@ -25629,7 +25614,6 @@
 		<description>Rambo - The Video Game (USA)</description>
 		<game_id>UP4060-NPUB31416_00-RAMBOTHEGAME0001</game_id>
 		<rom name="oIKKpmiVaTlPvpOLiDSCZLZUQYbZEzDoVQJjhAXmQoVUDXOPtYazyLJamQYKSwkw.pkg" size="2392644864" crc="738f095d" md5="dcf3394a6b10ae7bd70888f700be875d" sha1="c32edded70bd109eb9848dac84ad7aec6d90570b"/>
-		<rom name="UP4060-NPUB31416_00-RAMBOTHEGAME0001.rap" size="16" crc="416bf815" md5="154cbf1130b6e3cebde7de082e69fb59" sha1="44100c7a73aca42bd158e2372d209912c79e679c"/>
 	</game>
 	<game name="Rampage World Tour (Europe)" id="29205">
 		<description>Rampage World Tour (Europe)</description>
@@ -26770,7 +26754,6 @@
 		<description>Retro City Rampage DX (USA)</description>
 		<game_id>UP2077-NPUB31616_00-RETROCITYRAMPAGE</game_id>
 		<rom name="ZSYLzDIsvDvTFRidmtnlDwzEUAvBFakGYDWDQxyuRUbhdmLrpyumLOmgLYonSsMY.pkg" size="19676320" crc="0a8af5cd" md5="07383bc22ea90e8e6b7e20bcf8d5f46f" sha1="ffeda19195d05f64a76247b70f572e6bad6ee009"/>
-		<rom name="UP2077-NPUB31616_00-RETROCITYRAMPAGE.rap" size="16" crc="8fa4d73d" md5="34b58a7ec5c2d2b4ff54239ea6ab2f3e" sha1="64253ea59b0c4e0e5d825537510572d06e205e9f"/>
 	</game>
 	<game name="Retro City Rampage DX (Europe)" id="35728">
 		<description>Retro City Rampage DX (Europe)</description>
@@ -27518,7 +27501,6 @@
 	<game name="Saint Seiya - Soldiers' Soul (Europe)" id="25412">
 		<description>Saint Seiya - Soldiers' Soul (Europe)</description>
 		<game_id>EP0700-NPEB02291_00-SSSS000000000000</game_id>
-		<rom name="EP0700-NPEB02291_00-SSSS000000000000.rap" size="16" crc="d1559a44" md5="3a31d197f2d1cb53b0901573f513641f" sha1="8f57f304d46ed999c3c8eb31cb3bc8bbbdef9422"/>
 		<rom name="EP0700-NPEB02291_00-SSSS000000000000_bg_1_5018ea2d1a691b52799e8a7e370b10a91ab99de3.pkg" size="5870130608" crc="c92554ab" md5="e2c34cae5f2c18a2ee11e15b1759a485" sha1="5f2f2b12c71f2d3765fb6057c530f19d42703185"/>
 	</game>
 	<game name="Saint Seiya - Soldiers' Soul (USA)" id="28516">
@@ -28459,7 +28441,6 @@
 		<description>Shank 2 (USA) (Trial)</description>
 		<game_id>UP0006-NPUB30646_00-SHANK2HDDFULL001</game_id>
 		<rom name="nmYPOvJWDDkQDZZwPoFIdzaHLUBNsMyKAXNkUNShBakOubxmOGXZZTdmEXqCVRbnETuFOgkDqPWscQFXJNUXTsmrmrjmeNpdiJHxK.pkg" size="1317478400" crc="128ce094" md5="fe89d9e52993e1283d5b38405ba0a9ef" sha1="df2777319035d9bb6e392dd96c951f7f28123be6"/>
-		<rom name="UP0006-NPUB30646_00-SHANK2HDDGKEY001.rap" size="16" crc="db498698" md5="9837c2cb70ae5658ceefc14733336085" sha1="14a18ba33fd5ca072bebe4cc71f0adf46eed7839"/>
 	</game>
 	<game name="Shank 2 (USA) (Unlock Key)" id="07137">
 		<description>Shank 2 (USA) (Unlock Key)</description>
@@ -30363,7 +30344,6 @@
 		<description>Space Ace (Europe)</description>
 		<game_id>EP2043-NPEB00439_00-SPACEACE00000001</game_id>
 		<rom name="qDRjBmJnXAXjYgDJWRQNUYNBxKBzNoDdiaDOcztuWXpAugQNfydaEwSaRPGgJlWi.pkg" size="1084643104" crc="b6af6c9f" md5="fd1f1b35d93dc5eb582c0677563bbfe4" sha1="8578cfd4e12f14033716f3116273b51a8b95032f"/>
-		<rom name="EP2043-NPEB00439_00-SPACEACE00000001.rap" size="16" crc="2fb6e0c8" md5="be500f10f0eda3a093d7d364ff32fbd3" sha1="2412c67c90979686b7cfea4e19cd923afb043aec"/>
 	</game>
 	<game name="Space Ace (USA)" id="07836">
 		<description>Space Ace (USA)</description>
@@ -33019,7 +32999,6 @@
 		<description>Thexder Neo (Europe)</description>
 		<game_id>EP0082-NPEB00173_00-THEXDERNEO000000</game_id>
 		<rom name="AT0MKmgyfEMdwecVxD2Sva4sN4KjgRpCGmm3qAruPgoGIlwWQQTCSBOC0Y7ksJAomEfNriq7JAfsMrxd4lkASRYEFkBfMkY0DWmpG.pkg" size="289798752" crc="d3d068b5" md5="35d56648d150911d87a21f73988c44ae" sha1="058c6ccada298a37e236c0a7487b2874021c26f6"/>
-		<rom name="EP0082-NPEB00173_00-THEXDERNEO000000.rap" size="16" crc="bdfe7a66" md5="90227b8a538a5fe12a7b8b8093b7e299" sha1="29fe769bd5b5cf81eb1b3445d92cffcfa1e43012"/>
 	</game>
 	<game name="Thexder Neo (USA) (En,Fr,Es) (Demo)" id="11902">
 		<description>Thexder Neo (USA) (En,Fr,Es) (Demo)</description>
@@ -35480,7 +35459,6 @@
 	<game name="Voz, La - Vol. 3 (Spain)" id="24669">
 		<description>Voz, La - Vol. 3 (Spain)</description>
 		<game_id>EP1160-NPEB02361_00-GLAVOZVOL3000001</game_id>
-		<rom name="EP1160-NPEB02361_00-GLAVOZVOL3000001.rap" size="16" crc="d66ff4ef" md5="ebfeac04888e609469fce9e1ece53bc2" sha1="e56361c8c3623d9f96ce5907d549defa84b6b622"/>
 		<rom name="EP1160-NPEB02361_00-GLAVOZVOL3000001_bg_1_3dde6f289b7f6fa40f5c109bba4834e88c9a19cf.pkg" size="5501672336" crc="5e5409b8" md5="084fa43c7a1147af26f99941b1b85f91" sha1="e17f55962d48a6bf77f24a2753402c5f54cecb25"/>
 	</game>
 	<game name="VUDU Movies (USA) (v1.02)" id="19346">
@@ -36361,7 +36339,6 @@
 	<game name="World Championship Poker 2 (Europe) (PS2 Classics)" id="45969">
 		<description>World Championship Poker 2 (Europe) (PS2 Classics)</description>
 		<game_id>EP4003-NPED00209_00-GWRDCHPKR2000ENG</game_id>
-		<rom name="EP4003-NPED00209_00-GWRDCHPKR2000ENG.rap" size="16" crc="908d0713" md5="ba64cb48c5bcb003eab0ade5254520ed" sha1="a8b3b0e50009bbc1def6cc3c97f7ea5de61572e2" sha256="88f3b653dae1598a3a39e6905352d07d708ccccc97d6f06c70f57312a63d4ce7"/>
 		<rom name="AhCUVdIoIOOrunITejCOCJWVMbTOMWgzWobPGpUqTCuDLIwhvlfzHuJbIHDXWfRZ.pkg" size="1445522048" crc="7d57bd4e" md5="e769e6c55a0dc40f0b2241c7272a896c" sha1="9e73c7e8297aba861779bcc3e9de4321db40bfa1" sha256="ecf9f5cf52f7901a10568b65a1378367554c01feaa9648a539b354b658c0c72f"/>
 	</game>
 	<game name="World Championship Poker 2 (Germany) (PS2 Classics)" id="12950">
@@ -36413,7 +36390,6 @@
 	<game name="World Snooker Championship 2005 (Europe) (PS2 Classics)" id="45968">
 		<description>World Snooker Championship 2005 (Europe) (PS2 Classics)</description>
 		<game_id>EP4068-NPED00153_00-GWORLDSNOO000ENG</game_id>
-		<rom name="EP4068-NPED00153_00-GWORLDSNOO000ENG.rap" size="16" crc="5167ee15" md5="a0fb743ecef585673ee07e532df633ea" sha1="65f1852bebebe7e4d3b5a9e0287f40e01efc0095" sha256="7ec2d46a1a0cbcc3cde4f136bc38c149ef8b9b4bd7068902d568f512bd177784"/>
 		<rom name="NClquBfeoieNBVONYEfpiVPRpfEinpDdcEesiwFwWThCaYpsjacrycOBriGeqtzy.pkg" size="1812884592" crc="75f312b3" md5="7a1bf0919e250f2eba81895715a91862" sha1="a89ed0d87bcfcc629fce23d27aaab1e87da0ad88" sha256="52702a3b09e0feb4f1c4f722703ff03609c749385e3cf701a0c1e65ec80a6bb7"/>
 	</game>
 	<game name="World Snooker Championship 2005 (Germany) (PS2 Classics)" id="12952">
@@ -37427,8 +37403,7 @@
 	<game name="Zen Pinball 2 - Marvel's Women of Power (USA) (Unlock Key)" id="32826">
 		<description>Zen Pinball 2 - Marvel's Women of Power (USA) (Unlock Key)</description>
 		<game_id>UP4042-NPUB30573_00-ZENPINBALL2WOP0K</game_id>
-		<rom name="UP4042-NPUB30573_00-ZENPINBALL2WOP0K_bg_1_6ba94a26a876a084834d2846aef591d10679d0ea.pkg" size="102400" crc="69d9d157" md5="9b504445ea87f0278d9701ef54c01a54" sha1="090316fcaadbeeba94e61bd95bfab5d828280e32" sha256="eb6ad3a40982a08de3d14071878e0ff242de9ccea31686688af756d1d9271aff" status="verified"/>
-		<rom name="UP4042-NPUB30573_00-ZENPINBALL2WOP0K.rap" size="16" crc="0b9d93b8" md5="159e6345d173e4626b4782f8a274c5c9" sha1="6a40dbe821c3c068dbb2b0f75620baa3ec13993d" sha256="4e24d5897764fc3de47d0c21ba64daec7f0b13578ea513e9d8e7e19f67d31115" status="verified"/>
+		<rom name="UP4042-NPUB30573_00-ZENPINBALL2WOP0K_bg_1_6ba94a26a876a084834d2846aef591d10679d0ea.pkg" size="102400" crc="69d9d157" md5="9b504445ea87f0278d9701ef54c01a54" sha1="090316fcaadbeeba94e61bd95bfab5d828280e32" sha256="eb6ad3a40982a08de3d14071878e0ff242de9ccea31686688af756d1d9271aff"/>
 	</game>
 	<game name="Zen Pinball 2 - Ninja Gaiden Sigma 2 (Europe) (Unlock Key)" id="22616">
 		<description>Zen Pinball 2 - Ninja Gaiden Sigma 2 (Europe) (Unlock Key)</description>
