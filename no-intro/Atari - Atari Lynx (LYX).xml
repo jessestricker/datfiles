@@ -4,7 +4,7 @@
 		<id>30</id>
 		<name>Atari - Atari Lynx (LYX)</name>
 		<description>Atari - Atari Lynx (LYX)</description>
-		<version>20260618-134638</version>
+		<version>20260619-102312</version>
 		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -467,6 +467,18 @@
 		<category>Games</category>
 		<description>Pac-Land (USA, Europe)</description>
 		<rom name="Pac-Land (USA, Europe).lyx" size="131072" crc="aa50dd22" md5="0a14754b351b4f11a1359e252b8eb992" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d" sha256="80ace346498874d7ec5774c9565804f4b0cbdb42ed1448e19c8e5410db467491"/>
+	</game>
+	<game name="Pac-Land (USA, Europe) (Beta) (1991-05-02)" id="0452" cloneofid="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pac-Land (USA, Europe) (Beta) (1991-05-02)</description>
+		<rom name="Pac-Land (USA, Europe) (Beta) (1991-05-02).lyx" size="131072" crc="ff96df2b" md5="512cf2f490a27f94809a506ac39613ca" sha1="69be18324f947363ca48ba33f27debebf9dd2e49" sha256="cdd2e2d16a1bff3bc14ba3a36c008eac2ffd15f789b7041a3022870dcc766e90"/>
+	</game>
+	<game name="Pac-Land (USA, Europe) (Beta) (1991-05-03)" id="0453" cloneofid="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pac-Land (USA, Europe) (Beta) (1991-05-03)</description>
+		<rom name="Pac-Land (USA, Europe) (Beta) (1991-05-03).lyx" size="131072" crc="3562ec7a" md5="515bae3a90c6627abaabd1f16af5f1ba" sha1="95074402a47ecfa44c26b1941dd05ca45c6c03cf" sha256="7438bdb923a62a3929fb0fd0cf0caad4dc81bd6cedd58a5e365191b45868dac8"/>
 	</game>
 	<game name="Paperboy (World)" id="0055">
 		<category>Games</category>

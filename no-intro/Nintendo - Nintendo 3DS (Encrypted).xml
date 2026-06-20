@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Encrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Encrypted)</description>
-		<version>20260618-163243</version>
+		<version>20260619-172008</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2261,7 +2261,7 @@
 	<game name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)" id="z227" cloneofid="0203">
 		<description>Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000074600</game_id>
-		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size="1073741824" crc="f4457787" md5="82a43c1edf1d843c89eb9166b53a52be" sha1="ce8b8b345f753e8b4c82876a5942c573c2a19f54" sha256="ef6d69d7e531ce367b9f136f8f0f61db36bee1ee9f7fcf10852be34f385c9648" serial="CTR-P-ATWJ"/>
+		<rom name="Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size="1073741824" crc="f4457787" md5="82a43c1edf1d843c89eb9166b53a52be" sha1="ce8b8b345f753e8b4c82876a5942c573c2a19f54" sha256="ef6d69d7e531ce367b9f136f8f0f61db36bee1ee9f7fcf10852be34f385c9648" mia="yes" serial="CTR-P-ATWJ"/>
 	</game>
 	<game name="Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)" id="0654">
 		<description>Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)</description>
@@ -4863,7 +4863,7 @@
 	<game name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da)" id="1211" cloneofid="z210">
 		<description>LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>000400000014E700</game_id>
-		<rom name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="e638d9ba" md5="fa322ffcec0a7d1a9936a2342e19d7ba" sha1="4aa5c77a898ea902ca7997137a9dd4d3b741cf96" serial="CTR-P-BLSZ"/>
+		<rom name="LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="e638d9ba" md5="fa322ffcec0a7d1a9936a2342e19d7ba" sha1="4aa5c77a898ea902ca7997137a9dd4d3b741cf96" sha256="1a92f2563a6c954f5dd02993f53d515b2bd6ed2151019ea8a688b77a6d280691" status="verified" serial="CTR-P-BLSZ"/>
 	</game>
 	<game name="LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt)" id="1219" cloneofid="z210">
 		<description>LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt)</description>
@@ -6554,7 +6554,7 @@
 	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)" id="0096" cloneofid="1262">
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)</description>
 		<game_id>0004000000030D00</game_id>
-		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="9e898edc" md5="ca4a9192eb99d7f7e0cc8a6a59ea55d5" sha1="cd1aad078f8886a0c28966d65ad06c2b90c9a717" serial="CTR-P-ADAE"/>
+		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="9e898edc" md5="ca4a9192eb99d7f7e0cc8a6a59ea55d5" sha1="cd1aad078f8886a0c28966d65ad06c2b90c9a717" sha256="76cdb4e1174e3ab58f983dfd1ed9da998adafe4608942de4ffe6215916a9d273" serial="CTR-P-ADAE"/>
 	</game>
 	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="0133" cloneofid="1262">
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>

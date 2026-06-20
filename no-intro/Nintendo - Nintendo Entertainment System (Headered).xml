@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260617-064757</version>
+		<version>20260619-134853</version>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5341,10 +5341,10 @@
 		<description>Immortal, The (USA)</description>
 		<rom name="Immortal, The (USA).nes" size="393232" crc="acd54e76" md5="512f142b73390287dea7fa0044aeb490" sha1="56a7b53ee6bea58f3acdb9770b5b400ad211ee3a" sha256="a4df055a748656aadf5813e708eba0d7a2e7fa94488bf8aec86049f7244e259d" status="verified" header="4E 45 53 1A 08 20 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Impossible Mission II (USA) (Unl)" id="1052">
+	<game name="Impossible Mission II (USA, Australia) (Unl)" id="1052">
 		<category>Games</category>
-		<description>Impossible Mission II (USA) (Unl)</description>
-		<rom name="Impossible Mission II (USA) (Unl).nes" size="131088" crc="efdce948" md5="e9ae4c58ad1c073645af4e919ce38046" sha1="8ff147e08cb97a9c14677ec866b2974341dbbba1" sha256="8f7c90ec942e3afd6ed00decc170005b0b5d7ad2d27b92c060e7d0e0c00a7487" status="verified" header="4E 45 53 1A 04 08 21 28 10 00 07 00 00 00 00 01"/>
+		<description>Impossible Mission II (USA, Australia) (Unl)</description>
+		<rom name="Impossible Mission II (USA, Australia) (Unl).nes" size="131088" crc="efdce948" md5="e9ae4c58ad1c073645af4e919ce38046" sha1="8ff147e08cb97a9c14677ec866b2974341dbbba1" sha256="8f7c90ec942e3afd6ed00decc170005b0b5d7ad2d27b92c060e7d0e0c00a7487" status="verified" header="4E 45 53 1A 04 08 21 28 10 00 07 00 00 00 00 01"/>
 	</game>
 	<game name="Incredible Crash Dummies, The (Europe)" id="1054">
 		<category>Games</category>

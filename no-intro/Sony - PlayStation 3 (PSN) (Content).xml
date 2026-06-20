@@ -4,7 +4,7 @@
 		<id>90</id>
 		<name>Sony - PlayStation 3 (PSN) (Content)</name>
 		<description>Sony - PlayStation 3 (PSN) (Content)</description>
-		<version>20260618-043315</version>
+		<version>20260619-213944</version>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21193,6 +21193,11 @@
 		<rom name="nDrHYIpWZzHJDlpgtQWwDHIXHrBlKHckWWqYNWEkWnRQFOznffJDjRMHyiaqXKKC.pkg" size="6080" crc="747b94d1" md5="f3b84a4b8ca0fe4212dd3e412ba70369" sha1="d7ca11b9dea87f6b144986e65968090b0981bb47" sha256="67d0d24b023fc05e1dfdc9a68f3b85d75d193c75f1078b3010d461b73cad2b08"/>
 		<rom name="EP0006-NPEB00650_00-NBAJAMEU00000001.rap" size="16" crc="1680670d" md5="a21ddbe65d34802dfc8bffb512cbe617" sha1="50dc8c0a9406a1333d7601959286a5d6ea198267" sha256="c8c5a19c7e12bac5808d34c9e53a8523ceabad053e53f3dedb0a512511364de6"/>
 	</game>
+	<game name="NBA Jam - On Fire Edition (Asia) (Unlock Key)" id="46062">
+		<description>NBA Jam - On Fire Edition (Asia) (Unlock Key)</description>
+		<game_id>HP0006-NPHB00271_00-NBAJAMROA0000001</game_id>
+		<rom name="HP0006-NPHB00271_00-NBAJAMROA0000001.rap" size="16" crc="ecbb4b55" md5="4ae71336e44bf9bf79d2752e234818a5" sha1="e129f27c5103bc5cc44bcdf0a15e160d445066ff" sha256="374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb"/>
+	</game>
 	<game name="NBA Jam - On Fire Edition (Asia) (Trial)" id="35575">
 		<description>NBA Jam - On Fire Edition (Asia) (Trial)</description>
 		<game_id>HP0006-NPHB00271_00-NBAJAMROA0000000</game_id>
@@ -32446,7 +32451,7 @@
 	<game name="Tales of Zestiria (Europe)" id="25421">
 		<description>Tales of Zestiria (Europe)</description>
 		<game_id>EP0700-NPEB02235_00-TOZESTIRIAHDD001</game_id>
-		<rom name="EP0700-NPEB02235_00-TOZESTIRIAHDD001.rap" size="16" crc="2ec97e7b" md5="124bbf2afa0c8f29c48f8ef62dd97156" sha1="de9cfaba85bc1c6bdbeaf1cdbd6498a12abd0f3f"/>
+		<rom name="EP0700-NPEB02235_00-TOZESTIRIAHDD001_bg_1_73692fd7181e83cc85d3fe410ad808903ed213b7.pkg" size="9379561680" crc="cf8f7705" md5="ca61dc00b2b2afbba0b1d91bd2cd721b" sha1="c6cea8ea92f3a88755080cb40d2b3bdb355a99c7" sha256="f466f6d27a61c927538153779573a771db5809373bf5665f3b80c2cf28f7ddda"/>
 		<rom name="EP0700-NPEB02235_00-TOZESTIRIAHDD001.rap" size="16" crc="078cf35e" md5="7fc965be0bf223c1cfc9acf6d6b9808b" sha1="57fce1a04e40bb83f833627c7c343a34f3bb8b9a" sha256="4d396c11cc85d9963ae54b634b93113239ce245adbb3a3b63d44b90a29c33a76"/>
 	</game>
 	<game name="Tamamayu Monogatari 2 - Horobi no Mushi (Japan) (PS2 Classics)" id="45942">

@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>77</id>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20260529-131500</version>
+		<version>20260619-093425</version>
 		<author>1988reload, Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] BS-X - Sore wa Namae o Nusumareta Machi no Monogatari (Japan) (Rev 1)" id="3962">
@@ -1069,6 +1071,11 @@
 		<category>Magazines</category>
 		<description>Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine)</description>
 		<rom name="Game Tora no Chou Ooana (1996-9-8, Part 2) + SateSupo DX - Dai-2-gou (9-8) (Japan) (SoundLink Magazine, Magazine).bs" size="1048576" crc="fd5afe1b" md5="7b8a63f6260cf28749998fdf3fd42c69" sha1="4224ccc27476c971d3ad50b7a4e266b6b4e53682" sha256="a87c71c0f15d7f27270eee2025b34ce3c0199c2f5487ae9fd4c130bf534ca162"/>
+	</game>
+	<game name="Game Tora no Ooana (1995-5-19) + Uchida Yuki (1995-7-22) (Japan) (SoundLink Magazine)" id="3989">
+		<category>Multimedia</category>
+		<description>Game Tora no Ooana (1995-5-19) + Uchida Yuki (1995-7-22) (Japan) (SoundLink Magazine)</description>
+		<rom name="Game Tora no Ooana (1995-5-19) + Uchida Yuki (1995-7-22) (Japan) (SoundLink Magazine).bs" size="1048576" crc="f9aa48de" md5="7e7fa6d909447329f50031090a32755c" sha1="3cc6c76170b6002dacb1c30f61488d3a230604eb" sha256="80445acd502f0c2b30662261b69559ff9960c0420955271806775182be2cb3cd"/>
 	</game>
 	<game name="Game Tora no Ooana (1995-6-20) + Izumiya Shigeru &amp; Hamasaki Ayumi - Okami Ga Kita!! (1995-6-18) (Japan) (SoundLink Magazine) [b]" id="3840">
 		<category>Magazines</category>
