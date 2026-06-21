@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>423</id>
 		<name>Nintendo - Wii (Development Kit Hard Drives)</name>
 		<description>Nintendo - Wii (Development Kit Hard Drives)</description>
-		<version>20250827-140352</version>
+		<version>20260620-143711</version>
 		<author>Hiccup, NovaAurora, rarenight, relax</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Factory Test NAND (Japan)" id="0158">
@@ -1115,6 +1117,10 @@
 	<game name="Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)" id="0178">
 		<description>Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)</description>
 		<rom name="Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk).iso" size="1023639552" crc="271e35db" md5="4ce487ac512dea6d48844f87daee54a1" sha1="01da07598542c21684bd625ba51de24ed0edb618"/>
+	</game>
+	<game name="Need for Speed - Nitro (USA) (Beta) (2009-03-11)" id="0186">
+		<description>Need for Speed - Nitro (USA) (Beta) (2009-03-11)</description>
+		<rom name="Need for Speed - Nitro (USA) (Beta) (2009-03-11).iso" size="4294967296" crc="be979446" md5="053656a8ae4fa1537c853610fba5d428" sha1="10f6568fee4cca97e67d8b94c83a49545555b8ff" sha256="83a61d197a5a9f8f890dbbdf681ba81502ca7cec00ad71700a6bcaa4229b8c1a" serial="RVSE69"/>
 	</game>
 	<game name="Netflix (USA) (Beta) (v1280)" id="0123">
 		<description>Netflix (USA) (Beta) (v1280)</description>

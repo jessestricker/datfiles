@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260619-194010</version>
+		<version>20260620-161901</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2849,7 +2849,7 @@
 	</game>
 	<game name="Bleach - The Blade of Fate (Europe) (En,Fr,De,Es,It)" id="2059">
 		<description>Bleach - The Blade of Fate (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Bleach - The Blade of Fate (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="2a0a9c96" md5="c551e4ed0676d0a75bdfc401528ad78c" sha1="e2829ee20f465a6f52d7e81ebc147f1a68f57354" serial="ABLP"/>
+		<rom name="Bleach - The Blade of Fate (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="2a0a9c96" md5="c551e4ed0676d0a75bdfc401528ad78c" sha1="e2829ee20f465a6f52d7e81ebc147f1a68f57354" sha256="2cc185edd9121cd2a7241fdace1549126901bfb3bb651b6b3e20a94fb3e40985" status="verified" serial="ABLP"/>
 	</game>
 	<game name="Bleach - The Blade of Fate (USA)" id="1491" cloneofid="2059">
 		<description>Bleach - The Blade of Fate (USA)</description>
@@ -4844,21 +4844,28 @@
 		<description>CodeBreaker DS (World) (v1.0.1) (Unl) [b]</description>
 		<rom name="CodeBreaker DS (World) (v1.0.1) (Unl) [b].nds" size="2097152" crc="d656d924" md5="edf23530aced69d00be0cd8993c8b731" sha1="ee83c03a97b348e0e49607d73271d5d9bc17f45e" status="baddump" serial="CBDS"/>
 	</game>
-	<game name="CodeBreaker DS Lite (World) (Unl)" id="z181" cloneofid="z182">
-		<description>CodeBreaker DS Lite (World) (Unl)</description>
-		<rom name="CodeBreaker DS Lite (World) (Unl).nds" size="2097152" crc="65831b34" md5="1bc85b9b14b35ff7fcd5a602b4ff51e9" sha1="eeefd9cff31baa7fc18cdd2beecf2821540c00af" serial="CBDS"/>
+	<game name="CodeBreaker DS Lite (World) (Unl) [b]" id="z181" cloneofid="z182">
+		<description>CodeBreaker DS Lite (World) (Unl) [b]</description>
+		<rom name="CodeBreaker DS Lite (World) (Unl) [b].nds" size="2097152" crc="65831b34" md5="1bc85b9b14b35ff7fcd5a602b4ff51e9" sha1="eeefd9cff31baa7fc18cdd2beecf2821540c00af" status="baddump" serial="CBDS"/>
 	</game>
 	<game name="CodeBreaker DS v2 (World) (v2.0.0) (Unl) [b]" id="z182">
 		<description>CodeBreaker DS v2 (World) (v2.0.0) (Unl) [b]</description>
 		<rom name="CodeBreaker DS v2 (World) (v2.0.0) (Unl) [b].nds" size="2097152" crc="4a6081f5" md5="2e0e628a568457ecd81c732f2460a33a" sha1="fb8ca8ace2e80db5a90fa972f4416bbfe30beb71" status="baddump" serial="CBDS"/>
 	</game>
-	<game name="CodeFreak DS (Japan) (Unl)" id="z083">
-		<description>CodeFreak DS (Japan) (Unl)</description>
-		<rom name="CodeFreak DS (Japan) (Unl).nds" size="2097152" crc="fb2ea73f" md5="2471e83c62229e439bc769abd0523a34" sha1="7f77b287ce7807290a706e1a76d2145feb387e97" serial="CBDS"/>
+	<game name="CodeFreak DS (Japan) (Unl) [b]" id="z083">
+		<category>Add-Ons</category>
+		<description>CodeFreak DS (Japan) (Unl) [b]</description>
+		<rom name="CodeFreak DS (Japan) (Unl) [b].nds" size="2097152" crc="fb2ea73f" md5="2471e83c62229e439bc769abd0523a34" sha1="7f77b287ce7807290a706e1a76d2145feb387e97" sha256="33cc6d06ad1150098cd5b6b54b435e69721dacff61ab833b7ba0c19937ecd150" status="baddump" serial="CBDS"/>
 	</game>
-	<game name="CodeFreak DS Type II (Japan) (Unl)" id="z084">
-		<description>CodeFreak DS Type II (Japan) (Unl)</description>
-		<rom name="CodeFreak DS Type II (Japan) (Unl).nds" size="2097152" crc="5e2d1c57" md5="a6eb7d19bc0a107cfd8c35d47e016a94" sha1="1d1637904747d5c2c096440c1f590d40cc3e6e05" serial="CBDS"/>
+	<game name="CodeFreak DS Type II (Japan) (Unl) [b]" id="z084">
+		<category>Add-Ons</category>
+		<description>CodeFreak DS Type II (Japan) (Unl) [b]</description>
+		<rom name="CodeFreak DS Type II (Japan) (Unl) [b].nds" size="2097152" crc="5e2d1c57" md5="a6eb7d19bc0a107cfd8c35d47e016a94" sha1="1d1637904747d5c2c096440c1f590d40cc3e6e05" sha256="1d0c9f2ca30b3d3d52be0c3f52780e76a16893f408e1591bae0a53f3e4809d6d" status="baddump" serial="CBDS"/>
+	</game>
+	<game name="CodeFreak DS Type II (Japan) (Unl) (Alt) [b]" id="z683" cloneofid="z084">
+		<category>Add-Ons</category>
+		<description>CodeFreak DS Type II (Japan) (Unl) (Alt) [b]</description>
+		<rom name="CodeFreak DS Type II (Japan) (Unl) (Alt) [b].nds" size="2097152" crc="64b65fe1" md5="5f3ee3db6458b5f3fd86a3cbbbf1535e" sha1="442b586b78684d248118e58ed083a84f19d8f279" sha256="80f132a9842531fdc037dd470b1fa4e9a1d09fc8af36e4cf1636cbb345d0b7dc" status="baddump" serial="CBDS"/>
 	</game>
 	<game name="Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It)" id="4176">
 		<description>Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It)</description>
@@ -11185,9 +11192,10 @@
 		<description>I Spy - Universe (USA)</description>
 		<rom name="I Spy - Universe (USA).nds" size="16777216" crc="2292507b" md5="6e664f0674af51d57c431eb770aaefb2" sha1="44ce4e823e65ddbffc26833b96dbd2e810aad539" serial="BIUE"/>
 	</game>
-	<game name="i-Cheat Games (World) (Unl) [b]" id="z669">
-		<description>i-Cheat Games (World) (Unl) [b]</description>
-		<rom name="i-Cheat Games (World) (Unl) [b].nds" size="2097152" crc="5fcaad1d" md5="5b0dd4cf9ba751170b5b2ffb0c11b094" sha1="97521658c49367564700913c9812ae35eaf51989" sha256="19eb5e0b7c97009abf7796c455eaaec5a6c561fdb0caae3406aa9c533e2fa008" status="baddump" serial="CBDS"/>
+	<game name="i-Cheat Games (Germany) (Unl)" id="z669">
+		<category>Add-Ons</category>
+		<description>i-Cheat Games (Germany) (Unl)</description>
+		<rom name="i-Cheat Games (Germany) (Unl).nds" size="2097152" crc="398ac7bf" md5="713b184dcd79de0d99a8e7b53a53c872" sha1="b93868c468e4ab05ac8cf1c50e35beedc475bd72" sha256="3ce3a9006dfbe5889b3aac88cd0f8719f22e158858920c8432ffe6b4de82445e" serial="CBDS"/>
 	</game>
 	<game name="I'm a Celebrity - Get Me Out of Here! (Europe)" id="4888">
 		<description>I'm a Celebrity - Get Me Out of Here! (Europe)</description>
@@ -13616,7 +13624,7 @@
 	</game>
 	<game name="Know How 2 (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="5606">
 		<description>Know How 2 (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="Know How 2 (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="2bd35e38" md5="934886fb95d467f4d53659ac3c828142" sha1="2f18d3ae0e0189a54607e9f7f555a8a2d86e06e1" serial="VKHP"/>
+		<rom name="Know How 2 (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="2bd35e38" md5="934886fb95d467f4d53659ac3c828142" sha1="2f18d3ae0e0189a54607e9f7f555a8a2d86e06e1" sha256="6618b4de4030673f6ded6aa7fbb316dac822d2be0231e7bb51e0eeab8254f83a" serial="VKHP"/>
 	</game>
 	<game name="Kobun Kanbun DS (Japan)" id="4749">
 		<description>Kobun Kanbun DS (Japan)</description>
@@ -14875,7 +14883,7 @@
 	</game>
 	<game name="Little Bears (Europe) (En,Fr,De,Es,It)" id="3651">
 		<description>Little Bears (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Little Bears (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="2c020805" md5="28a4be3b10cb1370a4a5a9b5d81bc317" sha1="98753a374c679420f140b31b64c17cd6f96539c5" serial="C5BP"/>
+		<rom name="Little Bears (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="2c020805" md5="28a4be3b10cb1370a4a5a9b5d81bc317" sha1="98753a374c679420f140b31b64c17cd6f96539c5" sha256="2a4702298dbf74bba557ae4bafb3ec8d8128866374a93d5621e24d2c52c48ac4" status="verified" serial="C5BP"/>
 	</game>
 	<game name="Little Bears (USA) (En,Fr,Es)" id="5504" cloneofid="3651">
 		<description>Little Bears (USA) (En,Fr,Es)</description>
@@ -18748,7 +18756,7 @@
 	</game>
 	<game name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)" id="2736">
 		<description>Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f" serial="ANRP"/>
+		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="60400db2" md5="0c3316a37294abb08cdb1f78eca82a74" sha1="2ef0bea2886e360077ef415916e5f7db45417a1f" sha256="7d7e8c1c2fa50b6def1f426685afb17b64cfa81ad0953bb3b0d3795aa7cc9300" status="verified" serial="ANRP"/>
 	</game>
 	<game name="Naruto - Ninja Council 3 (USA)" id="1096" cloneofid="1470">
 		<description>Naruto - Ninja Council 3 (USA)</description>
@@ -21222,7 +21230,7 @@
 	</game>
 	<game name="Planet 51 - The Game (Europe) (En,Fr,De,Es,It)" id="4396">
 		<description>Planet 51 - The Game (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Planet 51 - The Game (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="8eb65028" md5="f205ef5ab69da6f2b7b6729d536169ef" sha1="80652a736d8fc4703547fee7cb0974e9e2d54b69" serial="BGEP"/>
+		<rom name="Planet 51 - The Game (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="8eb65028" md5="f205ef5ab69da6f2b7b6729d536169ef" sha1="80652a736d8fc4703547fee7cb0974e9e2d54b69" sha256="3f4b9b14b6d52942488b8443453cf01fc204b59f786cb1f108215bbae16daa14" status="verified" serial="BGEP"/>
 	</game>
 	<game name="Planet 51 - The Game (USA) (En,Fr,Es)" id="4470" cloneofid="4396">
 		<description>Planet 51 - The Game (USA) (En,Fr,Es)</description>
@@ -25225,7 +25233,7 @@
 	</game>
 	<game name="Sims 3, The (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="5291">
 		<description>Sims 3, The (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
-		<rom name="Sims 3, The (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="134217728" crc="fcbfa6e2" md5="0c0522113537d32876123a67578284ef" sha1="4e8d9ccf113fa859991433b90568d7ab7a36f773" serial="VS3V"/>
+		<rom name="Sims 3, The (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="134217728" crc="fcbfa6e2" md5="0c0522113537d32876123a67578284ef" sha1="4e8d9ccf113fa859991433b90568d7ab7a36f773" sha256="f5e8864e707123a1fb1482b32df65ae24ec79527c57db8d7b236ef5a28086f8d" serial="VS3V"/>
 	</game>
 	<game name="Sims 3, The (USA) (En,Fr,Es) (NDSi Enhanced)" id="5794" cloneofid="5291">
 		<description>Sims 3, The (USA) (En,Fr,Es) (NDSi Enhanced)</description>
@@ -26390,11 +26398,11 @@
 	</game>
 	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1)" id="6757" cloneofid="3214">
 		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1)</description>
-		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1).nds" size="16777216" crc="f01d18cc" md5="b6f810022fcfeaf889f0b46770b21531" sha1="55cfd09249c08fb6eb443e419027b8e04d58d673" serial="CLGW"/>
+		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1).nds" size="16777216" crc="f01d18cc" md5="b6f810022fcfeaf889f0b46770b21531" sha1="55cfd09249c08fb6eb443e419027b8e04d58d673" sha256="0962096434114695216a095bd3d0dc1d352cc08e287bb4f74995860a8b076fe0" serial="CLGW"/>
 	</game>
 	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru)" id="4120" cloneofid="3214">
 		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru)</description>
-		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru).nds" size="67108864" crc="1bab670e" md5="8309d0e476bf9ab901222f7db0e98b0e" sha1="83ca0702f86ae1e881e2f01e2e9ad43c867e87c8" status="verified" serial="CLGW"/>
+		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru).nds" size="67108864" crc="1bab670e" md5="8309d0e476bf9ab901222f7db0e98b0e" sha1="83ca0702f86ae1e881e2f01e2e9ad43c867e87c8" sha256="5244db01728d26bfc196325b454f2fc2922e3196b7b25cc725930e5510ef7e62" status="verified" serial="CLGW"/>
 	</game>
 	<game name="Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)" id="6234">
 		<description>Successfully Learning Mathematics - Year 2+3 (Europe) (En,Fr,De,Es,It,Tr)</description>
@@ -27790,7 +27798,7 @@
 	</game>
 	<game name="TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl)" id="1060">
 		<description>TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="db6aaabd" md5="0887fb566ad5b7fdd0572b0dc070473f" sha1="996ccde1d05292f2b51ba6cee9c653840c85b6a3" serial="AN6P"/>
+		<rom name="TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="db6aaabd" md5="0887fb566ad5b7fdd0572b0dc070473f" sha1="996ccde1d05292f2b51ba6cee9c653840c85b6a3" sha256="1c731534715f1ad578fe8364c8527f16de2fc8845fecfc7e9cf714b2bae3edf2" status="verified" serial="AN6P"/>
 	</game>
 	<game name="TNA Wrestling Impact! - Cross the Line (USA)" id="5048">
 		<description>TNA Wrestling Impact! - Cross the Line (USA)</description>

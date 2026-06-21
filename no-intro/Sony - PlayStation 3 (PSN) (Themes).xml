@@ -4,7 +4,7 @@
 		<id>446</id>
 		<name>Sony - PlayStation 3 (PSN) (Themes)</name>
 		<description>Sony - PlayStation 3 (PSN) (Themes)</description>
-		<version>20260618-031614</version>
+		<version>20260620-225551</version>
 		<author>buckwheat, emstan784, FakeShemp, Landcross, norkmetnoil577, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -15,8 +15,7 @@
 	<game name="40's WWII Pinups (USA) (Theme)" id="00001">
 		<description>40's WWII Pinups (USA) (Theme)</description>
 		<game_id>UT0002-NPUP00002_00-40SWWIIPINUPSTH1</game_id>
-		<rom name="muFLJyKu96vEFoganb4Qt0D6rkC5SeSLkOoYkyYOU9YIV8EkporeSddNHcLDtTduTV8m8h4MBuXRfNxjGAR91Yw2pBy3fcE9qfjGK.pkg" size="4378288" crc="21e710ea" md5="cccc65728bdb67d3f8afa1e0865db26f" sha1="ae8b1872f5dca2a4c04164aba304139bd8a85ac5" sha256="7fe6be71344d20ec90278120e4cafd2f80b3a8f54f76a4513723ebf29671cc9a" status="verified"/>
-		<rom name="UT0002-NPUP00002_00-40SWWIIPINUPSTH1.rap" size="" status="verified" mia="yes"/>
+		<rom name="muFLJyKu96vEFoganb4Qt0D6rkC5SeSLkOoYkyYOU9YIV8EkporeSddNHcLDtTduTV8m8h4MBuXRfNxjGAR91Yw2pBy3fcE9qfjGK.pkg" size="4378288" crc="21e710ea" md5="cccc65728bdb67d3f8afa1e0865db26f" sha1="ae8b1872f5dca2a4c04164aba304139bd8a85ac5" sha256="7fe6be71344d20ec90278120e4cafd2f80b3a8f54f76a4513723ebf29671cc9a"/>
 	</game>
 	<game name="Abstract Art (Asia) (Dynamic Theme)" id="00002">
 		<description>Abstract Art (Asia) (Dynamic Theme)</description>
@@ -63,7 +62,6 @@
 		<description>Ad Sales - 300 (Russia) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOVDYN00000RU</game_id>
 		<rom name="IJsUYptTvYpdxYQbxXbCfvyUEcwqwVnvWfjvGRneHZRmvgdUxZnONVUvqRNQSeNZ.pkg" size="6074592" crc="3143fa35" md5="1248e32c5f27117bb6763d303df5b107" sha1="9029153203c3b4b1d8bdf1c131d800b1d3b37e4d" sha256="83d99a70c7831104a079ceb6700c147b9289fb908fd5be1a6cd651c2ffba8af4"/>
-		<rom name="EP9000-NPEO00154_00-300MOVDYN00000RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 (Europe) (Dynamic Theme)" id="00010">
 		<description>Ad Sales - 300 (Europe) (Dynamic Theme)</description>
@@ -75,7 +73,6 @@
 		<description>Ad Sales - 300 (France) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOVDYN00000FR</game_id>
 		<rom name="iUbrhQoDzcwrTPREYKILYxZdlqnZKEkEknSHXtDrRMCQZGcmbSwWiiGyGIRAdrbK.pkg" size="6001216" crc="ca4c328b" md5="22e764e99abefa1343016b77129124be" sha1="74b0ca0a9b0c628efddcd2b35bcb6c6bd7f00678"/>
-		<rom name="EP9000-NPEO00154_00-300MOVDYN00000FR.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 (Spain) (Dynamic Theme)" id="00012">
 		<description>Ad Sales - 300 (Spain) (Dynamic Theme)</description>
@@ -99,19 +96,17 @@
 		<description>Ad Sales - 300 (Italy) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000IT002</game_id>
 		<rom name="hPXMKRezHRZzTcAVFjfZlmbMdMelRrCtqnSpqEUJeAaDyaSvWtLEBSFvauGMXWGK.pkg" size="1007728" crc="59c49e5c" md5="f40a59ffe60bc4c05e24971e545bf66e" sha1="eb47bcdfdf06fc98f1f416340ad0c226e272ee42"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000IT002.rap" size="" mia="yes"/>
+		<rom name="EP9000-NPEO00154_00-300MOV00000IT002.rap" size="16" crc="78bbcf57" md5="3c20bbf7a5a0cefea0f992cd661aa6b9" sha1="1837c50aa6f5411e1b9d00b9733b174d6b01babf" sha256="ba23d50ca1f9f7117c7863669fc4641720506d96626caf56727488071300ef0b"/>
 	</game>
 	<game name="Ad Sales - 300 - Theme 1 (Russia) (Static Theme)" id="00016">
 		<description>Ad Sales - 300 - Theme 1 (Russia) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000RU001</game_id>
 		<rom name="ymMPZvxpUAGITfdXapENRrHHrPRjRyaqpjqwItAJnEWMVjMDeMNabfiBYilUHWzc.pkg" size="978880" crc="41f4d992" md5="0a80e0d92059af5b7be36df7db795ef4" sha1="4813b80bf1d13afea55b6e7e40eb48b03d929a0d" sha256="cf7548a144801e7827611a73ae34c58daf9f54f9077cabe6a38884f4cde21b1c"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000RU001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 - Theme 1 (France) (Static Theme)" id="00017">
 		<description>Ad Sales - 300 - Theme 1 (France) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000FR001</game_id>
 		<rom name="BrIJbfSFFKCavVQVpWvAspjsasTjeoDhsWPLLkHVmpWjAJSgQkRXdpGIoflrTWoG.pkg" size="974960" crc="780a6528" md5="db0a624793c716f629a2c5ecddddabd5" sha1="91b8d870d1f4e249afd096f38248f561039f7e2f" sha256="e433dd2b33146023c8a21a6c581d02035caa0c4157f43de8171de29fa0e1a57e"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000FR001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 - Theme 1 (Spain) (Static Theme)" id="00018">
 		<description>Ad Sales - 300 - Theme 1 (Spain) (Static Theme)</description>
@@ -123,13 +118,11 @@
 		<description>Ad Sales - 300 - Theme 2 (Russia) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000RU002</game_id>
 		<rom name="VonJhctJUXkyCkdVFOFMmSabzUHgBDVOQYvaixEjNMUiKznfQiAxteDAkyocqlfm.pkg" size="1008976" crc="be0ad801" md5="20e652e0bcaefe89626c485ded98b13d" sha1="96d5ff9e0081023d28716605027fa02302ad9598" sha256="6031da21a4ba3379f64d2b44a6c450ced24a2123ad032cd503a98f7bb1d12ac4"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000RU002.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 - Theme 2 (France) (Static Theme)" id="00020">
 		<description>Ad Sales - 300 - Theme 2 (France) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000FR002</game_id>
 		<rom name="kwuWjACZiZlMlCXUgkYgCngrFxWoUocoTTgnyMbZGcdtsXoXbjaVqhIQODueCSjV.pkg" size="1005632" crc="f06aaece" md5="46ea88b1322c11375004a0d2db5adaac" sha1="abdc2455f6997f9b2daa967b5619f74bb737af17" sha256="47b17652bf2da35bc7f2d4581e58e80d3eefe4e236be06dda97d259b8830bfbd"/>
-		<rom name="EP9000-NPEO00154_00-300MOV00000FR002.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - 300 - Theme 2 (Europe) (Static Theme)" id="00021">
 		<description>Ad Sales - 300 - Theme 2 (Europe) (Static Theme)</description>
@@ -147,30 +140,27 @@
 		<description>Ad Sales - 300 - Theme 2 (Italy) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-300MOV00000IT001</game_id>
 		<rom name="YwdUmqqsUZzflzzJPgJoBXCBprCzhvvHtNmceKauCrAPPaNmSQVUyOZsDGXftWSi.pkg" size="979136" crc="6bb8bf05" md5="6ff1dfba4f328a1f0385942a38352701" sha1="34f34c53c77596e8b34fadd0f36c146cc4e8a320"/>
+		<rom name="EP9000-NPEO00154_00-300MOV00000IT001.rap" size="16" crc="7572bc5e" md5="eed7cc85018fe6af4b5ebf3a730cad54" sha1="f719e0ea7910af8af9961bfde9cbf681851c4f75" sha256="d42ce13d59a54b62d6690942d869e7cb67ba4a5ba645116599634bb3f5fdf3e1"/>
 	</game>
 	<game name="Ad Sales - 47 Ronin - Theme 1 (Netherlands) (Theme)" id="00024">
 		<description>Ad Sales - 47 Ronin - Theme 1 (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-47RONIN000NL0001</game_id>
-		<rom name="HwbzbtHDTkhOebiuHbmHVOLVlaEsigRTPsXXhOSwvnjFnKBGldABBhiHziMOutRi.pkg" size="1342064" crc="c107deb6" md5="39f196d730f889f06c6d59d4f37b7ccc" sha1="17e998b0b4f6a2264c962f092dc642431aba1547" sha256="2d024c8f051c7860863b67ab1ea33a00714189ec44600108ba9f11a095d25058" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-47RONIN000NL0001.rap" size="" status="verified" mia="yes"/>
+		<rom name="HwbzbtHDTkhOebiuHbmHVOLVlaEsigRTPsXXhOSwvnjFnKBGldABBhiHziMOutRi.pkg" size="1342064" crc="c107deb6" md5="39f196d730f889f06c6d59d4f37b7ccc" sha1="17e998b0b4f6a2264c962f092dc642431aba1547" sha256="2d024c8f051c7860863b67ab1ea33a00714189ec44600108ba9f11a095d25058"/>
 	</game>
 	<game name="Ad Sales - 47 Ronin - Theme 2 (Netherlands) (Theme)" id="00025">
 		<description>Ad Sales - 47 Ronin - Theme 2 (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-47RONIN000NL0002</game_id>
-		<rom name="WQVoMfYDqfQXStLOhhirpBIYVQrjmdZfNlgeLfDVvdIYIhfxPZvUwmkjarLVnguU.pkg" size="1708544" crc="dd7559a9" md5="06e93bd5f6a67ecbbe782ba64f395b34" sha1="c57b60268862cabd96900bf0d0dfd57e9f4a4695" sha256="3888ca2b03a99a88cd87139e646cb7bba79f371740dfe8fa39e36ac4c40f4dd4" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-47RONIN000NL0002.rap" size="" status="verified" mia="yes"/>
+		<rom name="WQVoMfYDqfQXStLOhhirpBIYVQrjmdZfNlgeLfDVvdIYIhfxPZvUwmkjarLVnguU.pkg" size="1708544" crc="dd7559a9" md5="06e93bd5f6a67ecbbe782ba64f395b34" sha1="c57b60268862cabd96900bf0d0dfd57e9f4a4695" sha256="3888ca2b03a99a88cd87139e646cb7bba79f371740dfe8fa39e36ac4c40f4dd4"/>
 	</game>
 	<game name="Ad Sales - 47 Ronin - Theme 3 (Netherlands) (Theme)" id="00026">
 		<description>Ad Sales - 47 Ronin - Theme 3 (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-47RONIN000NL0003</game_id>
-		<rom name="eBKpWCPMmnMQXplAfyZaYzfDbhviTYRhsWvXTSIcUFgZJUMWQKwdXgRmNjjSaVWt.pkg" size="1735264" crc="581b5efa" md5="2dab4a6e01c4b760bedfed25599d6390" sha1="77f4d62cf9d19872834f11e4f214eab34d67442b" sha256="8852a46613fc345dee3d7405d1ce3fc9685d2abe407295be79b115d79dea7ece" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-47RONIN000NL0003.rap" size="" status="verified" mia="yes"/>
+		<rom name="eBKpWCPMmnMQXplAfyZaYzfDbhviTYRhsWvXTSIcUFgZJUMWQKwdXgRmNjjSaVWt.pkg" size="1735264" crc="581b5efa" md5="2dab4a6e01c4b760bedfed25599d6390" sha1="77f4d62cf9d19872834f11e4f214eab34d67442b" sha256="8852a46613fc345dee3d7405d1ce3fc9685d2abe407295be79b115d79dea7ece"/>
 	</game>
 	<game name="Ad Sales - 47 Ronin - Theme 4 (Netherlands) (Theme)" id="00027">
 		<description>Ad Sales - 47 Ronin - Theme 4 (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-47RONIN000NL0004</game_id>
-		<rom name="JfpHXXbBUdHyuuNlIgsmRnMnGXxeqUsspuvYIUcppuBMRCPFgtxTnWArqDhjhfFo.pkg" size="1279056" crc="2db594d8" md5="f9f6411b2e02cd00fc73c7512342b249" sha1="30275abeb480245ab59acaa9ef5d8fda5c67bdb8" sha256="e5516251e97371c23658fdd242e466381c79aac85b5adf726a85de6aada2a325" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-47RONIN000NL0004.rap" size="" status="verified" mia="yes"/>
+		<rom name="JfpHXXbBUdHyuuNlIgsmRnMnGXxeqUsspuvYIUcppuBMRCPFgtxTnWArqDhjhfFo.pkg" size="1279056" crc="2db594d8" md5="f9f6411b2e02cd00fc73c7512342b249" sha1="30275abeb480245ab59acaa9ef5d8fda5c67bdb8" sha256="e5516251e97371c23658fdd242e466381c79aac85b5adf726a85de6aada2a325"/>
 	</game>
 	<game name="Ad Sales - Audi R8 - Design 1 (Europe) (Theme)" id="00028">
 		<description>Ad Sales - Audi R8 - Design 1 (Europe) (Theme)</description>
@@ -229,8 +219,7 @@
 	<game name="Ad Sales - Batman v Superman (Belgium) (En) (Dynamic Theme)" id="00037">
 		<description>Ad Sales - Batman v Superman (Belgium) (En) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-BTMNVSPRMNDYNLBE</game_id>
-		<rom name="ryuuRBdgqbrLKHFaIHWlFebTYTtgjkrxlyviYdYtEwUORKOQLlRHWzRKfMhKXHWSHsBYghUSJdAgqTttMjFQSZpCGhQKUWyVroOme.pkg" size="4620608" crc="3a681d1f" md5="4c67cae2e8852971ca665936ebd5c974" sha1="f3d07b05685bbbacad6aba146f3810d65e357eda" sha256="c70c29f2eda8196eda5d6bd4bb961d8740fc454fffc0f7870eb5afbf2b172d0a" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-BTMNVSPRMNDYNLBE.rap" size="" status="verified" mia="yes"/>
+		<rom name="ryuuRBdgqbrLKHFaIHWlFebTYTtgjkrxlyviYdYtEwUORKOQLlRHWzRKfMhKXHWSHsBYghUSJdAgqTttMjFQSZpCGhQKUWyVroOme.pkg" size="4620608" crc="3a681d1f" md5="4c67cae2e8852971ca665936ebd5c974" sha1="f3d07b05685bbbacad6aba146f3810d65e357eda" sha256="c70c29f2eda8196eda5d6bd4bb961d8740fc454fffc0f7870eb5afbf2b172d0a"/>
 	</game>
 	<game name="Ad Sales - Batman v Superman (Australia) (Dynamic Theme)" id="00038">
 		<description>Ad Sales - Batman v Superman (Australia) (Dynamic Theme)</description>
@@ -242,7 +231,6 @@
 		<description>Ad Sales - Edge of Tomorrow (Russia) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-EDGETOMORDYN00RU</game_id>
 		<rom name="GSOTglqrGhVWeLoOBOjKZdRxyVWIYJkHRjfWNrQKCybQiabRjrnXUYiiRyJGFKyk.pkg" size="2482240" crc="066b075b" md5="03e9282eb1f61d11a8acc06d68af4dc3" sha1="9117d9a3ffe01d2d464781d5c70cce4427f13e7d" sha256="27ed286352488e8b8cb2c94e680cb24b1cba4e6a4147aa31ab2bfdf9c45b4c3e"/>
-		<rom name="EP9000-NPEO00154_00-EDGETOMORDYN00RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Edge of Tomorrow (Europe) (Dynamic Theme)" id="00040">
 		<description>Ad Sales - Edge of Tomorrow (Europe) (Dynamic Theme)</description>
@@ -260,7 +248,6 @@
 		<description>Ad Sales - Edge of Tomorrow (Russia) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-EDGETOMOR00000RU</game_id>
 		<rom name="vubDrZfvuEpcKuEnmHjXnbsSHkJvStzSURGXsdADTDrMoeCbnhkeLIEWfgvNwSSR.pkg" size="1161888" crc="46ea45de" md5="6cc742a6f53d3073cbd975603a8ed1a2" sha1="148f5eeb345e38bc361e16d1e32089cd5891b81a" sha256="89bcd5bd7845707ab0e371958d7f075f5e16ba36ce053648288fb0deb2ce40ba"/>
-		<rom name="EP9000-NPEO00154_00-EDGETOMOR00000RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Edge of Tomorrow (Europe) (Static Theme)" id="00043">
 		<description>Ad Sales - Edge of Tomorrow (Europe) (Static Theme)</description>
@@ -283,8 +270,7 @@
 	<game name="Ad Sales - Edge of Tomorrow (Netherlands) (Static Theme)" id="00046">
 		<description>Ad Sales - Edge of Tomorrow (Netherlands) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-EDGETOMOR00000NL</game_id>
-		<rom name="WeSgCTSGMFGoXgPKJkSjwdrlslyLJxGjRhkTXTSUcZFmUheHNzXNAPjcLgSxnZUy.pkg" size="1163344" crc="29f912c8" md5="cdd27359c741ec918797995e172ca676" sha1="cad19acefbe920cb219230cfe44b1b32f8401051" sha256="db05c98164aacbbc1c7efa653f8db39414517071c5aa03ea7e15fb5d75e8d9cd" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-EDGETOMOR00000NL.rap" size="" status="verified" mia="yes"/>
+		<rom name="WeSgCTSGMFGoXgPKJkSjwdrlslyLJxGjRhkTXTSUcZFmUheHNzXNAPjcLgSxnZUy.pkg" size="1163344" crc="29f912c8" md5="cdd27359c741ec918797995e172ca676" sha1="cad19acefbe920cb219230cfe44b1b32f8401051" sha256="db05c98164aacbbc1c7efa653f8db39414517071c5aa03ea7e15fb5d75e8d9cd"/>
 	</game>
 	<game name="Ad Sales - Game of Thrones (Europe) (Dynamic Theme)" id="00047">
 		<description>Ad Sales - Game of Thrones (Europe) (Dynamic Theme)</description>
@@ -308,7 +294,6 @@
 		<description>Ad Sales - Godzilla (Russia) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-GODZILLADYN000RU</game_id>
 		<rom name="ITzgFegPJFdIZYlXtLBwwqBKvBkronUhfjVuXtxrehnJpSpyVJDZvoqxGJCTEHfB.pkg" size="6530144" crc="ca4cf23f" md5="49cf996aeaa3f83ef04be14b1827760b" sha1="3ce2ed6353f64db725ac3a4c871092afbf658c91" sha256="4df769536289e8541c8bbdd09ba28de63c9cf5665a7ba6966bab872b1d89de6d"/>
-		<rom name="EP9000-NPEO00154_00-GODZILLADYN000RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Godzilla (Europe) (Dynamic Theme)" id="00051">
 		<description>Ad Sales - Godzilla (Europe) (Dynamic Theme)</description>
@@ -320,7 +305,6 @@
 		<description>Ad Sales - Godzilla (Russia) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-GODZILLA000000RU</game_id>
 		<rom name="hDiWyqyJuPuypVuJrfXpjzZokRFbiHaHslpeNgHmoDyGawACPMYOHYPUofpnekad.pkg" size="2343744" crc="eaf7294c" md5="9baf60fd2102143058676a134cda50bf" sha1="1090201dcefc5a873702a171c2eb39548188aaae" sha256="ab0c7de23f4c02fd7a3176fcb63b1cbdf5cebd9b70069d2f7124454440ef3ce3"/>
-		<rom name="EP9000-NPEO00154_00-GODZILLA000000RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Godzilla (Italy) (Static Theme)" id="00053">
 		<description>Ad Sales - Godzilla (Italy) (Static Theme)</description>
@@ -362,7 +346,6 @@
 		<description>Ad Sales - Hangover 3 (France) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-TADSALESHANGDYFR</game_id>
 		<rom name="BWVYgAVXyBLBrRYSngNobOppaUoHagMudSmqiPFujycHjgVBiCttUXlhpKLJopSW.pkg" size="9526368" crc="8eb9b275" md5="56af24d2ac0bcf34ba4f6d501242f2bc" sha1="fadef836092abc58a9e5cbfac02789674b527ea6" sha256="42983fccd0af1a8806dbee94734461e1337fbd708c68cc8be843e03f25dc6b79"/>
-		<rom name="EP9000-NPEO00154_00-TADSALESHANGDYFR.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Hangover 3 (Italy) (Dynamic Theme)" id="00060">
 		<description>Ad Sales - Hangover 3 (Italy) (Dynamic Theme)</description>
@@ -403,14 +386,12 @@
 	<game name="Ad Sales - Interstellar (Netherlands) (Static Theme)" id="00066">
 		<description>Ad Sales - Interstellar (Netherlands) (Static Theme)</description>
 		<game_id>EP9000-NPEO00154_00-INTERSTELLARSTNL</game_id>
-		<rom name="lEAHygqnJTjpFDnCssvPdzFLpZzlbPTwvHqtutWPqGIZArTDdoYIGEHbUscBVQiG.pkg" size="1669248" crc="cfc47190" md5="67acda767de5eaa420afc018927ebb10" sha1="5d5c7198cb198dd0c7f27c832feb676d80e42d82" sha256="75bbbbcb0a79c372b820a42d2d854cbd7095facae0a606dc2b9c29046cd5c54f" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-INTERSTELLARSTNL.rap" size="" status="verified" mia="yes"/>
+		<rom name="lEAHygqnJTjpFDnCssvPdzFLpZzlbPTwvHqtutWPqGIZArTDdoYIGEHbUscBVQiG.pkg" size="1669248" crc="cfc47190" md5="67acda767de5eaa420afc018927ebb10" sha1="5d5c7198cb198dd0c7f27c832feb676d80e42d82" sha256="75bbbbcb0a79c372b820a42d2d854cbd7095facae0a606dc2b9c29046cd5c54f"/>
 	</game>
 	<game name="Ad Sales - Mad Max (Russia) (Dynamic Theme)" id="00067">
 		<description>Ad Sales - Mad Max (Russia) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-MADMAXDYNTHM00RU</game_id>
 		<rom name="OMaUHgGpufpYazbPcIifNOAuVIUmkiEnlNQEeChRFlnmOqOOXVVwudiPnbYYFtvd.pkg" size="4070208" crc="85163a7f" md5="e81a643127107dd283e3ef4ae740a224" sha1="b854016d2a019caa8aeb50f4df488db8e8945590" sha256="ea6d81115b2dfd0745082d5942f91201923da6ad5be57160dcafab8e48a1043e"/>
-		<rom name="EP9000-NPEO00154_00-MADMAXDYNTHM00RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Mad Max (Italy) (Dynamic Theme)" id="00068">
 		<description>Ad Sales - Mad Max (Italy) (Dynamic Theme)</description>
@@ -439,8 +420,7 @@
 	<game name="Ad Sales - Mad Max (Netherlands) (Dynamic Theme)" id="00072">
 		<description>Ad Sales - Mad Max (Netherlands) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-MADMAXDYNTHM00NL</game_id>
-		<rom name="RUyLEqiLlaaSsISAXHBKrGbuPyAdEdzfIzceXFwYQAxKnUFYAPxjksOdbeBnooqy.pkg" size="4227696" crc="7a20821f" md5="2f582e3a1762eea31992dabc26fd3cb9" sha1="a34efa3dfd3323c4af4ec7483ff13245b41b983d" sha256="a4592b420c6e60d0f889b55b7ba39b9e89b306b36e48a2f8170d36819d1afc83" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-MADMAXDYNTHM00NL.rap" size="" status="verified" mia="yes"/>
+		<rom name="RUyLEqiLlaaSsISAXHBKrGbuPyAdEdzfIzceXFwYQAxKnUFYAPxjksOdbeBnooqy.pkg" size="4227696" crc="7a20821f" md5="2f582e3a1762eea31992dabc26fd3cb9" sha1="a34efa3dfd3323c4af4ec7483ff13245b41b983d" sha256="a4592b420c6e60d0f889b55b7ba39b9e89b306b36e48a2f8170d36819d1afc83"/>
 	</game>
 	<game name="Ad Sales - Mad Max (France) (Theme)" id="00073">
 		<description>Ad Sales - Mad Max (France) (Theme)</description>
@@ -482,7 +462,6 @@
 		<description>Ad Sales - Pacific Rim (France) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-PACRIMDYN00000FR</game_id>
 		<rom name="zNFdYqJOTeyADDTsdZxpQsYcWgHStiOIFkaKjechFUoHgnwzFbydbIvznMxEcRnX.pkg" size="4686624" crc="9c69d3dc" md5="28c0e23c97903854046ebf50b25e142c" sha1="7331e40a21b9c7d8646ef5de8236af7373b5f492"/>
-		<rom name="EP9000-NPEO00154_00-PACRIMDYN00000FR.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - Pacific Rim (Germany) (Dynamic Theme)" id="00080">
 		<description>Ad Sales - Pacific Rim (Germany) (Dynamic Theme)</description>
@@ -499,8 +478,7 @@
 	<game name="Ad Sales - Pacific Rim (Netherlands) (Dynamic Theme)" id="00082">
 		<description>Ad Sales - Pacific Rim (Netherlands) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-PACRIMDYN00000NL</game_id>
-		<rom name="msikOYcTFAUatJfQrHqLvFrEvipYMpAPzXuaWdUESpnFXdsrobDMlwGVHNbqaxZd.pkg" size="4686736" crc="47bad88b" md5="162f64faf69f83761fca84ba81500c27" sha1="c887ce225f219f68db0c258b427af1bc28039ef1" sha256="96b9c48a68c10e0f05245a7fcd871c59f9c4ea2c3334e76f79af76b97de4f43a" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-PACRIMDYN00000NL.rap" size="" status="verified" mia="yes"/>
+		<rom name="msikOYcTFAUatJfQrHqLvFrEvipYMpAPzXuaWdUESpnFXdsrobDMlwGVHNbqaxZd.pkg" size="4686736" crc="47bad88b" md5="162f64faf69f83761fca84ba81500c27" sha1="c887ce225f219f68db0c258b427af1bc28039ef1" sha256="96b9c48a68c10e0f05245a7fcd871c59f9c4ea2c3334e76f79af76b97de4f43a"/>
 	</game>
 	<game name="Ad Sales - Spectre (Europe) (Theme)" id="00083">
 		<description>Ad Sales - Spectre (Europe) (Theme)</description>
@@ -541,8 +519,7 @@
 	<game name="Ad Sales - Suicide Squad (Netherlands) (Dynamic Theme)" id="00089">
 		<description>Ad Sales - Suicide Squad (Netherlands) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-SUICIDESQUADDTNL</game_id>
-		<rom name="PvsXQtHdZTCeOILefwEReUejvmdaLAPJKkJmiiPcKnhotWYKnzXMCDMNFhxUtFkDYxzLUBkfppxQoaemTahnEnbPVkoJoBWzdIOzr.pkg" size="8014512" crc="022c402b" md5="8bf9f003156bea5911273344b381f9bc" sha1="a6bf3a99e91357d3e8a1cac9d6d57a27401f85d8" sha256="7f8be9669679a7fb2577e04b3832bf11a1c7e4f6ddc966cdb642ce96af2f6a0d" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-SUICIDESQUADDTNL.rap" size="" status="verified" mia="yes"/>
+		<rom name="PvsXQtHdZTCeOILefwEReUejvmdaLAPJKkJmiiPcKnhotWYKnzXMCDMNFhxUtFkDYxzLUBkfppxQoaemTahnEnbPVkoJoBWzdIOzr.pkg" size="8014512" crc="022c402b" md5="8bf9f003156bea5911273344b381f9bc" sha1="a6bf3a99e91357d3e8a1cac9d6d57a27401f85d8" sha256="7f8be9669679a7fb2577e04b3832bf11a1c7e4f6ddc966cdb642ce96af2f6a0d"/>
 	</game>
 	<game name="Ad Sales - Suicide Squad (Australia) (Dynamic Theme)" id="00090">
 		<description>Ad Sales - Suicide Squad (Australia) (Dynamic Theme)</description>
@@ -560,7 +537,6 @@
 		<description>Ad Sales - The Hobbit (Russia) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBITDYN00RU</game_id>
 		<rom name="HdagKCXgFvANnWVwpeeGnUnVhBpaXAeRiIjvxKWtfRLqKLKAJNLzgObxHBMXGNnj.pkg" size="5398896" crc="923537a2" md5="3b77385470cf7d9a99051ceabb3f3ada" sha1="17aa79947161d5389c14112eb6b95bfa4931e79b" sha256="59d7206c1c4da1dd1fc19efc0d93a81cbb6b5764dbb86697db37c1368bde747f"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBITDYN00RU.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit (Europe) (Dynamic Theme)" id="00093">
 		<description>Ad Sales - The Hobbit (Europe) (Dynamic Theme)</description>
@@ -572,7 +548,6 @@
 		<description>Ad Sales - The Hobbit (France) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBITDYN00FR</game_id>
 		<rom name="WPuVqkTnqARXxVIhZcHARwShwPQVqETJnkuKJfFWbDxOewhRCTJQUdCFErlVFaqZ.pkg" size="5401824" crc="ca16dbdf" md5="c4932dca45a0ee17c9253ca9d859932b" sha1="f2e184444ab6dde63ba53aa6ffb12426e304c1e1"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBITDYN00FR.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit (Germany) (Dynamic Theme)" id="00095">
 		<description>Ad Sales - The Hobbit (Germany) (Dynamic Theme)</description>
@@ -590,7 +565,6 @@
 		<description>Ad Sales - The Hobbit (Russia) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00RU001</game_id>
 		<rom name="waJkIOOEHukcoLsZBWyvgnamSzCGldhKCcPRULtvsTjymGGYhMfyQONJWTbOzqnn.pkg" size="1692432" crc="b69e383c" md5="306bf050ae297bcec31ce5f4251ca955" sha1="8fdbc9736f90bfe5ba225b476a090cafbb77cb7c" sha256="211631656826d178a028d83e4d3689d29e7b9e19a47eb6169a7ac602aba157e0"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00RU001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit (Spain) (Theme)" id="00098">
 		<description>Ad Sales - The Hobbit (Spain) (Theme)</description>
@@ -601,14 +575,12 @@
 	<game name="Ad Sales - The Hobbit (Netherlands) (Theme)" id="00099">
 		<description>Ad Sales - The Hobbit (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00NL001</game_id>
-		<rom name="oEXINcsQtMTIwecnyKWcIejChwrpxlZyANDqxoRYaAQbbNEaiAhhjiCZThelWtcs.pkg" size="1688288" crc="71adce63" md5="922e8c70fba9350997675f37c039bb51" sha1="9ad4cce26a592eb9c334b7d4b329954794f5508e" sha256="16a27902f6d4d113f0adf741c74fc23dda95b5236522ea2d4bc8ca6e82657c88" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00NL001.rap" size="" status="verified" mia="yes"/>
+		<rom name="oEXINcsQtMTIwecnyKWcIejChwrpxlZyANDqxoRYaAQbbNEaiAhhjiCZThelWtcs.pkg" size="1688288" crc="71adce63" md5="922e8c70fba9350997675f37c039bb51" sha1="9ad4cce26a592eb9c334b7d4b329954794f5508e" sha256="16a27902f6d4d113f0adf741c74fc23dda95b5236522ea2d4bc8ca6e82657c88"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Bilbo (Russia) (Theme)" id="00100">
 		<description>Ad Sales - The Hobbit - Bilbo (Russia) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00RU002</game_id>
 		<rom name="cXaSPgLuODafexYnJPFzEhlwOjXNqLIfSOzDgtwqQgMhQfSimkycqKcCUrnNxOcd.pkg" size="1888672" crc="cc4fe483" md5="c6d19f2948fed960d174a9e7a8b8c88a" sha1="ea0f9c96f5e2b2916979f4f991b89c86d2152b5f" sha256="ba2b20f69e1c5c4a52f6c56db579a475e091b15bfe71f9fba53ebbfa07105cf8"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00RU002.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Bilbo (Spain) (Theme)" id="00101">
 		<description>Ad Sales - The Hobbit - Bilbo (Spain) (Theme)</description>
@@ -619,14 +591,12 @@
 	<game name="Ad Sales - The Hobbit - Bilbo (Netherlands) (Theme)" id="00102">
 		<description>Ad Sales - The Hobbit - Bilbo (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00NL002</game_id>
-		<rom name="COUsYqIXLlJRTOETyNGPOpJCDbHQqVNQmFPdaSTLhSBapucZOtqPavnGgrHkBqTq.pkg" size="1884944" crc="3cc5af1a" md5="92d6e257e0d76e29389785e18d10610a" sha1="075a98b2773875aec1eca2c1dbad2062728fec1a" sha256="31da225aa13b42feb042fad6ead78ff63b616b64412b61ce0f1b3d8becad9cd1" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00NL002.rap" size="" status="verified" mia="yes"/>
+		<rom name="COUsYqIXLlJRTOETyNGPOpJCDbHQqVNQmFPdaSTLhSBapucZOtqPavnGgrHkBqTq.pkg" size="1884944" crc="3cc5af1a" md5="92d6e257e0d76e29389785e18d10610a" sha1="075a98b2773875aec1eca2c1dbad2062728fec1a" sha256="31da225aa13b42feb042fad6ead78ff63b616b64412b61ce0f1b3d8becad9cd1"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Gandalf (Russia) (Theme)" id="00103">
 		<description>Ad Sales - The Hobbit - Gandalf (Russia) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00RU003</game_id>
 		<rom name="zthHERAlLJjUoYFEcRzNQBrDooVlYGOCTkARlIgfHuPSMlItuvxQcGJTXYZPOXPh.pkg" size="1485296" crc="75107b0a" md5="a19e190c31b2e85645924ebcd9a7ce95" sha1="c11651b426357c8684bdc983ece896c750546233" sha256="bf227fc303dbfe766b3db1748c6443278b220bbe0adf6b3343871193ff5fb223"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00RU003.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Gandalf (Spain) (Theme)" id="00104">
 		<description>Ad Sales - The Hobbit - Gandalf (Spain) (Theme)</description>
@@ -637,14 +607,12 @@
 	<game name="Ad Sales - The Hobbit - Gandalf (Netherlands) (Theme)" id="00105">
 		<description>Ad Sales - The Hobbit - Gandalf (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00NL003</game_id>
-		<rom name="xoZZogPeLavxWajFZvoNsBpZtaScaQzJTwgDSGosgoGQCQAIkLCpSdzOOIqCzXio.pkg" size="1481136" crc="7fdad908" md5="aee71821facc9ab0d0eb7dff8e18390c" sha1="5150ec875004b09bac6383e48d047c9db27b949a" sha256="76f3538f28192d36ca40871ada96198781b8cecbc4fcd0cc2fe3c71cbc9c36d8" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00NL003.rap" size="" status="verified" mia="yes"/>
+		<rom name="xoZZogPeLavxWajFZvoNsBpZtaScaQzJTwgDSGosgoGQCQAIkLCpSdzOOIqCzXio.pkg" size="1481136" crc="7fdad908" md5="aee71821facc9ab0d0eb7dff8e18390c" sha1="5150ec875004b09bac6383e48d047c9db27b949a" sha256="76f3538f28192d36ca40871ada96198781b8cecbc4fcd0cc2fe3c71cbc9c36d8"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Legolas (Russia) (Theme)" id="00106">
 		<description>Ad Sales - The Hobbit - Legolas (Russia) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00RU004</game_id>
 		<rom name="RxTEmwEkuqajZueqAXdIzgprxpbrgHPWaoRWreUFBsMzmXBCCcDszigdIRBWMSJw.pkg" size="1577824" crc="306cff8c" md5="d6409be3817c3b5264ef8ffde226f55e" sha1="f2718ab212719080dcb7b476205d335f2d122918" sha256="c764b5d21b5456bcfbe1f5d39c302d2460846a0801c0aa3f40842416bf517742"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00RU004.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Legolas (Spain) (Theme)" id="00107">
 		<description>Ad Sales - The Hobbit - Legolas (Spain) (Theme)</description>
@@ -655,8 +623,7 @@
 	<game name="Ad Sales - The Hobbit - Legolas (Netherlands) (Theme)" id="00108">
 		<description>Ad Sales - The Hobbit - Legolas (Netherlands) (Theme)</description>
 		<game_id>EP9000-NPEO00154_00-THEHOBBIT00NL004</game_id>
-		<rom name="DrESjDTCTcbZBMzjUwunTeJEPOKvObqvnRRyzMGWbQMbeuqPGNXSwvjUnKSCAljH.pkg" size="1574208" crc="7cbe2a10" md5="86fe5e83e41a2ad59f61423a849a81dd" sha1="3c4921e9800b1dfebb08959bd02dbc9af8310c2e" sha256="29f0e4a16a61be20db432b3a3892b83af5f8d3f51ad89d396bc017168d3468e7" status="verified"/>
-		<rom name="EP9000-NPEO00154_00-THEHOBBIT00NL004.rap" size="" status="verified" mia="yes"/>
+		<rom name="DrESjDTCTcbZBMzjUwunTeJEPOKvObqvnRRyzMGWbQMbeuqPGNXSwvjUnKSCAljH.pkg" size="1574208" crc="7cbe2a10" md5="86fe5e83e41a2ad59f61423a849a81dd" sha1="3c4921e9800b1dfebb08959bd02dbc9af8310c2e" sha256="29f0e4a16a61be20db432b3a3892b83af5f8d3f51ad89d396bc017168d3468e7"/>
 	</game>
 	<game name="Ad Sales - The Hobbit - Theme 1 (Europe) (Theme)" id="00109">
 		<description>Ad Sales - The Hobbit - Theme 1 (Europe) (Theme)</description>
@@ -716,6 +683,7 @@
 		<description>Afrika (Japan) (Dynamic Theme)</description>
 		<game_id>JP9000-NPJQ00006_00-0000000000000000</game_id>
 		<rom name="KrF5OyOpetxsooM5PToGAAy8aAibdBGqTWtsu8Dl718bO56XwjQIvwfp9A7vrNj1G2oIfqn9cmmd6irkGu1FEbT7JruKJG1goOM00.pkg" size="5256192" crc="2efed261" md5="c74961e81436be58fdfa5a923c63553a" sha1="098feff9a72905cb8cad10ee38d67fa70cb06676"/>
+		<rom name="JP9000-NPJQ00006_00-0000000000000000.rap" size="16" crc="7f6db966" md5="88583f212b86c0ec12132af3cfcbda99" sha1="176806c1281cb92a14d161c12a4e47e422951a6f" sha256="899e9d3f5f9d30c806756d5b923595554bdcc29950b3708e555452e40aab725a"/>
 	</game>
 	<game name="Afrika - Zebra (USA) (Theme)" id="00119">
 		<description>Afrika - Zebra (USA) (Theme)</description>
@@ -732,8 +700,7 @@
 	<game name="Akari Anime - Akie (USA) (Theme)" id="00121">
 		<description>Akari Anime - Akie (USA) (Theme)</description>
 		<game_id>UP4312-NPUB31721_00-DYNAMICAKIETHEME</game_id>
-		<rom name="UP4312-NPUB31721_00-DYNAMICAKIETHEME_bg_1_ef18405cd03c75750cb1636e8bf21fffbf499725.pkg" size="12249040" crc="9bc77d0f" md5="9361e74ea18a2e70a2c59cb8bd34ddd3" sha1="1e4ef6ad60b2447bceda57be2456d3dabbbe4a6c" sha256="46e7132116f484edfca83a39ca22a77e46bef0a6e069e17bbf05c15e5a68d6bf" status="verified"/>
-		<rom name="UP4312-NPUB31721_00-DYNAMICAKIETHEME.rap" size="" status="verified" mia="yes"/>
+		<rom name="UP4312-NPUB31721_00-DYNAMICAKIETHEME_bg_1_ef18405cd03c75750cb1636e8bf21fffbf499725.pkg" size="12249040" crc="9bc77d0f" md5="9361e74ea18a2e70a2c59cb8bd34ddd3" sha1="1e4ef6ad60b2447bceda57be2456d3dabbbe4a6c" sha256="46e7132116f484edfca83a39ca22a77e46bef0a6e069e17bbf05c15e5a68d6bf"/>
 	</game>
 	<game name="Akiba's Trip (Japan) (Dynamic Theme)" id="00122">
 		<description>Akiba's Trip (Japan) (Dynamic Theme)</description>
@@ -797,7 +764,6 @@
 		<description>Ape Escape (Europe) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00106_00-SARUTHEME0000001</game_id>
 		<rom name="lmXnjIfvZtJGHvbEparhMtmldHrMFvYbpfnIgkirlmpLFvAwzrcLQaBHExLsIiOC.pkg" size="3383072" crc="272ea4d2" md5="ba0f0e63efdc766e4b85c6c4b33cc775" sha1="ffa6e985477e7062a07481cf2cac88f9e4a9e3ef" sha256="acc3c2e5524877cb1ba1067ad3d2e2079b1bc2b3eaf0a39dd83efa8ab9ee9a09"/>
-		<rom name="EP9000-NPEO00106_00-SARUTHEME0000001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Panic! - Summer Dynamic Theme (Europe) (Theme)" id="00132">
 		<description>Aqua Panic! - Summer Dynamic Theme (Europe) (Theme)</description>
@@ -827,7 +793,6 @@
 		<description>Ar Tonelico Qoga - Knell of Ar Ciel (Europe) (Theme)</description>
 		<game_id>EP1063-NPEP00086_00-TARTONELIC000002</game_id>
 		<rom name="mFgQnYQoKexQsihiAXNwNrbFcvfibFCHKYlprGejLdsrsVnxLarqKnZxcGxEKxlB.pkg" size="2915824" crc="399778f5" md5="cd049f7995102dfa91586bd49f772cc4" sha1="8359f228a4beb1d5edc589e639a677136c97f23b" sha256="0f1cf97ba186f43a24c76736bf24753c923f8eaab7af68dd6445707215881789"/>
-		<rom name="EP1063-NPEP00086_00-TARTONELIC000002.rap" size="" mia="yes"/>
 	</game>
 	<game name="Ar Tonelico Qoga - Knell of Ar Ciel (USA) (Theme)" id="00137">
 		<description>Ar Tonelico Qoga - Knell of Ar Ciel (USA) (Theme)</description>
@@ -878,8 +843,7 @@
 	<game name="Assassin's Creed - Revelations - Ezio (Europe) (Theme)" id="00144">
 		<description>Assassin's Creed - Revelations - Ezio (Europe) (Theme)</description>
 		<game_id>EP0001-NPEP00135_00-TASSASSINS000001</game_id>
-		<rom name="otOdnMyPIhCIVoPVAFdzTKudUDRnUxGafxhEQrIiyDMzQOmPELeyONGCurAXfWNh.pkg" size="15248896" crc="e2a9ef81" md5="18c12d60c092afd6e5de7f97f46a24d8" sha1="4a34f19e90a61603bf5bd73e413821378839e229" sha256="f52a2a1f2defdb9f1bd3e53440d29f602a7507fe727dfde8a6f014c26a2e5d2b" status="verified"/>
-		<rom name="EP0001-NPEP00135_00-TASSASSINS000001.rap" size="" status="verified" mia="yes"/>
+		<rom name="otOdnMyPIhCIVoPVAFdzTKudUDRnUxGafxhEQrIiyDMzQOmPELeyONGCurAXfWNh.pkg" size="15248896" crc="e2a9ef81" md5="18c12d60c092afd6e5de7f97f46a24d8" sha1="4a34f19e90a61603bf5bd73e413821378839e229" sha256="f52a2a1f2defdb9f1bd3e53440d29f602a7507fe727dfde8a6f014c26a2e5d2b"/>
 	</game>
 	<game name="Assassin's Creed - Rogue (USA) (Theme)" id="00145">
 		<description>Assassin's Creed - Rogue (USA) (Theme)</description>
@@ -891,7 +855,7 @@
 		<description>Assassin's Creed II - Master Assassin (Europe) (Theme)</description>
 		<game_id>EP0001-NPEP00037_00-AC2MASTERTHEME00</game_id>
 		<rom name="46OMvGcc1YyBv6exyYJx6Pf9bR46nnt1T6YNvlTJjOg0k3TVhhTc42XR0xndCGf6fr1h42ugebf8xU3CkICsedIsPS78SomGSEIvf.pkg" size="5161328" crc="f023ee2a" md5="07203511a09927370aeee136e51217be" sha1="c40620f609b75bb2c67d7d1e52dfec6a0f525ae8" sha256="49096f164fa10d62a1bc550c6ec8ae463a93a8a54bde28a9ccaaa713944857ec"/>
-		<rom name="EP0001-NPEP00037_00-AC2MASTERTHEME00.rap" size="" mia="yes"/>
+		<rom name="EP0001-NPEP00037_00-AC2MASTERTHEME00.rap" size="16" crc="f11ef84a" md5="2bd3891a386cea341a9e84aab1fa1b63" sha1="cfcfd4e19f2d316cf86dcf348b8575928526f23d" sha256="677d8ecd5ced4a5f1950fef19cdf28bec324a3a8c8d7f47df90f343779472b5d"/>
 	</game>
 	<game name="Assassin's Creed II - Uplay Theme (Europe) (Theme)" id="00147">
 		<description>Assassin's Creed II - Uplay Theme (Europe) (Theme)</description>
@@ -926,8 +890,7 @@
 	<game name="Assassin's Creed Movie (USA) (Theme)" id="00151">
 		<description>Assassin's Creed Movie (USA) (Theme)</description>
 		<game_id>UT0016-NPUB31854_00-THEMEPS3UX000165</game_id>
-		<rom name="UT0016-NPUB31854_00-THEMEPS3UX000165_bg_1_1828503f677d7ccec8df074c4d9d60a1b899e323.pkg" size="975840" crc="1abba5e9" md5="14f6a72bcdd821d5afa4cb8cdaee8b69" sha1="85ae356e0d9fafb80450914d5c5a69b1475d6a6e" sha256="2bd73caf1fd21c97cb9d3311a5d5dddcc78117c8cee45a885eb501565e2d20eb" status="verified"/>
-		<rom name="UT0016-NPUB31854_00-THEMEPS3UX000165.rap" size="" status="verified" mia="yes"/>
+		<rom name="UT0016-NPUB31854_00-THEMEPS3UX000165_bg_1_1828503f677d7ccec8df074c4d9d60a1b899e323.pkg" size="975840" crc="1abba5e9" md5="14f6a72bcdd821d5afa4cb8cdaee8b69" sha1="85ae356e0d9fafb80450914d5c5a69b1475d6a6e" sha256="2bd73caf1fd21c97cb9d3311a5d5dddcc78117c8cee45a885eb501565e2d20eb"/>
 	</game>
 	<game name="Atelier Ayesha - The Alchemist of Dusk (USA) (Theme)" id="00152">
 		<description>Atelier Ayesha - The Alchemist of Dusk (USA) (Theme)</description>
@@ -1085,7 +1048,8 @@
 	<game name="Brutality (Europe) (Theme)" id="00176">
 		<description>Brutality (Europe) (Theme)</description>
 		<game_id>EP9000-NPEO00126_00-TRESISTANC000002</game_id>
-		<rom name="QlsrIOoluvCwKGBTrHzdCNdFFrEzNeiEGskihyCdMeVXRWBKTyJyZIBHFHvnvAOP.pkg" size="4001584" crc="3be5eafb" md5="a6aa83933df16d11e03171c5dcb68117" sha1="c208f8ab5f1b61e40b12d09044788fd33271da25" sha256="e82eee82e16f7d7f71d855bf5dd5269e0d79cd930395cbd2dfbd4c4f9c67d296"/>
+		<rom name="QlsrIOoluvCwKGBTrHzdCNdFFrEzNeiEGskihyCdMeVXRWBKTyJyZIBHFHvnvAOP.pkg" size="4001584" crc="3be5eafb" md5="a6aa83933df16d11e03171c5dcb68117" sha1="c208f8ab5f1b61e40b12d09044788fd33271da25" sha256="e82eee82e16f7d7f71d855bf5dd5269e0d79cd930395cbd2dfbd4c4f9c67d296" status="verified"/>
+		<rom name="EP9000-NPEO00126_00-TRESISTANC000002.rap" size="16" crc="36c5d8df" md5="5088e0c621713fe66cecd4b181d26f2e" sha1="34db90a7a466187721d98be0148847f0a17b6b98" sha256="3b29184b65203dd025163a9f4f5bd10af5af70f161797c25510d401ce5430e87" status="verified"/>
 	</game>
 	<game name="Call of Duty - Advanced Warfare (Europe) (Theme)" id="00177">
 		<description>Call of Duty - Advanced Warfare (Europe) (Theme)</description>
@@ -1321,6 +1285,7 @@
 		<description>Creation (Europe) (Theme)</description>
 		<game_id>ET0001-NPEP00026_00-DP1ART1CREATION0</game_id>
 		<rom name="ET0001-NPEP00026_00-DP1ART1CREATION0.rap" size="16" crc="91c30e56" md5="6bbab7b1547b8b150716e6fb3e327e43" sha1="f93aa4428e5c70538202ab75c00f679e27d2f1f7" sha256="2a1bb3bf03304cb82b4e0d1ee849dca98d60a813fa8119fc64e1dc9f2c6a3e03"/>
+		<rom name="pAXJKNLaJmhmoxXUJizXUsuqCqTMbcpmPUojuSXFgzMbUkIuLgRQnBveIaExTiih.pkg" size="3836528" crc="3948757f" md5="301609629bdf3708b43704a78354bee6" sha1="9f612586d4af04fdc271f9e3f72f8a74313f0a75" sha256="a13b5499f6f4303f0800e09c51848de353823e3fad97bff74320740f2f18b27a"/>
 	</game>
 	<game name="Crypt Keeper (USA) (Dynamic Theme)" id="00216">
 		<description>Crypt Keeper (USA) (Dynamic Theme)</description>
@@ -2797,6 +2762,12 @@
 		<rom name="YpACUlsEYnepjoGAkzkemqnnkfQusSNBvVFPBYVyvqSwsDfPlOHWJsCclGYShhSx.pkg" size="2578784" crc="74173eb6" md5="838b51bf614c18a3d372f6e85e65b18f" sha1="886e22f4ff48424f854ac49d3daeefe3449f3a84"/>
 		<rom name="UP0177-NPUB30750_00-HELLYEAHDYNAMIC1.rap" size="16" crc="92c11e0b" md5="4ae12085ff90cd6eb0e0c4b4815cbb1a" sha1="143d280e1c4716f2cbdd12d7fc60447e6e32756e"/>
 	</game>
+	<game name="Higurashi no Naku Koro ni Sui - Rena Ryugu Victory Commemorative (Japan) (Theme)" id="00542">
+		<description>Higurashi no Naku Koro ni Sui - Rena Ryugu Victory Commemorative (Japan) (Theme)</description>
+		<game_id>JP0394-NPJB00699_00-THEME00000000002</game_id>
+		<rom name="JP0394-NPJB00699_00-THEME00000000002_bg_1_72ba45a7aacd06c3771da89d028fe4db7a44c9f1.pkg" size="17491456" crc="d770c424" md5="dc144ed69e59321159ff870e380688eb" sha1="536879858f107b115f8bc1f31b9afa454a0dcd29" sha256="009632bd1034f4ba8eda7789dc7c4e406aa220fefa221740092eab8090e445b4" status="verified"/>
+		<rom name="JP0394-NPJB00699_00-THEME00000000002.rap" size="16" crc="0200aaff" md5="70ebb000cbe50aef6d66cb99211b5c0d" sha1="cb3890eef8f05ce286ddda4ab8603867be868a00" sha256="b20e8e22435477d966ec4f8a317417e529c1d0d4ddbc50a9094c318867478e4e" status="verified"/>
+	</game>
 	<game name="Hitman - Absolution (Europe) (Dynamic Theme)" id="00460">
 		<description>Hitman - Absolution (Europe) (Dynamic Theme)</description>
 		<game_id>EP9000-NPEO00087_00-PLUSTHEME00MAY13</game_id>
@@ -3293,12 +3264,6 @@
 		<description>JP0177-NPJB00785_00-DFCITHEMEJP00000 (Japan) (Theme)</description>
 		<game_id>JP0177-NPJB00785_00-DFCITHEMEJP00000</game_id>
 		<rom name="JP0177-NPJB00785_00-DFCITHEMEJP00000_bg_1_367a2ae74e66c4a0521a336de97e4e8f683c6623.pkg" size="3315120" crc="94438618" md5="7be93bbc5a3ee26ca32012fe2fd54208" sha1="3916952938a977706b2661c5e59b7aee87742efc" sha256="41b5fe168cb340df00cc70d7ad83ab293876e673e5ca8834d5b49aa473174634"/>
-	</game>
-	<game name="JP0394-NPJB00699_00-THEME00000000002 (Japan) (Theme)" id="00542">
-		<description>JP0394-NPJB00699_00-THEME00000000002 (Japan) (Theme)</description>
-		<game_id>JP0394-NPJB00699_00-THEME00000000002</game_id>
-		<rom name="JP0394-NPJB00699_00-THEME00000000002_bg_1_72ba45a7aacd06c3771da89d028fe4db7a44c9f1.pkg" size="17491456" crc="d770c424" md5="dc144ed69e59321159ff870e380688eb" sha1="536879858f107b115f8bc1f31b9afa454a0dcd29" sha256="009632bd1034f4ba8eda7789dc7c4e406aa220fefa221740092eab8090e445b4"/>
-		<rom name="nMAgqXODVlIhXuDRqkVPpGHnRoOLIJTjRyhrFFveDvvhGdzmDwMAYEHNkuXNqEIKBHtrpAYPsWKAtCRcXrcmnbOxaynZouWqUXoHJ.pkg" size="6477840" crc="d24de7c7" md5="fa536cce6da7fc96d49df6e7c722681f" sha1="3f522fdbd14b276a6f621bc20f1c5ed3e8cac2a0" sha256="1db47010bddd73b188f2d96b1b15aaa2b56e66c695148c98470d68a678af2625"/>
 	</game>
 	<game name="JP0394-NPJR00023_00-0000000000UNCT00 (Japan) (Theme)" id="00543">
 		<description>JP0394-NPJR00023_00-0000000000UNCT00 (Japan) (Theme)</description>
@@ -5160,6 +5125,7 @@
 		<description>Persona 5 - Ann Takamaki (Europe) (Theme)</description>
 		<game_id>EP4062-NPEP00304_00-TPERSONA5X000004</game_id>
 		<rom name="EP4062-NPEP00304_00-TPERSONA5X000004_bg_1_22ca762300e0877d3068719b3e6f1fec0e60cd8d.pkg" size="1329872" crc="8cdfac05" md5="f15adac8a07d7482f2b4b0a4237615d1" sha1="abd2f4f893eed61fa00351abe0f7744fa0796a9d" sha256="111e9502b4c9175e3aad2c33a48258e77433cebc1f34bfde52b1d3c37a9dd791"/>
+		<rom name="EP4062-NPEP00304_00-TPERSONA5X000004.rap" size="16" crc="fcecc9c3" md5="f19ec0fd1a2782b188e5cc71d334650d" sha1="765467931223d4dcf7bc21f8ec037b431a5af692" sha256="6cc434f6adb35b0756e098b479126c201db7b996e41d3c1deb801327e4a14f57"/>
 	</game>
 	<game name="Persona 5 - Futaba Sakura (USA) (Theme)" id="00854">
 		<description>Persona 5 - Futaba Sakura (USA) (Theme)</description>
@@ -5226,6 +5192,12 @@
 		<rom name="EP4062-NPEP00304_00-TPERSONA5X000003.rap" size="16" crc="f0c4ff2e" md5="32c2db33c92b4617aec692821151c50f" sha1="59fbb4a4f3a601ea88fee7c94f2b173c40de9288" sha256="81f33da9db7d65e25becb535647a38efa2139149a5188f0f6a2a0ba0ccedf691"/>
 		<rom name="EP4062-NPEP00304_00-TPERSONA5X000003_bg_1_5b8ab42ffa0cc86720a0d2176e04470c74f8907a.pkg" size="1269792" crc="8b06ed01" md5="27b92e8390459bc6933beedbdf21987b" sha1="84c26fe14629f89cfc95cf202f836fa53cb8f09b" sha256="8f5562330fd138852eddd92d16c10529f85c52c5fbbf7c7b0e43a5e0f717e7ad"/>
 	</game>
+	<game name="Persona 5 - Morgana Special (USA) (Theme)" id="01392">
+		<description>Persona 5 - Morgana Special (USA) (Theme)</description>
+		<game_id>UP2611-NPUB31848_00-PERSONA5THEME002</game_id>
+		<rom name="UP2611-NPUB31848_00-PERSONA5THEME002_bg_1_ef46192f9851339e277bef9f514162d2dcb91d1f.pkg" size="1269776" crc="88d7e587" md5="8e56b335459d08696936f409bca09247" sha1="fa9c9ab0e75ae5d4b46075f627f4a8e101b39a9d" sha256="c20e8f3e065859574be47c04ffb168c508eef5314cedd97bbf769c06efb6c2f2"/>
+		<rom name="UP2611-NPUB31848_00-PERSONA5THEME002.rap" size="16" crc="8c9f8612" md5="1520d296d11b811f571051c178d13be2" sha1="4a5967c96ce86a6be06f65793ffacd100c2a56f3" sha256="a8f4cc5bf7f88042d43c9e5530ea5ed4ad8496c3575a1f8e99187034af364baa"/>
+	</game>
 	<game name="Persona 5 - Protagonist (Europe) (Theme)" id="00861">
 		<description>Persona 5 - Protagonist (Europe) (Theme)</description>
 		<game_id>EP4062-NPEP00304_00-TPERSONA5X000001</game_id>
@@ -5241,7 +5213,8 @@
 	<game name="Persona 5 - Ryuji Sakamoto (Europe) (Theme)" id="00863">
 		<description>Persona 5 - Ryuji Sakamoto (Europe) (Theme)</description>
 		<game_id>EP4062-NPEP00304_00-TPERSONA5X000002</game_id>
-		<rom name="EP4062-NPEP00304_00-TPERSONA5X000002_bg_1_e51a2c82cadfe92ae9d598da15145cf1f16125fb.pkg" size="1391440" crc="7b02e1ab" md5="4b8c68fad72bf3c8d6f72651953ade49" sha1="ab54849826d0215291095c4b3b5ab9044b3c278c" sha256="f3dd703670d1b02233c37d754f1001c47709e503141d01238f62ba24b1b22d64"/>
+		<rom name="EP4062-NPEP00304_00-TPERSONA5X000002_bg_1_e51a2c82cadfe92ae9d598da15145cf1f16125fb.pkg" size="1391440" crc="7b02e1ab" md5="4b8c68fad72bf3c8d6f72651953ade49" sha1="ab54849826d0215291095c4b3b5ab9044b3c278c" sha256="f3dd703670d1b02233c37d754f1001c47709e503141d01238f62ba24b1b22d64" status="verified"/>
+		<rom name="EP4062-NPEP00304_00-TPERSONA5X000002.rap" size="16" crc="db99351a" md5="af7f3d24dd2f67592c1d154318bf4563" sha1="941251a1e2d8ca80add23f51e50ded415151c0d1" sha256="0c3fe58de493f916093188db1a8fa0d05ce0f07ef9c707a9cc70e9b6fdcf9511" status="verified"/>
 	</game>
 	<game name="Persona 5 - Ryuji Sakamoto (USA) (Theme)" id="00864">
 		<description>Persona 5 - Ryuji Sakamoto (USA) (Theme)</description>
@@ -6758,6 +6731,12 @@
 		<rom name="mXSEKIfFnbIUliIKYCIiGwlGgWgArsJZDEDENxOPjAWJnKBdKBzILWsQSKlCwVaiNWgsSBNHWqWdGTYhCeotJszxfYznzxEoqkmQQ.pkg" size="3118240" crc="f20c758d" md5="7887b459dbfcaf8d30da8c4e6c9103a6" sha1="8487318bba4558682337151c78b6b2baf0e5adc5"/>
 		<rom name="JP0106-BLJM60291_00-CUSTOMTHEME00002.rap" size="16" crc="b389a45a" md5="612ab8ca9ccef03483a4db18f53bd323" sha1="0f123ba2c45a29c54827f03d1b50eecde7d3fb14"/>
 	</game>
+	<game name="Silent Hill HD Collection - Silent Hill 2 (USA) (Theme)" id="01378">
+		<description>Silent Hill HD Collection - Silent Hill 2 (USA) (Theme)</description>
+		<game_id>UP0101-BLUS30810_00-SH2THEME00000001</game_id>
+		<rom name="tZDHQaDqTfIezkWoNJlqWlUCupQiaDXCAMnCLjXVTPlZMnSQraCZAHGMoQUmdFnfgYSlCFGLeHTtrsGqaXONQzFMAdMkNvwAMGuUY.pkg" size="8280576" crc="51e94a05" md5="53229fb759b3311b99cad2b681fe7a1e" sha1="910c58c25b77835c1ba69baf6568966ee94a1272" sha256="cb2c024f6d004a2c5ba001e8df2b9e2a9707b6e41a10a5458bedbebb346b1f99"/>
+		<rom name="UP0101-BLUS30810_00-SH2THEME00000001.rap" size="16" crc="f52e84c3" md5="61c4eb4d21f29063228b688514842f23" sha1="2e6324e60d03ee9ea96d1012723201ba9583967f" sha256="f2afde581ec8178b8bb3f23c7ed83336096f0bc86af8ba65101c44c944fcd415"/>
+	</game>
 	<game name="Siren - New Translation (Asia) (Theme)" id="01101">
 		<description>Siren - New Translation (Asia) (Theme)</description>
 		<game_id>HP9000-NPHO00015_00-0000000000000000</game_id>
@@ -7934,7 +7913,8 @@
 	<game name="Survivor (Europe) (Theme)" id="01288">
 		<description>Survivor (Europe) (Theme)</description>
 		<game_id>EP9000-NPEO00126_00-TRESISTANC000001</game_id>
-		<rom name="TaBKysNhjFCEXtByTyuFtKAemteCSFNFmRYgVSYZmFBaHPHQtfQceQrswJqBXRjy.pkg" size="3038960" crc="972741a4" md5="19722eaa70ae6c973aef694f405737c2" sha1="3e0184a41f9fb17210c07ddaff8f32cbffc81021" sha256="90c2d6e21e83446e80cccd159eceaaa6455e1a1c5c0d0298bfb109a4973c0dda"/>
+		<rom name="TaBKysNhjFCEXtByTyuFtKAemteCSFNFmRYgVSYZmFBaHPHQtfQceQrswJqBXRjy.pkg" size="3038960" crc="972741a4" md5="19722eaa70ae6c973aef694f405737c2" sha1="3e0184a41f9fb17210c07ddaff8f32cbffc81021" sha256="90c2d6e21e83446e80cccd159eceaaa6455e1a1c5c0d0298bfb109a4973c0dda" status="verified"/>
+		<rom name="EP9000-NPEO00126_00-TRESISTANC000001.rap" size="16" crc="c0b20b09" md5="ad66d73e9bcc7c0b07003fcb79cfaf10" sha1="2a457bec4eb08776151ed4c990f984ed9d28df30" sha256="550bc11bec94bec007d0ea4599f997cb7b01e8a67ba52c3d8a4d7e25a7cb0b91" status="verified"/>
 	</game>
 	<game name="Sushi (Europe) (Theme)" id="01289">
 		<description>Sushi (Europe) (Theme)</description>
@@ -8284,7 +8264,8 @@
 	<game name="Tranquility (Europe) (Theme)" id="01347">
 		<description>Tranquility (Europe) (Theme)</description>
 		<game_id>EP4177-NPEP00062_00-TRANQUILITY00001</game_id>
-		<rom name="woSLsWqtDynPLUMQAkSqXsdrNfnaHinfWIqarqBOrnXeHyRpLIeACwoCoAujekAr.pkg" size="13807744" crc="07341282" md5="89a7f821ed199c536365c65006ed7fb8" sha1="49c78a182fddca264571e19743cf86bbc39bd1ff" sha256="3d4122a35ab115992c6891546a2491683dbe0da18ae868fef30d15b5e4092045"/>
+		<rom name="woSLsWqtDynPLUMQAkSqXsdrNfnaHinfWIqarqBOrnXeHyRpLIeACwoCoAujekAr.pkg" size="13807744" crc="07341282" md5="89a7f821ed199c536365c65006ed7fb8" sha1="49c78a182fddca264571e19743cf86bbc39bd1ff" sha256="3d4122a35ab115992c6891546a2491683dbe0da18ae868fef30d15b5e4092045" status="verified"/>
+		<rom name="EP4177-NPEP00062_00-TRANQUILITY00001.rap" size="16" crc="df4c393e" md5="bfb46a9f701502aba66d9f548c2beb4e" sha1="1605c32481c0986d9ea8b8c5abf901baf42a058e" sha256="9ebcfef16cdb29fe4f90b78d189008b54ecc21d4c4c9bf1a3eac8701be7ed018" status="verified"/>
 	</game>
 	<game name="Transformers - Fall of Cybertron (USA) (Theme)" id="01348">
 		<description>Transformers - Fall of Cybertron (USA) (Theme)</description>
@@ -8384,14 +8365,14 @@
 		<rom name="N120EcxXMJAO31r97QK3wFflqO3jVn5ovyPlTSxmbf8Dc2oKASDbmRpBFRvRXPjQXMcK3cnCeYPCvSN6NKLfyyWLk5gXQS70d9xdA.pkg" size="2262560" crc="b84aa758" md5="77d5d24e1cf815e2ba53af4f32e53727" sha1="aeb151ebb1f3e96b387d90126c6ea18c9a5896c7" sha256="019ca3f4b6379fe224cfe88676c5632a0f6383508c7c8894bbae9841b42eb6a8" status="verified"/>
 		<rom name="UP9000-BCUS98123_00-UNCHARTEDDYNAMIC.rap" size="16" crc="0b8f7da3" md5="c94229417061d9a6491123f8e57e7477" sha1="6b15345418a00d6eacb55fac939ddd67536407b6" sha256="8813a80b7cc0ef15b6236e403e504af5d12c47789db92d8ef9aed48e5bb5b18a" status="verified"/>
 	</game>
-	<game name="Uncharted 2 - Among Thieves - Steelbook (Europe) (Theme)" id="01363">
-		<description>Uncharted 2 - Among Thieves - Steelbook (Europe) (Theme)</description>
+	<game name="Uncharted 2 - Among Thieves - Steelbook (United Kingdom) (Theme)" id="01363">
+		<description>Uncharted 2 - Among Thieves - Steelbook (United Kingdom) (Theme)</description>
 		<game_id>EP9000-BCES00727_00-UNCHARTED2THE001</game_id>
 		<rom name="aFgmgFp6vi9aYjYiloi9Nxa48GbWMekqAQmbg4U2tnOaKrUlHGemy9dlhX46V93j7dUcqpEOwYMXLoepI0YXf68W2vokOTGK98YVN.pkg" size="2744240" crc="5669ed0d" md5="26c8f30e6b459af6686e2562f16130fd" sha1="2814127121363ad94aeddfbe2b7f6fc568561fcd"/>
 		<rom name="EP9000-BCES00727_00-UNCHARTED2THE001.rap" size="16" crc="e9955aca" md5="0e838cfe65b3aaa2ebf201f35793bf01" sha1="eb0794e6a265a3454ea1daba4adcefcad2d4df35"/>
 	</game>
-	<game name="Uncharted 2 - Among Thieves - Steelbook Special Edition (Europe) (En,Fr,De,It,Nl) (Theme)" id="01364">
-		<description>Uncharted 2 - Among Thieves - Steelbook Special Edition (Europe) (En,Fr,De,It,Nl) (Theme)</description>
+	<game name="Uncharted 2 - Among Thieves - Steelbook Special Edition (Germany) (En,Fr,De,It,Nl) (Theme)" id="01364">
+		<description>Uncharted 2 - Among Thieves - Steelbook Special Edition (Germany) (En,Fr,De,It,Nl) (Theme)</description>
 		<game_id>EP9000-BCES00509_00-UNCHARTED2THE001</game_id>
 		<rom name="yGGIuUcfq8jhSsgPfdtGgUj2x5865Vyk5EJpJM0qX20spCbMwqy2gPSY2urNdwcjyURenDh1F89lBdImGrMOPTjYjxM95kT48QmpG.pkg" size="2744240" crc="a3cf62bc" md5="ce2a1af70b165f7f2bfc033eb8e5c753" sha1="ab50116f5e0f56cb2e4cdc8c6feb088a93dda345"/>
 		<rom name="EP9000-BCES00509_00-UNCHARTED2THE001.rap" size="16" crc="fba01293" md5="bd579d316cd6d232ea30a34af12ffbf0" sha1="caf4728c8f28497c35d83a9a493a3707db53e778"/>
@@ -8473,11 +8454,6 @@
 		<rom name="eFkvWJxTNIqKNY64JmcJJB1aCE8Ptbc2CJdkbSpx0M1CDIgJIYIscTaMhoKuwU0midCEC3P7To4TDmfJdUIk9J1B2T4nuIw0vGBAY.pkg" size="4575136" crc="13c21f39" md5="0b8af8d5f5c273dd11c9728f1a3f7a59" sha1="417e89ca9ec4bc7e0d2c85f2b379288a75641690" sha256="afb15eae2a0f9aac865d7363e3dda3b915c17767fed23ffd3ef20f50aa85f8eb" status="verified"/>
 		<rom name="UP0082-NPUB90462_00-INFINITYCTTHEME1.rap" size="16" crc="afc90fa9" md5="59c114ad8dc2d019f0eae88cb65efba6" sha1="530ce75a1161bbfecc6f14be97ba105d7aac1bcb" status="verified"/>
 	</game>
-	<game name="UP0101-BLUS30810_00-SH2THEME00000001 (USA) (Theme)" id="01378">
-		<description>UP0101-BLUS30810_00-SH2THEME00000001 (USA) (Theme)</description>
-		<game_id>UP0101-BLUS30810_00-SH2THEME00000001</game_id>
-		<rom name="tZDHQaDqTfIezkWoNJlqWlUCupQiaDXCAMnCLjXVTPlZMnSQraCZAHGMoQUmdFnfgYSlCFGLeHTtrsGqaXONQzFMAdMkNvwAMGuUY.pkg" size="8280576" crc="51e94a05" md5="53229fb759b3311b99cad2b681fe7a1e" sha1="910c58c25b77835c1ba69baf6568966ee94a1272" sha256="cb2c024f6d004a2c5ba001e8df2b9e2a9707b6e41a10a5458bedbebb346b1f99"/>
-	</game>
 	<game name="UP0101-BLUS30810_00-SH3THEME00000001 (USA) (Theme)" id="01379">
 		<description>UP0101-BLUS30810_00-SH3THEME00000001 (USA) (Theme)</description>
 		<game_id>UP0101-BLUS30810_00-SH3THEME00000001</game_id>
@@ -8548,11 +8524,6 @@
 		<game_id>UP2026-NPUB31210_00-THEMEPS3UX000031</game_id>
 		<rom name="dtZGXkNGdQDHcPdgtzDDHEkTtLfUtmKJrkaAtJriyuEqQrHIMHdLmLccYIdQragX.pkg" size="3545888" crc="d169dd74" md5="d5d395ef8ec04ae9895ff0b1c93e5cf9" sha1="867d5ba15b09dbf4e3e348a7aaee65559108a28f" sha256="89c1a327bce6023747c9b16c675efb1b9817981563013d3c8cce96127190b89c" status="verified"/>
 		<rom name="UP2026-NPUB31210_00-THEMEPS3UX000031.rap" size="16" crc="a6aa8681" md5="e6941cc28c6552a10a5b2112682c8877" sha1="706b2ff7732f807da1505ee781c49730ccd3a9ca" status="verified"/>
-	</game>
-	<game name="UP2611-NPUB31848_00-PERSONA5THEME002 (USA) (Theme)" id="01392">
-		<description>UP2611-NPUB31848_00-PERSONA5THEME002 (USA) (Theme)</description>
-		<game_id>UP2611-NPUB31848_00-PERSONA5THEME002</game_id>
-		<rom name="UP2611-NPUB31848_00-PERSONA5THEME002_bg_1_ef46192f9851339e277bef9f514162d2dcb91d1f.pkg" size="1269776" crc="88d7e587" md5="8e56b335459d08696936f409bca09247" sha1="fa9c9ab0e75ae5d4b46075f627f4a8e101b39a9d" sha256="c20e8f3e065859574be47c04ffb168c508eef5314cedd97bbf769c06efb6c2f2"/>
 	</game>
 	<game name="UP4312-NPUB31721_00-DYNAMICAIKOTHEME (USA) (Theme)" id="01393">
 		<description>UP4312-NPUB31721_00-DYNAMICAIKOTHEME (USA) (Theme)</description>
@@ -8803,12 +8774,11 @@
 		<description>World of Moving Shapes, A (USA) (Dynamic Theme)</description>
 		<game_id>UT0017-NPUP00061_00-AWORLDOFSHAPES00</game_id>
 		<rom name="pVQUnAmLTPPYHooBpGxykAyXCNsqfEnYJyTGpGwvQGsObRPYxbscHEJUwRLWXsrFPECSxAjVXSMETdyXgGIRvlloVvWUnSwzDGSiy.pkg" size="247920" crc="18cd86b1" md5="0afa982cfa52b87b09098bbf95bd14f6" sha1="b0c39f60d0332e8ac4953031e809669697cde8d1" sha256="c5cadda398fd9b6f21ae8c494e58bb36d3356a52f72e3ae383c122a79e8296c4"/>
-		<rom name="mPmjRbBSuFxUlzRwhRJyuBJwQLlsOVxskIwlZZnxQhqxeuCuGLLtJkitkoIrPPcz.pkg" size="12689056" crc="e55f2001" md5="4e1294e2cc363a303174d84d1f2dcb41" sha1="e5c522d30cd024c780750cd7d9eee77cb46da33f"/>
 	</game>
 	<game name="Worms 2 - Armageddon (Europe) (Theme)" id="01434">
 		<description>Worms 2 - Armageddon (Europe) (Theme)</description>
 		<game_id>EP4064-NPEP00128_00-TWORMS2ARM000002</game_id>
-		<rom name="mPmjRbBSuFxUlzRwhRJyuBJwQLlsOVxskIwlZZnxQhqxeuCuGLLtJkitkoIrPPcz.pkg" size="12689056" crc="e55f2001" md5="4e1294e2cc363a303174d84d1f2dcb41" sha1="e5c522d30cd024c780750cd7d9eee77cb46da33f"/>
+		<rom name="mPmjRbBSuFxUlzRwhRJyuBJwQLlsOVxskIwlZZnxQhqxeuCuGLLtJkitkoIrPPcz.pkg" size="12689056" crc="e55f2001" md5="4e1294e2cc363a303174d84d1f2dcb41" sha1="e5c522d30cd024c780750cd7d9eee77cb46da33f" sha256="c6887067c2f6753527b5507e20440d877bc5d5ae221d8ffdf7c10389be76e878"/>
 		<rom name="EP4064-NPEP00128_00-TWORMS2ARM000002.rap" size="16" crc="1d274757" md5="c1cf711f9acb93665a311d59219f0902" sha1="8c474fa0a88b8c51b43faff69251d87169af9962"/>
 	</game>
 	<game name="Worms 2 - Armageddon (USA) (Theme)" id="01435">

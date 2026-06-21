@@ -4,7 +4,7 @@
 		<id>447</id>
 		<name>Sony - PlayStation 3 (PSN) (Avatars)</name>
 		<description>Sony - PlayStation 3 (PSN) (Avatars)</description>
-		<version>20260617-165313</version>
+		<version>20260620-224431</version>
 		<author>bikerspade, buckwheat, emstan784, Landcross, norkmetnoil577, rarenight</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -93,24 +93,25 @@
 	<game name="Ace Combat - Assault Horizon - Aces of Razgriz (Europe) (Avatar)" id="00014">
 		<description>Ace Combat - Assault Horizon - Aces of Razgriz (Europe) (Avatar)</description>
 		<game_id>EP0700-BLES01392_00-AVACECOMBA000018</game_id>
-		<rom name="dRyWKGQQzaDVVsuGostMNEtqbXpmabETVAPkvybFSQZpNeexozigqpCBglTFtcKR.pkg" size="102400" crc="7fe474a4" md5="3d53923b322f972215073c7a043da59e" sha1="59cc4fc8a3af60c2723f80321b3ade63b932b02c" sha256="ddd0507010484335bc43d0de64f5fd83ef54d2fd0cc96bcd2a5d36d40c869a2f"/>
+		<rom name="dRyWKGQQzaDVVsuGostMNEtqbXpmabETVAPkvybFSQZpNeexozigqpCBglTFtcKR.pkg" size="102400" crc="7fe474a4" md5="3d53923b322f972215073c7a043da59e" sha1="59cc4fc8a3af60c2723f80321b3ade63b932b02c" sha256="ddd0507010484335bc43d0de64f5fd83ef54d2fd0cc96bcd2a5d36d40c869a2f" status="verified"/>
+		<rom name="EP0700-BLES01392_00-AVACECOMBA000018.rap" size="16" crc="85f7f813" md5="0b70e4002344e7c29d60d9fb583e48a4" sha1="fd03eac2f834f21cfed5876fd0ba76e0b6e4fdc3" sha256="970c2978db283a6e3ddba5e9e81b5327df210170d1fbef8450c67c14b492c013" status="verified"/>
 	</game>
 	<game name="Ace Combat - Assault Horizon - Ghost Razgriz (Europe) (Avatar)" id="00015">
 		<description>Ace Combat - Assault Horizon - Ghost Razgriz (Europe) (Avatar)</description>
 		<game_id>EP0700-BLES01392_00-AVACECOMBA000019</game_id>
 		<rom name="agGawTckIcvbMnZWDpxfqWsdEdyjpvOncKVepRexsobGLwMGjSGXGBYtRSNFaHNo.pkg" size="102400" crc="e915afd0" md5="917f325418aecbf2a2fc17037e4247c7" sha1="65241de3ee4274889664879334dc44a69bfa8b96" sha256="1c0be7f5db3deca99c0709400392c6f799d539abb4d6ef82ff1340e0818bcdd4"/>
-		<rom name="EP0700-BLES01392_00-AVACECOMBA000019.rap" size="" mia="yes"/>
+		<rom name="EP0700-BLES01392_00-AVACECOMBA000019.rap" size="16" crc="0b0ebd04" md5="a106dd104312f85c3df2132083061867" sha1="b424f971958b08acc904cbf1645c404df430821a" sha256="5e5b608cd8391fa2d5f4364fd590a3072f7cf918669316603c93ae57b6333970"/>
 	</game>
 	<game name="Ace Combat - Assault Horizon - Mobius (Europe) (Avatar)" id="00016">
 		<description>Ace Combat - Assault Horizon - Mobius (Europe) (Avatar)</description>
 		<game_id>EP0700-BLES01392_00-AVACECOMBA000017</game_id>
 		<rom name="oOTwfkFPYenHHQhbzengbHRBWqHcJsbHqAVSZdfbuCLrkfuPKYmJAeZoQBJhbQSJ.pkg" size="102400" crc="f56cf957" md5="b050bcb0c5c080e7775f5c8fd7047008" sha1="13c92f6a6e406a1e0e4117504d1c6b9d47661d98" sha256="01a97fbed1d721c23e528040313efe8f9a96f8e0fc65421af0f83eb77f37f51d"/>
+		<rom name="EP0700-BLES01392_00-AVACECOMBA000017.rap" size="16" crc="24e490b0" md5="4b77845b371bda950b4fb91156887aa6" sha1="8f3f5229c0282986f8f5bd4bfa999d9e9091a3a8" sha256="09cde467d7afec4bb048edae61c7fb72ff050cd07695436881ff17d408c28ff5"/>
 	</game>
 	<game name="Akiba's Trip - Undead &amp; Undressed - Kati (Europe) (Avatar)" id="00017">
 		<description>Akiba's Trip - Undead &amp; Undressed - Kati (Europe) (Avatar)</description>
 		<game_id>EP1063-NPEB02125_00-AVAKIBASTR000001</game_id>
-		<rom name="EP1063-NPEB02125_00-AVAKIBASTR000001_bg_1_bbca88da4abdcf2aa391f2c30e7ba8691f261a78.pkg" size="102400" crc="d19da4fe" md5="d69f8190bfee1c57f1323a8a53ba482a" sha1="661f08ac82a0d486f5f7408e08527cec707c5cd6" sha256="9dbc8b3052310b00ff2654e9256b08340faae8449b9a9829ad8cd8d8be1928d9" status="verified"/>
-		<rom name="EP1063-NPEB02125_00-AVAKIBASTR000001.rap" size="" status="verified" mia="yes"/>
+		<rom name="EP1063-NPEB02125_00-AVAKIBASTR000001_bg_1_bbca88da4abdcf2aa391f2c30e7ba8691f261a78.pkg" size="102400" crc="d19da4fe" md5="d69f8190bfee1c57f1323a8a53ba482a" sha1="661f08ac82a0d486f5f7408e08527cec707c5cd6" sha256="9dbc8b3052310b00ff2654e9256b08340faae8449b9a9829ad8cd8d8be1928d9"/>
 	</game>
 	<game name="Alien - Isolation - Amanda Ripley (Europe) (Avatar)" id="00018">
 		<description>Alien - Isolation - Amanda Ripley (Europe) (Avatar)</description>
@@ -234,74 +235,63 @@
 	<game name="Anime - Ole Avatar 1 (Europe) (Avatar)" id="00038">
 		<description>Anime - Ole Avatar 1 (Europe) (Avatar)</description>
 		<game_id>ET0001-NPEB00130_00-AVDISRUPTI001217</game_id>
-		<rom name="udQqVetJRgCFGdBLOUmqDBoivSJcnXpuNBkDDKrBvROpfWwmhxSOOOTXBKBzVAPx.pkg" size="102400" crc="7eae18ec" md5="e2ba5289136610477fd5b56b46b36005" sha1="05b35a35e8171988a2240defb024d284efef88c3" sha256="99fba99dde7a0520655fe4e367d47bee10ab822b3e3bdaf8817842dba356169d" status="verified"/>
-		<rom name="ET0001-NPEB00130_00-AVDISRUPTI001217.rap" size="" status="verified" mia="yes"/>
+		<rom name="udQqVetJRgCFGdBLOUmqDBoivSJcnXpuNBkDDKrBvROpfWwmhxSOOOTXBKBzVAPx.pkg" size="102400" crc="7eae18ec" md5="e2ba5289136610477fd5b56b46b36005" sha1="05b35a35e8171988a2240defb024d284efef88c3" sha256="99fba99dde7a0520655fe4e367d47bee10ab822b3e3bdaf8817842dba356169d"/>
 	</game>
 	<game name="Anne Stokes - Protector 2015 (Europe) (Avatar)" id="00039">
 		<description>Anne Stokes - Protector 2015 (Europe) (Avatar)</description>
 		<game_id>ET0001-NPEB00130_00-AVDISRUPTI001367</game_id>
 		<rom name="ET0001-NPEB00130_00-AVDISRUPTI001367_bg_1_9bf8c6db5dcf00edcb6429acbb37f91253cb8a6d.pkg" size="128800" crc="1efd1f87" md5="9a55b9073045b28eeeb263f2be0584e2" sha1="0063da53f3a4e220684c9afd7e2126855c16fe20" sha256="2e8382a74cb528476c1d8cd1ecf188bd703b183b94c93e2e5dc43eb0d031ccd6"/>
-		<rom name="ET0001-NPEB00130_00-AVDISRUPTI001367.rap" size="" mia="yes"/>
+		<rom name="ET0001-NPEB00130_00-AVDISRUPTI001367.rap" size="16" crc="6bae7868" md5="22702a26400f1d293035890978b5a578" sha1="8ff48e752fac61566c2afc5f0edf64b0173d16a4" sha256="01d23ae40e93ea7d94cfed52cb09579661151bb5a9900e7e9b7eaa1ee856a654"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Captain (Europe) (Avatar)" id="00040">
 		<description>Aqua Kitty - Milk Mine Defender DX - Captain (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000006</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000006_bg_1_173cc160a6901fa30da4960b4ce38f0a6b972a78.pkg" size="102400" crc="0b20ece4" md5="1f2330dd99f3b9e9c42d6642cf3ab7c3" sha1="af5b1015ac100d734b66a3ca57d49b208860f7a7"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000006.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Engineer (Europe) (Avatar)" id="00041">
 		<description>Aqua Kitty - Milk Mine Defender DX - Engineer (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000003</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000003_bg_1_4bf66a7bbae0e337ed496b17e05448a44c35ef14.pkg" size="102400" crc="120c51b7" md5="e65be7af84aae84dfb864dae9256b1e2" sha1="5698dc298f0ad4d17b8a1e53b563d422d026a21f"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000003.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Engineer 2 (Europe) (Avatar)" id="00042">
 		<description>Aqua Kitty - Milk Mine Defender DX - Engineer 2 (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000010</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000010_bg_1_982e4bd2ec3f231616e3b5473313006dbcffa45e.pkg" size="102400" crc="07ab7d92" md5="85d27ceb47640b75babc1ad52e7a3222" sha1="4c0fdb22370d0c05b1b1585346e4d66abadd0fbd"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000010.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Keyboard Cat (Europe) (Avatar)" id="00043">
 		<description>Aqua Kitty - Milk Mine Defender DX - Keyboard Cat (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000004</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000004_bg_1_f341d2016675b82e561fbbb8db4080c6b9c5e99f.pkg" size="102400" crc="e6699261" md5="b45cca4bc8c98ea1fa2a77fa4a8e41c1" sha1="506b3c3b6633b5ba9d74927aedd95a835549b93e"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000004.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Kitty (Europe) (Avatar)" id="00044">
 		<description>Aqua Kitty - Milk Mine Defender DX - Kitty (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000002</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000002_bg_1_c86a22257331a3afbd4033698098ac0701f709a9.pkg" size="102400" crc="afee2d6b" md5="411de8fba6d20e85a92dcf9acbae02ce" sha1="9d97fdb39f0ac417cb945540e095bd4b581fd085"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000002.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Kitty 2 (Europe) (Avatar)" id="00045">
 		<description>Aqua Kitty - Milk Mine Defender DX - Kitty 2 (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000007</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000007_bg_1_ed79b590a2cab8fe48bc37ca7a9a0a8752f85293.pkg" size="102400" crc="d3637c4f" md5="2fab373a7001038fe376ba723f9598c9" sha1="e4304ebb36893d89579769ec053e2a3f4f312070"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000007.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Octopus (Europe) (Avatar)" id="00046">
 		<description>Aqua Kitty - Milk Mine Defender DX - Octopus (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000009</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000009_bg_1_36908dba1495af66ed2307936e549e5232d22c4d.pkg" size="102400" crc="470fb65d" md5="674e5167b1cbce7a8c6f540ed971bc3e" sha1="59b2d9c23e35678135a7c18682e2561b8fc898e8"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000009.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Sad Cat (Europe) (Avatar)" id="00047">
 		<description>Aqua Kitty - Milk Mine Defender DX - Sad Cat (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000001</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000001_bg_1_cf66bf117718b731805e24fcee364a4aa40aa2e2.pkg" size="102400" crc="dde525a6" md5="4068530e4f21882dd00cfd341453d35c" sha1="129087d4d9781c64c4d552f989176233df338d0a"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000001.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Support Cat (Europe) (Avatar)" id="00048">
 		<description>Aqua Kitty - Milk Mine Defender DX - Support Cat (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000008</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000008_bg_1_73c9c640aefc37f54aa21e22b41cd8daab1273ac.pkg" size="102400" crc="cd91f274" md5="59d62db9ca10790a64a26279d9a32759" sha1="f5886a0f9231300b90d1c7b3f10d1498ade40a25"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000008.rap" size="" mia="yes"/>
 	</game>
 	<game name="Aqua Kitty - Milk Mine Defender DX - Thumbs Up (Europe) (Avatar)" id="00049">
 		<description>Aqua Kitty - Milk Mine Defender DX - Thumbs Up (Europe) (Avatar)</description>
 		<game_id>EP4501-PCSB00661_00-AVAQUAKITT000005</game_id>
 		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000005_bg_1_069f8edab15ed76a86ee1f8b689fb56fa1735d42.pkg" size="102400" crc="2e21ab1f" md5="d83a976dab6fa8e96b2470d8f26d7305" sha1="e384f18b19dfc1f46a487e0ad8b6e2f7c27a9850"/>
-		<rom name="EP4501-PCSB00661_00-AVAQUAKITT000005.rap" size="" mia="yes"/>
 	</game>
 	<game name="Arcana Heart 3 - Love Max!!!!! - Heart (USA) (Avatar)" id="00050">
 		<description>Arcana Heart 3 - Love Max!!!!! - Heart (USA) (Avatar)</description>
@@ -427,13 +417,11 @@
 		<description>Assassin's Creed - Brotherhood - Ezio (Europe) (Avatar)</description>
 		<game_id>EP0001-BLES00909_00-AVASSASSIN000006</game_id>
 		<rom name="MuOFfAaHMzvHlTUzUuOBtxoQClSxxnJpVPxqRsfpMOJpfTBdkcqWGIWgUzKuMoOB.pkg" size="102400" crc="b05ce978" md5="f1de5a1d0e76c28b5e4fff938dea365a" sha1="82a1dcafbe0219a5432cc52b304250e310abf42e"/>
-		<rom name="EP0001-BLES00909_00-AVASSASSIN000006.rap" size="" mia="yes"/>
 	</game>
 	<game name="Assassin's Creed - Brotherhood - Ezio (USA) (Avatar)" id="00071">
 		<description>Assassin's Creed - Brotherhood - Ezio (USA) (Avatar)</description>
 		<game_id>UP0001-BLUS30537_00-AVAACBEZIO000000</game_id>
 		<rom name="sWFjWifHGwUhrgYWEmAflCzKfcJLLGUwpBKZnBmVstHmEzqIYlMYZsrfYOByUOwZoSaqzYKJtPxfbYFNbQulhXkrHsQDlNAiTzhHy.pkg" size="102400" crc="fd4d2c0e" md5="9fee433ebedb4767fb64a2c3ea72c30b" sha1="31c3900ecafb06afd8d22b57f0b846d48d8a399a"/>
-		<rom name="UP0001-BLUS30537_00-AVAACBEZIO000000.rap" size="" mia="yes"/>
 	</game>
 	<game name="Assassin's Creed - Brotherhood - The Harlequin (Europe) (Avatar)" id="00072">
 		<description>Assassin's Creed - Brotherhood - The Harlequin (Europe) (Avatar)</description>
@@ -834,6 +822,7 @@
 		<description>Craig &amp; Karl 2 (Europe) (Avatar)</description>
 		<game_id>EP9000-NPEA00391_00-AVASTUDIOCRAIG02</game_id>
 		<rom name="JrBsFWXrdRPIikjwAohfIRiLmPrIvnzKceKqiuooDjLIljuFSgXgGgAMstwIliqk.pkg" size="102400" crc="c8beae24" md5="4c0b38f6ae45c22be906290c86159b5f" sha1="d8d738232986f8d7efe7628f46358fd51a4ccf6c" sha256="6ffc82ce61d377134e064d6123b9c010faea5cfa02373e023a6f6b2ffd73369d"/>
+		<rom name="EP9000-NPEA00391_00-AVASTUDIOCRAIG02.rap" size="16" crc="8ace848c" md5="d396d2bb49e511f1451488119c7554ee" sha1="f83c457230f9629e51284e1b424d56fe8832ba2d" sha256="02c5e7ff23dcebd45551fcde117d8e9b2f758b5c69fdbe02b91557203dd59ee1"/>
 	</game>
 	<game name="Craig &amp; Karl 6 (Europe) (Avatar)" id="00139">
 		<description>Craig &amp; Karl 6 (Europe) (Avatar)</description>
@@ -2781,6 +2770,7 @@
 		<description>Dungeon Twister - Goblin 2 (Europe) (Avatar)</description>
 		<game_id>EP4181-NPEB00309_00-AVDUNGEONT000017</game_id>
 		<rom name="IxyKWejaCGgnWDZEgUkbCYnPcUxGkOgPRofvIADALsQjSExbyEeMJHPAjCqURRNR.pkg" size="120192" crc="9dbf9eaa" md5="b6fcc9208d42e1b530e5921db8e43eb4" sha1="62e0c29d2e62f20a91e7e2ed74d28192c5f05259" sha256="37a5c4d60000ff741a8f3fe12f15868d035a32541752fa32f876773a5905c25f"/>
+		<rom name="EP4181-NPEB00309_00-AVDUNGEONT000017.rap" size="16" crc="723439ce" md5="2734799548c1ac3afb2682d02651def4" sha1="ce6ba26ce292655e8310f41aea335d1e69a305ae" sha256="38212e94e6539fa4d07fd57ada9358560e2fa0cbab5d9988c74f9ca14c142266"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Cai Wenji (USA) (Avatar)" id="00435">
 		<description>Dynasty Warriors 7 - Cai Wenji (USA) (Avatar)</description>
@@ -2870,6 +2860,7 @@
 		<description>Dynasty Warriors 7 - Wang Yuanji (Europe) (Avatar)</description>
 		<game_id>EP4108-BLES01149_00-AVDYNASTYW000040</game_id>
 		<rom name="GLeAePDxpoIskfTusgAvtXXMxlRbJKHMVxYRipOhEHsRKhDDJQplcsZMlJAVnABP.pkg" size="104368" crc="7fc52b9e" md5="ff5a6a8523b294e5b45973e7b9f12c4a" sha1="161e19e29b6690b695911145639a8488b06812dc" sha256="2937184e7efa885af7783082b841fbfee3f5399b313ef4536e687b197e2d74cc"/>
+		<rom name="EP4108-BLES01149_00-AVDYNASTYW000040.rap" size="16" crc="bebac01a" md5="c3b7aacb4c64662589b240010d03e559" sha1="e84d9ef6ee741b7157e2c2e8610888160891131e" sha256="649033cb25819f97818a39e79e6f80f22782dd983c960ad993017983d5eb996a"/>
 	</game>
 	<game name="Dynasty Warriors 7 - Xiahou Yuan (USA) (Avatar)" id="00450">
 		<description>Dynasty Warriors 7 - Xiahou Yuan (USA) (Avatar)</description>
@@ -3351,6 +3342,7 @@
 		<description>FirstPlay - Landit Bandit - Cannibal (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000003</game_id>
 		<rom name="5yhsAx5EywbmbT5xo0gotlmnk0Uuk1nLdg8pAeUAJmm7YH89rtHeyjqktMD0eA8P.pkg" size="102400" crc="32632ddf" md5="1ee775dd80ec66ca0ba1cb258e9985ef" sha1="1944ea06da37114fca4447119176b385dbe39d31" sha256="7bb4fb594f8a6fccb1659da977cb41853c96cce3fe9a92e954f1ba9c32f4012b"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000003.rap" size="16" crc="64d647bb" md5="1eab9160c06abd20a3587b0cda1f1ef3" sha1="8afde736168de151862c759bf4ce3c3af17ec614" sha256="1495beb62830450e8f0fb1663a9ee09cdb25a9be6c71b841639d2f1abdc189f5"/>
 	</game>
 	<game name="FirstPlay - Landit Bandit - Female (Europe) (Avatar)" id="00531">
 		<description>FirstPlay - Landit Bandit - Female (Europe) (Avatar)</description>
@@ -3368,16 +3360,19 @@
 		<description>FirstPlay - Landit Bandit - Male (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000006</game_id>
 		<rom name="2cKx69IBCF1y33naqnfHBfmhG2T04a5vT0TjaEVDXW8yHQ2phINTlwYlhCkQP9wa.pkg" size="102400" crc="1a8de4f1" md5="2c34a785727999e633a493245e5e52a3" sha1="1663f4790f26308f258cb3d5e10c8b1cd0a61daf" sha256="123f706088d6b37b76ef47f1f1d0b95814b26fafcbf3ede6e399a9ac0389cfaf"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000006.rap" size="16" crc="f6f43b51" md5="d0f066ed4ce171513d4eea4238540392" sha1="1560b6772cba9dd45d3edd6d392388f06c824bb2" sha256="20e13137a4ecda6263143bc7e5e1bf128450f95f08ac01d6f70064d3386f7706"/>
 	</game>
 	<game name="FirstPlay - Monkey Island - Retro LeChuck (Europe) (Avatar)" id="00534">
 		<description>FirstPlay - Monkey Island - Retro LeChuck (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00298_00-AVFIRSTPLA000003</game_id>
 		<rom name="uUhiEtMPmzNcmGINeQPAWNfKKzyqNQtDmXuBGlSTNMyzCLWPjAVFdYEczcuFjdVG.pkg" size="102400" crc="09b77d6e" md5="c208800c1469686b759b5213a1b7e34e" sha1="d8fdfbac61fda7ba004306ef2114ce0ab93110a1" sha256="029df1406f479c2457049aac554d54d738942e56ce2e5bcdef2dc5869285fbe4"/>
+		<rom name="EP4142-NPEB00298_00-AVFIRSTPLA000003.rap" size="16" crc="84d22516" md5="876b102d90feb6adb0034239b2140c2e" sha1="aef2a0399f946085141e550033bb020c032575d1" sha256="463765aa8c8e5f3b0705383069702fa4e28ff37296fa4799d1a766b706ea146f"/>
 	</game>
 	<game name="FirstPlay - Swords &amp; Soldiers - Aztec Ruler (Europe) (Avatar)" id="00535">
 		<description>FirstPlay - Swords &amp; Soldiers - Aztec Ruler (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000012</game_id>
 		<rom name="RfDpEvBqqHAjZNcFZaWopficXPWzBHQrKVHENNIgPHsBcPmullICWYoUnBEavnti.pkg" size="102400" crc="9e0c34a2" md5="eced55359c785295f281590948e734c8" sha1="0e1b16b1a1d5dad983a00489ec8cd7184337db25" sha256="64f3dec756cfcbd502b2e2286e3a4f4a1859182227cf704508a8b35c81cad9ac"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000012.rap" size="16" crc="071a7b2e" md5="b3fb6a8c853cd3ec44afd8983c5abaa7" sha1="edb57d436812f9d645982be1fed0d71f3d3d454d" sha256="1a5649be14def8c7d50374443d20762873570cf87c1571223cc9715c2df7e064"/>
 	</game>
 	<game name="FirstPlay - Swords &amp; Soldiers - Berserker (Europe) (Avatar)" id="00536">
 		<description>FirstPlay - Swords &amp; Soldiers - Berserker (Europe) (Avatar)</description>
@@ -3401,16 +3396,19 @@
 		<description>FirstPlay - Swords &amp; Soldiers - Jaguar Warrior (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000018</game_id>
 		<rom name="CWLjWgiteqZBJbEuOgnbxXwYayoNwwFFeCrRDDcuSOvjAkRJlHNlynfzZYGuFOrF.pkg" size="102400" crc="1f167bcb" md5="ccd750a8e45f77e231e05f05d1e9c5dc" sha1="e3c33334e8781bf605b6fe6b09a7b950d8280f0e" sha256="43d38b0a790376d7ccf550bb0fc6de0e83c42528835f45b702b345f1168f4289"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000018.rap" size="16" crc="7dd7ab9d" md5="cdf4ffc31e2c8be6cf75130b40c05dfc" sha1="5b306fbac33d6de2166df9498ce1c6decd8bf7fc" sha256="5cbddb723bbd2380685d141759af15113a2e2042bc5e0f1684d41581d6804ae5"/>
 	</game>
 	<game name="FirstPlay - Swords &amp; Soldiers - Necromancer (Europe) (Avatar)" id="00540">
 		<description>FirstPlay - Swords &amp; Soldiers - Necromancer (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000014</game_id>
 		<rom name="PAmiAARxaUAGXWCgBhLSWyyveJuRfvgnovidgQuCCocsHgZMmsGoVoUKMOyIJZiX.pkg" size="102400" crc="f74cae54" md5="b18c733157f411fa0e4db04dfc4df612" sha1="790f25bd9bc9021fe998f2a48667e89412edaa09" sha256="3ae1f0251576eb8769854fa006acc298498c4934a93368509b34e35a12c33c68"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000014.rap" size="16" crc="9d89a86c" md5="1d957fa5151e615f9d153aac9d6a3841" sha1="a8d0baadf80f0b191510e6ff104335e3644186bd" sha256="77b593efd4c92180e82f656d5cae8cd8189f94b64d6b7cb978723088a7c830a4"/>
 	</game>
 	<game name="FirstPlay - Swords &amp; Soldiers - Ninja Monkey (Europe) (Avatar)" id="00541">
 		<description>FirstPlay - Swords &amp; Soldiers - Ninja Monkey (Europe) (Avatar)</description>
 		<game_id>EP4142-NPEB00325_00-AVFIRSTPLA000010</game_id>
 		<rom name="drvkAdOwgyepPMOGEXCiOpLqJySSeJvuPtGVffkqqgZcdihqsaaLoKbgHsTzNZeh.pkg" size="102400" crc="c617191a" md5="ccc0aa04383e7c112acd94b079511cfa" sha1="6145961c8215eed8f8de6d5769d28acfc1fd6d58" sha256="c55d63654b178dde047900f28f3ad37893ee61377f840c2955bd7672f796d6e4"/>
+		<rom name="EP4142-NPEB00325_00-AVFIRSTPLA000010.rap" size="16" crc="c894eb65" md5="74dcdcdf91f1aa6dd73a1acb9cb24ab2" sha1="b647ae7a3e4aa4e0aa2b2cedb757a31e10bc43ab" sha256="54931794b5c9d4a5606e7972ff991b1e8e58537e92b07a72c17997c4167360af"/>
 	</game>
 	<game name="FirstPlay - Swords &amp; Soldiers - Rocketeer (Europe) (Avatar)" id="00542">
 		<description>FirstPlay - Swords &amp; Soldiers - Rocketeer (Europe) (Avatar)</description>
@@ -4360,6 +4358,7 @@
 		<description>Hyperdimension Neptunia mk2 - JK (Europe) (Avatar)</description>
 		<game_id>EP1063-BLES01507_00-AVHYPERDIM000013</game_id>
 		<rom name="jyYeiuBIHSiypjoLiRYUDJxgeXtOiyuJcQRVFhwZfSObHBfyJFhTorVrrWIqCspC.pkg" size="102400" crc="3a3b2fca" md5="52218b14208f44f60128e1edeed2568e" sha1="061e3006c83032a46bd4a2f5fbabac895600a2e1" sha256="bd5ec31c45d5ffd44921b213d7784c5d779aaf537fc733ea2ce6dd8a8a9d43bd"/>
+		<rom name="EP1063-BLES01507_00-AVHYPERDIM000013.rap" size="16" crc="a7591858" md5="54d478345b1c191b61ef47dec926e85f" sha1="8997eb090ea3843f489103a54892b1adb90738ba" sha256="b6ee6b1a1af617feb1e1ef2003af7ecf78757ebbf9710e105a3cfdadaafb0c54"/>
 	</game>
 	<game name="Hyperdimension Neptunia mk2 - Nepgear (USA) (Avatar)" id="00698">
 		<description>Hyperdimension Neptunia mk2 - Nepgear (USA) (Avatar)</description>
@@ -4709,6 +4708,7 @@
 		<description>Jon Burgerman 14 (Europe) (Avatar)</description>
 		<game_id>EP9000-NPEA00391_00-AVASTUDIOJBURG14</game_id>
 		<rom name="ItbHpCdcqenVIygwkBXXODfacfAvTOAwpqjKzglncAZvyPGhaIXGWrFPJILbYCZS.pkg" size="102400" crc="0849321f" md5="4c6db9e7dfb087051f92f0319c745c2a" sha1="d1ec2dd0a4a28c6711647ee554366fc3713ac9fa" sha256="ff8fd7a90be9e45440a908944d12e19f9ac4385e21785607c4532cef81877a36"/>
+		<rom name="EP9000-NPEA00391_00-AVASTUDIOJBURG14.rap" size="16" crc="55e24387" md5="41210e5d63c99e4f1c92998fac127eeb" sha1="8360702b34c974292096686dda44393e511dcb5a" sha256="d361a0a546964a640da483c41f6acebffc8ae80a3ac5b706f4900a5b7a7425af"/>
 	</game>
 	<game name="Journey - Ancestor (USA) (Avatar)" id="00757">
 		<description>Journey - Ancestor (USA) (Avatar)</description>
@@ -7705,11 +7705,13 @@
 		<description>Metal Gear Solid 2 - Sons of Liberty HD (Europe) (Avatar)</description>
 		<game_id>EP0101-NPEB00685_00-AVMETALGEA000002</game_id>
 		<rom name="dCxPatXWAOSTjsbopXyvkNHXWykYZdfrVQoWCSwFgrqcTAGcVYepkPGOSdfpdoHS.pkg" size="110016" crc="60ae5db9" md5="796ee7d7c171a3bf98a4b3774df1a4b1" sha1="c5fa06cadd1dd72aec165e028bff11d8a0bb54d5"/>
+		<rom name="EP0101-NPEB00685_00-AVMETALGEA000002.rap" size="16" crc="b68eab29" md5="11e107659f9c68e912cad50771678e0b" sha1="b18d90998a5a9f0182e78056a9d61d92186c5947" sha256="3f3ac1d2736553dec0f7ede30fad2ecb23e53b1100abd6a7b97fd38dba98db8c"/>
 	</game>
 	<game name="Metal Gear Solid 3 - Snake Eater HD (Europe) (Avatar)" id="01269">
 		<description>Metal Gear Solid 3 - Snake Eater HD (Europe) (Avatar)</description>
 		<game_id>EP0101-NPEB00684_00-AVMETALGEA000001</game_id>
 		<rom name="TwmVCOoeuGZaieTyFfaPcNZYvSigIgbsngKmXZofZNayblOFSdLYVUZWmgitUQqM.pkg" size="131184" crc="7ee8546a" md5="17610c0e68e12669e45d050fd4590b15" sha1="58313b7326440f6e552e9b191e028e93f19b5660"/>
+		<rom name="EP0101-NPEB00684_00-AVMETALGEA000001.rap" size="16" crc="6979225f" md5="d3ec0340a80fcf22753061ea172150cd" sha1="b146204ce4dbed09b86bf4d5ba1b217a1bf246d6" sha256="6112347d958d5e84eb38bb853525ce8819946210d97dc8231c3e23c4b91e1efd"/>
 	</game>
 	<game name="MLB 12 - The Show - Cubs (USA) (Avatar)" id="01270">
 		<description>MLB 12 - The Show - Cubs (USA) (Avatar)</description>
@@ -8252,6 +8254,7 @@
 		<description>Oddworld - Stranger's Wrath HD - Oddworld Moon (Europe) (Avatar)</description>
 		<game_id>EP4134-NPEB00645_00-AVODDWORLD000003</game_id>
 		<rom name="greUOzvludDoSEtOipSmjfLQVAvslslbrhcBbwUQoDbzfrvZAVptEUdhaApTMeXA.pkg" size="105280" crc="3cb14be1" md5="31424785634766de29d73aa96a479ace" sha1="616aab1777380bde5fb20b04f5bea6ba2e8b311b" sha256="f2d68ad0224e9e3286ae04490479b6422d81228073712ee3db70f3cfe03929b5"/>
+		<rom name="EP4134-NPEB00645_00-AVODDWORLD000003.rap" size="16" crc="fab8d81d" md5="53b4efbea08ce407250323fbf60b1725" sha1="6738798697289543faefdf66928683c99ac6ed5f" sha256="cf7c44569e5e429c356b3db70580a51bee61d19bc52edde5eb75f10e30701f3d"/>
 	</game>
 	<game name="Oddworld - Stranger's Wrath HD - Steef (Europe) (Avatar)" id="01361">
 		<description>Oddworld - Stranger's Wrath HD - Steef (Europe) (Avatar)</description>
@@ -10200,6 +10203,7 @@
 		<description>Remember Me - Nilin 2 (Europe) (Avatar)</description>
 		<game_id>EP0102-BLES01701_00-AVREMEMBER000002</game_id>
 		<rom name="gGJiSNhVIpIKvNpcDLYFycYLqwQbycApNMnzigqMIqAlhSMlqsZLrsOZFjeJLyIN.pkg" size="109888" crc="747168f0" md5="b6b266827057916041459d9e613e1492" sha1="45615147849ad5c31b71fcede9360748c4b3d37d" sha256="8807d3248460d8246fb49db0b14e34532569b4ff762880d04adfff7fd6f14c81"/>
+		<rom name="EP0102-BLES01701_00-AVREMEMBER000002.rap" size="16" crc="44640978" md5="25f71dcea42b042b0fbcfe1c8052615d" sha1="55c28d9a57dbf037628ee6b1fab281abc8e25d98" sha256="0f485789d10c707bb6660b48f757662475f262ace902d5ec6cf9f8f97ce5a4e1"/>
 	</game>
 	<game name="Remember Me - Nilin 3 (USA) (Avatar)" id="01674">
 		<description>Remember Me - Nilin 3 (USA) (Avatar)</description>
@@ -10837,6 +10841,12 @@
 		<game_id>UP0101-BLUS30810_00-AVASH2REDPYRAMID</game_id>
 		<rom name="KQZBfRDXOUBvGhiiuxHbkCegOGzJsulGIcpDUwThSnkTBeZSbHbAflWLaGZAQwTILckjwRlwnfMLjYcTdyihzuuOOfgiNMxgsjhLb.pkg" size="116784" crc="7cd8e252" md5="9994e8c100c8f079b190215e051e27bf" sha1="0d33898570f7a20f4361604711a3c00a52876c07"/>
 		<rom name="UP0101-BLUS30810_00-AVASH2REDPYRAMID.rap" size="16" crc="63beeceb" md5="48cbe5ab396ede729263eb2cda182f91" sha1="ce18940c6c3a8b9f5b6674985ea3da76396777d7"/>
+	</game>
+	<game name="Silent Hill HD Collection - Silent Hill 2 - James (USA) (Avatar)" id="02185">
+		<description>Silent Hill HD Collection - Silent Hill 2 - James (USA) (Avatar)</description>
+		<game_id>UP0101-BLUS30810_00-AVASH2JAMES00000</game_id>
+		<rom name="HgJxzwNXXGDuHRmXOsRSKRgRsslYjhQSJvsMShusJNTRiyCEmASQjUNqkNcaKYXqHSNvKFTstIZsasZWpLhpTPghdnUfvQnAmHytb.pkg" size="104304" crc="c1ca2023" md5="6f5e95b88af7c4b99aea1ed958992189" sha1="19223712b8722e68e5a7fa6f2f18a1ae4db8069b" sha256="b38703f5ffef588d9f1b0b07667c6287cd1c08bf57d48823f1aaed6498f3e3d9"/>
+		<rom name="UP0101-BLUS30810_00-AVASH2JAMES00000.rap" size="16" crc="b2034fdf" md5="6bd81910161570b22a983c8e51b71640" sha1="fde114674c9a77d2690c65d27afa537d751a41ca" sha256="0d1002bce7411aea02c37b9a1c91175e1a45e52004d88c8b51498f114a41a911"/>
 	</game>
 	<game name="SingStar - Rising Star (Europe) (Avatar)" id="01778">
 		<description>SingStar - Rising Star (Europe) (Avatar)</description>
@@ -13396,11 +13406,6 @@
 		<description>UP0101-BLUS30810_00-AVASH2EDDIE00000 (USA) (Avatar)</description>
 		<game_id>UP0101-BLUS30810_00-AVASH2EDDIE00000</game_id>
 		<rom name="sTWsNExTnbxbQAKuQNueciNqzEfdKkhLsuQxrcTCukjJnuYyzVkukyTvgIbbNlfhjtzhbKVQVKVUiqKEJJyHlGpIMkDFsVLmSqoeJ.pkg" size="102400" crc="38d3793d" md5="07e704f2d2c5e683c0bbc6982e747b14" sha1="cdb6027a3809daf504d9d69a3237303f83ae4581" sha256="ddee5a67994cdecc5e99d6f73425cd39cc4a3c61c0c8312b43c18bb47b8fde36"/>
-	</game>
-	<game name="UP0101-BLUS30810_00-AVASH2JAMES00000 (USA) (Avatar)" id="02185">
-		<description>UP0101-BLUS30810_00-AVASH2JAMES00000 (USA) (Avatar)</description>
-		<game_id>UP0101-BLUS30810_00-AVASH2JAMES00000</game_id>
-		<rom name="HgJxzwNXXGDuHRmXOsRSKRgRsslYjhQSJvsMShusJNTRiyCEmASQjUNqkNcaKYXqHSNvKFTstIZsasZWpLhpTPghdnUfvQnAmHytb.pkg" size="104304" crc="c1ca2023" md5="6f5e95b88af7c4b99aea1ed958992189" sha1="19223712b8722e68e5a7fa6f2f18a1ae4db8069b" sha256="b38703f5ffef588d9f1b0b07667c6287cd1c08bf57d48823f1aaed6498f3e3d9"/>
 	</game>
 	<game name="UP0101-BLUS30810_00-AVASH2LAURA00000 (USA) (Avatar)" id="02186">
 		<description>UP0101-BLUS30810_00-AVASH2LAURA00000 (USA) (Avatar)</description>
